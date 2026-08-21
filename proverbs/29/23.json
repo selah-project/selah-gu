@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 29:23",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 29,
+  "translation": "માણસનો ગર્વ તેને નીચો કરશે, અને નમ્ર આત્માવાળાને માન ટકાવી રાખશે.",
+  "tokens": [
+    {
+      "surface": "גאות",
+      "gloss": "ગર્વ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "માણસનો"
+    },
+    {
+      "surface": "תשפילנו",
+      "gloss": "તેને નીચો કરશે"
+    },
+    {
+      "surface": "ושפל",
+      "gloss": "અને નમ્ર"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "આત્માવાળાને"
+    },
+    {
+      "surface": "יתמך",
+      "gloss": "ટકાવી રાખશે"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "માન"
+    }
+  ],
+  "timestamp": "2026-08-21T17:02:55.888350168Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 22:27",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 22,
+  "translation": "જો તારી પાસે ચૂકવવાનું કંઈ નથી, તો તે તારા પલંગને તારી નીચેથી કેમ લઈ લે?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "જો"
+    },
+    {
+      "surface": "אין",
+      "gloss": "નથી"
+    },
+    {
+      "surface": "לך",
+      "gloss": "તારી પાસે"
+    },
+    {
+      "surface": "לשלם",
+      "gloss": "ચૂકવવાનું"
+    },
+    {
+      "surface": "למה",
+      "gloss": "કેમ"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "તે લઈ લે"
+    },
+    {
+      "surface": "משכבך",
+      "gloss": "તારા પલંગને"
+    },
+    {
+      "surface": "מתחתיך",
+      "gloss": "તારી નીચેથી"
+    }
+  ],
+  "timestamp": "2026-08-21T17:00:19.412528397Z",
+  "model": "glm-5.3"
+}

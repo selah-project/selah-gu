@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 10:4",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 10,
+  "translation": "કપટી હાથવાળો દરિદ્ર થાય છે, પણ કાર્યશીલ હાથ ધનવાન બનાવે છે.",
+  "tokens": [
+    {
+      "surface": "ראש",
+      "gloss": "દરિદ્ર થાય છે"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "કર્યો કરનાર"
+    },
+    {
+      "surface": "כף",
+      "gloss": "હાથવાળો"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "કપટી"
+    },
+    {
+      "surface": "ויד",
+      "gloss": "પણ હાથ"
+    },
+    {
+      "surface": "חרוצים",
+      "gloss": "કાર્યશીલ"
+    },
+    {
+      "surface": "תעשיר",
+      "gloss": "ધનવાન બનાવે છે"
+    }
+  ],
+  "timestamp": "2026-08-21T16:54:49.748038239Z",
+  "model": "glm-5.3"
+}

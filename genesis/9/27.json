@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 9:27",
+  "book": "genesis",
+  "lang": "gu",
+  "chapter": 9,
+  "translation": "એલોહીમ યાફેતને વિશાળ કરે, અને ⟨તે⟩ શેમનાં ડેરાઓમાં વસે; અને કનાન ⟨તેમનો⟩ દાસ થાય.",
+  "tokens": [
+    {
+      "surface": "יפת",
+      "gloss": "વિશાળ કરે"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "એલોહીમ"
+    },
+    {
+      "surface": "ליפת",
+      "gloss": "યાફેતને"
+    },
+    {
+      "surface": "וישכן",
+      "gloss": "અને વસે"
+    },
+    {
+      "surface": "באהלי",
+      "gloss": "…માં ડેરાઓ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "શેમ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "અને થાય"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "કનાન"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "દાસ"
+    },
+    {
+      "surface": "למו",
+      "gloss": "તેમનો"
+    }
+  ],
+  "timestamp": "2026-08-21T10:40:23.930328206Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 3:9",
+  "book": "genesis",
+  "lang": "gu",
+  "chapter": 3,
+  "translation": "અને યાહવે એલોહીમે મનુષ્યને બોલાવ્યો અને તેને કહ્યું, “તું ક્યાં છે?”",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "બોલાવ્યો"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "એલોહીમ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "પ્રતિ"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "મનુષ્ય"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "અને કહ્યું"
+    },
+    {
+      "surface": "לו",
+      "gloss": "તેને"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "ક્યાં છે તું"
+    }
+  ],
+  "timestamp": "2026-08-21T10:38:36.597776651Z",
+  "model": "glm-5.3"
+}

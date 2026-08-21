@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 14:20",
+  "book": "deuteronomy",
+  "lang": "gu",
+  "chapter": 14,
+  "translation": "જે કંઈ શુદ્ધ પક્ષી છે તે બધું તમે ખાઈ શકો.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "જે કંઈ"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "પક્ષી"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "શુદ્ધ"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "તમે ખાઈ શકો"
+    }
+  ],
+  "timestamp": "2026-08-21T12:19:35.020871165Z",
+  "model": "glm-5.3"
+}

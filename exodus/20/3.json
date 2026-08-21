@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 20:3",
+  "book": "exodus",
+  "lang": "gu",
+  "chapter": 20,
+  "translation": "મારા ચહેરા સામે તારા માટે બીજા એલોહીમ ન હોવા જોઈએ.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ન"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "હોવા જોઈએ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "તારા માટે"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "એલોહીમ"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "બીજા"
+    },
+    {
+      "surface": "על",
+      "gloss": "સામે"
+    },
+    {
+      "surface": "פני",
+      "gloss": "મારા ચહેરા"
+    }
+  ],
+  "timestamp": "2026-08-21T11:16:17.683442940Z",
+  "model": "glm-5.3"
+}

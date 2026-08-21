@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 42:7",
+  "book": "jeremiah",
+  "lang": "gu",
+  "chapter": 42,
+  "translation": "અને દસ દિવસના અંતે યાહવેનો વચન યિર્મેયાહુ પાસે આવ્યું.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "અને … થયું"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "અંતે"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "દસ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "દિવસના"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "આવ્યું"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "વચન"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવેનો"
+    },
+    {
+      "surface": "אל",
+      "gloss": "પાસે"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "યિર્મેયાહુ"
+    }
+  ],
+  "timestamp": "2026-08-21T15:10:09.290211631Z",
+  "model": "glm-5.3"
+}

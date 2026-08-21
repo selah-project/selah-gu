@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 30:18",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 30,
+  "translation": "ત્રણ વસ્તુઓ છે જે મારાથી અદ્ભુત છે, અને ચાર જે હું જાણતો નથી.",
+  "tokens": [
+    {
+      "surface": "שלשה",
+      "gloss": "ત્રણ"
+    },
+    {
+      "surface": "המה",
+      "gloss": "તે"
+    },
+    {
+      "surface": "נפלאו",
+      "gloss": "અદ્ભુત થયાં"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "મારાથી"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "અને ચાર"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નહિ"
+    },
+    {
+      "surface": "ידעתים",
+      "gloss": "જાણતો નથી તેમને"
+    }
+  ],
+  "timestamp": "2026-08-21T17:03:47.817180249Z",
+  "model": "glm-5.3"
+}

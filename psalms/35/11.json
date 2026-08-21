@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 35:11",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 35,
+  "translation": "હિંસાના સાક્ષીઓ ઊઠશે; જે હું જાણતો નથી તે મારી પાસે પૂછશે.",
+  "tokens": [
+    {
+      "surface": "יקומון",
+      "gloss": "ઊઠશે"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "સાક્ષીઓ"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "હિંસાના"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જે"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નથી"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "હું જાણતો"
+    },
+    {
+      "surface": "ישאלוני",
+      "gloss": "મારી પાસે પૂછશે"
+    }
+  ],
+  "timestamp": "2026-08-21T16:18:30.210526503Z",
+  "model": "glm-5.3"
+}

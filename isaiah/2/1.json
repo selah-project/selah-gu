@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 2:1",
+  "book": "isaiah",
+  "lang": "gu",
+  "chapter": 2,
+  "translation": "જે વચન યશાયાહુ, આમોત્સના પુત્રે, યહૂદા અને યરૂશાલાયિમ વિષે જોયું.",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "જે વચન"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જે"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "જોયું"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "યશાયાહુ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "પુત્ર"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "આમોત્સ"
+    },
+    {
+      "surface": "על",
+      "gloss": "વિષે"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "યહૂદા"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "અને યરૂશાલાયિમ"
+    }
+  ],
+  "timestamp": "2026-08-21T14:12:29.844573679Z",
+  "model": "glm-5.3"
+}

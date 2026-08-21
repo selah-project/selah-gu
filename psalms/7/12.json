@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 7:12",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 7,
+  "translation": "એલોહીમ ન્યાયી ન્યાયાધીશ ⟨છે⟩, અને એલ દરરોજ ક્રોધિત ⟨છે⟩.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "એલોહીમ"
+    },
+    {
+      "surface": "שופט",
+      "gloss": "ન્યાયાધીશ"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ન્યાયી"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "અને એલ"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "ક્રોધિત"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "દરરોજ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "(દર) રોજ"
+    }
+  ],
+  "timestamp": "2026-08-21T16:09:40.320600410Z",
+  "model": "glm-5.3"
+}

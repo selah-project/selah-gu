@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 31:25",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 31,
+  "translation": "અને યાહવે મૂશાને બોલ્યા, કહેતા:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "અને બોલ્યા"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ને તરફ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "મૂશાને"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "કહેતા"
+    }
+  ],
+  "timestamp": "2026-08-21T12:07:56.423707642Z",
+  "model": "glm-5.3"
+}

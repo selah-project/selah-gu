@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 14:25",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 14,
+  "translation": "સત્યનો સાક્ષી પ્રાણોને ઉગારે છે, પણ જે જૂઠાણાં ફૂંકે છે તે ⟨છળ⟩ છે.",
+  "tokens": [
+    {
+      "surface": "מציל",
+      "gloss": "ઉગારે છે"
+    },
+    {
+      "surface": "נפשות",
+      "gloss": "પ્રાણોને"
+    },
+    {
+      "surface": "עד",
+      "gloss": "સાક્ષી"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "સત્યનો"
+    },
+    {
+      "surface": "ויפח",
+      "gloss": "પણ…ફૂંકે છે"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "જૂઠાણાં"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "છળ"
+    }
+  ],
+  "timestamp": "2026-08-21T16:56:53.209674748Z",
+  "model": "glm-5.3"
+}

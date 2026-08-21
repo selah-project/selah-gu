@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 5:10",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 5,
+  "translation": "નહીં તો પરકીઓ તારા બળથી તૃપ્ત થાય, અને તારી મહેનત પરદેશીના ઘરમાં ⟨જાય⟩.",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "નહીં તો"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "તૃપ્ત થાય"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "પરકીઓ"
+    },
+    {
+      "surface": "כחך",
+      "gloss": "તારા બળથી"
+    },
+    {
+      "surface": "ועצביך",
+      "gloss": "અને તારી મહેનત"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "ઘરમાં"
+    },
+    {
+      "surface": "נכרי",
+      "gloss": "પરદેશીના"
+    }
+  ],
+  "timestamp": "2026-08-21T16:52:03.578613152Z",
+  "model": "glm-5.3"
+}

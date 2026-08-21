@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "joshua 19:44",
+  "book": "joshua",
+  "lang": "gu",
+  "chapter": 19,
+  "translation": "અને એલ્તેકે, અને ગિબ્બેથોન, અને બાઆલા.",
+  "tokens": [
+    {
+      "surface": "ואלתקה",
+      "gloss": "અને એલ્તેકે"
+    },
+    {
+      "surface": "וגבתון",
+      "gloss": "અને ગિબ્બેથોન"
+    },
+    {
+      "surface": "ובעלת",
+      "gloss": "અને બાઆલા"
+    }
+  ],
+  "timestamp": "2026-08-21T12:41:42.184708070Z",
+  "model": "glm-5.3"
+}

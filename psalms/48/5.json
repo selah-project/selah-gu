@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 48:5",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 48,
+  "translation": "કેમ કે જુઓ, રાજાઓ ભેગા થયા, તેઓ સાથે મળીને આગળ વધ્યા.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "કેમ કે"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "જુઓ"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "રાજાઓ"
+    },
+    {
+      "surface": "נועדו",
+      "gloss": "ભેગા થયા"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "આગળ વધ્યા"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "સાથે મળીને"
+    }
+  ],
+  "timestamp": "2026-08-21T16:22:58.255904404Z",
+  "model": "glm-5.3"
+}

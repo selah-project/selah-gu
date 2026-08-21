@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 26:11",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 26,
+  "translation": "જેમ કૂતરો ⟨returns⟩ પોતાની ઉલટી પર પાછો ફરે છે, તેમ મૂર્ખ ⟨repeats⟩ પોતાની મૂર્ખાઈમાં ફરી પાછો આવે છે।",
+  "tokens": [
+    {
+      "surface": "ככלב",
+      "gloss": "જેમ કૂતરો"
+    },
+    {
+      "surface": "שב",
+      "gloss": "પાછો ફરે છે"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "קאו",
+      "gloss": "પોતાની ઉલટી"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "તેમ મૂર્ખ"
+    },
+    {
+      "surface": "שונה",
+      "gloss": "ફરી પાછો આવે છે"
+    },
+    {
+      "surface": "באולתו",
+      "gloss": "પોતાની મૂર્ખાઈમાં"
+    }
+  ],
+  "timestamp": "2026-08-21T17:01:40.000387133Z",
+  "model": "glm-5.3"
+}

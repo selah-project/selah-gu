@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 5:9",
+  "book": "ecclesiastes",
+  "lang": "gu",
+  "chapter": 5,
+  "translation": "જે ચાંદી પ્રેમ કરે છે તે ચાંદીથી સંતુષ્ટ થતો નથી, અને જે ધન પ્રેમ કરે છે તેને આવક મળતી નથી; આ પણ હેબેલ છે.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "પ્રેમ કરે છે"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ચાંદી"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નથી"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "સંતુષ્ટ થતો"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ચાંદીથી"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "અને જે"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "પ્રેમ કરે છે"
+    },
+    {
+      "surface": "בהמון",
+      "gloss": "ધન"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નથી"
+    },
+    {
+      "surface": "תבואה",
+      "gloss": "આવક"
+    },
+    {
+      "surface": "גם",
+      "gloss": "પણ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "આ"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "હેબેલ"
+    }
+  ],
+  "timestamp": "2026-08-21T17:31:16.472193032Z",
+  "model": "glm-5.3"
+}

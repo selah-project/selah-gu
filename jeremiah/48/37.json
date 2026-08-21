@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "jeremiah 48:37",
+  "book": "jeremiah",
+  "lang": "gu",
+  "chapter": 48,
+  "translation": "કેમ કે દરેક મસ્તક ટાલું છે અને દરેક દાઢી કાઢી નાખી છે; દરેક હાથો પર ઘા છે અને કમરો પર કાપડ છે.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "કેમ કે"
+    },
+    {
+      "surface": "כל",
+      "gloss": "દરેક"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "મસ્તક"
+    },
+    {
+      "surface": "קרחה",
+      "gloss": "ટાલું"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "અને દરેક"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "દાઢી"
+    },
+    {
+      "surface": "גרעה",
+      "gloss": "કાઢી નાખી છે"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "כל",
+      "gloss": "દરેક"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "હાથો"
+    },
+    {
+      "surface": "גדדת",
+      "gloss": "ઘા"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "અને પર"
+    },
+    {
+      "surface": "מתנים",
+      "gloss": "કમરો"
+    },
+    {
+      "surface": "שק",
+      "gloss": "કાપડ"
+    }
+  ],
+  "timestamp": "2026-08-21T18:50:27.854171812Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 15:14",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 15,
+  "translation": "સમજણવાળું હૃદય જ્ઞાન શોધે છે, પણ મૂર્ખોના ચહેરા મૂર્ખાઈ ચરાવે છે.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "હૃદય"
+    },
+    {
+      "surface": "נבון",
+      "gloss": "સમજણવાળું"
+    },
+    {
+      "surface": "יבקש",
+      "gloss": "શોધે છે"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "જ્ઞાન"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "પણ ચહેરા"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "મૂર્ખોના"
+    },
+    {
+      "surface": "ירעה",
+      "gloss": "ચરાવે છે"
+    },
+    {
+      "surface": "אולת",
+      "gloss": "મૂર્ખાઈ"
+    }
+  ],
+  "timestamp": "2026-08-21T16:57:32.295866042Z",
+  "model": "glm-5.3"
+}

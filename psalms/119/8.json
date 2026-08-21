@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 119:8",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 119,
+  "translation": "⟨את⟩ તારાં હુકમો હું રાખીશ; મને સદંતર છોડી ન દે.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "તારાં હુકમો"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "તારાં હુકમો"
+    },
+    {
+      "surface": "אשמר",
+      "gloss": "હું રાખીશ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ન દે"
+    },
+    {
+      "surface": "תעזבני",
+      "gloss": "મને છોડી"
+    },
+    {
+      "surface": "עד",
+      "gloss": "સદંતર...સુધી"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "સંપૂર્ણપણે"
+    }
+  ],
+  "timestamp": "2026-08-21T16:42:51.643012083Z",
+  "model": "glm-5.3"
+}

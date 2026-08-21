@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 5:7",
+  "book": "deuteronomy",
+  "lang": "gu",
+  "chapter": 5,
+  "translation": "તારા માટે મારા મુખની સામે બીજા એલોહીમ ન હોવા જોઈએ.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "હોવા જોઈઐ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "તારા માટે"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "એલોહીમ"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "બીજા"
+    },
+    {
+      "surface": "על",
+      "gloss": "સામે"
+    },
+    {
+      "surface": "פני",
+      "gloss": "મુખની"
+    }
+  ],
+  "timestamp": "2026-08-21T12:14:23.598784063Z",
+  "model": "glm-5.3"
+}

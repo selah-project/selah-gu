@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 32:10",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 32,
+  "translation": "અને યાહવેનો ક્રોધ તે દિવસે ભડક્યો, અને તેમણે સોગંદ લીધો કહેતા:",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "ભડક્યો"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ક્રોધ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવેનો"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "દિવસે"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "તે"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "સોગંદ લીધો"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "કહેતા"
+    }
+  ],
+  "timestamp": "2026-08-21T12:08:27.477670939Z",
+  "model": "glm-5.3"
+}

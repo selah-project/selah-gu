@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 32:1",
+  "book": "deuteronomy",
+  "lang": "gu",
+  "chapter": 32,
+  "translation": "હે આકાશો, કાન ધરો અને હું બોલીશ; અને પૃથ્વી મારા મુખનાં વચનો સાંભળે.",
+  "tokens": [
+    {
+      "surface": "האזינו",
+      "gloss": "કાન ધરો"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "હે આકાશો"
+    },
+    {
+      "surface": "ואדברה",
+      "gloss": "અને હું બોલીશ"
+    },
+    {
+      "surface": "ותשמע",
+      "gloss": "અને સાંભળે"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "પૃથ્વી"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "વચનો"
+    },
+    {
+      "surface": "פי",
+      "gloss": "મારા મુખનાં"
+    }
+  ],
+  "timestamp": "2026-08-21T12:31:04.215409335Z",
+  "model": "glm-5.3"
+}

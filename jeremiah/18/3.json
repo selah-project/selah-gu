@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 18:3",
+  "book": "jeremiah",
+  "lang": "gu",
+  "chapter": 18,
+  "translation": "અને હું કુંભારના ઘરે ઊતર્યો, અને તે જુઓ, તે પારડા પર કામ કરી રહ્યો હતો.",
+  "tokens": [
+    {
+      "surface": "וארד",
+      "gloss": "અને હું ઊતર્યો"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ઘરે"
+    },
+    {
+      "surface": "היוצר",
+      "gloss": "કુંભારના"
+    },
+    {
+      "surface": "והנהו",
+      "gloss": "અને તે જુઓ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "કરી રહ્યો હતો"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "કામ"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "પારડા"
+    }
+  ],
+  "timestamp": "2026-08-21T18:49:30.730272926Z",
+  "model": "glm-5.3"
+}

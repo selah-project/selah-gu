@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 16:23",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 16,
+  "translation": "યાહવેને ગાવો, આખી પૃથ્વી; દિવસથી દિવસ સુધી ⟨એની⟩ મુક્તિનો સાર જાહેર કરો.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "ગાવો"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "યાહવેને"
+    },
+    {
+      "surface": "כל",
+      "gloss": "આખી"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "પૃથ્વી"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "સાર જાહેર કરો"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "દિવસથી"
+    },
+    {
+      "surface": "אל",
+      "gloss": "સુધી"
+    },
+    {
+      "surface": "יום",
+      "gloss": "દિવસ"
+    },
+    {
+      "surface": "ישועתו",
+      "gloss": "⟨એની⟩ મુક્તિ"
+    }
+  ],
+  "timestamp": "2026-08-21T18:06:29.851118084Z",
+  "model": "glm-5.3"
+}

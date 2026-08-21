@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 5:11",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 5,
+  "translation": "અને ગાદના પુત્રો તેમની સામે બાશાન દેશમાં, સાલખા સુધી રહેતા હતા.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "અને પુત્રો"
+    },
+    {
+      "surface": "גד",
+      "gloss": "ગાદના"
+    },
+    {
+      "surface": "לנגדם",
+      "gloss": "તેમની સામે"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "રહેતા હતા"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "દેશમાં"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "બાશાન"
+    },
+    {
+      "surface": "עד",
+      "gloss": "સુધી"
+    },
+    {
+      "surface": "סלכה",
+      "gloss": "સાલખા"
+    }
+  ],
+  "timestamp": "2026-08-21T18:01:42.719045036Z",
+  "model": "glm-5.3"
+}

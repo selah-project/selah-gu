@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 25:24",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 25,
+  "translation": "છતના ખૂણા પર બેસવું સારું, કટકાવાળી સ્ત્રી અને વિશાળ ઘર કરતાં.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "સારું"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "બેસવું"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "פנת",
+      "gloss": "ખૂણા"
+    },
+    {
+      "surface": "גג",
+      "gloss": "છતના"
+    },
+    {
+      "surface": "מאשת",
+      "gloss": "સ્ત્રી કરતાં"
+    },
+    {
+      "surface": "מדונים",
+      "gloss": "કટકાવાળી"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "અને ઘર"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "વિશાળ\/ભાગીદારીનું"
+    }
+  ],
+  "timestamp": "2026-08-21T17:00:52.141283616Z",
+  "model": "glm-5.3"
+}

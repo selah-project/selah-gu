@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 68:1",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 68,
+  "translation": "વાદક-સંચાલક માટે; દાવિદનો; એક મિઝમોર, એક ગીત.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "વાદક-સંચાલક માટે"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "દાવિદનો"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "મિઝમોર"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "ગીત"
+    }
+  ],
+  "timestamp": "2026-08-21T16:27:47.621718791Z",
+  "model": "glm-5.3"
+}

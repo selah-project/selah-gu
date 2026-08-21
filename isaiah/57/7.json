@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 57:7",
+  "book": "isaiah",
+  "lang": "gu",
+  "chapter": 57,
+  "translation": "ઊંચા અને ઉઠેલા પર્વત પર તેં પોતાનું પલંગ મૂક્યું; ત્યાં પણ તું બલિ આપવા ચઢી ગઈ.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "הר",
+      "gloss": "પર્વત"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "ઊંચા"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "અને ઉઠેલા"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "તેં મૂક્યું"
+    },
+    {
+      "surface": "משכבך",
+      "gloss": "પોતાનું પલંગ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "પણ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ત્યાં"
+    },
+    {
+      "surface": "עלית",
+      "gloss": "તું ચઢી ગઈ"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "બલિ આપવા"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "બલિ"
+    }
+  ],
+  "timestamp": "2026-08-21T14:39:04.088448027Z",
+  "model": "glm-5.3"
+}

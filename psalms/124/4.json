@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 124:4",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 124,
+  "translation": "ત્યારે પાણીઓ આપણને ડૂબાડી દેતાં, ઝરણો આપણા પ્રાણ પર વહેત જાત,",
+  "tokens": [
+    {
+      "surface": "אזי",
+      "gloss": "ત્યારે"
+    },
+    {
+      "surface": "המים",
+      "gloss": "પાણીઓ"
+    },
+    {
+      "surface": "שטפונו",
+      "gloss": "આપણને ડૂબાડી દેતાં"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "ઝરણો"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "વહેત જાત"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "આપણા પ્રાણ"
+    }
+  ],
+  "timestamp": "2026-08-21T16:46:35.985625164Z",
+  "model": "glm-5.3"
+}

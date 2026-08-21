@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 23:8",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 23,
+  "translation": "લાદાનનાં પુત્રો — મુખ્ય યેહીએલ, અને ઝેતામ, અને યોએલ; ત્રણ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "לעדן",
+      "gloss": "લાદાનનાં"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "મુખ્ય"
+    },
+    {
+      "surface": "יחיאל",
+      "gloss": "યેહીએલ"
+    },
+    {
+      "surface": "וזתם",
+      "gloss": "અને ઝેતામ"
+    },
+    {
+      "surface": "ויואל",
+      "gloss": "અને યોએલ"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "ત્રણ"
+    }
+  ],
+  "timestamp": "2026-08-21T18:10:50.012469412Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "leviticus 14:50",
+  "book": "leviticus",
+  "lang": "gu",
+  "chapter": 14,
+  "translation": "અને તે ⟨את⟩ એક પક્ષીને માટીના પાત્રમાં, જીવંત પાણી ઉપર વધેરશે।",
+  "tokens": [
+    {
+      "surface": "ושחט",
+      "gloss": "અને તે વધેરશે"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "એક પક્ષી"
+    },
+    {
+      "surface": "הצפר",
+      "gloss": "પક્ષી"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "એક"
+    },
+    {
+      "surface": "אל",
+      "gloss": "માં\/તરફ"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "પાત્ર"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "માટીનું"
+    },
+    {
+      "surface": "על",
+      "gloss": "ઉપર"
+    },
+    {
+      "surface": "מים",
+      "gloss": "પાણી"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "જીવંત"
+    }
+  ],
+  "timestamp": "2026-08-21T11:36:54.950400804Z",
+  "model": "glm-5.3"
+}

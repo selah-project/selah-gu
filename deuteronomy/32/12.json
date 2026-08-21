@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 32:12",
+  "book": "deuteronomy",
+  "lang": "gu",
+  "chapter": 32,
+  "translation": "યાહવે એ જ એકલા તેને દોરી ગયો, અને તેની સાથે કોઈ પરદેશી એલ ન હતો.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "בדד",
+      "gloss": "એકલા"
+    },
+    {
+      "surface": "ינחנו",
+      "gloss": "તેને દોરી ગયો"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "અને ન હતો"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "તેની સાથે"
+    },
+    {
+      "surface": "אל",
+      "gloss": "એલ (દેવ)"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "પરદેશી"
+    }
+  ],
+  "timestamp": "2026-08-21T12:30:28.012849348Z",
+  "model": "glm-5.3"
+}

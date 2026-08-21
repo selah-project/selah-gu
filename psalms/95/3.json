@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 95:3",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 95,
+  "translation": "કેમ કે એલ મહાન છે યાહવે, અને સર્વ એલોહીમ પર મહાન રાજા ⟨છે⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "કેમ કે"
+    },
+    {
+      "surface": "אל",
+      "gloss": "એલ"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "મહાન"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "અને રાજા"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "મહાન"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "כל",
+      "gloss": "સર્વ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "એલોહીમ"
+    }
+  ],
+  "timestamp": "2026-08-21T16:36:30.033731857Z",
+  "model": "glm-5.3"
+}

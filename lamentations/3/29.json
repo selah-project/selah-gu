@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "lamentations 3:29",
+  "book": "lamentations",
+  "lang": "gu",
+  "chapter": 3,
+  "translation": "તે પોતાનું મુખ ધૂળમાં મૂકે — કદાચ ત્યાં આશા હોય.",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "મૂકે"
+    },
+    {
+      "surface": "בעפר",
+      "gloss": "ધૂળમાં"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "પોતાનું મુખ"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "કદાચ"
+    },
+    {
+      "surface": "יש",
+      "gloss": "હોય"
+    },
+    {
+      "surface": "תקוה",
+      "gloss": "આશા"
+    }
+  ],
+  "timestamp": "2026-08-21T17:25:32.743691416Z",
+  "model": "glm-5.3"
+}

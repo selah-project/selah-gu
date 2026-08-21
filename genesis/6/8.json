@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 6:8",
+  "book": "genesis",
+  "lang": "gu",
+  "chapter": 6,
+  "translation": "પણ નોઆહને યાહવેની દૃષ્ટિમાં અનુગ્રહ મળ્યો.",
+  "tokens": [
+    {
+      "surface": "ונח",
+      "gloss": "પણ નોઆહ"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "મળ્યો"
+    },
+    {
+      "surface": "חן",
+      "gloss": "અનુગ્રહ"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "દૃષ્ટિમાં"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવેની"
+    }
+  ],
+  "timestamp": "2026-08-21T10:40:46.621957651Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 11:21",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 11,
+  "translation": "હાથ હાથ સાથ જોડાય તોપણ દુષ્ટ નિષ્પાપ નહીં થાય; પરંતુ ન્યાયીઓનું વંશજ છૂટી જશે.",
+  "tokens": [
+    {
+      "surface": "יד",
+      "gloss": "હાથ"
+    },
+    {
+      "surface": "ליד",
+      "gloss": "હાથ સાથ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "નિષ્પાપ થાય"
+    },
+    {
+      "surface": "רע",
+      "gloss": "દુષ્ટ"
+    },
+    {
+      "surface": "וזרע",
+      "gloss": "પરંતુ વંશજ"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "ન્યાયીઓનું"
+    },
+    {
+      "surface": "נמלט",
+      "gloss": "છૂટી જશે"
+    }
+  ],
+  "timestamp": "2026-08-21T16:55:28.002325209Z",
+  "model": "glm-5.3"
+}

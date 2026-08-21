@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 1:30",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 1,
+  "translation": "તેઓએ મારી સલાહ સ્વીકારવા ન ઈચ્છી; મારી સઘળી ઠપકાણીનો તિરસ્કાર કર્યો.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "אבו",
+      "gloss": "ઈચ્છ્યું"
+    },
+    {
+      "surface": "לעצתי",
+      "gloss": "મારી સલાહ"
+    },
+    {
+      "surface": "נאצו",
+      "gloss": "તિરસ્કાર કર્યો"
+    },
+    {
+      "surface": "כל",
+      "gloss": "સઘળી"
+    },
+    {
+      "surface": "תוכחתי",
+      "gloss": "મારી ઠપકાણી"
+    }
+  ],
+  "timestamp": "2026-08-21T16:51:21.991308987Z",
+  "model": "glm-5.3"
+}

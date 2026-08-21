@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 127:4",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 127,
+  "translation": "બળવાનના હાથમાં તીરની જેમ, એમ જ નવજવાનાઈના પુત્રો ⟨છે⟩.",
+  "tokens": [
+    {
+      "surface": "כחצים",
+      "gloss": "તીરની જેમ"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "હાથમાં"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "બળવાન"
+    },
+    {
+      "surface": "כן",
+      "gloss": "એમ જ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "הנעורים",
+      "gloss": "નવજવાનાઈના"
+    }
+  ],
+  "timestamp": "2026-08-21T16:46:38.881031706Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 1:14",
+  "book": "jeremiah",
+  "lang": "gu",
+  "chapter": 1,
+  "translation": "અને યાહવેએ મને કહ્યું: ઉત્તરમાંથી દુર્ઘટના ખૂલી નીકળશે પૃથ્વીના બધા વતનીઓ પર.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "અને…કહ્યું"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવેએ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "મને"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "ઉત્તરમાંથી"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "ખૂલી નીકળશે"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "દુર્ઘટના"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "כל",
+      "gloss": "બધા"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "વતનીઓ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "પૃથ્વીના"
+    }
+  ],
+  "timestamp": "2026-08-21T14:43:18.994982523Z",
+  "model": "glm-5.3"
+}

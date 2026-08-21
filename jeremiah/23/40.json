@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "jeremiah 23:40",
+  "book": "jeremiah",
+  "lang": "gu",
+  "chapter": 23,
+  "translation": "અને હું તમારા પર સનાતન કલંક અને સનાતન અપમાન મૂકીશ, જે ભૂલાય નહિ.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "અને હું મૂકીશ"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "તમારા પર"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "કલંક"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "સનાતન"
+    },
+    {
+      "surface": "וכלמות",
+      "gloss": "અને અપમાન"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "સનાતન"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જે"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નહિ"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "ભૂલાય"
+    }
+  ],
+  "timestamp": "2026-08-21T14:58:31.106095872Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 20:25",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 20,
+  "translation": "માણસ માટે જાળ છે — તે ધર્મની વસ્તુ બોલી નાખે, અને પછી વચનોની તપાસ કરે.",
+  "tokens": [
+    {
+      "surface": "מוקש",
+      "gloss": "જાળ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "માણસ"
+    },
+    {
+      "surface": "ילע",
+      "gloss": "બોલી નાખે"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ધર્મની વસ્તુ"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "અને પછી"
+    },
+    {
+      "surface": "נדרים",
+      "gloss": "વચનો"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "તપાસ કરે"
+    }
+  ],
+  "timestamp": "2026-08-21T16:58:51.523778492Z",
+  "model": "glm-5.3"
+}

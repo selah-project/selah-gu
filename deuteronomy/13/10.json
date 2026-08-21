@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 13:10",
+  "book": "deuteronomy",
+  "lang": "gu",
+  "chapter": 13,
+  "translation": "કેમ કે તું તેને મારી જ નાખીશ; તારો હાથ તેને મારી નાખવા પ્રથમ રહેશે, અને આખાં પ્રજાનો હાથ પછીથી.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "કેમ કે"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "મારી જ"
+    },
+    {
+      "surface": "תהרגנו",
+      "gloss": "નાખીશ"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "તારો હાથ"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "રહેશે"
+    },
+    {
+      "surface": "בו",
+      "gloss": "તેનામાં"
+    },
+    {
+      "surface": "בראשונה",
+      "gloss": "પ્રથમ"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "તેને મારી નાખવા"
+    },
+    {
+      "surface": "ויד",
+      "gloss": "અને હાથ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "આખાં"
+    },
+    {
+      "surface": "העם",
+      "gloss": "પ્રજાનો"
+    },
+    {
+      "surface": "באחרנה",
+      "gloss": "પછીથી"
+    }
+  ],
+  "timestamp": "2026-08-21T12:20:00.669829006Z",
+  "model": "glm-5.3"
+}

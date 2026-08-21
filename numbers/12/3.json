@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 12:3",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 12,
+  "translation": "અને ⟨એ⟩ માણસ મોશે ⟨હતો⟩ અત્યંત નમ્ર, પૃથ્વીના ચહેરા પરના તમામ માણસો કરતાં ⟨વધુ⟩.",
+  "tokens": [
+    {
+      "surface": "והאיש",
+      "gloss": "અને ⟨એ⟩ માણસ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "મોશે"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "નમ્ર"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "અત્યંત"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "તમામ…કરતાં"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "માણસો"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જે"
+    },
+    {
+      "surface": "על",
+      "gloss": "…પર"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ચહેરા"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "પૃથ્વીના"
+    }
+  ],
+  "timestamp": "2026-08-21T11:57:01.596192560Z",
+  "model": "glm-5.3"
+}

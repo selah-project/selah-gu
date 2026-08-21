@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 8:15",
+  "book": "genesis",
+  "lang": "gu",
+  "chapter": 8,
+  "translation": "અને એલોહીમે નોહને પ્રતિ બોલ્યા, કહેતા:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "અને બોલ્યા"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "એલોહીમે"
+    },
+    {
+      "surface": "אל",
+      "gloss": "પ્રતિ"
+    },
+    {
+      "surface": "נח",
+      "gloss": "નોહને"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "કહેતા"
+    }
+  ],
+  "timestamp": "2026-08-21T10:39:54.003202242Z",
+  "model": "glm-5.3"
+}

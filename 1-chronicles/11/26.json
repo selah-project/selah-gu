@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 11:26",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 11,
+  "translation": "અને સૈન્યના બહાદુરો ⟨were⟩ અસાહેલ, યોઆબનો ભાઈ; એલહાનાન, દોદોનો પુત્ર, બેત-લેહેમનો.",
+  "tokens": [
+    {
+      "surface": "וגבורי",
+      "gloss": "અને બહાદુરો"
+    },
+    {
+      "surface": "החילים",
+      "gloss": "સૈન્યના"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "અસાહેલ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "ભાઈ"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "યોઆબનો"
+    },
+    {
+      "surface": "אלחנן",
+      "gloss": "એલહાનાન"
+    },
+    {
+      "surface": "בן",
+      "gloss": "પુત્ર"
+    },
+    {
+      "surface": "דודו",
+      "gloss": "દોદોનો"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "…નો"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "બેત-લેહેમ"
+    }
+  ],
+  "timestamp": "2026-08-21T18:04:39.052488613Z",
+  "model": "glm-5.3"
+}

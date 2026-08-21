@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 99:2",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 99,
+  "translation": "યાહવે ત્સીયોનમાં મહાન ⟨છે⟩, અને તે બધી પ્રજાઓ કરતાં ઊંચો ⟨છે⟩.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "ત્સીયોનમાં"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "મહાન"
+    },
+    {
+      "surface": "ורם",
+      "gloss": "ઊંચો"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "તે"
+    },
+    {
+      "surface": "על",
+      "gloss": "કરતાં"
+    },
+    {
+      "surface": "כל",
+      "gloss": "બધી"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "પ્રજાઓ"
+    }
+  ],
+  "timestamp": "2026-08-21T16:38:22.020220081Z",
+  "model": "glm-5.3"
+}

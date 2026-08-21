@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 120:3",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 120,
+  "translation": "તને શું આપવામાં આવશે, અને તને શું ઉમેરવામાં આવશે, હે છળની જીભ?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "શું"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "આપવામાં આવશે"
+    },
+    {
+      "surface": "לך",
+      "gloss": "તને"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "અને શું"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "ઉમેરવામાં આવશે"
+    },
+    {
+      "surface": "לך",
+      "gloss": "તને"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "જીભ"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "છળની"
+    }
+  ],
+  "timestamp": "2026-08-21T16:45:37.369715545Z",
+  "model": "glm-5.3"
+}

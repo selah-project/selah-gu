@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 29:26",
+  "book": "genesis",
+  "lang": "gu",
+  "chapter": 29,
+  "translation": "અને લાવાને કહ્યું: આપણા સ્થળમાં આમ થતું નથી — નાનીને મોટાની પહેલાં આપવી.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "અને તેણે કહ્યું"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "લાવાન"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નથી"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "થતું"
+    },
+    {
+      "surface": "כן",
+      "gloss": "આમ"
+    },
+    {
+      "surface": "במקומנו",
+      "gloss": "આપણા સ્થળમાં"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "આપવી"
+    },
+    {
+      "surface": "הצעירה",
+      "gloss": "નાનીને"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "પહેલાં"
+    },
+    {
+      "surface": "הבכירה",
+      "gloss": "મોટાની"
+    }
+  ],
+  "timestamp": "2026-08-21T10:51:50.837612620Z",
+  "model": "glm-5.3"
+}

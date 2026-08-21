@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 25:11",
+  "book": "ezekiel",
+  "lang": "gu",
+  "chapter": 25,
+  "translation": "અને મોઆબમાં હું ચુકાદા કરીશ; અને તેઓ જાણશે કે હું જ યાહવે છું.",
+  "tokens": [
+    {
+      "surface": "ובמואב",
+      "gloss": "અને મોઆબમાં"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "હું કરીશ"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "ચુકાદા"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "અને તેઓ જાણશે"
+    },
+    {
+      "surface": "כי",
+      "gloss": "કે"
+    },
+    {
+      "surface": "אני",
+      "gloss": "હું જ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    }
+  ],
+  "timestamp": "2026-08-21T15:30:17.628728247Z",
+  "model": "glm-5.3"
+}

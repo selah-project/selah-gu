@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 12:13",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 12,
+  "translation": "હોઠોના અપરાધમાં દુષ્ટનો ફાંસો ⟨છે⟩, અને દુઃખમાંથી ન્યાયી નીકળે છે.",
+  "tokens": [
+    {
+      "surface": "בפשע",
+      "gloss": "અપરાધમાં"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "હોઠોના"
+    },
+    {
+      "surface": "מוקש",
+      "gloss": "ફાંસો"
+    },
+    {
+      "surface": "רע",
+      "gloss": "દુષ્ટનો"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "નીકળે છે"
+    },
+    {
+      "surface": "מצרה",
+      "gloss": "દુઃખમાંથી"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ન્યાયી"
+    }
+  ],
+  "timestamp": "2026-08-21T16:55:19.120140701Z",
+  "model": "glm-5.3"
+}

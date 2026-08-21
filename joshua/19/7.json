@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 19:7",
+  "book": "joshua",
+  "lang": "gu",
+  "chapter": 19,
+  "translation": "આયિન, રિમ્મોન, અને એતેર, અને અશાન — ચાર નગરો અને તેમનાં ગામડાં;",
+  "tokens": [
+    {
+      "surface": "עין",
+      "gloss": "આયિન"
+    },
+    {
+      "surface": "רמון",
+      "gloss": "રિમ્મોન"
+    },
+    {
+      "surface": "ועתר",
+      "gloss": "અને એતેર"
+    },
+    {
+      "surface": "ועשן",
+      "gloss": "અને અશાન"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "નગરો"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "ચાર"
+    },
+    {
+      "surface": "וחצריהן",
+      "gloss": "અને તેમનાં ગામડાં"
+    }
+  ],
+  "timestamp": "2026-08-21T12:41:11.649359709Z",
+  "model": "glm-5.3"
+}

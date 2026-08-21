@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 59:16",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 59,
+  "translation": "તેઓ જ ખોરાક માટે ભટકશે; જો તૃપ્ત નહીં થાય, તો રાત આખી રહેશે.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "તેઓ જ"
+    },
+    {
+      "surface": "ינועון",
+      "gloss": "ભટકશે"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "ખોરાક માટે"
+    },
+    {
+      "surface": "אם",
+      "gloss": "જો"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "તૃપ્ત થાય"
+    },
+    {
+      "surface": "וילינו",
+      "gloss": "તો રાત આખી રહેશે"
+    }
+  ],
+  "timestamp": "2026-08-21T18:57:07.751871165Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "numbers 7:40",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 7,
+  "translation": "એક બકરાનો બચ્ચો, છતાં પાપ-હોમ માટે.",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "બકરાનો બચ્ચો"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "બકરાઓનાં"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "એક"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "છતાં માટે"
+    }
+  ],
+  "timestamp": "2026-08-21T11:51:24.927037882Z",
+  "model": "glm-5.3"
+}

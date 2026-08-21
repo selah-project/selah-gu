@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 46:3",
+  "book": "jeremiah",
+  "lang": "gu",
+  "chapter": 46,
+  "translation": "કવચ અને મોટા ઢાલ તૈયાર કરો, અને યુદ્ધ માટે આગળ વધો.",
+  "tokens": [
+    {
+      "surface": "ערכו",
+      "gloss": "તૈયાર કરો"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "કવચ"
+    },
+    {
+      "surface": "וצנה",
+      "gloss": "અને મોટા ઢાલ"
+    },
+    {
+      "surface": "וגשו",
+      "gloss": "અને આગળ વધો"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "યુદ્ધ માટે"
+    }
+  ],
+  "timestamp": "2026-08-21T15:09:41.600715735Z",
+  "model": "glm-5.3"
+}

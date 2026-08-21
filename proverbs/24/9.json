@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 24:9",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 24,
+  "translation": "મૂર્ખાઈની યોજના પાપ છે, અને ઉપહાસક માણસોને તિરસ્કારની વસ્તુ છે.",
+  "tokens": [
+    {
+      "surface": "זמת",
+      "gloss": "યોજના"
+    },
+    {
+      "surface": "אולת",
+      "gloss": "મૂર્ખાઈની"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "પાપ"
+    },
+    {
+      "surface": "ותועבת",
+      "gloss": "અને તિરસ્કારની વસ્તુ"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "માણસોને"
+    },
+    {
+      "surface": "לץ",
+      "gloss": "ઉપહાસક"
+    }
+  ],
+  "timestamp": "2026-08-21T17:00:55.036658648Z",
+  "model": "glm-5.3"
+}

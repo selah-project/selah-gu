@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 31:26",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 31,
+  "translation": "એનું મુખ તે જ્ઞાનથી ખોલે છે, અને હેસેદની તોરાહ એની જીભ પર છે.",
+  "tokens": [
+    {
+      "surface": "פיה",
+      "gloss": "એનું મુખ"
+    },
+    {
+      "surface": "פתחה",
+      "gloss": "તે ખોલે છે"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "જ્ઞાનથી"
+    },
+    {
+      "surface": "ותורת",
+      "gloss": "અને તોરાહ"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "હેસેદની"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "לשונה",
+      "gloss": "એની જીભ"
+    }
+  ],
+  "timestamp": "2026-08-21T17:04:07.070174843Z",
+  "model": "glm-5.3"
+}

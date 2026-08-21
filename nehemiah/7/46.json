@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "nehemiah 7:46",
+  "book": "nehemiah",
+  "lang": "gu",
+  "chapter": 7,
+  "translation": "નતીનીઓ: ઝીહાનાં પુત્રો, ખશૂફાનાં પુત્રો, તબ્બાઓતનાં પુત્રો,",
+  "tokens": [
+    {
+      "surface": "הנתינים",
+      "gloss": "નતીનીઓ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "צחא",
+      "gloss": "ઝીહા"
+    },
+    {
+      "surface": "בני",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "חשפא",
+      "gloss": "ખશૂફા"
+    },
+    {
+      "surface": "בני",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "טבעות",
+      "gloss": "તબ્બાઓત"
+    }
+  ],
+  "timestamp": "2026-08-21T17:55:17.920516345Z",
+  "model": "glm-5.3"
+}

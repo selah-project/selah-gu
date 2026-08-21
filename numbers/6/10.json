@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 6:10",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 6,
+  "translation": "અને આઠમા દિવસે તે બે તરતોડીઓ કે બે પોપટના બચ્ચાં યાજક પાસે, મુલાકાતના મંડપના પ્રવેશદ્વાર પાસે લાવે.",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "અને દિવસે"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "આઠમા"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "તે લાવે"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "બે"
+    },
+    {
+      "surface": "תרים",
+      "gloss": "તરતોડીઓ"
+    },
+    {
+      "surface": "או",
+      "gloss": "કે"
+    },
+    {
+      "surface": "שני",
+      "gloss": "બે"
+    },
+    {
+      "surface": "בני",
+      "gloss": "બચ્ચાં"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "પોપટના"
+    },
+    {
+      "surface": "אל",
+      "gloss": "પાસે"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "યાજક"
+    },
+    {
+      "surface": "אל",
+      "gloss": "પાસે"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "પ્રવેશદ્વાર"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "મંડપ"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "મુલાકાતના"
+    }
+  ],
+  "timestamp": "2026-08-21T11:51:50.087550950Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 34:12",
+  "book": "deuteronomy",
+  "lang": "gu",
+  "chapter": 34,
+  "translation": "અને એ બધા સામર્થ્યપૂર્ણ હાથ અને એ બધો મહાન ભય જે મોશેએ સમગ્ર ઇસ્રાએલની આંખો સામે કર્યો.",
+  "tokens": [
+    {
+      "surface": "ולכל",
+      "gloss": "અને એ બધા"
+    },
+    {
+      "surface": "היד",
+      "gloss": "હાથ"
+    },
+    {
+      "surface": "החזקה",
+      "gloss": "સામર્થ્યપૂર્ણ"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "અને એ બધો"
+    },
+    {
+      "surface": "המורא",
+      "gloss": "ભય"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "મહાન"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જે"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "કર્યો"
+    },
+    {
+      "surface": "משה",
+      "gloss": "મોશેએ"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "આંખો સામે"
+    },
+    {
+      "surface": "כל",
+      "gloss": "સમગ્ર"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ઇસ્રાએલની"
+    }
+  ],
+  "timestamp": "2026-08-21T12:32:54.272015734Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ecclesiastes 3:21",
+  "book": "ecclesiastes",
+  "lang": "gu",
+  "chapter": 3,
+  "translation": "માણસના પુત્રોની રૂચ ઉપર તરફ ચઢે છે તે કોણ જાણે, અને પશુની રૂચ નીચે તરફ પૃથ્વીમાં ઉતરે છે તે કોણ જાણે?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "કોણ"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "જાણે"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "રૂચ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "પુત્રોની"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "માણસના"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ઉપર તરફ ચઢે છે"
+    },
+    {
+      "surface": "היא",
+      "gloss": "તે"
+    },
+    {
+      "surface": "למעלה",
+      "gloss": "ઉપર"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "અને રૂચ"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "પશુની"
+    },
+    {
+      "surface": "הירדת",
+      "gloss": "નીચે તરફ ઉતરે છે"
+    },
+    {
+      "surface": "היא",
+      "gloss": "તે"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "નીચે"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "પૃથ્વીમાં"
+    }
+  ],
+  "timestamp": "2026-08-21T17:28:31.896699641Z",
+  "model": "glm-5.3"
+}

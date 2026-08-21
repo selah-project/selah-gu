@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "nehemiah 7:19",
+  "book": "nehemiah",
+  "lang": "gu",
+  "chapter": 7,
+  "translation": "બિગવાયનાં પુત્રો — બે હજાર સિંસઠ અને સાત.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "בגוי",
+      "gloss": "બિગવાય"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "બે હજાર"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "સિંસઠ"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "અને સાત"
+    }
+  ],
+  "timestamp": "2026-08-21T17:54:54.721372537Z",
+  "model": "glm-5.3"
+}

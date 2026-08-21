@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 32:3",
+  "book": "deuteronomy",
+  "lang": "gu",
+  "chapter": 32,
+  "translation": "કેમ કે હું યાહવેનું નામ પ્રગટ કરીશ; આપણા એલોહીમને મહિમા આપો.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "કેમ કે"
+    },
+    {
+      "surface": "שם",
+      "gloss": "નામ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "હું પ્રગટ કરીશ"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "આપો"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "મહિમા"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "આપણા એલોહીમને"
+    }
+  ],
+  "timestamp": "2026-08-21T12:31:04.215902983Z",
+  "model": "glm-5.3"
+}

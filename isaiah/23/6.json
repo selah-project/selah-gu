@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 23:6",
+  "book": "isaiah",
+  "lang": "gu",
+  "chapter": 23,
+  "translation": "તર્શીશ તરફ પસાર થાઓ; દ્વીપના વતનીઓ, હાંકો કાઢો!",
+  "tokens": [
+    {
+      "surface": "עברו",
+      "gloss": "પસાર થાઓ"
+    },
+    {
+      "surface": "תרשישה",
+      "gloss": "તર્શીશ તરફ"
+    },
+    {
+      "surface": "הילילו",
+      "gloss": "હાંકો કાઢો"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "વતનીઓ"
+    },
+    {
+      "surface": "אי",
+      "gloss": "દ્વીપના"
+    }
+  ],
+  "timestamp": "2026-08-21T14:22:23.817706211Z",
+  "model": "glm-5.3"
+}

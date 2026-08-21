@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-samuel 19:24",
+  "book": "2-samuel",
+  "lang": "gu",
+  "chapter": 19,
+  "translation": "પછી રાજાએ શિમીને કહ્યું, “તું નહીં મરે.” અને રાજાએ તેને સોગંદ આપ્યો.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "પછી…કહ્યું"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "રાજાએ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ને"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "શિમીને"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "તું મરે"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "અને સોગંદ આપ્યો"
+    },
+    {
+      "surface": "לו",
+      "gloss": "તેને"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "રાજાએ"
+    }
+  ],
+  "timestamp": "2026-08-21T13:32:31.733684383Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 14:20",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 14,
+  "translation": "ગરીબ પોતાના પડોશીથી પણ તિરસ્કૃત થાય છે, પણ ધનિકના પ્રેમીઓ તો ઘણા છે.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "પણ"
+    },
+    {
+      "surface": "לרעהו",
+      "gloss": "પોતાના પડોશીથી"
+    },
+    {
+      "surface": "ישנא",
+      "gloss": "તિરસ્કૃત થાય છે"
+    },
+    {
+      "surface": "רש",
+      "gloss": "ગરીબ"
+    },
+    {
+      "surface": "ואהבי",
+      "gloss": "અને પ્રેમીઓ"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "ધનિકના"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ઘણા"
+    }
+  ],
+  "timestamp": "2026-08-21T16:56:37.053559418Z",
+  "model": "glm-5.3"
+}

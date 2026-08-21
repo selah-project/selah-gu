@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 8:24",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 8,
+  "translation": "અને હનન્યા, અને એલામ, અને અનતોતીયા.",
+  "tokens": [
+    {
+      "surface": "וחנניה",
+      "gloss": "અને હનન્યા"
+    },
+    {
+      "surface": "ועילם",
+      "gloss": "અને એલામ"
+    },
+    {
+      "surface": "וענתתיה",
+      "gloss": "અને અનતોતીયા"
+    }
+  ],
+  "timestamp": "2026-08-21T18:02:40.188723449Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "nahum 1:1",
+  "book": "nahum",
+  "lang": "gu",
+  "chapter": 1,
+  "translation": "નીનવેહનો ભાર; એલકોશી નાહ્વામના દર્શનનું પુસ્તક.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "ભાર"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "નીનવેહનો"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "પુસ્તક"
+    },
+    {
+      "surface": "חזון",
+      "gloss": "દર્શનનું"
+    },
+    {
+      "surface": "נחום",
+      "gloss": "નાહ્વામ"
+    },
+    {
+      "surface": "האלקשי",
+      "gloss": "એલકોશી"
+    }
+  ],
+  "timestamp": "2026-08-21T15:59:32.047985008Z",
+  "model": "glm-5.3"
+}

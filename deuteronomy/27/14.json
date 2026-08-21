@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 27:14",
+  "book": "deuteronomy",
+  "lang": "gu",
+  "chapter": 27,
+  "translation": "અને લેવીયો ઉત્તર આપશે અને ઇસ્રાએલના દરેક માણસને ઊંચા અવાજે કહેશે:",
+  "tokens": [
+    {
+      "surface": "וענו",
+      "gloss": "અને ઉત્તર આપશે"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "લેવીયો"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "અને કહેશે"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ને"
+    },
+    {
+      "surface": "כל",
+      "gloss": "દરેક"
+    },
+    {
+      "surface": "איש",
+      "gloss": "માણસ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ઇસ્રાએલના"
+    },
+    {
+      "surface": "קול",
+      "gloss": "અવાજે"
+    },
+    {
+      "surface": "רם",
+      "gloss": "ઊંચા"
+    }
+  ],
+  "timestamp": "2026-08-21T12:26:24.755708667Z",
+  "model": "glm-5.3"
+}

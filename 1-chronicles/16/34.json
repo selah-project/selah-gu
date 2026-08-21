@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-chronicles 16:34",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 16,
+  "translation": "યાહવેનો આભાર માનો, કેમ કે ⟨તે⟩ સારો છે, કેમ કે સદાકાળ તેનો હેસેદ (પ્રેમભરી કૃપા) છે.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "આભાર માનો"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "યાહવેનો"
+    },
+    {
+      "surface": "כי",
+      "gloss": "કેમ કે"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "સારો"
+    },
+    {
+      "surface": "כי",
+      "gloss": "કેમ કે"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "સદાકાળ"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "તેનો હેસેદ"
+    }
+  ],
+  "timestamp": "2026-08-21T18:09:01.411768631Z",
+  "model": "glm-5.3"
+}

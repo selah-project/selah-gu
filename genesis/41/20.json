@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 41:20",
+  "book": "genesis",
+  "lang": "gu",
+  "chapter": 41,
+  "translation": "અને કૃશ અને થી ગાયોએ ⟨את⟩ પ્રથમ સાત માંસલ ગાયોને ખાધી.",
+  "tokens": [
+    {
+      "surface": "ותאכלנה",
+      "gloss": "અને ખાધી"
+    },
+    {
+      "surface": "הפרות",
+      "gloss": "ગાયોએ"
+    },
+    {
+      "surface": "הרקות",
+      "gloss": "કૃશ"
+    },
+    {
+      "surface": "והרעות",
+      "gloss": "અને થી"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "પ્રથમ સાત માંસલ ગાયોને"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "સાત"
+    },
+    {
+      "surface": "הפרות",
+      "gloss": "ગાયો"
+    },
+    {
+      "surface": "הראשנות",
+      "gloss": "પ્રથમ"
+    },
+    {
+      "surface": "הבריאת",
+      "gloss": "માંસલ"
+    }
+  ],
+  "timestamp": "2026-08-21T11:00:06.702744724Z",
+  "model": "glm-5.3"
+}

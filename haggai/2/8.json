@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "haggai 2:8",
+  "book": "haggai",
+  "lang": "gu",
+  "chapter": 2,
+  "translation": "મારું ⟨છે⟩ ⟨the⟩ ચાંદી અને મારું ⟨છે⟩ ⟨the⟩ સોનું, સૈન્યોના યાહવેનો અભિપ્રાય ⟨છે⟩.",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "મારું ⟨છે⟩"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "ચાંદી"
+    },
+    {
+      "surface": "ולי",
+      "gloss": "અને મારું ⟨છે⟩"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "સોનું"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "અભિપ્રાય"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "સૈન્યોના"
+    }
+  ],
+  "timestamp": "2026-08-21T16:02:04.408340728Z",
+  "model": "glm-5.3"
+}

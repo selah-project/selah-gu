@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 25:12",
+  "book": "leviticus",
+  "lang": "gu",
+  "chapter": 25,
+  "translation": "કેમ કે એ યોવેલ છે, એ તમારા માટે પવિત્ર હશે; ખેતરમાંથી તમે ⟨את⟩ તેનું ઉત્પન્ન ખાશો.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "કેમ કે"
+    },
+    {
+      "surface": "יובל",
+      "gloss": "યોવેલ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "એ છે"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "પવિત્ર"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "હશે"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "તમારા માટે"
+    },
+    {
+      "surface": "מן",
+      "gloss": "…માંથી"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ખેતર"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "તમે ખાશો"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "તેનું ઉત્પન્ન"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "તેનું ઉત્પન્ન"
+    }
+  ],
+  "timestamp": "2026-08-21T11:46:00.928121463Z",
+  "model": "glm-5.3"
+}

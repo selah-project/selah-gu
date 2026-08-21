@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 27:9",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 27,
+  "translation": "અને જો તેને પુત્રી ન હોય, તો તમે તેના ભાઈઓને ⟨את⟩ તેનો વારસો આપશો.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "અને જો"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ન હોય"
+    },
+    {
+      "surface": "לו",
+      "gloss": "તેને"
+    },
+    {
+      "surface": "בת",
+      "gloss": "પુત્રી"
+    },
+    {
+      "surface": "ונתתם",
+      "gloss": "તમે આપશો"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "તેનો વારસો"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "તેનો વારસો"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "તેના ભાઈઓને"
+    }
+  ],
+  "timestamp": "2026-08-21T12:06:19.898987471Z",
+  "model": "glm-5.3"
+}

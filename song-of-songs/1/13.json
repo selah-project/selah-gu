@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "song-of-songs 1:13",
+  "book": "song-of-songs",
+  "lang": "gu",
+  "chapter": 1,
+  "translation": "મારો પ્રિય મારા માટે મીઠા લોબાનની પોટલી ⟨છે⟩, મારા સ્તનો વચ્ચે રાત પસાર કરે.",
+  "tokens": [
+    {
+      "surface": "צרור",
+      "gloss": "પોટલી"
+    },
+    {
+      "surface": "המר",
+      "gloss": "મીઠા લોબાનની"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "મારો પ્રિય"
+    },
+    {
+      "surface": "לי",
+      "gloss": "મારા માટે"
+    },
+    {
+      "surface": "בין",
+      "gloss": "વચ્ચે"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "મારા સ્તનો"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "રાત પસાર કરે"
+    }
+  ],
+  "timestamp": "2026-08-21T17:20:26.590973715Z",
+  "model": "glm-5.3"
+}

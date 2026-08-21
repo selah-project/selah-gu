@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 24:16",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 24,
+  "translation": "ઓગણીસમાં પિત્ખાયા માટે, વીસમાં યિહેઝકેલ માટે।",
+  "tokens": [
+    {
+      "surface": "לפתחיה",
+      "gloss": "પિત્ખાયા માટે"
+    },
+    {
+      "surface": "תשעה",
+      "gloss": "નવ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "-ગણીસમાં (દસ)"
+    },
+    {
+      "surface": "ליחזקאל",
+      "gloss": "યિહેઝકેલ માટે"
+    },
+    {
+      "surface": "העשרים",
+      "gloss": "વીસમાં"
+    }
+  ],
+  "timestamp": "2026-08-21T18:11:02.193928068Z",
+  "model": "glm-5.3"
+}

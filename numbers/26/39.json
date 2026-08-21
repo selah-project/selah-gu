@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "numbers 26:39",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 26,
+  "translation": "શેફૂફામને — શૂફામી કુળ; હૂફામને — હૂફામી કુળ.",
+  "tokens": [
+    {
+      "surface": "לשפופם",
+      "gloss": "શેફૂફામને"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "કુળ"
+    },
+    {
+      "surface": "השופמי",
+      "gloss": "શૂફામી"
+    },
+    {
+      "surface": "לחופם",
+      "gloss": "હૂફામને"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "કુળ"
+    },
+    {
+      "surface": "החופמי",
+      "gloss": "હૂફામી"
+    }
+  ],
+  "timestamp": "2026-08-21T12:05:49.809340922Z",
+  "model": "glm-5.3"
+}

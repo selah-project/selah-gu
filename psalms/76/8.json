@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 76:8",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 76,
+  "translation": "તું, તું જ ભયંકર છે; અને કોણ ઊભું રહેશે તારા સામે, તારા ક્રોધના વખતે?",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "તું"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "ભયંકર છે"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "તું જ"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "અને કોણ"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "ઊભું રહેશે"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "તારા સામે"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "…ના વખતે"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "તારા ક્રોધ"
+    }
+  ],
+  "timestamp": "2026-08-21T16:30:38.215117829Z",
+  "model": "glm-5.3"
+}

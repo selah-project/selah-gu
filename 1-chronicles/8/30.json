@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 8:30",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 8,
+  "translation": "અને તેનો પુત્ર, જેઠો — અબ્દોન, અને ત્સુર, અને કીશ, અને બાઅલ, અને નાદાબ.",
+  "tokens": [
+    {
+      "surface": "ובנו",
+      "gloss": "અને તેનો પુત્ર"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "જેઠો"
+    },
+    {
+      "surface": "עבדון",
+      "gloss": "અબ્દોન"
+    },
+    {
+      "surface": "וצור",
+      "gloss": "અને ત્સુર"
+    },
+    {
+      "surface": "וקיש",
+      "gloss": "અને કીશ"
+    },
+    {
+      "surface": "ובעל",
+      "gloss": "અને બાઅલ"
+    },
+    {
+      "surface": "ונדב",
+      "gloss": "અને નાદાબ"
+    }
+  ],
+  "timestamp": "2026-08-21T18:03:32.996481802Z",
+  "model": "glm-5.3"
+}

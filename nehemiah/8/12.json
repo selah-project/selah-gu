@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "nehemiah 8:12",
+  "book": "nehemiah",
+  "lang": "gu",
+  "chapter": 8,
+  "translation": "અને આખી ⟨the⟩ જનતા ખાવા, પીવા, હિસ્સા મોકલવા અને મોટો આનંદ મનાવવા તેડતી ગઈ ⟨them⟩, કારણ કે તેમને જે વચનો જણાવ્યાં ⟨were⟩ તેમાં તેમને સમજણ થઈ ⟨was⟩.",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "તેડતી ગઈ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "આખી"
+    },
+    {
+      "surface": "העם",
+      "gloss": "જનતા"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "ખાવા"
+    },
+    {
+      "surface": "ולשתות",
+      "gloss": "પીવા"
+    },
+    {
+      "surface": "ולשלח",
+      "gloss": "મોકલવા"
+    },
+    {
+      "surface": "מנות",
+      "gloss": "હિસ્સા"
+    },
+    {
+      "surface": "ולעשות",
+      "gloss": "મનાવવા"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "આનંદ"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "મોટો"
+    },
+    {
+      "surface": "כי",
+      "gloss": "કારણ કે"
+    },
+    {
+      "surface": "הבינו",
+      "gloss": "સમજણ થઈ"
+    },
+    {
+      "surface": "בדברים",
+      "gloss": "વચનોમાં"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જે"
+    },
+    {
+      "surface": "הודיעו",
+      "gloss": "જણાવ્યાં"
+    },
+    {
+      "surface": "להם",
+      "gloss": "તેમને"
+    }
+  ],
+  "timestamp": "2026-08-21T17:56:25.984950417Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 10:19",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 10,
+  "translation": "અને શિમોનનાં પુત્રોના કુળના સૈન્ય પર શેલુમીએલ ત્સુરીશદ્દાયનો પુત્ર ⟨હતો⟩.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "અને પર"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "સૈન્ય"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "કુળ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "શિમોન"
+    },
+    {
+      "surface": "שלמיאל",
+      "gloss": "શેલુમીએલ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "પુત્ર"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "ત્સુરી"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "શદ્દાય"
+    }
+  ],
+  "timestamp": "2026-08-21T11:54:16.121615758Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 25:20",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 25,
+  "translation": "તેરમાં શુબાએલ; તે, તેના પુત્રો અને તેના ભાઈઓ — બારમાં.",
+  "tokens": [
+    {
+      "surface": "לשלשה",
+      "gloss": "તેરમાં"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "(સંયુક્ત)"
+    },
+    {
+      "surface": "שובאל",
+      "gloss": "શુબાએલ"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "તેના પુત્રો"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "અને તેના ભાઈઓ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "બાર"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "(નામાં)"
+    }
+  ],
+  "timestamp": "2026-08-21T18:10:47.114312230Z",
+  "model": "glm-5.3"
+}

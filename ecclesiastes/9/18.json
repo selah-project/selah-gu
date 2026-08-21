@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 9:18",
+  "book": "ecclesiastes",
+  "lang": "gu",
+  "chapter": 9,
+  "translation": "યુદ્ધનાં શસ્ત્રો કરતાં જ્ઞાન સારું છે, અને એક પાપી ઘણું સારું નષ્ટ કરે છે.",
+  "tokens": [
+    {
+      "surface": "טובה",
+      "gloss": "સારું છે"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "જ્ઞાન"
+    },
+    {
+      "surface": "מכלי",
+      "gloss": "કરતાં"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "યુદ્ધનાં શસ્ત્રો"
+    },
+    {
+      "surface": "וחוטא",
+      "gloss": "અને પાપી"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "એક"
+    },
+    {
+      "surface": "יאבד",
+      "gloss": "નષ્ટ કરે છે"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "સારું"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "ઘણું"
+    }
+  ],
+  "timestamp": "2026-08-21T17:29:53.670206659Z",
+  "model": "glm-5.3"
+}

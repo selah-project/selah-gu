@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 61:2",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 61,
+  "translation": "હે એલોહીમ, મારી પોકાર સાંભળ; મારી પ્રાર્થના પર કાન ધર.",
+  "tokens": [
+    {
+      "surface": "שמעה",
+      "gloss": "સાંભળ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "એલોહીમ"
+    },
+    {
+      "surface": "רנתי",
+      "gloss": "મારી પોકાર"
+    },
+    {
+      "surface": "הקשיבה",
+      "gloss": "કાન ધર"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "મારી પ્રાર્થના"
+    }
+  ],
+  "timestamp": "2026-08-21T16:26:47.464369158Z",
+  "model": "glm-5.3"
+}

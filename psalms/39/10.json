@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 39:10",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 39,
+  "translation": "હું મૂંગો રહ્યો, મેં મારું મુખ ન ખોલ્યું, કારણ કે તેં જ તે ⟨કર્યું⟩.",
+  "tokens": [
+    {
+      "surface": "נאלמתי",
+      "gloss": "હું મૂંગો રહ્યો"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ન"
+    },
+    {
+      "surface": "אפתח",
+      "gloss": "ખોલ્યું"
+    },
+    {
+      "surface": "פי",
+      "gloss": "મારું મુખ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "કારણ કે"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "તેં જ"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "કર્યું"
+    }
+  ],
+  "timestamp": "2026-08-21T16:20:38.950899418Z",
+  "model": "glm-5.3"
+}

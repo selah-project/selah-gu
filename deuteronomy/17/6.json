@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 17:6",
+  "book": "deuteronomy",
+  "lang": "gu",
+  "chapter": 17,
+  "translation": "બે સાક્ષીઓના મુખે કે ત્રણ સાક્ષીઓના મુખે મરવાનો દોષી તે માર્યો જશે; એક સાક્ષીના મુખે તે માર્યો જશે નહીં.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "આધારે"
+    },
+    {
+      "surface": "פי",
+      "gloss": "મુખે"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "બે"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "સાક્ષીઓના"
+    },
+    {
+      "surface": "או",
+      "gloss": "કે"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "ત્રણ"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "સાક્ષીઓના"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "માર્યો જશે"
+    },
+    {
+      "surface": "המת",
+      "gloss": "મરવાનો દોષી"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "માર્યો જશે"
+    },
+    {
+      "surface": "על",
+      "gloss": "આધારે"
+    },
+    {
+      "surface": "פי",
+      "gloss": "મુખે"
+    },
+    {
+      "surface": "עד",
+      "gloss": "સાક્ષીના"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "એક"
+    }
+  ],
+  "timestamp": "2026-08-21T12:24:05.707123993Z",
+  "model": "glm-5.3"
+}

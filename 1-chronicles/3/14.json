@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 3:14",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 3,
+  "translation": "આમોન તેનો પુત્ર, યોશિયાહ તેનો પુત્ર.",
+  "tokens": [
+    {
+      "surface": "אמון",
+      "gloss": "આમોન"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "તેનો પુત્ર"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "યોશિયાહ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "તેનો પુત્ર"
+    }
+  ],
+  "timestamp": "2026-08-21T18:01:08.850235307Z",
+  "model": "glm-5.3"
+}

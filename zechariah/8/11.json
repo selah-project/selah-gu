@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "zechariah 8:11",
+  "book": "zechariah",
+  "lang": "gu",
+  "chapter": 8,
+  "translation": "અને હવે પહેલાંના દિવસોની જેમ હું આ પ્રજાના શેષ માટે ⟨am⟩ નથી — યાહવે સૈન્યોની વાણી.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "અને હવે"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નહિ"
+    },
+    {
+      "surface": "כימים",
+      "gloss": "દિવસોની જેમ"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "પહેલાંના"
+    },
+    {
+      "surface": "אני",
+      "gloss": "હું"
+    },
+    {
+      "surface": "לשארית",
+      "gloss": "શેષ માટે"
+    },
+    {
+      "surface": "העם",
+      "gloss": "પ્રજાના"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "આ"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "વાણી"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "સૈન્યોની"
+    }
+  ],
+  "timestamp": "2026-08-21T16:05:16.932076016Z",
+  "model": "glm-5.3"
+}

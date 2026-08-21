@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "jeremiah 23:34",
+  "book": "jeremiah",
+  "lang": "gu",
+  "chapter": 23,
+  "translation": "અને ⟨as for⟩ ⟨the⟩ પ્રબોધક, અને ⟨the⟩ યાજક, અને ⟨the⟩ પ્રજા, જે કહેશે, “યાહવેનો ભાર,” તે માણસ પર અને તેના ઘર પર હું શિક્ષા ફરમાવીશ.",
+  "tokens": [
+    {
+      "surface": "והנביא",
+      "gloss": "અને પ્રબોધક"
+    },
+    {
+      "surface": "והכהן",
+      "gloss": "અને યાજક"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "અને પ્રજા"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જે"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "કહેશે"
+    },
+    {
+      "surface": "משא",
+      "gloss": "ભાર"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "ופקדתי",
+      "gloss": "અને હું શિક્ષા ફરમાવીશ"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "તે માણસ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "તે"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "અને પર"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "તેના ઘર"
+    }
+  ],
+  "timestamp": "2026-08-21T14:57:48.842085440Z",
+  "model": "glm-5.3"
+}

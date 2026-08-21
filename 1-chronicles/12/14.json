@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 12:14",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 12,
+  "translation": "યિર્મેયાહુ દસમો, મખબનાય અગિયારમો.",
+  "tokens": [
+    {
+      "surface": "ירמיהו",
+      "gloss": "યિર્મેયાહુ"
+    },
+    {
+      "surface": "העשירי",
+      "gloss": "દસમો"
+    },
+    {
+      "surface": "מכבני",
+      "gloss": "મખબનાય"
+    },
+    {
+      "surface": "עשתי",
+      "gloss": "અગિયાર (અગિયારમાંનો)"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "…મો"
+    }
+  ],
+  "timestamp": "2026-08-21T18:07:28.490195634Z",
+  "model": "glm-5.3"
+}

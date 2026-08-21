@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 5:2",
+  "book": "1-kings",
+  "lang": "gu",
+  "chapter": 5,
+  "translation": "અને શલોમોનું એક દિવસનું ભોજન ત્રીસ કોર શ્રેષ્ઠ પીઠ અને સાઠ કોર લોટ ⟨હતું⟩.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "અને હતું"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ભોજન"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "શલોમોનું"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "એક દિવસનું"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "એક"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "ત્રીસ"
+    },
+    {
+      "surface": "כר",
+      "gloss": "કોર"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "શ્રેષ્ઠ પીઠ"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "અને સાઠ"
+    },
+    {
+      "surface": "כר",
+      "gloss": "કોર"
+    },
+    {
+      "surface": "קמח",
+      "gloss": "લોટ"
+    }
+  ],
+  "timestamp": "2026-08-21T13:40:38.498605759Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "nehemiah 10:28",
+  "book": "nehemiah",
+  "lang": "gu",
+  "chapter": 10,
+  "translation": "મલ્લૂખ, હારીમ, બાના.",
+  "tokens": [
+    {
+      "surface": "מלוך",
+      "gloss": "મલ્લૂખ"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "હારીમ"
+    },
+    {
+      "surface": "בענה",
+      "gloss": "બાના"
+    }
+  ],
+  "timestamp": "2026-08-21T19:01:19.935829795Z",
+  "model": "glm-5.3"
+}

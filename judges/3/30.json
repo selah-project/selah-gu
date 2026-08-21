@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "judges 3:30",
+  "book": "judges",
+  "lang": "gu",
+  "chapter": 3,
+  "translation": "અને મોઆબ તે દિવસે ઇસ્રાએલના હાથ તળે દબાઈ ગયું, અને ⟨the⟩ દેશ એંસી વર્ષ સુધી શાંત રહ્યો.",
+  "tokens": [
+    {
+      "surface": "ותכנע",
+      "gloss": "દબાઈ ગયું"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "મોઆબ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "તે દિવસે"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "તે"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "તળે"
+    },
+    {
+      "surface": "יד",
+      "gloss": "હાથ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ઇસ્રાએલના"
+    },
+    {
+      "surface": "ותשקט",
+      "gloss": "શાંત રહ્યો"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "દેશ"
+    },
+    {
+      "surface": "שמונים",
+      "gloss": "એંસી"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "વર્ષ"
+    }
+  ],
+  "timestamp": "2026-08-21T12:47:45.485350961Z",
+  "model": "glm-5.3"
+}

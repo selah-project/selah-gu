@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "lamentations 3:64",
+  "book": "lamentations",
+  "lang": "gu",
+  "chapter": 3,
+  "translation": "તમે તેમને પ્રત્યુત્તર આપશો, હે યાહવે, તેમના હાથોના કાર્ય પ્રમાણે.",
+  "tokens": [
+    {
+      "surface": "תשיב",
+      "gloss": "તમે પ્રત્યુત્તર આપશો"
+    },
+    {
+      "surface": "להם",
+      "gloss": "તેમને"
+    },
+    {
+      "surface": "גמול",
+      "gloss": "પ્રત્યુત્તર"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "כמעשה",
+      "gloss": "કાર્ય પ્રમાણે"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "તેમના હાથોના"
+    }
+  ],
+  "timestamp": "2026-08-21T17:25:36.662350994Z",
+  "model": "glm-5.3"
+}

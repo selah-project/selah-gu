@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 28:14",
+  "book": "isaiah",
+  "lang": "gu",
+  "chapter": 28,
+  "translation": "તેથી યાહવેનું વચન સાંભળો, ટાહખી કરનાર માણસો, યરૂશાલાયિમમાં વસતા આ પ્રજાના શાસકો.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "તેથી"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "સાંભળો"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "વચન"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "માણસો"
+    },
+    {
+      "surface": "לצון",
+      "gloss": "ટાહખી"
+    },
+    {
+      "surface": "משלי",
+      "gloss": "શાસકો"
+    },
+    {
+      "surface": "העם",
+      "gloss": "પ્રજા"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "આ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જે"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "યરૂશાલાયિમમાં"
+    }
+  ],
+  "timestamp": "2026-08-21T14:23:41.256176422Z",
+  "model": "glm-5.3"
+}

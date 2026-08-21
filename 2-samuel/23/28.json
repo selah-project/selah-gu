@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-samuel 23:28",
+  "book": "2-samuel",
+  "lang": "gu",
+  "chapter": 23,
+  "translation": "ત્સલ્મોન ⟨હઅચોચી⟩, મહારાઇ ⟨હનેતોફાતી⟩,",
+  "tokens": [
+    {
+      "surface": "צלמון",
+      "gloss": "ત્સલ્મોન"
+    },
+    {
+      "surface": "האחחי",
+      "gloss": "હઅચોચી"
+    },
+    {
+      "surface": "מהרי",
+      "gloss": "મહારાઇ"
+    },
+    {
+      "surface": "הנטפתי",
+      "gloss": "હનેતોફાતી"
+    }
+  ],
+  "timestamp": "2026-08-21T13:34:00.147463856Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 149:7",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 149,
+  "translation": "જાતિઓ પર પ્રતિશોધ વર્તાવવા, અને પ્રજાઓને ઠપકો-શિક્ષા આપવા —",
+  "tokens": [
+    {
+      "surface": "לעשות",
+      "gloss": "વર્તાવવા"
+    },
+    {
+      "surface": "נקמה",
+      "gloss": "પ્રતિશોધ"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "જાતિઓ પર"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "ઠપકો-શિક્ષા"
+    },
+    {
+      "surface": "בל",
+      "gloss": ""
+    },
+    {
+      "surface": "אמים",
+      "gloss": "પ્રજાઓને"
+    }
+  ],
+  "timestamp": "2026-08-21T16:50:15.131108463Z",
+  "model": "glm-5.3"
+}

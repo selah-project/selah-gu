@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "jeremiah 22:29",
+  "book": "jeremiah",
+  "lang": "gu",
+  "chapter": 22,
+  "translation": "હે પૃથ્વી, પૃથ્વી, પૃથ્વી, યાહવેનો વચન સાંભળ.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "હે પૃથ્વી"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "પૃથ્વી"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "પૃથ્વી"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "સાંભળ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "વચન"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    }
+  ],
+  "timestamp": "2026-08-21T14:54:06.725452101Z",
+  "model": "glm-5.3"
+}

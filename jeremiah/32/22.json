@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 32:22",
+  "book": "jeremiah",
+  "lang": "gu",
+  "chapter": 32,
+  "translation": "અને તેં તેમને ⟨את⟩ ⟨the⟩ આ દેશ આપ્યો, જેનો તેં તેમના પિતરોને શપથ લીધો હતો કે તેમને આપવો — દૂધ અને મધ વહેતો દેશ.",
+  "tokens": [
+    {
+      "surface": "ותתן",
+      "gloss": "અને તેં આપ્યો"
+    },
+    {
+      "surface": "להם",
+      "gloss": "તેમને"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "આ દેશ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "દેશ"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "આ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જેનો"
+    },
+    {
+      "surface": "נשבעת",
+      "gloss": "તેં શપથ લીધો હતો"
+    },
+    {
+      "surface": "לאבותם",
+      "gloss": "તેમના પિતરોને"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "આપવા"
+    },
+    {
+      "surface": "להם",
+      "gloss": "તેમને"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "દેશ"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "વહેતો"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "દૂધ"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "અને મધ"
+    }
+  ],
+  "timestamp": "2026-08-21T15:04:54.083328007Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 49:5",
+  "book": "genesis",
+  "lang": "gu",
+  "chapter": 49,
+  "translation": "શિમયોન અને લેવી ભાઈઓ ⟨છે⟩; તેમની તલવારો હિંસાનાં હથિયારો ⟨છે⟩.",
+  "tokens": [
+    {
+      "surface": "שמעון",
+      "gloss": "શિમયોન"
+    },
+    {
+      "surface": "ולוי",
+      "gloss": "અને લેવી"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "ભાઈઓ"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "હથિયારો"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "હિંસાનાં"
+    },
+    {
+      "surface": "מכרתיהם",
+      "gloss": "તેમની તલવારો"
+    }
+  ],
+  "timestamp": "2026-08-21T11:05:26.096191343Z",
+  "model": "glm-5.3"
+}

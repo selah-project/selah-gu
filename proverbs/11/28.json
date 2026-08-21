@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 11:28",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 11,
+  "translation": "પોતાના ધન પર ભરોસો રાખનાર તે પડી જશે, પણ સદાચારી પાનાની જેમ ખીલશે.",
+  "tokens": [
+    {
+      "surface": "בוטח",
+      "gloss": "ભરોસો રાખનાર"
+    },
+    {
+      "surface": "בעשרו",
+      "gloss": "પોતાના ધન પર"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "તે"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "પડી જશે"
+    },
+    {
+      "surface": "וכעלה",
+      "gloss": "પણ પાનાની જેમ"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "સદાચારી"
+    },
+    {
+      "surface": "יפרחו",
+      "gloss": "ખીલશે"
+    }
+  ],
+  "timestamp": "2026-08-21T16:56:17.846328557Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 132:10",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 132,
+  "translation": "તારા દાસ દાવિદને કારણે તારા માશીઆખનો ચહેરો ફેરવી ન લેતી.",
+  "tokens": [
+    {
+      "surface": "בעבור",
+      "gloss": "કારણે"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "દાવિદ"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "તારા દાસ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "ફેરવી લેતી"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ચહેરો"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "તારા માશીઆખનો"
+    }
+  ],
+  "timestamp": "2026-08-21T16:46:36.962935258Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 25:8",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 25,
+  "translation": "અને તેમણે પહેરા માટે ગોરાળ પાડ્યા, નાના જેવો મોટો, સમજનાર સાથે શિષ્ય.",
+  "tokens": [
+    {
+      "surface": "ויפילו",
+      "gloss": "અને પાડ્યા"
+    },
+    {
+      "surface": "גורלות",
+      "gloss": "ગોરાળ"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "પહેરા માટે"
+    },
+    {
+      "surface": "לעמת",
+      "gloss": "સામે"
+    },
+    {
+      "surface": "כקטן",
+      "gloss": "નાના જેવો"
+    },
+    {
+      "surface": "כגדול",
+      "gloss": "મોટો"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "સમજનાર"
+    },
+    {
+      "surface": "עם",
+      "gloss": "સાથે"
+    },
+    {
+      "surface": "תלמיד",
+      "gloss": "શિષ્ય"
+    }
+  ],
+  "timestamp": "2026-08-21T18:12:03.213669498Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 17:4",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 17,
+  "translation": "જા, અને મારા સેવક દાવીદને કહે: યાહવે આ પ્રમાણે કહે છે: રહેવા માટે મારે માટે ઘર તું બાંધીશ નહીં.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "જા"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "અને કહે"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ને"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "દાવીદને"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "મારા સેવક"
+    },
+    {
+      "surface": "כה",
+      "gloss": "આ પ્રમાણે"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "કહે છે"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "તું"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "બાંધીશ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "મારે માટે"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ઘર"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "રહેવા માટે"
+    }
+  ],
+  "timestamp": "2026-08-21T18:10:06.081945763Z",
+  "model": "glm-5.3"
+}

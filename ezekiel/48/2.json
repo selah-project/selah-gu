@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 48:2",
+  "book": "ezekiel",
+  "lang": "gu",
+  "chapter": 48,
+  "translation": "અને દાનની સીમા પર, પૂર્વની દિશાથી પશ્ચિમની દિશા સુધી — આશેર, એક (ભાગ).",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "અને પર"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "સીમા"
+    },
+    {
+      "surface": "דן",
+      "gloss": "દાનની"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "દિશાથી"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "પૂર્વની"
+    },
+    {
+      "surface": "עד",
+      "gloss": "સુધી"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "દિશા"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "પશ્ચિમની"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "આશેર"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "એક (ભાગ)"
+    }
+  ],
+  "timestamp": "2026-08-21T15:44:33.154863573Z",
+  "model": "glm-5.3"
+}

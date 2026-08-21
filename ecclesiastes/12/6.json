@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 12:6",
+  "book": "ecclesiastes",
+  "lang": "gu",
+  "chapter": 12,
+  "translation": "જ્યાં સુધી ચાંદીનો દોરડો ન છૂટે, અને સોનાનું ગોળ પાત્ર તૂટી ન જાય, અને ઝરા પર કળશો ન તૂટે, અને ખાડામાં ચક્ર ન તૂટે.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "જ્યાં સુધી"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "કે"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "ירחק",
+      "gloss": "ન છૂટે"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "દોરડો"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "ચાંદીનો"
+    },
+    {
+      "surface": "ותרץ",
+      "gloss": "અને ન તૂટે"
+    },
+    {
+      "surface": "גלת",
+      "gloss": "ગોળ પાત્ર"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "સોનાનું"
+    },
+    {
+      "surface": "ותשבר",
+      "gloss": "અને ન તૂટે"
+    },
+    {
+      "surface": "כד",
+      "gloss": "કળશો"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "המבוע",
+      "gloss": "ઝરા"
+    },
+    {
+      "surface": "ונרץ",
+      "gloss": "અને ન તૂટે"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "ચક્ર"
+    },
+    {
+      "surface": "אל",
+      "gloss": "માં"
+    },
+    {
+      "surface": "הבור",
+      "gloss": "ખાડા"
+    }
+  ],
+  "timestamp": "2026-08-21T17:33:00.124867705Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 22:21",
+  "book": "genesis",
+  "lang": "gu",
+  "chapter": 22,
+  "translation": "ઊત્સ ⟨את⟩, તેનો પ્રથમજન્મો, અને ⟨את⟩ બૂઝ તેનો ભાઈ, અને ⟨את⟩ કમુએલ, અરામનો પિતા.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ઊત્સ"
+    },
+    {
+      "surface": "עוץ",
+      "gloss": "ઊત્સ"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "તેનો પ્રથમજન્મો"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "બૂઝ"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "બૂઝ"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "તેનો ભાઈ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "કમુએલ"
+    },
+    {
+      "surface": "קמואל",
+      "gloss": "કમુએલ"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "પિતા"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "અરામ"
+    }
+  ],
+  "timestamp": "2026-08-21T10:47:08.570901786Z",
+  "model": "glm-5.3"
+}

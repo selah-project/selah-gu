@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 6:8",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 6,
+  "translation": "તેના નજીર-અલગીકરણનાં સર્વ દિવસો તે યાહવે માટે પવિત્ર ⟨છે⟩.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "સર્વ"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "દિવસો"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "તેના નજીર-અલગીકરણનાં"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "પવિત્ર"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "તે"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "યાહવે માટે"
+    }
+  ],
+  "timestamp": "2026-08-21T11:50:45.494119573Z",
+  "model": "glm-5.3"
+}

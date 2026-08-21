@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "song-of-songs 8:14",
+  "book": "song-of-songs",
+  "lang": "gu",
+  "chapter": 8,
+  "translation": "ભાગ, મારા પ્રિય, અને સુગંધિત પર્વતો પર ઝીંકાર કે હરણના પિલ્લા જેવો થઈ જા.",
+  "tokens": [
+    {
+      "surface": "ברח",
+      "gloss": "ભાગ"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "મારા પ્રિય"
+    },
+    {
+      "surface": "ודמה",
+      "gloss": "અને ... જેવો થઈ જા"
+    },
+    {
+      "surface": "לך",
+      "gloss": "તું"
+    },
+    {
+      "surface": "לצבי",
+      "gloss": "ઝીંકાર જેવો"
+    },
+    {
+      "surface": "או",
+      "gloss": "કે"
+    },
+    {
+      "surface": "לעפר",
+      "gloss": "પિલ્લા જેવો"
+    },
+    {
+      "surface": "האילים",
+      "gloss": "હરણના"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "הרי",
+      "gloss": "પર્વતો"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "સુગંધિત"
+    }
+  ],
+  "timestamp": "2026-08-21T17:22:39.297486049Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 34:7",
+  "book": "job",
+  "lang": "gu",
+  "chapter": 34,
+  "translation": "કોણ ⟨is⟩ એવો પુરુષ જેવો ઇયોવ, જે ટિખળને પાણીની જેમ પી જાય છે?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "કોણ"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "પુરુષ"
+    },
+    {
+      "surface": "כאיוב",
+      "gloss": "જેવો ઇયોવ"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "પી જાય છે"
+    },
+    {
+      "surface": "לעג",
+      "gloss": "ટિખળને"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "પાણીની જેમ"
+    }
+  ],
+  "timestamp": "2026-08-21T17:16:52.321573380Z",
+  "model": "glm-5.3"
+}

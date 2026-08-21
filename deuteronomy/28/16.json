@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 28:16",
+  "book": "deuteronomy",
+  "lang": "gu",
+  "chapter": 28,
+  "translation": "શાપિત ⟨છે⟩ તું નગરમાં, અને શાપિત ⟨છે⟩ તું ખેતરમાં.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "શાપિત"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "તું"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "નગરમાં"
+    },
+    {
+      "surface": "וארור",
+      "gloss": "અને શાપિત"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "તું"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "ખેતરમાં"
+    }
+  ],
+  "timestamp": "2026-08-21T12:28:07.423449136Z",
+  "model": "glm-5.3"
+}

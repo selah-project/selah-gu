@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 7:10",
+  "book": "isaiah",
+  "lang": "gu",
+  "chapter": 7,
+  "translation": "અને યાહવે ફરી અખાઝ પ્રત્યે વાણી કરવા લાગ્યા, કહેતા:",
+  "tokens": [
+    {
+      "surface": "ויוסף",
+      "gloss": "અને…ફરી…લાગ્યા"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "વાણી કરવા"
+    },
+    {
+      "surface": "אל",
+      "gloss": "પ્રત્યે"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "અખાઝ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "કહેતા"
+    }
+  ],
+  "timestamp": "2026-08-21T14:13:28.782443607Z",
+  "model": "glm-5.3"
+}

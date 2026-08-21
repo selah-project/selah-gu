@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 19:1",
+  "book": "ezekiel",
+  "lang": "gu",
+  "chapter": 19,
+  "translation": "અને તું ઈસ્રાએલના નેતાઓ વિષે કીર્તન-વિલાપ ઊંચકી લે,",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "અને તું"
+    },
+    {
+      "surface": "שא",
+      "gloss": "ઊંચકી લે"
+    },
+    {
+      "surface": "קינה",
+      "gloss": "કીર્તન-વિલાપ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "વિષે"
+    },
+    {
+      "surface": "נשיאי",
+      "gloss": "નેતાઓ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ઈસ્રાએલના"
+    }
+  ],
+  "timestamp": "2026-08-21T15:26:28.937247077Z",
+  "model": "glm-5.3"
+}

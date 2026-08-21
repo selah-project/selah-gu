@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-samuel 22:13",
+  "book": "2-samuel",
+  "lang": "gu",
+  "chapter": 22,
+  "translation": "તેના સામેના તેજથી અંગારા — તીવ્ર જ્વાળાઓ સળગ્યાં.",
+  "tokens": [
+    {
+      "surface": "מנגה",
+      "gloss": "તેજથી"
+    },
+    {
+      "surface": "נגדו",
+      "gloss": "તેના સામેના"
+    },
+    {
+      "surface": "בערו",
+      "gloss": "સળગ્યાં"
+    },
+    {
+      "surface": "גחלי",
+      "gloss": "અંગારા"
+    },
+    {
+      "surface": "אש",
+      "gloss": "તીવ્ર જ્વાળાઓ"
+    }
+  ],
+  "timestamp": "2026-08-21T13:33:58.552089501Z",
+  "model": "glm-5.3"
+}

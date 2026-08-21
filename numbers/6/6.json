@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 6:6",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 6,
+  "translation": "જે દિવસો સુધી તે પોતાને યાહવે માટે અલગ રાખે છે તે સર્વ દિવસોમાં તે મૃત શરીર પાસે ન જાય.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "સર્વ"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "દિવસોમાં"
+    },
+    {
+      "surface": "הזירו",
+      "gloss": "તે અલગ રાખે છે"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "યાહવે માટે"
+    },
+    {
+      "surface": "על",
+      "gloss": "પાસે"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "પ્રાણી"
+    },
+    {
+      "surface": "מת",
+      "gloss": "મૃત"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ન"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "જાય"
+    }
+  ],
+  "timestamp": "2026-08-21T11:50:45.493703149Z",
+  "model": "glm-5.3"
+}

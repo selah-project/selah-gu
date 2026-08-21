@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "nehemiah 7:4",
+  "book": "nehemiah",
+  "lang": "gu",
+  "chapter": 7,
+  "translation": "અને ⟨the⟩ શહેર હાથ પ્રમાણે પહોળું અને મોટું ⟨was⟩, અને ⟨the⟩ લોક તેની અંદર થોડા ⟨were⟩, અને બંધાયેલાં ઘરો નહોતાં.",
+  "tokens": [
+    {
+      "surface": "והעיר",
+      "gloss": "અને શહેર"
+    },
+    {
+      "surface": "רחבת",
+      "gloss": "પહોળું"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "હાથ પ્રમાણે"
+    },
+    {
+      "surface": "וגדולה",
+      "gloss": "અને મોટું"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "અને લોક"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "થોડા"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "તેની અંદર"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "અને નહોતાં"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "ઘરો"
+    },
+    {
+      "surface": "בנוים",
+      "gloss": "બંધાયેલાં"
+    }
+  ],
+  "timestamp": "2026-08-21T17:53:16.150817289Z",
+  "model": "glm-5.3"
+}

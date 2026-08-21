@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "psalms 89:47",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 89,
+  "translation": "ક્યાં સુધી, હે યાહવે, તું સદા માટે છુપાશે? તારો ક્રોધ આગ જેમ બળશે?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "ક્યાં સુધી"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ક્યાં સુધી"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "હે યાહવે"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "તું છુપાશે"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "સદા માટે"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "બળશે"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "જેમ"
+    },
+    {
+      "surface": "אש",
+      "gloss": "આગ"
+    },
+    {
+      "surface": "חמתך",
+      "gloss": "તારો ક્રોધ"
+    }
+  ],
+  "timestamp": "2026-08-21T16:34:06.417270914Z",
+  "model": "glm-5.3"
+}

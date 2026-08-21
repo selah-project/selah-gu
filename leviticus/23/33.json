@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 23:33",
+  "book": "leviticus",
+  "lang": "gu",
+  "chapter": 23,
+  "translation": "અને યાહવે મૂશા પાસે બોલ્યા, કહેતા:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "અને બોલ્યા"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "אל",
+      "gloss": "પાસે"
+    },
+    {
+      "surface": "משה",
+      "gloss": "મૂશા"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "કહેતા"
+    }
+  ],
+  "timestamp": "2026-08-21T11:44:30.038021214Z",
+  "model": "glm-5.3"
+}

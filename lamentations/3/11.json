@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "lamentations 3:11",
+  "book": "lamentations",
+  "lang": "gu",
+  "chapter": 3,
+  "translation": "તેણે મારા માર્ગો વાળી દીધા, અને મને કાઢી નાખ્યો, મને ઉજ્જડ કર્યો.",
+  "tokens": [
+    {
+      "surface": "דרכי",
+      "gloss": "મારા માર્ગો"
+    },
+    {
+      "surface": "סורר",
+      "gloss": "વાળી દીધા"
+    },
+    {
+      "surface": "ויפשחני",
+      "gloss": "અને કાઢી નાખ્યો"
+    },
+    {
+      "surface": "שמני",
+      "gloss": "મને…કર્યો"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "ઉજ્જડ"
+    }
+  ],
+  "timestamp": "2026-08-21T17:25:56.062408325Z",
+  "model": "glm-5.3"
+}

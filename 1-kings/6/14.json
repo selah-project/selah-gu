@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 6:14",
+  "book": "1-kings",
+  "lang": "gu",
+  "chapter": 6,
+  "translation": "અને શલોમોએ ⟨את⟩ ⟨the⟩ ઘર બાંધ્યું અને તેને પૂર્ણ કર્યું.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "અને...બાંધ્યું"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "શલોમોએ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ઘર"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ઘર"
+    },
+    {
+      "surface": "ויכלהו",
+      "gloss": "અને તેને પૂર્ણ કર્યું"
+    }
+  ],
+  "timestamp": "2026-08-21T13:40:05.308121914Z",
+  "model": "glm-5.3"
+}

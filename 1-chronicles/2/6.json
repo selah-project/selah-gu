@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 2:6",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 2,
+  "translation": "અને ઝેરખના પુત્રો: ઝિમ્રી અને એતાન અને હેમાન અને કલકોલ અને દારા — તે બધા પાંચ.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "અને …ના પુત્રો"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "ઝેરખ"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "ઝિમ્રી"
+    },
+    {
+      "surface": "ואיתן",
+      "gloss": "અને એતાન"
+    },
+    {
+      "surface": "והימן",
+      "gloss": "અને હેમાન"
+    },
+    {
+      "surface": "וכלכל",
+      "gloss": "અને કલકોલ"
+    },
+    {
+      "surface": "ודרע",
+      "gloss": "અને દારા"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "તે બધા"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "પાંચ"
+    }
+  ],
+  "timestamp": "2026-08-21T17:59:25.790063179Z",
+  "model": "glm-5.3"
+}

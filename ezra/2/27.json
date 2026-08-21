@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "ezra 2:27",
+  "book": "ezra",
+  "lang": "gu",
+  "chapter": 2,
+  "translation": "મીખમાસના માણસો — સો વીસ, બે.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "માણસો"
+    },
+    {
+      "surface": "מכמס",
+      "gloss": "મીખમાસ"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "સો"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "વીસ"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "બે"
+    }
+  ],
+  "timestamp": "2026-08-21T17:45:09.747101530Z",
+  "model": "glm-5.3"
+}

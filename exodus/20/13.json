@@ -1,0 +1,21 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 20:13",
+  "book": "exodus",
+  "lang": "gu",
+  "chapter": 20,
+  "translation": "તું હત્યા નહિ કરે.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "નહિ"
+    },
+    {
+      "surface": "תרצח",
+      "gloss": "હત્યા કરે"
+    }
+  ],
+  "timestamp": "2026-08-21T11:14:15.160673815Z",
+  "model": "glm-5.3"
+}

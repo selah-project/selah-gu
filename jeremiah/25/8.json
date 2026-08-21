@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 25:8",
+  "book": "jeremiah",
+  "lang": "gu",
+  "chapter": 25,
+  "translation": "તેથી સૈન્યોનો યાહવે આમ કહે છે: કારણ કે તમે ⟨את⟩ મારાં વચનો સાંભળ્યાં નહીં,",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "તેથી"
+    },
+    {
+      "surface": "כה",
+      "gloss": "આમ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "કહે છે"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "સૈન્યોનો"
+    },
+    {
+      "surface": "יען",
+      "gloss": "કારણ કે"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…કે"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "שמעתם",
+      "gloss": "તમે સાંભળ્યાં"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "મારાં વચનો"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "મારાં વચનો"
+    }
+  ],
+  "timestamp": "2026-08-21T14:57:50.381019972Z",
+  "model": "glm-5.3"
+}

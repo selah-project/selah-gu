@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 35:13",
+  "book": "job",
+  "lang": "gu",
+  "chapter": 35,
+  "translation": "ખરેખર એલ શૂન્ય ⟨સાંભળતો⟩ નથી, અને શદ્દાય તેને ⟨જોતો⟩ નથી.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "ખરેખર"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "શૂન્ય"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નથી"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "સાંભળતો"
+    },
+    {
+      "surface": "אל",
+      "gloss": "એલ"
+    },
+    {
+      "surface": "ושדי",
+      "gloss": "અને શદ્દાય"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નથી"
+    },
+    {
+      "surface": "ישורנה",
+      "gloss": "જોતો"
+    }
+  ],
+  "timestamp": "2026-08-21T17:17:10.174864796Z",
+  "model": "glm-5.3"
+}

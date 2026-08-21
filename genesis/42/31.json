@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 42:31",
+  "book": "genesis",
+  "lang": "gu",
+  "chapter": 42,
+  "translation": "અને અમે તેને કહ્યું: અમે પ્રામાણિક છીએ; અમે ગુપ્તચરો ⟨નથી⟩.",
+  "tokens": [
+    {
+      "surface": "ונאמר",
+      "gloss": "અને અમે કહ્યું"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "તેને"
+    },
+    {
+      "surface": "כנים",
+      "gloss": "પ્રામાણિક"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "અમે"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "છીએ\/હતા"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "ગુપ્તચરો"
+    }
+  ],
+  "timestamp": "2026-08-21T11:02:13.136920832Z",
+  "model": "glm-5.3"
+}

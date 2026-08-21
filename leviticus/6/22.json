@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 6:22",
+  "book": "leviticus",
+  "lang": "gu",
+  "chapter": 6,
+  "translation": "કોહેનોમાંનો દરેક પુરુષ તેને ખાશે; ⟨את⟩ તે પરમ-પવિત્ર (કોદેશ કોદશીમ) ⟨છે⟩.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "દરેક"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "પુરુષ"
+    },
+    {
+      "surface": "בכהנים",
+      "gloss": "કોહેનોમાંનો"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ખાશે"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "તેને"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "પવિત્ર"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "પરમ-પવિત્ર (કોદેશ કોદશીમ)"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "તે"
+    }
+  ],
+  "timestamp": "2026-08-21T11:30:48.362667810Z",
+  "model": "glm-5.3"
+}

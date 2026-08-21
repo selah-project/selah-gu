@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 24:15",
+  "book": "ezekiel",
+  "lang": "gu",
+  "chapter": 24,
+  "translation": "અને યાહવેનું વચન મને આવ્યું, કહેતાં:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "અને…આવ્યું"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "વચન"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવેનું"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "મને"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "કહેતાં"
+    }
+  ],
+  "timestamp": "2026-08-21T15:31:16.736082595Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "lamentations 3:60",
+  "book": "lamentations",
+  "lang": "gu",
+  "chapter": 3,
+  "translation": "તેં ⟨એમનાં⟩ સર્વ પ્રતિશોધ જોયા, ⟨એમની⟩ મારા વિરુદ્ધની સર્વ યોજનાઓ.",
+  "tokens": [
+    {
+      "surface": "ראיתה",
+      "gloss": "તેં જોયા"
+    },
+    {
+      "surface": "כל",
+      "gloss": "સર્વ"
+    },
+    {
+      "surface": "נקמתם",
+      "gloss": "પ્રતિશોધ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "સર્વ"
+    },
+    {
+      "surface": "מחשבתם",
+      "gloss": "યોજનાઓ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "મારા વિરુદ્ધ"
+    }
+  ],
+  "timestamp": "2026-08-21T17:25:33.997697068Z",
+  "model": "glm-5.3"
+}

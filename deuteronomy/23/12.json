@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 23:12",
+  "book": "deuteronomy",
+  "lang": "gu",
+  "chapter": 23,
+  "translation": "અને સંધ્યા ઢળે ત્યારે તે પાણીથી સ્નાન કરશે, અને સૂર્ય આવે ત્યારે તે છાવણીની અંદર આવશે.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "અને થશે"
+    },
+    {
+      "surface": "לפנות",
+      "gloss": "ઢળે ત્યારે"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "સંધ્યા"
+    },
+    {
+      "surface": "ירחץ",
+      "gloss": "તે સ્નાન કરશે"
+    },
+    {
+      "surface": "במים",
+      "gloss": "પાણીથી"
+    },
+    {
+      "surface": "וכבא",
+      "gloss": "અને…આવે ત્યારે"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "સૂર્ય"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "તે આવશે"
+    },
+    {
+      "surface": "אל",
+      "gloss": "માં"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "અંદર"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "છાવણીની"
+    }
+  ],
+  "timestamp": "2026-08-21T12:25:27.088967305Z",
+  "model": "glm-5.3"
+}

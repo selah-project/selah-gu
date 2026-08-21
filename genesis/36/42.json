@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "genesis 36:42",
+  "book": "genesis",
+  "lang": "gu",
+  "chapter": 36,
+  "translation": "સરદાર કેનાઝ, સરદાર તેમાન, સરદાર મિબત્સાર.",
+  "tokens": [
+    {
+      "surface": "אלוף",
+      "gloss": "સરદાર"
+    },
+    {
+      "surface": "קנז",
+      "gloss": "કેનાઝ"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "સરદાર"
+    },
+    {
+      "surface": "תימן",
+      "gloss": "તેમાન"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "સરદાર"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "મિબત્સાર"
+    }
+  ],
+  "timestamp": "2026-08-21T10:55:54.827679446Z",
+  "model": "glm-5.3"
+}

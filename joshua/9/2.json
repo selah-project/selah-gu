@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 9:2",
+  "book": "joshua",
+  "lang": "gu",
+  "chapter": 9,
+  "translation": "તે એકસાથે ભેગા થયા, યહોશુઆ અને ઇસ્રાએલ સામે યુદ્ધ કરવા — એક મુખ થઈને.",
+  "tokens": [
+    {
+      "surface": "ויתקבצו",
+      "gloss": "ભેગા થયા"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "એકસાથે"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "યુદ્ધ કરવા"
+    },
+    {
+      "surface": "עם",
+      "gloss": "સામે"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "યહોશુઆ"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "અને"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ઇસ્રાએલ"
+    },
+    {
+      "surface": "פה",
+      "gloss": "મુખ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "એક"
+    }
+  ],
+  "timestamp": "2026-08-21T12:37:07.945619104Z",
+  "model": "glm-5.3"
+}

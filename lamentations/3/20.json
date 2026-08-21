@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "lamentations 3:20",
+  "book": "lamentations",
+  "lang": "gu",
+  "chapter": 3,
+  "translation": "યાદ કરે યાદ કરેને મારી નફશ, અને મારા ઉપર નમી જાય છે ⟨એ⟩.",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "યાદ કરે"
+    },
+    {
+      "surface": "תזכור",
+      "gloss": "યાદ કરેને"
+    },
+    {
+      "surface": "ותשיח",
+      "gloss": "અને નમી જાય છે"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "મારા ઉપર"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "મારી નફશ"
+    }
+  ],
+  "timestamp": "2026-08-21T17:26:05.697350518Z",
+  "model": "glm-5.3"
+}

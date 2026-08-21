@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 36:27",
+  "book": "genesis",
+  "lang": "gu",
+  "chapter": 36,
+  "translation": "આ છે એત્સેરનાં પુત્રો: બિલહાન, ઝાવાન અને અકાન.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "આ છે"
+    },
+    {
+      "surface": "בני",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "אצר",
+      "gloss": "એત્સેરનાં"
+    },
+    {
+      "surface": "בלהן",
+      "gloss": "બિલહાન"
+    },
+    {
+      "surface": "וזעון",
+      "gloss": "ઝાવાન"
+    },
+    {
+      "surface": "ועקן",
+      "gloss": "અને અકાન"
+    }
+  ],
+  "timestamp": "2026-08-21T10:56:35.290432176Z",
+  "model": "glm-5.3"
+}

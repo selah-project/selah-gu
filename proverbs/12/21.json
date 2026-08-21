@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 12:21",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 12,
+  "translation": "સદાચારીને કોઈ અકળિત પાપ મળશે નહીં, પણ દુષ્ટો અનિષ્ટથી ભરાયેલા છે.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "יאנה",
+      "gloss": "મળશે"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "સદાચારીને"
+    },
+    {
+      "surface": "כל",
+      "gloss": "કોઈ"
+    },
+    {
+      "surface": "און",
+      "gloss": "અકળિત પાપ"
+    },
+    {
+      "surface": "ורשעים",
+      "gloss": "પણ દુષ્ટો"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "ભરાયેલા છે"
+    },
+    {
+      "surface": "רע",
+      "gloss": "અનિષ્ટથી"
+    }
+  ],
+  "timestamp": "2026-08-21T16:55:01.153987400Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 1:3",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 1,
+  "translation": "હનોખ, મતૂશેલાખ, લેમેખ;",
+  "tokens": [
+    {
+      "surface": "חנוך",
+      "gloss": "હનોખ"
+    },
+    {
+      "surface": "מתושלח",
+      "gloss": "મતૂશેલાખ"
+    },
+    {
+      "surface": "למך",
+      "gloss": "લેમેખ"
+    }
+  ],
+  "timestamp": "2026-08-21T17:59:07.991812991Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 51:14",
+  "book": "isaiah",
+  "lang": "gu",
+  "chapter": 51,
+  "translation": "ઝડપથી ખુલવા લાગશે ⟨the⟩ પથિક બંદી; તે ગુફામાં મરશે નહીં, અને તેનો અન્ન ખૂટશે નહીં.",
+  "tokens": [
+    {
+      "surface": "מהר",
+      "gloss": "ઝડપથી"
+    },
+    {
+      "surface": "צעה",
+      "gloss": "પથિક બંદી"
+    },
+    {
+      "surface": "להפתח",
+      "gloss": "ખુલવા"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "અને નહીં"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "મરશે"
+    },
+    {
+      "surface": "לשחת",
+      "gloss": "ગુફામાં"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "અને નહીં"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "ખૂટશે"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "તેનો અન્ન"
+    }
+  ],
+  "timestamp": "2026-08-21T14:37:38.493436753Z",
+  "model": "glm-5.3"
+}

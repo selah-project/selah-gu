@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 19:3",
+  "book": "joshua",
+  "lang": "gu",
+  "chapter": 19,
+  "translation": "અને ખત્સર-શૂઆલ, અને બાલા, અને એત્સેમ.",
+  "tokens": [
+    {
+      "surface": "וחצר",
+      "gloss": "અને ખત્સર-"
+    },
+    {
+      "surface": "שועל",
+      "gloss": "-શૂઆલ"
+    },
+    {
+      "surface": "ובלה",
+      "gloss": "અને બાલા"
+    },
+    {
+      "surface": "ועצם",
+      "gloss": "અને એત્સેમ"
+    }
+  ],
+  "timestamp": "2026-08-21T12:41:09.721030196Z",
+  "model": "glm-5.3"
+}

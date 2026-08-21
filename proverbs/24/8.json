@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 24:8",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 24,
+  "translation": "પ્રકૃતિ કરવા કલ્પના કરનારને — તેને દુષ્ટ કપટોનો સ્વામી કહેવાશે.",
+  "tokens": [
+    {
+      "surface": "מחשב",
+      "gloss": "કલ્પના કરનારને"
+    },
+    {
+      "surface": "להרע",
+      "gloss": "પ્રકૃતિ કરવા"
+    },
+    {
+      "surface": "לו",
+      "gloss": "તેને"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "સ્વામી"
+    },
+    {
+      "surface": "מזמות",
+      "gloss": "દુષ્ટ કપટોનો"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "કહેવાશે"
+    }
+  ],
+  "timestamp": "2026-08-21T17:00:46.619138139Z",
+  "model": "glm-5.3"
+}

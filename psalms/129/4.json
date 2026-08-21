@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 129:4",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 129,
+  "translation": "યાહવે ન્યાયી ⟨છે⟩; ⟨તેમણે⟩ દુષ્ટોની દોરડીઓ કાપી નાખી.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ન્યાયી"
+    },
+    {
+      "surface": "קצץ",
+      "gloss": "કાપી નાખી"
+    },
+    {
+      "surface": "עבות",
+      "gloss": "દોરડીઓ"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "દુષ્ટોની"
+    }
+  ],
+  "timestamp": "2026-08-21T16:46:13.694874471Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 26:4",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 26,
+  "translation": "મૂર્ખને તેની મૂર્ખાઈ પ્રમાણે ઉત્તર આપતો નહિ, કેમ જો તું પણ તેની જેમ ન થઈ જાય.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "નહિ"
+    },
+    {
+      "surface": "תען",
+      "gloss": "ઉત્તર આપતો"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "મૂર્ખને"
+    },
+    {
+      "surface": "כאולתו",
+      "gloss": "તેની મૂર્ખાઈ પ્રમાણે"
+    },
+    {
+      "surface": "פן",
+      "gloss": "કેમ જો"
+    },
+    {
+      "surface": "תשוה",
+      "gloss": "તેની જેમ થઈ જાય"
+    },
+    {
+      "surface": "לו",
+      "gloss": "તેની"
+    },
+    {
+      "surface": "גם",
+      "gloss": "પણ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "તું"
+    }
+  ],
+  "timestamp": "2026-08-21T17:01:41.353409714Z",
+  "model": "glm-5.3"
+}

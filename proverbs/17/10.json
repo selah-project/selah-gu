@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 17:10",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 17,
+  "translation": "સમજનાર પર ઠપકો ઊતરે છે કરડનાર કરતાં વધુ — મૂર્ખ પર સો તાડણાં કરતાં વધુ.",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "ઊતરે છે"
+    },
+    {
+      "surface": "גערה",
+      "gloss": "ઠપકો"
+    },
+    {
+      "surface": "במבין",
+      "gloss": "સમજનાર પર"
+    },
+    {
+      "surface": "מהכות",
+      "gloss": "કરડનાર કરતાં"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "મૂર્ખ પર"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "સો"
+    }
+  ],
+  "timestamp": "2026-08-21T16:57:02.575102626Z",
+  "model": "glm-5.3"
+}

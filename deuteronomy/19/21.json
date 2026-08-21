@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 19:21",
+  "book": "deuteronomy",
+  "lang": "gu",
+  "chapter": 19,
+  "translation": "અને તારી આંખ દયા ન કરશે — જીવન બદલ જીવન, આંખ બદલ આંખ, દાંત બદલ દાંત, હાથ બદલ હાથ, પગ બદલ પગ.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "અને... નહીં"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "દયા કરશે"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "તારી આંખ"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "જીવન"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "બદલ જીવન"
+    },
+    {
+      "surface": "עין",
+      "gloss": "આંખ"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "બદલ આંખ"
+    },
+    {
+      "surface": "שן",
+      "gloss": "દાંત"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "બદલ દાંત"
+    },
+    {
+      "surface": "יד",
+      "gloss": "હાથ"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "બદલ હાથ"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "પગ"
+    },
+    {
+      "surface": "ברגל",
+      "gloss": "બદલ પગ"
+    }
+  ],
+  "timestamp": "2026-08-21T18:38:44.898452195Z",
+  "model": "glm-5.3"
+}

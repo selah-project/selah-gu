@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 21:13",
+  "book": "leviticus",
+  "lang": "gu",
+  "chapter": 21,
+  "translation": "અને ⟨he⟩ પોતાની કુવારીપણામાં જ સ્ત્રી લેશે.",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "અને ⟨he⟩"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "સ્ત્રી"
+    },
+    {
+      "surface": "בבתוליה",
+      "gloss": "પોતાની કુવારીપણામાં"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "લેશે"
+    }
+  ],
+  "timestamp": "2026-08-21T11:41:47.089974583Z",
+  "model": "glm-5.3"
+}

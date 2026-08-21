@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 1:18",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 1,
+  "translation": "અને અર્પચશદે ⟨את⟩ શેલાહને જન્મ આપ્યો, અને શેલાહે ⟨את⟩ એવેરને જન્મ આપ્યો.",
+  "tokens": [
+    {
+      "surface": "וארפכשד",
+      "gloss": "અને અર્પચશદે"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "જન્મ આપ્યો"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "શેલાહ"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "શેલાહને"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "અને શેલાહે"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "જન્મ આપ્યો"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "એવેર"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "એવેરને"
+    }
+  ],
+  "timestamp": "2026-08-21T17:59:41.175023116Z",
+  "model": "glm-5.3"
+}

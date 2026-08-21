@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 19:4",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 19,
+  "translation": "સંપત્તિ ઘણા મિત્રો વધારે છે, પણ દરિદ્રિ ⟨તેના⟩ મિત્રથી અલગ થઈ જાય છે.",
+  "tokens": [
+    {
+      "surface": "הון",
+      "gloss": "સંપત્તિ"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "વધારે છે"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "મિત્રો"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ઘણા"
+    },
+    {
+      "surface": "ודל",
+      "gloss": "પણ દરિદ્રિ"
+    },
+    {
+      "surface": "מרעהו",
+      "gloss": "મિત્રથી"
+    },
+    {
+      "surface": "יפרד",
+      "gloss": "અલગ થઈ જાય છે"
+    }
+  ],
+  "timestamp": "2026-08-21T16:59:15.499512131Z",
+  "model": "glm-5.3"
+}

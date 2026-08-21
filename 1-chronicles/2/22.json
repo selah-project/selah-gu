@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 2:22",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 2,
+  "translation": "અને સેગુબે ⟨את⟩ યાઈરને જન્મ આપ્યો, અને તેને ગિલઆદ દેશમાં ત્રીસ અને ત્રણ નગરો હતાં.",
+  "tokens": [
+    {
+      "surface": "ושגוב",
+      "gloss": "અને સેગુબે"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "જન્મ આપ્યો"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "યાઈર"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "યાઈરને"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "અને ⟨it was⟩"
+    },
+    {
+      "surface": "לו",
+      "gloss": "તેને"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ત્રીસ"
+    },
+    {
+      "surface": "ושלוש",
+      "gloss": "અને ત્રણ"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "નગરો"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "દેશમાં"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "ગિલઆદ"
+    }
+  ],
+  "timestamp": "2026-08-21T17:59:58.582862053Z",
+  "model": "glm-5.3"
+}

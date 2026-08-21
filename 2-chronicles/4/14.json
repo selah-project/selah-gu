@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 4:14",
+  "book": "2-chronicles",
+  "lang": "gu",
+  "chapter": 4,
+  "translation": "અને ⟨את⟩ પાયાઓ બનાવ્યા; અને ⟨את⟩ હંડા બનાવ્યા, પાયાઓ પર ⟨મૂક્યા⟩.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "અને ⟨את⟩",
+      "marks": "પાયાઓ"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "પાયાઓ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "બનાવ્યા"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "અને ⟨את⟩",
+      "marks": "હંડા"
+    },
+    {
+      "surface": "הכירות",
+      "gloss": "હંડા"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "બનાવ્યા"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "પાયાઓ"
+    }
+  ],
+  "timestamp": "2026-08-21T18:16:06.055316171Z",
+  "model": "glm-5.3"
+}

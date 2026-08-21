@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 6:31",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 6,
+  "translation": "અમત્સીનો પુત્ર, બાનીનો પુત્ર, શેમેરનો પુત્ર.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "પુત્ર"
+    },
+    {
+      "surface": "אמצי",
+      "gloss": "અમત્સીનો"
+    },
+    {
+      "surface": "בן",
+      "gloss": "પુત્ર"
+    },
+    {
+      "surface": "בני",
+      "gloss": "બાનીનો"
+    },
+    {
+      "surface": "בן",
+      "gloss": "પુત્ર"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "શેમેરનો"
+    }
+  ],
+  "timestamp": "2026-08-21T18:03:00.198786148Z",
+  "model": "glm-5.3"
+}

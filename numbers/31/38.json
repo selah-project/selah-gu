@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "numbers 31:38",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 31,
+  "translation": "અને ઢોર ૩૬,૦૦૦, જેમાંથી તેમનો મકસ યાહવે માટે ⟨હતો⟩ ૭૨.",
+  "tokens": [
+    {
+      "surface": "והבקר",
+      "gloss": "અને ઢોર"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "૬"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "૩૦"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "હજાર"
+    },
+    {
+      "surface": "ומכסם",
+      "gloss": "અને તેમનો મકસ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "યા׹વે માટે"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "૨"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "૭૦"
+    }
+  ],
+  "timestamp": "2026-08-21T12:07:42.161539921Z",
+  "model": "glm-5.3"
+}

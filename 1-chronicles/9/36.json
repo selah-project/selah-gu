@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 9:36",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 9,
+  "translation": "અને તેનો પુત્ર, જેઠો — અબ્દોન, અને ત્સૂર, અને કિશ, અને બાઅલ, અને નેર, અને નાદાબ.",
+  "tokens": [
+    {
+      "surface": "ובנו",
+      "gloss": "અને તેનો પુત્ર"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "જેઠો"
+    },
+    {
+      "surface": "עבדון",
+      "gloss": "અબ્દોન"
+    },
+    {
+      "surface": "וצור",
+      "gloss": "અને ત્સૂર"
+    },
+    {
+      "surface": "וקיש",
+      "gloss": "અને કિશ"
+    },
+    {
+      "surface": "ובעל",
+      "gloss": "અને બાઅલ"
+    },
+    {
+      "surface": "ונר",
+      "gloss": "અને નેર"
+    },
+    {
+      "surface": "ונדב",
+      "gloss": "અને નાદાબ"
+    }
+  ],
+  "timestamp": "2026-08-21T18:05:31.891901593Z",
+  "model": "glm-5.3"
+}

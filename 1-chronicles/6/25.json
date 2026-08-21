@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 6:25",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 6,
+  "translation": "મીખાએલનો પુત્ર, બાશેયાહનો પુત્ર, મલ્કીયાહનો પુત્ર.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "પુત્ર"
+    },
+    {
+      "surface": "מיכאל",
+      "gloss": "મીખાએલ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "પુત્ર"
+    },
+    {
+      "surface": "בעשיה",
+      "gloss": "બાશેયાહ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "પુત્ર"
+    },
+    {
+      "surface": "מלכיה",
+      "gloss": "મલ્કીયાહ"
+    }
+  ],
+  "timestamp": "2026-08-21T18:03:11.548492151Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 18:7",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 18,
+  "translation": "મૂર્ખનું મુખ તેનો વિનાશ ⟨છે⟩, અને તેના હોઠ તેના જીવનો ળગારો ⟨છે⟩.",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "મુખ"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "મૂર્ખનું"
+    },
+    {
+      "surface": "מחתה",
+      "gloss": "વિનાશ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "તેનો"
+    },
+    {
+      "surface": "ושפתיו",
+      "gloss": "અને તેના હોઠ"
+    },
+    {
+      "surface": "מוקש",
+      "gloss": "ળગારો"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "તેના જીવનો"
+    }
+  ],
+  "timestamp": "2026-08-21T16:58:18.036508351Z",
+  "model": "glm-5.3"
+}

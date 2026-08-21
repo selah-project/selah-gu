@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 13:14",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 13,
+  "translation": "જ્ઞાનીનો તોરાહ જીવનનો ઝરો ⟨છે⟩ — મૃત્યુનાં જાળાંઓથી વળાવવા માટે.",
+  "tokens": [
+    {
+      "surface": "תורת",
+      "gloss": "તોરાહ"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "જ્ઞાનીનો"
+    },
+    {
+      "surface": "מקור",
+      "gloss": "ઝરો"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "જીવનનો"
+    },
+    {
+      "surface": "לסור",
+      "gloss": "વળાવવા માટે"
+    },
+    {
+      "surface": "ממקשי",
+      "gloss": "જાળાંઓથી"
+    },
+    {
+      "surface": "מות",
+      "gloss": "મૃત્યુનાં"
+    }
+  ],
+  "timestamp": "2026-08-21T16:56:02.353526850Z",
+  "model": "glm-5.3"
+}

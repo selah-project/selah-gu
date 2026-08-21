@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 135:10",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 135,
+  "translation": "જેણે ઘણા ગોયોને હરાવ્યા અને બળવાન રાજાઓને માર્યા.",
+  "tokens": [
+    {
+      "surface": "שהכה",
+      "gloss": "જેણે હરાવ્યા"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ગોયોને"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ઘણા"
+    },
+    {
+      "surface": "והרג",
+      "gloss": "અને…માર્યા"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "રાજાઓને"
+    },
+    {
+      "surface": "עצומים",
+      "gloss": "બળવાન"
+    }
+  ],
+  "timestamp": "2026-08-21T16:46:54.944475547Z",
+  "model": "glm-5.3"
+}

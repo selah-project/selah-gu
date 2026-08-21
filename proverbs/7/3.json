@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 7:3",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 7,
+  "translation": "તેમને તારી આંગળીઓ પર બાંધ, તેમને તારા હૃદયના પટ્ટા પર લખ.",
+  "tokens": [
+    {
+      "surface": "קשרם",
+      "gloss": "તેમને બાંધ"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "אצבעתיך",
+      "gloss": "તારી આંગળીઓ"
+    },
+    {
+      "surface": "כתבם",
+      "gloss": "તેમને લખ"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "לוח",
+      "gloss": "પટ્ટા"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "તારા હૃદયના"
+    }
+  ],
+  "timestamp": "2026-08-21T16:54:06.731303054Z",
+  "model": "glm-5.3"
+}

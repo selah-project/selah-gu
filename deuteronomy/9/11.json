@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 9:11",
+  "book": "deuteronomy",
+  "lang": "gu",
+  "chapter": 9,
+  "translation": "અને ચાલીસ દિવસ અને ચાલીસ રાતના અંતે યાહવે મને ⟨את⟩ બે પથ્થરના પટ્ટા આપ્યા — એ કરારના પટ્ટા.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "અને…થયું"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "અંતે"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "ચાલીસ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "દિવસ"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "અને ચાલીસ"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "રાત"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "આપ્યા"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "મને"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "બે પથ્થરના પટ્ટા"
+    },
+    {
+      "surface": "שני",
+      "gloss": "બે"
+    },
+    {
+      "surface": "לחת",
+      "gloss": "પટ્ટા"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "પથ્થરના"
+    },
+    {
+      "surface": "לחות",
+      "gloss": "પટ્ટા"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "કરારના"
+    }
+  ],
+  "timestamp": "2026-08-21T12:18:42.607575565Z",
+  "model": "glm-5.3"
+}

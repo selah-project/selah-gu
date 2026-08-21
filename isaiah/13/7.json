@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 13:7",
+  "book": "isaiah",
+  "lang": "gu",
+  "chapter": 13,
+  "translation": "તેથી બધાં હાથ ઢીલા પડશે, અને માનવનું દરેક હૃદય પીગળી જશે.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "તેથી"
+    },
+    {
+      "surface": "כן",
+      "gloss": ""
+    },
+    {
+      "surface": "כל",
+      "gloss": "બધાં"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "હાથ"
+    },
+    {
+      "surface": "תרפינה",
+      "gloss": "ઢીલા પડશે"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "અને દરેક"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "હૃદય"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "માનવનું"
+    },
+    {
+      "surface": "ימס",
+      "gloss": "પીગળી જશે"
+    }
+  ],
+  "timestamp": "2026-08-21T14:15:31.835620994Z",
+  "model": "glm-5.3"
+}

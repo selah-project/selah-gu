@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 51:18",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 51,
+  "translation": "કે વધેરાની તું ઈચ્છા નથી — આપું તો; હોમ-વધેરામાં તું પ્રસન્નતા નથી.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "કે"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નથી"
+    },
+    {
+      "surface": "תחפץ",
+      "gloss": "ઈચ્છા ધરાવે"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "વધેરો"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "આપું તો"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "હોમ-વધેરો"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નથી"
+    },
+    {
+      "surface": "תרצה",
+      "gloss": "પ્રસન્ન થાય"
+    }
+  ],
+  "timestamp": "2026-08-21T16:24:41.627082770Z",
+  "model": "glm-5.3"
+}

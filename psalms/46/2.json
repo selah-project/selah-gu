@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 46:2",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 46,
+  "translation": "એલોહીમ અમારું શરણ અને બળ ⟨છે⟩, સંકટોમાં મળેલી અત્યંત સહાય.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "એલોહીમ"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "અમારું"
+    },
+    {
+      "surface": "מחסה",
+      "gloss": "શરણ"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "અને બળ"
+    },
+    {
+      "surface": "עזרה",
+      "gloss": "સહાય"
+    },
+    {
+      "surface": "בצרות",
+      "gloss": "સંકટોમાં"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "મળેલી"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "અત્યંત"
+    }
+  ],
+  "timestamp": "2026-08-21T16:23:09.777080279Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "ezra 10:42",
+  "book": "ezra",
+  "lang": "gu",
+  "chapter": 10,
+  "translation": "શાલ્લૂમ, અમર્યાહ, યોસેફ.",
+  "tokens": [
+    {
+      "surface": "שלום",
+      "gloss": "શાલ્લૂમ"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "અમર્યાહ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "યોસેફ"
+    }
+  ],
+  "timestamp": "2026-08-21T17:50:37.761448956Z",
+  "model": "glm-5.3"
+}

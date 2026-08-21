@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "numbers 14:32",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 14,
+  "translation": "અને તમારાં શવો — તમે જ — આ જંગલમાં પડશો.",
+  "tokens": [
+    {
+      "surface": "ופגריכם",
+      "gloss": "અને તમારાં શવો"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "તમે જ"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "પડશો"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "જંગલમાં"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "આ"
+    }
+  ],
+  "timestamp": "2026-08-21T11:56:19.581237749Z",
+  "model": "glm-5.3"
+}

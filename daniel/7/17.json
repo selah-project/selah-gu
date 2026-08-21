@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "daniel 7:17",
+  "book": "daniel",
+  "lang": "gu",
+  "chapter": 7,
+  "translation": "“આ ચાર મહાન પશુઓ એ ⟨છે⟩ ચાર રાજાઓ, જે પૃથ્વીમાંથી ઊઠશે.",
+  "tokens": [
+    {
+      "surface": "אלין",
+      "gloss": "આ"
+    },
+    {
+      "surface": "חיותא",
+      "gloss": "પશુઓ"
+    },
+    {
+      "surface": "רברבתא",
+      "gloss": "મહાન"
+    },
+    {
+      "surface": "די",
+      "gloss": "જે"
+    },
+    {
+      "surface": "אנין",
+      "gloss": "એ"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "ચાર"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "ચાર"
+    },
+    {
+      "surface": "מלכין",
+      "gloss": "રાજાઓ"
+    },
+    {
+      "surface": "יקומון",
+      "gloss": "ઊઠશે"
+    },
+    {
+      "surface": "מן",
+      "gloss": "માંથી"
+    },
+    {
+      "surface": "ארעא",
+      "gloss": "પૃથ્વી"
+    }
+  ],
+  "timestamp": "2026-08-21T17:42:45.214930977Z",
+  "model": "glm-5.3"
+}

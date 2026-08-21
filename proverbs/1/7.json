@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 1:7",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 1,
+  "translation": "યાહવેનો ભય જ્ઞાનનો આરંભ ⟨છે⟩; મૂર્ખો જ્ઞાન અને શિસ્તનો તિરસ્કાર કરે છે.",
+  "tokens": [
+    {
+      "surface": "יראת",
+      "gloss": "ભય"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવેનો"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "આરંભ"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "જ્ઞાનનો"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "જ્ઞાન"
+    },
+    {
+      "surface": "ומוסר",
+      "gloss": "અને શિસ્ત"
+    },
+    {
+      "surface": "אוילים",
+      "gloss": "મૂર્ખો"
+    },
+    {
+      "surface": "בזו",
+      "gloss": "તિરસ્કાર કરે છે"
+    }
+  ],
+  "timestamp": "2026-08-21T16:50:31.879367572Z",
+  "model": "glm-5.3"
+}

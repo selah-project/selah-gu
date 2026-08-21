@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 23:20",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 23,
+  "translation": "દારૂ પીનારાઓમાં ન હો, માંસના ખાઉધામણિયાઓમાં ન હો.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ન"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "હો"
+    },
+    {
+      "surface": "בסבאי",
+      "gloss": "દારૂ પીનારાઓમાં"
+    },
+    {
+      "surface": "יין",
+      "gloss": "દારૂ"
+    },
+    {
+      "surface": "בזללי",
+      "gloss": "ખાઉધામણિયાઓમાં"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "માંસના"
+    },
+    {
+      "surface": "למו",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-21T17:00:59.490654388Z",
+  "model": "glm-5.3"
+}

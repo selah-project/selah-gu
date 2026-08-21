@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "proverbs 23:29",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 23,
+  "translation": "કોને આહ? કોને શોક? કોને ઝઘડા? કોને ફરિયાદ-વાણી? કોને વ્યર્થ ઘા? કોને આંખોનો ધૂંધળો ચમકારો?",
+  "tokens": [
+    {
+      "surface": "למי",
+      "gloss": "કોને"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "આહ"
+    },
+    {
+      "surface": "למי",
+      "gloss": "કોને"
+    },
+    {
+      "surface": "אבוי",
+      "gloss": "શોક"
+    },
+    {
+      "surface": "למי",
+      "gloss": "કોને"
+    },
+    {
+      "surface": "מדונים",
+      "gloss": "ઝઘડા"
+    },
+    {
+      "surface": "למי",
+      "gloss": "કોને"
+    },
+    {
+      "surface": "שיח",
+      "gloss": "ફરિયાદ-વાણી"
+    },
+    {
+      "surface": "למי",
+      "gloss": "કોને"
+    },
+    {
+      "surface": "פצעים",
+      "gloss": "ઘા"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "વ્યર્થ"
+    },
+    {
+      "surface": "למי",
+      "gloss": "કોને"
+    },
+    {
+      "surface": "חכללות",
+      "gloss": "ધૂંધળો ચમકારો"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "આંખોનો"
+    }
+  ],
+  "timestamp": "2026-08-21T17:01:06.633166432Z",
+  "model": "glm-5.3"
+}

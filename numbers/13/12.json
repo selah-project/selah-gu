@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 13:12",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 13,
+  "translation": "દાનના કુળ માટે — અમ્મીએલ, ગમલ્લીનો પુત્ર.",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "કુળ માટે"
+    },
+    {
+      "surface": "דן",
+      "gloss": "દાન"
+    },
+    {
+      "surface": "עמיאל",
+      "gloss": "અમ્મીએલ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "પુત્ર"
+    },
+    {
+      "surface": "גמלי",
+      "gloss": "ગમલ્લી"
+    }
+  ],
+  "timestamp": "2026-08-21T11:55:04.925855292Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 1:37",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 1,
+  "translation": "રેઉએલનાં પુત્રો: નાહત, ઝેરખ, શમ્માહ અને મિઝ્ઝાહ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "રેઉએલનાં"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "નાહત"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "ઝેરખ"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "શમ્માહ"
+    },
+    {
+      "surface": "ומזה",
+      "gloss": "અને મિઝ્ઝાહ"
+    }
+  ],
+  "timestamp": "2026-08-21T17:59:03.805561677Z",
+  "model": "glm-5.3"
+}

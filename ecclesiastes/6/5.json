@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 6:5",
+  "book": "ecclesiastes",
+  "lang": "gu",
+  "chapter": 6,
+  "translation": "સૂર્યને પણ જોયો નથી અને જાણ્યું પણ નથી — આને તેના કરતાં વધુ વિશ્રામ છે.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "પણ"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "સૂર્યને"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નથી"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "જોયો"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "અને નથી"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "જાણ્યું"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "વિશ્રામ"
+    },
+    {
+      "surface": "לזה",
+      "gloss": "આને"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "તેના કરતાં"
+    }
+  ],
+  "timestamp": "2026-08-21T17:31:34.932694424Z",
+  "model": "glm-5.3"
+}

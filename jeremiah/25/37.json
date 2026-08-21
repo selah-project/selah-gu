@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "jeremiah 25:37",
+  "book": "jeremiah",
+  "lang": "gu",
+  "chapter": 25,
+  "translation": "અને શાંતિનાં મેદાનો શાંત થઈ ગયાં છે, યાહવેના ક્રોધના બળતાને કારણે.",
+  "tokens": [
+    {
+      "surface": "ונדמו",
+      "gloss": "શાંત થઈ ગયાં છે"
+    },
+    {
+      "surface": "נאות",
+      "gloss": "મેદાનો"
+    },
+    {
+      "surface": "השלום",
+      "gloss": "શાંતિનાં"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ને કારણે"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "બળતા"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ક્રોધના"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવેના"
+    }
+  ],
+  "timestamp": "2026-08-21T14:56:59.594720869Z",
+  "model": "glm-5.3"
+}

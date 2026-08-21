@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 23:21",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 23,
+  "translation": "મરારીના પુત્રો: માહલી અને મૂશી; માહલીના પુત્રો: એલઆઝાર અને કીશ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "મરારીના"
+    },
+    {
+      "surface": "מחלי",
+      "gloss": "માહલી"
+    },
+    {
+      "surface": "ומושי",
+      "gloss": "અને મૂશી"
+    },
+    {
+      "surface": "בני",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "מחלי",
+      "gloss": "માહલીના"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "એલઆઝાર"
+    },
+    {
+      "surface": "וקיש",
+      "gloss": "અને કીશ"
+    }
+  ],
+  "timestamp": "2026-08-21T19:03:03.685257915Z",
+  "model": "glm-5.3"
+}

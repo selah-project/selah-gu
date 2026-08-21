@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 18:13",
+  "book": "deuteronomy",
+  "lang": "gu",
+  "chapter": 18,
+  "translation": "સંપૂર્ણ તું રહેજે તારા એલોહીમ યાહવે સાથે.",
+  "tokens": [
+    {
+      "surface": "תמים",
+      "gloss": "સંપૂર્ણ"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "તું રહેજે"
+    },
+    {
+      "surface": "עם",
+      "gloss": "સાથે"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "તારા એલોહીમ"
+    }
+  ],
+  "timestamp": "2026-08-21T12:22:37.439974132Z",
+  "model": "glm-5.3"
+}

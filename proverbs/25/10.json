@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 25:10",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 25,
+  "translation": "નહીં તો સાંભળનાર તને કલંકિત કરે, અને તારી કુખ્યાતિ પાછી ન ફરે.",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "નહીં તો"
+    },
+    {
+      "surface": "יחסדך",
+      "gloss": "તને કલંકિત કરે"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "સાંભળનાર"
+    },
+    {
+      "surface": "ודבתך",
+      "gloss": "અને તારી કુખ્યાતિ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ન"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "પાછી ફરે"
+    }
+  ],
+  "timestamp": "2026-08-21T17:00:27.603470731Z",
+  "model": "glm-5.3"
+}

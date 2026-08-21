@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 25:22",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 25,
+  "translation": "પંદરમાં યરેમોત, ⟨તેનાં⟩ પુત્રો અને ⟨તેનાં⟩ ભાઈઓ — બાર જણ.",
+  "tokens": [
+    {
+      "surface": "לחמשה",
+      "gloss": "પંદરમાં"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "પંદરમાં"
+    },
+    {
+      "surface": "לירמות",
+      "gloss": "યરેમોત"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "અને ભાઈઓ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "બાર"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "બાર"
+    }
+  ],
+  "timestamp": "2026-08-21T18:11:02.230786672Z",
+  "model": "glm-5.3"
+}

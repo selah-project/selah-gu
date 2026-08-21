@@ -1,0 +1,44 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 39:35",
+  "book": "exodus",
+  "lang": "gu",
+  "chapter": 39,
+  "translation": "⟨את⟩ સાક્ષ્યનો કોઠ, અને ⟨את⟩ તેની લાકડીઓ, અને ⟨את⟩ કાપોરેત.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "કોઠ"
+    },
+    {
+      "surface": "ארן",
+      "gloss": "કોઠ"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "સાક્ષ્યનો"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "અને ⟨את⟩",
+      "marks": "લાકડીઓ"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "તેની લાકડીઓ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "અને ⟨את⟩",
+      "marks": "કાપોરેત"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "કાપોરેત"
+    }
+  ],
+  "timestamp": "2026-08-21T11:28:52.482977896Z",
+  "model": "glm-5.3"
+}

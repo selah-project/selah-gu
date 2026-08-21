@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 14:9",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 14,
+  "translation": "મૂર્ખો અપરાધની મશ્કરી કરે છે, અને સાચા લોકોમાં ⟨છે⟩ પ્રસન્નતા.",
+  "tokens": [
+    {
+      "surface": "אולים",
+      "gloss": "મૂર્ખો"
+    },
+    {
+      "surface": "יליץ",
+      "gloss": "મશ્કરી કરે છે"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "અપરાધ"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "અને...માં"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "સાચા લોકો"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "પ્રસન્નતા"
+    }
+  ],
+  "timestamp": "2026-08-21T16:55:50.404178453Z",
+  "model": "glm-5.3"
+}

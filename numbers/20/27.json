@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "numbers 20:27",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 20,
+  "translation": "અને મૂષાએ યાહવેએ આદેશ કર્યા પ્રમાણે કર્યું, અને તેઓ સમગ્ર સભાની આંખો સામે હોર ⟨the⟩ પર્વત પર ચઢ્યા.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "અને કર્યું"
+    },
+    {
+      "surface": "משה",
+      "gloss": "મૂષાએ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "પ્રમાણે"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "આદેશ કર્યા"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવેએ"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "અને તેઓ ચઢ્યા"
+    },
+    {
+      "surface": "אל",
+      "gloss": "પર"
+    },
+    {
+      "surface": "הר",
+      "gloss": "હોર"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "⟨the⟩ પર્વત"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "આંખો સામે"
+    },
+    {
+      "surface": "כל",
+      "gloss": "સમગ્ર"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "સભા"
+    }
+  ],
+  "timestamp": "2026-08-21T12:02:04.728555154Z",
+  "model": "glm-5.3"
+}

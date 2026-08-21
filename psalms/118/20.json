@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 118:20",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 118,
+  "translation": "આ ⟨છે⟩ યાહવેનો દરવાજો; ન્યાયીઓ તેમાં પ્રવેશશે.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "આ"
+    },
+    {
+      "surface": "השער",
+      "gloss": "દરવાજો"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "યાહવેનો"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "ન્યાયીઓ"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "પ્રવેશશે"
+    },
+    {
+      "surface": "בו",
+      "gloss": "તેમાં"
+    }
+  ],
+  "timestamp": "2026-08-21T16:43:32.987446714Z",
+  "model": "glm-5.3"
+}

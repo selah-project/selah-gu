@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 48:16",
+  "book": "jeremiah",
+  "lang": "gu",
+  "chapter": 48,
+  "translation": "મોઆબનો વિનાશ આવવા નજીક ⟨છે⟩, અને તેની વિપત્તિ અત્યંત શીઘ્ર ⟨આવશે⟩.",
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "નજીક"
+    },
+    {
+      "surface": "איד",
+      "gloss": "વિનાશ"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "મોઆબનો"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "આવવા"
+    },
+    {
+      "surface": "ורעתו",
+      "gloss": "અને તેની વિપત્તિ"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "શીઘ્ર"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "અત્યંત"
+    }
+  ],
+  "timestamp": "2026-08-21T15:11:26.082011669Z",
+  "model": "glm-5.3"
+}

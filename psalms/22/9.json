@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 22:9",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 22,
+  "translation": "જાહવે પર તેને પડકારો, તે તેને છોડાવે, તે તેને બચાવે, કારણ કે તે તેમાં રાજી છે.",
+  "tokens": [
+    {
+      "surface": "גל",
+      "gloss": "પડકારો"
+    },
+    {
+      "surface": "אל",
+      "gloss": "પર"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "יפלטהו",
+      "gloss": "તેને છોડાવે"
+    },
+    {
+      "surface": "יצילהו",
+      "gloss": "તેને બચાવે"
+    },
+    {
+      "surface": "כי",
+      "gloss": "કારણ કે"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "રાજી છે"
+    },
+    {
+      "surface": "בו",
+      "gloss": "તેમાં"
+    }
+  ],
+  "timestamp": "2026-08-21T16:14:44.407104230Z",
+  "model": "glm-5.3"
+}

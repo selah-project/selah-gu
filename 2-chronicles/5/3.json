@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 5:3",
+  "book": "2-chronicles",
+  "lang": "gu",
+  "chapter": 5,
+  "translation": "અને યિસ્રાએલના બધા પુરુષો તહેવારમાં રાજા પાસે ભેગા થયા — એ ⟨is⟩ સાતમો મહિનો.",
+  "tokens": [
+    {
+      "surface": "ויקהלו",
+      "gloss": "અને ભેગા થયા"
+    },
+    {
+      "surface": "אל",
+      "gloss": "પાસે"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "રાજા"
+    },
+    {
+      "surface": "כל",
+      "gloss": "બધા"
+    },
+    {
+      "surface": "איש",
+      "gloss": "પુરુષો"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "યિસ્રાએલના"
+    },
+    {
+      "surface": "בחג",
+      "gloss": "તહેવારમાં"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "એ"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "મહિનો"
+    },
+    {
+      "surface": "השבעי",
+      "gloss": "સાતમો"
+    }
+  ],
+  "timestamp": "2026-08-21T18:17:45.962547177Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 122:9",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 122,
+  "translation": "યાહવે આપણા એલોહીમના ભવનના કારણે હું તારું ભલું શોધીશ.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "કારણે"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ભવન"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "આપણા એલોહીમ"
+    },
+    {
+      "surface": "אבקשה",
+      "gloss": "હું શોધીશ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ભલું"
+    },
+    {
+      "surface": "לך",
+      "gloss": "તારું"
+    }
+  ],
+  "timestamp": "2026-08-21T16:45:38.351227130Z",
+  "model": "glm-5.3"
+}

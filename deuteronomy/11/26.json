@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 11:26",
+  "book": "deuteronomy",
+  "lang": "gu",
+  "chapter": 11,
+  "translation": "જુઓ, હું આજે તમારી સામે આશીર્વાદ અને શાપ મૂકું છું.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "જુઓ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "હું"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "મૂકું છું"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "તમારી સામે"
+    },
+    {
+      "surface": "היום",
+      "gloss": "આજે"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "આશીર્વાદ"
+    },
+    {
+      "surface": "וקללה",
+      "gloss": "અને શાપ"
+    }
+  ],
+  "timestamp": "2026-08-21T12:18:01.687052943Z",
+  "model": "glm-5.3"
+}

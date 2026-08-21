@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 28:23",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 28,
+  "translation": "માણસને ઠપકો દેનાર પછી કૃપા પામશે — ચીકણી જીભથી મીઠી વાણી કરનાર કરતાં.",
+  "tokens": [
+    {
+      "surface": "מוכיח",
+      "gloss": "ઠપકો દેનાર"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "માણસને"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "પછી"
+    },
+    {
+      "surface": "חן",
+      "gloss": "કૃપા"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "પામશે"
+    },
+    {
+      "surface": "ממחליק",
+      "gloss": "ચીકણી... કરતાં"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "જીભ"
+    }
+  ],
+  "timestamp": "2026-08-21T17:03:23.979531096Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 12:4",
+  "book": "deuteronomy",
+  "lang": "gu",
+  "chapter": 12,
+  "translation": "તમે એમ યાહવે, તમારા એલોહીમને માટે નહીં કરો.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "તમે …કરો"
+    },
+    {
+      "surface": "כן",
+      "gloss": "એમ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "યાહવેને માટે"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "તમારા એલોહીમ"
+    }
+  ],
+  "timestamp": "2026-08-21T12:21:38.291210640Z",
+  "model": "glm-5.3"
+}

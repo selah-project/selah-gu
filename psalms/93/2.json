@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 93:2",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 93,
+  "translation": "તમારું સિંહાસન ત્યાંથી સ્થિર છે; અનાદિકાળથી તમે છો.",
+  "tokens": [
+    {
+      "surface": "נכון",
+      "gloss": "સ્થિર છે"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "તમારું સિંહાસન"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "ત્યાંથી"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "અનાદિકાળથી"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "તમે"
+    }
+  ],
+  "timestamp": "2026-08-21T16:36:47.757458228Z",
+  "model": "glm-5.3"
+}

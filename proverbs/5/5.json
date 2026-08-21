@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 5:5",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 5,
+  "translation": "તેનાં પગ મૃત્યુ તરફ ઊતરે છે; તેનાં પગલાં શેઓલને પકડી લે છે.",
+  "tokens": [
+    {
+      "surface": "רגליה",
+      "gloss": "તેનાં પગ"
+    },
+    {
+      "surface": "ירדות",
+      "gloss": "ઊતરે છે"
+    },
+    {
+      "surface": "מות",
+      "gloss": "મૃત્યુ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "શેઓલ"
+    },
+    {
+      "surface": "צעדיה",
+      "gloss": "તેનાં પગલાં"
+    },
+    {
+      "surface": "יתמכו",
+      "gloss": "પકડી લે છે"
+    }
+  ],
+  "timestamp": "2026-08-21T16:52:17.874221665Z",
+  "model": "glm-5.3"
+}

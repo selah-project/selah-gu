@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 21:15",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 21,
+  "translation": "અને નદીઓનો ઢાળ, જે અરના નિવાસ તરફ વળે છે, અને મોઆબની સીમાને ટેકો આપે છે.",
+  "tokens": [
+    {
+      "surface": "ואשד",
+      "gloss": "અને ઢાળ"
+    },
+    {
+      "surface": "הנחלים",
+      "gloss": "નદીઓનો"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જે"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "વળે છે"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "નિવાસ તરફ"
+    },
+    {
+      "surface": "ער",
+      "gloss": "અરના"
+    },
+    {
+      "surface": "ונשען",
+      "gloss": "અને ટેકો આપે છે"
+    },
+    {
+      "surface": "לגבול",
+      "gloss": "સીમાને"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "મોઆબની"
+    }
+  ],
+  "timestamp": "2026-08-21T12:02:02.676048199Z",
+  "model": "glm-5.3"
+}

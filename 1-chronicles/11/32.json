@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 11:32",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 11,
+  "translation": "ચૂરાય ગાઅશની નદીઓમાંથી, અબીએલ અરબાથી.",
+  "tokens": [
+    {
+      "surface": "חורי",
+      "gloss": "ચૂરાય"
+    },
+    {
+      "surface": "מנחלי",
+      "gloss": "નદીઓમાંથી"
+    },
+    {
+      "surface": "געש",
+      "gloss": "ગાઅશ"
+    },
+    {
+      "surface": "אביאל",
+      "gloss": "અબીએલ"
+    },
+    {
+      "surface": "הערבתי",
+      "gloss": "અરબાથી"
+    }
+  ],
+  "timestamp": "2026-08-21T18:04:28.196510022Z",
+  "model": "glm-5.3"
+}

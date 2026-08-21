@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 3:30",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 3,
+  "translation": "કોઈ માણસ સાથે કારણ વિના ઝઘડીશ નહીં, જો તેણે તને દુષ્ટતા વળતર આપી ન હોય.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "תרוב",
+      "gloss": "ઝઘડીશ નહીં"
+    },
+    {
+      "surface": "עם",
+      "gloss": "સાથે"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "માણસ"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "કારણ વિના"
+    },
+    {
+      "surface": "אם",
+      "gloss": "જો"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "גמלך",
+      "gloss": "તને વળતર આપ્યું"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "દુષ્ટતા"
+    }
+  ],
+  "timestamp": "2026-08-21T16:53:06.906016463Z",
+  "model": "glm-5.3"
+}

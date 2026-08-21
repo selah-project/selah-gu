@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "song-of-songs 1:17",
+  "book": "song-of-songs",
+  "lang": "gu",
+  "chapter": 1,
+  "translation": "અમારા ઘરની કડીઓ દેવદારુ છે, અને અમારાં પટ્ટા સાગનાં છે.",
+  "tokens": [
+    {
+      "surface": "קרות",
+      "gloss": "કડીઓ"
+    },
+    {
+      "surface": "בתינו",
+      "gloss": "અમારા ઘરની"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "દેવદારુ છે"
+    },
+    {
+      "surface": "רחיטנו",
+      "gloss": "અમારાં પટ્ટા"
+    },
+    {
+      "surface": "ברותים",
+      "gloss": "સાગનાં છે"
+    }
+  ],
+  "timestamp": "2026-08-21T17:20:06.303507961Z",
+  "model": "glm-5.3"
+}

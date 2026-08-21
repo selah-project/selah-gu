@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "leviticus 13:50",
+  "book": "leviticus",
+  "lang": "gu",
+  "chapter": 13,
+  "translation": "અને પૂજારી ⟨את⟩ દાગને જોશે, અને દાગ ⟨ધરાવતી વસ્તુને⟩ સાત દિવસ બંધ રાખશે.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "અને જોશે"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "પૂજારી"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "દાગ"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "દાગને"
+    },
+    {
+      "surface": "והסגיר",
+      "gloss": "અને બંધ રાખશે"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "દાગ (ધરાવતી વસ્તુ)"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "દાગ"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "સાત"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "દિવસ"
+    }
+  ],
+  "timestamp": "2026-08-21T11:37:38.313119918Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 8:7",
+  "book": "ecclesiastes",
+  "lang": "gu",
+  "chapter": 8,
+  "translation": "કેમ કે ⟨તે⟩ જાણતો નથી કે શું થશે, કેમ કે જેમ થશે તેમ, તેને કોણ જણાવશે?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "કેમ કે"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "તે…નથી"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "જાણતો"
+    },
+    {
+      "surface": "מה",
+      "gloss": "શું"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "થશે"
+    },
+    {
+      "surface": "כי",
+      "gloss": "કેમ કે"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "જેમ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "થશે"
+    },
+    {
+      "surface": "מי",
+      "gloss": "કોણ"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "જણાવશે"
+    },
+    {
+      "surface": "לו",
+      "gloss": "તેને"
+    }
+  ],
+  "timestamp": "2026-08-21T17:31:41.993676893Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 2:12",
+  "book": "genesis",
+  "lang": "gu",
+  "chapter": 2,
+  "translation": "અને તે ભૂમિનું સોનું સારું ⟨છે⟩; ત્યાં બ્દોલાખ અને શોહામ-પથ્થર છે.",
+  "tokens": [
+    {
+      "surface": "וזהב",
+      "gloss": "અને સોનું"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ભૂમિનું"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "તે"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "સારું"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ત્યાં"
+    },
+    {
+      "surface": "הבדלח",
+      "gloss": "બ્દોલાખ"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "અને પથ્થર"
+    },
+    {
+      "surface": "השהם",
+      "gloss": "શોહામ-"
+    }
+  ],
+  "timestamp": "2026-08-21T10:37:19.727887276Z",
+  "model": "glm-5.3"
+}

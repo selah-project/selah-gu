@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 31:12",
+  "book": "exodus",
+  "lang": "gu",
+  "chapter": 31,
+  "translation": "અને યાહવેએ મોશેને કહ્યું, તે કહેતાં:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "કહ્યું"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવેએ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ને"
+    },
+    {
+      "surface": "משה",
+      "gloss": "મોશે"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "તે કહેતાં"
+    }
+  ],
+  "timestamp": "2026-08-21T11:21:15.849015908Z",
+  "model": "glm-5.3"
+}

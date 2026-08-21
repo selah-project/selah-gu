@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 35:7",
+  "book": "job",
+  "lang": "gu",
+  "chapter": 35,
+  "translation": "જો તું ન્યાયી છે, તો તું તેને શું આપશે? અથવા તે તારા હાથમાંથી શું લેશે?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "જો"
+    },
+    {
+      "surface": "צדקת",
+      "gloss": "તું ન્યાયી છે"
+    },
+    {
+      "surface": "מה",
+      "gloss": "શું"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "તું આપશે"
+    },
+    {
+      "surface": "לו",
+      "gloss": "તેને"
+    },
+    {
+      "surface": "או",
+      "gloss": "અથવા"
+    },
+    {
+      "surface": "מה",
+      "gloss": "શું"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "તારા હાથમાંથી"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "તે લેશે"
+    }
+  ],
+  "timestamp": "2026-08-21T17:16:46.288014881Z",
+  "model": "glm-5.3"
+}

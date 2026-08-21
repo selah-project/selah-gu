@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 4:15",
+  "book": "2-chronicles",
+  "lang": "gu",
+  "chapter": 4,
+  "translation": "⟨את⟩ ⟨the⟩ એક સમુદ્ર, અને ⟨את⟩ તેની નીચે બાર ઢોર.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "એક સમુદ્ર"
+    },
+    {
+      "surface": "הים",
+      "gloss": "સમુદ્ર"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "એક"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "અને ⟨את⟩",
+      "marks": "બાર ઢોર"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "ઢોર"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "બાર"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "…"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "તેની નીચે"
+    }
+  ],
+  "timestamp": "2026-08-21T18:16:06.055454432Z",
+  "model": "glm-5.3"
+}

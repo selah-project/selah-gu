@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 24:17",
+  "book": "isaiah",
+  "lang": "gu",
+  "chapter": 24,
+  "translation": "ભય, અને ખાડો, અને જાળ ⟨છે⟩ તારા પર, હે પૃથ્વીના વતની.",
+  "tokens": [
+    {
+      "surface": "פחד",
+      "gloss": "ભય"
+    },
+    {
+      "surface": "ופחת",
+      "gloss": "અને ખાડો"
+    },
+    {
+      "surface": "ופח",
+      "gloss": "અને જાળ"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "તારા પર"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "વતની"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "પૃથ્વીના"
+    }
+  ],
+  "timestamp": "2026-08-21T18:47:27.723118740Z",
+  "model": "glm-5.3"
+}

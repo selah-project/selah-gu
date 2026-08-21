@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 7:24",
+  "book": "isaiah",
+  "lang": "gu",
+  "chapter": 7,
+  "translation": "તીર અને ધનુષ્ય લઈ ત્યાં આવશે, કારણ કે આખો દેશ કાંટા અને ઝાંખરા થઈ જશે.",
+  "tokens": [
+    {
+      "surface": "בחצים",
+      "gloss": "તીર લઈ"
+    },
+    {
+      "surface": "ובקשת",
+      "gloss": "અને ધનુષ્ય"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "આવશે"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ત્યાં"
+    },
+    {
+      "surface": "כי",
+      "gloss": "કારણ કે"
+    },
+    {
+      "surface": "שמיר",
+      "gloss": "કાંટા"
+    },
+    {
+      "surface": "ושית",
+      "gloss": "અને ઝાંખરા"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "થઈ જશે"
+    },
+    {
+      "surface": "כל",
+      "gloss": "આખો"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "દેશ"
+    }
+  ],
+  "timestamp": "2026-08-21T14:13:10.824034131Z",
+  "model": "glm-5.3"
+}

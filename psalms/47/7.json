@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 47:7",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 47,
+  "translation": "એલોહીમને ભજન ગાઓ, ભજન ગાઓ; અમારા રાજાને ભજન ગાઓ, ભજન ગાઓ.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "ભજન ગાઓ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "એલોહીમને"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "ભજન ગાઓ"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "ભજન ગાઓ"
+    },
+    {
+      "surface": "למלכנו",
+      "gloss": "અમારા રાજાને"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "ભજન ગાઓ"
+    }
+  ],
+  "timestamp": "2026-08-21T16:23:09.227566431Z",
+  "model": "glm-5.3"
+}

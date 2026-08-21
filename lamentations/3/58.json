@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 58,
+  "ref": "lamentations 3:58",
+  "book": "lamentations",
+  "lang": "gu",
+  "chapter": 3,
+  "translation": "અદોનાય, તેં મારા પ્રાણના ઝઘાટ લડ્યા; તેં મારું જીવન છોડાવ્યું.",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "તેં લડ્યા"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "અદોનાય"
+    },
+    {
+      "surface": "ריבי",
+      "gloss": "ઝઘાટ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "મારા પ્રાણના"
+    },
+    {
+      "surface": "גאלת",
+      "gloss": "તેં છોડાવ્યું"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "મારું જીવન"
+    }
+  ],
+  "timestamp": "2026-08-21T17:25:33.997388855Z",
+  "model": "glm-5.3"
+}

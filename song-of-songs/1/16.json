@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "song-of-songs 1:16",
+  "book": "song-of-songs",
+  "lang": "gu",
+  "chapter": 1,
+  "translation": "જુઓ, તું સુંદર ⟨છે⟩, મારા પ્રિય, હા મનોહર પણ; હા, આપણી પથારી લીલમળીલ ⟨છે⟩.",
+  "tokens": [
+    {
+      "surface": "הנך",
+      "gloss": "જુઓ, તું"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "સુંદર"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "મારા પ્રિય"
+    },
+    {
+      "surface": "אף",
+      "gloss": "હા"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "મનોહર"
+    },
+    {
+      "surface": "אף",
+      "gloss": "પણ; હા"
+    },
+    {
+      "surface": "ערשנו",
+      "gloss": "આપણી પથારી"
+    },
+    {
+      "surface": "רעננה",
+      "gloss": "લીલમળીલ"
+    }
+  ],
+  "timestamp": "2026-08-21T17:20:26.591432001Z",
+  "model": "glm-5.3"
+}

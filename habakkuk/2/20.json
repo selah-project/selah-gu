@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "habakkuk 2:20",
+  "book": "habakkuk",
+  "lang": "gu",
+  "chapter": 2,
+  "translation": "પણ યાહવે પોતાના પવિત્ર મંદિરમાં ⟨છે⟩ — ચૂપ રહો તેના સામે, આખી ⟨ધરતી⟩!",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "પણ યાહવે"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "મંદિરમાં"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "પોતાના પવિત્ર"
+    },
+    {
+      "surface": "הס",
+      "gloss": "ચૂપ રહો"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "તેના સામે"
+    },
+    {
+      "surface": "כל",
+      "gloss": "આખી"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨ધરતી⟩"
+    }
+  ],
+  "timestamp": "2026-08-21T15:59:34.264513258Z",
+  "model": "glm-5.3"
+}

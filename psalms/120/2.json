@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 120:2",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 120,
+  "translation": "હે યાહવે, મારા પ્રાણને જૂઠા હોઠથી, છળની જીભથી છોડાવ.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "હે યાહવે"
+    },
+    {
+      "surface": "הצילה",
+      "gloss": "છોડાવ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "મારા પ્રાણને"
+    },
+    {
+      "surface": "משפת",
+      "gloss": "…થી હોઠ"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "જૂઠા"
+    },
+    {
+      "surface": "מלשון",
+      "gloss": "…થી જીભ"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "છળની"
+    }
+  ],
+  "timestamp": "2026-08-21T16:45:37.369575781Z",
+  "model": "glm-5.3"
+}

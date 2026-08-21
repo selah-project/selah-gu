@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 28:23",
+  "book": "deuteronomy",
+  "lang": "gu",
+  "chapter": 28,
+  "translation": "અને તારું આકાશ, જે તારા મસ્તક પર ⟨છે⟩, તાંબું થશે; અને ⟨તે⟩ જમીન, જે તારી નીચે ⟨છે⟩, લોઢું થશે.",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "અને થશે"
+    },
+    {
+      "surface": "שמיך",
+      "gloss": "તારું આકાશ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જે"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "તારા મસ્તક"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "તાંબું"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "અને જમીન"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જે"
+    },
+    {
+      "surface": "תחתיך",
+      "gloss": "તારી નીચે"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "લોઢું"
+    }
+  ],
+  "timestamp": "2026-08-21T12:28:45.853648383Z",
+  "model": "glm-5.3"
+}

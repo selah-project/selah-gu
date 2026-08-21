@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 16:10",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 16,
+  "translation": "તેના પવિત્ર નામમાં ગૌરવ કરો; યાહવેને શોધનારાઓનું હૃદય આનંદિત થાય.",
+  "tokens": [
+    {
+      "surface": "התהללו",
+      "gloss": "ગૌરવ કરો"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "નામમાં"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "તેના પવિત્ર"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "આનંદિત થાય"
+    },
+    {
+      "surface": "לב",
+      "gloss": "હૃદય"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "શોધનારાઓનું"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    }
+  ],
+  "timestamp": "2026-08-21T18:06:35.328905154Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 15:1",
+  "book": "leviticus",
+  "lang": "gu",
+  "chapter": 15,
+  "translation": "અને યાહવે મૂસા અને અહરોનને સંબોધીને બોલ્યા, કહેતા:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "અને બોલ્યા"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "אל",
+      "gloss": "પ્રતિ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "મૂસા"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "અને પ્રતિ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "અહરોન"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "કહેતા"
+    }
+  ],
+  "timestamp": "2026-08-21T11:38:05.559764144Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "lamentations 3:32",
+  "book": "lamentations",
+  "lang": "gu",
+  "chapter": 3,
+  "translation": "કેમ કે જો તે શોક પણ કરાવે, તો તેની હેસેદની અપારતા પ્રમાણે દયા કરે છે —",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "કેમ કે"
+    },
+    {
+      "surface": "אם",
+      "gloss": "જો"
+    },
+    {
+      "surface": "הוגה",
+      "gloss": "શોક કરાવે"
+    },
+    {
+      "surface": "ורחם",
+      "gloss": "દયા કરે છે"
+    },
+    {
+      "surface": "כרב",
+      "gloss": "અપારતા પ્રમાણે"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "તેની હેસેદ"
+    }
+  ],
+  "timestamp": "2026-08-21T17:25:32.744132419Z",
+  "model": "glm-5.3"
+}

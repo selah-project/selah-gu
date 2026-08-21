@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 14:10",
+  "book": "isaiah",
+  "lang": "gu",
+  "chapter": 14,
+  "translation": "બધા જવાબ આપશે અને તને કહેશે: પણ તું અમારા જેવો નબળો થયો! અમારા સમાન થઈ ગયો!",
+  "tokens": [
+    {
+      "surface": "כלם",
+      "gloss": "બધા"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "જવાબ આપશે"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "અને કહેશે"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "તને"
+    },
+    {
+      "surface": "גם",
+      "gloss": "પણ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "તું"
+    },
+    {
+      "surface": "חלית",
+      "gloss": "નબળો થયો"
+    },
+    {
+      "surface": "כמונו",
+      "gloss": "અમારા જેવો"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "અમારા સમાન"
+    },
+    {
+      "surface": "נמשלת",
+      "gloss": "થઈ ગયો"
+    }
+  ],
+  "timestamp": "2026-08-21T14:15:50.925053067Z",
+  "model": "glm-5.3"
+}

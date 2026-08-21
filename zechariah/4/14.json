@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "zechariah 4:14",
+  "book": "zechariah",
+  "lang": "gu",
+  "chapter": 4,
+  "translation": "તો તેણે કહ્યું, આ યિત્સહારના બે પુત્રો છે, જે સમગ્ર પૃથ્વીના અદોનાય પાસે ઊભા છે.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "તો તેણે કહ્યું"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "આ"
+    },
+    {
+      "surface": "שני",
+      "gloss": "બે"
+    },
+    {
+      "surface": "בני",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "היצהר",
+      "gloss": "યિત્સહારના"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "ઊભા છે"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર\/પાસે"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "અદોનાય"
+    },
+    {
+      "surface": "כל",
+      "gloss": "સમગ્ર"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "પૃથ્વીના"
+    }
+  ],
+  "timestamp": "2026-08-21T16:03:28.472928863Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "leviticus 13:38",
+  "book": "leviticus",
+  "lang": "gu",
+  "chapter": 13,
+  "translation": "અને જ્યારે કોઈ પુરુષ કે સ્ત્રીના શરીરની ચામડી પર ધવલચકાં — ધવલચકાં સફેદ — થાય,",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "અને કોઈ પુરુષ"
+    },
+    {
+      "surface": "או",
+      "gloss": "કે"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "સ્ત્રી"
+    },
+    {
+      "surface": "כי",
+      "gloss": "જ્યારે"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "થાય"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "ચામડી પર"
+    },
+    {
+      "surface": "בשרם",
+      "gloss": "તેમના શરીરની"
+    },
+    {
+      "surface": "בהרת",
+      "gloss": "ધવલચકાં"
+    },
+    {
+      "surface": "בהרת",
+      "gloss": "ધવલચકાં"
+    },
+    {
+      "surface": "לבנת",
+      "gloss": "સફેદ"
+    }
+  ],
+  "timestamp": "2026-08-21T11:36:27.976248912Z",
+  "model": "glm-5.3"
+}

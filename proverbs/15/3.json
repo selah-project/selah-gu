@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 15:3",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 15,
+  "translation": "દરેક સ્થાનમાં યાહવેની આંખો ⟨છે⟩, દુષ્ટો અને સારાઓ પર નજર રાખે ⟨છે⟩.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "દરેક"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "સ્થાનમાં"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "આંખો"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવેની"
+    },
+    {
+      "surface": "צפות",
+      "gloss": "નજર રાખે"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "દુષ્ટો"
+    },
+    {
+      "surface": "וטובים",
+      "gloss": "અને સારાઓ"
+    }
+  ],
+  "timestamp": "2026-08-21T16:57:23.747461722Z",
+  "model": "glm-5.3"
+}

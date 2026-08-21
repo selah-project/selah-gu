@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 24:7",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 24,
+  "translation": "મૂર્ખ માટે જ્ઞાન ઊંચું ⟨છે⟩; દરવાજા પર તે ⟨પોતાનું⟩ મુખ ખોલશે નહીં.",
+  "tokens": [
+    {
+      "surface": "ראמות",
+      "gloss": "ઊંચું"
+    },
+    {
+      "surface": "לאויל",
+      "gloss": "મૂર્ખ માટે"
+    },
+    {
+      "surface": "חכמות",
+      "gloss": "જ્ઞાન"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "દરવાજા પર"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "ખોલશે"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "તેનું મુખ"
+    }
+  ],
+  "timestamp": "2026-08-21T17:00:46.619022953Z",
+  "model": "glm-5.3"
+}

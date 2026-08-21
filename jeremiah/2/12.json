@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 2:12",
+  "book": "jeremiah",
+  "lang": "gu",
+  "chapter": 2,
+  "translation": "આ પર સ્તબ્ધ થાઓ, હે આકાશો, અને કાંતરી નાખો, અત્યંત ઉજ્જડ બનો, યાહવેનો નિર્દેશ છે.",
+  "tokens": [
+    {
+      "surface": "שמו",
+      "gloss": "સ્તબ્ધ થાઓ"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "હે આકાશો"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "આ"
+    },
+    {
+      "surface": "ושערו",
+      "gloss": "અને કાંતરી નાખો"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "ઉજ્જડ બનો"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "અત્યંત"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "નિર્દેશ છે"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    }
+  ],
+  "timestamp": "2026-08-21T14:42:49.924160190Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ezekiel 21:22",
+  "book": "ezekiel",
+  "lang": "gu",
+  "chapter": 21,
+  "translation": "અને પણ હું મારી હથેલી હથેલી પર હણીશ, અને મારો ક્રોધ શાંત કરીશ; હું યાહવે બોલ્યો છું.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "અને પણ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "હું"
+    },
+    {
+      "surface": "אכה",
+      "gloss": "હણીશ"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "મારી હથેલી"
+    },
+    {
+      "surface": "אל",
+      "gloss": "પર"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "હથેલી"
+    },
+    {
+      "surface": "והנחתי",
+      "gloss": "અને શાંત કરીશ"
+    },
+    {
+      "surface": "חמתי",
+      "gloss": "મારો ક્રોધ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "હું"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "બોલ્યો છું"
+    }
+  ],
+  "timestamp": "2026-08-21T15:26:38.486776371Z",
+  "model": "glm-5.3"
+}

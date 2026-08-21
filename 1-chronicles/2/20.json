@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 2:20",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 2,
+  "translation": "અને હૂરે ⟨את⟩ ઊરીને જન્મ આપ્યો, અને ઊરીએ ⟨את⟩ બેત્સલએલને જન્મ આપ્યો.",
+  "tokens": [
+    {
+      "surface": "וחור",
+      "gloss": "અને હૂરે"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "જન્મ આપ્યો"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ઊરીને"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "ઊરી"
+    },
+    {
+      "surface": "ואורי",
+      "gloss": "અને ઊરીએ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "જન્મ આપ્યો"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "બેત્સલએલને"
+    },
+    {
+      "surface": "בצלאל",
+      "gloss": "બેત્સલએલ"
+    }
+  ],
+  "timestamp": "2026-08-21T18:00:04.438418144Z",
+  "model": "glm-5.3"
+}

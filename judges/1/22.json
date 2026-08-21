@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "judges 1:22",
+  "book": "judges",
+  "lang": "gu",
+  "chapter": 1,
+  "translation": "અને યોસેફનું ઘર — તેઓ પણ — બેત-એલ સુધી ઊપર ચઢ્યાં; અને યાહવે તેમની સાથે હતો.",
+  "tokens": [
+    {
+      "surface": "ויעלו",
+      "gloss": "અને ઊપર ચઢ્યાં"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ઘર"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "યોસેફનું"
+    },
+    {
+      "surface": "גם",
+      "gloss": "પણ"
+    },
+    {
+      "surface": "הם",
+      "gloss": "તેઓ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "બેત-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "એલ"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "અને યાહવે"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "તેમની સાથે"
+    }
+  ],
+  "timestamp": "2026-08-21T18:39:56.020369793Z",
+  "model": "glm-5.3"
+}

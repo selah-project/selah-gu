@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 17:15",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 17,
+  "translation": "આ બધાં શબ્દો પ્રમાણે અને આ સમગ્ર દર્શન પ્રમાણે, એમ જ નાતાને દાવીદને કહ્યું.",
+  "tokens": [
+    {
+      "surface": "ככל",
+      "gloss": "આ બધાં ... પ્રમાણે"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "શબ્દો"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "આ"
+    },
+    {
+      "surface": "וככל",
+      "gloss": "અને આ સમગ્ર ... પ્રમાણે"
+    },
+    {
+      "surface": "החזון",
+      "gloss": "દર્શન"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "આ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "એમ જ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "કહ્યું"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "નાતાને"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ને (તરફ)"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "દાવીદ"
+    }
+  ],
+  "timestamp": "2026-08-21T18:09:38.483563891Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 14:12",
+  "book": "deuteronomy",
+  "lang": "gu",
+  "chapter": 14,
+  "translation": "અને આ છે જે તમે તેમાંથી ન ખાશો: ગરુડ, અને પેરેસ, અને આઝનિયા.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "અને આ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જે"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ન"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "તમે ખાશો"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "તેમાંથી"
+    },
+    {
+      "surface": "הנשר",
+      "gloss": "ગરુડ"
+    },
+    {
+      "surface": "והפרס",
+      "gloss": "અને પેરેસ"
+    },
+    {
+      "surface": "והעזניה",
+      "gloss": "અને આઝનિયા"
+    }
+  ],
+  "timestamp": "2026-08-21T12:19:38.037714558Z",
+  "model": "glm-5.3"
+}

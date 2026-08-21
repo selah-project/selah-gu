@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 8:9",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 8,
+  "translation": "બધા ⟨છે⟩ સમજનાર માટે સીધા, અને જ્ઞાન મેળવનારાઓ માટે યોગ્ય.",
+  "tokens": [
+    {
+      "surface": "כלם",
+      "gloss": "બધા"
+    },
+    {
+      "surface": "נכחים",
+      "gloss": "સીધા"
+    },
+    {
+      "surface": "למבין",
+      "gloss": "સમજનાર માટે"
+    },
+    {
+      "surface": "וישרים",
+      "gloss": "અને યોગ્ય"
+    },
+    {
+      "surface": "למצאי",
+      "gloss": "મેળવનારાઓ માટે"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "જ્ઞાન"
+    }
+  ],
+  "timestamp": "2026-08-21T16:53:34.084615521Z",
+  "model": "glm-5.3"
+}

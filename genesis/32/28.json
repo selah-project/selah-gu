@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 32:28",
+  "book": "genesis",
+  "lang": "gu",
+  "chapter": 32,
+  "translation": "અને તેણે તેને કહ્યું, “તારું નામ શું છે?” અને તેણે કહ્યું, “યાકોબ.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "તેણે કહ્યું"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "તેને"
+    },
+    {
+      "surface": "מה",
+      "gloss": "શું"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "તારું નામ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "તેણે કહ્યું"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "યાકોબ"
+    }
+  ],
+  "timestamp": "2026-08-21T10:53:19.235947719Z",
+  "model": "glm-5.3"
+}

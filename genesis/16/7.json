@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 16:7",
+  "book": "genesis",
+  "lang": "gu",
+  "chapter": 16,
+  "translation": "અને યાહવેના દૂતે તેણીને જળના ઝરણા પર, જંગલમાં, શૂરના માર્ગ પરના ઝરણા પર શોધી કાઢી.",
+  "tokens": [
+    {
+      "surface": "וימצאה",
+      "gloss": "અને શોધી કાઢી"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "દૂત"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવેના"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ઝરણા"
+    },
+    {
+      "surface": "המים",
+      "gloss": "જળના"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "જંગલમાં"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "העין",
+      "gloss": "ઝરણા"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "માર્ગ પર"
+    },
+    {
+      "surface": "שור",
+      "gloss": "શૂરના"
+    }
+  ],
+  "timestamp": "2026-08-21T10:44:28.330832611Z",
+  "model": "glm-5.3"
+}

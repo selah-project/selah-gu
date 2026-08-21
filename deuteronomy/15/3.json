@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 15:3",
+  "book": "deuteronomy",
+  "lang": "gu",
+  "chapter": 15,
+  "translation": "વિદેશી પાસેથી તું વસૂલ કરશે, પણ જે કંઈ તારા ભાઈ પાસે તારું હોય તે તારો હાથ છોડી દેશે.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "વિદેશી"
+    },
+    {
+      "surface": "הנכרי",
+      "gloss": "વિદેશી"
+    },
+    {
+      "surface": "תגש",
+      "gloss": "તું વસૂલ કરશે"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "પણ જે કંઈ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "હોય"
+    },
+    {
+      "surface": "לך",
+      "gloss": "તારું"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ સાથે"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "તારા ભાઈ"
+    },
+    {
+      "surface": "תשמט",
+      "gloss": "છોડી દેશે"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "તારો હાથ"
+    }
+  ],
+  "timestamp": "2026-08-21T12:21:15.346703632Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "lamentations 5:1",
+  "book": "lamentations",
+  "lang": "gu",
+  "chapter": 5,
+  "translation": "યાહવે, યાદ રાખો આપણને શું થયું; જુઓ અને ⟨את⟩ આપણી અપમાનિતતા દેખો.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "યાદ રાખો"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "מה",
+      "gloss": "શું"
+    },
+    {
+      "surface": "היה",
+      "gloss": "થયું"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "આપણને"
+    },
+    {
+      "surface": "הביט",
+      "gloss": "જુઓ"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "અને દેખો"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "આપણી અપમાનિતતા"
+    },
+    {
+      "surface": "חרפתנו",
+      "gloss": "આપણી અપમાનિતતા"
+    }
+  ],
+  "timestamp": "2026-08-21T17:28:13.699239012Z",
+  "model": "glm-5.3"
+}

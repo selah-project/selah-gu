@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 10:2",
+  "book": "ecclesiastes",
+  "lang": "gu",
+  "chapter": 10,
+  "translation": "જ્ઞાનીનું હૃદય તેની જમણી તરફ ⟨છે⟩, અને મૂર્ખનું હૃદય તેની ડાબી તરફ ⟨છે⟩.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "હૃદય"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "જ્ઞાનીનું"
+    },
+    {
+      "surface": "לימינו",
+      "gloss": "તેની જમણી તરફ"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "અને હૃદય"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "મૂર્ખનું"
+    },
+    {
+      "surface": "לשמאלו",
+      "gloss": "તેની ડાબી તરફ"
+    }
+  ],
+  "timestamp": "2026-08-21T17:30:49.969061597Z",
+  "model": "glm-5.3"
+}

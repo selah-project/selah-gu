@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 7:11",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 7,
+  "translation": "તે શોર કરનારી ⟨છે⟩ અને આજ્ઞાભંઘક છે; તેના પગ તેના ઘરમાં રહેતા નથી.",
+  "tokens": [
+    {
+      "surface": "המיה",
+      "gloss": "શોર કરનારી"
+    },
+    {
+      "surface": "היא",
+      "gloss": "તે"
+    },
+    {
+      "surface": "וסררת",
+      "gloss": "અને આજ્ઞાભંઘક"
+    },
+    {
+      "surface": "בביתה",
+      "gloss": "તેના ઘરમાં"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નથી"
+    },
+    {
+      "surface": "ישכנו",
+      "gloss": "રહેતા"
+    },
+    {
+      "surface": "רגליה",
+      "gloss": "તેના પગ"
+    }
+  ],
+  "timestamp": "2026-08-21T16:53:21.501902464Z",
+  "model": "glm-5.3"
+}

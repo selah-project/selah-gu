@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 30:16",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 30,
+  "translation": "શેઓલ, અને બંધ ગર્ભ, પાણીથી સંતૃપ્ત ન થતી પૃથ્વી, અને એવી અગ્નિ કે કહેતી નથી ‘પૂરું છે’.",
+  "tokens": [
+    {
+      "surface": "שאול",
+      "gloss": "શેઓલ"
+    },
+    {
+      "surface": "ועצר",
+      "gloss": "અને બંધ"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "ગર્ભ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "પૃથ્વી"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ન"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "સંતૃપ્ત થતી"
+    },
+    {
+      "surface": "מים",
+      "gloss": "પાણીથી"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "અને અગ્નિ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નથી"
+    },
+    {
+      "surface": "אמרה",
+      "gloss": "કહેતી"
+    },
+    {
+      "surface": "הון",
+      "gloss": "‘પૂરું છે’"
+    }
+  ],
+  "timestamp": "2026-08-21T17:03:24.921911385Z",
+  "model": "glm-5.3"
+}

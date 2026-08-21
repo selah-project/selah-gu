@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "deuteronomy 2:27",
+  "book": "deuteronomy",
+  "lang": "gu",
+  "chapter": 2,
+  "translation": "હું તારા દેશમાંથી પસાર થઉં; માર્ગે, માર્ગે ચાલું; જમણી બાજુ કે ડાબી બાજુ વળીશ નહીં.",
+  "tokens": [
+    {
+      "surface": "אעברה",
+      "gloss": "પસાર થઉં"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "તારા દેશમાંથી"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "માર્ગે"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "માર્ગે"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "ચાલું"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "אסור",
+      "gloss": "વળીશ"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "જમણી બાજુ"
+    },
+    {
+      "surface": "ושמאול",
+      "gloss": "કે ડાબી બાજુ"
+    }
+  ],
+  "timestamp": "2026-08-21T12:12:54.829428355Z",
+  "model": "glm-5.3"
+}

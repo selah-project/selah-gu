@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 17:22",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 17,
+  "translation": "અને મૂશાએ ⟨את⟩ મૂઠો યાહવેના સામે સાક્ષીના ડેરામાં મૂકી.",
+  "tokens": [
+    {
+      "surface": "וינח",
+      "gloss": "અને મૂકી"
+    },
+    {
+      "surface": "משה",
+      "gloss": "મૂશાએ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "મૂઠો"
+    },
+    {
+      "surface": "המטת",
+      "gloss": "મૂઠો"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "…ના સામે"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવેના"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "ડેરામાં"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "સાક્ષીના"
+    }
+  ],
+  "timestamp": "2026-08-21T11:58:37.896777589Z",
+  "model": "glm-5.3"
+}

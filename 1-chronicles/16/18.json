@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 16:18",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 16,
+  "translation": "કહેતા: તને હું કનાન દેશ આપીશ, તમારી વિરાસતની દોર (માપ-દોર) આપીશ.",
+  "tokens": [
+    {
+      "surface": "לאמר",
+      "gloss": "કહેતા"
+    },
+    {
+      "surface": "לך",
+      "gloss": "તને"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "હું આપીશ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "દેશ"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "કનાન"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "દોર (માપ-દોર)"
+    },
+    {
+      "surface": "נחלתכם",
+      "gloss": "તમારી વિરાસતની"
+    }
+  ],
+  "timestamp": "2026-08-21T18:06:31.895846688Z",
+  "model": "glm-5.3"
+}

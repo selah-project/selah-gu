@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 12:28",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 12,
+  "translation": "ન્યાયના માર્ગમાં જીવન ⟨છે⟩, અને તે પગદંડીના માર્ગમાં મૃત્યુ નથી.",
+  "tokens": [
+    {
+      "surface": "בארח",
+      "gloss": "માર્ગમાં"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "ન્યાયના"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "જીવન"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "અને માર્ગ"
+    },
+    {
+      "surface": "נתיבה",
+      "gloss": "પગદંડીના"
+    },
+    {
+      "surface": "אל",
+      "gloss": "નથી"
+    },
+    {
+      "surface": "מות",
+      "gloss": "મૃત્યુ"
+    }
+  ],
+  "timestamp": "2026-08-21T16:55:42.332414612Z",
+  "model": "glm-5.3"
+}

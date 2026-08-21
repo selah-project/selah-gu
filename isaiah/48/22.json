@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 48:22",
+  "book": "isaiah",
+  "lang": "gu",
+  "chapter": 48,
+  "translation": "“દુષ્ટો માટે શાંતિ નથી,” યાહવે કહે છે.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "નથી"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "શાંતિ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "કહે છે"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "לרשעים",
+      "gloss": "દુષ્ટો માટે"
+    }
+  ],
+  "timestamp": "2026-08-21T14:33:35.959691048Z",
+  "model": "glm-5.3"
+}

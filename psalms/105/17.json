@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 105:17",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 105,
+  "translation": "તેમની આગે એક માણસને મોકલ્યો — યોસેફ દાસ બનીને વેચાયો.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "મોકલ્યો"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "તેમની આગે"
+    },
+    {
+      "surface": "איש",
+      "gloss": "એક માણસ"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "દાસ બનીને"
+    },
+    {
+      "surface": "נמכר",
+      "gloss": "વેચાયો"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "યોસેફ"
+    }
+  ],
+  "timestamp": "2026-08-21T16:40:18.530952183Z",
+  "model": "glm-5.3"
+}

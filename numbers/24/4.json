@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 24:4",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 24,
+  "translation": "તેનું વચન જે એલનાં વચનો સાંભળે છે, જે શદ્દાયનું દર્શન દેખે છે, પડેલો અને આંખો ઉઘડેલી ધરાવતો —",
+  "tokens": [
+    {
+      "surface": "נאם",
+      "gloss": "વચન"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "સાંભળે છે"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "વચનો"
+    },
+    {
+      "surface": "אל",
+      "gloss": "એલનાં"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જે"
+    },
+    {
+      "surface": "מחזה",
+      "gloss": "દર્શન"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "શદ્દાયનું"
+    },
+    {
+      "surface": "יחזה",
+      "gloss": "દેખે છે"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "પડેલો"
+    },
+    {
+      "surface": "וגלוי",
+      "gloss": "અને ઉઘડેલી"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "આંખો"
+    }
+  ],
+  "timestamp": "2026-08-21T12:04:59.099039396Z",
+  "model": "glm-5.3"
+}

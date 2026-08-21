@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 16:30",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 16,
+  "translation": "તેની સમક્ષ સઘળી પૃથ્વી કાંપે; હા, પ્રથ્વી સ્થિર થશે, તે ડોલશે નહીં.",
+  "tokens": [
+    {
+      "surface": "חילו",
+      "gloss": "કાંપે"
+    },
+    {
+      "surface": "מלפניו",
+      "gloss": "તેની સમક્ષ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "સઘળી"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "પૃથ્વી"
+    },
+    {
+      "surface": "אף",
+      "gloss": "હા"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "સ્થિર થશે"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "પ્રથ્વી"
+    },
+    {
+      "surface": "בל",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "ડોલશે"
+    }
+  ],
+  "timestamp": "2026-08-21T18:08:59.013519114Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-samuel 2:34",
+  "book": "1-samuel",
+  "lang": "gu",
+  "chapter": 2,
+  "translation": "અને આ તને ⟨એ⟩ ચિહ્ન ⟨છે⟩, જે તારા બે પુત્રો — ખાફ્ની અને પિનખાસ — પર આવશે: એક જ દિવસે તે બંને મરશે.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "અને આ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "તને"
+    },
+    {
+      "surface": "האות",
+      "gloss": "ચિહ્ન"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જે"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "આવશે"
+    },
+    {
+      "surface": "אל",
+      "gloss": "પર"
+    },
+    {
+      "surface": "שני",
+      "gloss": "બે"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "אל",
+      "gloss": "એટલે કે"
+    },
+    {
+      "surface": "חפני",
+      "gloss": "ખાફ્ની"
+    },
+    {
+      "surface": "ופינחס",
+      "gloss": "અને પિનખાસ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "દિવસે"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "એક"
+    },
+    {
+      "surface": "ימותו",
+      "gloss": "મરશે"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "તે બંને"
+    }
+  ],
+  "timestamp": "2026-08-21T13:00:56.295930648Z",
+  "model": "glm-5.3"
+}

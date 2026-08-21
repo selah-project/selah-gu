@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 9:19",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 9,
+  "translation": "કેમ કે સદાકાળ દરિદ્રી ભૂલાશે નહીં, નમ્રોની આશા સદાકાળ નષ્ટ થશે નહીં.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "કેમ કે"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "સદાકાળ"
+    },
+    {
+      "surface": "ישכח",
+      "gloss": "ભૂલાશે"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "દરિદ્રી"
+    },
+    {
+      "surface": "תקות",
+      "gloss": "આશા"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "નમ્રોની"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "નષ્ટ થશે"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "સદાકાળ"
+    }
+  ],
+  "timestamp": "2026-08-21T16:12:38.819914627Z",
+  "model": "glm-5.3"
+}

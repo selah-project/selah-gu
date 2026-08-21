@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 1:6",
+  "book": "ecclesiastes",
+  "lang": "gu",
+  "chapter": 1,
+  "translation": "દક્ષિણ તરફ જાય છે અને ઉત્તર તરફ ફરે છે; ફરતો-વળતો, ફરતો-વળતો વાયુ ચાલે છે, અને ⟨પોતાના⟩ ચક્કરો પર વાયુ પાછો ફરે છે.",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "જાય છે"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…તરફ"
+    },
+    {
+      "surface": "דרום",
+      "gloss": "દક્ષיף"
+    },
+    {
+      "surface": "וסובב",
+      "gloss": "અને ફરે છે"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…તરફ"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "ઉત્તર"
+    },
+    {
+      "surface": "סובב",
+      "gloss": "ફરતો"
+    },
+    {
+      "surface": "סבב",
+      "gloss": "વળતો"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "ચાલે છે"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "વાયુ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "અને…પર"
+    },
+    {
+      "surface": "סביבתיו",
+      "gloss": "તેના ચક્કરો"
+    },
+    {
+      "surface": "שב",
+      "gloss": "પાછો ફરે છે"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "વાયુ"
+    }
+  ],
+  "timestamp": "2026-08-21T17:29:35.014432084Z",
+  "model": "glm-5.3"
+}

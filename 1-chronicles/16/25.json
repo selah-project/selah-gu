@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 16:25",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 16,
+  "translation": "કેમ કે યાહવે મહાન છે અને અત્યંત સ્તુતિપાત્ર છે, અને ⟨એ⟩ સર્વ એલોહીમ કરતાં ભયજનક છે.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "કેમ કે"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "મહાન"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "ומהלל",
+      "gloss": "અને સ્તુતિપાત્ર"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "અત્યંત"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "અને ભયજનક"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨એ⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "કરતાં"
+    },
+    {
+      "surface": "כל",
+      "gloss": "સર્વ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "એલોહીમ"
+    }
+  ],
+  "timestamp": "2026-08-21T18:06:26.480533868Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "proverbs 16:31",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 16,
+  "translation": "વૃદ્ધાવસ્થા ⟨એ⟩ તેજસ્વીતાનો તાજ છે; તે ન્યાયના માર્ગમાં મળે છે.",
+  "tokens": [
+    {
+      "surface": "עטרת",
+      "gloss": "તાજ"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "તેજસ્વીતાનો"
+    },
+    {
+      "surface": "שיבה",
+      "gloss": "વૃદ્ધાવસ્થા"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "માર્ગમાં"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "ન્યાયના"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "મળે છે"
+    }
+  ],
+  "timestamp": "2026-08-21T16:58:04.783850393Z",
+  "model": "glm-5.3"
+}

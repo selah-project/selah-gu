@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 7:27",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 7,
+  "translation": "તેનું ઘર શેઓલને જતી માર્ગો છે, મૃત્યુના ખંડો સુધી ઊતરતી.",
+  "tokens": [
+    {
+      "surface": "דרכי",
+      "gloss": "માર્ગો"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "શેઓલ"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "તેનું ઘર"
+    },
+    {
+      "surface": "ירדות",
+      "gloss": "ઊતરતી"
+    },
+    {
+      "surface": "אל",
+      "gloss": "સુધી"
+    },
+    {
+      "surface": "חדרי",
+      "gloss": "ખંડો"
+    },
+    {
+      "surface": "מות",
+      "gloss": "મૃત્યુના"
+    }
+  ],
+  "timestamp": "2026-08-21T16:53:17.114427521Z",
+  "model": "glm-5.3"
+}

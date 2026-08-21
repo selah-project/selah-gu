@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "lamentations 3:3",
+  "book": "lamentations",
+  "lang": "gu",
+  "chapter": 3,
+  "translation": "ખરેખર મારી સામે જ તે ફરે છે, તેનો હાથ વળી વળીને આખો દિવસ ⟨મારી પર રહે છે⟩.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "ખરેખર"
+    },
+    {
+      "surface": "בי",
+      "gloss": "મારી સામે"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "ફરે છે"
+    },
+    {
+      "surface": "יהפך",
+      "gloss": "વળી વળીને"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "તેનો હાથ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "આખો"
+    },
+    {
+      "surface": "היום",
+      "gloss": "દિવસ"
+    }
+  ],
+  "timestamp": "2026-08-21T17:25:31.076829689Z",
+  "model": "glm-5.3"
+}

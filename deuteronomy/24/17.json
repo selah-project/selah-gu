@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 24:17",
+  "book": "deuteronomy",
+  "lang": "gu",
+  "chapter": 24,
+  "translation": "તું પરદેશી અને અનાથનો ન્યાય વાંકો ન કરતો, અને વિધવાનો વસ્ત્ર ગિરવે ન રાખતો.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "નહિ"
+    },
+    {
+      "surface": "תטה",
+      "gloss": "વાંકો કરતો"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ન્યાય"
+    },
+    {
+      "surface": "גר",
+      "gloss": "પરદેશીનો"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "અનાથનો"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "અને નહિ"
+    },
+    {
+      "surface": "תחבל",
+      "gloss": "ગિરવે રાખતો"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "વસ્ત્ર"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "વિધવાનો"
+    }
+  ],
+  "timestamp": "2026-08-21T12:26:29.515665246Z",
+  "model": "glm-5.3"
+}

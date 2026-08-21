@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 19:7",
+  "book": "genesis",
+  "lang": "gu",
+  "chapter": 19,
+  "translation": "અને તેણે કહ્યું, હું વિનંતી કરું છું, મારા ભાઈઓ, દુષ્ટતા ન કરો.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "તેણે કહ્યું"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ન"
+    },
+    {
+      "surface": "נא",
+      "gloss": "હું વિનંતી કરું છું"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "મારા ભાઈઓ"
+    },
+    {
+      "surface": "תרעו",
+      "gloss": "દુષ્ટતા કરો"
+    }
+  ],
+  "timestamp": "2026-08-21T10:45:00.536968889Z",
+  "model": "glm-5.3"
+}

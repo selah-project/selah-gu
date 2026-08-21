@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "numbers 26:56",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 26,
+  "translation": "ગોરળના મુખ પ્રમાણે તેમનો વારસો વહેંચાશે, વધુ અને ઓછા વચ્ચે.",
+  "tokens": [
+    {
+      "surface": "על פי",
+      "gloss": "પ્રમાણે"
+    },
+    {
+      "surface": "הגורל",
+      "gloss": "ગોરળના"
+    },
+    {
+      "surface": "תחלק",
+      "gloss": "વહેંચાશે"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "તેમનો વારસો"
+    },
+    {
+      "surface": "בין",
+      "gloss": "વચ્ચે"
+    },
+    {
+      "surface": "רב",
+      "gloss": "વધુ"
+    },
+    {
+      "surface": "למעט",
+      "gloss": "અને ઓછા"
+    }
+  ],
+  "timestamp": "2026-08-21T12:05:48.741580177Z",
+  "model": "glm-5.3"
+}

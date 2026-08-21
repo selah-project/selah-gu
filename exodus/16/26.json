@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 16:26",
+  "book": "exodus",
+  "lang": "gu",
+  "chapter": 16,
+  "translation": "છ દિવસ તમે તેને એકત્ર કરશો, પણ સાતમાં દિવસે — શબ્બાત — તેમાં કંઈ હશે નહીં.",
+  "tokens": [
+    {
+      "surface": "ששת",
+      "gloss": "છ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "દિવસ"
+    },
+    {
+      "surface": "תלקטהו",
+      "gloss": "તમે તેને એકત્ર કરશો"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "પણ…દિવસે"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "સાતમાં"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "શબ્બાત"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "હશે"
+    },
+    {
+      "surface": "בו",
+      "gloss": "તેમાં"
+    }
+  ],
+  "timestamp": "2026-08-21T11:14:23.454557531Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 30:22",
+  "book": "exodus",
+  "lang": "gu",
+  "chapter": 30,
+  "translation": "અને યાહવે મોશેને બોલ્યા, કે તું કહે:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "અને બોલ્યા"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ને (તરફ)"
+    },
+    {
+      "surface": "משה",
+      "gloss": "મોશેને"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "કે તું કહે"
+    }
+  ],
+  "timestamp": "2026-08-21T11:22:04.797988357Z",
+  "model": "glm-5.3"
+}

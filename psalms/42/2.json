@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 42:2",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 42,
+  "translation": "જેમ હરણ પાણીના સોતા માટે તરસે છે, તેમ મારો પ્રાણ તારા માટે, હે એલોહીમ, તરસે છે.",
+  "tokens": [
+    {
+      "surface": "כאיל",
+      "gloss": "જેમ હરણ"
+    },
+    {
+      "surface": "תערג",
+      "gloss": "તરસે છે"
+    },
+    {
+      "surface": "על",
+      "gloss": "માટે"
+    },
+    {
+      "surface": "אפיקי",
+      "gloss": "સોતા"
+    },
+    {
+      "surface": "מים",
+      "gloss": "પાણીના"
+    },
+    {
+      "surface": "כן",
+      "gloss": "તેમ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "મારો પ્રાણ"
+    },
+    {
+      "surface": "תערג",
+      "gloss": "તરસે છે"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "તારા માટે"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "એલોહીમ"
+    }
+  ],
+  "timestamp": "2026-08-21T16:21:47.513277510Z",
+  "model": "glm-5.3"
+}

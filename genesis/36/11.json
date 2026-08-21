@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 36:11",
+  "book": "genesis",
+  "lang": "gu",
+  "chapter": 36,
+  "translation": "અને એલીફાઝના પુત્રો હતા: તેમાન, ઓમાર, ત્સેફો, ગઅતામ અને કેનાઝ।",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "અને ... હતા"
+    },
+    {
+      "surface": "בני",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "એલીફાઝના"
+    },
+    {
+      "surface": "תימן",
+      "gloss": "તેમાન"
+    },
+    {
+      "surface": "אומר",
+      "gloss": "ઓમાર"
+    },
+    {
+      "surface": "צפו",
+      "gloss": "ત્સેફો"
+    },
+    {
+      "surface": "וגעתם",
+      "gloss": "અને ગઅતામ"
+    },
+    {
+      "surface": "וקנז",
+      "gloss": "અને કેનાઝ"
+    }
+  ],
+  "timestamp": "2026-08-21T10:55:46.003190705Z",
+  "model": "glm-5.3"
+}

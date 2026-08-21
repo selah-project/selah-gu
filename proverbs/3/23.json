@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 3:23",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 3,
+  "translation": "ત્યારે તું તારા માર્ગે નિર્ભયપણે ચાલીશ, અને તારો પગ અથડાશે નહીં.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "ત્યારે"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "તું ચાલીશ"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "નિર્ભયપણે"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "તારા માર્ગે"
+    },
+    {
+      "surface": "ורגלך",
+      "gloss": "અને તારો પગ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "תגוף",
+      "gloss": "અથડાશે"
+    }
+  ],
+  "timestamp": "2026-08-21T16:51:38.969447482Z",
+  "model": "glm-5.3"
+}

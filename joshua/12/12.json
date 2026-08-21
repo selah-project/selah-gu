@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 12:12",
+  "book": "joshua",
+  "lang": "gu",
+  "chapter": 12,
+  "translation": "એગ્લોનના રાજાનું — એક; ગેઝેરના રાજાનું — એક;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "રાજાનું"
+    },
+    {
+      "surface": "עגלון",
+      "gloss": "એગ્લોન"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "એક"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "રાજાનું"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "ગેઝેર"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "એક"
+    }
+  ],
+  "timestamp": "2026-08-21T12:38:12.764680369Z",
+  "model": "glm-5.3"
+}

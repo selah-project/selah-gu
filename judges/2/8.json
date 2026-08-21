@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 2:8",
+  "book": "judges",
+  "lang": "gu",
+  "chapter": 2,
+  "translation": "અને યહોશુઆ, નૂનનો પુત્ર, યાહવેનો સેવક, મૃત્યુ પામ્યો — સો વર્ષ અને દસનો પુત્ર.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "અને મૃત્યુ પામ્યો"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "યહોશુઆ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "પુત્ર"
+    },
+    {
+      "surface": "נון",
+      "gloss": "નૂનનો"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "સેવક"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવેનો"
+    },
+    {
+      "surface": "בן",
+      "gloss": "પુત્ર"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "સો વર્ષ"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "અને દસ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "વર્ષ"
+    }
+  ],
+  "timestamp": "2026-08-21T12:45:28.532721574Z",
+  "model": "glm-5.3"
+}

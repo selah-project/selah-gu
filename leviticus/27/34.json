@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "leviticus 27:34",
+  "book": "leviticus",
+  "lang": "gu",
+  "chapter": 27,
+  "translation": "આ એ આજ્ઞાઓ છે જે યાહવેએ સીનાય પર્વત પર ⟨את⟩ મોશેને, ઇસ્રાએલનાં પુત્રો માટે આપી.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "આ"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "આજ્ઞાઓ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જે"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "આપી હતી"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવેએ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "મોશેને"
+    },
+    {
+      "surface": "משה",
+      "gloss": "મોશેને"
+    },
+    {
+      "surface": "אל",
+      "gloss": "માટે"
+    },
+    {
+      "surface": "בני",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ઇસ્રાએલનાં"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "પર્વત પર"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "સીનાય"
+    }
+  ],
+  "timestamp": "2026-08-21T11:46:36.482126780Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 86,
+  "ref": "numbers 7:86",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 7,
+  "translation": "સોનાની કરવતીઓ બાર, ધૂપથી ભરેલી; દરેક કરવતી દસ શેકલ પવિત્ર-શેકલ પ્રમાણે; બધી કરવતીઓનું સોનું સો વીસ ⟨શેકલ⟩.",
+  "tokens": [
+    {
+      "surface": "כפות",
+      "gloss": "કરવતીઓ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "સોનાની"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "બે"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "દસ"
+    },
+    {
+      "surface": "מלאת",
+      "gloss": "ભરેલી"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "ધૂપ"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "દસ"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "દરેક દસ"
+    },
+    {
+      "surface": "הכף",
+      "gloss": "કરવતી"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "શેકલે"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "પવિત્ર"
+    },
+    {
+      "surface": "כל",
+      "gloss": "બધું"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "સોનું"
+    },
+    {
+      "surface": "הכפות",
+      "gloss": "કરવતીઓનું"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "વીસ"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "અને સો"
+    }
+  ],
+  "timestamp": "2026-08-21T11:54:50.323696398Z",
+  "model": "glm-5.3"
+}

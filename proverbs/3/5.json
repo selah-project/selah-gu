@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 3:5",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 3,
+  "translation": "યાહવેને તારા સમગ્ર હૃદયથી ભરોસો રાખ, અને તારી સમજ પર ટેકો રાખતો નહિ.",
+  "tokens": [
+    {
+      "surface": "בטח",
+      "gloss": "ભરોસો રાખ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ને (પર)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "સમગ્ર…થી"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "તારા હૃદય"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "અને …પર"
+    },
+    {
+      "surface": "בינתך",
+      "gloss": "તારી સમજ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "નહિ"
+    },
+    {
+      "surface": "תשען",
+      "gloss": "ટેકો રાખતો"
+    }
+  ],
+  "timestamp": "2026-08-21T16:51:28.330361499Z",
+  "model": "glm-5.3"
+}

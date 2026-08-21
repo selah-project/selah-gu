@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 8:39",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 8,
+  "translation": "અને તેના ભાઈ એશેકના પુત્રો: ઊલામ તેનો જ્યેષ્ઠ, યઆશ બીજો, અને એલિફેલેત ત્રીજો.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "અને … પુત્રો"
+    },
+    {
+      "surface": "עשק",
+      "gloss": "એશેક"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "તેના ભાઈ"
+    },
+    {
+      "surface": "אולם",
+      "gloss": "ઊલામ"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "તેનો જ્યેષ્ઠ"
+    },
+    {
+      "surface": "יעוש",
+      "gloss": "યઆશ"
+    },
+    {
+      "surface": "השני",
+      "gloss": "બીજો"
+    },
+    {
+      "surface": "ואליפלט",
+      "gloss": "અને એલિફેલેત"
+    },
+    {
+      "surface": "השלשי",
+      "gloss": "ત્રીજો"
+    }
+  ],
+  "timestamp": "2026-08-21T18:05:21.786172951Z",
+  "model": "glm-5.3"
+}

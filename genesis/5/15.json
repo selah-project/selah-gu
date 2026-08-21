@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 5:15",
+  "book": "genesis",
+  "lang": "gu",
+  "chapter": 5,
+  "translation": "અને મહલલેલ પાંચ વર્ષ અને સાઠ વર્ષ જીવ્યો, અને યારેદને ⟨את⟩ જન્મ આપ્યો.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "જીવ્યો"
+    },
+    {
+      "surface": "מהללאל",
+      "gloss": "મહલલેલ"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "પાંચ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "વર્ષ"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "અને સાઠ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "વર્ષ"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "જન્મ આપ્યો"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "યારેદ"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "યારેદ"
+    }
+  ],
+  "timestamp": "2026-08-21T10:38:15.660600419Z",
+  "model": "glm-5.3"
+}

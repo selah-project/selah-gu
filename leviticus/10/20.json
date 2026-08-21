@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 10:20",
+  "book": "leviticus",
+  "lang": "gu",
+  "chapter": 10,
+  "translation": "અને મોશેએ ⟨તે⟩ સાંભળ્યું, અને તે ⟨was⟩ તેની આંખોમાં સારું લાગ્યું.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "અને સાંભળ્યું"
+    },
+    {
+      "surface": "משה",
+      "gloss": "મોશેએ"
+    },
+    {
+      "surface": "וייטב",
+      "gloss": "અને સારું લાગ્યું"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "તેની આંખોમાં"
+    }
+  ],
+  "timestamp": "2026-08-21T11:35:29.104533861Z",
+  "model": "glm-5.3"
+}

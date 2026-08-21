@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 20:23",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 20,
+  "translation": "અને યાહવેએ હોર પર્વત પર, એદોમ દેશની સીમા પર, મોશે અને અહરોનને કહ્યું, કહેતા:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "કહ્યું"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવેએ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ને (તરફ)"
+    },
+    {
+      "surface": "משה",
+      "gloss": "મોશે"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "અને (તરફ)"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "અહરોનને"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "હોર પર્વત પર"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "પર્વત પર"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "સીમા પર"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "દેશની"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "એદોમ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "કહેતા"
+    }
+  ],
+  "timestamp": "2026-08-21T12:00:44.531430166Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 94:2",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 94,
+  "translation": "ઊઠીને ઊભો રહો, પૃથ્વીના ન્યાયાધીશ, ઘમંડીઓને તેમનું ફળ પાછું ચૂકવો.",
+  "tokens": [
+    {
+      "surface": "הנשא",
+      "gloss": "ઊઠીને ઊભો રહો"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "ન્યાયાધીશ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "પૃથ્વીના"
+    },
+    {
+      "surface": "השב",
+      "gloss": "પાછું ચૂકવો"
+    },
+    {
+      "surface": "גמול",
+      "gloss": "ફળ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ને"
+    },
+    {
+      "surface": "גאים",
+      "gloss": "ઘમંડીઓ"
+    }
+  ],
+  "timestamp": "2026-08-21T16:36:59.797233106Z",
+  "model": "glm-5.3"
+}

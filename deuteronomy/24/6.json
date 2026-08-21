@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 24:6",
+  "book": "deuteronomy",
+  "lang": "gu",
+  "chapter": 24,
+  "translation": "ઓરણ કે ખલસો ગિરવી ન રખાય, કારણ કે તે જીવનશક્તિ જ ગિરવી રાખવી છે.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ન"
+    },
+    {
+      "surface": "יחבל",
+      "gloss": "ગિરવી રખાય"
+    },
+    {
+      "surface": "רחים",
+      "gloss": "ઓરણ (પીસણના પથ્થર)"
+    },
+    {
+      "surface": "ורכב",
+      "gloss": "અને ખલસો"
+    },
+    {
+      "surface": "כי",
+      "gloss": "કારણ કે"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "જીવનશક્તિ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "તે"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "ગિરવી રાખવી"
+    }
+  ],
+  "timestamp": "2026-08-21T12:25:20.961367621Z",
+  "model": "glm-5.3"
+}

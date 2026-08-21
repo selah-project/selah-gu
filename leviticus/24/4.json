@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 24:4",
+  "book": "leviticus",
+  "lang": "gu",
+  "chapter": 24,
+  "translation": "શુદ્ધ મેનોરા પર તે યાહવેની સામે ⟨את⟩ દીવડાઓ સતત ગોઠવશે.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "…પર"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "મેનોરા"
+    },
+    {
+      "surface": "הטהרה",
+      "gloss": "શુદ્ધ"
+    },
+    {
+      "surface": "יערך",
+      "gloss": "ગોઠવશે"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "દીવડાઓ"
+    },
+    {
+      "surface": "הנרות",
+      "gloss": "દીવડાઓ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "…ની સામે"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "સતત"
+    }
+  ],
+  "timestamp": "2026-08-21T11:45:21.815726912Z",
+  "model": "glm-5.3"
+}

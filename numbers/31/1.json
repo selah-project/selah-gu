@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 31:1",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 31,
+  "translation": "અને યાહવેએ મોશેને બોલી કહ્યું:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "અને…બોલી કહ્યું"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ને"
+    },
+    {
+      "surface": "משה",
+      "gloss": "મોશે"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "કહેતા"
+    }
+  ],
+  "timestamp": "2026-08-21T18:37:53.271014752Z",
+  "model": "glm-5.3"
+}

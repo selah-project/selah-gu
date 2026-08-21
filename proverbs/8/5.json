@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 8:5",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 8,
+  "translation": "સમજો, ભોળા લોકો, ચતુરાઈ; અને મૂર્ખો, સમજદાર હૃદય ⟨મેળવો⟩।",
+  "tokens": [
+    {
+      "surface": "הבינו",
+      "gloss": "સમજો"
+    },
+    {
+      "surface": "פתאים",
+      "gloss": "ભોળા લોકો"
+    },
+    {
+      "surface": "ערמה",
+      "gloss": "ચતુરાઈ"
+    },
+    {
+      "surface": "וכסילים",
+      "gloss": "અને મૂર્ખો"
+    },
+    {
+      "surface": "הבינו",
+      "gloss": "સમજો"
+    },
+    {
+      "surface": "לב",
+      "gloss": "હૃદય"
+    }
+  ],
+  "timestamp": "2026-08-21T16:53:43.860283410Z",
+  "model": "glm-5.3"
+}

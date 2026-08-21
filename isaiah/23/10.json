@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 23:10",
+  "book": "isaiah",
+  "lang": "gu",
+  "chapter": 23,
+  "translation": "તર્શીશની પુત્રી, નદીની જેમ તારી ભૂમિમાં વહે — હવે પટ્ટો નથી.",
+  "tokens": [
+    {
+      "surface": "עברי",
+      "gloss": "વહે\/પસાર થા"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "તારી ભૂમિમાં"
+    },
+    {
+      "surface": "כיאר",
+      "gloss": "નદીની જેમ"
+    },
+    {
+      "surface": "בת",
+      "gloss": "પુત્રી"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "તર્શીશની"
+    },
+    {
+      "surface": "אין",
+      "gloss": "નથી"
+    },
+    {
+      "surface": "מזח",
+      "gloss": "પટ્ટો"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "હવે"
+    }
+  ],
+  "timestamp": "2026-08-21T14:22:07.301961285Z",
+  "model": "glm-5.3"
+}

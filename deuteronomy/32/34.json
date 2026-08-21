@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "deuteronomy 32:34",
+  "book": "deuteronomy",
+  "lang": "gu",
+  "chapter": 32,
+  "translation": "શું તે ⟨છે⟩ મારી પાસે સંગ્રહિત, મારા ભંડારોમાં સીલબંધ?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "શું નહીં"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "તે"
+    },
+    {
+      "surface": "כמס",
+      "gloss": "સંગ્રહિત"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "મારી પાસે"
+    },
+    {
+      "surface": "חתם",
+      "gloss": "સીલબંધ"
+    },
+    {
+      "surface": "באוצרתי",
+      "gloss": "મારા ભંડારોમાં"
+    }
+  ],
+  "timestamp": "2026-08-21T12:30:55.897998105Z",
+  "model": "glm-5.3"
+}

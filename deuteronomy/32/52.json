@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "deuteronomy 32:52",
+  "book": "deuteronomy",
+  "lang": "gu",
+  "chapter": 32,
+  "translation": "કારણ કે તું સામેથી ⟨את⟩ ભૂમિને જોઈશ, પણ ત્યાં તું તે ભૂમિમાં પ્રવેશશ નહીં જે હું ઇસ્રાએલના પુત્રોને આપી રહ્યો છું.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "કારણ કે"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "સામેથી"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "તું જોઈશ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ભૂમિ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ભૂમિ"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "પણ ત્યાં"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "તું પ્રવેશશ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "માં"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ભૂમિ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જે"
+    },
+    {
+      "surface": "אני",
+      "gloss": "હું"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "આપી રહ્યો છું"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "પુત્રોને"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ઇસ્રાએલ"
+    }
+  ],
+  "timestamp": "2026-08-21T12:30:16.745886391Z",
+  "model": "glm-5.3"
+}

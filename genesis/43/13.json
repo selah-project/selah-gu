@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 43:13",
+  "book": "genesis",
+  "lang": "gu",
+  "chapter": 43,
+  "translation": "અને ⟨את⟩ તમારા ભાઈને લઇ જાઓ, ઊઠો, તે માણસ પાસે પાછા ફરો.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "તમારા ભાઈને"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "તમારા ભાઈને"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "લઇ જાઓ"
+    },
+    {
+      "surface": "וקומו",
+      "gloss": "ઊઠો"
+    },
+    {
+      "surface": "שובו",
+      "gloss": "પાછા ફરો"
+    },
+    {
+      "surface": "אל",
+      "gloss": "પાસે"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "તે માણસ"
+    }
+  ],
+  "timestamp": "2026-08-21T11:02:12.270267943Z",
+  "model": "glm-5.3"
+}

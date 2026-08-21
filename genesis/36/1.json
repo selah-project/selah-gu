@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 36:1",
+  "book": "genesis",
+  "lang": "gu",
+  "chapter": 36,
+  "translation": "અને આ છે એસાવનાં વંશજનોનાં વૃત્તાન્ત — ⟨તે જ⟩ એદોમ.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "અને આ છે"
+    },
+    {
+      "surface": "תלדות",
+      "gloss": "વૃત્તાન્ત"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "એસાવનાં"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "તે જ"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "એદોમ"
+    }
+  ],
+  "timestamp": "2026-08-21T10:55:45.702328630Z",
+  "model": "glm-5.3"
+}

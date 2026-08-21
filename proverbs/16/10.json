@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 16:10",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 16,
+  "translation": "રાજાના હોઠ પર ⟨છે⟩ દૈવી વાણી; ન્યાય કરતી વખતે તેનું મુખ વિશ્વાસઘાત નહિ કરે.",
+  "tokens": [
+    {
+      "surface": "קסם",
+      "gloss": "દૈવી વાણી"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "હોઠ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "રાજાના"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "ન્યાય કરતી વખતે"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નહિ"
+    },
+    {
+      "surface": "ימעל",
+      "gloss": "વિશ્વાસઘાત કરે"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "તેનું મુખ"
+    }
+  ],
+  "timestamp": "2026-08-21T16:57:55.472187951Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 8:1",
+  "book": "zechariah",
+  "lang": "gu",
+  "chapter": 8,
+  "translation": "અને સૈન્યોના યાહવેનો વચન-શબ્દ થયો, કહેતા:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "અને થયો"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "વચન-શબ્દ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "સૈન્યોના"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "કહેતા"
+    }
+  ],
+  "timestamp": "2026-08-21T16:05:39.696036854Z",
+  "model": "glm-5.3"
+}

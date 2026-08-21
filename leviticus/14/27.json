@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 14:27",
+  "book": "leviticus",
+  "lang": "gu",
+  "chapter": 14,
+  "translation": "અને કોહેન પોતાની જમણી આંગળીથી પોતાની ડાબી હથેળી પર રહેલા તેલમાંથી યાહવેની સમક્ષ સાત વાર છંટશે.",
+  "tokens": [
+    {
+      "surface": "והזה",
+      "gloss": "છંટશે"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "કોહેન"
+    },
+    {
+      "surface": "באצבעו",
+      "gloss": "પોતાની આંગળીથી"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "જમણી"
+    },
+    {
+      "surface": "מן",
+      "gloss": "માંથી"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "તેલ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જે"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "כפו",
+      "gloss": "પોતાની હથેળી"
+    },
+    {
+      "surface": "השמאלית",
+      "gloss": "ડાબી"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "સાત"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "વાર"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "સમક્ષ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવેની"
+    }
+  ],
+  "timestamp": "2026-08-21T11:38:06.721134903Z",
+  "model": "glm-5.3"
+}

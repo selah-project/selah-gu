@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "nehemiah 12:34",
+  "book": "nehemiah",
+  "lang": "gu",
+  "chapter": 12,
+  "translation": "યહૂદા અને બિન્યામીન, અને શેમાયા અને યિર્મેયા;",
+  "tokens": [
+    {
+      "surface": "יהודה",
+      "gloss": "યહૂદા"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "અને બિન્યામીન"
+    },
+    {
+      "surface": "ושמעיה",
+      "gloss": "અને શેમાયા"
+    },
+    {
+      "surface": "וירמיה",
+      "gloss": "અને યિર્મેયા"
+    }
+  ],
+  "timestamp": "2026-08-21T17:57:17.196987703Z",
+  "model": "glm-5.3"
+}

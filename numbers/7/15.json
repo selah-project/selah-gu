@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 7:15",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 7,
+  "translation": "એક વાછરડું, ડોકરાનું દીકરું; એક આયલ; એક ઘેટાનું પાડું, તેના વર્ષનું દીકરું, ઓલાહ માટે.",
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "વાછરડું"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "એક"
+    },
+    {
+      "surface": "בן",
+      "gloss": "દીકરું"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ડોકરાનું"
+    },
+    {
+      "surface": "איל",
+      "gloss": "આયલ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "એક"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "ઘેટાનું પાડું"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "એક"
+    },
+    {
+      "surface": "בן",
+      "gloss": "દીકરું"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "તેના વર્ષનું"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "ઓલાહ માટે"
+    }
+  ],
+  "timestamp": "2026-08-21T11:50:55.859781586Z",
+  "model": "glm-5.3"
+}

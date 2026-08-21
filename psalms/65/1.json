@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 65:1",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 65,
+  "translation": "સંગીત-નિર્દેશક માટે; દાવીદની મઝમોર, ગીત.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "સંગીત-નિર્દેશક માટે"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "મઝમોર"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "દાવીદની"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "ગીત"
+    }
+  ],
+  "timestamp": "2026-08-21T16:27:36.899424412Z",
+  "model": "glm-5.3"
+}

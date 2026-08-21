@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "nehemiah 11:27",
+  "book": "nehemiah",
+  "lang": "gu",
+  "chapter": 11,
+  "translation": "અને હાઝર-શુઆલ, બેએર-શેબા અને તેની પુત્રીઓમાં.",
+  "tokens": [
+    {
+      "surface": "ובחצר",
+      "gloss": "હાઝર-...માં"
+    },
+    {
+      "surface": "שועל",
+      "gloss": "શુઆલ"
+    },
+    {
+      "surface": "ובבאר",
+      "gloss": "બેએર-...માં"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "શેબા"
+    },
+    {
+      "surface": "ובנתיה",
+      "gloss": "અને તેની પુત્રીઓમાં"
+    }
+  ],
+  "timestamp": "2026-08-21T17:56:54.625479124Z",
+  "model": "glm-5.3"
+}

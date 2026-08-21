@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 105:34",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 105,
+  "translation": "તેણે કહ્યું, અને ટીડી આવી, અને યેલેક, અને તેની ગણતરી નહીં.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "તેણે કહ્યું"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "અને આવી"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "ટીડી"
+    },
+    {
+      "surface": "וילק",
+      "gloss": "અને યેલેક"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "અને નહીં"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "ગણતરી"
+    }
+  ],
+  "timestamp": "2026-08-21T16:40:00.133992035Z",
+  "model": "glm-5.3"
+}

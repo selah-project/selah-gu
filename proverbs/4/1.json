@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 4:1",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 4,
+  "translation": "હે પુત્રો, પિતાના શિક્ષણને સાંભળો, અને બુદ્ધિને જાણવા માટે કાન ધારી દો.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "સાંભળો"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "શિક્ષણ"
+    },
+    {
+      "surface": "אב",
+      "gloss": "પિતાના"
+    },
+    {
+      "surface": "והקשיבו",
+      "gloss": "અને કાન ધારી દો"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "જાણવા માટે"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "બુદ્ધિ"
+    }
+  ],
+  "timestamp": "2026-08-21T16:51:52.503119424Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 65:3",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 65,
+  "translation": "પ્રાર્થના સાંભળનાર ⟨એ⟩, તારી પાસે સર્વ દેહ આવશે.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "સાંભળનાર"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "પ્રાર્થના"
+    },
+    {
+      "surface": "עדיך",
+      "gloss": "તારી પાસે"
+    },
+    {
+      "surface": "כל",
+      "gloss": "સર્વ"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "દેહ"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "આવશે"
+    }
+  ],
+  "timestamp": "2026-08-21T16:27:36.900033745Z",
+  "model": "glm-5.3"
+}

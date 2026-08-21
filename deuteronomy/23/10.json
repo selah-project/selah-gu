@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 23:10",
+  "book": "deuteronomy",
+  "lang": "gu",
+  "chapter": 23,
+  "translation": "જ્યારે તું તારા દુશ્મનો સામે છાવણી કરવા નીકળશે, ત્યારે તું દરેક દુર્ઘટનાથી રક્ષા કરશે.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "જ્યારે"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "તું નીકળશે"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "છાવણી"
+    },
+    {
+      "surface": "על",
+      "gloss": "સામે"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "તારા દુશ્મનો"
+    },
+    {
+      "surface": "ונשמרת",
+      "gloss": "તું રક્ષા કરશે"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "દરેક…થી"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ઘટના\/વાત"
+    },
+    {
+      "surface": "רע",
+      "gloss": "દુષ્ટ"
+    }
+  ],
+  "timestamp": "2026-08-21T12:25:27.088563503Z",
+  "model": "glm-5.3"
+}

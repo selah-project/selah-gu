@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 42:13",
+  "book": "jeremiah",
+  "lang": "gu",
+  "chapter": 42,
+  "translation": "પણ જો તમે કહો, “અમે આ દેશમાં રહેશું નહીં,” યાહવે તમારા એલોહીમનો અવાજ સાંભળવા નહીં,",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "પણ જો"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "તમે કહો"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "તમે"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "נשב",
+      "gloss": "અમે રહેશું"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "દેશમાં"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "આ"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "સાંભળવા"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "અવાજ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "તમારા એલોહીમ"
+    }
+  ],
+  "timestamp": "2026-08-21T15:11:00.269737757Z",
+  "model": "glm-5.3"
+}

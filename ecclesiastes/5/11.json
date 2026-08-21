@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 5:11",
+  "book": "ecclesiastes",
+  "lang": "gu",
+  "chapter": 5,
+  "translation": "મજૂરની ઊંઘ મીઠી હોય છે, ભલે તે થોડું ખાય ભલે વધુ; પણ ધનિકની સંતૃપ્તિ તેને ઊંઘવા ⟨દેતી નથી⟩.",
+  "tokens": [
+    {
+      "surface": "מתוקה",
+      "gloss": "મીઠી"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "ઊંઘ"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "મજૂરની"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ભલે...તે"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "થોડું"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ભલે"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "વધુ"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ખાય"
+    },
+    {
+      "surface": "והשבע",
+      "gloss": "અને સંતૃપ્તિ"
+    },
+    {
+      "surface": "לעשיר",
+      "gloss": "ધનિકની"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "નથી"
+    },
+    {
+      "surface": "מניח",
+      "gloss": "દેતી"
+    },
+    {
+      "surface": "לו",
+      "gloss": "તેને"
+    },
+    {
+      "surface": "לישון",
+      "gloss": "ઊંઘવા"
+    }
+  ],
+  "timestamp": "2026-08-21T17:31:16.472623905Z",
+  "model": "glm-5.3"
+}

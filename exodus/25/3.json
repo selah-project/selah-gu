@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 25:3",
+  "book": "exodus",
+  "lang": "gu",
+  "chapter": 25,
+  "translation": "અને આ ⟨the⟩ ભેટ છે જે તમે તેમની પાસેથી ⟨את⟩ લેશો: સોનું, ચાંદી અને તાંબું.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "અને આ"
+    },
+    {
+      "surface": "התרומה",
+      "gloss": "⟨the⟩ ભેટ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જે"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "તમે લેશો"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "તેમની પાસેથી ⟨את⟩",
+      "marks": "ભેટ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "સોનું"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "ચાંદી"
+    },
+    {
+      "surface": "ונחשת",
+      "gloss": "તાંબું"
+    }
+  ],
+  "timestamp": "2026-08-21T18:34:58.947186555Z",
+  "model": "glm-5.3"
+}

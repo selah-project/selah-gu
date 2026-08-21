@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 83:2",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 83,
+  "translation": "હે એલોહીમ, તમે મૌન ન ધારણ કરો; ચૂપ ન રહો, અને નિશ્ચળ ન રહો, હે એલ.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "એલોહીમ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ન કરો"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "મૌન ધારણ કરો"
+    },
+    {
+      "surface": "לך",
+      "gloss": "તમે"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ન રહો"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "ચૂપ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "અને ન રહો"
+    },
+    {
+      "surface": "תשקט",
+      "gloss": "નિશ્ચળ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "એલ"
+    }
+  ],
+  "timestamp": "2026-08-21T16:32:19.332771275Z",
+  "model": "glm-5.3"
+}

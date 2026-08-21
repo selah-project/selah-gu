@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 63,
+  "ref": "lamentations 3:63",
+  "book": "lamentations",
+  "lang": "gu",
+  "chapter": 3,
+  "translation": "તેમનું બેસવું અને ઊઠવું — જુઓ; હું તેમનું ગીત છું.",
+  "tokens": [
+    {
+      "surface": "שבתם",
+      "gloss": "તેમનું બેસવું"
+    },
+    {
+      "surface": "וקימתם",
+      "gloss": "અને ઊઠવું"
+    },
+    {
+      "surface": "הביטה",
+      "gloss": "જુઓ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "હું"
+    },
+    {
+      "surface": "מנגינתם",
+      "gloss": "તેમનું ગીત"
+    }
+  ],
+  "timestamp": "2026-08-21T17:25:36.662245738Z",
+  "model": "glm-5.3"
+}

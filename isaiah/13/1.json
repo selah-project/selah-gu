@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 13:1",
+  "book": "isaiah",
+  "lang": "gu",
+  "chapter": 13,
+  "translation": "બાવેલનો ભાર, જે યશયાહવુ, અમોત્સના પુત્રે, દર્શનમાં જોયું.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "ભાર"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "બાવેલ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જે"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "જોયું (દર્શનમાં)"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "યશયાહવુ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "પુત્ર"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "અમોત્સ"
+    }
+  ],
+  "timestamp": "2026-08-21T14:17:30.244425339Z",
+  "model": "glm-5.3"
+}

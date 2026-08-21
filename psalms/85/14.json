@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 85:14",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 85,
+  "translation": "ન્યાય તેની આગળ ચાલશે, અને તેનાં પગલાંઓને માર્ગ બનાવશે.",
+  "tokens": [
+    {
+      "surface": "צדק",
+      "gloss": "ન્યાય"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "તેની આગળ"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "ચાલશે"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "અને બનાવશે"
+    },
+    {
+      "surface": "לדרך",
+      "gloss": "માર્ગ"
+    },
+    {
+      "surface": "פעמיו",
+      "gloss": "તેનાં પગલાંઓ"
+    }
+  ],
+  "timestamp": "2026-08-21T16:33:45.865448337Z",
+  "model": "glm-5.3"
+}

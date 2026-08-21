@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 7:9",
+  "book": "genesis",
+  "lang": "gu",
+  "chapter": 7,
+  "translation": "બે બે ⟨את⟩ પ્રાણીઓ નોહા પાસે, તેબામાં આવ્યાં, નર અને માદા, જેમ એલોહીમે નોહાને આજ્ઞા કરી હતી.",
+  "tokens": [
+    {
+      "surface": "שנים",
+      "gloss": "બે"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "બે"
+    },
+    {
+      "surface": "באו",
+      "gloss": "આવ્યાં"
+    },
+    {
+      "surface": "אל",
+      "gloss": "પાસે"
+    },
+    {
+      "surface": "נח",
+      "gloss": "નોહા"
+    },
+    {
+      "surface": "אל",
+      "gloss": "તરફ"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "તેબામાં"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "નર"
+    },
+    {
+      "surface": "ונקבה",
+      "gloss": "અને માદા"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "જેમ"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "આજ્ઞા કરી હતી"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "એલોહીમે"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "નોહાને"
+    },
+    {
+      "surface": "נח",
+      "gloss": "નોહાને"
+    }
+  ],
+  "timestamp": "2026-08-21T10:39:53.909952786Z",
+  "model": "glm-5.3"
+}

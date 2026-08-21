@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 23:11",
+  "book": "deuteronomy",
+  "lang": "gu",
+  "chapter": 23,
+  "translation": "જો તારામાં કોઈ પુરુષ હોય જે રાત્રિની ઘટનાથી શુદ્ધ ન હોય, તો તે છાવણીની બહાર નીકળી જશે; છાવણીની અંદર પ્રવેશ નહિ કરે.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "જો"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "હોય"
+    },
+    {
+      "surface": "בך",
+      "gloss": "તારામાં"
+    },
+    {
+      "surface": "איש",
+      "gloss": "પુરુષ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જે"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ન"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "હોય"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "શુદ્ધ"
+    },
+    {
+      "surface": "מקרה",
+      "gloss": "ઘટનાથી"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "રાત્રિની"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "તો તે નીકળી જશે"
+    },
+    {
+      "surface": "אל",
+      "gloss": "તરફ"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "બહાર"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "છાવણીની"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નહિ"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "પ્રવેશ કરે"
+    },
+    {
+      "surface": "אל",
+      "gloss": "માં"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "અંદર"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "છાવણી"
+    }
+  ],
+  "timestamp": "2026-08-21T12:25:27.088786481Z",
+  "model": "glm-5.3"
+}

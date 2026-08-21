@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "ezra 2:56",
+  "book": "ezra",
+  "lang": "gu",
+  "chapter": 2,
+  "translation": "યાલાના પુત્રો, દરકોનના પુત્રો, ગિદ્દેલના પુત્રો.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "યાલા"
+    },
+    {
+      "surface": "בני",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "דרקון",
+      "gloss": "દરકોન"
+    },
+    {
+      "surface": "בני",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "ગિદ્દેલ"
+    }
+  ],
+  "timestamp": "2026-08-21T17:47:32.142430479Z",
+  "model": "glm-5.3"
+}

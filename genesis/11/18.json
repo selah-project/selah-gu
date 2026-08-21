@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 11:18",
+  "book": "genesis",
+  "lang": "gu",
+  "chapter": 11,
+  "translation": "અને પેલેગ ત્રીસ વર્ષ જીવ્યા, અને ⟨את⟩ રેઊને જન્મ આપ્યો.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "જીવ્યા"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "પેલેગ"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "ત્રીસ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "વર્ષ"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "અને જન્મ આપ્યો"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "રેઊ"
+    },
+    {
+      "surface": "רעו",
+      "gloss": "રેઊ"
+    }
+  ],
+  "timestamp": "2026-08-21T10:41:27.476302802Z",
+  "model": "glm-5.3"
+}

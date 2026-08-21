@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 32:17",
+  "book": "job",
+  "lang": "gu",
+  "chapter": 32,
+  "translation": "હું પણ મારો ભાગ ઉત્તર આપીશ, હું પણ મારું જ્ઞાન જણાવીશ.",
+  "tokens": [
+    {
+      "surface": "אענה",
+      "gloss": "ઉત્તર આપીશ"
+    },
+    {
+      "surface": "אף",
+      "gloss": "પણ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "હું"
+    },
+    {
+      "surface": "חלקי",
+      "gloss": "મારો ભાગ"
+    },
+    {
+      "surface": "אחוה",
+      "gloss": "જણાવીશ"
+    },
+    {
+      "surface": "דעי",
+      "gloss": "મારું જ્ઞાન"
+    },
+    {
+      "surface": "אף",
+      "gloss": "પણ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "હું"
+    }
+  ],
+  "timestamp": "2026-08-21T17:16:01.320665780Z",
+  "model": "glm-5.3"
+}

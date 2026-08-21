@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 16:13",
+  "book": "isaiah",
+  "lang": "gu",
+  "chapter": 16,
+  "translation": "આ એ વચન છે ⟨જે⟩ યાહવેએ મોઆબ વિષે ત્યારથી બોલ્યું છે.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "આ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "વચન"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨જે⟩"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "બોલ્યું છે"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવેએ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "વિષે"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "મોઆબ"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "ત્યારથી"
+    }
+  ],
+  "timestamp": "2026-08-21T14:18:34.390716318Z",
+  "model": "glm-5.3"
+}

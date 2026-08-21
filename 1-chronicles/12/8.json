@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 12:8",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 12,
+  "translation": "અને યોએલાહ અને ઝવદ્યાહ — યરોખામનાં પુત્રો — ગદોરમાંથી",
+  "tokens": [
+    {
+      "surface": "ויועאלה",
+      "gloss": "અને યોએલાહ"
+    },
+    {
+      "surface": "וזבדיה",
+      "gloss": "અને ઝવદ્યાહ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "ירחם",
+      "gloss": "યરોખામનાં"
+    },
+    {
+      "surface": "מן",
+      "gloss": "માંથી"
+    },
+    {
+      "surface": "הגדור",
+      "gloss": "ગદોર"
+    }
+  ],
+  "timestamp": "2026-08-21T18:05:22.828864456Z",
+  "model": "glm-5.3"
+}

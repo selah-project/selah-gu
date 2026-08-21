@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 1:12",
+  "book": "song-of-songs",
+  "lang": "gu",
+  "chapter": 1,
+  "translation": "જ્યારે રાજા ⟨⟨⟨⟩⟩ પોતાના મંડળમાં બેઠો હતો, ત્યારે મારા નર્દે પોતાની સુગંધ આપી.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "જ્યારે"
+    },
+    {
+      "surface": "שהמלך",
+      "gloss": "રાજા"
+    },
+    {
+      "surface": "במסבו",
+      "gloss": "પોતાના મંડળમાં"
+    },
+    {
+      "surface": "נרדי",
+      "gloss": "મારા નર્દ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "આપી"
+    },
+    {
+      "surface": "ריחו",
+      "gloss": "પોતાની સુગંધ"
+    }
+  ],
+  "timestamp": "2026-08-21T17:20:22.917794492Z",
+  "model": "glm-5.3"
+}

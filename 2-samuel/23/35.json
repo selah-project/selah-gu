@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "2-samuel 23:35",
+  "book": "2-samuel",
+  "lang": "gu",
+  "chapter": 23,
+  "translation": "ખેત્સ્રો ⟨the⟩ કર્મલી; પાઅરાય ⟨the⟩ અરબી.",
+  "tokens": [
+    {
+      "surface": "חצרו",
+      "gloss": "ખેત્સ્રો"
+    },
+    {
+      "surface": "הכרמלי",
+      "gloss": "કર્મલી"
+    },
+    {
+      "surface": "פערי",
+      "gloss": "પાઅરાય"
+    },
+    {
+      "surface": "הארבי",
+      "gloss": "અરબી"
+    }
+  ],
+  "timestamp": "2026-08-21T13:34:14.322610766Z",
+  "model": "glm-5.3"
+}

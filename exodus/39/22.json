@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 39:22",
+  "book": "exodus",
+  "lang": "gu",
+  "chapter": 39,
+  "translation": "અને તેણે એફોદનો મેલ ⟨את⟩ બનાવ્યો, વણકારનું કામ, સંપૂર્ણ તકલીતનો.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "બનાવ્યો"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "મેલ"
+    },
+    {
+      "surface": "מעיל",
+      "gloss": "મેલ"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "એફોદનો"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "કામ"
+    },
+    {
+      "surface": "ארג",
+      "gloss": "વણકારનું"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "સંપૂર્ણ"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "તકલીતનો"
+    }
+  ],
+  "timestamp": "2026-08-21T11:29:09.731728502Z",
+  "model": "glm-5.3"
+}

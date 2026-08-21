@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 7:3",
+  "book": "2-samuel",
+  "lang": "gu",
+  "chapter": 7,
+  "translation": "અને નાતાને રાજાને કહ્યું: “તારા હૃદયમાં જે બધું છે તે જા, કર; કેમ કે યાહવે તારી સાથે છે.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "કહ્યું"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "નાતાને"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ને"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "રાજા"
+    },
+    {
+      "surface": "כל",
+      "gloss": "બધું"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જે"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "તારા હૃદયમાં"
+    },
+    {
+      "surface": "לך",
+      "gloss": "જા"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "કર"
+    },
+    {
+      "surface": "כי",
+      "gloss": "કેમ કે"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "તારી સાથે"
+    }
+  ],
+  "timestamp": "2026-08-21T13:22:53.427728225Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 16:16",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 16,
+  "translation": "જે તેમણે ⟨את⟩ અબ્રાહામ સાથે કરી, અને તેમની શપથ ઈસ્હાકને.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "જે"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "કરી"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "અબ્રાહામ"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "અબ્રાહામ"
+    },
+    {
+      "surface": "ושבועתו",
+      "gloss": "અને તેમની શપથ"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "ઈસ્હાકને"
+    }
+  ],
+  "timestamp": "2026-08-21T18:06:48.207445894Z",
+  "model": "glm-5.3"
+}

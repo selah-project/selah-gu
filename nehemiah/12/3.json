@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nehemiah 12:3",
+  "book": "nehemiah",
+  "lang": "gu",
+  "chapter": 12,
+  "translation": "શખન્યાહ, રખૂમ, મેરેમોથ.",
+  "tokens": [
+    {
+      "surface": "שכניה",
+      "gloss": "શખન્યાહ"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "રખૂમ"
+    },
+    {
+      "surface": "מרמת",
+      "gloss": "મેરેમોથ"
+    }
+  ],
+  "timestamp": "2026-08-21T17:57:31.454075730Z",
+  "model": "glm-5.3"
+}

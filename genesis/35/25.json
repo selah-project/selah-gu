@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 35:25",
+  "book": "genesis",
+  "lang": "gu",
+  "chapter": 35,
+  "translation": "અને બિલ્હાનાં — રાહેલની દાસીનાં — પુત્રો: દાન અને નફ્તાલી.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "અને…પુત્રો"
+    },
+    {
+      "surface": "בלהה",
+      "gloss": "બિલ્હાનાં"
+    },
+    {
+      "surface": "שפחת",
+      "gloss": "દાસીનાં"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "રાહેલની"
+    },
+    {
+      "surface": "דן",
+      "gloss": "દાન"
+    },
+    {
+      "surface": "ונפתלי",
+      "gloss": "અને નફ્તાલી"
+    }
+  ],
+  "timestamp": "2026-08-21T10:56:20.572991922Z",
+  "model": "glm-5.3"
+}

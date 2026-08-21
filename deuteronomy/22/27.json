@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "deuteronomy 22:27",
+  "book": "deuteronomy",
+  "lang": "gu",
+  "chapter": 22,
+  "translation": "કારણ કે ખેતરમાં તે પ્રાપ્ત થઈ; સાંકળેલી તરુણી બૂમ પાડી, અને તેને બચાવનાર કોઈ ન હતું.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "કારણ કે"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "ખેતરમાં"
+    },
+    {
+      "surface": "מצאה",
+      "gloss": "પ્રાપ્ત થઈ"
+    },
+    {
+      "surface": "צעקה",
+      "gloss": "બૂમ પાડી"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "તરુણી"
+    },
+    {
+      "surface": "המארשה",
+      "gloss": "સાંકળેલી"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "અને કોઈ ન"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "બચાવનાર"
+    },
+    {
+      "surface": "לה",
+      "gloss": "તેને"
+    }
+  ],
+  "timestamp": "2026-08-21T12:25:04.291105066Z",
+  "model": "glm-5.3"
+}

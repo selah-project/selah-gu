@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 76:5",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 76,
+  "translation": "પ્રકાશમય છે ⟨તું⟩, મહાન છે ⟨તું⟩ પરભક્ષણનાં પર્વતો કરતાં.",
+  "tokens": [
+    {
+      "surface": "נאור",
+      "gloss": "પ્રકાશમય છે"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "તું"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "મહાન છે"
+    },
+    {
+      "surface": "מהררי",
+      "gloss": "…નાં પર્વતો કરતાં"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "પરભક્ષણ"
+    }
+  ],
+  "timestamp": "2026-08-21T16:30:38.214697296Z",
+  "model": "glm-5.3"
+}

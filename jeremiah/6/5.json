@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 6:5",
+  "book": "jeremiah",
+  "lang": "gu",
+  "chapter": 6,
+  "translation": "ઊઠો અને ચાલો રાત્રિએ ચઢીએ, અને તેના મહેલોનો નાશ કરીએ.",
+  "tokens": [
+    {
+      "surface": "קומו",
+      "gloss": "ઊઠો"
+    },
+    {
+      "surface": "ונעלה",
+      "gloss": "અને ચઢીએ"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "રાત્રિએ"
+    },
+    {
+      "surface": "ונשחיתה",
+      "gloss": "અને તેનો નાશ કરીએ"
+    },
+    {
+      "surface": "ארמנותיה",
+      "gloss": "તેના મહેલો"
+    }
+  ],
+  "timestamp": "2026-08-21T18:49:14.277951192Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 34:13",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 34,
+  "translation": "કોણ ⟨છે⟩ ⟨the⟩ માણસ જે જીવન ઈચ્છે છે, જે દિવસોને પ્રેમ કરે છે, સારું જોવા ⟨માટે⟩?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "કોણ"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "⟨the⟩ માણસ"
+    },
+    {
+      "surface": "החפץ",
+      "gloss": "ઈચ્છે છે"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "જીવન"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "પ્રેમ કરે છે"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "દિવસોને"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "જોવા ⟨માટે⟩"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "સારું"
+    }
+  ],
+  "timestamp": "2026-08-21T16:18:20.667942445Z",
+  "model": "glm-5.3"
+}

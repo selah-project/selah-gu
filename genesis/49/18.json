@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 49:18",
+  "book": "genesis",
+  "lang": "gu",
+  "chapter": 49,
+  "translation": "તારા મુક્તિની મેં રાહ જોઈ છે, યાહવે!",
+  "tokens": [
+    {
+      "surface": "לישועתך",
+      "gloss": "તારા મુક્તિની"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "મેં રાહ જોઈ છે"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    }
+  ],
+  "timestamp": "2026-08-21T11:05:04.503983466Z",
+  "model": "glm-5.3"
+}

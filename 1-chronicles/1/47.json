@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "1-chronicles 1:47",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 1,
+  "translation": "અને હદદ મૃત્યુ પામ્યો, અને તેના બદલે મશ્રેકાહથી સમ્લાહ રાજ્ય કર્યું.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "મૃત્યુ પામ્યો"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "હદદ"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "રાજ્ય કર્યું"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "તેના બદલે"
+    },
+    {
+      "surface": "שמלה",
+      "gloss": "સમ્લાહ"
+    },
+    {
+      "surface": "ממשרקה",
+      "gloss": "મશ્રેકાહથી"
+    }
+  ],
+  "timestamp": "2026-08-21T17:59:16.352742120Z",
+  "model": "glm-5.3"
+}

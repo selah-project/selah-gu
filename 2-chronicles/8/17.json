@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 8:17",
+  "book": "2-chronicles",
+  "lang": "gu",
+  "chapter": 8,
+  "translation": "ત્યારે શલોમો એત્સ્યોન-ગેબેર અને એલોત તરફ ચાલ્યો ગયો, સમુદ્રના કિનારે, એદોમના દેશમાં.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "ત્યારે"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ચાલ્યો ગયો"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "શલોમો"
+    },
+    {
+      "surface": "לעציון",
+      "gloss": "એત્સ્યોન-"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "ગેબેર તરફ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "અને…તરફ"
+    },
+    {
+      "surface": "אילות",
+      "gloss": "એલોત"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "કિનારે"
+    },
+    {
+      "surface": "הים",
+      "gloss": "સમુદ્રના"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "દેશમાં"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "એદોમના"
+    }
+  ],
+  "timestamp": "2026-08-21T18:18:10.970365293Z",
+  "model": "glm-5.3"
+}

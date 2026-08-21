@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 11:3",
+  "book": "ecclesiastes",
+  "lang": "gu",
+  "chapter": 11,
+  "translation": "જો વાદળો ભરાઈ જાય તો તે પૃથ્વી પર વરસાદ રેડશે; અને જો વૃક્ષ દક્ષિણમાં પડે, અથવા ઉત્તરમાં — વૃક્ષ જ્યાં પડશે ત્યાં તે રહેશે.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "જો"
+    },
+    {
+      "surface": "ימלאו",
+      "gloss": "ભરાઈ જાય"
+    },
+    {
+      "surface": "העבים",
+      "gloss": "વાદળો"
+    },
+    {
+      "surface": "גשם",
+      "gloss": "વરસાદ"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "પૃથ્વી"
+    },
+    {
+      "surface": "יריקו",
+      "gloss": "રેડશે"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "અને જો"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "પડે"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "વૃક્ષ"
+    },
+    {
+      "surface": "בדרום",
+      "gloss": "દક્ષિણમાં"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "અથવા"
+    },
+    {
+      "surface": "בצפון",
+      "gloss": "ઉત્તરમાં"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "જ્યાં"
+    },
+    {
+      "surface": "שיפול",
+      "gloss": "પડશે"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "વૃક્ષ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ત્યાં"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "રહેશે"
+    }
+  ],
+  "timestamp": "2026-08-21T17:31:23.705766744Z",
+  "model": "glm-5.3"
+}

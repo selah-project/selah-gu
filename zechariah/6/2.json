@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zechariah 6:2",
+  "book": "zechariah",
+  "lang": "gu",
+  "chapter": 6,
+  "translation": "પહેલા રથમાં લાલ ઘોડા, અને બીજા રથમાં કાળા ઘોડા.",
+  "tokens": [
+    {
+      "surface": "במרכבה",
+      "gloss": "રથમાં"
+    },
+    {
+      "surface": "הראשנה",
+      "gloss": "પહેલા"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "ઘોડા"
+    },
+    {
+      "surface": "אדמים",
+      "gloss": "લાલ"
+    },
+    {
+      "surface": "ובמרכבה",
+      "gloss": "અને રથમાં"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "બીજા"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "ઘોડા"
+    },
+    {
+      "surface": "שחרים",
+      "gloss": "કાળા"
+    }
+  ],
+  "timestamp": "2026-08-21T16:03:56.829904973Z",
+  "model": "glm-5.3"
+}

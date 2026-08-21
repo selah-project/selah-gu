@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 4:6",
+  "book": "ecclesiastes",
+  "lang": "gu",
+  "chapter": 4,
+  "translation": "શાંતિથી ભરેલી એક હથેળી સારી છે, બે મુઠ્ઠી ભરેલી મહેનત અને વાયુની યાતના કરતાં.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "સારી છે"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "ભરેલી"
+    },
+    {
+      "surface": "כף",
+      "gloss": "હથેળી"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "શાંતિ"
+    },
+    {
+      "surface": "ממלא",
+      "gloss": "ભરેલી કરતાં"
+    },
+    {
+      "surface": "חפנים",
+      "gloss": "બે મુઠ્ઠી"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "મહેનત"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "અને યાતના"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "વાયુની"
+    }
+  ],
+  "timestamp": "2026-08-21T17:29:24.839646042Z",
+  "model": "glm-5.3"
+}

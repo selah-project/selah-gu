@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "song-of-songs 6:7",
+  "book": "song-of-songs",
+  "lang": "gu",
+  "chapter": 6,
+  "translation": "તારું કપોળ તારા પડદા પાછળ ડાળખના ફળની કાપેલી ફાળી જેવું છે.",
+  "tokens": [
+    {
+      "surface": "כפלח",
+      "gloss": "કાપેલી ફાળી જેવું"
+    },
+    {
+      "surface": "הרמון",
+      "gloss": "ડાળખના ફળની"
+    },
+    {
+      "surface": "רקתך",
+      "gloss": "તારું કપોળ"
+    },
+    {
+      "surface": "מבעד",
+      "gloss": "પાછળ"
+    },
+    {
+      "surface": "לצמתך",
+      "gloss": "તારા પડદા"
+    }
+  ],
+  "timestamp": "2026-08-21T17:21:26.565642322Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 94:7",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 94,
+  "translation": "અને તેઓ કહે છે, “યાહ જુશે નહીં, અને યાકોબનો એલોહીમ સમજશે નહીં.”",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "અને તેઓ કહે છે"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "જુશે"
+    },
+    {
+      "surface": "יה",
+      "gloss": "યાહ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "અને...નહીં"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "સમજશે"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "એલોહીમ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "યાકોબનો"
+    }
+  ],
+  "timestamp": "2026-08-21T18:58:03.349334288Z",
+  "model": "glm-5.3"
+}

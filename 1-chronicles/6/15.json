@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 6:15",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 6,
+  "translation": "તેનો પુત્ર શિમઆ, તેનો પુત્ર હગ્ગીયા, તેનો પુત્ર અસાયા.",
+  "tokens": [
+    {
+      "surface": "שמעא",
+      "gloss": "શિમઆ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "તેનો પુત્ર"
+    },
+    {
+      "surface": "חגיה",
+      "gloss": "હગ્ગીયા"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "તેનો પુત્ર"
+    },
+    {
+      "surface": "עשיה",
+      "gloss": "અસાયા"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "તેનો પુત્ર"
+    }
+  ],
+  "timestamp": "2026-08-21T18:02:49.946881729Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 13:3",
+  "book": "jeremiah",
+  "lang": "gu",
+  "chapter": 13,
+  "translation": "અને યાહવેનું વચન બીજી વાર મને આવ્યું, કહેતાં:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "અને થયું"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "વચન"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવેનું"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "મને"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "બીજી વાર"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "કહેતાં"
+    }
+  ],
+  "timestamp": "2026-08-21T14:52:57.221078722Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "jeremiah 6:30",
+  "book": "jeremiah",
+  "lang": "gu",
+  "chapter": 6,
+  "translation": "નકારાયેલી ચાંદી તેમને કહેવાશે, કારણ કે યાહવેએ તેમને તિરસ્કાર્યા છે.",
+  "tokens": [
+    {
+      "surface": "כסף",
+      "gloss": "ચાંદી"
+    },
+    {
+      "surface": "נמאס",
+      "gloss": "નકારાયેલી"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "કહેવાશે"
+    },
+    {
+      "surface": "להם",
+      "gloss": "તેમને"
+    },
+    {
+      "surface": "כי",
+      "gloss": "કારણ કે"
+    },
+    {
+      "surface": "מאס",
+      "gloss": "તિરસ્કાર્યા છે"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "તેમને"
+    }
+  ],
+  "timestamp": "2026-08-21T14:45:32.042414395Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "ezra 2:39",
+  "book": "ezra",
+  "lang": "gu",
+  "chapter": 2,
+  "translation": "હારિમનાં પુત્રો — એક હજાર સત્તર.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "હારિમ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "એક હજાર"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "અને સાત"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "…સત્તર"
+    }
+  ],
+  "timestamp": "2026-08-21T17:45:25.684805030Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 12:25",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 12,
+  "translation": "યહૂદાનાં પુત્રો, કવચ અને ભાલા ધારણ કરનારા, છ હજાર અને આઠસો, યુદ્ધ માટે સજ્જ સૈનિકો.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "યહૂદાનાં"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "ધારણ કરનારા"
+    },
+    {
+      "surface": "צנה",
+      "gloss": "કવચ"
+    },
+    {
+      "surface": "ורמח",
+      "gloss": "અને ભાલા"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "છ"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "હજાર"
+    },
+    {
+      "surface": "ושמונה",
+      "gloss": "અને આઠ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "સો"
+    },
+    {
+      "surface": "חלוצי",
+      "gloss": "સજ્જ"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "સૈન્ય"
+    }
+  ],
+  "timestamp": "2026-08-21T18:06:47.898210967Z",
+  "model": "glm-5.3"
+}

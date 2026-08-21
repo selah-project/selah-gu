@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 10:1",
+  "book": "jeremiah",
+  "lang": "gu",
+  "chapter": 10,
+  "translation": "સાંભળો ⟨את⟩ ⟨the⟩ વચન જે યાહવે તમારા વિશે બોલે છે, હે ઇસ્રાએલના ઘરના લોકો.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "સાંભળો"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "વચન"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "વચન"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જે"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "બોલે છે"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "તમારા વિશે"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ઘરના લોકો"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ઇસ્રાએલ"
+    }
+  ],
+  "timestamp": "2026-08-21T14:50:08.196901948Z",
+  "model": "glm-5.3"
+}

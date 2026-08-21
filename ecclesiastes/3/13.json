@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 3:13",
+  "book": "ecclesiastes",
+  "lang": "gu",
+  "chapter": 3,
+  "translation": "અને પણ દરેક માણસ કે જે ખાય અને પીએ અને પોતાના બધા શ્રમમાં સારું જુએ — એ એલોહીમની ભેટ ⟨છે⟩.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "અને પણ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "દરેક"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "માણસ"
+    },
+    {
+      "surface": "שיאכל",
+      "gloss": "કે જે ખાય"
+    },
+    {
+      "surface": "ושתה",
+      "gloss": "અને પીએ"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "અને જુએ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "સારું"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "બધા…માં"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "પોતાના શ્રમ"
+    },
+    {
+      "surface": "מתת",
+      "gloss": "ભેટ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "એલોહીમની"
+    },
+    {
+      "surface": "היא",
+      "gloss": "એ…⟨છે⟩"
+    }
+  ],
+  "timestamp": "2026-08-21T17:29:01.016397424Z",
+  "model": "glm-5.3"
+}

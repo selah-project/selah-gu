@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 37:11",
+  "book": "jeremiah",
+  "lang": "gu",
+  "chapter": 37,
+  "translation": "અને પરોહના સૈન્યના ભયથી કશ્દી સૈન્ય યરૂશાલાયિમ પરથી ઊઠી જતાં એ બન્યું,",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "અને એ બન્યું"
+    },
+    {
+      "surface": "בהעלות",
+      "gloss": "ઊઠી જતાં"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "સૈન્ય"
+    },
+    {
+      "surface": "הכשדים",
+      "gloss": "કશ્દી"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "પરથી"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "યરૂશાલાયિમ"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ના ભયથી"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "સૈન્ય"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "પરોહ"
+    }
+  ],
+  "timestamp": "2026-08-21T15:06:31.625528929Z",
+  "model": "glm-5.3"
+}

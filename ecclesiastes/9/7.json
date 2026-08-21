@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 9:7",
+  "book": "ecclesiastes",
+  "lang": "gu",
+  "chapter": 9,
+  "translation": "જા, આનંદથી તારો ભોજન ખા અને સારા હૃદયથી તારી દારૂ પી, કેમ કે એલોહીમ પહેલેથી ⟨את⟩ તારાં કર્મોથી પ્રસન્ન છે.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "જા"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ખા"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "આનંદથી"
+    },
+    {
+      "surface": "לחמך",
+      "gloss": "તારો ભોજન"
+    },
+    {
+      "surface": "ושתה",
+      "gloss": "અને પી"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "હૃદયથી"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "સારા"
+    },
+    {
+      "surface": "יינך",
+      "gloss": "તારી દારૂ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "કેમ કે"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "પહેલેથી"
+    },
+    {
+      "surface": "רצה",
+      "gloss": "પ્રસન્ન છે"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "એલોહીમ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "તારાં કર્મો"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "તારાં કર્મો"
+    }
+  ],
+  "timestamp": "2026-08-21T17:31:13.471298478Z",
+  "model": "glm-5.3"
+}

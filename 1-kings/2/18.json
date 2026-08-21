@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 2:18",
+  "book": "1-kings",
+  "lang": "gu",
+  "chapter": 2,
+  "translation": "અને બત-શેબાએ કહ્યું, સારું; હું તમારા વિષે રાજા પાસે વાત કરીશ.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "અને તેણે કહ્યું"
+    },
+    {
+      "surface": "בת",
+      "gloss": "બત-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "શેબાએ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "સારું"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "હું"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "વાત કરીશ"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "તમારા વિષે"
+    },
+    {
+      "surface": "אל",
+      "gloss": "પાસે"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "રાજા"
+    }
+  ],
+  "timestamp": "2026-08-21T13:37:56.261183378Z",
+  "model": "glm-5.3"
+}

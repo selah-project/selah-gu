@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 15:3",
+  "book": "2-chronicles",
+  "lang": "gu",
+  "chapter": 15,
+  "translation": "અને ઇસ્રાએલ માટે ઘણા દિવસો ⟨હતા⟩ — સાચા એલોહીમ વિના, અને શીખવતા કોહેન વિના, અને તોરાહ વિના.",
+  "tokens": [
+    {
+      "surface": "וימים",
+      "gloss": "અને દિવસો"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ઘણા"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "ઇસ્રાએલ માટે"
+    },
+    {
+      "surface": "ללא",
+      "gloss": "વિના"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "એલોહીમ"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "સાચા"
+    },
+    {
+      "surface": "וללא",
+      "gloss": "અને વિના"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "કોહેન"
+    },
+    {
+      "surface": "מורה",
+      "gloss": "શીખવતા"
+    },
+    {
+      "surface": "וללא",
+      "gloss": "અને વિના"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "તોરાહ"
+    }
+  ],
+  "timestamp": "2026-08-21T18:22:21.633319053Z",
+  "model": "glm-5.3"
+}

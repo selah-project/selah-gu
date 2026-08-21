@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 11:30",
+  "book": "leviticus",
+  "lang": "gu",
+  "chapter": 11,
+  "translation": "અને ગેક્કો, અને કોઆ, અને લેટા, અને ચોમેટ, અને તિનશેમેત —",
+  "tokens": [
+    {
+      "surface": "והאנקה",
+      "gloss": "અને ગેક્કો"
+    },
+    {
+      "surface": "והכח",
+      "gloss": "અને કોઆ"
+    },
+    {
+      "surface": "והלטאה",
+      "gloss": "અને લેટા"
+    },
+    {
+      "surface": "והחמט",
+      "gloss": "અને ચોમેટ"
+    },
+    {
+      "surface": "והתנשמת",
+      "gloss": "અને તિનશેમેત"
+    }
+  ],
+  "timestamp": "2026-08-21T11:34:58.564101197Z",
+  "model": "glm-5.3"
+}

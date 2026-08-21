@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "lamentations 3:53",
+  "book": "lamentations",
+  "lang": "gu",
+  "chapter": 3,
+  "translation": "તેમણે કૂવામાં મારા જીવને કાપી નાખ્યું, અને મારા પર પથ્થર ફેંક્યો.",
+  "tokens": [
+    {
+      "surface": "צמתו",
+      "gloss": "કાપી નાખ્યું"
+    },
+    {
+      "surface": "בבור",
+      "gloss": "કૂવામાં"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "મારા જીવને"
+    },
+    {
+      "surface": "וידו",
+      "gloss": "અને ફેંક્યો"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "પથ્થર"
+    },
+    {
+      "surface": "בי",
+      "gloss": "મારા પર"
+    }
+  ],
+  "timestamp": "2026-08-21T17:25:57.185382407Z",
+  "model": "glm-5.3"
+}

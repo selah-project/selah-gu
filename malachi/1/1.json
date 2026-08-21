@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "malachi 1:1",
+  "book": "malachi",
+  "lang": "gu",
+  "chapter": 1,
+  "translation": "ભાર છે યાહવેના વચનનો યિસ્રાએલ પ્રતિ, મલાખીના હાથે.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "ભાર"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "વચન"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "אל",
+      "gloss": "પ્રતિ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "યિસ્રાએલ"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "હાથે"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "મલાખી"
+    }
+  ],
+  "timestamp": "2026-08-21T16:08:47.279076595Z",
+  "model": "glm-5.3"
+}

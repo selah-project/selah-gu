@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 18:22",
+  "book": "joshua",
+  "lang": "gu",
+  "chapter": 18,
+  "translation": "અને બેથ-હા-અરાબાહ, અને ત્સેમારાયિમ, અને બેથ-એલ.",
+  "tokens": [
+    {
+      "surface": "ובית",
+      "gloss": "અને બેથ-"
+    },
+    {
+      "surface": "הערבה",
+      "gloss": "હા-અરાબાહ"
+    },
+    {
+      "surface": "וצמרים",
+      "gloss": "અને ત્સેમારાયિમ"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "અને બેથ-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "એલ"
+    }
+  ],
+  "timestamp": "2026-08-21T12:40:48.839391766Z",
+  "model": "glm-5.3"
+}

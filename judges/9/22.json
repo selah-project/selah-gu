@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "judges 9:22",
+  "book": "judges",
+  "lang": "gu",
+  "chapter": 9,
+  "translation": "અને અબિમેલેખે ઇસ્રાએલ પર ત્રણ વર્ષ શાસન કર્યું.",
+  "tokens": [
+    {
+      "surface": "וישר",
+      "gloss": "અને શાસન કર્યું"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "અબિમેલેખે"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ઇસ્રાએલ"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ત્રણ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "વર્ષ"
+    }
+  ],
+  "timestamp": "2026-08-21T12:50:39.991967032Z",
+  "model": "glm-5.3"
+}

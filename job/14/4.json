@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 14:4",
+  "book": "job",
+  "lang": "gu",
+  "chapter": 14,
+  "translation": "શુદ્ધને અશુદ્ધમાંથી કોણ આપી શકે? એક પણ નહીં.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "કોણ"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "આપી શકે"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "શુદ્ધને"
+    },
+    {
+      "surface": "מטמא",
+      "gloss": "અશુદ્ધમાંથી"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "એક પણ"
+    }
+  ],
+  "timestamp": "2026-08-21T17:08:59.949579182Z",
+  "model": "glm-5.3"
+}

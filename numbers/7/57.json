@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "numbers 7:57",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 7,
+  "translation": "એક કળવો, કરડીનો પુત્ર, એક ઘેટાનો દીઠણ, એક નાનો ઘેટો, તેના પ્રથમ વર્ષનો પુત્ર, સવાયા માટે.",
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "કળવો"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "એક"
+    },
+    {
+      "surface": "בן",
+      "gloss": "પુત્ર"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "કરડી"
+    },
+    {
+      "surface": "איל",
+      "gloss": "દીઠણ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "એક"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "નાનો ઘેટો"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "એક"
+    },
+    {
+      "surface": "בן",
+      "gloss": "પુત્ર"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "તેના પ્રથમ વર્ષનો"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "સવાયા માટે"
+    }
+  ],
+  "timestamp": "2026-08-21T11:52:22.035362091Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-samuel 20:26",
+  "book": "2-samuel",
+  "lang": "gu",
+  "chapter": 20,
+  "translation": "અને પણ ઈરા હયારી દાવુદનો યાજક ⟨હતો⟩.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "અને પણ"
+    },
+    {
+      "surface": "עירא",
+      "gloss": "ઈરા"
+    },
+    {
+      "surface": "היארי",
+      "gloss": "હયારી"
+    },
+    {
+      "surface": "היה",
+      "gloss": "હતો"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "યાજક"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "દાવુદનો"
+    }
+  ],
+  "timestamp": "2026-08-21T13:30:40.566377035Z",
+  "model": "glm-5.3"
+}

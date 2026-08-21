@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "lamentations 3:43",
+  "book": "lamentations",
+  "lang": "gu",
+  "chapter": 3,
+  "translation": "ક્રોધમાં તેં ઢાંકી દીધું અને અમારો પીછો કર્યો; તેં માર્યા, તેં દયા નહીં કરી.",
+  "tokens": [
+    {
+      "surface": "סכתה",
+      "gloss": "ઢાંકી દીધું"
+    },
+    {
+      "surface": "באף",
+      "gloss": "ક્રોધમાં"
+    },
+    {
+      "surface": "ותרדפנו",
+      "gloss": "અમારો પીછો કર્યો"
+    },
+    {
+      "surface": "הרגת",
+      "gloss": "માર્યા"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "חמלת",
+      "gloss": "દયા કરી"
+    }
+  ],
+  "timestamp": "2026-08-21T17:25:34.244923185Z",
+  "model": "glm-5.3"
+}

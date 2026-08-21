@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 12:2",
+  "book": "ecclesiastes",
+  "lang": "gu",
+  "chapter": 12,
+  "translation": "⟨જ્યાં સુધી⟩ સૂર્ય ન અંધકારી થાય, અને પ્રકાશ, અને ચંદ્ર, અને તારાઓ, અને વાદળો વરસાદ પછી પાછાં ફરે;",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "જ્યાં સુધી"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨કે⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ન"
+    },
+    {
+      "surface": "תחשך",
+      "gloss": "અંધકારી થાય"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "સૂર્ય"
+    },
+    {
+      "surface": "והאור",
+      "gloss": "અને પ્રકાશ"
+    },
+    {
+      "surface": "והירח",
+      "gloss": "અને ચંદ્ર"
+    },
+    {
+      "surface": "והכוכבים",
+      "gloss": "અને તારાઓ"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "અને પાછાં ફરે"
+    },
+    {
+      "surface": "העבים",
+      "gloss": "વાદળો"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "પછી"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "વરસાદ"
+    }
+  ],
+  "timestamp": "2026-08-21T17:32:43.083105061Z",
+  "model": "glm-5.3"
+}

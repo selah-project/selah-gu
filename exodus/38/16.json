@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 38:16",
+  "book": "exodus",
+  "lang": "gu",
+  "chapter": 38,
+  "translation": "પ્રાંગણના ચારેતરફના બધા પડદા વળેલા સણના સફેદ કાપડના હતા.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "બધા"
+    },
+    {
+      "surface": "קלעי",
+      "gloss": "પડદા"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "પ્રાંગણના"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ચારેતરફના"
+    },
+    {
+      "surface": "שש",
+      "gloss": "સફેદ કાપડ"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "વળેલા"
+    }
+  ],
+  "timestamp": "2026-08-21T11:26:59.847264658Z",
+  "model": "glm-5.3"
+}

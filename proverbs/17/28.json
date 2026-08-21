@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 17:28",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 17,
+  "translation": "મૂર્ખ પણ મૂંગું રહે તો જ્ઞાની ગણાય; પોતાના હોઠ બંધ રાખનાર સમજદાર ગણાય.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "પણ"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "મૂર્ખ"
+    },
+    {
+      "surface": "מחריש",
+      "gloss": "મૂંગું રહે તો"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "જ્ઞાની"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "ગણાય"
+    },
+    {
+      "surface": "અטם",
+      "gloss": "બંધ રાખનાર"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "પોતાના હોઠ"
+    },
+    {
+      "surface": "נבון",
+      "gloss": "સમજદાર"
+    }
+  ],
+  "timestamp": "2026-08-21T16:58:08.530723504Z",
+  "model": "glm-5.3"
+}

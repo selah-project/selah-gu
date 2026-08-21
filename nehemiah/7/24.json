@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "nehemiah 7:24",
+  "book": "nehemiah",
+  "lang": "gu",
+  "chapter": 7,
+  "translation": "ખરીફના પુત્રો સો બાર.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "חריף",
+      "gloss": "ખરીફ"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "સો"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "બે"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "-બાર"
+    }
+  ],
+  "timestamp": "2026-08-21T17:54:53.652192628Z",
+  "model": "glm-5.3"
+}

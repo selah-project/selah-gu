@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 11:14",
+  "book": "leviticus",
+  "lang": "gu",
+  "chapter": 11,
+  "translation": "અને ⟨את⟩ હદાઆહ, અને ⟨את⟩ હઅય્યાહ તેના પ્રકાર પ્રમાણે.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "હદાઆહ"
+    },
+    {
+      "surface": "הדאה",
+      "gloss": "હદાઆહ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "હઅય્યાહ"
+    },
+    {
+      "surface": "האיה",
+      "gloss": "હઅય્યાહ"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "તેના પ્રકાર પ્રમાણે"
+    }
+  ],
+  "timestamp": "2026-08-21T11:33:40.632436699Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 5:21",
+  "book": "genesis",
+  "lang": "gu",
+  "chapter": 5,
+  "translation": "અને હનોખ પાંચ અને સાઠ વર્ષ જીવ્યો, અને ⟨את⟩ મતૂશેલાખને જન્મ આપ્યો.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "અને…જીવ્યો"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "હનોખ"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "પાંચ"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "અને સાઠ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "વર્ષ"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "અને…જન્મ આપ્યો"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "મતૂશેલાખ"
+    },
+    {
+      "surface": "מתושלח",
+      "gloss": "મતૂશેલાખ"
+    }
+  ],
+  "timestamp": "2026-08-21T10:39:04.221868790Z",
+  "model": "glm-5.3"
+}

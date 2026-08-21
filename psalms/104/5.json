@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 104:5",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 104,
+  "translation": "પૃથ્વીને તેનાં પાયાઓ પર સ્થાપી, જેથી તે સદા અને સર્વદા હલશે નહીં.",
+  "tokens": [
+    {
+      "surface": "יסד",
+      "gloss": "સ્થાપી"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "પૃથ્વીને"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "מכוניה",
+      "gloss": "તેનાં પાયાઓ"
+    },
+    {
+      "surface": "בל",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "હલશે"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "સદા"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "અને સર્વદા"
+    }
+  ],
+  "timestamp": "2026-08-21T16:38:46.231353456Z",
+  "model": "glm-5.3"
+}

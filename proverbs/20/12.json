@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 20:12",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 20,
+  "translation": "સાંભળતું કાન અને જોતી આંખ — યાહવેએ બંનેય બનાવ્યાં છે.",
+  "tokens": [
+    {
+      "surface": "אזן",
+      "gloss": "કાન"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "સાંભળતું"
+    },
+    {
+      "surface": "ועין",
+      "gloss": "અને આંખ"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "જોતી"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "બનાવ્યાં છે"
+    },
+    {
+      "surface": "גם",
+      "gloss": "પણ"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "બંનેય"
+    }
+  ],
+  "timestamp": "2026-08-21T16:58:35.825226014Z",
+  "model": "glm-5.3"
+}

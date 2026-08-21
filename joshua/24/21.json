@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "joshua 24:21",
+  "book": "joshua",
+  "lang": "gu",
+  "chapter": 24,
+  "translation": "અને પ્રજાએ યહોશુઆને કહ્યું: ના, કે ફક્ત યાહવેને જ આપણે સેવા કરીશું.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "અને કહ્યું"
+    },
+    {
+      "surface": "העם",
+      "gloss": "પ્રજાએ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ને"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "યહોશુઆ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ના"
+    },
+    {
+      "surface": "כי",
+      "gloss": "કે ફક્ત"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "યાહવે"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "נעבד",
+      "gloss": "આપણે સેવા કરીશું"
+    }
+  ],
+  "timestamp": "2026-08-21T12:45:17.857883714Z",
+  "model": "glm-5.3"
+}

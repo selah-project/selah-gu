@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 21:26",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 21,
+  "translation": "આખો દિવસ તે ઈચ્છા કરે છે ઈચ્છા, પણ ન્યાયી માણસ આપે છે અને રોકી રાખતો નથી.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "આખો"
+    },
+    {
+      "surface": "היום",
+      "gloss": "દિવસ"
+    },
+    {
+      "surface": "התאוה",
+      "gloss": "ઈચ્છા કરે છે"
+    },
+    {
+      "surface": "תאוה",
+      "gloss": "ઈચ્છા"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "પણ ન્યાયી માણસ"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "આપે છે"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "અને નહીં"
+    },
+    {
+      "surface": "יחשך",
+      "gloss": "રોકી રાખતો નથી"
+    }
+  ],
+  "timestamp": "2026-08-21T16:59:16.792455501Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 8:12",
+  "book": "isaiah",
+  "lang": "gu",
+  "chapter": 8,
+  "translation": "તમે કહેતા નહીં: 'કટ', ⟨the⟩ આ પ્રજા જે બધું કહે છે તે બધાને 'કટ' — અને ⟨את⟩ તેના ભયનો તમે ભય ન કરતા, અને ન ધ્રુજતા.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "תאמרון",
+      "gloss": "તમે કહેતા"
+    },
+    {
+      "surface": "קשר",
+      "gloss": "કટ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "બધાને"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જે"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "કહે છે"
+    },
+    {
+      "surface": "העם",
+      "gloss": "આ પ્રજા"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "આ"
+    },
+    {
+      "surface": "קשר",
+      "gloss": "કટ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "તેના ભયનો"
+    },
+    {
+      "surface": "מוראו",
+      "gloss": "તેના ભયનો"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "તમે ભય કરતા"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "અને ન"
+    },
+    {
+      "surface": "תעריצו",
+      "gloss": "ધ્રુજતા"
+    }
+  ],
+  "timestamp": "2026-08-21T14:13:57.179808331Z",
+  "model": "glm-5.3"
+}

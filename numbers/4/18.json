@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 4:18",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 4,
+  "translation": "કહાતી કુળોના કોળિયાને લેવીઓના મધ્યથી કાપી નાખશો નહીં.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "תכריתו",
+      "gloss": "કાપી નાખશો"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "કોળિયા"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "કોળિયો"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "કુળોના"
+    },
+    {
+      "surface": "הקהתי",
+      "gloss": "કહાતી"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "…ના મધ્યથી"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "લેવીઓ"
+    }
+  ],
+  "timestamp": "2026-08-21T11:50:19.386598520Z",
+  "model": "glm-5.3"
+}

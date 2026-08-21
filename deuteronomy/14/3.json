@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 14:3",
+  "book": "deuteronomy",
+  "lang": "gu",
+  "chapter": 14,
+  "translation": "તમે કોઈ પણ ઘૃણાસ્પદ વસ્તુ ખાશો નહીં.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "તમે ખાશો"
+    },
+    {
+      "surface": "כל",
+      "gloss": "કોઈ પણ"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "ઘૃણાસ્પદ વસ્તુ"
+    }
+  ],
+  "timestamp": "2026-08-21T12:19:46.002969494Z",
+  "model": "glm-5.3"
+}

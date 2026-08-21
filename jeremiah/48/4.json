@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 48:4",
+  "book": "jeremiah",
+  "lang": "gu",
+  "chapter": 48,
+  "translation": "મોઆબ તૂટી પડી છે; તેનાં નાનાં બાળકોએ બૂમ પોકારી છે.",
+  "tokens": [
+    {
+      "surface": "נשברה",
+      "gloss": "તૂટી પડી છે"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "મોઆબ"
+    },
+    {
+      "surface": "השמיעו",
+      "gloss": "સંભળાવી છે"
+    },
+    {
+      "surface": "זעקה",
+      "gloss": "બૂમ"
+    },
+    {
+      "surface": "צעוריה",
+      "gloss": "તેનાં નાનાં બાળકોએ"
+    }
+  ],
+  "timestamp": "2026-08-21T15:11:26.802731641Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 85,
+  "ref": "psalms 119:85",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 119,
+  "translation": "ઘમંડીઓ મારા માટે ખાડા ખોદ્યા છે, જે ⟨છે⟩ તારી તોરાહ પ્રમાણે નથી.",
+  "tokens": [
+    {
+      "surface": "כרו",
+      "gloss": "ખોદ્યા છે"
+    },
+    {
+      "surface": "לי",
+      "gloss": "મારા માટે"
+    },
+    {
+      "surface": "זדים",
+      "gloss": "ઘમંડીઓ"
+    },
+    {
+      "surface": "שיחות",
+      "gloss": "ખાડા"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જે"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નથી"
+    },
+    {
+      "surface": "כתורתך",
+      "gloss": "તારી તોરાહ પ્રમાણે"
+    }
+  ],
+  "timestamp": "2026-08-21T16:44:24.123343771Z",
+  "model": "glm-5.3"
+}

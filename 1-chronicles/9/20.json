@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 9:20",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 9,
+  "translation": "અને પિનહાસ, એલાઝારનો પુત્ર, પહેલાં તેમનો નેતા ⟨હતો⟩ — યાહવે તેની સાથે ⟨હતો⟩.",
+  "tokens": [
+    {
+      "surface": "ופינחס",
+      "gloss": "અને પિનહાસ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "પુત્ર"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "એલાઝારનો"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "નેતા"
+    },
+    {
+      "surface": "היה",
+      "gloss": "હતો"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "તેમનો"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "પહેલાં"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "તેની સાથે"
+    }
+  ],
+  "timestamp": "2026-08-21T18:05:48.707448172Z",
+  "model": "glm-5.3"
+}

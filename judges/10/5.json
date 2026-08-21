@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 10:5",
+  "book": "judges",
+  "lang": "gu",
+  "chapter": 10,
+  "translation": "અને યાઇર મર્યો, અને તેને કામોનમાં દફન કરવામાં આવ્યો.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "અને મર્યો"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "યાઇર"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "અને દફન કરવામાં આવ્યો"
+    },
+    {
+      "surface": "בקמון",
+      "gloss": "કામોનમાં"
+    }
+  ],
+  "timestamp": "2026-08-21T12:52:16.180236961Z",
+  "model": "glm-5.3"
+}

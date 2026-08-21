@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 11:30",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 11,
+  "translation": "અને મોશે, તે અને ઇસ્રાએલના વડીલો સાથે, છાવણી તરફ પાછો વળ્યો.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "અને પાછો વળ્યો"
+    },
+    {
+      "surface": "משה",
+      "gloss": "મોશે"
+    },
+    {
+      "surface": "אל",
+      "gloss": "તરફ"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "છાવણી"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "તે"
+    },
+    {
+      "surface": "וזקני",
+      "gloss": "અને વડીલો"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ઇસ્રાએલના"
+    }
+  ],
+  "timestamp": "2026-08-21T11:57:07.256178392Z",
+  "model": "glm-5.3"
+}

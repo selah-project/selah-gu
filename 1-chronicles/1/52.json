@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "1-chronicles 1:52",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 1,
+  "translation": "સરદાર અહોલીબામા, સરદાર એલા, સરદાર પિનોન.",
+  "tokens": [
+    {
+      "surface": "אלוף",
+      "gloss": "સરદાર"
+    },
+    {
+      "surface": "אהליבמה",
+      "gloss": "અહોલીબામા"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "સરદાર"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "એલા"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "સરદાર"
+    },
+    {
+      "surface": "פינן",
+      "gloss": "પિનોન"
+    }
+  ],
+  "timestamp": "2026-08-21T17:59:08.602688065Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 102,
+  "ref": "psalms 119:102",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 119,
+  "translation": "તારા ન્યાયોથી હું વળ્યો નથી, કારણ કે તેં જ મને શીખવ્યું.",
+  "tokens": [
+    {
+      "surface": "ממשפטיך",
+      "gloss": "તારા ન્યાયોથી"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નથી"
+    },
+    {
+      "surface": "סרתי",
+      "gloss": "વળ્યો"
+    },
+    {
+      "surface": "כי",
+      "gloss": "કારણ કે"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "તેં જ"
+    },
+    {
+      "surface": "הורתני",
+      "gloss": "મને શીખવ્યું"
+    }
+  ],
+  "timestamp": "2026-08-21T16:44:52.883827138Z",
+  "model": "glm-5.3"
+}

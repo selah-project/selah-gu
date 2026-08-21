@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 26:27",
+  "book": "leviticus",
+  "lang": "gu",
+  "chapter": 26,
+  "translation": "અને જો તમે આ બધા છતાં મારું સાંભળશો નહીં, પણ મારી સાથે વિરોધમાં ચાલશો,",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "અને જો"
+    },
+    {
+      "surface": "בזאת",
+      "gloss": "આ બધા છતાં"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "તમે સાંભળશો"
+    },
+    {
+      "surface": "לי",
+      "gloss": "મારું"
+    },
+    {
+      "surface": "והלכתם",
+      "gloss": "પણ ચાલશો"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "મારી સાથે"
+    },
+    {
+      "surface": "בקרי",
+      "gloss": "વિરોધમાં"
+    }
+  ],
+  "timestamp": "2026-08-21T11:47:48.256885807Z",
+  "model": "glm-5.3"
+}

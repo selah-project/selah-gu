@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 12:10",
+  "book": "joshua",
+  "lang": "gu",
+  "chapter": 12,
+  "translation": "યરૂશાલાયિમના રાજાનું — એક; ખેબ્રોનના રાજાનું — એક;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "રાજાનું"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "યરૂશાલાયિમ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "એક"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "રાજાનું"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "ખેબ્રોન"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "એક"
+    }
+  ],
+  "timestamp": "2026-08-21T12:38:12.764414969Z",
+  "model": "glm-5.3"
+}

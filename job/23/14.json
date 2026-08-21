@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 23:14",
+  "book": "job",
+  "lang": "gu",
+  "chapter": 23,
+  "translation": "કેમ કે તે મારો હુકમ પૂરો કરશે, અને તેની સાથે આવાં અનેક ⟨things⟩ છે.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "કેમ કે"
+    },
+    {
+      "surface": "ישלים",
+      "gloss": "પૂરો કરશે"
+    },
+    {
+      "surface": "חקי",
+      "gloss": "મારો હુકમ"
+    },
+    {
+      "surface": "וכהנה",
+      "gloss": "અને આવાં"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "અનેક"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "તેની સાથે"
+    }
+  ],
+  "timestamp": "2026-08-21T17:13:05.530866222Z",
+  "model": "glm-5.3"
+}

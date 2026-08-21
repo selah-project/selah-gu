@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 4:19",
+  "book": "genesis",
+  "lang": "gu",
+  "chapter": 4,
+  "translation": "અને લામેખે પોતાને માટે બે સ્ત્રીઓ લીધી; એકનું નામ અદા, અને બીજીનું નામ ત્સિલ્લા.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "અને લીધી"
+    },
+    {
+      "surface": "לו",
+      "gloss": "પોતાને માટે"
+    },
+    {
+      "surface": "למך",
+      "gloss": "લામેખે"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "બે"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "સ્ત્રીઓ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "નામ"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "એકનું"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "અદા"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "અને નામ"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "બીજીનું"
+    },
+    {
+      "surface": "צלה",
+      "gloss": "ત્સિલ્લા"
+    }
+  ],
+  "timestamp": "2026-08-21T10:38:19.928127222Z",
+  "model": "glm-5.3"
+}

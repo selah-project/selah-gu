@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 16:27",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 16,
+  "translation": "તેની સામે વૈભવ અને મહિમા ⟨છે⟩; તેના સ્થાનમાં બળ અને આનંદ ⟨છે⟩.",
+  "tokens": [
+    {
+      "surface": "הוד",
+      "gloss": "વૈભવ"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "અને મહિમા"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "તેની સામે"
+    },
+    {
+      "surface": "עז",
+      "gloss": "બળ"
+    },
+    {
+      "surface": "וחדוה",
+      "gloss": "અને આનંદ"
+    },
+    {
+      "surface": "במקמו",
+      "gloss": "તેના સ્થાનમાં"
+    }
+  ],
+  "timestamp": "2026-08-21T18:06:26.480956626Z",
+  "model": "glm-5.3"
+}

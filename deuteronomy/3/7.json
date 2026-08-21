@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 3:7",
+  "book": "deuteronomy",
+  "lang": "gu",
+  "chapter": 3,
+  "translation": "પણ બધાં પશુઓ અને શહેરોનો લૂંટનો માલ આપણે પોતાના માટે લૂંટ્યો.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "પણ બધાં"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "પશુઓ"
+    },
+    {
+      "surface": "ושלל",
+      "gloss": "અને લૂંટનો માલ"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "શહેરોનો"
+    },
+    {
+      "surface": "בזונו",
+      "gloss": "લૂંટ્યો"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "આપણા માટે"
+    }
+  ],
+  "timestamp": "2026-08-21T12:13:36.554742089Z",
+  "model": "glm-5.3"
+}

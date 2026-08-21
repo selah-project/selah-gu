@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 15:18",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 15,
+  "translation": "ક્રોધનો માણસ ઝઘડો ભડકાવે છે, અને ક્રોધમાં ધીમો વિવાદ શાંત કરે છે.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "માણસ"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "ક્રોધનો"
+    },
+    {
+      "surface": "יגרה",
+      "gloss": "ભડકાવે છે"
+    },
+    {
+      "surface": "מדון",
+      "gloss": "ઝઘડો"
+    },
+    {
+      "surface": "וארך",
+      "gloss": "અને ધીમો"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "ક્રોધમાં"
+    },
+    {
+      "surface": "ישקיט",
+      "gloss": "શાંત કરે છે"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "વિવાદ"
+    }
+  ],
+  "timestamp": "2026-08-21T16:57:39.518442082Z",
+  "model": "glm-5.3"
+}

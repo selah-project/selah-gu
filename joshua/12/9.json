@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joshua 12:9",
+  "book": "joshua",
+  "lang": "gu",
+  "chapter": 12,
+  "translation": "યરીખોના રાજાનું — એક; ⟨ה⟩અય-ના રાજાનું — જે બેત-એલની બાજુમાં ⟨છે⟩ — એક;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "રાજાનું"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "યરીખો"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "એક"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "રાજાનું"
+    },
+    {
+      "surface": "העי",
+      "gloss": "⟨ה⟩અય-ના"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જે"
+    },
+    {
+      "surface": "מצד",
+      "gloss": "બાજુમાં"
+    },
+    {
+      "surface": "בית",
+      "gloss": "બેત-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "એલની"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "એક"
+    }
+  ],
+  "timestamp": "2026-08-21T12:38:12.764192864Z",
+  "model": "glm-5.3"
+}

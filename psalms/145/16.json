@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 145:16",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 145,
+  "translation": "તું ⟨את⟩ પોતાનો હાથ ખોલે છે, અને સર્વ જીવિતની ઈચ્છા સંતોષે છે.",
+  "tokens": [
+    {
+      "surface": "פותח",
+      "gloss": "ખોલે છે"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "પોતાનો હાથ"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "પોતાનો હાથ"
+    },
+    {
+      "surface": "ומשביע",
+      "gloss": "અને સંતોષે છે"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "સર્વ"
+    },
+    {
+      "surface": "חי",
+      "gloss": "જીવિતની"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "ઈચ્છા"
+    }
+  ],
+  "timestamp": "2026-08-21T16:50:22.125573203Z",
+  "model": "glm-5.3"
+}

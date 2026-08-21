@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "song-of-songs 1:9",
+  "book": "song-of-songs",
+  "lang": "gu",
+  "chapter": 1,
+  "translation": "મારા ઘોડીને ફરઓના રથોમાં હું તની સરખામણી કરું છું, મારી પ્રિયા.",
+  "tokens": [
+    {
+      "surface": "לססתי",
+      "gloss": "મારા ઘોડીને"
+    },
+    {
+      "surface": "ברכבי",
+      "gloss": "રથોમાં"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ફરઓ"
+    },
+    {
+      "surface": "דמיתיך",
+      "gloss": "હું તની સરખામણી કરું છું"
+    },
+    {
+      "surface": "רעיתי",
+      "gloss": "મારી પ્રિયા"
+    }
+  ],
+  "timestamp": "2026-08-21T17:20:22.917301668Z",
+  "model": "glm-5.3"
+}

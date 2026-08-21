@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 10:30",
+  "book": "genesis",
+  "lang": "gu",
+  "chapter": 10,
+  "translation": "અને તેમનું વસવાટ મેશાથી હતું, સ્ફર તરફ જતાં — પૂર્વના પર્વત સુધી.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "અને હતું"
+    },
+    {
+      "surface": "מושבם",
+      "gloss": "તેમનું વસવાટ"
+    },
+    {
+      "surface": "ממשא",
+      "gloss": "મેશાથી"
+    },
+    {
+      "surface": "באכה",
+      "gloss": "જતાં"
+    },
+    {
+      "surface": "ספרה",
+      "gloss": "સ્ફર તરફ"
+    },
+    {
+      "surface": "הר",
+      "gloss": "પર્વત"
+    },
+    {
+      "surface": "הקדם",
+      "gloss": "પૂર્વના"
+    }
+  ],
+  "timestamp": "2026-08-21T10:41:33.023502681Z",
+  "model": "glm-5.3"
+}

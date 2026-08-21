@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-chronicles 8:19",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 8,
+  "translation": "અને યાકીમ, અને ઝિખરી, અને ઝબદી —",
+  "tokens": [
+    {
+      "surface": "ויקים",
+      "gloss": "અને યાકીમ"
+    },
+    {
+      "surface": "וזכרי",
+      "gloss": "અને ઝિખરી"
+    },
+    {
+      "surface": "וזבדי",
+      "gloss": "અને ઝબદી"
+    }
+  ],
+  "timestamp": "2026-08-21T18:02:37.393695877Z",
+  "model": "glm-5.3"
+}

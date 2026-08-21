@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 131:3",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 131,
+  "translation": "ઇસ્રાએલ યાહવે પર આશા રાખે, આપથી અને સદા સુધી.",
+  "tokens": [
+    {
+      "surface": "יחל",
+      "gloss": "આશા રાખે"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ઇસ્રાએલ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "પર"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "આપથી"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "અને … સુધી"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "સદા"
+    }
+  ],
+  "timestamp": "2026-08-21T16:46:52.270713428Z",
+  "model": "glm-5.3"
+}

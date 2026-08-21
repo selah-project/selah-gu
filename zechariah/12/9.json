@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "zechariah 12:9",
+  "book": "zechariah",
+  "lang": "gu",
+  "chapter": 12,
+  "translation": "અને એ દિવસે થશે કે હું યરૂશાલાયિમ પર આવનારાં બધા જ રાષ્ટ્રોનો ⟨את⟩ નાશ કરવા માગીશ.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "અને થશે"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "એ દિવસે"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "એ"
+    },
+    {
+      "surface": "אבקש",
+      "gloss": "માગીશ"
+    },
+    {
+      "surface": "להשמיד",
+      "gloss": "નાશ કરવા"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "બધા જ રાષ્ટ્રોનો"
+    },
+    {
+      "surface": "כל",
+      "gloss": "બધા જ"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "રાષ્ટ્રોનો"
+    },
+    {
+      "surface": "הבאים",
+      "gloss": "આવનારાં"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "યરૂશાલાયિમ"
+    }
+  ],
+  "timestamp": "2026-08-21T16:07:30.785749266Z",
+  "model": "glm-5.3"
+}

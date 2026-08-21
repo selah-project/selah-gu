@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 91:5",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 91,
+  "translation": "તું રાત્રિના ભયથી ડરશે નહીં, દિવસે ઉડતા તીરથી ⟨પણ નહીં⟩ —",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "તું ડરશે"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "ભયથી"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "રાત્રિના"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "તીરથી"
+    },
+    {
+      "surface": "יעוף",
+      "gloss": "ઉડતા"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "દિવસે"
+    }
+  ],
+  "timestamp": "2026-08-21T18:57:11.242743769Z",
+  "model": "glm-5.3"
+}

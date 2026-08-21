@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 13:19",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 13,
+  "translation": "અને દેશ કેવો ⟨is⟩ જેમાં તે વસે છે — શું તે સારો ⟨is⟩ કે ખરાબ; અને નગરો કેવા ⟨are⟩ જેમાં તે વસે છે — શિબિરોમાં કે કિલ્લાઓમાં.",
+  "tokens": [
+    {
+      "surface": "ומה",
+      "gloss": "અને કેવો"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "દેશ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જે"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "તે"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "વસે છે"
+    },
+    {
+      "surface": "בה",
+      "gloss": "તેમાં"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "સારી"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "તે છે"
+    },
+    {
+      "surface": "אם",
+      "gloss": "કે"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ખરાબ"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "અને કેવા"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "નગરો"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જે"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "તે"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "વસે છે"
+    },
+    {
+      "surface": "בהנה",
+      "gloss": "તેમાં"
+    },
+    {
+      "surface": "הבמחנים",
+      "gloss": "શિબિરોમાં"
+    },
+    {
+      "surface": "אם",
+      "gloss": "કે"
+    },
+    {
+      "surface": "במבצרים",
+      "gloss": "કિલ્લાઓમાં"
+    }
+  ],
+  "timestamp": "2026-08-21T11:56:17.564493889Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 75:10",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 75,
+  "translation": "પણ હું સદા સાચું કહીશ, યાકોબના એલોહીમને ગીત ગાઈશ.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "પણ હું"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "સાચું કહીશ"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "સદા"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "ગીત ગાઈશ"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "એલોહીમને"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "યાકોબના"
+    }
+  ],
+  "timestamp": "2026-08-21T16:29:53.969515808Z",
+  "model": "glm-5.3"
+}

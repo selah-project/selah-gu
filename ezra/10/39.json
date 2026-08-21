@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "ezra 10:39",
+  "book": "ezra",
+  "lang": "gu",
+  "chapter": 10,
+  "translation": "અને શેલેમ્યાહ, અને નાતાન, અને અદાયાહ.",
+  "tokens": [
+    {
+      "surface": "ושלמיה",
+      "gloss": "અને શેલેમ્યાહ"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "અને નાતાન"
+    },
+    {
+      "surface": "ועדיה",
+      "gloss": "અને અદાયાહ"
+    }
+  ],
+  "timestamp": "2026-08-21T17:50:05.335162705Z",
+  "model": "glm-5.3"
+}

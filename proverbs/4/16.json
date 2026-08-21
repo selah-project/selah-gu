@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 4:16",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 4,
+  "translation": "કેમ કે તેઓ ઊંઘતા નથી જો તેઓ બૂરાઈ ન કરે; અને તેમની ઊંઘ છીનવાઈ જાય છે, જો તેઓ કોઈને ઠોકર ન ખવડાવે.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "કેમ કે"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નથી"
+    },
+    {
+      "surface": "ישנו",
+      "gloss": "ઊંઘતા"
+    },
+    {
+      "surface": "אם",
+      "gloss": "જો"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ન"
+    },
+    {
+      "surface": "ירעו",
+      "gloss": "બૂરાઈ કરે"
+    },
+    {
+      "surface": "ונגזלה",
+      "gloss": "અને છીનવાઈ જાય છે"
+    },
+    {
+      "surface": "שנתם",
+      "gloss": "તેમની ઊંઘ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "જો"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ન"
+    },
+    {
+      "surface": "יכשולו",
+      "gloss": "ઠોકર ખવડાવે"
+    }
+  ],
+  "timestamp": "2026-08-21T16:51:55.774828659Z",
+  "model": "glm-5.3"
+}

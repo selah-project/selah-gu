@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 8:10",
+  "book": "genesis",
+  "lang": "gu",
+  "chapter": 8,
+  "translation": "અને તેણે ફરી બીજાં સાત દિવસ રાહ જોઈ, અને કબૂતરીને ⟨את⟩ તિબાતમાંથી પાછી મોકલી.",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "રાહ જોઈ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ફરી"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "સાત"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "દિવસ"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "બીજાં"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "પાછી મોકલી"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "મોકલી"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "કબૂતરીને"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "કબૂતરીને"
+    },
+    {
+      "surface": "מן",
+      "gloss": "માંથી"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "તિબાત"
+    }
+  ],
+  "timestamp": "2026-08-21T10:40:32.134610250Z",
+  "model": "glm-5.3"
+}

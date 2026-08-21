@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "lamentations 3:8",
+  "book": "lamentations",
+  "lang": "gu",
+  "chapter": 3,
+  "translation": "પણ જ્યારે હું બૂમ પાડું અને રડાદ કરું, ત્યારે પણ ⟨તેણે⟩ મારી પ્રાર્થના બંધ કરી દીધી.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "પણ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "જ્યારે"
+    },
+    {
+      "surface": "אזעק",
+      "gloss": "હું બૂમ પાડું"
+    },
+    {
+      "surface": "ואשוע",
+      "gloss": "અને રડાદ કરું"
+    },
+    {
+      "surface": "שתם",
+      "gloss": "બંધ કરી દીધી"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "મારી પ્રાર્થના"
+    }
+  ],
+  "timestamp": "2026-08-21T17:25:38.994254194Z",
+  "model": "glm-5.3"
+}

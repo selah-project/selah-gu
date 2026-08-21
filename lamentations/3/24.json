@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "lamentations 3:24",
+  "book": "lamentations",
+  "lang": "gu",
+  "chapter": 3,
+  "translation": "યાહવે ⟨છે⟩ મારો ભાગ, મારા પ્રાણે કહ્યું; તેથી હું તેની આશા રાખું છું.",
+  "tokens": [
+    {
+      "surface": "חלקי",
+      "gloss": "મારો ભાગ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "אמרה",
+      "gloss": "કહ્યું"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "મારા પ્રાણે"
+    },
+    {
+      "surface": "על",
+      "gloss": "તેથી"
+    },
+    {
+      "surface": "כן",
+      "gloss": "તેથી"
+    },
+    {
+      "surface": "אוחיל",
+      "gloss": "હું આશા રાખું છું"
+    },
+    {
+      "surface": "לו",
+      "gloss": "તેની"
+    }
+  ],
+  "timestamp": "2026-08-21T17:26:04.269065504Z",
+  "model": "glm-5.3"
+}

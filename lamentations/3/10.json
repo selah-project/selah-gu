@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "lamentations 3:10",
+  "book": "lamentations",
+  "lang": "gu",
+  "chapter": 3,
+  "translation": "તે મારા માટે ઘાત લગાડતો રીંછ ⟨છે⟩, ગુપ્ત સ્થાનોમાં સિંહ ⟨છે⟩.",
+  "tokens": [
+    {
+      "surface": "דב",
+      "gloss": "રીંછ"
+    },
+    {
+      "surface": "ארב",
+      "gloss": "ઘાત લગાડતો"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "તે"
+    },
+    {
+      "surface": "לי",
+      "gloss": "મારા માટે"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "સિંહ"
+    },
+    {
+      "surface": "במסתרים",
+      "gloss": "ગુપ્ત સ્થાનોમાં"
+    }
+  ],
+  "timestamp": "2026-08-21T17:25:56.062262039Z",
+  "model": "glm-5.3"
+}

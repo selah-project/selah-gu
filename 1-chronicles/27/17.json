@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 27:17",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 27,
+  "translation": "લેવીના લોકો પર ખશવ્યાહ કેમુએલનો પુત્ર; અહરોનના લોકો પર ત્સાદોક.",
+  "tokens": [
+    {
+      "surface": "ללוי",
+      "gloss": "લેવીના લોકો પર"
+    },
+    {
+      "surface": "חשביה",
+      "gloss": "ખશવ્યાહ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "પુત્ર"
+    },
+    {
+      "surface": "קמואל",
+      "gloss": "કેમુએલનો"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "અહરોનના લોકો પર"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "ત્સાદોક"
+    }
+  ],
+  "timestamp": "2026-08-21T18:13:07.174279344Z",
+  "model": "glm-5.3"
+}

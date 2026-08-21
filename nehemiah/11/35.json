@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "nehemiah 11:35",
+  "book": "nehemiah",
+  "lang": "gu",
+  "chapter": 11,
+  "translation": "લોદ અને ઓનો, કારીગરોની ખીણ.",
+  "tokens": [
+    {
+      "surface": "לד",
+      "gloss": "લોદ"
+    },
+    {
+      "surface": "ואונו",
+      "gloss": "અને ઓનો"
+    },
+    {
+      "surface": "גי",
+      "gloss": "ખીણ"
+    },
+    {
+      "surface": "החרשים",
+      "gloss": "કારીગરોની"
+    }
+  ],
+  "timestamp": "2026-08-21T17:58:00.061645327Z",
+  "model": "glm-5.3"
+}

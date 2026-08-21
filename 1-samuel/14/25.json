@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-samuel 14:25",
+  "book": "1-samuel",
+  "lang": "gu",
+  "chapter": 14,
+  "translation": "અને આખી પૃથ્વીના લોકો જંગલમાં આવ્યા, અને ખેતરના સામે મધ ⟨is⟩ ત્યાં.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "અને આખી"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "પૃથ્વીના લોકો"
+    },
+    {
+      "surface": "באו",
+      "gloss": "આવ્યા"
+    },
+    {
+      "surface": "ביער",
+      "gloss": "જંગલમાં"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "અને હતું"
+    },
+    {
+      "surface": "דבש",
+      "gloss": "મધ"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "פני",
+      "gloss": "સામે"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ખેતરના"
+    }
+  ],
+  "timestamp": "2026-08-21T13:09:03.118630973Z",
+  "model": "glm-5.3"
+}

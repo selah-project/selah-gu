@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 15:7",
+  "book": "2-chronicles",
+  "lang": "gu",
+  "chapter": 15,
+  "translation": "પણ તમે મજબૂત રહો, અને તમારા હાથ ઢીલા ન પડે, કારણ કે તમારા કાર્યનું વળતર છે.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "પણ તમે"
+    },
+    {
+      "surface": "חזקו",
+      "gloss": "મજબૂત રહો"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "અને ન"
+    },
+    {
+      "surface": "ירפו",
+      "gloss": "ઢીલા પડે"
+    },
+    {
+      "surface": "ידיכם",
+      "gloss": "તમારા હાથ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "કારણ કે"
+    },
+    {
+      "surface": "יש",
+      "gloss": "છે"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "વળતર"
+    },
+    {
+      "surface": "לפעלתכם",
+      "gloss": "તમારા કાર્યનું"
+    }
+  ],
+  "timestamp": "2026-08-21T18:21:55.184851151Z",
+  "model": "glm-5.3"
+}

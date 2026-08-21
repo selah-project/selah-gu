@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 3:8",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 3,
+  "translation": "તે તારી નાભિ માટે સાજાવટ થશે અને તારી અસ્થિઓ માટે સિંચન.",
+  "tokens": [
+    {
+      "surface": "רפאות",
+      "gloss": "સાજાવટ"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "થશે"
+    },
+    {
+      "surface": "לשרך",
+      "gloss": "તારી નાભિ માટે"
+    },
+    {
+      "surface": "ושקוי",
+      "gloss": "અને સિંચન"
+    },
+    {
+      "surface": "לעצמותיך",
+      "gloss": "તારી અસ્થિઓ માટે"
+    }
+  ],
+  "timestamp": "2026-08-21T16:51:28.330877409Z",
+  "model": "glm-5.3"
+}

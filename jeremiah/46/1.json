@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 46:1",
+  "book": "jeremiah",
+  "lang": "gu",
+  "chapter": 46,
+  "translation": "જે યાહવેનો વચન યિર્મેયાહુ પ્રબોધક પાસે રાષ્ટ્રો વિષે આવ્યું.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "જે"
+    },
+    {
+      "surface": "היה",
+      "gloss": "આવ્યું"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "વચન"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવેનો"
+    },
+    {
+      "surface": "אל",
+      "gloss": "પાસે"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "યિર્મેયાહુ"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "પ્રબોધક"
+    },
+    {
+      "surface": "על",
+      "gloss": "વિષે"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "રાષ્ટ્રો"
+    }
+  ],
+  "timestamp": "2026-08-21T15:09:41.600331717Z",
+  "model": "glm-5.3"
+}

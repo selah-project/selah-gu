@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "isaiah 1:30",
+  "book": "isaiah",
+  "lang": "gu",
+  "chapter": 1,
+  "translation": "કેમ કે તમે પર્ણ મલકાયેલા ⟨એક⟩ વૃક્ષ જેવા થશો, અને જે બગીચાને પાણી ⟨નથી⟩ તેના જેવા.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "કેમ કે"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "તમે થશો"
+    },
+    {
+      "surface": "כאלה",
+      "gloss": "વૃક્ષ જેવા"
+    },
+    {
+      "surface": "נבלת",
+      "gloss": "મલકાયેલા"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "પર્ણ"
+    },
+    {
+      "surface": "וכגנה",
+      "gloss": "અને બગીચાના જેવા"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જે"
+    },
+    {
+      "surface": "מים",
+      "gloss": "પાણી"
+    },
+    {
+      "surface": "אין",
+      "gloss": "નથી"
+    },
+    {
+      "surface": "לה",
+      "gloss": "તેને"
+    }
+  ],
+  "timestamp": "2026-08-21T14:10:16.739564846Z",
+  "model": "glm-5.3"
+}

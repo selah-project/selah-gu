@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 5:23",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 5,
+  "translation": "અને કોહેન ⟨את⟩ આ શાપો પુસ્તકમાં લખશે, અને તે કડવા પાણીમાં ભૂંસશે.",
+  "tokens": [
+    {
+      "surface": "וכתב",
+      "gloss": "અને લખશે"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "આ શાપો"
+    },
+    {
+      "surface": "האלת",
+      "gloss": "શાપો"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "આ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "કોહેન"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "પુસ્તકમાં"
+    },
+    {
+      "surface": "ומחה",
+      "gloss": "અને ભૂંસશે"
+    },
+    {
+      "surface": "אל",
+      "gloss": "માં"
+    },
+    {
+      "surface": "מי",
+      "gloss": "પાણી"
+    },
+    {
+      "surface": "המרים",
+      "gloss": "કડવા"
+    }
+  ],
+  "timestamp": "2026-08-21T11:51:31.818274752Z",
+  "model": "glm-5.3"
+}

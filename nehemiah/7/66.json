@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "nehemiah 7:66",
+  "book": "nehemiah",
+  "lang": "gu",
+  "chapter": 7,
+  "translation": "સમગ્ર સભા ⟨એક સાથે⟩ ચાલીસ હજાર બે હજાર ત્રણસો સાઠ ⟨હતી⟩.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "સમગ્ર"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "સભા"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "⟨એક સાથે⟩"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "ચાલીસ"
+    },
+    {
+      "surface": "רבוא",
+      "gloss": "હજાર"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "બે હજાર"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ત્રણ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "સો"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "અને સાઠ"
+    }
+  ],
+  "timestamp": "2026-08-21T17:55:20.326062103Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 42:1",
+  "book": "job",
+  "lang": "gu",
+  "chapter": 42,
+  "translation": "અને અય્યૂબે યાહવેને ઉત્તર આપ્યો અને કહ્યું:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "અને ઉત્તર આપ્યો"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "અય્યૂબે"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "યાહવે"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "અને કહ્યું"
+    }
+  ],
+  "timestamp": "2026-08-21T17:20:27.439942486Z",
+  "model": "glm-5.3"
+}

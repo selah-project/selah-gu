@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "habakkuk 2:4",
+  "book": "habakkuk",
+  "lang": "gu",
+  "chapter": 2,
+  "translation": "જુઓ, ફૂલેલા ⟨એકનો⟩ પ્રાણ તેમાં સીધો નથી; પણ ન્યાયી પોતાના વિશ્વાસથી જીવશે.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "જુઓ"
+    },
+    {
+      "surface": "עפלה",
+      "gloss": "ફૂલેલા"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "ישרה",
+      "gloss": "સીધો છે"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "તેનો પ્રાણ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "તેમાં"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "અને ન્યાયી"
+    },
+    {
+      "surface": "באמונתו",
+      "gloss": "પોતાના વિશ્વાસથી"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "જીવશે"
+    }
+  ],
+  "timestamp": "2026-08-21T16:00:18.881474497Z",
+  "model": "glm-5.3"
+}

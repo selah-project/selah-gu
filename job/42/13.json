@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 42:13",
+  "book": "job",
+  "lang": "gu",
+  "chapter": 42,
+  "translation": "અને તેને સાત પુત્રો અને ત્રણ પુત્રીઓ હતાં.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "અને થયું"
+    },
+    {
+      "surface": "לו",
+      "gloss": "તેને"
+    },
+    {
+      "surface": "שבענה",
+      "gloss": "સાત"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "ושלוש",
+      "gloss": "અને ત્રણ"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "પુત્રીઓ"
+    }
+  ],
+  "timestamp": "2026-08-21T17:21:32.289689614Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joel 1:8",
+  "book": "joel",
+  "lang": "gu",
+  "chapter": 1,
+  "translation": "વિલાપ કર, જેમ કન્યા કરણદારી ઓઢીને પોતાના જવાનીના પતિ પર કરે છે.",
+  "tokens": [
+    {
+      "surface": "אלי",
+      "gloss": "વિલાપ કર"
+    },
+    {
+      "surface": "כבתולה",
+      "gloss": "જેમ કન્યા"
+    },
+    {
+      "surface": "חגרת",
+      "gloss": "ઓઢીને"
+    },
+    {
+      "surface": "שק",
+      "gloss": "કરણદારી"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "પતિ"
+    },
+    {
+      "surface": "נעוריה",
+      "gloss": "પોતાના જવાનીના"
+    }
+  ],
+  "timestamp": "2026-08-21T15:49:18.063497951Z",
+  "model": "glm-5.3"
+}

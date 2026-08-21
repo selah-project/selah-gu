@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "daniel 6:20",
+  "book": "daniel",
+  "lang": "gu",
+  "chapter": 6,
+  "translation": "પછી પ્રભાત થતાં જ રાજા ઊઠ્યો અને તરત સિંહોના ખાડા પાસે ગયો.",
+  "tokens": [
+    {
+      "surface": "באדין",
+      "gloss": "પછી"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "રાજા"
+    },
+    {
+      "surface": "בשפרפרא",
+      "gloss": "પ્રભાત થતાં જ"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "ઊઠ્યો"
+    },
+    {
+      "surface": "בנגהא",
+      "gloss": "પ્રકાશમાં"
+    },
+    {
+      "surface": "ובהתבהלה",
+      "gloss": "અને તરત"
+    },
+    {
+      "surface": "לגבא",
+      "gloss": "ખાડા પાસે"
+    },
+    {
+      "surface": "די",
+      "gloss": "ના"
+    },
+    {
+      "surface": "אריותא",
+      "gloss": "સિંહો"
+    },
+    {
+      "surface": "אזל",
+      "gloss": "ગયો"
+    }
+  ],
+  "timestamp": "2026-08-21T17:43:44.045662829Z",
+  "model": "glm-5.3"
+}

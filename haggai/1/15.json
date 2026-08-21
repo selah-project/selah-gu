@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "haggai 1:15",
+  "book": "haggai",
+  "lang": "gu",
+  "chapter": 1,
+  "translation": "છઠ્ઠા મહિનાની ચોવીસમી તારીખે, દાર્યાવેશ રાજાના બીજા વર્ષે.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "તારીખે"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "વીસ"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "અને ચાર"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "મહિનાની"
+    },
+    {
+      "surface": "בששי",
+      "gloss": "છઠ્ઠા મહિના"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "વર્ષે"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "બીજા"
+    },
+    {
+      "surface": "לדריוש",
+      "gloss": "દાર્યાવેશ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "રાજાના"
+    }
+  ],
+  "timestamp": "2026-08-21T16:01:09.578303496Z",
+  "model": "glm-5.3"
+}

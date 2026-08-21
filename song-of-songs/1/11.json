@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "song-of-songs 1:11",
+  "book": "song-of-songs",
+  "lang": "gu",
+  "chapter": 1,
+  "translation": "તારા માટે સોનાની હારમાળાઓ આપણે બનાવીશું, ચાંદીના બુટ્ટાઓ સાથે.",
+  "tokens": [
+    {
+      "surface": "תורי",
+      "gloss": "હારમાળાઓ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "સોનાની"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "આપણે બનાવીશું"
+    },
+    {
+      "surface": "לך",
+      "gloss": "તારા માટે"
+    },
+    {
+      "surface": "עם",
+      "gloss": "સાથે"
+    },
+    {
+      "surface": "ઠקודות",
+      "gloss": "બુટ્ટાઓ"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "ચાંદીના"
+    }
+  ],
+  "timestamp": "2026-08-21T17:20:22.917648296Z",
+  "model": "glm-5.3"
+}

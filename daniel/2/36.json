@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "daniel 2:36",
+  "book": "daniel",
+  "lang": "gu",
+  "chapter": 2,
+  "translation": "આ ⟨છે⟩ ⟨તે⟩ સ્વપ્ન; અને તેનો અર્થ આપણે રાજા સમક્ષ કહીશું।",
+  "tokens": [
+    {
+      "surface": "דנה",
+      "gloss": "આ"
+    },
+    {
+      "surface": "חלמא",
+      "gloss": "સ્વપ્ન"
+    },
+    {
+      "surface": "ופשרה",
+      "gloss": "અને તેનો અર્થ"
+    },
+    {
+      "surface": "נאמר",
+      "gloss": "આપણે કહીશું"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "સમક્ષ"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "રાજા"
+    }
+  ],
+  "timestamp": "2026-08-21T17:38:39.493073136Z",
+  "model": "glm-5.3"
+}

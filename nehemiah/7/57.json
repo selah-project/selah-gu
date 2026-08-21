@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "nehemiah 7:57",
+  "book": "nehemiah",
+  "lang": "gu",
+  "chapter": 7,
+  "translation": "શલોમોના દાસોના પુત્રો: સોતાયના પુત્રો, સોફેરેતના પુત્રો, પરીદાના પુત્રો.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "દાસોના"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "શલોમોના"
+    },
+    {
+      "surface": "בני",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "סוטי",
+      "gloss": "સોતાયના"
+    },
+    {
+      "surface": "בני",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "סופרת",
+      "gloss": "સોફેરેતના"
+    },
+    {
+      "surface": "בני",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "פרידא",
+      "gloss": "પરીદાના"
+    }
+  ],
+  "timestamp": "2026-08-21T17:55:19.943679670Z",
+  "model": "glm-5.3"
+}

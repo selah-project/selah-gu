@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 18:5",
+  "book": "ezekiel",
+  "lang": "gu",
+  "chapter": 18,
+  "translation": "અને એક માણસ જો ન્યાયી હોય, અને ન્યાય અને ધર્મિષ્ઠતા કરતો હોય —",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "અને એક માણસ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "જો"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "હોય"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ન્યાયી"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "અને કરતો હોય"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ન્યાય"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "અને ધર્મિષ્ઠતા"
+    }
+  ],
+  "timestamp": "2026-08-21T15:25:47.686511689Z",
+  "model": "glm-5.3"
+}

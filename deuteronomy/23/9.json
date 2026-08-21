@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 23:9",
+  "book": "deuteronomy",
+  "lang": "gu",
+  "chapter": 23,
+  "translation": "જે પુત્રો તેમને જન્મશે, તેમનું ત્રીજું પેઢી યાહવેની સભામાં તેમના માટે પ્રવેશ કરશે.",
+  "tokens": [
+    {
+      "surface": "בנים",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જે"
+    },
+    {
+      "surface": "יולדו",
+      "gloss": "જન્મશે"
+    },
+    {
+      "surface": "להם",
+      "gloss": "તેમને"
+    },
+    {
+      "surface": "דור",
+      "gloss": "પેઢી"
+    },
+    {
+      "surface": "שלישי",
+      "gloss": "ત્રીજું"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "પ્રવેશ કરશે"
+    },
+    {
+      "surface": "להם",
+      "gloss": "તેમના માટે"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "સભામાં"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવેની"
+    }
+  ],
+  "timestamp": "2026-08-21T12:25:27.088312691Z",
+  "model": "glm-5.3"
+}

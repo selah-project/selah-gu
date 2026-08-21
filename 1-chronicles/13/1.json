@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 13:1",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 13,
+  "translation": "અને દાવિદે હજારોના સરદારો અને સોના સરદારો સાથે, દરેક નાગિદ સાથે મંત્રણા કરી.",
+  "tokens": [
+    {
+      "surface": "ויועץ",
+      "gloss": "મંત્રણા કરી"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "દાવિદે"
+    },
+    {
+      "surface": "עם",
+      "gloss": "સાથે"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "સરદારો"
+    },
+    {
+      "surface": "האלפים",
+      "gloss": "હજારોના"
+    },
+    {
+      "surface": "והמאות",
+      "gloss": "અને સોના"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "દરેક"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "નાગિદ"
+    }
+  ],
+  "timestamp": "2026-08-21T18:07:47.214206374Z",
+  "model": "glm-5.3"
+}

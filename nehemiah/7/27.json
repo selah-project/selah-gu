@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "nehemiah 7:27",
+  "book": "nehemiah",
+  "lang": "gu",
+  "chapter": 7,
+  "translation": "અનાતોતના માણસો સો વીસ આઠ.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "માણસો"
+    },
+    {
+      "surface": "ענתות",
+      "gloss": "અનાતોતના"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "સો"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "વીસ"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "આઠ"
+    }
+  ],
+  "timestamp": "2026-08-21T17:54:59.316670738Z",
+  "model": "glm-5.3"
+}

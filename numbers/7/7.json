@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 7:7",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 7,
+  "translation": "⟨את⟩ બે ગાડીઓ અને ⟨את⟩ ચાર ઢોર તેણે ગેરશોનના પુત્રોને આપ્યાં, તેમની સેવા પ્રમાણે.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "બે ગાડીઓ"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "બે"
+    },
+    {
+      "surface": "העגלת",
+      "gloss": "ગાડીઓ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "અને ⟨את⟩",
+      "marks": "ચાર ઢોર"
+    },
+    {
+      "surface": "ארבעת",
+      "gloss": "ચાર"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "ઢોર"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "આપ્યાં"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "…ના પુત્રોને"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "ગેરશોન"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "પ્રમાણે"
+    },
+    {
+      "surface": "עבדתם",
+      "gloss": "તેમની સેવા"
+    }
+  ],
+  "timestamp": "2026-08-21T11:51:45.700800292Z",
+  "model": "glm-5.3"
+}

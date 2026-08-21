@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 12:36",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 12,
+  "translation": "અને દાનીઓમાંથી — યુદ્ધ-પંક્તિ ગોઠવનારા અઠ્ઠાવીસ હજાર અને છસો.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "અને ... માંથી"
+    },
+    {
+      "surface": "הדני",
+      "gloss": "દાનીઓ"
+    },
+    {
+      "surface": "ערכי",
+      "gloss": "ગોઠવનારા"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "યુદ્ધ-પંક્તિ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "વીસ"
+    },
+    {
+      "surface": "ושמונה",
+      "gloss": "અને આઠ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "હજાર"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "અને છ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "સો"
+    }
+  ],
+  "timestamp": "2026-08-21T18:07:01.916466966Z",
+  "model": "glm-5.3"
+}

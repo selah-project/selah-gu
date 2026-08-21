@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 6:11",
+  "book": "1-kings",
+  "lang": "gu",
+  "chapter": 6,
+  "translation": "અને યાહવેનો વચન-સંદેશ શલોમો પાસે આવ્યો, કહેતા:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "અને આવ્યું"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "સંદેશ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવેનો"
+    },
+    {
+      "surface": "אל",
+      "gloss": "પાસે"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "શલોમો"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "કહેતા"
+    }
+  ],
+  "timestamp": "2026-08-21T18:44:43.753705252Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "joshua 4:17",
+  "book": "joshua",
+  "lang": "gu",
+  "chapter": 4,
+  "translation": "અને યહોશુઆએ ⟨את⟩ યાજકોને આજ્ઞા આપી કે કહે: યરદનમાંથી ઊપર આવો.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "આજ્ઞા આપી"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "યહોશુઆએ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "યાજકોને"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "યાજકોને"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "કે કહે"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "ઊપર આવો"
+    },
+    {
+      "surface": "מן",
+      "gloss": "માંથી"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "યરદન"
+    }
+  ],
+  "timestamp": "2026-08-21T12:32:47.459008880Z",
+  "model": "glm-5.3"
+}

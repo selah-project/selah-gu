@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "numbers 28:29",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 28,
+  "translation": "દશમાંશ દશમાંશ ⟨એક⟩ એક જ ઘેટાનાં બકરાં માટે, સાત બકરાંઓ માટે.",
+  "tokens": [
+    {
+      "surface": "עשרון",
+      "gloss": "દશમાંશ"
+    },
+    {
+      "surface": "עשרון",
+      "gloss": "દશમાંશ"
+    },
+    {
+      "surface": "לכבש",
+      "gloss": "ઘેટાનાં બકરાં માટે"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "એક"
+    },
+    {
+      "surface": "לשבעת",
+      "gloss": "સાત માટે"
+    },
+    {
+      "surface": "הכבשים",
+      "gloss": "બકરાંઓ"
+    }
+  ],
+  "timestamp": "2026-08-21T12:06:16.577224910Z",
+  "model": "glm-5.3"
+}

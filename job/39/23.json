@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "job 39:23",
+  "book": "job",
+  "lang": "gu",
+  "chapter": 39,
+  "translation": "તેની સામે ભાતરી ખણખણે છે, ભાલાની ઝગમગ અને કરવાળ.",
+  "tokens": [
+    {
+      "surface": "עליו",
+      "gloss": "તેની સામે"
+    },
+    {
+      "surface": "תרנה",
+      "gloss": "ખણખણે છે"
+    },
+    {
+      "surface": "אשפה",
+      "gloss": "ભાતરી"
+    },
+    {
+      "surface": "להב",
+      "gloss": "ઝગમગ"
+    },
+    {
+      "surface": "חנית",
+      "gloss": "ભાલો"
+    },
+    {
+      "surface": "וכידון",
+      "gloss": "અને કરવાળ"
+    }
+  ],
+  "timestamp": "2026-08-21T17:19:42.527839076Z",
+  "model": "glm-5.3"
+}

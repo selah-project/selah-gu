@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 46:22",
+  "book": "genesis",
+  "lang": "gu",
+  "chapter": 46,
+  "translation": "આ ⟨છે⟩ રાહેલનાં પુત્રો, જે યાકોબને જન્મ્યાં; બધી જીવ-પ્રાણીઓ ચૌદ.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "આ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "રાહેલનાં"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જે"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "જન્મ્યાં"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "યાકોબને"
+    },
+    {
+      "surface": "כל",
+      "gloss": "બધી"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "જીવ-પ્રાણીઓ"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "ચૌદ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ચૌદ"
+    }
+  ],
+  "timestamp": "2026-08-21T11:02:09.565605577Z",
+  "model": "glm-5.3"
+}

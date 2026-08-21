@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 34:16",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 34,
+  "translation": "અને યાહવે મોશે સાથે વાત કરી, કહેતા:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "વાત કરી"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "אל",
+      "gloss": "સાથે"
+    },
+    {
+      "surface": "משה",
+      "gloss": "મોશે"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "કહેતા"
+    }
+  ],
+  "timestamp": "2026-08-21T12:10:39.432939389Z",
+  "model": "glm-5.3"
+}

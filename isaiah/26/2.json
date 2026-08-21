@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 26:2",
+  "book": "isaiah",
+  "lang": "gu",
+  "chapter": 26,
+  "translation": "દરવાજાઓ ખોલો, અને સાચાઈ રાખતું ધર્મી રાષ્ટ્ર પ્રવેશ કરે.",
+  "tokens": [
+    {
+      "surface": "פתחו",
+      "gloss": "ખોલો"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "દરવાજાઓ"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "અને પ્રવેશ કરે"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "રાષ્ટ્ર"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ધર્મી"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "રાખતું"
+    },
+    {
+      "surface": "אמנים",
+      "gloss": "સાચાઈ"
+    }
+  ],
+  "timestamp": "2026-08-21T14:22:08.574902048Z",
+  "model": "glm-5.3"
+}

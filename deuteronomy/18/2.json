@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 18:2",
+  "book": "deuteronomy",
+  "lang": "gu",
+  "chapter": 18,
+  "translation": "અને વારસો તેના ભાઈઓની વચ્ચે તેને નહિ હોય; યાહવે ⟨છે⟩ જ તેનો વારસો, જેમ તેણે તેને કહ્યું.",
+  "tokens": [
+    {
+      "surface": "ונחלה",
+      "gloss": "અને વારસો"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નહિ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "હોય"
+    },
+    {
+      "surface": "לו",
+      "gloss": "તેને"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "વચ્ચે"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "તેના ભાઈઓની"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "તે જ"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "તેનો વારસો"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "જેમ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "કહ્યું"
+    },
+    {
+      "surface": "לו",
+      "gloss": "તેને"
+    }
+  ],
+  "timestamp": "2026-08-21T12:24:04.867539825Z",
+  "model": "glm-5.3"
+}

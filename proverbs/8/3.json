@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 8:3",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 8,
+  "translation": "દરવાજાઓની બાજુમાં, નગરના મુખ પર, પ્રવેશદ્વારોના છેડે તે પોકારે છે.",
+  "tokens": [
+    {
+      "surface": "ליד",
+      "gloss": "બાજુમાં"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "દરવાજાઓની"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "મુખ પર"
+    },
+    {
+      "surface": "קרת",
+      "gloss": "નગરના"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "પ્રવેશ"
+    },
+    {
+      "surface": "פתחים",
+      "gloss": "પ્રવેશદ્વારોના"
+    },
+    {
+      "surface": "תרנה",
+      "gloss": "પોકારે છે"
+    }
+  ],
+  "timestamp": "2026-08-21T16:54:31.193945390Z",
+  "model": "glm-5.3"
+}

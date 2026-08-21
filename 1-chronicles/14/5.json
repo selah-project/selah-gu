@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 14:5",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 14,
+  "translation": "અને યિબ્હાર, અને એલીશુઆ, અને એલપાલેત;",
+  "tokens": [
+    {
+      "surface": "ויבחר",
+      "gloss": "અને યિબ્હાર"
+    },
+    {
+      "surface": "ואלישוע",
+      "gloss": "અને એલીશુઆ"
+    },
+    {
+      "surface": "ואלפלט",
+      "gloss": "અને એલપાલેત"
+    }
+  ],
+  "timestamp": "2026-08-21T18:06:28.310138240Z",
+  "model": "glm-5.3"
+}

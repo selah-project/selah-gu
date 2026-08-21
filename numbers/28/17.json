@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 28:17",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 28,
+  "translation": "અને આ માસના પંદરમાં દિવસે પર્વ ⟨છે⟩; સાત દિવસ માંદા ખવેશે.",
+  "tokens": [
+    {
+      "surface": "ובחמשה",
+      "gloss": "અને…પંદરમાં"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "દસ (પંદર)"
+    },
+    {
+      "surface": "יום",
+      "gloss": "દિવસે"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "માસના"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "આ"
+    },
+    {
+      "surface": "חג",
+      "gloss": "પર્વ"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "સાત"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "દિવસ"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "માંદા"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ખવેશે"
+    }
+  ],
+  "timestamp": "2026-08-21T12:07:11.608874597Z",
+  "model": "glm-5.3"
+}

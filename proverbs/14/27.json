@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 14:27",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 14,
+  "translation": "યાહવેનો ભય ⟨છે⟩ જીવનનો ઝરણો — મૃત્યુનાં જાળાંથી વળવા માટે.",
+  "tokens": [
+    {
+      "surface": "יראת",
+      "gloss": "નો ભય"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "מקור",
+      "gloss": "ઝરણો"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "જીવનનો"
+    },
+    {
+      "surface": "לסור",
+      "gloss": "વળવા માટે"
+    },
+    {
+      "surface": "ממקשי",
+      "gloss": "જાળાંથી"
+    },
+    {
+      "surface": "מות",
+      "gloss": "મૃત્યુનાં"
+    }
+  ],
+  "timestamp": "2026-08-21T16:56:53.210022579Z",
+  "model": "glm-5.3"
+}

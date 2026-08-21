@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 7:11",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 7,
+  "translation": "મારો ઢાલ એલોહીમ પર ⟨છે⟩ — સીધા-હૃદયવાળાઓનો ઉદ્ધાર કરનાર.",
+  "tokens": [
+    {
+      "surface": "מגני",
+      "gloss": "મારો ઢાલ"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "એલોહીમ"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "ઉદ્ધાર કરનાર"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "સીધા-હૃદયવાળાઓનો"
+    },
+    {
+      "surface": "לב",
+      "gloss": "—"
+    }
+  ],
+  "timestamp": "2026-08-21T16:09:40.320464043Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 4:24",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 4,
+  "translation": "શિમોનના પુત્રો: નેમુએલ, અને યામીન, યારીબ, ઝેરખ, શાઉલ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "શિમોન"
+    },
+    {
+      "surface": "נמואל",
+      "gloss": "નેમુએલ"
+    },
+    {
+      "surface": "וימין",
+      "gloss": "અને યામીન"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "યારીબ"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "ઝેરખ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "શાઉલ"
+    }
+  ],
+  "timestamp": "2026-08-21T18:01:47.340765421Z",
+  "model": "glm-5.3"
+}

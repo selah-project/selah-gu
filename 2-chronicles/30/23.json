@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-chronicles 30:23",
+  "book": "2-chronicles",
+  "lang": "gu",
+  "chapter": 30,
+  "translation": "અને સમગ્ર સભાએ બીજા સાત દિવસ કરવા માટે નિર્ણય લીધો, અને તેઓએ આનંદથી સાત દિવસ ઉજવ્યા.",
+  "tokens": [
+    {
+      "surface": "ויועצו",
+      "gloss": "નિર્ણય લીધો"
+    },
+    {
+      "surface": "כל",
+      "gloss": "સમગ્ર"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "સભાએ"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "કરવા માટે"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "સાત"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "દિવસ"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "બીજા"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "ઉજવ્યા"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "સાત"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "દિવસ"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "આનંદથી"
+    }
+  ],
+  "timestamp": "2026-08-21T18:30:09.730476417Z",
+  "model": "glm-5.3"
+}

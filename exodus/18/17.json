@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 18:17",
+  "book": "exodus",
+  "lang": "gu",
+  "chapter": 18,
+  "translation": "મોશેના સસરાએ તેને કહ્યું: જે કાર્ય તું કરી રહ્યો છે તે સારું નથી.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "કહ્યું"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "સસરાએ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "મોશેના"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "તેને"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નથી"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "સારું"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "કાર્ય"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જે"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "તું"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "કરી રહ્યો છે"
+    }
+  ],
+  "timestamp": "2026-08-21T11:16:07.553883796Z",
+  "model": "glm-5.3"
+}

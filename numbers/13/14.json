@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 13:14",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 13,
+  "translation": "નફતાલીના કુળનો — નખબી, વોફસીનો પુત્ર.",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "કુળનો"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "નફતાલીના"
+    },
+    {
+      "surface": "נחבי",
+      "gloss": "નખબી"
+    },
+    {
+      "surface": "בן",
+      "gloss": "પુત્ર"
+    },
+    {
+      "surface": "ופסי",
+      "gloss": "વોફસીનો"
+    }
+  ],
+  "timestamp": "2026-08-21T11:55:16.636489618Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 8:27",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 8,
+  "translation": "અને યાઅરેશ્યાહ, અને એલ્યાહ, અને ઝિખ્રી — યરોહામના પુત્રો.",
+  "tokens": [
+    {
+      "surface": "ויערשיה",
+      "gloss": "અને યાઅરેશ્યાહ"
+    },
+    {
+      "surface": "ואליה",
+      "gloss": "અને એલ્યાહ"
+    },
+    {
+      "surface": "וזכרי",
+      "gloss": "અને ઝિખ્રી"
+    },
+    {
+      "surface": "בני",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "ירחם",
+      "gloss": "યરોહામના"
+    }
+  ],
+  "timestamp": "2026-08-21T18:02:41.873453836Z",
+  "model": "glm-5.3"
+}

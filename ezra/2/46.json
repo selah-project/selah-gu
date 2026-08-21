@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "ezra 2:46",
+  "book": "ezra",
+  "lang": "gu",
+  "chapter": 2,
+  "translation": "હાગાબના પુત્રો, શામ્લાઈના પુત્રો, હાનાનના પુત્રો,",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "חגב",
+      "gloss": "હાગાબ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "שמלי",
+      "gloss": "શામ્લાઈ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "હાનાન"
+    }
+  ],
+  "timestamp": "2026-08-21T17:47:39.495814924Z",
+  "model": "glm-5.3"
+}

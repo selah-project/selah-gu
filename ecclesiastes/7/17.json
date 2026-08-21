@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 7:17",
+  "book": "ecclesiastes",
+  "lang": "gu",
+  "chapter": 7,
+  "translation": "ઘણું દુષ્ટ ન થઈશ, અને મૂર્ખ પણ ન થઈશ; તારા સમય પહેલાં તું શા માટે મરશે?",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ન થઈશ"
+    },
+    {
+      "surface": "תרשע",
+      "gloss": "દુષ્ટ"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "ઘણું"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "અને…ન"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "થઈશ"
+    },
+    {
+      "surface": "סכל",
+      "gloss": "મૂર્ખ"
+    },
+    {
+      "surface": "למה",
+      "gloss": "શા માટે"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "મરશે"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "વિના"
+    },
+    {
+      "surface": "עתך",
+      "gloss": "તારા સમય"
+    }
+  ],
+  "timestamp": "2026-08-21T17:31:01.718947210Z",
+  "model": "glm-5.3"
+}

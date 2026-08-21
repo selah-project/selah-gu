@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "leviticus 13:47",
+  "book": "leviticus",
+  "lang": "gu",
+  "chapter": 13,
+  "translation": "અને ⟨જ્યારે⟩ વસ્ત્રમાં ચર્મરોગનો માર હોય — ઊનના વસ્ત્રમાં કે અળસીના વસ્ત્રમાં —",
+  "tokens": [
+    {
+      "surface": "והבגד",
+      "gloss": "અને વસ્ત્ર"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨જ્યારે⟩"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "હોય"
+    },
+    {
+      "surface": "בו",
+      "gloss": "તેમાં"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "માર"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "ચર્મરોગ"
+    },
+    {
+      "surface": "בבגד",
+      "gloss": "વસ્ત્રમાં"
+    },
+    {
+      "surface": "צמר",
+      "gloss": "ઊનના"
+    },
+    {
+      "surface": "או",
+      "gloss": "કે"
+    },
+    {
+      "surface": "בבגד",
+      "gloss": "વસ્ત્રમાં"
+    },
+    {
+      "surface": "פשתים",
+      "gloss": "અળસીના"
+    }
+  ],
+  "timestamp": "2026-08-21T11:36:38.769178134Z",
+  "model": "glm-5.3"
+}

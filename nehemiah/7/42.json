@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "nehemiah 7:42",
+  "book": "nehemiah",
+  "lang": "gu",
+  "chapter": 7,
+  "translation": "ખરીમના પુત્રો: એક હજાર સત્તર.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "ખરીમ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "એક હજાર"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "સાત"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "-સત્તર (દસ)"
+    }
+  ],
+  "timestamp": "2026-08-21T17:54:59.368767754Z",
+  "model": "glm-5.3"
+}

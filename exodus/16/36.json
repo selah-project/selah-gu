@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "exodus 16:36",
+  "book": "exodus",
+  "lang": "gu",
+  "chapter": 16,
+  "translation": "અને ઓમર ⟨એ⟩ એપાહનો દશમો ભાગ ⟨છે⟩.",
+  "tokens": [
+    {
+      "surface": "והעמר",
+      "gloss": "અને ઓમર"
+    },
+    {
+      "surface": "עשרית",
+      "gloss": "દશમો ભાગ"
+    },
+    {
+      "surface": "האיפה",
+      "gloss": "એપાહનો"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "છે"
+    }
+  ],
+  "timestamp": "2026-08-21T11:14:27.361468899Z",
+  "model": "glm-5.3"
+}

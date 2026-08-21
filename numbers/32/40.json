@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "numbers 32:40",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 32,
+  "translation": "અને મોશેહે ⟨את⟩ ગિલઆદ મનશ્શેહના પુત્ર માખિરને આપ્યું, અને ⟨he⟩ તેમાં વસ્યો.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "અને ...આપ્યું"
+    },
+    {
+      "surface": "משה",
+      "gloss": "મોશેહે"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ગિલઆદ"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "ગિલઆદ"
+    },
+    {
+      "surface": "למכיר",
+      "gloss": "માખિરને"
+    },
+    {
+      "surface": "בן",
+      "gloss": "પુત્ર"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "મનશ્શેહ"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "અને ...વસ્યો"
+    },
+    {
+      "surface": "בה",
+      "gloss": "તેમાં"
+    }
+  ],
+  "timestamp": "2026-08-21T12:08:33.723724899Z",
+  "model": "glm-5.3"
+}

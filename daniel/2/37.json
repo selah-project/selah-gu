@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "daniel 2:37",
+  "book": "daniel",
+  "lang": "gu",
+  "chapter": 2,
+  "translation": "તું, હે રાજા, રાજાઓનો રાજા છે, કેમ કે આકાશના એલાહને રાજ્ય, બળ અને તેજ તને આપ્યું છે.",
+  "tokens": [
+    {
+      "surface": "אנתה",
+      "gloss": "તું"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "હે રાજા"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "રાજા"
+    },
+    {
+      "surface": "מלכיא",
+      "gloss": "રાજાઓનો"
+    },
+    {
+      "surface": "די",
+      "gloss": "કેમ કે"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "એલાહને"
+    },
+    {
+      "surface": "שמיא",
+      "gloss": "આકાશના"
+    },
+    {
+      "surface": "מלכותא",
+      "gloss": "રાજ્ય"
+    },
+    {
+      "surface": "חסנא",
+      "gloss": "બળ"
+    },
+    {
+      "surface": "ותקפא",
+      "gloss": "અને શક્તિ"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "અને તેજ"
+    },
+    {
+      "surface": "יהב",
+      "gloss": "આપ્યું છે"
+    },
+    {
+      "surface": "לך",
+      "gloss": "તને"
+    }
+  ],
+  "timestamp": "2026-08-21T17:38:38.099424684Z",
+  "model": "glm-5.3"
+}

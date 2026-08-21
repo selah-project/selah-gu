@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 1:8",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 1,
+  "translation": "યિસ્સાખાર માટે — નતનએલ, ત્સુઆરનો પુત્ર।",
+  "tokens": [
+    {
+      "surface": "ליששכר",
+      "gloss": "યિસ્સાખાર માટે"
+    },
+    {
+      "surface": "נתנאל",
+      "gloss": "નતનએલ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "પુત્ર"
+    },
+    {
+      "surface": "צוער",
+      "gloss": "ત્સુઆરનો"
+    }
+  ],
+  "timestamp": "2026-08-21T11:46:41.847531709Z",
+  "model": "glm-5.3"
+}

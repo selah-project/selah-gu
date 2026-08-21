@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 6:7",
+  "book": "leviticus",
+  "lang": "gu",
+  "chapter": 6,
+  "translation": "અને ⟨this⟩ ⟨is⟩ અન્નાર્પણનો નિયમ: અહરોનના પુત્રો તેને ⟨את⟩ યાહવેના સામે, હવન-વેદીના સામે અર્પણ કરશે.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "અને ⟨this⟩"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "નિયમ"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "અન્નાર્પણનો"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "અર્પણ કરશે"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "તેને (અન્નાર્પણ)"
+    },
+    {
+      "surface": "בני",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "અહરોનના"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "સામે"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવેના"
+    },
+    {
+      "surface": "אל",
+      "gloss": "તરફ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "સામે"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "હવન-વેદીના"
+    }
+  ],
+  "timestamp": "2026-08-21T11:31:16.256143175Z",
+  "model": "glm-5.3"
+}

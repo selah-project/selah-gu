@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 23:4",
+  "book": "deuteronomy",
+  "lang": "gu",
+  "chapter": 23,
+  "translation": "અમ્મોની અને મોઆબી યાહવેની સભામાં પ્રવેશશે નહીં; તેમનું દસમું પેઢી પણ સદાકાળ યાહવેની સભામાં પ્રવેશશે નહીં.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "પ્રવેશશે"
+    },
+    {
+      "surface": "עמוני",
+      "gloss": "અમ્મોની"
+    },
+    {
+      "surface": "ומואבי",
+      "gloss": "અને મોઆબી"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "સભામાં"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવેની"
+    },
+    {
+      "surface": "גם",
+      "gloss": "પણ"
+    },
+    {
+      "surface": "דור",
+      "gloss": "પેઢી"
+    },
+    {
+      "surface": "עשירי",
+      "gloss": "દસમું"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "પ્રવેશશે"
+    },
+    {
+      "surface": "להם",
+      "gloss": "તેમનું"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "સભામાં"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવેની"
+    },
+    {
+      "surface": "עד",
+      "gloss": "સદા"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "કાળ"
+    }
+  ],
+  "timestamp": "2026-08-21T12:25:54.714221679Z",
+  "model": "glm-5.3"
+}

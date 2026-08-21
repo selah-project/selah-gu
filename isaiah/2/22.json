@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 2:22",
+  "book": "isaiah",
+  "lang": "gu",
+  "chapter": 2,
+  "translation": "માણસથી તો છૂટા પડો, જેનાં નાસિકામાં પ્રાણવાયુ ⟨છે⟩ — કેમ કે તેનો કંઈ લેખ શો?",
+  "tokens": [
+    {
+      "surface": "חדלו",
+      "gloss": "છૂટા પડો"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "તો"
+    },
+    {
+      "surface": "מן",
+      "gloss": "થી"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "માણસ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જેનાં"
+    },
+    {
+      "surface": "נשמה",
+      "gloss": "પ્રાણવાયુ"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "નાસિકામાં"
+    },
+    {
+      "surface": "כי",
+      "gloss": "કેમ કે"
+    },
+    {
+      "surface": "במה",
+      "gloss": "કંઈ"
+    },
+    {
+      "surface": "נחשב",
+      "gloss": "લેખ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "તેનો"
+    }
+  ],
+  "timestamp": "2026-08-21T14:09:50.802328773Z",
+  "model": "glm-5.3"
+}

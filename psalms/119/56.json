@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "psalms 119:56",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 119,
+  "translation": "આ મને થયું, કારણ કે હું તારાં આદેશો સાચવ્યાં છે.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "આ"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "થયું"
+    },
+    {
+      "surface": "લי",
+      "gloss": "મને"
+    },
+    {
+      "surface": "כי",
+      "gloss": "કારણ કે"
+    },
+    {
+      "surface": "פקדיך",
+      "gloss": "તારાં આદેશો"
+    },
+    {
+      "surface": "נצרתי",
+      "gloss": "હું સાચવ્યાં છે"
+    }
+  ],
+  "timestamp": "2026-08-21T16:43:44.446570893Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 26:22",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 26,
+  "translation": "યિહીએલીનાં પુત્રો: ઝેતામ અને યોએલ તેનો ભાઈ — યાહવેના ભવનના ભંડારો પર ⟨નિયુક્ત⟩.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "יחיאלי",
+      "gloss": "યિહીએલીનાં"
+    },
+    {
+      "surface": "זתם",
+      "gloss": "ઝેતામ"
+    },
+    {
+      "surface": "ויואל",
+      "gloss": "અને યોએલ"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "તેનો ભાઈ"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "אצרות",
+      "gloss": "ભંડારો"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ભવનના"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવેના"
+    }
+  ],
+  "timestamp": "2026-08-21T18:13:03.095028434Z",
+  "model": "glm-5.3"
+}

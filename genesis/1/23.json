@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 1:23",
+  "book": "genesis",
+  "lang": "gu",
+  "chapter": 1,
+  "translation": "અને સાંજ થઈ, અને પ્રભાત થયો — પાંચમો દિવસ.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "અને થઈ"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "સાંજ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "અને થયો"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "પ્રભાત"
+    },
+    {
+      "surface": "יום",
+      "gloss": "દિવસ"
+    },
+    {
+      "surface": "חמישי",
+      "gloss": "પાંચમો"
+    }
+  ],
+  "timestamp": "2026-08-21T10:37:24.415733373Z",
+  "model": "glm-5.3"
+}

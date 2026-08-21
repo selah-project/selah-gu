@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "daniel 4:21",
+  "book": "daniel",
+  "lang": "gu",
+  "chapter": 4,
+  "translation": "આ છે અર્થ, હે રાજા — અને એલ્યોનનો હુકમ એ જ છે, જે મારા માલિક રાજા પર પહોંચ્યો છે.",
+  "tokens": [
+    {
+      "surface": "דנה",
+      "gloss": "આ"
+    },
+    {
+      "surface": "פשרא",
+      "gloss": "અર્થ"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "હે રાજા"
+    },
+    {
+      "surface": "וגזרת",
+      "gloss": "અને હુકમ"
+    },
+    {
+      "surface": "עליא",
+      "gloss": "એલ્યોનનો"
+    },
+    {
+      "surface": "היא",
+      "gloss": "એ જ છે"
+    },
+    {
+      "surface": "די",
+      "gloss": "જે"
+    },
+    {
+      "surface": "מטת",
+      "gloss": "પહોંચ્યો છે"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "מראי",
+      "gloss": "મારા માલિક"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "રાજા"
+    }
+  ],
+  "timestamp": "2026-08-21T17:39:53.026834013Z",
+  "model": "glm-5.3"
+}

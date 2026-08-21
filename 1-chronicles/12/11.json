@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 12:11",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 12,
+  "translation": "મિશમન્નાહ ⟨the⟩ ચોથો, યિર્મેયાહ ⟨the⟩ પાંચમો.",
+  "tokens": [
+    {
+      "surface": "משמנה",
+      "gloss": "મિશમન્નાહ"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "ચોથો"
+    },
+    {
+      "surface": "ירמיה",
+      "gloss": "યિર્મેયાહ"
+    },
+    {
+      "surface": "החמשי",
+      "gloss": "પાંચમો"
+    }
+  ],
+  "timestamp": "2026-08-21T18:05:05.945827873Z",
+  "model": "glm-5.3"
+}

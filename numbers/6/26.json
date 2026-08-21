@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 6:26",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 6,
+  "translation": "યાહવે તારી તરફ ⟨પોતાનું⟩ મુખ ઉઠાવે, અને તને શાંતિ આપે.",
+  "tokens": [
+    {
+      "surface": "ישא",
+      "gloss": "ઉઠાવે"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "તેનું મુખ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "તારી તરફ"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "અને આપે"
+    },
+    {
+      "surface": "לך",
+      "gloss": "તને"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "શાંતિ"
+    }
+  ],
+  "timestamp": "2026-08-21T11:50:37.418722143Z",
+  "model": "glm-5.3"
+}

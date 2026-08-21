@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezekiel 42:17",
+  "book": "ezekiel",
+  "lang": "gu",
+  "chapter": 42,
+  "translation": "ઉત્તર દિશા ⟨તેણે⟩ માપી — પાંચસો કાઠિયા, માપના કાઠિયાથી, ચારે બાજુ.",
+  "tokens": [
+    {
+      "surface": "מדד",
+      "gloss": "માપી"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "દિશા"
+    },
+    {
+      "surface": "הצפון",
+      "gloss": "ઉત્તર"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "પાંચ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "સો"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "કાઠિયા"
+    },
+    {
+      "surface": "בקנה",
+      "gloss": "કાઠિયાથી"
+    },
+    {
+      "surface": "המדה",
+      "gloss": "માપના"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ચારે બાજુ"
+    }
+  ],
+  "timestamp": "2026-08-21T15:41:05.129937224Z",
+  "model": "glm-5.3"
+}

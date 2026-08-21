@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 25:1",
+  "book": "exodus",
+  "lang": "gu",
+  "chapter": 25,
+  "translation": "અને યાહવે મોશેને સંબોધ્યા, કહેતા:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "અને સંબોધ્યા"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ની સાથે"
+    },
+    {
+      "surface": "משה",
+      "gloss": "મોશે"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "કહેતા"
+    }
+  ],
+  "timestamp": "2026-08-21T18:34:38.378566136Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 8:3",
+  "book": "ecclesiastes",
+  "lang": "gu",
+  "chapter": 8,
+  "translation": "તેના સામેથી ઉશ્કેરાઈને ન નીકળો; દુષ્ટ બાબતમાં ન ઊભા રહો, કારણ કે જે કંઈ તેને ગમે છે તે તે કરશે.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ન"
+    },
+    {
+      "surface": "תבהל",
+      "gloss": "ઉશ્કેરાઈને"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "તેના સામેથી"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "નીકળો"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ન"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "ઊભા રહો"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "બાબતમાં"
+    },
+    {
+      "surface": "רע",
+      "gloss": "દુષ્ટ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "કારણ કે"
+    },
+    {
+      "surface": "כל",
+      "gloss": "જે કંઈ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "તે"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "તેને ગમે છે"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "તે કરશે"
+    }
+  ],
+  "timestamp": "2026-08-21T17:30:34.252290163Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "leviticus 25:43",
+  "book": "leviticus",
+  "lang": "gu",
+  "chapter": 25,
+  "translation": "તું તેના પર કઠોરતાથી રાજ્ય નહીં કરે; અને તું પોતાના એલોહીમને ડરીશ.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "תרדה",
+      "gloss": "તું રાજ્ય કરે"
+    },
+    {
+      "surface": "בו",
+      "gloss": "તેના પર"
+    },
+    {
+      "surface": "בפרך",
+      "gloss": "કઠોરતાથી"
+    },
+    {
+      "surface": "ויראת",
+      "gloss": "અને તું ડરીશ"
+    },
+    {
+      "surface": "מאלהיך",
+      "gloss": "પોતાના એલોહીમને"
+    }
+  ],
+  "timestamp": "2026-08-21T11:45:45.798712816Z",
+  "model": "glm-5.3"
+}

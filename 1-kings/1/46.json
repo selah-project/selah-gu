@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "1-kings 1:46",
+  "book": "1-kings",
+  "lang": "gu",
+  "chapter": 1,
+  "translation": "અને પણ શલોમો રાજ્યના સિંહાસન પર બેઠો ⟨છે⟩.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "અને પણ"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "બેઠો છે"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "શલોમો"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "સિંહાસન"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "રાજ્યના"
+    }
+  ],
+  "timestamp": "2026-08-21T13:36:18.886459489Z",
+  "model": "glm-5.3"
+}

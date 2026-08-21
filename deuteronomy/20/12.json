@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 20:12",
+  "book": "deuteronomy",
+  "lang": "gu",
+  "chapter": 20,
+  "translation": "પણ જો તે તારી સાથે શાંતિ ન કરે, પણ તારી સામે યુદ્ધ કરે, તો તું તેની ઉપર ઘેરો ઘાલીશ.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "પણ જો"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ન"
+    },
+    {
+      "surface": "תשלים",
+      "gloss": "શાંતિ કરે"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "તારી સાથે"
+    },
+    {
+      "surface": "ועשתה",
+      "gloss": "યુદ્ધ કરે"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "તારી સામે"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "યુદ્ધ"
+    },
+    {
+      "surface": "וצרת",
+      "gloss": "ઘેરો ઘાલીશ"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "તેની ઉપર"
+    }
+  ],
+  "timestamp": "2026-08-21T12:23:05.638305897Z",
+  "model": "glm-5.3"
+}

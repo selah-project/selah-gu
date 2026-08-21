@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "deuteronomy 1:29",
+  "book": "deuteronomy",
+  "lang": "gu",
+  "chapter": 1,
+  "translation": "અને મેં તમને કહ્યું: તમે ધ્રૂજશો નહીં અને તેમનાથી ડરશો નહીં.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "અને મેં કહ્યું"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "તમને"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "תערצון",
+      "gloss": "તમે ધ્રૂજશો"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "અને નહીં"
+    },
+    {
+      "surface": "תיראון",
+      "gloss": "ડરશો"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "તેમનાથી"
+    }
+  ],
+  "timestamp": "2026-08-21T12:13:22.345667130Z",
+  "model": "glm-5.3"
+}

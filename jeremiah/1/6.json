@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 1:6",
+  "book": "jeremiah",
+  "lang": "gu",
+  "chapter": 1,
+  "translation": "અને મેં કહ્યું, આહ, અદોનાય યાહવે! જુઓ, મને બોલતું નથી આવડતું, કેમ કે હું તો બાળક છું.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "અને મેં કહ્યું"
+    },
+    {
+      "surface": "אהה",
+      "gloss": "આહ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "અદોનાય"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "જુઓ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નથી"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "મને આવડતું"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "બોલવું"
+    },
+    {
+      "surface": "כי",
+      "gloss": "કેમ કે"
+    },
+    {
+      "surface": "נער",
+      "gloss": "બાળક"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "હું"
+    }
+  ],
+  "timestamp": "2026-08-21T14:43:34.596889673Z",
+  "model": "glm-5.3"
+}

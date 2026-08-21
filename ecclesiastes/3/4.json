@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 3:4",
+  "book": "ecclesiastes",
+  "lang": "gu",
+  "chapter": 3,
+  "translation": "રડવાનો સમય, અને હસવાનો સમય; શોક કરવાનો સમય, અને નાચવાનો સમય.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "સમય"
+    },
+    {
+      "surface": "לבכות",
+      "gloss": "રડવાનો"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "અને સમય"
+    },
+    {
+      "surface": "לשחוק",
+      "gloss": "હસવાનો"
+    },
+    {
+      "surface": "עת",
+      "gloss": "સમય"
+    },
+    {
+      "surface": "ספוד",
+      "gloss": "શોક કરવાનો"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "અને સમય"
+    },
+    {
+      "surface": "רקוד",
+      "gloss": "નાચવાનો"
+    }
+  ],
+  "timestamp": "2026-08-21T17:29:15.138958266Z",
+  "model": "glm-5.3"
+}

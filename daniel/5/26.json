@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "daniel 5:26",
+  "book": "daniel",
+  "lang": "gu",
+  "chapter": 5,
+  "translation": "આ ⟨is⟩ વચનનો અર્થ: મેને — એલાહાએ ⟨את⟩ તારા રાજ્યની ગણતરી કરી અને તેનો અંત આણ્યો.",
+  "tokens": [
+    {
+      "surface": "דנה",
+      "gloss": "આ"
+    },
+    {
+      "surface": "פשר",
+      "gloss": "અર્થ"
+    },
+    {
+      "surface": "מלתא",
+      "gloss": "વચનનો"
+    },
+    {
+      "surface": "מנא",
+      "gloss": "મેને"
+    },
+    {
+      "surface": "מנה",
+      "gloss": "ગણતરી કરી"
+    },
+    {
+      "surface": "אלהא",
+      "gloss": "એલાહાએ"
+    },
+    {
+      "surface": "מלכותך",
+      "gloss": "તારા રાજ્યની"
+    },
+    {
+      "surface": "והשלמה",
+      "gloss": "અને અંત આણ્યો"
+    }
+  ],
+  "timestamp": "2026-08-21T17:38:32.349355998Z",
+  "model": "glm-5.3"
+}

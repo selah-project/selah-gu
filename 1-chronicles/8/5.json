@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 8:5",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 8,
+  "translation": "અને ગેરા, અને શફૂફાન, અને હુરામ.",
+  "tokens": [
+    {
+      "surface": "וגרא",
+      "gloss": "અને ગેરા"
+    },
+    {
+      "surface": "ושפופן",
+      "gloss": "અને શફૂફાન"
+    },
+    {
+      "surface": "וחורם",
+      "gloss": "અને હુરામ"
+    }
+  ],
+  "timestamp": "2026-08-21T18:03:06.347173149Z",
+  "model": "glm-5.3"
+}

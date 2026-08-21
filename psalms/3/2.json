@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 3:2",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 3,
+  "translation": "યાહવે, કેટલા વધી ગયા ⟨છે⟩ મારા સંકોચનકારીઓ! ઘણા મારી સામે ઊઠે ⟨છે⟩.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "מה",
+      "gloss": "કેટલા"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "વધી ગયા"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "મારા સંકોચનકારીઓ"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ઘણા"
+    },
+    {
+      "surface": "קמים",
+      "gloss": "ઊઠે"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "મારી સામે"
+    }
+  ],
+  "timestamp": "2026-08-21T16:09:37.192819941Z",
+  "model": "glm-5.3"
+}

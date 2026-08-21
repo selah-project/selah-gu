@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 34:21",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 34,
+  "translation": "તે ⟨એમની⟩ બધી હાડકીઓનું રક્ષણ કરે છે; તેમાંની એક પણ તૂટી નથી.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "રક્ષણ કરે છે"
+    },
+    {
+      "surface": "כל",
+      "gloss": "બધી"
+    },
+    {
+      "surface": "עצמותיו",
+      "gloss": "તેની હાડકીઓ"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "એક"
+    },
+    {
+      "surface": "מהנה",
+      "gloss": "તેમાંની"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નથી"
+    },
+    {
+      "surface": "נשברה",
+      "gloss": "તૂટી"
+    }
+  ],
+  "timestamp": "2026-08-21T16:18:20.560138812Z",
+  "model": "glm-5.3"
+}

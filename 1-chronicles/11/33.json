@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-chronicles 11:33",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 11,
+  "translation": "અઝમાવેથ બખરૂમી, એલ્યાખબા શઆલબોની,",
+  "tokens": [
+    {
+      "surface": "עזמות",
+      "gloss": "અઝમાવેથ"
+    },
+    {
+      "surface": "הבחרומי",
+      "gloss": "બખરૂમી"
+    },
+    {
+      "surface": "אליחבא",
+      "gloss": "એલ્યાખબા"
+    },
+    {
+      "surface": "השעלבני",
+      "gloss": "શઆલબોની"
+    }
+  ],
+  "timestamp": "2026-08-21T18:04:51.039284581Z",
+  "model": "glm-5.3"
+}

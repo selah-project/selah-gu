@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 31:14",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 31,
+  "translation": "તેણી વેપારી-જહાજો જેવી ⟨રહી⟩; દૂરથી તે પોતાનો અન્ન લાવે છે.",
+  "tokens": [
+    {
+      "surface": "היתה",
+      "gloss": "તેણી ⟨રહી⟩"
+    },
+    {
+      "surface": "כאניות",
+      "gloss": "જહાજો જેવી"
+    },
+    {
+      "surface": "סוחר",
+      "gloss": "વેપારી-"
+    },
+    {
+      "surface": "ממרחק",
+      "gloss": "દૂરથી"
+    },
+    {
+      "surface": "תביא",
+      "gloss": "તે લાવે છે"
+    },
+    {
+      "surface": "לחמה",
+      "gloss": "પોતાનો અન્ન"
+    }
+  ],
+  "timestamp": "2026-08-21T18:58:54.318473984Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 29:26",
+  "book": "deuteronomy",
+  "lang": "gu",
+  "chapter": 29,
+  "translation": "તેથી યાહવેનો ક્રોધ તે દેશ પર ભભૂક્યો, કે જેથી તેના પર ⟨את⟩ આ પુસ્તકમાં લખેલો સમગ્ર શાપ લાવે.",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "ભભૂક્યો"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ક્રોધ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "દેશ પર"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "તે"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "લાવે"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "તેના પર"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "સમગ્ર શાપ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "સમગ્ર"
+    },
+    {
+      "surface": "הקללה",
+      "gloss": "શાપ"
+    },
+    {
+      "surface": "הכתובה",
+      "gloss": "લખેલો"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "પુસ્તકમાં"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "આ"
+    }
+  ],
+  "timestamp": "2026-08-21T12:29:34.760882397Z",
+  "model": "glm-5.3"
+}

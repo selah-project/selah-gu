@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 24:17",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 24,
+  "translation": "યાખીન માટે એકવીસમો, ગામુલ માટે બાવીસમો.",
+  "tokens": [
+    {
+      "surface": "ליכין",
+      "gloss": "યાખીન માટે"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "એક"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "અને વીસ"
+    },
+    {
+      "surface": "לגמול",
+      "gloss": "ગામુલ માટે"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "બે"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "અને વીસ"
+    }
+  ],
+  "timestamp": "2026-08-21T18:11:08.611214786Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zechariah 7:4",
+  "book": "zechariah",
+  "lang": "gu",
+  "chapter": 7,
+  "translation": "અને યાહવે ત્સેવાઓતનો વચન મારી પાસે આવ્યું, કહેતા:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "અને … આવ્યું"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "વચન"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "ત્સેવાઓતનો"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "મારી પાસે"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "કહેતા"
+    }
+  ],
+  "timestamp": "2026-08-21T16:05:26.193527875Z",
+  "model": "glm-5.3"
+}

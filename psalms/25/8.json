@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 25:8",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 25,
+  "translation": "સારા અને સીધા ⟨છે⟩ યાહવે; તેથી ⟨તે⟩ પાપીઓને માર્ગમાં શીખવશે.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "સારા"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "અને સીધા"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "על",
+      "gloss": "તેથી"
+    },
+    {
+      "surface": "כן",
+      "gloss": "તેથી"
+    },
+    {
+      "surface": "יורה",
+      "gloss": "શીખવશે"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "પાપીઓને"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "માર્ગમાં"
+    }
+  ],
+  "timestamp": "2026-08-21T16:16:40.035445875Z",
+  "model": "glm-5.3"
+}

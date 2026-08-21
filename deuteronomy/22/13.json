@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 22:13",
+  "book": "deuteronomy",
+  "lang": "gu",
+  "chapter": 22,
+  "translation": "જ્યારે કોઈ પુરુષ સ્ત્રીને પરણે અને તેની પાસે જાય અને તેને ધિક્કારે,",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "જ્યારે"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "પરણે"
+    },
+    {
+      "surface": "איש",
+      "gloss": "પુરુષ"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "સ્ત્રીને"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "અને જાય"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "તેની પાસે"
+    },
+    {
+      "surface": "ושנאה",
+      "gloss": "અને તેને ધિક્કારે"
+    }
+  ],
+  "timestamp": "2026-08-21T12:24:54.438981446Z",
+  "model": "glm-5.3"
+}

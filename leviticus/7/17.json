@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 7:17",
+  "book": "leviticus",
+  "lang": "gu",
+  "chapter": 7,
+  "translation": "અને વધેલું માંસ ⟨the⟩ બલિનું, ત્રીજા દિવસે આગમાં બાળી નાખવું જોઈએ.",
+  "tokens": [
+    {
+      "surface": "והנותר",
+      "gloss": "અને વધેલું"
+    },
+    {
+      "surface": "מבשר",
+      "gloss": "માંસમાંથી"
+    },
+    {
+      "surface": "הזבח",
+      "gloss": "બલિનું"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "દિવસે"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "ત્રીજા"
+    },
+    {
+      "surface": "באש",
+      "gloss": "આગમાં"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "બાળી નાખવું જોઈએ"
+    }
+  ],
+  "timestamp": "2026-08-21T11:31:57.982821565Z",
+  "model": "glm-5.3"
+}

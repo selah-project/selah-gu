@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 43:8",
+  "book": "jeremiah",
+  "lang": "gu",
+  "chapter": 43,
+  "translation": "અને તખ્પન્ખેસમાં યાહવેનો વચન યિર્મેયાહુ પાસે આવ્યો, કહેતા:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "અને…આવ્યો\/થયું"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "વચન"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવેનો"
+    },
+    {
+      "surface": "אל",
+      "gloss": "પાસે"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "યિર્મેયાહુ"
+    },
+    {
+      "surface": "בתחפנחס",
+      "gloss": "તખ્પન્ખેસમાં"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "કહેતા"
+    }
+  ],
+  "timestamp": "2026-08-21T15:10:05.024883506Z",
+  "model": "glm-5.3"
+}

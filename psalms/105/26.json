@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 105:26",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 105,
+  "translation": "તેણે મોશે તેના સેવકને મોકલ્યો, અને અહરોનને, જેને તેણે પસંદ કર્યો.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "મોકલ્યો"
+    },
+    {
+      "surface": "משה",
+      "gloss": "મોશે"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "તેના સેવક"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "અહરોન"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જે"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "પસંદ કર્યો"
+    },
+    {
+      "surface": "בו",
+      "gloss": "તેને"
+    }
+  ],
+  "timestamp": "2026-08-21T16:40:20.158367305Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 2:13",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 2,
+  "translation": "જે સીધા માર્ગો છોડી દે છે, અંધકારના માર્ગોમાં ચાલવા ⟨માટે⟩;",
+  "tokens": [
+    {
+      "surface": "העזבים",
+      "gloss": "જે છોડી દે છે"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "માર્ગો"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "સીધા"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "ચાલવા માટે"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "માર્ગોમાં"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "અંધકારના"
+    }
+  ],
+  "timestamp": "2026-08-21T16:51:15.947375793Z",
+  "model": "glm-5.3"
+}

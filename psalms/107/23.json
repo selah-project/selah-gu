@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 107:23",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 107,
+  "translation": "જહાજોમાં સમુદ્ર પર ઊતરનારા, વિશાળ જળમાં કાર્ય કરનારા —",
+  "tokens": [
+    {
+      "surface": "יורדי",
+      "gloss": "ઊતરનારા"
+    },
+    {
+      "surface": "הים",
+      "gloss": "સમુદ્ર પર"
+    },
+    {
+      "surface": "באניות",
+      "gloss": "જહાજોમાં"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "કરનારા"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "કાર્ય"
+    },
+    {
+      "surface": "במים",
+      "gloss": "જળમાં"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "વિશાળ"
+    }
+  ],
+  "timestamp": "2026-08-21T16:39:25.332098705Z",
+  "model": "glm-5.3"
+}

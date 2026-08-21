@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 2:6",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 2,
+  "translation": "કેમ કે યાહવે જ્ઞાન-સંપત્તિ આપે છે; તેના મુખથી જ્ઞાન અને સમજ આવે છે.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "કેમ કે"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "આપે છે"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "જ્ઞાન-સંપત્તિ"
+    },
+    {
+      "surface": "מפיו",
+      "gloss": "તેના મુખથી"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "જ્ઞાન"
+    },
+    {
+      "surface": "ותבונה",
+      "gloss": "અને સમજ"
+    }
+  ],
+  "timestamp": "2026-08-21T16:51:30.651782255Z",
+  "model": "glm-5.3"
+}

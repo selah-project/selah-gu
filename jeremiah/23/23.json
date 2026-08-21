@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 23:23",
+  "book": "jeremiah",
+  "lang": "gu",
+  "chapter": 23,
+  "translation": "הા શું હું નજીકનો એલોહીમ છું, યાહવેના વચન પ્રમાણે, અને દૂરનો એલોહીમ નથી?",
+  "tokens": [
+    {
+      "surface": "האלהי",
+      "gloss": "શું…એલોહીમ"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "નજીકનો"
+    },
+    {
+      "surface": "אני",
+      "gloss": "હું છું"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "વચન પ્રમાણે"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "અને…નથી"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "એલોહીમ"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "દૂરનો"
+    }
+  ],
+  "timestamp": "2026-08-21T18:49:04.133063127Z",
+  "model": "glm-5.3"
+}

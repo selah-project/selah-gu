@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "lamentations 3:42",
+  "book": "lamentations",
+  "lang": "gu",
+  "chapter": 3,
+  "translation": "અમે અપરાધ કર્યો અને બળવો પોહાર્યો; તેં માફ નહીં કર્યું.",
+  "tokens": [
+    {
+      "surface": "נחנו",
+      "gloss": "અમે"
+    },
+    {
+      "surface": "פשענו",
+      "gloss": "અપરાધ કર્યો"
+    },
+    {
+      "surface": "ומרינו",
+      "gloss": "બળવો પોહાર્યો"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "તેં"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "סלחת",
+      "gloss": "માફ કર્યું"
+    }
+  ],
+  "timestamp": "2026-08-21T17:25:34.244786818Z",
+  "model": "glm-5.3"
+}

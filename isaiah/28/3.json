@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 28:3",
+  "book": "isaiah",
+  "lang": "gu",
+  "chapter": 28,
+  "translation": "એફ્રાઇમના મદ્યપીઓનો ગર્વનો તાજ પગથી કચડાઈ જશે.",
+  "tokens": [
+    {
+      "surface": "ברגלים",
+      "gloss": "પગથી"
+    },
+    {
+      "surface": "תרמסנה",
+      "gloss": "કચડાઈ જશે"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "તાજ"
+    },
+    {
+      "surface": "גאות",
+      "gloss": "ગર્વનો"
+    },
+    {
+      "surface": "שכורי",
+      "gloss": "મદ્યપીઓનો"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "એફ્રાઇમના"
+    }
+  ],
+  "timestamp": "2026-08-21T14:23:54.319041974Z",
+  "model": "glm-5.3"
+}

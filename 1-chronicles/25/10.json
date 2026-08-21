@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 25:10",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 25,
+  "translation": "ત્રીજો ઝાક્કૂર ⟨માટે⟩, ⟨તેના⟩ પુત્રો અને ⟨તેના⟩ ભાઈઓ, બાર.",
+  "tokens": [
+    {
+      "surface": "השלשי",
+      "gloss": "ત્રીજો"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "ઝાક્કૂર"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "તેના પુત્રો"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "અને તેના ભાઈઓ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "બાર"
+    },
+    {
+      "surface": "עשר",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-21T18:11:26.346429215Z",
+  "model": "glm-5.3"
+}

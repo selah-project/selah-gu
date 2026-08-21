@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 7:16",
+  "book": "ecclesiastes",
+  "lang": "gu",
+  "chapter": 7,
+  "translation": "વધારે પડતા ન્યાયી ન બનો, અને વધારે પડતા ડાહ્યા ન બનો; શા માટે ⟨તમે⟩ ઉજ્જડ થવું જોઈએ?",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ન"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "બનો"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ન્યાયી"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "વધારે પડતા"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "અને ન"
+    },
+    {
+      "surface": "תתחכם",
+      "gloss": "ડાહ્યા બનો"
+    },
+    {
+      "surface": "יותר",
+      "gloss": "વધારે પડતા"
+    },
+    {
+      "surface": "למה",
+      "gloss": "શા માટે"
+    },
+    {
+      "surface": "תשומם",
+      "gloss": "ઉજ્જડ થવું જોઈએ"
+    }
+  ],
+  "timestamp": "2026-08-21T17:30:48.793266130Z",
+  "model": "glm-5.3"
+}

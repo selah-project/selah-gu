@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 33:15",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 33,
+  "translation": "જે તેમનાં હૃદયોને એકસાથે ઘડે છે, જે તેમનાં બધાં કર્મો સમજે છે.",
+  "tokens": [
+    {
+      "surface": "היצר",
+      "gloss": "ઘડનાર"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "એકસાથે"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "તેમનાં હૃદયોને"
+    },
+    {
+      "surface": "המבין",
+      "gloss": "સમજનાર"
+    },
+    {
+      "surface": "אל",
+      "gloss": "તરફ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "બધાં"
+    },
+    {
+      "surface": "מעשיהם",
+      "gloss": "તેમનાં કર્મો"
+    }
+  ],
+  "timestamp": "2026-08-21T16:19:02.523624378Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "ezekiel 16:35",
+  "book": "ezekiel",
+  "lang": "gu",
+  "chapter": 16,
+  "translation": "તેથી, હે વ્યભિચારીણી, યાહવેનો વચન સાંભળ.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "તેથી"
+    },
+    {
+      "surface": "זונה",
+      "gloss": "હે વ્યભિચારીણી"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "સાંભળ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "વચન"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવેનો"
+    }
+  ],
+  "timestamp": "2026-08-21T15:25:02.875756159Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "leviticus 25:37",
+  "book": "leviticus",
+  "lang": "gu",
+  "chapter": 25,
+  "translation": "તારું ચાંદીનું ⟨את⟩ ધિરાણ પર ⟨તેને⟩ ન આપીશ, અને વ્યાજ પર તારો ખોરાક ન આપીશ.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "તારું ચાંદીનું ધન"
+    },
+    {
+      "surface": "כספך",
+      "gloss": "તારું ચાંદીનું ધન"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "આપીશ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "તેને"
+    },
+    {
+      "surface": "בנשך",
+      "gloss": "ધિરાણ પર"
+    },
+    {
+      "surface": "ובמרבית",
+      "gloss": "અને વ્યાજ પર"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "આપીશ"
+    },
+    {
+      "surface": "אכלך",
+      "gloss": "તારો ખોરાક"
+    }
+  ],
+  "timestamp": "2026-08-21T11:45:16.010837832Z",
+  "model": "glm-5.3"
+}

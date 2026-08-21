@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 21:28",
+  "book": "genesis",
+  "lang": "gu",
+  "chapter": 21,
+  "translation": "અને અબ્રાહામે ⟨את⟩ સાત વછરીઓ પોતાની જ ટોળામાં અલગ મૂકી.",
+  "tokens": [
+    {
+      "surface": "ויצב",
+      "gloss": "અલગ મૂકી"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "અબ્રાહામે"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "સાત વછરીઓ"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "સાત"
+    },
+    {
+      "surface": "כבשת",
+      "gloss": "વછરીઓ"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "ટોળામાં"
+    },
+    {
+      "surface": "לבדהן",
+      "gloss": "પોતાની જ અલગ"
+    }
+  ],
+  "timestamp": "2026-08-21T10:46:32.407849771Z",
+  "model": "glm-5.3"
+}

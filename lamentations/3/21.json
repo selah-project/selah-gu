@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "lamentations 3:21",
+  "book": "lamentations",
+  "lang": "gu",
+  "chapter": 3,
+  "translation": "આ હું મારા હૃદય પર પાછું ફેરવું છું, તેથી હું આશા રાખું છું.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "આ"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "હું પાછું ફેરવું છું"
+    },
+    {
+      "surface": "אל",
+      "gloss": "પર"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "મારા હૃદય"
+    },
+    {
+      "surface": "על",
+      "gloss": "તેથી"
+    },
+    {
+      "surface": "כן",
+      "gloss": "તેથી"
+    },
+    {
+      "surface": "אוחיל",
+      "gloss": "હું આશા રાખું છું"
+    }
+  ],
+  "timestamp": "2026-08-21T17:26:04.268473045Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 5:8",
+  "book": "job",
+  "lang": "gu",
+  "chapter": 5,
+  "translation": "પણ હું તો એલને શોધીશ, અને એલોહીમ પાસે મારો કકળ મૂકીશ.",
+  "tokens": [
+    {
+      "surface": "אולם",
+      "gloss": "પણ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "હું"
+    },
+    {
+      "surface": "אדרש",
+      "gloss": "શોધીશ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ને"
+    },
+    {
+      "surface": "אל",
+      "gloss": "એલ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "અને…પાસે"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "એલોહીમ"
+    },
+    {
+      "surface": "אשים",
+      "gloss": "મૂકીશ"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "મારો કકળ"
+    }
+  ],
+  "timestamp": "2026-08-21T17:06:42.880576823Z",
+  "model": "glm-5.3"
+}

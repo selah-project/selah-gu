@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 115:3",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 115,
+  "translation": "પણ અમારા એલોહીમ ⟨છે⟩ આકાશમાં — જે કંઈ તેમને ગમ્યું તે તેમણે કર્યું.",
+  "tokens": [
+    {
+      "surface": "ואלהינו",
+      "gloss": "પણ અમારા એલોહીમ"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "આકાશમાં"
+    },
+    {
+      "surface": "כל",
+      "gloss": "જે કંઈ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જે"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "ગમ્યું"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "કર્યું"
+    }
+  ],
+  "timestamp": "2026-08-21T16:40:54.838644280Z",
+  "model": "glm-5.3"
+}

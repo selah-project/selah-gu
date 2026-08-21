@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 23:25",
+  "book": "leviticus",
+  "lang": "gu",
+  "chapter": 23,
+  "translation": "કોઈ પણ સેવા-કાર્ય તમે ન કરો, અને તમે યાહવેને અગ્નિ-ભેટ ધરાવો.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "કોઈ પણ"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "કાર્ય"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "સેવા"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ન"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "કરો"
+    },
+    {
+      "surface": "והקרבתם",
+      "gloss": "અને તમે ધરાવો"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "અગ્નિ-ભેટ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "યાહવેને"
+    }
+  ],
+  "timestamp": "2026-08-21T11:46:01.590765631Z",
+  "model": "glm-5.3"
+}

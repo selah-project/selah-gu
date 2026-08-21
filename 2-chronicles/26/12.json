@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 26:12",
+  "book": "2-chronicles",
+  "lang": "gu",
+  "chapter": 26,
+  "translation": "પિતૃઓના વડાઓની — બહાદુર યોદ્ધાઓ — સંપૂર્ણ સંખ્યા બે હજાર અને છસો હતી.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "સંપૂર્ણ"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "સંખ્યા"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "વડાઓની"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "પિતૃઓના"
+    },
+    {
+      "surface": "לגבורי",
+      "gloss": "બહાદુર"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "યોદ્ધાઓ"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "બે હજાર"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "અને છસો"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "(છસો)"
+    }
+  ],
+  "timestamp": "2026-08-21T18:27:39.111043782Z",
+  "model": "glm-5.3"
+}

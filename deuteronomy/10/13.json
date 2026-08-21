@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 10:13",
+  "book": "deuteronomy",
+  "lang": "gu",
+  "chapter": 10,
+  "translation": "યાહવેની ⟨את⟩ આજ્ઞાઓ અને ⟨את⟩ તેમનાં વિધાનો જાળવવા, જે હું આજે તમને આદેશ આપું છું — તમારા ભલા માટે.",
+  "tokens": [
+    {
+      "surface": "לשמר",
+      "gloss": "જાળવવા"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "આજ્ઞાઓ"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "આજ્ઞાઓ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવેની"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "વિધાનો"
+    },
+    {
+      "surface": "חקתיו",
+      "gloss": "તેમનાં વિધાનો"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જે"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "હું"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "તમને આદેશ આપું છું"
+    },
+    {
+      "surface": "היום",
+      "gloss": "આજે"
+    },
+    {
+      "surface": "לטוב",
+      "gloss": "ભલા માટે"
+    },
+    {
+      "surface": "לך",
+      "gloss": "તમારા"
+    }
+  ],
+  "timestamp": "2026-08-21T12:17:00.143830424Z",
+  "model": "glm-5.3"
+}

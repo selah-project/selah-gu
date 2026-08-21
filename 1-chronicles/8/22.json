@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 8:22",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 8,
+  "translation": "અને યિશ્પાન, અને એવેર, અને એલીએલ.",
+  "tokens": [
+    {
+      "surface": "וישפן",
+      "gloss": "અને યિશ્પાન"
+    },
+    {
+      "surface": "ועבר",
+      "gloss": "અને એવેર"
+    },
+    {
+      "surface": "ואליאל",
+      "gloss": "અને એલીએલ"
+    }
+  ],
+  "timestamp": "2026-08-21T18:02:40.188451196Z",
+  "model": "glm-5.3"
+}

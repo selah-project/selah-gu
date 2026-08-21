@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 48:6",
+  "book": "ezekiel",
+  "lang": "gu",
+  "chapter": 48,
+  "translation": "અને એફ્રાયિમની સીમા પર, પૂર્વ દિશાથી અને પશ્ચિમ દિશા સુધી, રૂબેન — એક ⟨ભાગ⟩.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "અને... પર"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "સીમા"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "એફ્રાયિમની"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "દિશાથી"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "પૂર્વ"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "અને... સુધી"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "દિશા"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "પશ્ચિમ"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "રૂબેન"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "એક"
+    }
+  ],
+  "timestamp": "2026-08-21T15:44:21.403510819Z",
+  "model": "glm-5.3"
+}

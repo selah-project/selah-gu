@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 10:15",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 10,
+  "translation": "અને યિસ્સાસ્ખારનાં પુત્રોના શાખા-સૈન્ય પર ત્સુઆરનો પુત્ર નતનએલ ⟨હતો⟩.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "અને … પર"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "સૈન્ય"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "શાખા-"
+    },
+    {
+      "surface": "בני",
+      "gloss": "પુત્રોના"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "યિસ્સાસ્ખાર"
+    },
+    {
+      "surface": "נתנאל",
+      "gloss": "નતનએલ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "પુત્ર"
+    },
+    {
+      "surface": "צוער",
+      "gloss": "ત્સુઆરનો"
+    }
+  ],
+  "timestamp": "2026-08-21T11:53:48.628253070Z",
+  "model": "glm-5.3"
+}

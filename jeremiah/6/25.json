@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 6:25",
+  "book": "jeremiah",
+  "lang": "gu",
+  "chapter": 6,
+  "translation": "ખેતમાં ન નીકળતી, અને માર્ગ પર ન ચાલતી; કારણ કે શત્રુ પાસે તલવાર ⟨છે⟩, ચારે બાજુ ભય ⟨છે⟩.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ન"
+    },
+    {
+      "surface": "תצאי",
+      "gloss": "નીકળતી"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ખેતમાં"
+    },
+    {
+      "surface": "ובדרך",
+      "gloss": "અને માર્ગ પર"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ન"
+    },
+    {
+      "surface": "תלכי",
+      "gloss": "ચાલતી"
+    },
+    {
+      "surface": "כי",
+      "gloss": "કારણ કે"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "તલવાર"
+    },
+    {
+      "surface": "לאיב",
+      "gloss": "શત્રુ પાસે"
+    },
+    {
+      "surface": "מגור",
+      "gloss": "ભય"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "ચારે બાજુ"
+    }
+  ],
+  "timestamp": "2026-08-21T14:46:51.839454475Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 73:11",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 73,
+  "translation": "અને તેઓ કહે છે, “એલ કેમ જાણે? અને એલ્યોન પાસે જ્ઞાન છે ⟨કે⟩?”",
+  "tokens": [
+    {
+      "surface": "ואמרו",
+      "gloss": "અને તેઓ કહે છે"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "કેમ"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "જાણે"
+    },
+    {
+      "surface": "אל",
+      "gloss": "એલ"
+    },
+    {
+      "surface": "ויש",
+      "gloss": "અને છે"
+    },
+    {
+      "surface": "דעה",
+      "gloss": "જ્ઞાન"
+    },
+    {
+      "surface": "בעליון",
+      "gloss": "એલ્યોન પાસે"
+    }
+  ],
+  "timestamp": "2026-08-21T16:30:10.018282670Z",
+  "model": "glm-5.3"
+}

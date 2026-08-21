@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "leviticus 14:41",
+  "book": "leviticus",
+  "lang": "gu",
+  "chapter": 14,
+  "translation": "અને ⟨את⟩ ઘર તે અંદરથી ચારે બાજુ ખૂંટડાવશે, અને જે ખૂંટણ કર્યું તે ⟨את⟩ ધૂળ શહેરની બહાર અશુદ્ધ સ્થાન પર રેડી નાખશે.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ઘર"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ઘર"
+    },
+    {
+      "surface": "יקצע",
+      "gloss": "ખૂંટડાવશે"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "અંદરથી"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ચારે બાજુ"
+    },
+    {
+      "surface": "ושפכו",
+      "gloss": "અને રેડી નાખશે"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ધૂળ"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "ધૂળ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જે"
+    },
+    {
+      "surface": "הקצו",
+      "gloss": "ખૂંટણ કર્યું"
+    },
+    {
+      "surface": "אל",
+      "gloss": "પર"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "બહાર"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "શહેરની"
+    },
+    {
+      "surface": "אל",
+      "gloss": "પર"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "સ્થાન"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "અશુદ્ધ"
+    }
+  ],
+  "timestamp": "2026-08-21T11:37:39.437150039Z",
+  "model": "glm-5.3"
+}

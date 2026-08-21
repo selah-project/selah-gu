@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "numbers 15:37",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 15,
+  "translation": "અને યાહવેએ મોશેને કહ્યું, બોલવા માટે:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "અને કહ્યું"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવેએ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ને"
+    },
+    {
+      "surface": "משה",
+      "gloss": "મોશે"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "બોલવા માટે"
+    }
+  ],
+  "timestamp": "2026-08-21T11:58:43.045990715Z",
+  "model": "glm-5.3"
+}

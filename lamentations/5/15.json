@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "lamentations 5:15",
+  "book": "lamentations",
+  "lang": "gu",
+  "chapter": 5,
+  "translation": "અમારા હૃદયનો આનંદ શાંત થયો, અમારું નાચ ⟨એ⟩ શોકમાં ફરી ગયું.",
+  "tokens": [
+    {
+      "surface": "שבת",
+      "gloss": "શાંત થયો"
+    },
+    {
+      "surface": "משוש",
+      "gloss": "આનંદ"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "અમારા હૃદયનો"
+    },
+    {
+      "surface": "נהפך",
+      "gloss": "ફરી ગયું"
+    },
+    {
+      "surface": "לאבל",
+      "gloss": "શોકમાં"
+    },
+    {
+      "surface": "מחלנו",
+      "gloss": "અમારું નાચ"
+    }
+  ],
+  "timestamp": "2026-08-21T17:28:11.751577366Z",
+  "model": "glm-5.3"
+}

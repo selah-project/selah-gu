@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 2:18",
+  "book": "deuteronomy",
+  "lang": "gu",
+  "chapter": 2,
+  "translation": "તું આજે ⟨את⟩ મોઆબની સીમા, ⟨את⟩ આર પાર કરી રહ્યો છે.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "તું"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "પાર કરી રહ્યો છે"
+    },
+    {
+      "surface": "היום",
+      "gloss": "આજે"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "મોઆબની સીમા"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "સીમા"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "મોઆબ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "આર"
+    },
+    {
+      "surface": "ער",
+      "gloss": "આર"
+    }
+  ],
+  "timestamp": "2026-08-21T12:12:13.957675591Z",
+  "model": "glm-5.3"
+}

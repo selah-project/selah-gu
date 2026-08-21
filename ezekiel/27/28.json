@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "ezekiel 27:28",
+  "book": "ezekiel",
+  "lang": "gu",
+  "chapter": 27,
+  "translation": "તારા ખલાસીઓના રુદનના અવાજથી મેદાનો ધ્રુજશે.",
+  "tokens": [
+    {
+      "surface": "לקול",
+      "gloss": "અવાજથી"
+    },
+    {
+      "surface": "זעקת",
+      "gloss": "રુદનના"
+    },
+    {
+      "surface": "חבליך",
+      "gloss": "તારા ખલાસીઓના"
+    },
+    {
+      "surface": "ירעשו",
+      "gloss": "ધ્રુજશે"
+    },
+    {
+      "surface": "מגרשות",
+      "gloss": "મેદાનો"
+    }
+  ],
+  "timestamp": "2026-08-21T15:32:51.221973354Z",
+  "model": "glm-5.3"
+}

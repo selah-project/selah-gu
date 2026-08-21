@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 68,
+  "ref": "psalms 119:68",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 119,
+  "translation": "તું સારો છે અને સારું કરનાર છે; મને તારા વિધાનો શીખવ.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "સારો છે"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "તું"
+    },
+    {
+      "surface": "ומטיב",
+      "gloss": "અને સારું કરનાર છે"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "મને શીખવ"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "તારા વિધાનો"
+    }
+  ],
+  "timestamp": "2026-08-21T16:44:44.551179766Z",
+  "model": "glm-5.3"
+}

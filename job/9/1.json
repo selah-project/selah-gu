@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 9:1",
+  "book": "job",
+  "lang": "gu",
+  "chapter": 9,
+  "translation": "અને અય્યોબે ઉત્તર આપ્યું અને કહ્યું:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "ઉત્તર આપ્યું"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "અય્યોબે"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "અને કહ્યું"
+    }
+  ],
+  "timestamp": "2026-08-21T17:07:23.494707183Z",
+  "model": "glm-5.3"
+}

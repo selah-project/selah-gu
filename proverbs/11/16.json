@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 11:16",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 11,
+  "translation": "અનુગ્રહવાન સ્ત્રી માન પામે છે, અને ઉપદ્રવીઓ ધન મેળવે છે.",
+  "tokens": [
+    {
+      "surface": "אשת",
+      "gloss": "સ્ત્રી"
+    },
+    {
+      "surface": "חן",
+      "gloss": "અનુગ્રહવાન"
+    },
+    {
+      "surface": "תתמך",
+      "gloss": "પામે છે"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "માન"
+    },
+    {
+      "surface": "ועריצים",
+      "gloss": "અને ઉપદ્રવીઓ"
+    },
+    {
+      "surface": "יתמכו",
+      "gloss": "મેળવે છે"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ધન"
+    }
+  ],
+  "timestamp": "2026-08-21T16:56:23.992321526Z",
+  "model": "glm-5.3"
+}

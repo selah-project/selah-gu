@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 17:13",
+  "book": "deuteronomy",
+  "lang": "gu",
+  "chapter": 17,
+  "translation": "અને આખો પ્રજા-સમૂહ ⟨તેને⟩ સાંભળશે અને ભય પામશે, અને ફરી કદી ઉદ્દંડતા નહીં કરે.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "અને આખો"
+    },
+    {
+      "surface": "העם",
+      "gloss": "પ્રજા-સમૂહ"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "સાંભળશે"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "અને ભય પામશે"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "અને નહીં"
+    },
+    {
+      "surface": "יזידון",
+      "gloss": "ઉદ્દંડતા કરે"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ફરી કદી"
+    }
+  ],
+  "timestamp": "2026-08-21T12:23:14.449272295Z",
+  "model": "glm-5.3"
+}

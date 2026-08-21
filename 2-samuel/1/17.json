@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 1:17",
+  "book": "2-samuel",
+  "lang": "gu",
+  "chapter": 1,
+  "translation": "અને દાવિદે ⟨את⟩ આ શોકગીત ગાઈ, શાઉલ પર અને યહોનાતાન તેના પુત્ર પર.",
+  "tokens": [
+    {
+      "surface": "ויקנן",
+      "gloss": "શોકગીત ગાઈ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "દાવિદે"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "આ શોકગીત"
+    },
+    {
+      "surface": "הקינה",
+      "gloss": "શોકગીત"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "આ"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "શાઉલ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "અને પર"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "યહોનાતાન"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "તેના પુત્ર"
+    }
+  ],
+  "timestamp": "2026-08-21T18:42:14.508049114Z",
+  "model": "glm-5.3"
+}

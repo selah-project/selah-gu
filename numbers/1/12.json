@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 1:12",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 1,
+  "translation": "દાન પ્રતિ — અહીએઝર, અમ્મીશદ્દાયનો પુત્ર.",
+  "tokens": [
+    {
+      "surface": "לדן",
+      "gloss": "દાન પ્રતિ"
+    },
+    {
+      "surface": "אחיעזר",
+      "gloss": "અહીએઝર"
+    },
+    {
+      "surface": "בן",
+      "gloss": "પુત્ર"
+    },
+    {
+      "surface": "עמישדי",
+      "gloss": "અમ્મીશદ્દાયનો"
+    }
+  ],
+  "timestamp": "2026-08-21T11:46:32.410031104Z",
+  "model": "glm-5.3"
+}

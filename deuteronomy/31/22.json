@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 31:22",
+  "book": "deuteronomy",
+  "lang": "gu",
+  "chapter": 31,
+  "translation": "અને મોશેએ તે જ દિવસે ⟨את⟩ આ ગીત લખ્યું અને ઇસ્રાએલના પુત્રોને ⟨את⟩ શીખવ્યું.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "અને લખ્યું"
+    },
+    {
+      "surface": "משה",
+      "gloss": "મોશેએ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "આ ગીત"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "ગીત"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "આ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "દિવસે"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "તે જ"
+    },
+    {
+      "surface": "וילמדה",
+      "gloss": "અને શીખવ્યું"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ઇસ્રાએલના પુત્રો"
+    },
+    {
+      "surface": "בני",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ઇસ્રાએલ"
+    }
+  ],
+  "timestamp": "2026-08-21T12:32:06.256680012Z",
+  "model": "glm-5.3"
+}

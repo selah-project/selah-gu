@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 10:21",
+  "book": "genesis",
+  "lang": "gu",
+  "chapter": 10,
+  "translation": "અને શેમને પણ — તે યાફેતનો મોટો ભાઈ અને એવેરનાં બધાં પુત્રોના પિતા હતા — સંતાનો જન્મ્યાં.",
+  "tokens": [
+    {
+      "surface": "ולשם",
+      "gloss": "અને શેમને"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "જન્મ્યાં"
+    },
+    {
+      "surface": "גם",
+      "gloss": "પણ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "તે"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "પિતા"
+    },
+    {
+      "surface": "כל",
+      "gloss": "બધાં"
+    },
+    {
+      "surface": "בני",
+      "gloss": "પુત્રોના"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "એવેર"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "ભાઈ"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "યાફેતનો"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "મોટો"
+    }
+  ],
+  "timestamp": "2026-08-21T10:41:24.488232916Z",
+  "model": "glm-5.3"
+}

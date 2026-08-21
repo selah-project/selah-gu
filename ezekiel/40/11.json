@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 40:11",
+  "book": "ezekiel",
+  "lang": "gu",
+  "chapter": 40,
+  "translation": "અને તેણે ⟨את⟩ દરવાજાના પ્રવેશની પહોળાઈ માપી — દસ હાત; દરવાજાની લંબાઈ તેર હાત.",
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "અને તેણે માપી"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "પહોળાઈ"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "પહોળાઈ"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "પ્રવેશ"
+    },
+    {
+      "surface": "השער",
+      "gloss": "દરવાજાના"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "દસ"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "હાત"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "લંબાઈ"
+    },
+    {
+      "surface": "השער",
+      "gloss": "દરવાજાની"
+    },
+    {
+      "surface": "שלוש",
+      "gloss": "તેર"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "(ત્રણ-દસ)"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "હાત"
+    }
+  ],
+  "timestamp": "2026-08-21T15:40:00.843539210Z",
+  "model": "glm-5.3"
+}

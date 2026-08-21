@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 22:1",
+  "book": "leviticus",
+  "lang": "gu",
+  "chapter": 22,
+  "translation": "અને યાહવે મોશે સાથે વાત કરી, કહેતા:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "અને વાત કરી"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "אל",
+      "gloss": "સાથે"
+    },
+    {
+      "surface": "משה",
+      "gloss": "મોશે"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "કહેતા"
+    }
+  ],
+  "timestamp": "2026-08-21T11:43:23.421386814Z",
+  "model": "glm-5.3"
+}

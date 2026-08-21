@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 14:3",
+  "book": "genesis",
+  "lang": "gu",
+  "chapter": 14,
+  "translation": "આ બધા સિદ્દીમના ખીણમાં — એ ⟨જ⟩ મીઠાનો સમુદ્ર ⟨છે⟩ — ભેગા થયા.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "બધા"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "આ"
+    },
+    {
+      "surface": "חברו",
+      "gloss": "ભેગા થયા"
+    },
+    {
+      "surface": "אל",
+      "gloss": "માં"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "ખીણ"
+    },
+    {
+      "surface": "השדים",
+      "gloss": "સિદ્દીમના"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "એ ⟨જ⟩"
+    },
+    {
+      "surface": "ים",
+      "gloss": "સમુદ્ર"
+    },
+    {
+      "surface": "המלח",
+      "gloss": "મીઠાનો"
+    }
+  ],
+  "timestamp": "2026-08-21T10:42:57.828071901Z",
+  "model": "glm-5.3"
+}

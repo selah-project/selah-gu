@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 34:14",
+  "book": "exodus",
+  "lang": "gu",
+  "chapter": 34,
+  "translation": "કેમ કે તમે બીજા એલને પ્રણામ નહિ કરો; કેમ કે યાહવે — કર્કાશ એમનું નામ — કર્કાશ એલ છે ⟨એ⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "કેમ કે"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નહિ"
+    },
+    {
+      "surface": "תשתחוה",
+      "gloss": "પ્રણામ કરો"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "એલને"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "બીજા"
+    },
+    {
+      "surface": "כי",
+      "gloss": "કેમ કે"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "קנא",
+      "gloss": "કર્કાશ"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "એમનું નામ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "એલ"
+    },
+    {
+      "surface": "קנא",
+      "gloss": "કર્કાશ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "એ"
+    }
+  ],
+  "timestamp": "2026-08-21T11:25:53.869800056Z",
+  "model": "glm-5.3"
+}

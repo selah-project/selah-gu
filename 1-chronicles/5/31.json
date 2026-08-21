@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 5:31",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 5,
+  "translation": "અને અબિશુઆએ ⟨את⟩ બુક્કીને જન્મ આપ્યો; અને બુક્કીએ ⟨את⟩ ઉઝ્ઝીને જન્મ આપ્યો.",
+  "tokens": [
+    {
+      "surface": "ואבישוע",
+      "gloss": "અને અબિશુઆ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "જન્મ આપ્યો"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "બુક્કી"
+    },
+    {
+      "surface": "בקי",
+      "gloss": "બુક્કી"
+    },
+    {
+      "surface": "ובקי",
+      "gloss": "અને બુક્કી"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "જન્મ આપ્યો"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ઉઝ્ઝી"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "ઉઝ્ઝી"
+    }
+  ],
+  "timestamp": "2026-08-21T18:01:57.920093508Z",
+  "model": "glm-5.3"
+}

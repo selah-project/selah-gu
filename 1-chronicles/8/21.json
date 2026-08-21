@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 8:21",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 8,
+  "translation": "અને અદાયા, અને બરાયા, અને શિમરાથ — ⟨તે⟩ શિમઈના પુત્રો ⟨હતા⟩.",
+  "tokens": [
+    {
+      "surface": "ועדיה",
+      "gloss": "અને અદાયા"
+    },
+    {
+      "surface": "ובראיה",
+      "gloss": "અને બરાયા"
+    },
+    {
+      "surface": "ושמרת",
+      "gloss": "અને શિમરાથ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "શિમઈના"
+    }
+  ],
+  "timestamp": "2026-08-21T18:02:40.188242507Z",
+  "model": "glm-5.3"
+}

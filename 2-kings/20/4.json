@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 20:4",
+  "book": "2-kings",
+  "lang": "gu",
+  "chapter": 20,
+  "translation": "અને ⟨it came to pass⟩ — યશાયાહુ હજી મધ્ય-આંગણ (હજી શહેરના મધ્ય ભાગમાં) માંથી બહાર નીકળ્યો નહોતો, અને યાહવેનો વચન તેની પાસે આવ્યું, કહેતા:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "અને ⟨it came to pass⟩"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "યશાયાહુ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નહોતો"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "નીકળ્યો"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "શહેર"
+    },
+    {
+      "surface": "התיכנה",
+      "gloss": "મધ્ય-આંગણ"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "અને વચન"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવેનો"
+    },
+    {
+      "surface": "היה",
+      "gloss": "આવ્યું"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "તેની પાસે"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "કહેતા"
+    }
+  ],
+  "timestamp": "2026-08-21T14:08:47.378890894Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "nehemiah 7:26",
+  "book": "nehemiah",
+  "lang": "gu",
+  "chapter": 7,
+  "translation": "બેથ-લેખેમ અને નેટોફાના માણસો સો એંશી આઠ.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "માણસો"
+    },
+    {
+      "surface": "בית",
+      "gloss": "બેથ-"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "લેખેમ"
+    },
+    {
+      "surface": "ונטפה",
+      "gloss": "અને નેટોફાના"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "સો"
+    },
+    {
+      "surface": "שמנים",
+      "gloss": "એંશી"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "આઠ"
+    }
+  ],
+  "timestamp": "2026-08-21T17:54:59.316546455Z",
+  "model": "glm-5.3"
+}

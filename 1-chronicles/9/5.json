@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 9:5",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 9,
+  "translation": "અને શિલોનીઓમાંથી: અસાયાહ પ્રથમજન્મી અને તેના પુત્રો.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "અને…માંથી"
+    },
+    {
+      "surface": "השילוני",
+      "gloss": "શિલોનીઓમાંથી"
+    },
+    {
+      "surface": "עשיה",
+      "gloss": "અસાયાહ"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "પ્રથમજન્મી"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "અને તેના પુત્રો"
+    }
+  ],
+  "timestamp": "2026-08-21T19:01:28.909797608Z",
+  "model": "glm-5.3"
+}

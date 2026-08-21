@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 5:27",
+  "book": "genesis",
+  "lang": "gu",
+  "chapter": 5,
+  "translation": "અને મતુશેલાખના બધા દિવસો નવ અને સાઠ વર્ષ અને નવસો વર્ષ થયા, અને તે મૃત્યુ પામ્યો.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "થયા"
+    },
+    {
+      "surface": "כל",
+      "gloss": "બધા"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "દિવસો"
+    },
+    {
+      "surface": "מתושלח",
+      "gloss": "મતુશેલાખના"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "નવ"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "અને સાઠ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "વર્ષ"
+    },
+    {
+      "surface": "ותשע",
+      "gloss": "અને નવ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "સો (બહુવચન)"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "વર્ષ"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "મૃત્યુ પામ્યો"
+    }
+  ],
+  "timestamp": "2026-08-21T10:39:05.767852281Z",
+  "model": "glm-5.3"
+}

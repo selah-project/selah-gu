@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 2:14",
+  "book": "jeremiah",
+  "lang": "gu",
+  "chapter": 2,
+  "translation": "શું યિસ્રાએલ ⟨is⟩ ગુલામ? શું તે ઘરમાં જન્મેલો ⟨is⟩? માટે શું તે લૂંટાયેલો બન્યો?",
+  "tokens": [
+    {
+      "surface": "העבד",
+      "gloss": "ગુલામ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "યિસ્રાએલ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "શું"
+    },
+    {
+      "surface": "יליד",
+      "gloss": "જન્મેલો"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ઘરમાં"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "તે"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "માટે શું"
+    },
+    {
+      "surface": "היה",
+      "gloss": "બન્યો"
+    },
+    {
+      "surface": "לבז",
+      "gloss": "લૂંટાયેલો"
+    }
+  ],
+  "timestamp": "2026-08-21T19:52:56.730668057Z",
+  "model": "glm-5.3"
+}

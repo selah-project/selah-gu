@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 3:8",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 3,
+  "translation": "અને એલીશામઆ, અને એલ્યાદઆ, અને એલીપલેત — નહેં.",
+  "tokens": [
+    {
+      "surface": "ואלישמע",
+      "gloss": "અને એલીશામઆ"
+    },
+    {
+      "surface": "ואלידע",
+      "gloss": "અને એલ્યાદઆ"
+    },
+    {
+      "surface": "ואליפלט",
+      "gloss": "અને એલીપલેત"
+    },
+    {
+      "surface": "תשעה",
+      "gloss": "નહેં"
+    }
+  ],
+  "timestamp": "2026-08-21T18:01:08.760451045Z",
+  "model": "glm-5.3"
+}

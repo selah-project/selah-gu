@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 17:15",
+  "book": "jeremiah",
+  "lang": "gu",
+  "chapter": 17,
+  "translation": "જુઓ, તે મને કહે છે: “યાહવેનો વચન ક્યાં છે? આવવા દો ને હવે!”",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "જુઓ"
+    },
+    {
+      "surface": "המה",
+      "gloss": "તે"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "કહે છે"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "મને"
+    },
+    {
+      "surface": "איה",
+      "gloss": "ક્યાં છે"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "વચન"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવેનો"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "આવવા દો"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ને હવે"
+    }
+  ],
+  "timestamp": "2026-08-21T14:55:12.346083696Z",
+  "model": "glm-5.3"
+}

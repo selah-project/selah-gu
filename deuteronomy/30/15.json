@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 30:15",
+  "book": "deuteronomy",
+  "lang": "gu",
+  "chapter": 30,
+  "translation": "જુઓ, મેં આજે તારી સામે મૂક્યાં છે ⟨את⟩ જીવન અને ⟨את⟩ ભલાઈ, અને ⟨את⟩ મૃત્યુ અને ⟨את⟩ અનિષ્ટ.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "જુઓ"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "મેં મૂક્યાં છે"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "તારી સામે"
+    },
+    {
+      "surface": "היום",
+      "gloss": "આજે"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "જીવન"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "જીવન"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "અને ⟨את⟩",
+      "marks": "ભલાઈ"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "ભલાઈ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "અને ⟨את⟩",
+      "marks": "મૃત્યુ"
+    },
+    {
+      "surface": "המות",
+      "gloss": "મૃત્યુ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "અને ⟨את⟩",
+      "marks": "અનિષ્ટ"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "અનિષ્ટ"
+    }
+  ],
+  "timestamp": "2026-08-21T12:28:53.607173902Z",
+  "model": "glm-5.3"
+}

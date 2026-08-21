@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 29:6",
+  "book": "exodus",
+  "lang": "gu",
+  "chapter": 29,
+  "translation": "અને તું પાઘડી તેના માથા પર મૂંબીશ, અને પાઘડી પર પવિત્ર મુગટ મૂંબીશ.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "અને મૂંબીશ"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "પાઘડી"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "તેના માથા"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "અને મૂંબીશ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "મુગટ"
+    },
+    {
+      "surface": "נזר",
+      "gloss": "મુગટ"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "પવિત્ર"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "પાઘડી"
+    }
+  ],
+  "timestamp": "2026-08-21T11:22:08.560019594Z",
+  "model": "glm-5.3"
+}

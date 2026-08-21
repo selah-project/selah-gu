@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "ezekiel 36:34",
+  "book": "ezekiel",
+  "lang": "gu",
+  "chapter": 36,
+  "translation": "અને ઉજ્જડ થયેલી ⟨the⟩ જમીન ખેડાશે, જે દરેક પસાર થનારની આંખો સામે ઉજ્જડ પડી હતી તેના બદલે.",
+  "tokens": [
+    {
+      "surface": "והארץ",
+      "gloss": "અને જમીન"
+    },
+    {
+      "surface": "הנשמה",
+      "gloss": "ઉજ્જડ થયેલી"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "ખેડાશે"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "બદલે"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જે"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "હતી"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "ઉજ્જડ"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "આંખો સામે"
+    },
+    {
+      "surface": "כל",
+      "gloss": "દરેક"
+    },
+    {
+      "surface": "עובר",
+      "gloss": "પસાર થનાર"
+    }
+  ],
+  "timestamp": "2026-08-21T15:37:24.219085337Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 140:3",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 140,
+  "translation": "જે હૃદયમાં દુષ્ટતાઓ ઘડે છે, દરરોજ યુદ્ધો માટે ભેગા થાય છે.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "જે"
+    },
+    {
+      "surface": "חשבו",
+      "gloss": "ઘડે છે"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "દુષ્ટતાઓ"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "હૃદયમાં"
+    },
+    {
+      "surface": "כל",
+      "gloss": "દરરોજ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "દર"
+    },
+    {
+      "surface": "יגורו",
+      "gloss": "ભેગા થાય છે"
+    },
+    {
+      "surface": "מלחמות",
+      "gloss": "યુદ્ધો માટે"
+    }
+  ],
+  "timestamp": "2026-08-21T16:48:14.764297451Z",
+  "model": "glm-5.3"
+}

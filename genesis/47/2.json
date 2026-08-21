@@ -1,0 +1,17 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 47:2",
+  "book": "genesis",
+  "lang": "gu",
+  "chapter": 47,
+  "translation": "અને તેના ભાઈઓમાંથી તેણે પાંચ પુરુષો લીધા, અને તેમને ફારોની સમક્ષ રજૂ કર્યા.",
+  "tokens": [
+    {
+      "surface": "ויציגם-placeholder",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-21T18:35:08.786629275Z",
+  "model": "glm-5.3"
+}

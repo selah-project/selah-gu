@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 96:12",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 96,
+  "translation": "ખેતર ઉછળી પડે અને તેમાંનું સર્વ; ત્યારે વનનાં બધાં વૃક્ષો રાગ અલાપશે.",
+  "tokens": [
+    {
+      "surface": "יעלז",
+      "gloss": "ઉછળી પડે"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "ખેતર"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "અને સર્વ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જે"
+    },
+    {
+      "surface": "בו",
+      "gloss": "તેમાંનું"
+    },
+    {
+      "surface": "אז",
+      "gloss": "ત્યારે"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "રાગ અલાપશે"
+    },
+    {
+      "surface": "כל",
+      "gloss": "બધાં"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "વૃક્ષો"
+    },
+    {
+      "surface": "יער",
+      "gloss": "વનનાં"
+    }
+  ],
+  "timestamp": "2026-08-21T16:36:32.267089244Z",
+  "model": "glm-5.3"
+}

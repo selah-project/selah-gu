@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 5:17",
+  "book": "genesis",
+  "lang": "gu",
+  "chapter": 5,
+  "translation": "અને મહલલેલનાં બધાં દિવસો પાંચ અને નેવું વર્ષ અને આઠસો વર્ષ થયાં, અને ⟨તે⟩ મર્યો.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "થયાં"
+    },
+    {
+      "surface": "כל",
+      "gloss": "બધાં"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "દિવસો"
+    },
+    {
+      "surface": "מהללאל",
+      "gloss": "મહલલેલ"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "પાંચ"
+    },
+    {
+      "surface": "ותשעים",
+      "gloss": "અને નેવું"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "વર્ષ"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "અને આઠ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "સો"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "વર્ષ"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "મર્યો"
+    }
+  ],
+  "timestamp": "2026-08-21T10:39:18.125066397Z",
+  "model": "glm-5.3"
+}

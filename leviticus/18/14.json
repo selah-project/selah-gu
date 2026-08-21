@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 18:14",
+  "book": "leviticus",
+  "lang": "gu",
+  "chapter": 18,
+  "translation": "તારા પિતાના ભાઈની નગ્નતા તું ઉઘાડીશ નહિ; ⟨તેની⟩ પત્ની પાસે નજીક ન જઈશ; તે તારી માસી ⟨છે⟩.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "નગ્નતા"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "ભાઈની"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "તારા પિતાના"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નહિ"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "તું ઉઘાડીશ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "પાસે"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "⟨તેની⟩ પત્ની"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નહિ"
+    },
+    {
+      "surface": "תקרב",
+      "gloss": "નજીક ન જઈશ"
+    },
+    {
+      "surface": "דדתך",
+      "gloss": "તારી માસી"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "તે"
+    }
+  ],
+  "timestamp": "2026-08-21T11:39:55.074561777Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 8:19",
+  "book": "leviticus",
+  "lang": "gu",
+  "chapter": 8,
+  "translation": "અને તેને વધેર્યું, અને મોશેએ ⟨את⟩ લોહી વેદી પર ચારે તરફ છંટકાવ્યું.",
+  "tokens": [
+    {
+      "surface": "וישחט",
+      "gloss": "અને તેને વધેર્યું"
+    },
+    {
+      "surface": "ויזרק",
+      "gloss": "અને છંટકાવ્યું"
+    },
+    {
+      "surface": "משה",
+      "gloss": "મોશેએ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "લોહી"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "લોહી"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "વેદી"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ચારે તરફ"
+    }
+  ],
+  "timestamp": "2026-08-21T11:34:23.794905864Z",
+  "model": "glm-5.3"
+}

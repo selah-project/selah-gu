@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zechariah 4:3",
+  "book": "zechariah",
+  "lang": "gu",
+  "chapter": 4,
+  "translation": "અને તેની પર બે જૈતૂન વૃક્ષ છે, એક ગોળ પાત્રની જમણી બાજુ પર અને એક તેની ડાબી બાજુ પર.",
+  "tokens": [
+    {
+      "surface": "ושנים",
+      "gloss": "અને બે"
+    },
+    {
+      "surface": "זיתים",
+      "gloss": "જૈતૂન વૃક્ષ"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "તેની પર"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "એક"
+    },
+    {
+      "surface": "מימין",
+      "gloss": "જમણી બાજુ પર"
+    },
+    {
+      "surface": "הגלה",
+      "gloss": "ગોળ પાત્રની"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "અને એક"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "שמאלה",
+      "gloss": "તેની ડાબી બાજુ"
+    }
+  ],
+  "timestamp": "2026-08-21T16:04:57.058985451Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "ecclesiastes 7:27",
+  "book": "ecclesiastes",
+  "lang": "gu",
+  "chapter": 7,
+  "translation": "જુઓ, આ મેં શોધ્યું, કહે છે કોહેલેત; એક પછી એક, હિસાબ શોધવા.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "જુઓ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "આ"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "મેં શોધ્યું"
+    },
+    {
+      "surface": "אמרה",
+      "gloss": "કહે છે"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "કોહેલેત"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "એક"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "પછી એક"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "શોધવા"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "હિસાબ"
+    }
+  ],
+  "timestamp": "2026-08-21T17:30:58.877187714Z",
+  "model": "glm-5.3"
+}

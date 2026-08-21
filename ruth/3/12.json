@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ruth 3:12",
+  "book": "ruth",
+  "lang": "gu",
+  "chapter": 3,
+  "translation": "અને હવે, ખરેખર, હું ઉદ્ધારક બંધુ ⟨છું⟩, તો પણ મારા કરતાં નજીકનો ઉદ્ધારક બંધુ પણ છે.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "અને હવે"
+    },
+    {
+      "surface": "כי",
+      "gloss": "કે"
+    },
+    {
+      "surface": "אמנם",
+      "gloss": "ખરેખર"
+    },
+    {
+      "surface": "כי",
+      "gloss": "કે"
+    },
+    {
+      "surface": "אם",
+      "gloss": "પણ"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "ઉદ્ધારક બંધુ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "હું"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "તો પણ"
+    },
+    {
+      "surface": "יש",
+      "gloss": "છે"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "ઉદ્ધારક બંધુ"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "નજીકનો"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "મારા કરતાં"
+    }
+  ],
+  "timestamp": "2026-08-21T17:23:33.498994685Z",
+  "model": "glm-5.3"
+}

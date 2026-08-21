@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 14:7",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 14,
+  "translation": "મૂર્ખ માણસની સામેથી જા, કેમ કે ત્યાં જ્ઞાનના હોઠ તું જાણતું નથી.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "જા"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "સામેથી"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "માણસની"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "મૂર્ખ"
+    },
+    {
+      "surface": "ובל",
+      "gloss": "કેમ કે નહીં"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "તું જાણતું નથી"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "હોઠ"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "જ્ઞાનના"
+    }
+  ],
+  "timestamp": "2026-08-21T16:56:25.568096348Z",
+  "model": "glm-5.3"
+}

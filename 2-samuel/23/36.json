@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "2-samuel 23:36",
+  "book": "2-samuel",
+  "lang": "gu",
+  "chapter": 23,
+  "translation": "યિગાલ નાતાનનો પુત્ર, ત્સોવાહથી; બાની ⟨the⟩ ગાદી.",
+  "tokens": [
+    {
+      "surface": "יגאל",
+      "gloss": "યિગાલ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "પુત્ર"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "નાતાનનો"
+    },
+    {
+      "surface": "מצבה",
+      "gloss": "ત્સોવાહથી"
+    },
+    {
+      "surface": "בני",
+      "gloss": "બાની"
+    },
+    {
+      "surface": "הגדי",
+      "gloss": "ગાદી"
+    }
+  ],
+  "timestamp": "2026-08-21T13:34:14.322759866Z",
+  "model": "glm-5.3"
+}

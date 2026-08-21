@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 6:6",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 6,
+  "translation": "કેમ કે મરણમાં તમારું સ્મરણ નથી; શેઓલમાં તમારી પ્રશંસા કોણ કરશે?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "કેમ કે"
+    },
+    {
+      "surface": "אין",
+      "gloss": "નથી"
+    },
+    {
+      "surface": "במות",
+      "gloss": "મરણમાં"
+    },
+    {
+      "surface": "זכרך",
+      "gloss": "તમારું સ્મરણ"
+    },
+    {
+      "surface": "בשאול",
+      "gloss": "શેઓલમાં"
+    },
+    {
+      "surface": "מי",
+      "gloss": "કોણ"
+    },
+    {
+      "surface": "יודה",
+      "gloss": "પ્રશંસા કરશે"
+    },
+    {
+      "surface": "לך",
+      "gloss": "તમારી"
+    }
+  ],
+  "timestamp": "2026-08-21T16:10:01.425032645Z",
+  "model": "glm-5.3"
+}

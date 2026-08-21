@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 51:14",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 51,
+  "translation": "તારા મુક્તિનો આનંદ મને પાછો આપ, અને ઉદાર આત્મા મને ટેકો આપે.",
+  "tokens": [
+    {
+      "surface": "השיבה",
+      "gloss": "પાછો આપ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "મને"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "આનંદ"
+    },
+    {
+      "surface": "ישעך",
+      "gloss": "તારા મુક્તિનો"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "અને આત્મા"
+    },
+    {
+      "surface": "נדיבה",
+      "gloss": "ઉદાર"
+    },
+    {
+      "surface": "תסמכני",
+      "gloss": "મને ટેકો આપે"
+    }
+  ],
+  "timestamp": "2026-08-21T18:56:48.785458726Z",
+  "model": "glm-5.3"
+}

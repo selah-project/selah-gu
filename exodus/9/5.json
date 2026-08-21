@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 9:5",
+  "book": "exodus",
+  "lang": "gu",
+  "chapter": 9,
+  "translation": "અને યાહવેએ એક નિયત સમય નક્કી કર્યો, કહેતા, કાલે યાહવે આ વાત ⟨આ⟩ દેશમાં કરશે.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "નક્કી કર્યો"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવેએ"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "નિયત સમય"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "કહેતા"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "કાલે"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "કરશે"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "વાત"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "આ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "દેશમાં"
+    }
+  ],
+  "timestamp": "2026-08-21T11:10:23.196207621Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 2:9",
+  "book": "isaiah",
+  "lang": "gu",
+  "chapter": 2,
+  "translation": "અને માણસ નમી ગયો, અને પુરુષ નીચો થયો; તેમને ⟨માફ⟩ ન કર.",
+  "tokens": [
+    {
+      "surface": "וישח",
+      "gloss": "અને નમી ગયો"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "માણસ"
+    },
+    {
+      "surface": "וישפל",
+      "gloss": "અને નીચો થયો"
+    },
+    {
+      "surface": "איש",
+      "gloss": "પુરુષ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "અને નહીં"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "માફ કર"
+    },
+    {
+      "surface": "להם",
+      "gloss": "તેમને"
+    }
+  ],
+  "timestamp": "2026-08-21T14:10:03.407244250Z",
+  "model": "glm-5.3"
+}

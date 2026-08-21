@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "deuteronomy 32:44",
+  "book": "deuteronomy",
+  "lang": "gu",
+  "chapter": 32,
+  "translation": "અને મોશે આવ્યો અને આ ગીતનાં બધાં ⟨את⟩ શબ્દો લોકોના કાને બોલ્યો, તે અને હોશેયા નૂનનો પુત્ર.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "અને આવ્યો"
+    },
+    {
+      "surface": "משה",
+      "gloss": "મોશે"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "અને બોલ્યો"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "બધાં શબ્દો"
+    },
+    {
+      "surface": "כל",
+      "gloss": "બધાં"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "શબ્દો"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "આ ગીતનાં"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "આ"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "કાને"
+    },
+    {
+      "surface": "העם",
+      "gloss": "લોકોના"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "તે"
+    },
+    {
+      "surface": "והושע",
+      "gloss": "અને હોશેયા"
+    },
+    {
+      "surface": "בן",
+      "gloss": "પુત્ર"
+    },
+    {
+      "surface": "נון",
+      "gloss": "નૂનનો"
+    }
+  ],
+  "timestamp": "2026-08-21T12:30:42.494258905Z",
+  "model": "glm-5.3"
+}

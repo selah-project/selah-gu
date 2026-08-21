@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 30:11",
+  "book": "genesis",
+  "lang": "gu",
+  "chapter": 30,
+  "translation": "અને લેઆહે કહ્યું, “ભાગ્ય આવ્યું!” અને તેણીએ ⟨את⟩ તેનું નામ ગાદ રાખ્યું.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "કહ્યું"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "લેઆહે"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "ભાગ્ય"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "નામ રાખ્યું"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "તેનું નામ"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "તેનું નામ"
+    },
+    {
+      "surface": "גד",
+      "gloss": "ગાદ"
+    }
+  ],
+  "timestamp": "2026-08-21T10:51:43.479896950Z",
+  "model": "glm-5.3"
+}

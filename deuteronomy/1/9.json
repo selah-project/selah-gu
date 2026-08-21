@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 1:9",
+  "book": "deuteronomy",
+  "lang": "gu",
+  "chapter": 1,
+  "translation": "અને હું તે સમયે તમને કહેવા લાગ્યો: હું મારા જ પણ તમને ⟨את⟩ ઊંચકી શકતો નથી.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "અને હું કહેવા લાગ્યો"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "તમને"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "તે સમયે"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "તે"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "કહેવા"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નથી"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "શકતો"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "મારા જ"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "ઊંચકી"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "તમને"
+    }
+  ],
+  "timestamp": "2026-08-21T18:37:30.713226937Z",
+  "model": "glm-5.3"
+}

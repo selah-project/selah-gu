@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 16:30",
+  "book": "exodus",
+  "lang": "gu",
+  "chapter": 16,
+  "translation": "અને પ્રજાએ સાતમા દિવસે વિશ્રામ કર્યો.",
+  "tokens": [
+    {
+      "surface": "וישבתו",
+      "gloss": "વિશ્રામ કર્યો"
+    },
+    {
+      "surface": "העם",
+      "gloss": "પ્રજાએ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "દિવસે"
+    },
+    {
+      "surface": "השבעי",
+      "gloss": "સાતમા"
+    }
+  ],
+  "timestamp": "2026-08-21T11:14:47.379244081Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 7:26",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 7,
+  "translation": "એક સોનાની કરછુલ, દસ ⟨શેકલ⟩, ધૂપથી ભરેલી।",
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "કરછુલ"
+    },
+    {
+      "surface": "ઢ",
+      "gloss": ""
+    },
+    {
+      "surface": "אחת",
+      "gloss": "એક"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "દસ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "સોનાની"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "ભરેલી"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "ધૂપ"
+    }
+  ],
+  "timestamp": "2026-08-21T11:51:16.970488807Z",
+  "model": "glm-5.3"
+}

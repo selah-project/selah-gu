@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 36:1",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 36,
+  "translation": "વાદક-પ્રમુખ માટે; યાહવેના સેવક દાઉદ માટે.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "વાદક-પ્રમુખ માટે"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "સેવક માટે"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "દાઉદ માટે"
+    }
+  ],
+  "timestamp": "2026-08-21T18:55:18.025481276Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 8:20",
+  "book": "jeremiah",
+  "lang": "gu",
+  "chapter": 8,
+  "translation": "કાપણી વીતી ગઈ, ઉનાળો સમાપ્ત થયો, અને અમે બચાવ્યા નથી.",
+  "tokens": [
+    {
+      "surface": "עבר",
+      "gloss": "વીતી ગઈ"
+    },
+    {
+      "surface": "ધદיר",
+      "gloss": "કાપણી"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "સમાપ્ત થયો"
+    },
+    {
+      "surface": "קיץ",
+      "gloss": "ઉનાળો"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "અને અમે"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "નથી"
+    },
+    {
+      "surface": "נושענו",
+      "gloss": "બચાવ્યા"
+    }
+  ],
+  "timestamp": "2026-08-21T14:50:20.958156336Z",
+  "model": "glm-5.3"
+}

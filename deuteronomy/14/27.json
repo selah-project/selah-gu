@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "deuteronomy 14:27",
+  "book": "deuteronomy",
+  "lang": "gu",
+  "chapter": 14,
+  "translation": "અને લેવીયો, જે તારા દરવાજાઓમાં છે, તેને ન છોડીશ; કારણ કે તારી સાથે તેને કોઈ ભાગ કે વિરાસત નથી.",
+  "tokens": [
+    {
+      "surface": "והלוי",
+      "gloss": "અને લેવીયો"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જે"
+    },
+    {
+      "surface": "בשעריך",
+      "gloss": "તારા દરવાજાઓમાં"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ન"
+    },
+    {
+      "surface": "תעזבנו",
+      "gloss": "છોડીશ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "કારણ કે"
+    },
+    {
+      "surface": "אין",
+      "gloss": "નથી"
+    },
+    {
+      "surface": "לו",
+      "gloss": "તેને"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "ભાગ"
+    },
+    {
+      "surface": "ונחלה",
+      "gloss": "અને વિરાસત"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "તારી સાથે"
+    }
+  ],
+  "timestamp": "2026-08-21T12:20:05.805259499Z",
+  "model": "glm-5.3"
+}

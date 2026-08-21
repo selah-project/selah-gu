@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "zechariah 6:9",
+  "book": "zechariah",
+  "lang": "gu",
+  "chapter": 6,
+  "translation": "અને યાહવેનો સંદેશો મારી પાસે આવ્યો, કહેતા:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "અને આવ્યો"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "સંદેશો"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવેનો"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "મારી પાસે"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "કહેતા"
+    }
+  ],
+  "timestamp": "2026-08-21T16:04:16.576227755Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 32:9",
+  "book": "deuteronomy",
+  "lang": "gu",
+  "chapter": 32,
+  "translation": "કેમ કે યાહવેનો ભાગ ⟨એ⟩ ⟨તેનો⟩ લોક ⟨છે⟩; યાકોબ ⟨એ⟩ ⟨તેની⟩ વિરાધિ-માપડીની વિરાધિ ⟨છે⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "કેમ કે"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "ભાગ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "તેનો લોક"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "યાકોબ"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "માપડી (ભાગ-પંચ)"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "તેની વિરાધિ"
+    }
+  ],
+  "timestamp": "2026-08-21T12:30:28.012185667Z",
+  "model": "glm-5.3"
+}

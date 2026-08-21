@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 23:20",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 23,
+  "translation": "ઉઝ્ઝીએલના પુત્રો — મીખાહ ⟨the⟩ પ્રથમ અને યિશ્શીયાહ ⟨the⟩ બીજો.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "עזיאל",
+      "gloss": "ઉઝ્ઝીએલના"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "મીખાહ"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "પ્રથમ"
+    },
+    {
+      "surface": "וישיה",
+      "gloss": "અને... યિશ્શીયાહ"
+    },
+    {
+      "surface": "השני",
+      "gloss": "બીજો"
+    }
+  ],
+  "timestamp": "2026-08-21T18:11:24.215370125Z",
+  "model": "glm-5.3"
+}

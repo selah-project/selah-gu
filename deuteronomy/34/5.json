@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 34:5",
+  "book": "deuteronomy",
+  "lang": "gu",
+  "chapter": 34,
+  "translation": "અને યાહવેના સેવક મોશે ત્યાં મિત્સરાયિમ નહીં — મોઆવની ભૂમિમાં યાહવેના મુખ પ્રમાણે મરણ પામ્યો.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "મરણ પામ્યો"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ત્યાં"
+    },
+    {
+      "surface": "משה",
+      "gloss": "મોશે"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "સેવક"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ભૂમિમાં"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "મોઆવની"
+    },
+    {
+      "surface": "על",
+      "gloss": "પ્રમાણે"
+    },
+    {
+      "surface": "פי",
+      "gloss": "મુખ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવેના"
+    }
+  ],
+  "timestamp": "2026-08-21T12:31:36.267215879Z",
+  "model": "glm-5.3"
+}

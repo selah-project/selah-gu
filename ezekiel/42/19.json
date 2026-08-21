@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezekiel 42:19",
+  "book": "ezekiel",
+  "lang": "gu",
+  "chapter": 42,
+  "translation": "પશ્ચિમ દિશા તરફ ફરીને ⟨તેણે⟩ માપી — પાંચસો કાઠિયા, માપના કાઠિયાથી.",
+  "tokens": [
+    {
+      "surface": "סבב",
+      "gloss": "ફરીને"
+    },
+    {
+      "surface": "אל",
+      "gloss": "તરફ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "દિશા"
+    },
+    {
+      "surface": "הים",
+      "gloss": "પશ્ચિમ (સમુદ્ર)"
+    },
+    {
+      "surface": "מדד",
+      "gloss": "માપી"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "પાંચ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "સો"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "કાઠિયા"
+    },
+    {
+      "surface": "בקנה",
+      "gloss": "કાઠિયાથી"
+    },
+    {
+      "surface": "המדה",
+      "gloss": "માપના"
+    }
+  ],
+  "timestamp": "2026-08-21T15:41:05.130319923Z",
+  "model": "glm-5.3"
+}

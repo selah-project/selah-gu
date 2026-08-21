@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "daniel 1:14",
+  "book": "daniel",
+  "lang": "gu",
+  "chapter": 1,
+  "translation": "અને તેણે આ ⟨ה⟩ વાત પ્રમાણે તેમને સાંભળ્યા, અને દસ દિવસ તેમની કસોટી કરી.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "સાંભળ્યા"
+    },
+    {
+      "surface": "להם",
+      "gloss": "તેમને"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "વાત પ્રમાણે"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "આ"
+    },
+    {
+      "surface": "וינסם",
+      "gloss": "કસોટી કરી"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "દિવસ"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "દસ"
+    }
+  ],
+  "timestamp": "2026-08-21T17:35:57.081479644Z",
+  "model": "glm-5.3"
+}

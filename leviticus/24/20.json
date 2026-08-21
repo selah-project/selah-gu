@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 24:20",
+  "book": "leviticus",
+  "lang": "gu",
+  "chapter": 24,
+  "translation": "ભંગ ભંગના બદલે, આંખ આંખના બદલે, દાંત દાંતના બદલે; જેમ તેણે માણસમાં ક્ષતિ પહોંચાડી હોય તેમ જ તેની સાથે કરવામાં આવશે.",
+  "tokens": [
+    {
+      "surface": "שבר",
+      "gloss": "ભંગ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ના બદલે"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "ભંગ"
+    },
+    {
+      "surface": "עין",
+      "gloss": "આંખ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ના બદલે"
+    },
+    {
+      "surface": "עין",
+      "gloss": "આંખ"
+    },
+    {
+      "surface": "שן",
+      "gloss": "દાંત"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ના બદલે"
+    },
+    {
+      "surface": "שן",
+      "gloss": "દાંત"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "જેમ"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "પહોંચાડી હોય"
+    },
+    {
+      "surface": "מום",
+      "gloss": "ક્ષતિ"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "માણસમાં"
+    },
+    {
+      "surface": "כן",
+      "gloss": "તેમ જ"
+    },
+    {
+      "surface": "ינתן",
+      "gloss": "કરવામાં આવશે"
+    },
+    {
+      "surface": "בו",
+      "gloss": "તેની સાથે"
+    }
+  ],
+  "timestamp": "2026-08-21T11:44:33.577332671Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 27:2",
+  "book": "isaiah",
+  "lang": "gu",
+  "chapter": 27,
+  "translation": "તે દિવસે ⟨કહો⟩: મનોહર દ્રાક્ષાવાડો — તેને સંબોધો.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "તે દિવસે"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "તે"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "દ્રાક્ષાવાડો"
+    },
+    {
+      "surface": "חמד",
+      "gloss": "મનોહર"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "સંબોધો"
+    },
+    {
+      "surface": "לה",
+      "gloss": "તેને"
+    }
+  ],
+  "timestamp": "2026-08-21T14:23:26.013726704Z",
+  "model": "glm-5.3"
+}

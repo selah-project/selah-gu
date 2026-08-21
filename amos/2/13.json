@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "amos 2:13",
+  "book": "amos",
+  "lang": "gu",
+  "chapter": 2,
+  "translation": "જુઓ, હું તમારી નીચે દબાવીશ, જેમ શેઢાથી ભરેલી ગાડી દબાય છે તેમ.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "જુઓ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "હું"
+    },
+    {
+      "surface": "מעיק",
+      "gloss": "દબાવીશ"
+    },
+    {
+      "surface": "תחתיכם",
+      "gloss": "તમારી નીચે"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "જેમ"
+    },
+    {
+      "surface": "תעיק",
+      "gloss": "દબાય છે"
+    },
+    {
+      "surface": "העגלה",
+      "gloss": "ગાડી"
+    },
+    {
+      "surface": "המלאה",
+      "gloss": "ભરેલી"
+    },
+    {
+      "surface": "לה",
+      "gloss": "પોતાના માટે"
+    },
+    {
+      "surface": "עמיר",
+      "gloss": "શેઢાથી"
+    }
+  ],
+  "timestamp": "2026-08-21T15:49:59.968211851Z",
+  "model": "glm-5.3"
+}

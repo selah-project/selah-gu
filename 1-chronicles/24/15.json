@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 24:15",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 24,
+  "translation": "સતરમાં હેઝીર માટે, અઢારમાં હાપ્પિત્સેસ માટે।",
+  "tokens": [
+    {
+      "surface": "לחזיר",
+      "gloss": "હેઝીર માટે"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "સાત"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "-તરમાં (દસ)"
+    },
+    {
+      "surface": "להפצץ",
+      "gloss": "હાપ્પિત્સેસ માટે"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "આઠ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "-ઢારમાં (દસ)"
+    }
+  ],
+  "timestamp": "2026-08-21T18:11:02.193811399Z",
+  "model": "glm-5.3"
+}

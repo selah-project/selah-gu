@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 69:26",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 69,
+  "translation": "તેમના નિવાસસ્થાન ઉજ્જડ થાય, અને તેમના તંબુઓમાં કોઈ વસનાર ન હોય.",
+  "tokens": [
+    {
+      "surface": "תהי",
+      "gloss": "થાય"
+    },
+    {
+      "surface": "טירתם",
+      "gloss": "તેમના નિવાસસ્થાન"
+    },
+    {
+      "surface": "נשמה",
+      "gloss": "ઉજ્જડ"
+    },
+    {
+      "surface": "באהליהם",
+      "gloss": "તેમના તંબુઓમાં"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ન"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "હોય"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "વસનાર"
+    }
+  ],
+  "timestamp": "2026-08-21T16:28:12.525262130Z",
+  "model": "glm-5.3"
+}

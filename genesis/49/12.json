@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 49:12",
+  "book": "genesis",
+  "lang": "gu",
+  "chapter": 49,
+  "translation": "દ્રાક્ષારસથી ⟨તેની⟩ આંખો લાલ-ઝળહળતી છે, અને દૂધથી દાંત સફેદ છે.",
+  "tokens": [
+    {
+      "surface": "חכלילי",
+      "gloss": "લાલ-ઝળહળતી"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "આંખો"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "દ્રાક્ષારસથી"
+    },
+    {
+      "surface": "ולבן",
+      "gloss": "અને સફેદ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "દાંત"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "દૂધથી"
+    }
+  ],
+  "timestamp": "2026-08-21T11:05:10.437797985Z",
+  "model": "glm-5.3"
+}

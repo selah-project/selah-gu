@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "nehemiah 10:20",
+  "book": "nehemiah",
+  "lang": "gu",
+  "chapter": 10,
+  "translation": "ખરીફ, અનાતોત, નોવાય,",
+  "tokens": [
+    {
+      "surface": "חריף",
+      "gloss": "ખરીફ"
+    },
+    {
+      "surface": "ענתות",
+      "gloss": "અનાતોત"
+    },
+    {
+      "surface": "נובי",
+      "gloss": "નોવાય"
+    }
+  ],
+  "timestamp": "2026-08-21T17:56:40.539464471Z",
+  "model": "glm-5.3"
+}

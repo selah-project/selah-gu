@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "proverbs 8:33",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 8,
+  "translation": "શિક્ષા સાંભળો અને ડાહ્યા થાઓ, અને તેનો તિરસ્કાર ન કરો.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "સાંભળો"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "શિક્ષા"
+    },
+    {
+      "surface": "וחכמו",
+      "gloss": "અને ડાહ્યા થાઓ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "અને ન"
+    },
+    {
+      "surface": "תפרעו",
+      "gloss": "તિરસ્કાર કરો"
+    }
+  ],
+  "timestamp": "2026-08-21T16:53:55.032888300Z",
+  "model": "glm-5.3"
+}

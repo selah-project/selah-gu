@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 13:16",
+  "book": "leviticus",
+  "lang": "gu",
+  "chapter": 13,
+  "translation": "અથવા જો જીવંત માંસ પાછું ફરે અને સફેદ થઈ જાય, તો તે યાજક પાસે આવશે.",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "અથવા"
+    },
+    {
+      "surface": "כי",
+      "gloss": "જો"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "પાછું ફરે"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "માંસ"
+    },
+    {
+      "surface": "החי",
+      "gloss": "જીવંત"
+    },
+    {
+      "surface": "ונהפך",
+      "gloss": "અને થઈ જાય"
+    },
+    {
+      "surface": "ללבן",
+      "gloss": "સફેદ"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "તો આવશે"
+    },
+    {
+      "surface": "אל",
+      "gloss": "પાસે"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "યાજક"
+    }
+  ],
+  "timestamp": "2026-08-21T11:36:28.107068407Z",
+  "model": "glm-5.3"
+}

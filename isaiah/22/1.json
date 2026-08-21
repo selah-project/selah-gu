@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 22:1",
+  "book": "isaiah",
+  "lang": "gu",
+  "chapter": 22,
+  "translation": "ખીણના દર્શનનો ભાર. હવે તમને શું થયું છે, કે તમે સૌ છતો પર ચડી ગયા છો?",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "ભાર"
+    },
+    {
+      "surface": "גיא",
+      "gloss": "ખીણના"
+    },
+    {
+      "surface": "חזיון",
+      "gloss": "દર્શનનો"
+    },
+    {
+      "surface": "מה",
+      "gloss": "શું"
+    },
+    {
+      "surface": "לך",
+      "gloss": "તમને"
+    },
+    {
+      "surface": "אפוא",
+      "gloss": "હવે"
+    },
+    {
+      "surface": "כי",
+      "gloss": "કે"
+    },
+    {
+      "surface": "עלית",
+      "gloss": "ચડી ગયા છો"
+    },
+    {
+      "surface": "כלך",
+      "gloss": "તમે સૌ"
+    },
+    {
+      "surface": "לגגות",
+      "gloss": "છતો પર"
+    }
+  ],
+  "timestamp": "2026-08-21T14:21:21.612179075Z",
+  "model": "glm-5.3"
+}

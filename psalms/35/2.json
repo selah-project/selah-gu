@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 35:2",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 35,
+  "translation": "નાની ઢાલ અને મોટી ઢાલ પકડો, અને મારી મદદ ⟨માટે⟩ ઊઠો.",
+  "tokens": [
+    {
+      "surface": "החזק",
+      "gloss": "પકડો"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "નાની ઢાલ"
+    },
+    {
+      "surface": "וצנה",
+      "gloss": "અને મોટી ઢાલ"
+    },
+    {
+      "surface": "וקומה",
+      "gloss": "અને ઊઠો"
+    },
+    {
+      "surface": "בעזרתי",
+      "gloss": "મારી મદદ માટે"
+    }
+  ],
+  "timestamp": "2026-08-21T16:19:19.001649030Z",
+  "model": "glm-5.3"
+}

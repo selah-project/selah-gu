@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 122,
+  "ref": "psalms 119:122",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 119,
+  "translation": "તમારા દાસ માટે ભલાઈની જામીનત બનો; ઘમંડીઓ મને દબાવતા ન પામે.",
+  "tokens": [
+    {
+      "surface": "ערב",
+      "gloss": "જામીનત બનો"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "તમારા દાસ"
+    },
+    {
+      "surface": "לטוב",
+      "gloss": "ભલાઈ માટે"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ન"
+    },
+    {
+      "surface": "יעשקני",
+      "gloss": "તે મને દબાવે"
+    },
+    {
+      "surface": "זדים",
+      "gloss": "ઘમંડીઓ"
+    }
+  ],
+  "timestamp": "2026-08-21T16:45:10.358246089Z",
+  "model": "glm-5.3"
+}

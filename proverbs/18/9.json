@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 18:9",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 18,
+  "translation": "પોતાના કામમાં વેરવિખેર થયેલો પણ વિનાશકર્તાનો ભાઈ જ છે.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "પણ"
+    },
+    {
+      "surface": "מתרפה",
+      "gloss": "વેરવિખેર થયેલો"
+    },
+    {
+      "surface": "במלאכתו",
+      "gloss": "પોતાના કામમાં"
+    },
+    {
+      "surface": "אח",
+      "gloss": "ભાઈ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "છે"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "નો"
+    },
+    {
+      "surface": "משחית",
+      "gloss": "વિનાશકર્તા"
+    }
+  ],
+  "timestamp": "2026-08-21T16:57:19.277137696Z",
+  "model": "glm-5.3"
+}

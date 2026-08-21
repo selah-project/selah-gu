@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 6:8",
+  "book": "ecclesiastes",
+  "lang": "gu",
+  "chapter": 6,
+  "translation": "કારણ કે જ્ઞાનીને મૂર્ખ કરતાં શું વધારે છે? જીવતાંની સામે ચાલવું જાણનાર દરિદ્રીને શું છે?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "કારણ કે"
+    },
+    {
+      "surface": "מה",
+      "gloss": "શું"
+    },
+    {
+      "surface": "יותר",
+      "gloss": "વધારે"
+    },
+    {
+      "surface": "לחכם",
+      "gloss": "જ્ઞાનીને"
+    },
+    {
+      "surface": "מן",
+      "gloss": "કરતાં"
+    },
+    {
+      "surface": "הכסיל",
+      "gloss": "મૂર્ખ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "શું"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "દરિદ્રીને"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "જાણનાર"
+    },
+    {
+      "surface": "להלך",
+      "gloss": "ચાલવું"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "સામે"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "જીવતાંની"
+    }
+  ],
+  "timestamp": "2026-08-21T17:31:34.933206216Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 11:4",
+  "book": "ezekiel",
+  "lang": "gu",
+  "chapter": 11,
+  "translation": "તેથી તેમની વિરુદ્ધ ભવિષ્યવાણી કર, ભવિષ્યવાણી કર, માનવપુત્ર.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "તેથી"
+    },
+    {
+      "surface": "הנבא",
+      "gloss": "ભવિષ્યવાણી કર"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "તેમની વિરુદ્ધ"
+    },
+    {
+      "surface": "הנבא",
+      "gloss": "ભવિષ્યવાણી કર"
+    },
+    {
+      "surface": "בן",
+      "gloss": "પુત્ર"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "માનવ"
+    }
+  ],
+  "timestamp": "2026-08-21T15:22:24.388847863Z",
+  "model": "glm-5.3"
+}

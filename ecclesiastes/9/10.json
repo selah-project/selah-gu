@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 9:10",
+  "book": "ecclesiastes",
+  "lang": "gu",
+  "chapter": 9,
+  "translation": "જે કંઈ તારો હાથ કરવાનું શોધે તે તારા બળથી કર; કેમ કે શેઓલમાં — જ્યાં તું જઈ રહ્યો છે — ન કામ ⟨છે⟩, ન વિચારણા, ન જ્ઞાન, ન ડહાપણ.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "જે કંઈ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જે"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "શોધે"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "તારો હાથ"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "કરવાનું"
+    },
+    {
+      "surface": "בכחך",
+      "gloss": "તારા બળથી"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "કર"
+    },
+    {
+      "surface": "כי",
+      "gloss": "કેમ કે"
+    },
+    {
+      "surface": "אין",
+      "gloss": "નથી\/ન"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "કામ"
+    },
+    {
+      "surface": "וחשבון",
+      "gloss": "ન વિચારણા"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "ન જ્ઞાન"
+    },
+    {
+      "surface": "וחכמה",
+      "gloss": "ન ડહાપણ"
+    },
+    {
+      "surface": "בשאול",
+      "gloss": "શેઓલમાં"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જ્યાં"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "તું"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "જઈ રહ્યો છે"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ત્યાં"
+    }
+  ],
+  "timestamp": "2026-08-21T17:32:17.790139742Z",
+  "model": "glm-5.3"
+}

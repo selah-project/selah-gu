@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 9:15",
+  "book": "2-chronicles",
+  "lang": "gu",
+  "chapter": 9,
+  "translation": "અને રાજા શલોમોહે ઠોકેલા સોનાની બે સો મોટી ઢાલ બનાવી — એક ઢાલ પર ઠોકેલા સોનાના છ સો શેકલ ચઢે.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "અને બનાવી"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "રાજાએ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "શલોમોહે"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "બે સો"
+    },
+    {
+      "surface": "צנה",
+      "gloss": "મોટી ઢાલ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "સોનાની"
+    },
+    {
+      "surface": "שחוט",
+      "gloss": "ઠોકેલા"
+    },
+    {
+      "surface": "שש",
+      "gloss": "છ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "સો"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "સોનાના"
+    },
+    {
+      "surface": "שחוט",
+      "gloss": "ઠોકેલા"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "ચઢે"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "הצנה",
+      "gloss": "ઢાલ"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "એક"
+    }
+  ],
+  "timestamp": "2026-08-21T18:18:51.551452870Z",
+  "model": "glm-5.3"
+}

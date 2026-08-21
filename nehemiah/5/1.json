@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "nehemiah 5:1",
+  "book": "nehemiah",
+  "lang": "gu",
+  "chapter": 5,
+  "translation": "અને પ્રજા અને તેમની સ્ત્રીઓની પોતાના ભાઈઓ યહૂદીઓ સામે મોટી ચીસ પડી.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "પડી"
+    },
+    {
+      "surface": "צעקת",
+      "gloss": "ચીસ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "પ્રજાની"
+    },
+    {
+      "surface": "ונשיהם",
+      "gloss": "અને તેમની સ્ત્રીઓની"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "મોટી"
+    },
+    {
+      "surface": "אל",
+      "gloss": "સામે"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "પોતાના ભાઈઓ"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "યહૂદીઓ"
+    }
+  ],
+  "timestamp": "2026-08-21T17:53:11.355461976Z",
+  "model": "glm-5.3"
+}

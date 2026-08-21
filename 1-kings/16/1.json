@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 16:1",
+  "book": "1-kings",
+  "lang": "gu",
+  "chapter": 16,
+  "translation": "અને યાહવેનો વચન હનાનીના પુત્ર યિહૂ પાસે બાશા વિરુદ્ધ આવ્યું, કહેતાં:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "અને આવ્યું"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "વચન"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવેનો"
+    },
+    {
+      "surface": "אל",
+      "gloss": "પાસે"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "યિહૂ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "પુત્ર"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "હનાનીના"
+    },
+    {
+      "surface": "על",
+      "gloss": "વિરુદ્ધ"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "બાશા"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "કહેતાં"
+    }
+  ],
+  "timestamp": "2026-08-21T13:49:07.494238794Z",
+  "model": "glm-5.3"
+}

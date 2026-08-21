@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 105:4",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 105,
+  "translation": "યાહવેને અને તેમની શક્તિને શોધો; તેમનો ચહેરો સદા શોધો.",
+  "tokens": [
+    {
+      "surface": "דרשו",
+      "gloss": "શોધો"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવેને"
+    },
+    {
+      "surface": "ועזו",
+      "gloss": "અને તેમની શક્તિને"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "શોધો"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "તેમનો ચહેરો"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "સદા"
+    }
+  ],
+  "timestamp": "2026-08-21T16:39:40.590806008Z",
+  "model": "glm-5.3"
+}

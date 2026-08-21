@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "lamentations 3:9",
+  "book": "lamentations",
+  "lang": "gu",
+  "chapter": 3,
+  "translation": "તેણે મારા માર્ગો ખંડિત પથ્થરોથી બંધ કર્યા, મારી પગદંડીઓ વાંકી કરી.",
+  "tokens": [
+    {
+      "surface": "גדר",
+      "gloss": "બંધ કર્યા"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "મારા માર્ગો"
+    },
+    {
+      "surface": "בגזית",
+      "gloss": "ખંડિત પથ્થરોથી"
+    },
+    {
+      "surface": "נתיבתי",
+      "gloss": "મારી પગદંડીઓ"
+    },
+    {
+      "surface": "עוה",
+      "gloss": "વાંકી કરી"
+    }
+  ],
+  "timestamp": "2026-08-21T17:25:56.062036758Z",
+  "model": "glm-5.3"
+}

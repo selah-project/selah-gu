@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 12:9",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 12,
+  "translation": "અને યાહવેનો ક્રોધ તેઓ પર ભભૂક્યો, અને ⟨તેમણે⟩ ચાલ્યા ગયા.",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "ભભૂક્યો"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ક્રોધ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવેનો"
+    },
+    {
+      "surface": "בם",
+      "gloss": "તેઓ પર"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ચાલ્યા ગયા"
+    }
+  ],
+  "timestamp": "2026-08-21T11:55:38.994303603Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "habakkuk 3:1",
+  "book": "habakkuk",
+  "lang": "gu",
+  "chapter": 3,
+  "translation": "હબક્કૂક નબીની પ્રાર્થના, શિગ્યોનોત પ્રમાણે.",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "પ્રાર્થના"
+    },
+    {
+      "surface": "לחבקוק",
+      "gloss": "હબક્કૂકની"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "નબી"
+    },
+    {
+      "surface": "על",
+      "gloss": "પ્રમાણે"
+    },
+    {
+      "surface": "שגינות",
+      "gloss": "શિગ્યોનોત"
+    }
+  ],
+  "timestamp": "2026-08-21T16:01:51.770681713Z",
+  "model": "glm-5.3"
+}

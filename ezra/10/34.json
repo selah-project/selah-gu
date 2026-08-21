@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "ezra 10:34",
+  "book": "ezra",
+  "lang": "gu",
+  "chapter": 10,
+  "translation": "બાનીના પુત્રોમાંથી: માઅદાય, અમરામ અને ઊએલ.",
+  "tokens": [
+    {
+      "surface": "מבני",
+      "gloss": "પુત્રોમાંથી"
+    },
+    {
+      "surface": "בני",
+      "gloss": "બાનીના"
+    },
+    {
+      "surface": "מעדי",
+      "gloss": "માઅદાય"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "અમરામ"
+    },
+    {
+      "surface": "ואואל",
+      "gloss": "અને ઊએલ"
+    }
+  ],
+  "timestamp": "2026-08-21T17:50:03.983883732Z",
+  "model": "glm-5.3"
+}

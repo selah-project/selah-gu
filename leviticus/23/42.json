@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "leviticus 23:42",
+  "book": "leviticus",
+  "lang": "gu",
+  "chapter": 23,
+  "translation": "તમે સાત દિવસ કુટીરોમાં વસશો; ઇસ્રાએલમાં જન્મેલા બધા જણ કુટીરોમાં વસશે;",
+  "tokens": [
+    {
+      "surface": "בסכת",
+      "gloss": "કુટીરોમાં"
+    },
+    {
+      "surface": "תשבו",
+      "gloss": "તમે વસશો"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "સાત"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "દિવસ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "બધા જણ"
+    },
+    {
+      "surface": "האזרח",
+      "gloss": "જન્મેલા"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "ઇસ્રાએલમાં"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "વસશે"
+    },
+    {
+      "surface": "בסכת",
+      "gloss": "કુટીરોમાં"
+    }
+  ],
+  "timestamp": "2026-08-21T11:44:32.369321500Z",
+  "model": "glm-5.3"
+}

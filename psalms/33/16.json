@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 33:16",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 33,
+  "translation": "રાજા મોટી સેના વડે મુક્ત થતો નથી; બળવાન મોટા બળ વડે છોડાતો નથી.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "નથી"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "રાજા"
+    },
+    {
+      "surface": "נושע",
+      "gloss": "મુક્ત થતો"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "મોટી"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "સેના વડે"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "બળવાન"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નથી"
+    },
+    {
+      "surface": "ינצל",
+      "gloss": "છોડાતો"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "મોટા"
+    },
+    {
+      "surface": "כח",
+      "gloss": "બળ વડે"
+    }
+  ],
+  "timestamp": "2026-08-21T16:19:02.523756958Z",
+  "model": "glm-5.3"
+}

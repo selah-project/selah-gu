@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "ezekiel 18:32",
+  "book": "ezekiel",
+  "lang": "gu",
+  "chapter": 18,
+  "translation": "કારણ કે મરનારના મરવામાં મને આનંદ નથી — અદોનાય યાહવેના વચન — અને પાછા વળો અને જીવો.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "કારણ કે"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નથી"
+    },
+    {
+      "surface": "אחפץ",
+      "gloss": "મને આનંદ"
+    },
+    {
+      "surface": "במות",
+      "gloss": "મરવામાં"
+    },
+    {
+      "surface": "המת",
+      "gloss": "મરનારના"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "વચન"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "અદોનાય"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "והשיבו",
+      "gloss": "અને પાછા વળો"
+    },
+    {
+      "surface": "וחיו",
+      "gloss": "અને જીવો"
+    }
+  ],
+  "timestamp": "2026-08-21T15:26:52.572889627Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 40:1",
+  "book": "exodus",
+  "lang": "gu",
+  "chapter": 40,
+  "translation": "અને યાહવેએ મોશેને કહ્યું, બોલતાં:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "કહ્યું"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવેએ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ને"
+    },
+    {
+      "surface": "משה",
+      "gloss": "મોશે"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "બોલતાં"
+    }
+  ],
+  "timestamp": "2026-08-21T11:29:54.011507687Z",
+  "model": "glm-5.3"
+}

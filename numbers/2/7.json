@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 2:7",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 2,
+  "translation": "મતે ઝેવૂલૂનના ગોત્રના, અને ઝેવૂલૂનના પુત્રોના નાશી એલીઆવ બેન ખેલોન ⟨is⟩.",
+  "tokens": [
+    {
+      "surface": "מטה",
+      "gloss": "ગોત્ર"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "ઝેવૂલૂન"
+    },
+    {
+      "surface": "ונשיא",
+      "gloss": "અને નાશી"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "પુત્રોના"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "ઝેવૂલૂનના"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "એલીઆવ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "બેન"
+    },
+    {
+      "surface": "חלן",
+      "gloss": "ખેલોન"
+    }
+  ],
+  "timestamp": "2026-08-21T11:49:05.334796171Z",
+  "model": "glm-5.3"
+}

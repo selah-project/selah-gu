@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 24:10",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 24,
+  "translation": "સાતમો હાકોત્સ માટે, આઠમો અબીયાહ માટે.",
+  "tokens": [
+    {
+      "surface": "להקוץ",
+      "gloss": "હાકોત્સ માટે"
+    },
+    {
+      "surface": "השבעי",
+      "gloss": "સાતમો"
+    },
+    {
+      "surface": "לאביה",
+      "gloss": "અબીયાહ માટે"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "આઠમો"
+    }
+  ],
+  "timestamp": "2026-08-21T18:10:45.406175669Z",
+  "model": "glm-5.3"
+}

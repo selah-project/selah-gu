@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "haggai 1:2",
+  "book": "haggai",
+  "lang": "gu",
+  "chapter": 1,
+  "translation": "સૈન્યોનો યાહવે આ પ્રમાણે કહે છે: આ લોકો કહે છે કે યાહવેના ઘરને બાંધવાનો સમય નથી આવ્યો.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "આ પ્રમાણે"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "કહે છે"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "સૈન્યોનો"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "કહેતા"
+    },
+    {
+      "surface": "העם",
+      "gloss": "લોકો"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "આ"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "કહે છે"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નથી"
+    },
+    {
+      "surface": "עת",
+      "gloss": "સમય"
+    },
+    {
+      "surface": "בא",
+      "gloss": "આવ્યો"
+    },
+    {
+      "surface": "עת",
+      "gloss": "સમય"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ઘરના"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવેના"
+    },
+    {
+      "surface": "להבנות",
+      "gloss": "બાંધવાનો"
+    }
+  ],
+  "timestamp": "2026-08-21T16:03:22.771892913Z",
+  "model": "glm-5.3"
+}

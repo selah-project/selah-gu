@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 36:23",
+  "book": "genesis",
+  "lang": "gu",
+  "chapter": 36,
+  "translation": "અને આ ⟨હતા⟩ શોવાલના પુત્રો: અલ્વાન, અને મનાહત, અને એવાલ, શેફો અને ઓનામ.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "અને આ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "שובל",
+      "gloss": "શોવાલના"
+    },
+    {
+      "surface": "עלון",
+      "gloss": "અલ્વાન"
+    },
+    {
+      "surface": "ומנחת",
+      "gloss": "અને મનાહત"
+    },
+    {
+      "surface": "ועיבל",
+      "gloss": "અને એવાલ"
+    },
+    {
+      "surface": "שפו",
+      "gloss": "શેફો"
+    },
+    {
+      "surface": "ואונם",
+      "gloss": "અને ઓનામ"
+    }
+  ],
+  "timestamp": "2026-08-21T10:56:20.062124550Z",
+  "model": "glm-5.3"
+}

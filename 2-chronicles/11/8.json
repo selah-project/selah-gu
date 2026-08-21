@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 11:8",
+  "book": "2-chronicles",
+  "lang": "gu",
+  "chapter": 11,
+  "translation": "અને ⟨את⟩ ગત, અને ⟨את⟩ મારેશા, અને ⟨את⟩ ઝીફ.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ગત"
+    },
+    {
+      "surface": "גת",
+      "gloss": "ગત"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "મારેશા"
+    },
+    {
+      "surface": "מרשה",
+      "gloss": "મારેશા"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ઝીફ"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "ઝીફ"
+    }
+  ],
+  "timestamp": "2026-08-21T18:18:08.612559702Z",
+  "model": "glm-5.3"
+}

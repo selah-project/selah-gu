@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 25:30",
+  "book": "exodus",
+  "lang": "gu",
+  "chapter": 25,
+  "translation": "અને તું મંજૂષા પર સામેનું લોંબડું મારી સામે સદા મૂકશે.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "અને તું મૂકશે"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "મંજૂષા"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "લોંબડું"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "સામેનું"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "મારી સામે"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "સદા"
+    }
+  ],
+  "timestamp": "2026-08-21T11:20:29.141679826Z",
+  "model": "glm-5.3"
+}

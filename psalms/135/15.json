@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 135:15",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 135,
+  "translation": "ગોયોનાં મૂર્તિઓ ચાંદી અને સોનાની ⟨છે⟩, માનવના હાથોનું કાર્ય.",
+  "tokens": [
+    {
+      "surface": "עצבי",
+      "gloss": "મૂર્તિઓ"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ગોયોનાં"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ચાંદી"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "અને સોનાની"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "કાર્ય"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "હાથોનું"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "માનવના"
+    }
+  ],
+  "timestamp": "2026-08-21T16:46:57.081509242Z",
+  "model": "glm-5.3"
+}

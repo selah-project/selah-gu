@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "deuteronomy 1:37",
+  "book": "deuteronomy",
+  "lang": "gu",
+  "chapter": 1,
+  "translation": "પણ મારી સાથે પણ યાહવે તમારા કારણે ક્રોધિત થયો, કહેતા: તમે પણ ત્યાં પ્રવેશ નહીં કરો.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "પણ પણ"
+    },
+    {
+      "surface": "בי",
+      "gloss": "મારી સાથે"
+    },
+    {
+      "surface": "התאנף",
+      "gloss": "ક્રોધિત થયો"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "בגללכם",
+      "gloss": "તમારા કારણે"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "કહેતા"
+    },
+    {
+      "surface": "גם",
+      "gloss": "પણ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "તમે"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "પ્રવેશ કરો"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ત્યાં"
+    }
+  ],
+  "timestamp": "2026-08-21T12:12:10.384935264Z",
+  "model": "glm-5.3"
+}

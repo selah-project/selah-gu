@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "lamentations 3:16",
+  "book": "lamentations",
+  "lang": "gu",
+  "chapter": 3,
+  "translation": "અને તેણે કંકરથી મારા દાંત ઘસી નાખ્યા, તેણે મને રાખમાં કચડી નાખ્યો.",
+  "tokens": [
+    {
+      "surface": "ויגרס",
+      "gloss": "અને તેણે ઘસી નાખ્યા"
+    },
+    {
+      "surface": "בחצץ",
+      "gloss": "કંકરથી"
+    },
+    {
+      "surface": "שני",
+      "gloss": "મારા દાંત"
+    },
+    {
+      "surface": "הכפישני",
+      "gloss": "તેણે મને કચડી નાખ્યો"
+    },
+    {
+      "surface": "באפר",
+      "gloss": "રાખમાં"
+    }
+  ],
+  "timestamp": "2026-08-21T17:26:06.809751976Z",
+  "model": "glm-5.3"
+}

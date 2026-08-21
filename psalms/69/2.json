@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 69:2",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 69,
+  "translation": "મને બચાવ, હે એલોહીમ, કારણ કે પાણી ⟨મારા⟩ પ્રાણ સુધી આવી પહોંચ્યાં છે.",
+  "tokens": [
+    {
+      "surface": "הושיעני",
+      "gloss": "મને બચાવ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "એલોહીમ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "કારણ કે"
+    },
+    {
+      "surface": "באו",
+      "gloss": "આવી પહોંચ્યાં છે"
+    },
+    {
+      "surface": "מים",
+      "gloss": "પાણી"
+    },
+    {
+      "surface": "עד",
+      "gloss": "સુધી"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "પ્રાણ"
+    }
+  ],
+  "timestamp": "2026-08-21T16:28:42.248762318Z",
+  "model": "glm-5.3"
+}

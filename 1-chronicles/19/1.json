@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 19:1",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 19,
+  "translation": "પછી એમ બન્યું કે આમોનના પુત્રોના રાજા નાખાશનું મરણ થયું, અને તેનો પુત્ર તેની જગ્યાએ રાજા થયો.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "એમ બન્યું"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "પછી"
+    },
+    {
+      "surface": "כן",
+      "gloss": "એમ"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "મરણ થયું"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "નાખાશ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "રાજા"
+    },
+    {
+      "surface": "בני",
+      "gloss": "પુત્રોના"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "આમોન"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "રાજા થયો"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "તેનો પુત્ર"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "તેની જગ્યાએ"
+    }
+  ],
+  "timestamp": "2026-08-21T18:09:52.249468472Z",
+  "model": "glm-5.3"
+}

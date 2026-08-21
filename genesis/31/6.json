@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 31:6",
+  "book": "genesis",
+  "lang": "gu",
+  "chapter": 31,
+  "translation": "અને તમે જાણો છો કે મેં પોતાના આખા બળથી ⟨את⟩ તમારા પિતાની સેવા કરી છે.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "અને તમે"
+    },
+    {
+      "surface": "ידעתן",
+      "gloss": "જાણો છો"
+    },
+    {
+      "surface": "כי",
+      "gloss": "કે"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "આખા"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "બળથી"
+    },
+    {
+      "surface": "עבדתי",
+      "gloss": "સેવા કરી છે"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "તમારા પિતાને"
+    },
+    {
+      "surface": "אביכן",
+      "gloss": "તમારા પિતાની"
+    }
+  ],
+  "timestamp": "2026-08-21T10:53:53.139785794Z",
+  "model": "glm-5.3"
+}

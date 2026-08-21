@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 19:16",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 19,
+  "translation": "અને જે કોઈ ખેતરના મુખ પર — તલવારથી મારેલા પર, કે મૃતક પર, કે માનવના હાડકા પર, કે કબર પર — સ્પર્શે, તે સાત દિવસ અશુદ્ધ થશે.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "અને જે કોઈ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જે"
+    },
+    {
+      "surface": "יגע",
+      "gloss": "સ્પર્શે"
+    },
+    {
+      "surface": "על",
+      "gloss": "…પર"
+    },
+    {
+      "surface": "פני",
+      "gloss": "મુખ"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ખેતરના"
+    },
+    {
+      "surface": "בחלל",
+      "gloss": "મારેલા પર"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "તલવારથી"
+    },
+    {
+      "surface": "או",
+      "gloss": "કે"
+    },
+    {
+      "surface": "במת",
+      "gloss": "મૃતક પર"
+    },
+    {
+      "surface": "או",
+      "gloss": "કે"
+    },
+    {
+      "surface": "בעצם",
+      "gloss": "હાડકા પર"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "માનવના"
+    },
+    {
+      "surface": "או",
+      "gloss": "કે"
+    },
+    {
+      "surface": "בקבר",
+      "gloss": "કબર પર"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "અશુદ્ધ થશે"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "સાત"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "દિવસ"
+    }
+  ],
+  "timestamp": "2026-08-21T12:02:10.040851833Z",
+  "model": "glm-5.3"
+}

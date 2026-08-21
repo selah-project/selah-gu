@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 44:22",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 44,
+  "translation": "શું એલોહીમ આ શોધી કાઢશે નહીં? કેમ કે ⟨એ⟩ હૃદયનાં રહસ્યો જાણે છે.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "શું … નહીં"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "એલોહીમ"
+    },
+    {
+      "surface": "יחקר",
+      "gloss": "શોધી કાઢશે"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "આ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "કેમ કે"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨એ⟩"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "જાણે છે"
+    },
+    {
+      "surface": "תעלמות",
+      "gloss": "રહસ્યો"
+    },
+    {
+      "surface": "לב",
+      "gloss": "હૃદયનાં"
+    }
+  ],
+  "timestamp": "2026-08-21T18:57:20.358329324Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 7:35",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 7,
+  "translation": "અને તેના ભાઈ હેલેમના પુત્રો: ત્સોફાખ, અને ઇમ્ના, અને શેલેશ, અને અમાલ.",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "અને પુત્રો"
+    },
+    {
+      "surface": "הלם",
+      "gloss": "હેલેમ"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "તેના ભાઈ"
+    },
+    {
+      "surface": "צופח",
+      "gloss": "ત્સોફાખ"
+    },
+    {
+      "surface": "וימנע",
+      "gloss": "અને ઇમ્ના"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "અને શેલેશ"
+    },
+    {
+      "surface": "ועמל",
+      "gloss": "અને અમાલ"
+    }
+  ],
+  "timestamp": "2026-08-21T18:03:06.207503228Z",
+  "model": "glm-5.3"
+}

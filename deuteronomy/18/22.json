@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 18:22",
+  "book": "deuteronomy",
+  "lang": "gu",
+  "chapter": 18,
+  "translation": "જે નબી યાહવેના નામમાં બોલે અને ⟨the⟩ વચન થાય નહીં અને આવે નહીં, તો તે ⟨the⟩ વચન છે જે યાહવેએ બોલ્યું નથી; ઘમંડથી તેણે નબીએ તે બોલ્યું છે; તારે તેનાથી ડરવાનું નથી.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "જે"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "બોલે"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "નબી"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "નામમાં"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "અને નહીં"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "થાય"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "⟨the⟩ વચન"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "અને નહીં"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "આવે"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "તે"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "⟨the⟩ વચન"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જે"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નથી"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "બોલ્યું"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "𝑦𝑎ℎ𝑣𝑒"
+    },
+    {
+      "surface": "בזדון",
+      "gloss": "ઘમંડથી"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "બોલ્યું છે"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "નબીએ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નથી"
+    },
+    {
+      "surface": "תגור",
+      "gloss": "ડરવાનું"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "તેનાથી"
+    }
+  ],
+  "timestamp": "2026-08-21T12:22:15.952961723Z",
+  "model": "glm-5.3"
+}

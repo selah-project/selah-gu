@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "numbers 32:35",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 32,
+  "translation": "અને ⟨את⟩ અતરોત-શોફાન અને ⟨את⟩ યાઝેર અને યોગબેહા",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "અને ⟨את⟩",
+      "marks": "અતરોત-શોફાન"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "અતરોત"
+    },
+    {
+      "surface": "שופן",
+      "gloss": "શોફાન"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "અને ⟨את⟩",
+      "marks": "યાઝેર"
+    },
+    {
+      "surface": "יעזר",
+      "gloss": "યાઝેર"
+    },
+    {
+      "surface": "ויגבהה",
+      "gloss": "અને યોગબેહા"
+    }
+  ],
+  "timestamp": "2026-08-21T12:08:50.042045687Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "lamentations 5:2",
+  "book": "lamentations",
+  "lang": "gu",
+  "chapter": 5,
+  "translation": "આપણો વારસો પરકીયોને ફરી વળ્યો, આપણાં ઘરો નવાણીઓને.",
+  "tokens": [
+    {
+      "surface": "נחלתנו",
+      "gloss": "આપણો વારસો"
+    },
+    {
+      "surface": "נהפכה",
+      "gloss": "ફરી વળ્યો"
+    },
+    {
+      "surface": "לזרים",
+      "gloss": "પરકીયોને"
+    },
+    {
+      "surface": "בתינו",
+      "gloss": "આપણાં ઘરો"
+    },
+    {
+      "surface": "לנכרים",
+      "gloss": "નવાણીઓને"
+    }
+  ],
+  "timestamp": "2026-08-21T17:28:13.699459864Z",
+  "model": "glm-5.3"
+}

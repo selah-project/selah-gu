@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 29:22",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 29,
+  "translation": "ક્રોધિત માણસ ઝઘડો ભડકાવે છે, અને ક્રોધનો ધણી ઘણો અપરાધ કરે છે.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "માણસ"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ક્રોધિત"
+    },
+    {
+      "surface": "יגרה",
+      "gloss": "ભડકાવે છે"
+    },
+    {
+      "surface": "מדון",
+      "gloss": "ઝઘડો"
+    },
+    {
+      "surface": "ובעל",
+      "gloss": "અને ધણી"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "ક્રોધનો"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ઘણો"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "અપરાધ"
+    }
+  ],
+  "timestamp": "2026-08-21T17:02:55.888198671Z",
+  "model": "glm-5.3"
+}

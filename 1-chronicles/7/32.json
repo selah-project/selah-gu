@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 7:32",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 7,
+  "translation": "અને હેબેરે ⟨את⟩ યાફ્લેત, અને ⟨את⟩ શોમેર, અને ⟨את⟩ હોતામ, અને ⟨את⟩ તેમની બહેન શૂઆને જન્મ આપ્યો.",
+  "tokens": [
+    {
+      "surface": "וחבר",
+      "gloss": "અને હેબેરે"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "જન્મ આપ્યો"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "યાફ્લેત"
+    },
+    {
+      "surface": "יפלט",
+      "gloss": "યાફ્લેત"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "શોમેર"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "શોમેર"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "હોતામ"
+    },
+    {
+      "surface": "חותם",
+      "gloss": "હોતામ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "શૂઆ"
+    },
+    {
+      "surface": "שועא",
+      "gloss": "શૂઆ"
+    },
+    {
+      "surface": "אחותם",
+      "gloss": "તેમની બહેન"
+    }
+  ],
+  "timestamp": "2026-08-21T18:03:59.004627649Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 6:22",
+  "book": "exodus",
+  "lang": "gu",
+  "chapter": 6,
+  "translation": "અને ઉઝીએલના પુત્રો: મીશાએલ, એલ્ત્સાફાન અને સિતરી.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "અને …ના પુત્રો"
+    },
+    {
+      "surface": "עזיאל",
+      "gloss": "ઉઝીએલ"
+    },
+    {
+      "surface": "מישאל",
+      "gloss": "મીશાએલ"
+    },
+    {
+      "surface": "ואלצפן",
+      "gloss": "એલ્ત્સાફાન"
+    },
+    {
+      "surface": "וסתרי",
+      "gloss": "સિતરી"
+    }
+  ],
+  "timestamp": "2026-08-21T11:06:48.888438334Z",
+  "model": "glm-5.3"
+}

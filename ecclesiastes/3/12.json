@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 3:12",
+  "book": "ecclesiastes",
+  "lang": "gu",
+  "chapter": 3,
+  "translation": "મેં જાણ્યું કે ⟨તેમના માટે⟩ સારું કંઈ નથી, સિવાય આનંદ કરવાનો અને ⟨તેના⟩ જીવનમાં સારું કરવાનું.",
+  "tokens": [
+    {
+      "surface": "ידעתי",
+      "gloss": "મેં જાણ્યું"
+    },
+    {
+      "surface": "כי",
+      "gloss": "કે"
+    },
+    {
+      "surface": "אין",
+      "gloss": "નથી"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "સારું"
+    },
+    {
+      "surface": "בם",
+      "gloss": "તેમના માટે"
+    },
+    {
+      "surface": "כי",
+      "gloss": "સિવાય"
+    },
+    {
+      "surface": "אם",
+      "gloss": "કે"
+    },
+    {
+      "surface": "לשמוח",
+      "gloss": "આનંદ કરવાનો"
+    },
+    {
+      "surface": "ולעשות",
+      "gloss": "અને કરવાનું"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "સારું"
+    },
+    {
+      "surface": "בחייו",
+      "gloss": "તેના જીવનમાં"
+    }
+  ],
+  "timestamp": "2026-08-21T17:28:59.468612505Z",
+  "model": "glm-5.3"
+}

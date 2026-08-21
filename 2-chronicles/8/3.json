@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 8:3",
+  "book": "2-chronicles",
+  "lang": "gu",
+  "chapter": 8,
+  "translation": "અને શલોમો હમાત-સોવા પરત ગયો, અને તેના પર પ્રભાવ જમાવ્યો.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ગયો"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "શલોમો"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "હમાત"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "સોવા"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "પ્રભાવ જમાવ્યો"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "તેના પર"
+    }
+  ],
+  "timestamp": "2026-08-21T18:18:47.218166251Z",
+  "model": "glm-5.3"
+}

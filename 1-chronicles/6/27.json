@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 6:27",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 6,
+  "translation": "એતાનનો પુત્ર, ઝિમ્માહનો પુત્ર, શિમીનો પુત્ર.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "પુત્ર"
+    },
+    {
+      "surface": "איתן",
+      "gloss": "એતાન"
+    },
+    {
+      "surface": "בן",
+      "gloss": "પુત્ર"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "ઝિમ્માહ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "પુત્ર"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "શિમી"
+    }
+  ],
+  "timestamp": "2026-08-21T18:03:11.548962131Z",
+  "model": "glm-5.3"
+}

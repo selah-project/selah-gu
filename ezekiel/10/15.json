@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 10:15",
+  "book": "ezekiel",
+  "lang": "gu",
+  "chapter": 10,
+  "translation": "અને કરુબો ઉપર ઊઠ્યાં — એ જ જીવલોક ⟨છે⟩ જે મેં નદી કેબર પાસે જોયો.",
+  "tokens": [
+    {
+      "surface": "וירמו",
+      "gloss": "અને ઉપર ઊઠ્યાં"
+    },
+    {
+      "surface": "הכרובים",
+      "gloss": "કરુબો"
+    },
+    {
+      "surface": "היא",
+      "gloss": "એ જ"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "જીવલોક"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જે"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "મેં જોયો"
+    },
+    {
+      "surface": "בנהר",
+      "gloss": "નદી…પાસે"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "કેબર"
+    }
+  ],
+  "timestamp": "2026-08-21T15:21:16.154288712Z",
+  "model": "glm-5.3"
+}

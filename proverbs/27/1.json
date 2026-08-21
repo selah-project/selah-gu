@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 27:1",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 27,
+  "translation": "કાલના દિવસે ગર્વ ન કર, કેમ કે તું જાણતો નથી કે દિવસ શું જન્મ આપશે.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ન કર"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "ગર્વ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "દિવસે"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "કાલના"
+    },
+    {
+      "surface": "כי",
+      "gloss": "કેમ કે"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નથી"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "તું જાણતો"
+    },
+    {
+      "surface": "מה",
+      "gloss": "શું"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "જન્મ આપશે"
+    },
+    {
+      "surface": "יום",
+      "gloss": "દિવસ"
+    }
+  ],
+  "timestamp": "2026-08-21T17:02:30.484982050Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 102:8",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 102,
+  "translation": "જાગતો રહ્યો છું, અને માળા પર એકલું પક્ષી જેવો થયો છું.",
+  "tokens": [
+    {
+      "surface": "שקדתי",
+      "gloss": "જાગતો રહ્યો છું"
+    },
+    {
+      "surface": "ואהיה",
+      "gloss": "અને થયો છું"
+    },
+    {
+      "surface": "כצפור",
+      "gloss": "પક્ષી જેવો"
+    },
+    {
+      "surface": "בודד",
+      "gloss": "એકલું"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "גג",
+      "gloss": "માળા"
+    }
+  ],
+  "timestamp": "2026-08-21T16:37:54.431016747Z",
+  "model": "glm-5.3"
+}

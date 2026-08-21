@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 11:38",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 11,
+  "translation": "યોએલ નાતાનનો ભાઈ, મિબખાર હાગ્રીનો પુત્ર.",
+  "tokens": [
+    {
+      "surface": "יואל",
+      "gloss": "યોએલ"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "ભાઈ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "નાતાન"
+    },
+    {
+      "surface": "מבחר",
+      "gloss": "મિબખાર"
+    },
+    {
+      "surface": "בן",
+      "gloss": "પુત્ર"
+    },
+    {
+      "surface": "הגרי",
+      "gloss": "હાગ્રી"
+    }
+  ],
+  "timestamp": "2026-08-21T18:04:27.978132755Z",
+  "model": "glm-5.3"
+}

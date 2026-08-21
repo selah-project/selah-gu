@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "numbers 7:34",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 7,
+  "translation": "બકરાના ટપકાંમાંનો એક, પાપ-ભેટ માટે.",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "બકરાના ટપકાંમાંનો"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "બકરાઓ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "એક"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "પાપ-ભેટ માટે"
+    }
+  ],
+  "timestamp": "2026-08-21T11:51:15.813728619Z",
+  "model": "glm-5.3"
+}

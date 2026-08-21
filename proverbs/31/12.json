@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 31:12",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 31,
+  "translation": "તે તેની સાથે સારું વર્તે છે અને ખરાબ નહીં, તેના જીવનના બધા દિવસો.",
+  "tokens": [
+    {
+      "surface": "גמלתהו",
+      "gloss": "તે તેની સાથે વર્તે છે"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "સારું"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "અને નહીં"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ખરાબ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "બધા"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "દિવસો"
+    },
+    {
+      "surface": "חייה",
+      "gloss": "તેના જીવનના"
+    }
+  ],
+  "timestamp": "2026-08-21T17:04:17.334784121Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 17:14",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 17,
+  "translation": "અને મહામારીમાં મૃતકો થયા ચૌદ હજાર અને સાતસો, કોરાખના બળવાને કારણે મૃતકો સિવાય.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "અને થયા"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "મૃતકો"
+    },
+    {
+      "surface": "במגפה",
+      "gloss": "મહામારીમાં"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "ચાર"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "-દસ (ચૌદ)"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "હજાર"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "અને સાત"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "સો"
+    },
+    {
+      "surface": "מלבד",
+      "gloss": "સિવાય"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "મૃતકો"
+    },
+    {
+      "surface": "על",
+      "gloss": "ને કારણે"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "બળવા (બાબત)"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "કોરાખ"
+    }
+  ],
+  "timestamp": "2026-08-21T11:58:47.547200696Z",
+  "model": "glm-5.3"
+}

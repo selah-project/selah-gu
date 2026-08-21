@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "proverbs 15:33",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 15,
+  "translation": "યાહવેનો ભય એ જ્ઞાનનો શિક્ષણ ⟨છે⟩, અને માન પહેલાં નમ્રતા ⟨આવે છે⟩.",
+  "tokens": [
+    {
+      "surface": "יראת",
+      "gloss": "ભય"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવેનો"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "શિક્ષણ"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "જ્ઞાનનો"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "પહેલાં"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "માન"
+    },
+    {
+      "surface": "ענוה",
+      "gloss": "નમ્રતા"
+    }
+  ],
+  "timestamp": "2026-08-21T16:56:32.003771087Z",
+  "model": "glm-5.3"
+}

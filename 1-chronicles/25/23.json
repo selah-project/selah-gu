@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 25:23",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 25,
+  "translation": "સોળમાં હનન્યાહુ, ⟨તેનાં⟩ પુત્રો અને ⟨તેનાં⟩ ભાઈઓ — બાર જણ.",
+  "tokens": [
+    {
+      "surface": "לששה",
+      "gloss": "સોળમાં"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "સોળમાં"
+    },
+    {
+      "surface": "לחנניהו",
+      "gloss": "હનન્યાહુ"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "અને ભાઈઓ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "બાર"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "બાર"
+    }
+  ],
+  "timestamp": "2026-08-21T18:11:02.230942918Z",
+  "model": "glm-5.3"
+}

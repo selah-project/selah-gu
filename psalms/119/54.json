@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "psalms 119:54",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 119,
+  "translation": "મારા પરદેશના ઘરમાં તારાં વિધાનો મારાં ગીતો બન્યાં છે.",
+  "tokens": [
+    {
+      "surface": "זמרות",
+      "gloss": "ગીતો"
+    },
+    {
+      "surface": "היו",
+      "gloss": "બન્યાં છે"
+    },
+    {
+      "surface": "לי",
+      "gloss": "મારાં"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "તારાં વિધાનો"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "ઘરમાં"
+    },
+    {
+      "surface": "מגורי",
+      "gloss": "મારા પરદેશના"
+    }
+  ],
+  "timestamp": "2026-08-21T16:43:44.446318779Z",
+  "model": "glm-5.3"
+}

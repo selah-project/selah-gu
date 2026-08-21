@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "lamentations 5:20",
+  "book": "lamentations",
+  "lang": "gu",
+  "chapter": 5,
+  "translation": "કેમ સદાકાળ અમને ભૂલી જાય છે, અમને લાંબા દિવસો સુધી છોડી દે છે?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "કેમ"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "સદાકાળ"
+    },
+    {
+      "surface": "תשכחנו",
+      "gloss": "અમને ભૂલી જાય છે"
+    },
+    {
+      "surface": "תעזבנו",
+      "gloss": "અમને છોડી દે છે"
+    },
+    {
+      "surface": "לארך",
+      "gloss": "લાંબા…સુધી"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "દિવસો"
+    }
+  ],
+  "timestamp": "2026-08-21T17:28:14.225260776Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 37:13",
+  "book": "exodus",
+  "lang": "gu",
+  "chapter": 37,
+  "translation": "અને તેણે તેના માટે ચાર સોનાની વળીઓ ઢાળી, અને ⟨את⟩ વળીઓ ચાર ખૂણા પર મૂકી જે તેના ચાર પગને લાગુ છે.",
+  "tokens": [
+    {
+      "surface": "ויצק",
+      "gloss": "ઢાળી"
+    },
+    {
+      "surface": "לו",
+      "gloss": "તેના માટે"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "ચાર"
+    },
+    {
+      "surface": "טבעת",
+      "gloss": "વળીઓ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "સોનાની"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "મૂકી"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "વળીઓ"
+    },
+    {
+      "surface": "הטבעת",
+      "gloss": "વળીઓ"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "ચાર"
+    },
+    {
+      "surface": "הפאת",
+      "gloss": "ખૂણા"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જે"
+    },
+    {
+      "surface": "לארבע",
+      "gloss": "ચાર"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "તેના પગને"
+    }
+  ],
+  "timestamp": "2026-08-21T11:27:45.519832951Z",
+  "model": "glm-5.3"
+}

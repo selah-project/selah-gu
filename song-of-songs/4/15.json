@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "song-of-songs 4:15",
+  "book": "song-of-songs",
+  "lang": "gu",
+  "chapter": 4,
+  "translation": "બગીચાઓનો ઝરો, જીવંત પાણીનો કૂવો, અને લેબાનોનથી વહેતા પ્રવાહો.",
+  "tokens": [
+    {
+      "surface": "מעין",
+      "gloss": "ઝરો"
+    },
+    {
+      "surface": "גנים",
+      "gloss": "બગીચાઓનો"
+    },
+    {
+      "surface": "באर",
+      "gloss": "કૂવો"
+    },
+    {
+      "surface": "מים",
+      "gloss": "પાણીનો"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "જીવંત"
+    },
+    {
+      "surface": "ונזלים",
+      "gloss": "અને વહેતા પ્રવાહો"
+    },
+    {
+      "surface": "מן",
+      "gloss": "થી"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "લેબાનોન"
+    }
+  ],
+  "timestamp": "2026-08-21T17:21:08.666100121Z",
+  "model": "glm-5.3"
+}

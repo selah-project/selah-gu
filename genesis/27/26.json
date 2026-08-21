@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 27:26",
+  "book": "genesis",
+  "lang": "gu",
+  "chapter": 27,
+  "translation": "અને યિત્સખાક તેના પિતાએ તેને કહ્યું, આવ હવે, અને મને ચુંબન કર, મારા પુત્ર.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "અને તેણે કહ્યું"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "તેને"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "યિત્સખાક"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "તેના પિતાએ"
+    },
+    {
+      "surface": "גשה",
+      "gloss": "આવ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "હવે"
+    },
+    {
+      "surface": "ושקה",
+      "gloss": "અને ચુંબન કર"
+    },
+    {
+      "surface": "לי",
+      "gloss": "મને"
+    },
+    {
+      "surface": "בני",
+      "gloss": "મારા પુત્ર"
+    }
+  ],
+  "timestamp": "2026-08-21T10:51:54.929723460Z",
+  "model": "glm-5.3"
+}

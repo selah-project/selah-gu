@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 7:13",
+  "book": "leviticus",
+  "lang": "gu",
+  "chapter": 7,
+  "translation": "ખમીરવાળા લોટનાં રોટલાં સાથે તે ⟨તેનાં⟩ કરબાન નજીક લાવશે, તેના શેલામીમના તોદા-ઝવાખ પર;",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "સાથે"
+    },
+    {
+      "surface": "חלת",
+      "gloss": "રોટલાં"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "લોટનાં"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "ખમીરવાળા"
+    },
+    {
+      "surface": "יקריב",
+      "gloss": "નજીક લાવશે"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "તેનું કરબાન"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "ઝવાખ"
+    },
+    {
+      "surface": "תודת",
+      "gloss": "તોદા-"
+    },
+    {
+      "surface": "שלמיו",
+      "gloss": "તેના શેલામીમ"
+    }
+  ],
+  "timestamp": "2026-08-21T11:31:50.933416137Z",
+  "model": "glm-5.3"
+}

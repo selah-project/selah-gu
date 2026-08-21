@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-samuel 22:27",
+  "book": "2-samuel",
+  "lang": "gu",
+  "chapter": 22,
+  "translation": "શુદ્ધ સાથે શુદ્ધ બતાવે છે, અને વાંકા સાથે વળેલો બતાવે છે.",
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "સાથે"
+    },
+    {
+      "surface": "נבר",
+      "gloss": "શુદ્ધ"
+    },
+    {
+      "surface": "תתבר",
+      "gloss": "શુદ્ધ બતાવે છે"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "અને સાથે"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "વાંકા"
+    },
+    {
+      "surface": "תתפל",
+      "gloss": "વળેલો બતાવે છે"
+    }
+  ],
+  "timestamp": "2026-08-21T13:34:03.271798828Z",
+  "model": "glm-5.3"
+}

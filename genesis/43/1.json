@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 43:1",
+  "book": "genesis",
+  "lang": "gu",
+  "chapter": 43,
+  "translation": "અને દુકાળ ⟨પૃથ્વીમાં⟩ ભારે હતો.",
+  "tokens": [
+    {
+      "surface": "והרעב",
+      "gloss": "અને દુકાળ"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "ભારે હતો"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "પૃથ્વીમાં"
+    }
+  ],
+  "timestamp": "2026-08-21T11:01:02.728829795Z",
+  "model": "glm-5.3"
+}

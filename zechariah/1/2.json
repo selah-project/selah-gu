@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zechariah 1:2",
+  "book": "zechariah",
+  "lang": "gu",
+  "chapter": 1,
+  "translation": "ક્રોધિત થયો યાહવે તમારા પિતૃઓ પર — ક્રોધથી.",
+  "tokens": [
+    {
+      "surface": "קצף",
+      "gloss": "ક્રોધિત થયો"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "તમારા પિતૃઓ"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "ક્રોધથી"
+    }
+  ],
+  "timestamp": "2026-08-21T16:02:49.323711189Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 48:3",
+  "book": "jeremiah",
+  "lang": "gu",
+  "chapter": 48,
+  "translation": "હોરોનાયિમથી બૂમનો અવાજ — ઉજ્જડી કરણી અને મહાન વિનાશ!",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "અવાજ"
+    },
+    {
+      "surface": "צעקה",
+      "gloss": "બૂમનો"
+    },
+    {
+      "surface": "מחרונים",
+      "gloss": "હોરોનાયિમથી"
+    },
+    {
+      "surface": "שד",
+      "gloss": "ઉજ્જડી કરણી"
+    },
+    {
+      "surface": "ושבר",
+      "gloss": "અને વિનાશ"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "મહાન"
+    }
+  ],
+  "timestamp": "2026-08-21T15:11:26.802614212Z",
+  "model": "glm-5.3"
+}

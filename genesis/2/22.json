@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 2:22",
+  "book": "genesis",
+  "lang": "gu",
+  "chapter": 2,
+  "translation": "અને યાહવે એલોહીમે માણસ પાસેથી લીધેલી પાસળીને ⟨את⟩ સ્ત્રી બનાવી, અને તેણીને માણસ પાસે લાવ્યા.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "બનાવી"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "એલોહીમ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "પાસળી"
+    },
+    {
+      "surface": "הצלע",
+      "gloss": "પાસળીને"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જે"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "લીધેલી"
+    },
+    {
+      "surface": "מן",
+      "gloss": "પાસેથી"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "માણસ"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "સ્ત્રી"
+    },
+    {
+      "surface": "ויבאה",
+      "gloss": "લાવ્યા"
+    },
+    {
+      "surface": "אל",
+      "gloss": "પાસે"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "માણસ"
+    }
+  ],
+  "timestamp": "2026-08-21T10:37:14.649014213Z",
+  "model": "glm-5.3"
+}

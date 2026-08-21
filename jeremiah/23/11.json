@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 23:11",
+  "book": "jeremiah",
+  "lang": "gu",
+  "chapter": 23,
+  "translation": "કેમ કે નબી પણ અને યાજક પણ ભ્રષ્ટ થયા છે; મારા જ ઘરમાં મેં તેમની દુષ્ટતા મળી છે — યાહવેનું કથન.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "કેમ કે"
+    },
+    {
+      "surface": "גם",
+      "gloss": "પણ"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "નબી"
+    },
+    {
+      "surface": "גם",
+      "gloss": "પણ"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "યાજક"
+    },
+    {
+      "surface": "חנפו",
+      "gloss": "ભ્રષ્ટ થયા છે"
+    },
+    {
+      "surface": "גם",
+      "gloss": "મારા જ"
+    },
+    {
+      "surface": "בביתי",
+      "gloss": "ઘરમાં"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "મેં મળી છે"
+    },
+    {
+      "surface": "רעתם",
+      "gloss": "તેમની દુષ્ટતા"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "કથન"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવેનું"
+    }
+  ],
+  "timestamp": "2026-08-21T14:57:41.379177695Z",
+  "model": "glm-5.3"
+}

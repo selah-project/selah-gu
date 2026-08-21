@@ -1,0 +1,117 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 22:6",
+  "book": "deuteronomy",
+  "lang": "gu",
+  "chapter": 22,
+  "translation": "જ્યારે તમને માર્ગમાં, કોઈ પણ વૃક્ષ પર કે જમીન પર, પક્ષીનું માળો મળે — તેમાં ઘૂઘરાળા કે ઈંડા હોય, અને માદા ઘૂઘરાળા પર કે ઈંડા પર બેઠી હોય — તો તમે બચ્ચાઓ સાથે માદાને ન લેવી.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "જ્યારે"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "મળે"
+    },
+    {
+      "surface": "קן",
+      "gloss": "માળો"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "પક્ષીનું"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "તમને"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "માર્ગમાં"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "કોઈ પણ"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "વૃક્ષ"
+    },
+    {
+      "surface": "או",
+      "gloss": "કે"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "જમીન"
+    },
+    {
+      "surface": "אפרחים",
+      "gloss": "ઘૂઘરાળા"
+    },
+    {
+      "surface": "או",
+      "gloss": "કે"
+    },
+    {
+      "surface": "ביצים",
+      "gloss": "ઈંડા"
+    },
+    {
+      "surface": "והאם",
+      "gloss": "અને માદા"
+    },
+    {
+      "surface": "רבצת",
+      "gloss": "બેઠી હોય"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "האפרחים",
+      "gloss": "ઘૂઘરાળા"
+    },
+    {
+      "surface": "או",
+      "gloss": "કે"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "הביצים",
+      "gloss": "ઈંડા"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ન"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "લેવી"
+    },
+    {
+      "surface": "האם",
+      "gloss": "માદાને"
+    },
+    {
+      "surface": "על",
+      "gloss": "સાથે"
+    },
+    {
+      "surface": "הבנים",
+      "gloss": "બચ્ચાઓ"
+    }
+  ],
+  "timestamp": "2026-08-21T12:23:17.063416735Z",
+  "model": "glm-5.3"
+}

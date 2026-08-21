@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 10:7",
+  "book": "ecclesiastes",
+  "lang": "gu",
+  "chapter": 10,
+  "translation": "મેં ઘોડાઓ પર સેવકોને જોયા, અને રાજકુમારોને પૃથ્વી પર સેવકોની જેમ ચાલતા જોયા.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "મેં જોયા"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "સેવકોને"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "ઘોડાઓ"
+    },
+    {
+      "surface": "ושרים",
+      "gloss": "અને રાજકુમારોને"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "ચાલતા"
+    },
+    {
+      "surface": "כעבדים",
+      "gloss": "સેવકોની જેમ"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "પૃથ્વી"
+    }
+  ],
+  "timestamp": "2026-08-21T18:59:54.248308386Z",
+  "model": "glm-5.3"
+}

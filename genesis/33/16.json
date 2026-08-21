@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 33:16",
+  "book": "genesis",
+  "lang": "gu",
+  "chapter": 33,
+  "translation": "અને તે ⟨the⟩ જ દિવસે એસાવ પોતાના માર્ગે સેઈર તરફ પરત ફર્યો.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "અને પરત ફર્યો"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "દિવસે"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "તે જ"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "એસાવ"
+    },
+    {
+      "surface": "לדרכו",
+      "gloss": "પોતાના માર્ગે"
+    },
+    {
+      "surface": "שעירה",
+      "gloss": "સેઈર તરફ"
+    }
+  ],
+  "timestamp": "2026-08-21T10:54:17.077552787Z",
+  "model": "glm-5.3"
+}

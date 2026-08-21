@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 10:8",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 10,
+  "translation": "હૃદયથી ડાહ્યો આજ્ઞાઓ ગ્રહણ કરે છે, પણ હોઠવાળો મૂર્ખ તૂટી પડશે.",
+  "tokens": [
+    {
+      "surface": "חכם",
+      "gloss": "ડાહ્યો"
+    },
+    {
+      "surface": "לב",
+      "gloss": "હૃદયથી"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "ગ્રહણ કરે છે"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "આજ્ઞાઓ"
+    },
+    {
+      "surface": "ואויל",
+      "gloss": "પણ … મૂર્ખ"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "હોઠવાળો"
+    },
+    {
+      "surface": "ילבט",
+      "gloss": "તૂટી પડશે"
+    }
+  ],
+  "timestamp": "2026-08-21T16:54:48.670290646Z",
+  "model": "glm-5.3"
+}

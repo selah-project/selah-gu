@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 5:4",
+  "book": "deuteronomy",
+  "lang": "gu",
+  "chapter": 5,
+  "translation": "મુખામુખ યાહવે પર્વત પર તમારી સાથે આગના મધ્યમાંથી બોલ્યા.",
+  "tokens": [
+    {
+      "surface": "פנים",
+      "gloss": "મુખ"
+    },
+    {
+      "surface": "בפנים",
+      "gloss": "…ના મુખ સામે"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "બોલ્યા"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "તમારી સાથે"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "પર્વત પર"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "…ના મધ્યમાંથી"
+    },
+    {
+      "surface": "האש",
+      "gloss": "આગ"
+    }
+  ],
+  "timestamp": "2026-08-21T12:14:48.463412978Z",
+  "model": "glm-5.3"
+}

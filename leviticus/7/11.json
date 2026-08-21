@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 7:11",
+  "book": "leviticus",
+  "lang": "gu",
+  "chapter": 7,
+  "translation": "અને આ ⟨છે⟩ શાંતિ-અર્પણોની તોરત, જે તે યાહવેને અર્પણ કરશે.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "અને આ"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "તોરત"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "અર્પણ"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "શાંતિ-અર્પણોની"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જે"
+    },
+    {
+      "surface": "יקריב",
+      "gloss": "અર્પણ કરશે"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "યાહવેને"
+    }
+  ],
+  "timestamp": "2026-08-21T11:31:13.776493961Z",
+  "model": "glm-5.3"
+}

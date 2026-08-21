@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 27:10",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 27,
+  "translation": "અને જો તેને ભાઈઓ ન હોય, તો તમે તેના પિતાના ભાઈઓને ⟨את⟩ તેનો વારસો આપશો.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "અને જો"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ન હોય"
+    },
+    {
+      "surface": "לו",
+      "gloss": "તેને"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "ભાઈઓ"
+    },
+    {
+      "surface": "ונתתם",
+      "gloss": "તમે આપશો"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "તેનો વારસો"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "તેનો વારસો"
+    },
+    {
+      "surface": "לאחי",
+      "gloss": "ભાઈઓને"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "તેના પિતાના"
+    }
+  ],
+  "timestamp": "2026-08-21T12:06:19.899233372Z",
+  "model": "glm-5.3"
+}

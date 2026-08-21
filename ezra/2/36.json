@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "ezra 2:36",
+  "book": "ezra",
+  "lang": "gu",
+  "chapter": 2,
+  "translation": "કોહેનો: યદાયાહના પુત્રો — યેશુઆના ઘરના — નવસો તોત્રીસ.",
+  "tokens": [
+    {
+      "surface": "הכהנים",
+      "gloss": "કોહેનો"
+    },
+    {
+      "surface": "בני",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "ידעיה",
+      "gloss": "યદાયાહ"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "…ના ઘરના"
+    },
+    {
+      "surface": "ישוע",
+      "gloss": "યેશુઆ"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "નવ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "સો"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "સિત્તર"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "અને ત્રણ"
+    }
+  ],
+  "timestamp": "2026-08-21T17:45:24.313445443Z",
+  "model": "glm-5.3"
+}

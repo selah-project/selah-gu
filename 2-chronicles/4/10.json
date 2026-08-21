@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 4:10",
+  "book": "2-chronicles",
+  "lang": "gu",
+  "chapter": 4,
+  "translation": "અને ⟨את⟩ સાગરને તેણે જમણી ખભા પાસે, પૂર્વ તરફ, દક્ષિણની સામે મૂક્યું.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "સાગર"
+    },
+    {
+      "surface": "הים",
+      "gloss": "સાગર"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "તેણે મૂક્યું"
+    },
+    {
+      "surface": "מכתף",
+      "gloss": "ખભા પાસે"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "જમણી"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "પૂર્વ તરફ"
+    },
+    {
+      "surface": "ממול",
+      "gloss": "સામે"
+    },
+    {
+      "surface": "נגבה",
+      "gloss": "દક્ષિણની"
+    }
+  ],
+  "timestamp": "2026-08-21T19:03:11.644326427Z",
+  "model": "glm-5.3"
+}

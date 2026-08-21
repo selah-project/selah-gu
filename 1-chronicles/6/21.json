@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 6:21",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 6,
+  "translation": "એલ્કાનાહનો પુત્ર, યોએલનો પુત્ર, અઝર્યાહનો પુત્ર, ત્સફન્યાહનો પુત્ર.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "પુત્ર"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "એલ્કાનાહ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "પુત્ર"
+    },
+    {
+      "surface": "יואל",
+      "gloss": "યોએલ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "પુત્ર"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "અઝર્યાહ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "પુત્ર"
+    },
+    {
+      "surface": "צפניה",
+      "gloss": "ત્સફન્યાહ"
+    }
+  ],
+  "timestamp": "2026-08-21T18:03:05.966664567Z",
+  "model": "glm-5.3"
+}

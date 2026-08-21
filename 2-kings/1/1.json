@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 1:1",
+  "book": "2-kings",
+  "lang": "gu",
+  "chapter": 1,
+  "translation": "અને મોઆબે અહાબના મરણ પછી ઈસ્રાએલ સામે બળવો પાડ્યો.",
+  "tokens": [
+    {
+      "surface": "ויפשע",
+      "gloss": "બળવો પાડ્યો"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "મોઆબ"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "ઈસ્રાએલ સામે"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "પછી"
+    },
+    {
+      "surface": "מות",
+      "gloss": "મરણ"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "અહાબ"
+    }
+  ],
+  "timestamp": "2026-08-21T13:54:52.031101817Z",
+  "model": "glm-5.3"
+}

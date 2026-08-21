@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "malachi 1:5",
+  "book": "malachi",
+  "lang": "gu",
+  "chapter": 1,
+  "translation": "તમારી આંખો જોશે, અને તમે કહેશો: યાહવે ઇસ્રાએલની સીમા પર મહાન ⟨છે⟩.",
+  "tokens": [
+    {
+      "surface": "ועיניכם",
+      "gloss": "અને તમારી આંખો"
+    },
+    {
+      "surface": "תראינה",
+      "gloss": "જોશે"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "અને તમે"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "કહેશો"
+    },
+    {
+      "surface": "יגדל",
+      "gloss": "મહાન ⟨છે⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ઉપર"
+    },
+    {
+      "surface": "לגבול",
+      "gloss": "સીમા પર"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ઇસ્રાએલની"
+    }
+  ],
+  "timestamp": "2026-08-21T16:09:22.035233110Z",
+  "model": "glm-5.3"
+}

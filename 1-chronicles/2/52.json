@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "1-chronicles 2:52",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 2,
+  "translation": "અને શોબાલને — કિર્યત યઆરીમના પિતા — પુત્રો હતા: હારોએ, અને મનૂખોતના અડધા ⟨ભાગના⟩.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "અને હતા"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "לשובל",
+      "gloss": "શોબાલને"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "પિતા"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "કિર્યત"
+    },
+    {
+      "surface": "יערים",
+      "gloss": "યઆરીમના"
+    },
+    {
+      "surface": "הראה",
+      "gloss": "હારોએ"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "અડધા"
+    },
+    {
+      "surface": "המנחות",
+      "gloss": "મનૂખોતના"
+    }
+  ],
+  "timestamp": "2026-08-21T17:59:39.599089407Z",
+  "model": "glm-5.3"
+}

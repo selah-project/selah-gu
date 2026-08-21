@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "ezra 10:32",
+  "book": "ezra",
+  "lang": "gu",
+  "chapter": 10,
+  "translation": "બિન્યામીન, મલ્લુખ, શેમરયાહ.",
+  "tokens": [
+    {
+      "surface": "בנימן",
+      "gloss": "બિન્યામીન"
+    },
+    {
+      "surface": "מלוך",
+      "gloss": "મલ્લુખ"
+    },
+    {
+      "surface": "שמריה",
+      "gloss": "શેમરયાહ"
+    }
+  ],
+  "timestamp": "2026-08-21T17:50:09.732879735Z",
+  "model": "glm-5.3"
+}

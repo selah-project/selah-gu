@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 19:24",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 19,
+  "translation": "આળસુ ⟨એ⟩ ⟨પોતાની⟩ હથેળી બટકામાં છુપાવે છે; એ પોતાના મુખ સુધી પણ પાછી લાવતું નથી.",
+  "tokens": [
+    {
+      "surface": "טמן",
+      "gloss": "છુપાવે છે"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "આળસુ"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "તેની હથેળી"
+    },
+    {
+      "surface": "בצלחת",
+      "gloss": "બટકામાં"
+    },
+    {
+      "surface": "גם",
+      "gloss": "પણ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…સુધી"
+    },
+    {
+      "surface": "તיהו",
+      "gloss": "તેના મુખ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નથી"
+    },
+    {
+      "surface": "ישיבנה",
+      "gloss": "પાછી લાવતું"
+    }
+  ],
+  "timestamp": "2026-08-21T16:58:53.790091778Z",
+  "model": "glm-5.3"
+}

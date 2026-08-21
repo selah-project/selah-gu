@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 108:11",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 108,
+  "translation": "કોણ ⟨મને⟩ કિલ્લાવાળા નગરમાં લઈ જશે? કોણ ⟨મને⟩ એદોમ સુધી દોરી જશે?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "કોણ"
+    },
+    {
+      "surface": "יבלני",
+      "gloss": "મને લઈ જશે"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "નગર"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "કિલ્લાવાળા"
+    },
+    {
+      "surface": "מי",
+      "gloss": "કોણ"
+    },
+    {
+      "surface": "נחני",
+      "gloss": "મને દોરી જશે"
+    },
+    {
+      "surface": "עד",
+      "gloss": "સુધી"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "એદોમ"
+    }
+  ],
+  "timestamp": "2026-08-21T16:41:20.750821884Z",
+  "model": "glm-5.3"
+}

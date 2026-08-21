@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "ezekiel 40:30",
+  "book": "ezekiel",
+  "lang": "gu",
+  "chapter": 40,
+  "translation": "અને કમાનો ચારે તરફ ચારે તરફ હતી; લંબાઈ પંચવીસ હાત અને પહોળાઈ પાંચ હાત.",
+  "tokens": [
+    {
+      "surface": "ואלמות",
+      "gloss": "અને કમાનો"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ચારે તરફ"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ચારે તરફ"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "લંબાઈ"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "પાંચ"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "અને વીસ"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "હાથ"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "અને પહોળાઈ"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "પાંચ"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "હાથ"
+    }
+  ],
+  "timestamp": "2026-08-21T15:40:33.805877781Z",
+  "model": "glm-5.3"
+}

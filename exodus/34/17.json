@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 34:17",
+  "book": "exodus",
+  "lang": "gu",
+  "chapter": 34,
+  "translation": "ઢાળેલી મૂર્તિનાં એલોહીમ તું પોતાના માટે નહિ બનાવે.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "એલોહીમ"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "ઢાળેલી મૂર્તિનાં"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નહિ"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "બનાવે"
+    },
+    {
+      "surface": "לך",
+      "gloss": "પોતાના માટે"
+    }
+  ],
+  "timestamp": "2026-08-21T11:25:15.833767962Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 52:1",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 52,
+  "translation": "સંચાલક માટે; દાવિદનો બોધક ગીત.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "સંચાલક માટે"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "બોધક ગીત"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "દાવિદનો"
+    }
+  ],
+  "timestamp": "2026-08-21T16:25:52.999269674Z",
+  "model": "glm-5.3"
+}

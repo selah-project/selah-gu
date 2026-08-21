@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 25:5",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 25,
+  "translation": "દુષ્ટને રાજાની સામેથી દૂર કર, અને ન્યાયમાં તેનું સિંહાસન સ્થિર થશે.",
+  "tokens": [
+    {
+      "surface": "הגו",
+      "gloss": "દૂર કર"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "દુષ્ટને"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "સામેથી"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "રાજાની"
+    },
+    {
+      "surface": "ויכון",
+      "gloss": "અને સ્થિર થશે"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "ન્યાયમાં"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "તેનું સિંહાસન"
+    }
+  ],
+  "timestamp": "2026-08-21T17:01:46.929169864Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 6:23",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 6,
+  "translation": "કેમ કે આજ્ઞા દીવો છે અને તોરાહ પ્રકાશ, અને જીવનનો માર્ગ છે શિક્ષણની ઠપકો.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "કેમ કે"
+    },
+    {
+      "surface": "נר",
+      "gloss": "દીવો"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "આજ્ઞા"
+    },
+    {
+      "surface": "ותורה",
+      "gloss": "અને તોરાહ"
+    },
+    {
+      "surface": "אור",
+      "gloss": "પ્રકાશ"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "અને માર્ગ"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "જીવનનો"
+    },
+    {
+      "surface": "תוכחות",
+      "gloss": "ઠપકો"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "શિક્ષણની"
+    }
+  ],
+  "timestamp": "2026-08-21T16:53:59.202642580Z",
+  "model": "glm-5.3"
+}

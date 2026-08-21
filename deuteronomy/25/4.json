@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 25:4",
+  "book": "deuteronomy",
+  "lang": "gu",
+  "chapter": 25,
+  "translation": "તું ઢળતા બળદને તેના ખળામાં મોં બાધશે નહીં.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "תחסם",
+      "gloss": "મોં બાધશે"
+    },
+    {
+      "surface": "שור",
+      "gloss": "બળદ"
+    },
+    {
+      "surface": "בדישו",
+      "gloss": "તેના ખળામાં"
+    }
+  ],
+  "timestamp": "2026-08-21T12:25:52.459285774Z",
+  "model": "glm-5.3"
+}

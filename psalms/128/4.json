@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 128:4",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 128,
+  "translation": "જુઓ, કે ખરેખર એમ જ આશીર્વાદ પામશે ⟨તે⟩ માણસ, જે યાહવેનો ભય રાખે છે.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "જુઓ \/ નોંધ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "કે ખરેખર"
+    },
+    {
+      "surface": "כן",
+      "gloss": "એમ જ"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "આશીર્વાદ પામશે"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "માણસ"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "ભય રાખનાર"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    }
+  ],
+  "timestamp": "2026-08-21T16:46:02.028141015Z",
+  "model": "glm-5.3"
+}

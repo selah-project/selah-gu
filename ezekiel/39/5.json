@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 39:5",
+  "book": "ezekiel",
+  "lang": "gu",
+  "chapter": 39,
+  "translation": "ખેતરના મુખ પર તું પતન થશે, કેમ કે હું બોલ્યો છું, અદોનાય યાહવેનો નિર્દેશ.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "פני",
+      "gloss": "મુખ"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ખેતરના"
+    },
+    {
+      "surface": "תפול",
+      "gloss": "તું પતન થશે"
+    },
+    {
+      "surface": "כי",
+      "gloss": "કેમ કે"
+    },
+    {
+      "surface": "אני",
+      "gloss": "હું"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "બોલ્યો છું"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "નિર્દેશ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "અદોનાય"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    }
+  ],
+  "timestamp": "2026-08-21T15:39:27.103325587Z",
+  "model": "glm-5.3"
+}

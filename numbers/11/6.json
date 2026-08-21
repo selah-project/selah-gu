@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 11:6",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 11,
+  "translation": "અને હવે આપણો નફ્શ (પ્રાણ) સૂકાઈ ગયો ⟨છે⟩; આપણી આંખો સામે આ માન સિવાય કંઈ જ નથી.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "અને હવે"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "આપણો નફ્શ (પ્રાણ)"
+    },
+    {
+      "surface": "יבשה",
+      "gloss": "સૂકાઈ ગયો"
+    },
+    {
+      "surface": "אין",
+      "gloss": "નથી"
+    },
+    {
+      "surface": "כל",
+      "gloss": "કંઈ જ"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "સિવાય"
+    },
+    {
+      "surface": "אל",
+      "gloss": "આ"
+    },
+    {
+      "surface": "המן",
+      "gloss": "માન"
+    },
+    {
+      "surface": "עינינו",
+      "gloss": "આપણી આંખો સામે"
+    }
+  ],
+  "timestamp": "2026-08-21T11:54:54.721942797Z",
+  "model": "glm-5.3"
+}

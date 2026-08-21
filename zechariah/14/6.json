@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zechariah 14:6",
+  "book": "zechariah",
+  "lang": "gu",
+  "chapter": 14,
+  "translation": "અને તે દિવસે થશે ⟨કે⟩ પ્રકાશ નહીં હોય — તેજસ્વી ⟨પ્રકાશો⟩ જામી જશે.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "અને થશે"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "તે દિવસે"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "તે"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "હોય"
+    },
+    {
+      "surface": "אור",
+      "gloss": "પ્રકાશ"
+    },
+    {
+      "surface": "יקרות",
+      "gloss": "તેજસ્વી"
+    },
+    {
+      "surface": "יקפאון",
+      "gloss": "જામી જશે"
+    }
+  ],
+  "timestamp": "2026-08-21T16:08:26.731383533Z",
+  "model": "glm-5.3"
+}

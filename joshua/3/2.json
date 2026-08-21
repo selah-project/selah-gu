@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 3:2",
+  "book": "joshua",
+  "lang": "gu",
+  "chapter": 3,
+  "translation": "ત્રણ દિવસના અંતે થયું કે અધિકારીઓ છાવણીની વચ્ચે પસાર થયા.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "થયું કે"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "અંતે"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "ત્રણ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "દિવસના"
+    },
+    {
+      "surface": "ויעברו",
+      "gloss": "પસાર થયા"
+    },
+    {
+      "surface": "השטרים",
+      "gloss": "અધિકારીઓ"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "વચ્ચે"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "છાવણીની"
+    }
+  ],
+  "timestamp": "2026-08-21T12:33:11.578752863Z",
+  "model": "glm-5.3"
+}

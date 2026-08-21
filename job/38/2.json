@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 38:2",
+  "book": "job",
+  "lang": "gu",
+  "chapter": 38,
+  "translation": "આ કોણ છે જે જ્ઞાન વિનાનાં શબ્દોથી યોજનાને અંધકારમય કરે છે?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "કોણ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "આ"
+    },
+    {
+      "surface": "מחשיך",
+      "gloss": "અંધકારમય કરે છે"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "યોજનાને"
+    },
+    {
+      "surface": "במלין",
+      "gloss": "શબ્દોથી"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "વિના"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "જ્ઞાન"
+    }
+  ],
+  "timestamp": "2026-08-21T17:19:13.157246289Z",
+  "model": "glm-5.3"
+}

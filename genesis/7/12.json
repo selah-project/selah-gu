@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 7:12",
+  "book": "genesis",
+  "lang": "gu",
+  "chapter": 7,
+  "translation": "અને વરસાદ પૃથ્વી પર ચાલીસ દિવસ અને ચાલીસ રાત્રિ થયો.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "અને થયો"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "વરસાદ"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "પૃથ્વી"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "ચાલીસ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "દિવસ"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "અને ચાલીસ"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "રાત્રિ"
+    }
+  ],
+  "timestamp": "2026-08-21T10:39:53.910805778Z",
+  "model": "glm-5.3"
+}

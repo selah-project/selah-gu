@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 5:20",
+  "book": "jeremiah",
+  "lang": "gu",
+  "chapter": 5,
+  "translation": "આ યાકોબના ઘરમાં જાહેર કરો, અને યહૂદામાં તેને સંભળાવો, કહેતાં:",
+  "tokens": [
+    {
+      "surface": "הגידו",
+      "gloss": "જાહેર કરો"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "આ"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "ઘરમાં"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "યાકોબના"
+    },
+    {
+      "surface": "והשמיעוה",
+      "gloss": "અને તેને સંભળાવો"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "યહૂદામાં"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "કહેતાં"
+    }
+  ],
+  "timestamp": "2026-08-21T14:47:18.259498028Z",
+  "model": "glm-5.3"
+}

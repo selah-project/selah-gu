@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 43:21",
+  "book": "isaiah",
+  "lang": "gu",
+  "chapter": 43,
+  "translation": "આ પ્રજાને મેં મારા માટે ઘડી છે; ⟨તેઓ⟩ મારી સ્તુતિ વર્ણશે.",
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "પ્રજા"
+    },
+    {
+      "surface": "זו",
+      "gloss": "આ"
+    },
+    {
+      "surface": "יצרתי",
+      "gloss": "મેં ઘડી છે"
+    },
+    {
+      "surface": "לי",
+      "gloss": "મારા માટે"
+    },
+    {
+      "surface": "תהלתי",
+      "gloss": "મારી સ્તુતિ"
+    },
+    {
+      "surface": "יספרו",
+      "gloss": "વર્ણશે"
+    }
+  ],
+  "timestamp": "2026-08-21T14:31:30.602341298Z",
+  "model": "glm-5.3"
+}

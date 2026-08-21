@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 94:13",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 94,
+  "translation": "તેને દુષ્ટના દિવસોથી શાંત કરવા, જયારે સુધી દુષ્ટ માટે ખડડ ખોદાય છે.",
+  "tokens": [
+    {
+      "surface": "להשקיט",
+      "gloss": "શાંત કરવા"
+    },
+    {
+      "surface": "לו",
+      "gloss": "તેને"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "…થી દિવસો"
+    },
+    {
+      "surface": "רע",
+      "gloss": "દુષ્ટના"
+    },
+    {
+      "surface": "עד",
+      "gloss": "જયારે સુધી"
+    },
+    {
+      "surface": "יכרה",
+      "gloss": "ખોદાય છે"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": "દુષ્ટ માટે"
+    },
+    {
+      "surface": "שחત",
+      "gloss": "ખડડ"
+    }
+  ],
+  "timestamp": "2026-08-21T16:37:01.505480520Z",
+  "model": "glm-5.3"
+}

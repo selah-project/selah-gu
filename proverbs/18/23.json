@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 18:23",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 18,
+  "translation": "દરિદ્રી વિનંતીઓ બોલે, પણ ધનિક કઠોર ઉત્તર આપે.",
+  "tokens": [
+    {
+      "surface": "תחנונים",
+      "gloss": "વિનંતીઓ"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "બોલે"
+    },
+    {
+      "surface": "רש",
+      "gloss": "દરિદ્રી"
+    },
+    {
+      "surface": "ועשיר",
+      "gloss": "પણ ધનિક"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "ઉત્તર આપે"
+    },
+    {
+      "surface": "עזות",
+      "gloss": "કઠોર (તીવ્ર)"
+    }
+  ],
+  "timestamp": "2026-08-21T16:58:26.103044585Z",
+  "model": "glm-5.3"
+}

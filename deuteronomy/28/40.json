@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "deuteronomy 28:40",
+  "book": "deuteronomy",
+  "lang": "gu",
+  "chapter": 28,
+  "translation": "તારા બધા સીમાડામાં તને જૈતૂન હશે, પણ તેલ નહીં ચોપડે, કારણ કે તારા જૈતૂન ઝડપાઈ જશે.",
+  "tokens": [
+    {
+      "surface": "זיתים",
+      "gloss": "જૈતૂન"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "હશે"
+    },
+    {
+      "surface": "לך",
+      "gloss": "તને"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "બધામાં"
+    },
+    {
+      "surface": "גבולך",
+      "gloss": "તારા સીમાડા"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "પણ તેલ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "תסוך",
+      "gloss": "ચોપડે"
+    },
+    {
+      "surface": "כי",
+      "gloss": "કારણ કે"
+    },
+    {
+      "surface": "ישל",
+      "gloss": "ઝડપાઈ જશે"
+    },
+    {
+      "surface": "זיתך",
+      "gloss": "તારા જૈતૂન"
+    }
+  ],
+  "timestamp": "2026-08-21T12:27:18.769758036Z",
+  "model": "glm-5.3"
+}

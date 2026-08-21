@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 24:4",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 24,
+  "translation": "અને જ્ઞાનથી ઓરડા ભરાય છે — સર્વ મૂલ્યવાન અને મનોહર ધનથી.",
+  "tokens": [
+    {
+      "surface": "ובדעת",
+      "gloss": "અને જ્ઞાનથી"
+    },
+    {
+      "surface": "חדרים",
+      "gloss": "ઓરડા"
+    },
+    {
+      "surface": "ימלאו",
+      "gloss": "ભરાય છે"
+    },
+    {
+      "surface": "כל",
+      "gloss": "સર્વ"
+    },
+    {
+      "surface": "הון",
+      "gloss": "ધન"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "મૂલ્યવાન"
+    },
+    {
+      "surface": "ונעים",
+      "gloss": "અને મનોહર"
+    }
+  ],
+  "timestamp": "2026-08-21T17:01:15.363101267Z",
+  "model": "glm-5.3"
+}

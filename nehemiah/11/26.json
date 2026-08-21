@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "nehemiah 11:26",
+  "book": "nehemiah",
+  "lang": "gu",
+  "chapter": 11,
+  "translation": "અને યેશુઆ, મોલાદા અને બેથ-પાલેટમાં.",
+  "tokens": [
+    {
+      "surface": "ובישוע",
+      "gloss": "યેશુઆમાં"
+    },
+    {
+      "surface": "ובמולדה",
+      "gloss": "મોલાદામાં"
+    },
+    {
+      "surface": "ובבית",
+      "gloss": "બેથ-...માં"
+    },
+    {
+      "surface": "פלט",
+      "gloss": "પાલેટ"
+    }
+  ],
+  "timestamp": "2026-08-21T17:56:54.625373768Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 14:35",
+  "book": "leviticus",
+  "lang": "gu",
+  "chapter": 14,
+  "translation": "તો જેનું ઘર છે તે આવશે અને કોહેનને જણાવશે, કહેશે: મને ઘરમાં ચાઠા જેવું કંઈક દેખાયું છે.",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "તો…આવશે"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જેનું"
+    },
+    {
+      "surface": "לו",
+      "gloss": "તેનું"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ઘર"
+    },
+    {
+      "surface": "והגיד",
+      "gloss": "અને…જણાવશે"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "કોહેનને"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "કહેશે"
+    },
+    {
+      "surface": "כנגע",
+      "gloss": "ચાઠા જેવું"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "દેખાયું છે"
+    },
+    {
+      "surface": "לי",
+      "gloss": "મને"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "ઘરમાં"
+    }
+  ],
+  "timestamp": "2026-08-21T11:37:36.723331747Z",
+  "model": "glm-5.3"
+}

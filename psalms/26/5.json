@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 26:5",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 26,
+  "translation": "મેં દુષ્ટોની સભા ધિક્કારી છે, અને દુરાચારીઓ સાથે બેસીશ નહીં.",
+  "tokens": [
+    {
+      "surface": "שנאתי",
+      "gloss": "મેં ધિક્કારી છે"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "સભા"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "દુષ્ટોની"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "અને…સાથે"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "દુરાચારીઓ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "אשב",
+      "gloss": "બેસીશ"
+    }
+  ],
+  "timestamp": "2026-08-21T16:16:46.188016542Z",
+  "model": "glm-5.3"
+}

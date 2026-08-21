@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezra 2:19",
+  "book": "ezra",
+  "lang": "gu",
+  "chapter": 2,
+  "translation": "ખાશુમના પુત્રો, બસો તેઈસ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "חשם",
+      "gloss": "ખાશુમના"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "બસો"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "વીસ"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "અને ત્રણ"
+    }
+  ],
+  "timestamp": "2026-08-21T17:45:14.187093668Z",
+  "model": "glm-5.3"
+}

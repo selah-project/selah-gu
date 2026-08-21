@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 17:23",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 17,
+  "translation": "દુષ્ટ આંચળમાંથી લંચ લે છે, ન્યાયનાં માર્ગો વાંકા કરવા.",
+  "tokens": [
+    {
+      "surface": "שחד",
+      "gloss": "લંચ"
+    },
+    {
+      "surface": "מחיק",
+      "gloss": "આંચળમાંથી"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "દુષ્ટ"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "લે છે"
+    },
+    {
+      "surface": "להטות",
+      "gloss": "વાંકા કરવા માટે"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "માર્ગો"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ન્યાયનાં"
+    }
+  ],
+  "timestamp": "2026-08-21T16:57:34.679774512Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 13:1",
+  "book": "2-chronicles",
+  "lang": "gu",
+  "chapter": 13,
+  "translation": "યરાબઆમ રાજાના અઢારમાં વર્ષે અબીયા યહૂદા પર રાજ કરવા લાગ્યો.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "વર્ષે"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "અઢાર"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "અઢારમાં"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "રાજાનાં"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "યરાબઆમ"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "રાજ કરવા લાગ્યો"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "અબીયા"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "યહૂદા"
+    }
+  ],
+  "timestamp": "2026-08-21T18:21:49.884564007Z",
+  "model": "glm-5.3"
+}

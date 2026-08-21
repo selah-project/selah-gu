@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 18:12",
+  "book": "leviticus",
+  "lang": "gu",
+  "chapter": 18,
+  "translation": "તારા પિતાની બહેનની નગ્નતા તું ઉઘાડીશ નહીં, કારણ કે તે તારા પિતાનું માંસ ⟨છે⟩.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "નગ્નતા"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "બહેનની"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "તારા પિતાની"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "તું ઉઘાડીશ"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "માંસ"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "તારા પિતાનું"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "તે ⟨છે⟩"
+    }
+  ],
+  "timestamp": "2026-08-21T11:39:40.713102008Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 29:7",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 29,
+  "translation": "ન્યાયી દરિદ્રોનો દાવો જાણે છે; દુષ્ટ જ્ઞાનને સમજતું નથી.",
+  "tokens": [
+    {
+      "surface": "ידע",
+      "gloss": "જાણે છે"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ન્યાયી"
+    },
+    {
+      "surface": "דין",
+      "gloss": "દાવો"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "દરિદ્રોનો"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "દુષ્ટ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નથી"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "સમજતું"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "જ્ઞાનને"
+    }
+  ],
+  "timestamp": "2026-08-21T17:02:34.911325304Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 2:2",
+  "book": "ecclesiastes",
+  "lang": "gu",
+  "chapter": 2,
+  "translation": "હાસ્યને મેં કહ્યું: મૂર્ખતા; અને આનંદને: ⟨તે⟩ શું કરે છે?",
+  "tokens": [
+    {
+      "surface": "לשחוק",
+      "gloss": "હાસ્યને"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "મેં કહ્યું"
+    },
+    {
+      "surface": "מהולל",
+      "gloss": "મૂર્ખતા"
+    },
+    {
+      "surface": "ולשמחה",
+      "gloss": "અને આનંદને"
+    },
+    {
+      "surface": "מה",
+      "gloss": "શું"
+    },
+    {
+      "surface": "זה",
+      "gloss": "તે"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "કરે છે"
+    }
+  ],
+  "timestamp": "2026-08-21T17:29:41.402024562Z",
+  "model": "glm-5.3"
+}

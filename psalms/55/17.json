@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 55:17",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 55,
+  "translation": "હું એલોહીમને પાર બૂમ પાડીશ, અને યાહવે મને છોડાવશે.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "હું"
+    },
+    {
+      "surface": "אל",
+      "gloss": "પાર"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "એલોહીમને"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "બૂમ પાડીશ"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "અને યાહવે"
+    },
+    {
+      "surface": "יושיעני",
+      "gloss": "મને છોડાવશે"
+    }
+  ],
+  "timestamp": "2026-08-21T16:24:15.493697643Z",
+  "model": "glm-5.3"
+}

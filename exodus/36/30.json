@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 36:30",
+  "book": "exodus",
+  "lang": "gu",
+  "chapter": 36,
+  "translation": "અને આઠ તકતીઓ હતી, અને તેમનાં પાયા ચાંદીનાં — સોળ પાયા; એક તકતી નીચે બે બે પાયા.",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "અને હતી"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "આઠ"
+    },
+    {
+      "surface": "קרשים",
+      "gloss": "તકતીઓ"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "અને તેમનાં પાયા"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ચાંદીનાં"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "છ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "…સોળ"
+    },
+    {
+      "surface": "אדנים",
+      "gloss": "પાયા"
+    },
+    {
+      "surface": "שני",
+      "gloss": "બે"
+    },
+    {
+      "surface": "אדנים",
+      "gloss": "પાયા"
+    },
+    {
+      "surface": "שני",
+      "gloss": "બે બે"
+    },
+    {
+      "surface": "אדנים",
+      "gloss": "પાયા"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "નીચે"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "તકતી"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "એક"
+    }
+  ],
+  "timestamp": "2026-08-21T11:27:19.033087676Z",
+  "model": "glm-5.3"
+}

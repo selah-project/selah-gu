@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 5:16",
+  "book": "jeremiah",
+  "lang": "gu",
+  "chapter": 5,
+  "translation": "તેમનું ભાથું ખુલ્લી કબર જેવું ⟨છે⟩; તે બધા બળવાન યોદ્ધા ⟨છે⟩.",
+  "tokens": [
+    {
+      "surface": "אשפתו",
+      "gloss": "તેમનું ભાથું"
+    },
+    {
+      "surface": "כקבר",
+      "gloss": "કબર જેવું"
+    },
+    {
+      "surface": "פתוח",
+      "gloss": "ખુલ્લી"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "તે બધા"
+    },
+    {
+      "surface": "גבורים",
+      "gloss": "બળવાન યોદ્ધા"
+    }
+  ],
+  "timestamp": "2026-08-21T14:46:42.666643830Z",
+  "model": "glm-5.3"
+}

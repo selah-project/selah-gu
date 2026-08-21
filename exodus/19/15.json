@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 19:15",
+  "book": "exodus",
+  "lang": "gu",
+  "chapter": 19,
+  "translation": "અને તેણે ⟨the⟩ પ્રજાને કહ્યું: “ત્રણ દિવસ સુધી તૈયાર રહો; કોઈ સ્ત્રી પાસે ન આવો.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "અને તેણે કહ્યું"
+    },
+    {
+      "surface": "אל",
+      "gloss": "પ્રતિ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "⟨the⟩ પ્રજા"
+    },
+    {
+      "surface": "היו",
+      "gloss": "રહો"
+    },
+    {
+      "surface": "נכנים",
+      "gloss": "તૈયાર"
+    },
+    {
+      "surface": "לשלשת",
+      "gloss": "ત્રણના"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "દિવસ સુધી"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ન"
+    },
+    {
+      "surface": "תגשו",
+      "gloss": "પાસે આવો"
+    },
+    {
+      "surface": "אל",
+      "gloss": "પ્રતિ"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "કોઈ સ્ત્રી"
+    }
+  ],
+  "timestamp": "2026-08-21T18:35:21.068386666Z",
+  "model": "glm-5.3"
+}

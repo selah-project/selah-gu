@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 33:5",
+  "book": "2-chronicles",
+  "lang": "gu",
+  "chapter": 33,
+  "translation": "અને તેણે યાહવેના ઘરના બે આંગણાંમાં આખા આકાશના સૈન્ય માટે વેદીઓ બાંધી.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "અને તેણે બાંધી"
+    },
+    {
+      "surface": "מזבחות",
+      "gloss": "વેદીઓ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "આખા માટે"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "સૈન્ય"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "આકાશના"
+    },
+    {
+      "surface": "בשתי",
+      "gloss": "બેમાં"
+    },
+    {
+      "surface": "חצרות",
+      "gloss": "આંગણાં"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ઘરના"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    }
+  ],
+  "timestamp": "2026-08-21T19:04:46.812063536Z",
+  "model": "glm-5.3"
+}

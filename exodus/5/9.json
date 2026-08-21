@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 5:9",
+  "book": "exodus",
+  "lang": "gu",
+  "chapter": 5,
+  "translation": "કામ પર ⟨લોકો⟩ પર ભારે થાઓ, અને તેઓ તેમાં કામ કરે; અને તેઓ જૂઠા શબ્દોમાં ન જુએ.",
+  "tokens": [
+    {
+      "surface": "תכבד",
+      "gloss": "ભારે થાઓ"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "કામ"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "લોકો"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "અને તેઓ કરે"
+    },
+    {
+      "surface": "בה",
+      "gloss": "તેમાં"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "અને નહીં"
+    },
+    {
+      "surface": "ישעו",
+      "gloss": "જુએ"
+    },
+    {
+      "surface": "בדברי",
+      "gloss": "શબ્દોમાં"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "જૂઠા"
+    }
+  ],
+  "timestamp": "2026-08-21T11:07:06.792427719Z",
+  "model": "glm-5.3"
+}

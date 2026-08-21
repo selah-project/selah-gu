@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 74:15",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 74,
+  "translation": "તેં ઝરણું અને નદી પાડી; તેં સદાવહેલ નદીઓ સુકાવી નાખી.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "તેં"
+    },
+    {
+      "surface": "בקעת",
+      "gloss": "પાડી"
+    },
+    {
+      "surface": "מעין",
+      "gloss": "ઝરણું"
+    },
+    {
+      "surface": "ונחל",
+      "gloss": "અને નદી"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "તેં"
+    },
+    {
+      "surface": "הובשת",
+      "gloss": "સુકાવી નાખી"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "નદીઓ"
+    },
+    {
+      "surface": "איתן",
+      "gloss": "સદાવહેલ"
+    }
+  ],
+  "timestamp": "2026-08-21T16:31:02.306946127Z",
+  "model": "glm-5.3"
+}

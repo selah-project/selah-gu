@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezekiel 45:14",
+  "book": "ezekiel",
+  "lang": "gu",
+  "chapter": 45,
+  "translation": "અને તેલનો હોકમ ⟨is⟩ — બાથ તેલનો — કોરમાંથી બાથનો દશમો ભાગ; દસ બાથ ⟨make⟩ એક હોમેર, કેમ કે દસ બાથ એક હોમેર છે.",
+  "tokens": [
+    {
+      "surface": "וחק",
+      "gloss": "અને હોકમ"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "તેલનો"
+    },
+    {
+      "surface": "הבת",
+      "gloss": "બાથ"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "તેલનો"
+    },
+    {
+      "surface": "מעשר",
+      "gloss": "દશમો ભાગ (માશેર)"
+    },
+    {
+      "surface": "הבת",
+      "gloss": "બાથનો"
+    },
+    {
+      "surface": "מן",
+      "gloss": "માંથી"
+    },
+    {
+      "surface": "הכר",
+      "gloss": "કોર"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "દસ"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "બાથ"
+    },
+    {
+      "surface": "חמר",
+      "gloss": "એક હોમેર"
+    },
+    {
+      "surface": "כי",
+      "gloss": "કેમ કે"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "દસ"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "બાથ"
+    },
+    {
+      "surface": "חמר",
+      "gloss": "એક હોમેર"
+    }
+  ],
+  "timestamp": "2026-08-21T15:42:47.104305863Z",
+  "model": "glm-5.3"
+}

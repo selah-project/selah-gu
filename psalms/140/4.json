@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 140:4",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 140,
+  "translation": "તેમની જીભ સાપની જેમ ધારદાર કરી છે; તેમના હોઠ નીચે અજગરનું ઝેર ⟨is⟩. સેલા.",
+  "tokens": [
+    {
+      "surface": "שננו",
+      "gloss": "ધારદાર કરી છે"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "તેમની જીભ"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "જેમ"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "સાપની"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "ઝેર"
+    },
+    {
+      "surface": "עכשוב",
+      "gloss": "અજગરનું"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "નીચે"
+    },
+    {
+      "surface": "שפתימו",
+      "gloss": "તેમના હોઠ"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "સેલા"
+    }
+  ],
+  "timestamp": "2026-08-21T16:48:14.764414270Z",
+  "model": "glm-5.3"
+}

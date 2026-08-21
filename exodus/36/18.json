@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 36:18",
+  "book": "exodus",
+  "lang": "gu",
+  "chapter": 36,
+  "translation": "અને તેણે તાંબાના પચાસ કડાઓ બનાવી, ⟨את⟩ મંડપને જોડવા માટે, એક થવા માટે.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "અને તેણે બનાવી"
+    },
+    {
+      "surface": "קרסי",
+      "gloss": "કડાઓ"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "તાંબાના"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "પચાસ"
+    },
+    {
+      "surface": "לחבר",
+      "gloss": "જોડવા માટે"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "મંડપ"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "મંડપ"
+    },
+    {
+      "surface": "להית",
+      "gloss": "થવા માટે"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "એક"
+    }
+  ],
+  "timestamp": "2026-08-21T11:28:10.852006618Z",
+  "model": "glm-5.3"
+}

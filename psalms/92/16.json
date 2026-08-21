@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 92:16",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 92,
+  "translation": "જાહેર કરવા કે યાહવે સાચો છે; ⟨⟨એ⟩⟩ મારો ખડક છે, અને એનામાં કોઈ અનીતિ નથી.",
+  "tokens": [
+    {
+      "surface": "להגיד",
+      "gloss": "જાહેર કરવા કે"
+    },
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "ישר",
+      "gloss": "સાચો"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "મારો ખડક"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "નથી"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "અનીતિ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "એનામાં"
+    }
+  ],
+  "timestamp": "2026-08-21T16:35:53.224329957Z",
+  "model": "glm-5.3"
+}

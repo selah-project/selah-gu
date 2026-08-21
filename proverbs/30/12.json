@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 30:12",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 30,
+  "translation": "એ પેઢી ⟨છે⟩ — પોતાની આંખોમાં શુદ્ધ, અને છતાં પોતાના મેલથી ધોવાઈ નથી।",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "પેઢી"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "શુદ્ધ"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "પોતાની આંખોમાં"
+    },
+    {
+      "surface": "ומצאתו",
+      "gloss": "અને પોતાના મેલથી"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નથી"
+    },
+    {
+      "surface": "רחץ",
+      "gloss": "ધોવાઈ"
+    }
+  ],
+  "timestamp": "2026-08-21T17:03:05.685019596Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 25:19",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 25,
+  "translation": "તૂટેલો દાંત અને ખૂંચી ગયેલો પગ — સંકટના દિવસે દ્રોહી પર ભરોસો ⟨એવો જ⟩ ⟨છે⟩.",
+  "tokens": [
+    {
+      "surface": "שן",
+      "gloss": "દાંત"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "તૂટેલો"
+    },
+    {
+      "surface": "ורגל",
+      "gloss": "અને પગ"
+    },
+    {
+      "surface": "מועדת",
+      "gloss": "ખૂંચી ગયેલો"
+    },
+    {
+      "surface": "מבטח",
+      "gloss": "ભરોસો"
+    },
+    {
+      "surface": "בוגד",
+      "gloss": "દ્રોહી પર"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "દિવસે"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "સંકટના"
+    }
+  ],
+  "timestamp": "2026-08-21T17:01:16.638976268Z",
+  "model": "glm-5.3"
+}

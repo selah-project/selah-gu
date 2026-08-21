@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 3:20",
+  "book": "ecclesiastes",
+  "lang": "gu",
+  "chapter": 3,
+  "translation": "સર્વ એક જ સ્થાન પર જાય છે; સર્વ ધૂળમાંથી થયું ⟨છે⟩, અને સર્વ ધૂળ તરફ પાછું ફરશે.",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "સર્વ"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "જાય છે"
+    },
+    {
+      "surface": "אל",
+      "gloss": "તરફ"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "સ્થાન"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "એક જ"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "સર્વ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "થયું"
+    },
+    {
+      "surface": "מן",
+      "gloss": "માંથી"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "ધૂળ"
+    },
+    {
+      "surface": "והכל",
+      "gloss": "અને સર્વ"
+    },
+    {
+      "surface": "שב",
+      "gloss": "પાછું ફરશે"
+    },
+    {
+      "surface": "אל",
+      "gloss": "તરફ"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "ધૂળ"
+    }
+  ],
+  "timestamp": "2026-08-21T17:29:27.896267039Z",
+  "model": "glm-5.3"
+}

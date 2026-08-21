@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 10:6",
+  "book": "ecclesiastes",
+  "lang": "gu",
+  "chapter": 10,
+  "translation": "મૂર્ખને ઊંચા મોભાનાં પદો પર મૂકવામાં આવે છે, અને ધનિકો નીચલા સ્થાને બેસે છે.",
+  "tokens": [
+    {
+      "surface": "נתן",
+      "gloss": "મૂકવામાં આવે છે"
+    },
+    {
+      "surface": "הסכל",
+      "gloss": "મૂર્ખને"
+    },
+    {
+      "surface": "במרומים",
+      "gloss": "ઊંચા પદો પર"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "મોભાનાં"
+    },
+    {
+      "surface": "ועשירים",
+      "gloss": "અને ધનિકો"
+    },
+    {
+      "surface": "בשפל",
+      "gloss": "નીચલા સ્થાને"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "બેસે છે"
+    }
+  ],
+  "timestamp": "2026-08-21T19:00:11.430428673Z",
+  "model": "glm-5.3"
+}

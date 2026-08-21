@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 118:17",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 118,
+  "translation": "હું નહીં મરું — કે કે હું જીવીશ — અને યાહનાં કાર્યો વર્ણિશ.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "મરું"
+    },
+    {
+      "surface": "כי",
+      "gloss": "કે કે"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "જીવીશ"
+    },
+    {
+      "surface": "ואספר",
+      "gloss": "અને વર્ણિશ"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "કાર્યો"
+    },
+    {
+      "surface": "יה",
+      "gloss": "યાહ"
+    }
+  ],
+  "timestamp": "2026-08-21T16:43:32.987041010Z",
+  "model": "glm-5.3"
+}

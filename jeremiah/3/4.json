@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 3:4",
+  "book": "jeremiah",
+  "lang": "gu",
+  "chapter": 3,
+  "translation": "શું આ સમયથી તેં મને પાકઠું ન પાડ્યું: “મારા પિતા, મારી તરુણાઈના મિત્ર તું છે?”",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "શું નહીં"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "આ સમયથી"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "હું પાકઠું પાડું"
+    },
+    {
+      "surface": "לי",
+      "gloss": "મને"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "મારા પિતા"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "મિત્ર"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "મારી તરુણાઈના"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "તું"
+    }
+  ],
+  "timestamp": "2026-08-21T14:44:53.226966384Z",
+  "model": "glm-5.3"
+}

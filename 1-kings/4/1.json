@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 4:1",
+  "book": "1-kings",
+  "lang": "gu",
+  "chapter": 4,
+  "translation": "અને રાજા શલોમો આખા યિસ્રાએલ પર રાજા ⟨હતો⟩.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "અને ... હતો"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "રાજા"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "શલોમો"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "રાજા"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "כל",
+      "gloss": "આખા"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "યિસ્રાએલ"
+    }
+  ],
+  "timestamp": "2026-08-21T13:37:15.568503555Z",
+  "model": "glm-5.3"
+}

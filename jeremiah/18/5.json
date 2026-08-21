@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 18:5",
+  "book": "jeremiah",
+  "lang": "gu",
+  "chapter": 18,
+  "translation": "અને યાહવેનો વચન મારી પાસે આવ્યો, કહેતા:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "અને આવ્યો"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "વચન"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવેનો"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "મારી પાસે"
+    },
+    {
+      "surface": "לאמור",
+      "gloss": "કહેતા"
+    }
+  ],
+  "timestamp": "2026-08-21T14:55:26.883884082Z",
+  "model": "glm-5.3"
+}

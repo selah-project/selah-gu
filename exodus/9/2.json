@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 9:2",
+  "book": "exodus",
+  "lang": "gu",
+  "chapter": 9,
+  "translation": "કે જો તું મૂકવાની ના પાડે છે, અને હજી પણ તું તેમને પકડી રાખે છે —",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "કે જો"
+    },
+    {
+      "surface": "אם",
+      "gloss": "જો"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "ના પાડે છે"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "તું"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "મૂકવાની"
+    },
+    {
+      "surface": "ועודך",
+      "gloss": "અને હજી પણ તું"
+    },
+    {
+      "surface": "מחזיק",
+      "gloss": "પકડી રાખે છે"
+    },
+    {
+      "surface": "בם",
+      "gloss": "તેમને"
+    }
+  ],
+  "timestamp": "2026-08-21T11:10:09.057323664Z",
+  "model": "glm-5.3"
+}

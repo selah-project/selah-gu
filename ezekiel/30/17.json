@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezekiel 30:17",
+  "book": "ezekiel",
+  "lang": "gu",
+  "chapter": 30,
+  "translation": "અવ્નના યુવકો અને પી-બેસેતના તરવાર વડે પડશે, અને ⟨તેઓ⟩ બંદીવાનમાં જશે.",
+  "tokens": [
+    {
+      "surface": "בחורי",
+      "gloss": "યુવકો"
+    },
+    {
+      "surface": "און",
+      "gloss": "અવ્ન"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "અને પી"
+    },
+    {
+      "surface": "בסת",
+      "gloss": "બેસેત"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "તરવાર વડે"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "પડશે"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "અને ⟨તેઓ⟩"
+    },
+    {
+      "surface": "בשבי",
+      "gloss": "બંદીવાનમાં"
+    },
+    {
+      "surface": "תלכנה",
+      "gloss": "જશે"
+    }
+  ],
+  "timestamp": "2026-08-21T15:32:41.708151407Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "deuteronomy 28:38",
+  "book": "deuteronomy",
+  "lang": "gu",
+  "chapter": 28,
+  "translation": "ઘણું બીજ તું ખેતરમાં કાઢશે, પણ થોડું ભેગું કરશે, કારણ કે ટીડી ⟨તેને⟩ ખાઈ જશે.",
+  "tokens": [
+    {
+      "surface": "זרע",
+      "gloss": "બીજ"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ઘણું"
+    },
+    {
+      "surface": "תוציא",
+      "gloss": "તું કાઢશે"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ખેતરમાં"
+    },
+    {
+      "surface": "ומעט",
+      "gloss": "પણ થોડું"
+    },
+    {
+      "surface": "תאסף",
+      "gloss": "ભેગું કરશે"
+    },
+    {
+      "surface": "כי",
+      "gloss": "કારણ કે"
+    },
+    {
+      "surface": "יחסלנו",
+      "gloss": "તેને ખાઈ જશે"
+    },
+    {
+      "surface": "הארבה",
+      "gloss": "ટીડી"
+    }
+  ],
+  "timestamp": "2026-08-21T12:27:18.769449872Z",
+  "model": "glm-5.3"
+}

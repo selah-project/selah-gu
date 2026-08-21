@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 36:10",
+  "book": "genesis",
+  "lang": "gu",
+  "chapter": 36,
+  "translation": "આ છે એસાવના પુત્રોનાં નામ: એલીફાઝ — એદાનો પુત્ર, એસાવની પત્ની; રેઉએલ — બશેમતનો પુત્ર, એસાવની પત્ની।",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "આ"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "નામ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "પુત્રોનાં"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "એસાવના"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "એલીફાઝ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "પુત્ર"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "એદાનો"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "પત્ની"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "એસાવની"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "રેઉએલ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "પુત્ર"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "બશેમતનો"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "પત્ની"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "એસાવની"
+    }
+  ],
+  "timestamp": "2026-08-21T10:55:46.003009050Z",
+  "model": "glm-5.3"
+}

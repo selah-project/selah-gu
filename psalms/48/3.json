@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 48:3",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 48,
+  "translation": "સુંદર ⟨છે⟩ ઊંચાણે, આખા પૃથ્વીનો આનંદ — હાર ત્સિયોન, ઉત્તરની છેક પાળીઓ, મહાન રાજાનું નગર.",
+  "tokens": [
+    {
+      "surface": "יפה",
+      "gloss": "સુંદર"
+    },
+    {
+      "surface": "נוף",
+      "gloss": "ઊંચાણ"
+    },
+    {
+      "surface": "משוש",
+      "gloss": "આનંદ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "આખા"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "પૃથ્વીનો"
+    },
+    {
+      "surface": "הר",
+      "gloss": "હાર"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "ત્સિયોન"
+    },
+    {
+      "surface": "ירכתי",
+      "gloss": "છેક પાળીઓ"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "ઉત્તરની"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "નગર"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "રાજાનું"
+    },
+    {
+      "surface": "רב",
+      "gloss": "મહાન"
+    }
+  ],
+  "timestamp": "2026-08-21T16:23:01.886715284Z",
+  "model": "glm-5.3"
+}

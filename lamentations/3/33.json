@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "lamentations 3:33",
+  "book": "lamentations",
+  "lang": "gu",
+  "chapter": 3,
+  "translation": "કેમ કે તે પોતાના હૃદયથી દુઃખ આપતો નથી, ને માનવનાં પુત્રોને શોક પહોંચાડતો નથી.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "કેમ કે"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નથી"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "દુઃખ આપતો"
+    },
+    {
+      "surface": "מלבו",
+      "gloss": "પોતાના હૃદયથી"
+    },
+    {
+      "surface": "ויגה",
+      "gloss": "ને શોક પહોંચાડતો"
+    },
+    {
+      "surface": "בני",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "איש",
+      "gloss": "માનવના"
+    }
+  ],
+  "timestamp": "2026-08-21T17:26:10.428543101Z",
+  "model": "glm-5.3"
+}

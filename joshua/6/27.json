@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "joshua 6:27",
+  "book": "joshua",
+  "lang": "gu",
+  "chapter": 6,
+  "translation": "અને યાહવે યહોશુઆ ⟨את⟩ સાથે હતો, અને તેની કીર્તિ આખી પૃથ્વીમાં હતી.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "અને હતો"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ સાથે",
+      "marks": "યહોશુઆ"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "યહોશુઆ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "અને હતી"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "તેની કીર્તિ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "આખી"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "પૃથ્વીમાં"
+    }
+  ],
+  "timestamp": "2026-08-21T12:35:38.137593779Z",
+  "model": "glm-5.3"
+}

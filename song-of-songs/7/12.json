@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 7:12",
+  "book": "song-of-songs",
+  "lang": "gu",
+  "chapter": 7,
+  "translation": "આવ, મારા પ્રિયતમ, ચાલ ખેતરમાં જઈએ; ખાનાં ગામડાંઓમાં રાત ગાળીએ.",
+  "tokens": [
+    {
+      "surface": "לכה",
+      "gloss": "આવ"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "મારા પ્રિયતમ"
+    },
+    {
+      "surface": "נצא",
+      "gloss": "ચાલ જઈએ"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ખેતરમાં"
+    },
+    {
+      "surface": "נלינה",
+      "gloss": "રાત ગાળીએ"
+    },
+    {
+      "surface": "בכפרים",
+      "gloss": "ખાનાં ગામડાંઓમાં"
+    }
+  ],
+  "timestamp": "2026-08-21T17:23:00.946944117Z",
+  "model": "glm-5.3"
+}

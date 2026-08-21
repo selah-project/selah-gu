@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 44:19",
+  "book": "genesis",
+  "lang": "gu",
+  "chapter": 44,
+  "translation": "મારા અદોનાયે ⟨את⟩ પોતાના દાસોને પૂછ્યું, કહેતા: શું તમારે પિતા છે કે ભાઈ?",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "મારા અદોનાયે"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "પૂછ્યું"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "પોતાના દાસોને"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "પોતાના દાસોને"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "કહેતા"
+    },
+    {
+      "surface": "היש",
+      "gloss": "શું ... છે"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "તમારે"
+    },
+    {
+      "surface": "אב",
+      "gloss": "પિતા"
+    },
+    {
+      "surface": "או",
+      "gloss": "કે"
+    },
+    {
+      "surface": "אח",
+      "gloss": "ભાઈ"
+    }
+  ],
+  "timestamp": "2026-08-21T11:02:29.439711906Z",
+  "model": "glm-5.3"
+}

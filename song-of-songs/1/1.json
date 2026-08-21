@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "song-of-songs 1:1",
+  "book": "song-of-songs",
+  "lang": "gu",
+  "chapter": 1,
+  "translation": "ગીતોનું ગીત, જે શલોમોનનું ⟨છે⟩.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "ગીત"
+    },
+    {
+      "surface": "השירים",
+      "gloss": "ગીતોનું ગીત"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જે"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "શલોમોનનું"
+    }
+  ],
+  "timestamp": "2026-08-21T17:20:52.691177730Z",
+  "model": "glm-5.3"
+}

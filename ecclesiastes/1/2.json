@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 1:2",
+  "book": "ecclesiastes",
+  "lang": "gu",
+  "chapter": 1,
+  "translation": "הֶבֶל અને הֶבֶלોનું હેבલ, કોહેલેત કહે છે; הֶבֶל અને הֶבֶלોનું הેબલ, બધું જ હેબલ છે.",
+  "tokens": [
+    {
+      "surface": "הבל",
+      "gloss": "હેબલ"
+    },
+    {
+      "surface": "הבלים",
+      "gloss": "હેબલો"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "કહે છે"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "કોહેલેત"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "હેબલ"
+    },
+    {
+      "surface": "הבלים",
+      "gloss": "હેબલો"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "બધું જ"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "હેબલ"
+    }
+  ],
+  "timestamp": "2026-08-21T17:28:51.478243662Z",
+  "model": "glm-5.3"
+}

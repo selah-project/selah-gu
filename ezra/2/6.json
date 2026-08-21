@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezra 2:6",
+  "book": "ezra",
+  "lang": "gu",
+  "chapter": 2,
+  "translation": "પખત-મોઆબનાં પુત્રો, યેશુઆ અને યોઆવનાં પુત્રોમાંથી, બે હજાર આઠસો અને બાર.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "פחת",
+      "gloss": "પખત"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "મોઆબ"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "પુત્રોમાંથી"
+    },
+    {
+      "surface": "ישוע",
+      "gloss": "યેશુઆ"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "યોઆવ"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "હજાર"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "આઠ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "સો"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "અને બે"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "બાર"
+    }
+  ],
+  "timestamp": "2026-08-21T17:45:22.157405682Z",
+  "model": "glm-5.3"
+}

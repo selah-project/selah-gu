@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 14:6",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 14,
+  "translation": "અને નોગાહ, અને નેફેગ, અને યાફીઆ;",
+  "tokens": [
+    {
+      "surface": "ונגה",
+      "gloss": "અને નોગાહ"
+    },
+    {
+      "surface": "ונפג",
+      "gloss": "અને નેફેગ"
+    },
+    {
+      "surface": "ויפיע",
+      "gloss": "અને યાફીઆ"
+    }
+  ],
+  "timestamp": "2026-08-21T18:06:28.310303724Z",
+  "model": "glm-5.3"
+}

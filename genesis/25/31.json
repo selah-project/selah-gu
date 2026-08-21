@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 25:31",
+  "book": "genesis",
+  "lang": "gu",
+  "chapter": 25,
+  "translation": "અને યાકોવે કહ્યું: આજે જ ⟨את⟩ તારી જેઠાણીનો હક મને વેચી દે.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "કહ્યું"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "યાકોવે"
+    },
+    {
+      "surface": "מכרה",
+      "gloss": "વેચી દે"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "આજે જ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "તારી જેઠાણીનો હક"
+    },
+    {
+      "surface": "בכרתך",
+      "gloss": "તારી જેઠાણીનો હક"
+    },
+    {
+      "surface": "לי",
+      "gloss": "મને"
+    }
+  ],
+  "timestamp": "2026-08-21T10:48:33.578523110Z",
+  "model": "glm-5.3"
+}

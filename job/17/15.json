@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 17:15",
+  "book": "job",
+  "lang": "gu",
+  "chapter": 17,
+  "translation": "અને મારી આશા હવે ક્યાં ⟨છે⟩? મારી આશાને કોણ જોશે?",
+  "tokens": [
+    {
+      "surface": "ואיה",
+      "gloss": "અને ક્યાં"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "હવે"
+    },
+    {
+      "surface": "תקותי",
+      "gloss": "મારી આશા"
+    },
+    {
+      "surface": "ותקותי",
+      "gloss": "અને મારી આશા"
+    },
+    {
+      "surface": "מי",
+      "gloss": "કોણ"
+    },
+    {
+      "surface": "ישורנה",
+      "gloss": "જોશે"
+    }
+  ],
+  "timestamp": "2026-08-21T17:10:17.900842244Z",
+  "model": "glm-5.3"
+}

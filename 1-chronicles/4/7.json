@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 4:7",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 4,
+  "translation": "અને હેલાના પુત્રો — સેરેથ, યિત્સહર અને એથનાન.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "અને પુત્રો"
+    },
+    {
+      "surface": "חלאה",
+      "gloss": "હેલાના"
+    },
+    {
+      "surface": "צרת",
+      "gloss": "સેરેથ"
+    },
+    {
+      "surface": "יצחר",
+      "gloss": "યિત્સહર"
+    },
+    {
+      "surface": "ואתנן",
+      "gloss": "અને એથનાન"
+    }
+  ],
+  "timestamp": "2026-08-21T18:01:25.946057523Z",
+  "model": "glm-5.3"
+}

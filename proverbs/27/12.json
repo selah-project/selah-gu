@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 27:12",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 27,
+  "translation": "ચતુરે ⟨માણસે⟩ વિપત્તિ જોઈ ⟨છે અને⟩ છુપાઈ ગયો; ભોળાઓ આગળ વધ્યા અને સજા પામ્યા.",
+  "tokens": [
+    {
+      "surface": "ערום",
+      "gloss": "ચતુર"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "જોઈ"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "વિપત્તિ"
+    },
+    {
+      "surface": "נסתר",
+      "gloss": "છુપાઈ ગયો"
+    },
+    {
+      "surface": "פתאים",
+      "gloss": "ભોળાઓ"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "આગળ વધ્યા"
+    },
+    {
+      "surface": "נענשו",
+      "gloss": "સજા પામ્યા"
+    }
+  ],
+  "timestamp": "2026-08-21T17:02:23.279837115Z",
+  "model": "glm-5.3"
+}

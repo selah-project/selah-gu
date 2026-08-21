@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 7:27",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 7,
+  "translation": "નૂન ⟨તેનો⟩ પુત્ર, યહોશુઆ ⟨તેનો⟩ પુત્ર.",
+  "tokens": [
+    {
+      "surface": "נון",
+      "gloss": "નૂન"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "તેનો પુત્ર"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "યહોશુઆ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "તેનો પુત્ર"
+    }
+  ],
+  "timestamp": "2026-08-21T18:03:25.958882512Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 10:14",
+  "book": "1-kings",
+  "lang": "gu",
+  "chapter": 10,
+  "translation": "અને એક વર્ષમાં શલોમો પાસે આવેલા સોનાનું વજન ⟨હતું⟩ છ સો છાસઠ છ કિક્કર સોનું.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "અને થયું"
+    },
+    {
+      "surface": "משקל",
+      "gloss": "વજન"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "સોનાનું"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જે"
+    },
+    {
+      "surface": "בא",
+      "gloss": "આવેલા"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "શલોમો પાસે"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "વર્ષમાં"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "એક"
+    },
+    {
+      "surface": "שש",
+      "gloss": "છ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "સો"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "છાસઠ"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "છ"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "કિક્કર"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "સોનું"
+    }
+  ],
+  "timestamp": "2026-08-21T13:41:54.279916106Z",
+  "model": "glm-5.3"
+}

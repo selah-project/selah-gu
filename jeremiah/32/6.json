@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 32:6",
+  "book": "jeremiah",
+  "lang": "gu",
+  "chapter": 32,
+  "translation": "અને યિર્મેયાહુએ કહ્યું: યાહવેનો વચન મારી પાસે આવ્યું, કહેતું:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "અને કહ્યું"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "યિર્મેયાહુ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "આવ્યું (થયું)"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "વચન"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "મારી પાસે"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "કહેતું"
+    }
+  ],
+  "timestamp": "2026-08-21T15:04:34.194705698Z",
+  "model": "glm-5.3"
+}

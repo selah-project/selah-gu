@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 16:22",
+  "book": "deuteronomy",
+  "lang": "gu",
+  "chapter": 16,
+  "translation": "અને તું તારા માટે મત્સેવાહ ઊભી કરીશ નહીં, જેનો યાહવે તારો એલોહીમ તિરસ્કાર કરે છે.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "અને નહીં"
+    },
+    {
+      "surface": "תקים",
+      "gloss": "ઊભી કરીશ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "તારા માટે"
+    },
+    {
+      "surface": "מצבה",
+      "gloss": "મત્સેવાહ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જેનો"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "તિરસ્કાર કરે છે"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "તારો એલોહીમ"
+    }
+  ],
+  "timestamp": "2026-08-21T12:22:10.022258767Z",
+  "model": "glm-5.3"
+}

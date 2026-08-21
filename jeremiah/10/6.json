@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 10:6",
+  "book": "jeremiah",
+  "lang": "gu",
+  "chapter": 10,
+  "translation": "કોઈ તારી જેમ નથી, હે યાહવે; તું મહાન છો, અને તારું નામ પરાક્રમમાં મહાન છે.",
+  "tokens": [
+    {
+      "surface": "מאין",
+      "gloss": "કોઈ... નથી"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "તારી જેમ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "મહાન"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "તું"
+    },
+    {
+      "surface": "וגדול",
+      "gloss": "અને મહાન"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "તારું નામ"
+    },
+    {
+      "surface": "בגבורה",
+      "gloss": "પરાક્રમમાં"
+    }
+  ],
+  "timestamp": "2026-08-21T14:49:12.262006707Z",
+  "model": "glm-5.3"
+}

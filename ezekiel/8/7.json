@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 8:7",
+  "book": "ezekiel",
+  "lang": "gu",
+  "chapter": 8,
+  "translation": "તે મને પ્રાંગણના દરવાજા પાસે ⟨את⟩ લઈ ગયો; તો મેં જોયું, અને જુઓ, દિવાલમાં એક ખાડો ⟨હતો⟩.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "લઈ ગયો"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "મને"
+    },
+    {
+      "surface": "אל",
+      "gloss": "પાસે"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "દરવાજા"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "પ્રાંગણના"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "મેં જોયું"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "અને જુઓ"
+    },
+    {
+      "surface": "חר",
+      "gloss": "ખાડો"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "એક"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "દિવાલમાં"
+    }
+  ],
+  "timestamp": "2026-08-21T15:19:00.647680228Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,21 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 20:14",
+  "book": "exodus",
+  "lang": "gu",
+  "chapter": 20,
+  "translation": "તું વ્યભિચાર નહિ કરે.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "નહિ"
+    },
+    {
+      "surface": "תנאף",
+      "gloss": "વ્યભિચાર કરે"
+    }
+  ],
+  "timestamp": "2026-08-21T11:14:15.160930767Z",
+  "model": "glm-5.3"
+}

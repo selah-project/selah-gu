@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 77:18",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 77,
+  "translation": "ઘટાઓએ પાણી ઉમેર્યું, વાદળોએ અવાજ આપ્યો; તારાં બાણો પણ આમતેમ ફર્યાં.",
+  "tokens": [
+    {
+      "surface": "זרמו",
+      "gloss": "ઉમેર્યું"
+    },
+    {
+      "surface": "מים",
+      "gloss": "પાણી"
+    },
+    {
+      "surface": "עבות",
+      "gloss": "ઘટાઓએ"
+    },
+    {
+      "surface": "קול",
+      "gloss": "અવાજ"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "આપ્યો"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "વાદળોએ"
+    },
+    {
+      "surface": "אף",
+      "gloss": "પણ"
+    },
+    {
+      "surface": "חצציך",
+      "gloss": "તારાં બાણો"
+    },
+    {
+      "surface": "יתהלכו",
+      "gloss": "આમતેમ ફર્યાં"
+    }
+  ],
+  "timestamp": "2026-08-21T16:30:49.552099109Z",
+  "model": "glm-5.3"
+}

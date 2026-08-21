@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 5:14",
+  "book": "genesis",
+  "lang": "gu",
+  "chapter": 5,
+  "translation": "અને કેનાનના બધા દિવસો દસ વર્ષ અને નવસો વર્ષ થયા, અને તે મર્યો.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "થયા"
+    },
+    {
+      "surface": "כל",
+      "gloss": "બધા"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "દિવસો"
+    },
+    {
+      "surface": "קינן",
+      "gloss": "કેનાનના"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "દસ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "વર્ષ"
+    },
+    {
+      "surface": "ותשע",
+      "gloss": "અને નવ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "સો"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "વર્ષ"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "અને તે મર્યો"
+    }
+  ],
+  "timestamp": "2026-08-21T10:38:15.660385327Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 19:26",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 19,
+  "translation": "પિતાને લૂંટનાર, માતાને ભગાડનાર — ⟨એ⟩ દીકરો શરમ અને અપમાન લાવનાર છે.",
+  "tokens": [
+    {
+      "surface": "משדד",
+      "gloss": "લૂંટનાર"
+    },
+    {
+      "surface": "אב",
+      "gloss": "પિતાને"
+    },
+    {
+      "surface": "יבריח",
+      "gloss": "ભગાડનાર"
+    },
+    {
+      "surface": "אם",
+      "gloss": "માતાને"
+    },
+    {
+      "surface": "בן",
+      "gloss": "દીકરો"
+    },
+    {
+      "surface": "מביש",
+      "gloss": "શરમ લાવનાર"
+    },
+    {
+      "surface": "ומחפיר",
+      "gloss": "અને અપમાન લાવનાર"
+    }
+  ],
+  "timestamp": "2026-08-21T16:59:46.128524362Z",
+  "model": "glm-5.3"
+}

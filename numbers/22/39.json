@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "numbers 22:39",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 22,
+  "translation": "બિલ્આમ બાલાકની સાથે ચાલ્યો, અને તેઓ કિર્યાથ-ખુત્સોથ પહોંચ્યા.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ચાલ્યો"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "બિલ્આમ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "સાથે"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "બાલાકની"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "તેઓ પહોંચ્યા"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "કિર્યાથ"
+    },
+    {
+      "surface": "ગצות",
+      "gloss": "ખુત્સોથ"
+    }
+  ],
+  "timestamp": "2026-08-21T12:03:42.065945506Z",
+  "model": "glm-5.3"
+}

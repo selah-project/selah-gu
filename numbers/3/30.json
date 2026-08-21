@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 3:30",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 3,
+  "translation": "અને કહાતી કુળોના પિતૃ-ગૃહનો પ્રમુખ એલિત્સાફાન, ઉઝ્ઝીએલનો પુત્ર.",
+  "tokens": [
+    {
+      "surface": "ונשיא",
+      "gloss": "અને...પ્રમુખ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ગૃહ"
+    },
+    {
+      "surface": "אב",
+      "gloss": "પિતૃ"
+    },
+    {
+      "surface": "למשפחת",
+      "gloss": "કુળોના"
+    },
+    {
+      "surface": "הקהתי",
+      "gloss": "કહાતી"
+    },
+    {
+      "surface": "אליצפן",
+      "gloss": "એલિત્સાફાન"
+    },
+    {
+      "surface": "בן",
+      "gloss": "પુત્ર"
+    },
+    {
+      "surface": "עזיאל",
+      "gloss": "ઉઝ્ઝીએલ"
+    }
+  ],
+  "timestamp": "2026-08-21T11:49:44.191226539Z",
+  "model": "glm-5.3"
+}

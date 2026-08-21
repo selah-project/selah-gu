@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 2:14",
+  "book": "isaiah",
+  "lang": "gu",
+  "chapter": 2,
+  "translation": "અને બધાં ઊંચા પર્વતો પર, અને બધાં ઉત્કૃષ્ટ ટેકરાઓ પર,",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "અને … પર"
+    },
+    {
+      "surface": "כל",
+      "gloss": "બધાં"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "પર્વતો"
+    },
+    {
+      "surface": "הרמים",
+      "gloss": "ઊંચા"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "અને … પર"
+    },
+    {
+      "surface": "כל",
+      "gloss": "બધાં"
+    },
+    {
+      "surface": "הגבעות",
+      "gloss": "ટેકરાઓ"
+    },
+    {
+      "surface": "הנשאות",
+      "gloss": "ઉત્કૃષ્ટ"
+    }
+  ],
+  "timestamp": "2026-08-21T14:10:17.833459840Z",
+  "model": "glm-5.3"
+}

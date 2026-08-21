@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 45:22",
+  "book": "isaiah",
+  "lang": "gu",
+  "chapter": 45,
+  "translation": "મારા તરફ વળો અને બચી જાઓ, પૃથ્વીના બધા છેડાના લોકો; કેમ કે હું જ એલ છું અને બીજો કોઈ નથી.",
+  "tokens": [
+    {
+      "surface": "פנו",
+      "gloss": "વળો"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "મારા તરફ"
+    },
+    {
+      "surface": "והושעו",
+      "gloss": "અને બચી જાઓ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "બધા"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "છેડાના"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "પૃથ્વી"
+    },
+    {
+      "surface": "כי",
+      "gloss": "કેમ કે"
+    },
+    {
+      "surface": "אני",
+      "gloss": "હું જ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "એલ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "અને... નથી"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "બીજો કોઈ"
+    }
+  ],
+  "timestamp": "2026-08-21T14:35:43.425988977Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 34:14",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 34,
+  "translation": "તારી જીભને દુષ્ટતાથી રાખ, અને તારા હોઠને છળથી બોલવાથી.",
+  "tokens": [
+    {
+      "surface": "נצר",
+      "gloss": "રાખ"
+    },
+    {
+      "surface": "לשונך",
+      "gloss": "તારી જીભને"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "દુષ્ટતાથી"
+    },
+    {
+      "surface": "ושפתיך",
+      "gloss": "અને તારા હોઠને"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "બોલવાથી"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "છળથી"
+    }
+  ],
+  "timestamp": "2026-08-21T16:18:20.668170992Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 11:7",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 11,
+  "translation": "અને ⟨the⟩ માન એ કોથમીરના બીજ જેવો ⟨હતો⟩, અને તેનો દેખાવ બેદોલાખના દેખાવ જેવો ⟨હતો⟩.",
+  "tokens": [
+    {
+      "surface": "והמן",
+      "gloss": "અને ⟨the⟩ માન"
+    },
+    {
+      "surface": "כזרע",
+      "gloss": "બીજ જેવો"
+    },
+    {
+      "surface": "גד",
+      "gloss": "કોથમીર"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "એ"
+    },
+    {
+      "surface": "ועינו",
+      "gloss": "અને તેનો દેખાવ"
+    },
+    {
+      "surface": "כעין",
+      "gloss": "દેખાવ જેવો"
+    },
+    {
+      "surface": "הבדלח",
+      "gloss": "બેદોલાખ"
+    }
+  ],
+  "timestamp": "2026-08-21T11:54:54.722166695Z",
+  "model": "glm-5.3"
+}

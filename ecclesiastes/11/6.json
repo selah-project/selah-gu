@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 11:6",
+  "book": "ecclesiastes",
+  "lang": "gu",
+  "chapter": 11,
+  "translation": "સવારમાં વાવ ⟨את⟩ તારું બીજ, અને સાંજે તારો હાથ ન છોડી દે, કારણ કે તું જાણતો નથી કે આ સફળ થશે કે તે, કે કદાચ બંને એક જેવાં સારાં થશે.",
+  "tokens": [
+    {
+      "surface": "בבקר",
+      "gloss": "સવારમાં"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "વાવ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "તારું બીજ"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "તારું બીજ"
+    },
+    {
+      "surface": "ולערב",
+      "gloss": "અને સાંજે"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ન"
+    },
+    {
+      "surface": "תנח",
+      "gloss": "છોડી દે"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "તારો હાથ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "કારણ કે"
+    },
+    {
+      "surface": "אינך",
+      "gloss": "તું નથી"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "જાણતો"
+    },
+    {
+      "surface": "אי",
+      "gloss": "કે"
+    },
+    {
+      "surface": "זה",
+      "gloss": "આ"
+    },
+    {
+      "surface": "יכשר",
+      "gloss": "સફળ થશે"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "આ"
+    },
+    {
+      "surface": "או",
+      "gloss": "કે"
+    },
+    {
+      "surface": "זה",
+      "gloss": "તે"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "કે કદાચ"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "બંને"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "એક જેવાં"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "સારાં"
+    }
+  ],
+  "timestamp": "2026-08-21T17:32:14.612553602Z",
+  "model": "glm-5.3"
+}

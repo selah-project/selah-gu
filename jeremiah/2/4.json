@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 2:4",
+  "book": "jeremiah",
+  "lang": "gu",
+  "chapter": 2,
+  "translation": "યાહવેનું વચન સાંભળો, યાકોબના ઘરના, અને ઇસ્રાએલના ઘરનાં બધી કુટુંબો.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "સાંભળો"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "વચન"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવેનું"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ઘરના"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "યાકોબના"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "અને બધી"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "કુટુંબો"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ઘરનાં"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ઇસ્રાએલના"
+    }
+  ],
+  "timestamp": "2026-08-21T14:43:27.745635026Z",
+  "model": "glm-5.3"
+}

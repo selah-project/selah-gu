@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 91:10",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 91,
+  "translation": "તારી પાસે દુષ્ટતા નહીં આવી પહોંચે, અને મારણ તારા તંબુ પાસે નહીં આવે.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "תאנה",
+      "gloss": "આવી પહોંચે"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "તારી પાસે"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "દુષ્ટતા"
+    },
+    {
+      "surface": "ונגע",
+      "gloss": "અને મારણ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "יקרב",
+      "gloss": "આવે"
+    },
+    {
+      "surface": "באהלך",
+      "gloss": "તારા તંબુ પાસે"
+    }
+  ],
+  "timestamp": "2026-08-21T16:36:02.236342687Z",
+  "model": "glm-5.3"
+}

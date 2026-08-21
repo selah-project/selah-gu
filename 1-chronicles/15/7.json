@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 15:7",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 15,
+  "translation": "ગર્શોમના પુત્રોમાંથી: યોએલ ⟨સરદાર⟩, અને તેના ભાઈઓ સો ત્રીસ.",
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "પુત્રોમાંંથી"
+    },
+    {
+      "surface": "גרשום",
+      "gloss": "ગર્શોમના"
+    },
+    {
+      "surface": "יואל",
+      "gloss": "યોએલ"
+    },
+    {
+      "surface": "השר",
+      "gloss": "સરદાર"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "અને તેના ભાઈઓ"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "સો"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "ત્રીસ"
+    }
+  ],
+  "timestamp": "2026-08-21T18:06:46.105321617Z",
+  "model": "glm-5.3"
+}

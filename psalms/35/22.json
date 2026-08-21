@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 35:22",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 35,
+  "translation": "તમે જોયું, હે યાહવે; મૌન ન રખો; હે અદોનાય, મારથી દૂર ન રહો.",
+  "tokens": [
+    {
+      "surface": "ראיתה",
+      "gloss": "તમે જોયું"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ન"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "મૌન રખો"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "અદોનાય"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ન"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "દૂર રહો"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "મારથી"
+    }
+  ],
+  "timestamp": "2026-08-21T16:18:59.665345072Z",
+  "model": "glm-5.3"
+}

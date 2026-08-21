@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 61:1",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 61,
+  "translation": "મહેતા માટે, તંતુવાદ્ય પર; દાવીદનો.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "મહેતા માટે"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "נגינת",
+      "gloss": "તંતુવાદ્ય"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "દાવીદનો"
+    }
+  ],
+  "timestamp": "2026-08-21T16:26:47.464157193Z",
+  "model": "glm-5.3"
+}

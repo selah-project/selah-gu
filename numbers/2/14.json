@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 2:14",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 2,
+  "translation": "અને ગાદનો કુળ, અને ગાદનાં પુત્રો પરનો નાયક એલ્યાસાફ, રેઉએલનો પુત્ર.",
+  "tokens": [
+    {
+      "surface": "ומטה",
+      "gloss": "અને કુળ"
+    },
+    {
+      "surface": "גד",
+      "gloss": "ગાદ"
+    },
+    {
+      "surface": "ונשיא",
+      "gloss": "અને નાયક"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "પુત્રો પરનો"
+    },
+    {
+      "surface": "גד",
+      "gloss": "ગાદનાં"
+    },
+    {
+      "surface": "אליסף",
+      "gloss": "એલ્યાસાફ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "પુત્ર"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "રેઉએલનો"
+    }
+  ],
+  "timestamp": "2026-08-21T11:49:05.553744342Z",
+  "model": "glm-5.3"
+}

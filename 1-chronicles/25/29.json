@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-chronicles 25:29",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 25,
+  "translation": "બાવીસમું ગિદ્દાલ્તીને; ⟨તેના⟩ પુત્રો અને ⟨તેના⟩ ભાઈઓ — બાર.",
+  "tokens": [
+    {
+      "surface": "לשנים",
+      "gloss": "બાવીસમું"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": ""
+    },
+    {
+      "surface": "לגדלתי",
+      "gloss": "ગિદ્દાલ્તીને"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "અને ભાઈઓ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "બાર (બે)"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "(દસ)"
+    }
+  ],
+  "timestamp": "2026-08-21T18:11:31.595516039Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 10:18",
+  "book": "deuteronomy",
+  "lang": "gu",
+  "chapter": 10,
+  "translation": "અનાથ અને વિધવા માટે મિશ્પત કરનાર, અને પરદેશીને પ્રેમ કરનાર — તેને રોટલી અને વસ્ત્ર આપવા ⟨માટે⟩.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "કરનાર"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "મિશ્પત"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "અનાથ"
+    },
+    {
+      "surface": "ואלמנה",
+      "gloss": "અને વિધવા"
+    },
+    {
+      "surface": "ואהב",
+      "gloss": "અને પ્રેમ કરનાર"
+    },
+    {
+      "surface": "גר",
+      "gloss": "પરદેશીને"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "આપવા"
+    },
+    {
+      "surface": "לו",
+      "gloss": "તેને"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "રોટલી"
+    },
+    {
+      "surface": "ושמלה",
+      "gloss": "અને વસ્ત્ર"
+    }
+  ],
+  "timestamp": "2026-08-21T12:17:27.422454883Z",
+  "model": "glm-5.3"
+}

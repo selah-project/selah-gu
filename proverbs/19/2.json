@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 19:2",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 19,
+  "translation": "પણ જ્ઞાન વિના ⟨રહેલી⟩ જીવ સારી નથી, અને પગે પગે દોડનાર પાપ કરે છે.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "પણ"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "વિના"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "જ્ઞાન"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "જીવ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નથી"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "સારી"
+    },
+    {
+      "surface": "ואץ",
+      "gloss": "અને દોડનાર"
+    },
+    {
+      "surface": "ברגלים",
+      "gloss": "પગે પગે"
+    },
+    {
+      "surface": "חוטא",
+      "gloss": "પાપ કરે છે"
+    }
+  ],
+  "timestamp": "2026-08-21T16:59:15.499227624Z",
+  "model": "glm-5.3"
+}

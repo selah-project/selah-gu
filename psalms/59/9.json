@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 59:9",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 59,
+  "translation": "પણ તમે, હે યાહવે, તેઓ પર હસશો; બધી પ્રજાઓ પર તિરસ્કારથી હસશો.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "પણ તમે"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "હે યાહવે"
+    },
+    {
+      "surface": "תשחק",
+      "gloss": "હસશો"
+    },
+    {
+      "surface": "למו",
+      "gloss": "તેઓ પર"
+    },
+    {
+      "surface": "תלעג",
+      "gloss": "તિરસ્કારથી હસશો"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "બધી"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "પ્રજાઓ પર"
+    }
+  ],
+  "timestamp": "2026-08-21T16:26:31.225442047Z",
+  "model": "glm-5.3"
+}

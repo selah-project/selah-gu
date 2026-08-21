@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 6:12",
+  "book": "joshua",
+  "lang": "gu",
+  "chapter": 6,
+  "translation": "અને યહોશુ પારવડે ઊઠ્યા, અને કહાનોએ યાહવેનો ⟨את⟩ અર્કન ઉપાડ્યો.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "પારવડે ઊઠ્યા"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "યહોશુ"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "પારવડે"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "ઉપાડ્યો"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "કહાનોએ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "અર્કન"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "અર્કન"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવેનો"
+    }
+  ],
+  "timestamp": "2026-08-21T12:33:16.428847561Z",
+  "model": "glm-5.3"
+}

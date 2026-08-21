@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "micah 2:5",
+  "book": "micah",
+  "lang": "gu",
+  "chapter": 2,
+  "translation": "તેથી તને કોઈ ⟨એવો⟩ નહીં હોય જે યાહવેની સભામાં ગોરળા પ્રમાણે દોરિયો ફેંકે.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "તેથી"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "હોય"
+    },
+    {
+      "surface": "לך",
+      "gloss": "તને"
+    },
+    {
+      "surface": "משליך",
+      "gloss": "ફેંકનાર"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "દોરિયો"
+    },
+    {
+      "surface": "בגורל",
+      "gloss": "ગોરળા પ્રમાણે"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "સભામાં"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવેની"
+    }
+  ],
+  "timestamp": "2026-08-21T15:55:06.857563061Z",
+  "model": "glm-5.3"
+}

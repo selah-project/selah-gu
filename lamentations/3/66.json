@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "lamentations 3:66",
+  "book": "lamentations",
+  "lang": "gu",
+  "chapter": 3,
+  "translation": "તું ક્રોધથી તેમનો પીછો કર અને યાહવેના આકાશોની નીચેથી તેમનો નાશ કર.",
+  "tokens": [
+    {
+      "surface": "תרדף",
+      "gloss": "તું પીછો કર"
+    },
+    {
+      "surface": "באף",
+      "gloss": "ક્રોધથી"
+    },
+    {
+      "surface": "ותשמידם",
+      "gloss": "અને તેમનો નાશ કર"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "નીચેથી"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "આકાશોની"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવેના"
+    }
+  ],
+  "timestamp": "2026-08-21T17:25:50.345689278Z",
+  "model": "glm-5.3"
+}

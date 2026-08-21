@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 49:15",
+  "book": "jeremiah",
+  "lang": "gu",
+  "chapter": 49,
+  "translation": "કેમ કે જુઓ, હું તને રાષ્ટ્રોમાં નાનો બનાવું છું, માનવોમાં તિરસ્કૃત.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "કેમ કે"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "જુઓ"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "નાનો"
+    },
+    {
+      "surface": "נתתיך",
+      "gloss": "બનાવું છું તને"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "રાષ્ટ્રોમાં"
+    },
+    {
+      "surface": "בזוי",
+      "gloss": "તિરસ્કૃત"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "માનવોમાં"
+    }
+  ],
+  "timestamp": "2026-08-21T15:13:34.048390104Z",
+  "model": "glm-5.3"
+}

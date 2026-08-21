@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 35:15",
+  "book": "genesis",
+  "lang": "gu",
+  "chapter": 35,
+  "translation": "અને યાકોવે ⟨the⟩ સ્થાનનું નામ પાડ્યું, જ્યાં એલોહીમે તેની સાથે વાત કરી હતી — બેથ-એલ (એલનું ઘર).",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "પાડ્યું"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "યાકોવે"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "નામ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "નામ"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "સ્થાનનું"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જ્યાં"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "વાત કરી હતી"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "તેની સાથે"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ત્યાં"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "એલોહીમ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "બેથ (ઘર)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "એલ"
+    }
+  ],
+  "timestamp": "2026-08-21T10:56:24.482846271Z",
+  "model": "glm-5.3"
+}

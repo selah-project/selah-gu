@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 14:23",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 14,
+  "translation": "દરેક પરિશ્રમમાં લાભ થાય છે, પણ હોઠનાં વચન માત્ર અભાવ જ ⟨લાવે છે⟩.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "દરેક…માં"
+    },
+    {
+      "surface": "עצב",
+      "gloss": "પરિશ્રમ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "થાય છે"
+    },
+    {
+      "surface": "מותר",
+      "gloss": "લાભ"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "પણ વચન"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "હોઠનાં"
+    },
+    {
+      "surface": "אך",
+      "gloss": "માત્ર"
+    },
+    {
+      "surface": "למחסור",
+      "gloss": "અભાવ તરફ"
+    }
+  ],
+  "timestamp": "2026-08-21T16:57:08.109025803Z",
+  "model": "glm-5.3"
+}

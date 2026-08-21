@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 44:25",
+  "book": "genesis",
+  "lang": "gu",
+  "chapter": 44,
+  "translation": "અને આપણા પિતાએ કહ્યું, પાછા જાઓ, અમારા માટે થોડું અન્ન ખરીદો.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "અને કહ્યું"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "આપણા પિતાએ"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "પાછા જાઓ"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "ખરીદો"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "અમારા માટે"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "થોડું"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "અન્ન"
+    }
+  ],
+  "timestamp": "2026-08-21T11:02:53.187054517Z",
+  "model": "glm-5.3"
+}

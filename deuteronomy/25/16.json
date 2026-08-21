@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 25:16",
+  "book": "deuteronomy",
+  "lang": "gu",
+  "chapter": 25,
+  "translation": "કેમ કે આ બધું કરનાર દરેક, અન્યાય કરનાર દરેક, યાહવે તારા એલોહીમને ઘૃણાસ્પદ છે.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "કેમ કે"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "ઘૃણાસ્પદ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "તારા એલોહીમ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "દરેક"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "કરનાર"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "આ બધું"
+    },
+    {
+      "surface": "כל",
+      "gloss": "દરેક"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "કરનાર"
+    },
+    {
+      "surface": "עול",
+      "gloss": "અન્યાય"
+    }
+  ],
+  "timestamp": "2026-08-21T12:25:32.231399447Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 4:37",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 4,
+  "translation": "અને ઝીઝા, શિફીનો પુત્ર, અલ્લોનનો પુત્ર, યદાયાહનો પુત્ર, શિમરીનો પુત્ર, શમાયાહનો પુત્ર.",
+  "tokens": [
+    {
+      "surface": "וזיזא",
+      "gloss": "અને ઝીઝા"
+    },
+    {
+      "surface": "בן",
+      "gloss": "પુત્ર"
+    },
+    {
+      "surface": "שפעי",
+      "gloss": "શિફી"
+    },
+    {
+      "surface": "בן",
+      "gloss": "પુત્ર"
+    },
+    {
+      "surface": "אלון",
+      "gloss": "અલ્લોન"
+    },
+    {
+      "surface": "בן",
+      "gloss": "પુત્ર"
+    },
+    {
+      "surface": "ידיה",
+      "gloss": "યદાયાહ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "પુત્ર"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "શિમરી"
+    },
+    {
+      "surface": "בן",
+      "gloss": "પુત્ર"
+    },
+    {
+      "surface": "שמעיה",
+      "gloss": "શમાયાહ"
+    }
+  ],
+  "timestamp": "2026-08-21T18:01:37.822857803Z",
+  "model": "glm-5.3"
+}

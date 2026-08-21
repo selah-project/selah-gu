@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 7:4",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 7,
+  "translation": "જ્ઞાનને કહે, “તું મારી બહેન ⟨את⟩”; અને સમજણને તારો સગો કહેવાળો કહે.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "કહે"
+    },
+    {
+      "surface": "לחכמה",
+      "gloss": "જ્ઞાનને"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "મારી બહેન"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "તું (જ્ઞાન)"
+    },
+    {
+      "surface": "ומדע",
+      "gloss": "અને સમજણને"
+    },
+    {
+      "surface": "לבינה",
+      "gloss": "સમજણને"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "કહેવાળો કહે"
+    }
+  ],
+  "timestamp": "2026-08-21T16:54:06.731451825Z",
+  "model": "glm-5.3"
+}

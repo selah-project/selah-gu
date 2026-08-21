@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 14:5",
+  "book": "jeremiah",
+  "lang": "gu",
+  "chapter": 14,
+  "translation": "કે શું વળી ખેતરમાં વાછરડે પ્રસૂતિ કરીને તેને છોડી મૂક્યું, કારણ કે ઘાસ જ ન હતું.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "કારણ કે"
+    },
+    {
+      "surface": "גם",
+      "gloss": "વળી"
+    },
+    {
+      "surface": "אילת",
+      "gloss": "વાછરડે"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "ખેતરમાં"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "પ્રસૂતિ કરી"
+    },
+    {
+      "surface": "ועזוב",
+      "gloss": "અને છોડી મૂક્યું"
+    },
+    {
+      "surface": "כי",
+      "gloss": "કારણ કે"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ન"
+    },
+    {
+      "surface": "היה",
+      "gloss": "હતું"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "ઘાસ"
+    }
+  ],
+  "timestamp": "2026-08-21T14:51:38.036813500Z",
+  "model": "glm-5.3"
+}

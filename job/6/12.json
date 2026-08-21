@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 6:12",
+  "book": "job",
+  "lang": "gu",
+  "chapter": 6,
+  "translation": "શું મારો બળ પથ્થરોના બળ જેવો ⟨છે⟩? શું મારું માંસ તાંબાનું ⟨છે⟩?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "શું"
+    },
+    {
+      "surface": "כח",
+      "gloss": "બળ"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "પથ્થરોના"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "મારો બળ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "શું"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "મારું માંસ"
+    },
+    {
+      "surface": "נחוש",
+      "gloss": "તાંબાનું"
+    }
+  ],
+  "timestamp": "2026-08-21T18:58:42.276416902Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 40:25",
+  "book": "exodus",
+  "lang": "gu",
+  "chapter": 40,
+  "translation": "અને તેણે યાહવેના સામે દીવા ચમકાવ્યા, જેમ યાહવેએ મોશેને આજ્ઞા કરી હતી.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "ચમકાવ્યા"
+    },
+    {
+      "surface": "הנרת",
+      "gloss": "દીવા"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "સામે"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "જેમ"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "આજ્ઞા કરી હતી"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "મોશે"
+    },
+    {
+      "surface": "משה",
+      "gloss": "મોશે"
+    }
+  ],
+  "timestamp": "2026-08-21T11:28:54.560468502Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 20:9",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 20,
+  "translation": "તેઓ ઘૂંટણ ટેકીને પડી ગયા; પણ આપણે ઊઠ્યા અને સીધા ઊભા રહ્યા.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "તેઓ"
+    },
+    {
+      "surface": "כרעו",
+      "gloss": "ઘૂંટણ ટેકીને"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "પડી ગયા"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "પણ આપણે"
+    },
+    {
+      "surface": "קמנו",
+      "gloss": "ઊઠ્યા"
+    },
+    {
+      "surface": "ונתעודד",
+      "gloss": "સીધા ઊભા રહ્યા"
+    }
+  ],
+  "timestamp": "2026-08-21T16:13:49.875573800Z",
+  "model": "glm-5.3"
+}

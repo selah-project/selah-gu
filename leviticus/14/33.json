@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 14:33",
+  "book": "leviticus",
+  "lang": "gu",
+  "chapter": 14,
+  "translation": "અને યાહવે મોશેહ અને અહરોન સાથે વાત કર્યાં, કહેતાં:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "અને…વાત કર્યાં"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "אל",
+      "gloss": "સાથે"
+    },
+    {
+      "surface": "משה",
+      "gloss": "મોશેહ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "અને…સાથે"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "અહરોન"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "કહેતાં"
+    }
+  ],
+  "timestamp": "2026-08-21T11:37:36.722860889Z",
+  "model": "glm-5.3"
+}

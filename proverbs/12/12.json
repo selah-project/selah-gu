@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 12:12",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 12,
+  "translation": "દુષ્ટ દુષ્ટોના માળની ઈચ્છા કરે છે, પણ ન્યાયીઓનું મૂળ ⟨ફળ⟩ આપે છે.",
+  "tokens": [
+    {
+      "surface": "חמד",
+      "gloss": "ઈચ્છા કરે છે"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "દુષ્ટ"
+    },
+    {
+      "surface": "מצוד",
+      "gloss": "માળ"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "દુષ્ટોના"
+    },
+    {
+      "surface": "ושרש",
+      "gloss": "પણ મૂળ"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "ન્યાયીઓનું"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "આપે છે"
+    }
+  ],
+  "timestamp": "2026-08-21T16:55:14.976208862Z",
+  "model": "glm-5.3"
+}

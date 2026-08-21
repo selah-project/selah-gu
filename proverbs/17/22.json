@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 17:22",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 17,
+  "translation": "આનંદિત હૃદય ચિકિત્સા સારું કરે છે, અને પીડિત આત્મા અસ્થિ સુકાવે છે.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "હૃદય"
+    },
+    {
+      "surface": "שמח",
+      "gloss": "આનંદિત"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "સારું કરે છે"
+    },
+    {
+      "surface": "גהה",
+      "gloss": "ચિકિત્સા"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "અને આત્મા"
+    },
+    {
+      "surface": "נכאה",
+      "gloss": "પીડિત"
+    },
+    {
+      "surface": "תיבש",
+      "gloss": "સુકાવે છે"
+    },
+    {
+      "surface": "גרם",
+      "gloss": "અસ્થિ"
+    }
+  ],
+  "timestamp": "2026-08-21T16:57:34.679614358Z",
+  "model": "glm-5.3"
+}

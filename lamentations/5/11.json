@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "lamentations 5:11",
+  "book": "lamentations",
+  "lang": "gu",
+  "chapter": 5,
+  "translation": "તેઓએ ત્સિયોનમાં સ્ત્રીઓને પીડિત કરી, યહૂદાનાં નગરોમાં કન્યાઓને ⟨પણ⟩.",
+  "tokens": [
+    {
+      "surface": "נשים",
+      "gloss": "સ્ત્રીઓને"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "ત્સિયોનમાં"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "પીડિત કરી"
+    },
+    {
+      "surface": "בתלת",
+      "gloss": "કન્યાઓને"
+    },
+    {
+      "surface": "בערי",
+      "gloss": "નગરોમાં"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "યહૂદાનાં"
+    }
+  ],
+  "timestamp": "2026-08-21T17:28:24.438309708Z",
+  "model": "glm-5.3"
+}

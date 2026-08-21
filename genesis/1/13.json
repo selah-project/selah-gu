@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 1:13",
+  "book": "genesis",
+  "lang": "gu",
+  "chapter": 1,
+  "translation": "અને સાંજ થઈ, અને પ્રભાત થયું — ત્રીજો દિવસ.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "અને થઈ"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "સાંજ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "અને થયું"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "પ્રભાત"
+    },
+    {
+      "surface": "יום",
+      "gloss": "દિવસ"
+    },
+    {
+      "surface": "שלישי",
+      "gloss": "ત્રીજો"
+    }
+  ],
+  "timestamp": "2026-08-21T10:37:26.266618685Z",
+  "model": "glm-5.3"
+}

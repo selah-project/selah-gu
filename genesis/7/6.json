@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 7:6",
+  "book": "genesis",
+  "lang": "gu",
+  "chapter": 7,
+  "translation": "અને નોહ છ સો વર્ષનો પુત્ર હતો, અને પ્રલય પૃથ્વી પર પાણી બની હતો.",
+  "tokens": [
+    {
+      "surface": "ונח",
+      "gloss": "અને નોહ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "પુત્ર"
+    },
+    {
+      "surface": "שש",
+      "gloss": "છ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "સો"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "વર્ષનો"
+    },
+    {
+      "surface": "והמבול",
+      "gloss": "અને પ્રલય"
+    },
+    {
+      "surface": "היה",
+      "gloss": "હતો \/ બની હતો"
+    },
+    {
+      "surface": "מים",
+      "gloss": "પાણી"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "પૃથ્વી"
+    }
+  ],
+  "timestamp": "2026-08-21T10:39:55.232676539Z",
+  "model": "glm-5.3"
+}

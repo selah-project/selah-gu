@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 59,
+  "ref": "lamentations 3:59",
+  "book": "lamentations",
+  "lang": "gu",
+  "chapter": 3,
+  "translation": "યાહવે, તેં મારું દમન જોયું; મારો ન્યાય ચુકાવ.",
+  "tokens": [
+    {
+      "surface": "ראיתה",
+      "gloss": "તેં જોયું"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "עותתי",
+      "gloss": "મારું દમન"
+    },
+    {
+      "surface": "שפטה",
+      "gloss": "ચુકાવ"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "મારો ન્યાય"
+    }
+  ],
+  "timestamp": "2026-08-21T17:25:33.997551723Z",
+  "model": "glm-5.3"
+}

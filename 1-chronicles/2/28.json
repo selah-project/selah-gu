@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 2:28",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 2,
+  "translation": "અને ઓનામનાં પુત્રો હતાં શમ્માય અને યાદા; અને શમ્માયનાં પુત્રો હતાં નાદાબ અને અબીશૂર.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "હતાં"
+    },
+    {
+      "surface": "בני",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "אונם",
+      "gloss": "ઓનામ"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "શમ્માય"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "અને યાદા"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "અને પુત્રો"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "શમ્માય"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "નાદાબ"
+    },
+    {
+      "surface": "ואבישור",
+      "gloss": "અને અબીશૂર"
+    }
+  ],
+  "timestamp": "2026-08-21T17:59:36.077167324Z",
+  "model": "glm-5.3"
+}

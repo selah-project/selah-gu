@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 14:11",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 14,
+  "translation": "દુષ્ટોનું ઘર નષ્ટ થશે, પણ સાચા લોકોનો તંબુ ફૂલી નવડશે.",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "ઘર"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "દુષ્ટોનું"
+    },
+    {
+      "surface": "ישמד",
+      "gloss": "નષ્ટ થશે"
+    },
+    {
+      "surface": "ואהל",
+      "gloss": "પણ...તંબુ"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "સાચા લોકોનો"
+    },
+    {
+      "surface": "יפריח",
+      "gloss": "ફૂલી નવડશે"
+    }
+  ],
+  "timestamp": "2026-08-21T16:55:50.404619476Z",
+  "model": "glm-5.3"
+}

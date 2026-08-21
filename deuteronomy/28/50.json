@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "deuteronomy 28:50",
+  "book": "deuteronomy",
+  "lang": "gu",
+  "chapter": 28,
+  "translation": "કઠોર ચહેરાવાળું રાષ્ટ્ર, જે વૃદ્ધનો ચહેરો માનશે નહીં અને યુવાનને અનુગ્રહ આપશે નહીં.",
+  "tokens": [
+    {
+      "surface": "גוי",
+      "gloss": "રાષ્ટ્ર"
+    },
+    {
+      "surface": "עז",
+      "gloss": "કઠોર"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "ચહેરાવાળું"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જે"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "માનશે"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "ચહેરો"
+    },
+    {
+      "surface": "לזקן",
+      "gloss": "વૃદ્ધનો"
+    },
+    {
+      "surface": "ונער",
+      "gloss": "અને યુવાનને"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "יחן",
+      "gloss": "અનુગ્રહ આપશે"
+    }
+  ],
+  "timestamp": "2026-08-21T12:29:32.770543741Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "deuteronomy 32:45",
+  "book": "deuteronomy",
+  "lang": "gu",
+  "chapter": 32,
+  "translation": "અને મોશે સમગ્ર ઈસ્રાએલને ⟨את⟩ આ ⟨the⟩ શબ્દો બધા બોલી પૂર્ણ કરતો થયો.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "પૂર્ણ કરતો થયો"
+    },
+    {
+      "surface": "משה",
+      "gloss": "મોશે"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "બોલવાનું"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "શબ્દો બધા"
+    },
+    {
+      "surface": "כל",
+      "gloss": "બધા"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "શબ્દો"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "આ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ને"
+    },
+    {
+      "surface": "כל",
+      "gloss": "સમગ્ર"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ઈસ્રાએલ"
+    }
+  ],
+  "timestamp": "2026-08-21T12:30:11.838755171Z",
+  "model": "glm-5.3"
+}

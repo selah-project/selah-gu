@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 5:2",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 5,
+  "translation": "જેથી તું વિવેક રાખી શકે, અને તારાં હોઠ જ્ઞાન રાખે.",
+  "tokens": [
+    {
+      "surface": "לשמר",
+      "gloss": "રાખી શકે"
+    },
+    {
+      "surface": "מזמות",
+      "gloss": "વિવેક"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "અને જ્ઞાન"
+    },
+    {
+      "surface": "שפתיך",
+      "gloss": "તારાં હોઠ"
+    },
+    {
+      "surface": "ינצרו",
+      "gloss": "રાખે"
+    }
+  ],
+  "timestamp": "2026-08-21T16:52:35.394304236Z",
+  "model": "glm-5.3"
+}

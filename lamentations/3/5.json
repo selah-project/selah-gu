@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "lamentations 3:5",
+  "book": "lamentations",
+  "lang": "gu",
+  "chapter": 3,
+  "translation": "તેણે મારી સામે બાંધ્યું, અને ઝેર અને કષ્ટથી ⟨મને⟩ ઘેરી લીધું.",
+  "tokens": [
+    {
+      "surface": "בנה",
+      "gloss": "બાંધ્યું"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "મારી સામે"
+    },
+    {
+      "surface": "ויקף",
+      "gloss": "અને ઘેરી લીધું"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ઝેર"
+    },
+    {
+      "surface": "ותלאה",
+      "gloss": "અને કષ્ટ"
+    }
+  ],
+  "timestamp": "2026-08-21T17:25:38.993781689Z",
+  "model": "glm-5.3"
+}

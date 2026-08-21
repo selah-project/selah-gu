@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 72,
+  "ref": "psalms 119:72",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 119,
+  "translation": "તારા મુખની તોરાહ મને સોના અને ચાંદીનાં હજારો કરતાં ઉત્તમ છે.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ઉત્તમ…છે"
+    },
+    {
+      "surface": "לי",
+      "gloss": "મને"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "તોરાહ"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "તારા મુખની"
+    },
+    {
+      "surface": "מאלפי",
+      "gloss": "…કરતાં હજારો"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "સોના"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "અને ચાંદીનાં"
+    }
+  ],
+  "timestamp": "2026-08-21T16:45:23.166493720Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 104:34",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 104,
+  "translation": "મારો ચિંતન તેને મનોરમ લાગે; હું યાહવેમાં આનંદ કરીશ.",
+  "tokens": [
+    {
+      "surface": "יערב",
+      "gloss": "મનોરમ લાગે"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "તેને"
+    },
+    {
+      "surface": "שיחי",
+      "gloss": "મારો ચિંતન"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "હું"
+    },
+    {
+      "surface": "אשמח",
+      "gloss": "આનંદ કરીશ"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "યાહવેમાં"
+    }
+  ],
+  "timestamp": "2026-08-21T16:39:25.261564258Z",
+  "model": "glm-5.3"
+}

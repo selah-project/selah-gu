@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "jeremiah 6:18",
+  "book": "jeremiah",
+  "lang": "gu",
+  "chapter": 6,
+  "translation": "તેથી સાંભળો, હે રાષ્ટ્રો, અને જાણ, હે સભા, ⟨את⟩ જે તેમની વચ્ચે છે.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "તેથી"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "સાંભળો"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "હે રાષ્ટ્રો"
+    },
+    {
+      "surface": "ודעי",
+      "gloss": "અને જાણ"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "હે સભા"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "જે તેમની વચ્ચે છે"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જે"
+    },
+    {
+      "surface": "בם",
+      "gloss": "તેમની વચ્ચે"
+    }
+  ],
+  "timestamp": "2026-08-21T14:47:55.220412123Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 12:19",
+  "book": "deuteronomy",
+  "lang": "gu",
+  "chapter": 12,
+  "translation": "પોતાનું ધ્યાન રાખ, કે જોઈએ તું લેવીયને ⟨את⟩ ન છોડી દઉં — તારા બધા દિવસો, તારી ભૂમિ પર.",
+  "tokens": [
+    {
+      "surface": "השמר",
+      "gloss": "પોતાનું ધ્યાન રાખ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "તારા માટે"
+    },
+    {
+      "surface": "פן",
+      "gloss": "કે જોઈએ"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "તું ન છોડી દઉં"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "લેવીય"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "લેવીય"
+    },
+    {
+      "surface": "כל",
+      "gloss": "બધા"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "તારા દિવસો"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "אדמתך",
+      "gloss": "તારી ભૂમિ"
+    }
+  ],
+  "timestamp": "2026-08-21T12:21:06.258499365Z",
+  "model": "glm-5.3"
+}

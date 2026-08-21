@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 7:4",
+  "book": "2-chronicles",
+  "lang": "gu",
+  "chapter": 7,
+  "translation": "અને રાજા અને સર્વ પ્રજા યાહવેના સામે યજ્ઞ વધેરવા લાગ્યા.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "અને રાજા"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "અને સર્વ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "પ્રજા"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "વધેરવા લાગ્યા"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "યજ્ઞ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "…ના સામે"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    }
+  ],
+  "timestamp": "2026-08-21T18:17:37.644728947Z",
+  "model": "glm-5.3"
+}

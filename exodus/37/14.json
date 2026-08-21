@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 37:14",
+  "book": "exodus",
+  "lang": "gu",
+  "chapter": 37,
+  "translation": "કિનારાની સામે વળીઓ ⟨is⟩, સળિયા માટે ઘરો — મંચ ⟨את⟩ ઊંચકવા માટે.",
+  "tokens": [
+    {
+      "surface": "לעמת",
+      "gloss": "સામે"
+    },
+    {
+      "surface": "המסגרת",
+      "gloss": "કિનારાની"
+    },
+    {
+      "surface": "היו",
+      "gloss": "હતી"
+    },
+    {
+      "surface": "הטבעת",
+      "gloss": "વળીઓ"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "ઘરો"
+    },
+    {
+      "surface": "לבדים",
+      "gloss": "સળિયા માટે"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "ઊંચકવા માટે"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "મંચ"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "મંચ"
+    }
+  ],
+  "timestamp": "2026-08-21T11:27:45.520129912Z",
+  "model": "glm-5.3"
+}

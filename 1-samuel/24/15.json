@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 24:15",
+  "book": "1-samuel",
+  "lang": "gu",
+  "chapter": 24,
+  "translation": "ઇસ્રાએલનો રાજા કોની પાછળ નીકળ્યો છે? તું કોની પાછળ દોડે છે? મરેલા કૂતરા પાછળ, એક પરુણી પાછળ?",
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "પાછળ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "કોની"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "નીકળ્યો છે"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "રાજા"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ઇસ્રાએલનો"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "પાછળ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "કોની"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "તું"
+    },
+    {
+      "surface": "רדף",
+      "gloss": "દોડે છે"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "પાછળ"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "કૂતરા"
+    },
+    {
+      "surface": "מת",
+      "gloss": "મરેલા"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "પાછળ"
+    },
+    {
+      "surface": "פרעש",
+      "gloss": "પરુણી"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "એક"
+    }
+  ],
+  "timestamp": "2026-08-21T13:13:44.998861715Z",
+  "model": "glm-5.3"
+}

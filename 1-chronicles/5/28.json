@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 5:28",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 5,
+  "translation": "અને કહાતના પુત્રો: અમરામ, યિત્સહાર, અને હેબરોન, અને ઉઝ્ઝીએલ.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "અને પુત્રો"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "કહાતના"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "અમરામ"
+    },
+    {
+      "surface": "יצהר",
+      "gloss": "યિત્સહાર"
+    },
+    {
+      "surface": "וחברון",
+      "gloss": "અને હેબરોન"
+    },
+    {
+      "surface": "ועזיאל",
+      "gloss": "અને ઉઝ્ઝીએલ"
+    }
+  ],
+  "timestamp": "2026-08-21T18:02:28.916389867Z",
+  "model": "glm-5.3"
+}

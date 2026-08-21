@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 102:19",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 102,
+  "translation": "આ પછીની પેઢી માટે લખાશે, અને જે પ્રજા સર્જાશે તે યાહની સ્તુતિ કરશે.",
+  "tokens": [
+    {
+      "surface": "תכתב",
+      "gloss": "લખાશે"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "આ"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "પેઢી માટે"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "પછીની"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "અને પ્રજા"
+    },
+    {
+      "surface": "נברא",
+      "gloss": "સર્જાશે"
+    },
+    {
+      "surface": "יהלל",
+      "gloss": "સ્તુતિ કરશે"
+    },
+    {
+      "surface": "יה",
+      "gloss": "યાહ"
+    }
+  ],
+  "timestamp": "2026-08-21T16:38:26.034228260Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 24:11",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 24,
+  "translation": "મૃત્યુ તરફ લઈ જવાયેલાઓને છોડાવ; વધ તરફ ડોલાતાઓને ⟨તું⟩ રોકીશ તો?",
+  "tokens": [
+    {
+      "surface": "הצל",
+      "gloss": "છોડાવ"
+    },
+    {
+      "surface": "לקחים",
+      "gloss": "લઈ જવાયેલાઓને"
+    },
+    {
+      "surface": "למות",
+      "gloss": "મૃત્યુ તરફ"
+    },
+    {
+      "surface": "ומטים",
+      "gloss": "અને ડોલાતાઓને"
+    },
+    {
+      "surface": "להרג",
+      "gloss": "વધ તરફ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "તો"
+    },
+    {
+      "surface": "תחשוך",
+      "gloss": "રોકીશ"
+    }
+  ],
+  "timestamp": "2026-08-21T17:00:55.037032681Z",
+  "model": "glm-5.3"
+}

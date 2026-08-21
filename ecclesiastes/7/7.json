@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 7:7",
+  "book": "ecclesiastes",
+  "lang": "gu",
+  "chapter": 7,
+  "translation": "ખરેખર, દમન ડાહ્યને પાગલ કરી દે છે, અને ભેટ ⟨את⟩ હૃદયનો નાશ કરે છે.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ખરેખર"
+    },
+    {
+      "surface": "העשק",
+      "gloss": "દમન"
+    },
+    {
+      "surface": "יהולל",
+      "gloss": "પાગલ કરી દે છે"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "ડાહ્યને"
+    },
+    {
+      "surface": "ויאבד",
+      "gloss": "અને નાશ કરે છે"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "હૃદય"
+    },
+    {
+      "surface": "לב",
+      "gloss": "હૃદય"
+    },
+    {
+      "surface": "מתנה",
+      "gloss": "ભેટ"
+    }
+  ],
+  "timestamp": "2026-08-21T19:00:14.152178744Z",
+  "model": "glm-5.3"
+}

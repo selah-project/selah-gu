@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 7:25",
+  "book": "exodus",
+  "lang": "gu",
+  "chapter": 7,
+  "translation": "અને યાહવે દ્વારા ⟨את⟩ નદીને પ્રહાર કરવાના સાત દિવસો પૂરા થયા.",
+  "tokens": [
+    {
+      "surface": "וימלא",
+      "gloss": "પૂરા થયા"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "સાત"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "દિવસો"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "પછી"
+    },
+    {
+      "surface": "הכות",
+      "gloss": "પ્રહાર કરવાના"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "નદી"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "નદી"
+    }
+  ],
+  "timestamp": "2026-08-21T11:09:32.924271557Z",
+  "model": "glm-5.3"
+}

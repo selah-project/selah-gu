@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 10:15",
+  "book": "jeremiah",
+  "lang": "gu",
+  "chapter": 10,
+  "translation": "વ્યર્થ ⟨છે⟩ તે, છેતરપિંડીનું કાર્ય; તેમના પરિદર્શનના સમયે તે નાશ પામશે.",
+  "tokens": [
+    {
+      "surface": "הבל",
+      "gloss": "વ્યર્થ"
+    },
+    {
+      "surface": "המה",
+      "gloss": "તે"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "કાર્ય"
+    },
+    {
+      "surface": "תעתעים",
+      "gloss": "છેતરપિંડીનું"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "સમયે"
+    },
+    {
+      "surface": "פקדתם",
+      "gloss": "પરિદર્શન"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "નાશ પામશે"
+    }
+  ],
+  "timestamp": "2026-08-21T14:49:27.885788775Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zechariah 1:5",
+  "book": "zechariah",
+  "lang": "gu",
+  "chapter": 1,
+  "translation": "તમારા પિતરો — તે ક્યાં છે? અને નબીઓ શું સદાકાળ જીવશે?",
+  "tokens": [
+    {
+      "surface": "אבותיכם",
+      "gloss": "તમારા પિતરો"
+    },
+    {
+      "surface": "איה",
+      "gloss": "ક્યાં છે"
+    },
+    {
+      "surface": "הם",
+      "gloss": "તે"
+    },
+    {
+      "surface": "והנבאים",
+      "gloss": "અને નબીઓ"
+    },
+    {
+      "surface": "הלעולם",
+      "gloss": "શું સદાકાળ"
+    },
+    {
+      "surface": "יחיו",
+      "gloss": "જીવશે"
+    }
+  ],
+  "timestamp": "2026-08-21T16:03:23.065813928Z",
+  "model": "glm-5.3"
+}

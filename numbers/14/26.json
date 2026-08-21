@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 14:26",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 14,
+  "translation": "અને યાહવેએ મોશે સાથે અને અહરોન સાથે વાત કરી, કહેતા:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "અને વાત કરી"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવેએ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "સાથે"
+    },
+    {
+      "surface": "משה",
+      "gloss": "મોશે"
+    },
+    {
+      "surface": "ו אל",
+      "gloss": "અને સાથે"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "અહરોન"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "કહેતા"
+    }
+  ],
+  "timestamp": "2026-08-21T11:55:47.801885866Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 1:3",
+  "book": "ecclesiastes",
+  "lang": "gu",
+  "chapter": 1,
+  "translation": "સૂર્યની તળે જે શ્રમ ⟨તે⟩ કરે છે તે બધા જ તેના શ્રમમાં માણસને શું વત્તો મળે છે?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "શું"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "વત્તો"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "માણસને"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "બધા જ"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "તેના શ્રમમાં"
+    },
+    {
+      "surface": "שיעמל",
+      "gloss": "જે શ્રમ કરે છે"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "તળે"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "સૂર્યની"
+    }
+  ],
+  "timestamp": "2026-08-21T17:28:51.478389287Z",
+  "model": "glm-5.3"
+}

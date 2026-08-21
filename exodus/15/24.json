@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 15:24",
+  "book": "exodus",
+  "lang": "gu",
+  "chapter": 15,
+  "translation": "અને પ્રજાએ મોશે સામે ફરિયાદ કરી, કહેતાં: આપણે શું પીશું?",
+  "tokens": [
+    {
+      "surface": "וילנו",
+      "gloss": "અને ફરિયાદ કરી"
+    },
+    {
+      "surface": "העם",
+      "gloss": "પ્રજાએ"
+    },
+    {
+      "surface": "על",
+      "gloss": "સામે"
+    },
+    {
+      "surface": "משה",
+      "gloss": "મોશે"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "કહેતાં"
+    },
+    {
+      "surface": "מה",
+      "gloss": "શું"
+    },
+    {
+      "surface": "נשתה",
+      "gloss": "આપણે પીશું"
+    }
+  ],
+  "timestamp": "2026-08-21T11:13:28.602880713Z",
+  "model": "glm-5.3"
+}

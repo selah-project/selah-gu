@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 37:27",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 37,
+  "translation": "અનીષ્ટથી વળી જા અને સારું કર, અને સદા રહેશે.",
+  "tokens": [
+    {
+      "surface": "סור",
+      "gloss": "વળી જા"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "અનીષ્ટથી"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "અને કર"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "સારું"
+    },
+    {
+      "surface": "ושכן",
+      "gloss": "અને રહેશે"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "સદા"
+    }
+  ],
+  "timestamp": "2026-08-21T16:20:16.227786646Z",
+  "model": "glm-5.3"
+}

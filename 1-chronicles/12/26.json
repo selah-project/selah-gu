@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 12:26",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 12,
+  "translation": "શિમોનનાં પુત્રોમાંથી, સૈન્ય માટે બળવાન યોદ્ધા, સાત હજાર અને એક સો.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "માંથી"
+    },
+    {
+      "surface": "בני",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "શિમોન"
+    },
+    {
+      "surface": "גבורי",
+      "gloss": "બળવાન યોદ્ધા"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "બળ"
+    },
+    {
+      "surface": "לצבא",
+      "gloss": "સૈન્ય માટે"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "સાત"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "હજાર"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "અને એક સો"
+    }
+  ],
+  "timestamp": "2026-08-21T18:06:47.898458341Z",
+  "model": "glm-5.3"
+}

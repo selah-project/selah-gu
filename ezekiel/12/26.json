@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "ezekiel 12:26",
+  "book": "ezekiel",
+  "lang": "gu",
+  "chapter": 12,
+  "translation": "અને યાહવેનો શબ્દ મારા પાસે આવ્યો, કહેતા:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "અને આવ્યો"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "શબ્દ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવેનો"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "મારા પાસે"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "કહેતા"
+    }
+  ],
+  "timestamp": "2026-08-21T15:21:47.350089107Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "judges 6:40",
+  "book": "judges",
+  "lang": "gu",
+  "chapter": 6,
+  "translation": "અને એલોહીમે તે રાત્રે એમ જ કર્યું; અને રૂંવાટવાળો લોચો જ સૂકો રહ્યો, અને આખી પૃથ્વી પર તડખો હતો.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "અને કર્યું"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "એલોહીમે"
+    },
+    {
+      "surface": "כן",
+      "gloss": "એમ જ"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "રાત્રે"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "તે"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "અને થયું"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "સૂકો"
+    },
+    {
+      "surface": "אל",
+      "gloss": "પર"
+    },
+    {
+      "surface": "הגזה",
+      "gloss": "રૂંવાટવાળા લોચાને"
+    },
+    {
+      "surface": "לבדה",
+      "gloss": "જ એની"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "અને પર"
+    },
+    {
+      "surface": "כל",
+      "gloss": "આખી"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "પૃથ્વી"
+    },
+    {
+      "surface": "היה",
+      "gloss": "હતો"
+    },
+    {
+      "surface": "טל",
+      "gloss": "તડખો"
+    }
+  ],
+  "timestamp": "2026-08-21T18:40:45.500306603Z",
+  "model": "glm-5.3"
+}

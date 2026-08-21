@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 1:4",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 1,
+  "translation": "નોઆખ, શેમ, ખામ અને યાફેત.",
+  "tokens": [
+    {
+      "surface": "נח",
+      "gloss": "નોઆખ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "શેમ"
+    },
+    {
+      "surface": "חם",
+      "gloss": "ખામ"
+    },
+    {
+      "surface": "ויפת",
+      "gloss": "અને યાફેત"
+    }
+  ],
+  "timestamp": "2026-08-21T17:59:07.991970119Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 16:16",
+  "book": "2-kings",
+  "lang": "gu",
+  "chapter": 16,
+  "translation": "અને યાજક ઊરિયાએ એ બધું કર્યું જે બધું રાજા આખાઝે આજ્ઞા આપી હતી.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "કર્યું"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "ઊરિયાએ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "યાજક"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "એ બધું જે બધું"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જે"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "આજ્ઞા આપી હતી"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "રાજા"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "આખાઝે"
+    }
+  ],
+  "timestamp": "2026-08-21T14:06:10.781902274Z",
+  "model": "glm-5.3"
+}

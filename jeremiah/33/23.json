@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 33:23",
+  "book": "jeremiah",
+  "lang": "gu",
+  "chapter": 33,
+  "translation": "અને યાહવેનો વચન યિર્મેયાહુ પાસે આવ્યો કહેતો:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "અને આવ્યો"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "વચન"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવેનો"
+    },
+    {
+      "surface": "אל",
+      "gloss": "પાસે"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "યિર્મેયાહુ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "કહેતો"
+    }
+  ],
+  "timestamp": "2026-08-21T15:04:11.235300219Z",
+  "model": "glm-5.3"
+}

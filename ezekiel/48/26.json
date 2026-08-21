@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "ezekiel 48:26",
+  "book": "ezekiel",
+  "lang": "gu",
+  "chapter": 48,
+  "translation": "અને યિસાસ્ખરની સીમા પર, પૂર્વ દિશાથી પશ્ચિમ દિશા સુધી, ઝવૂલૂન — એક ⟨ભાગ⟩.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "અને … પર"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "સીમા"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "યિસાસ્ખર"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "દિશાથી"
+    },
+    {
+      "surface": "קדימה",
+      "gloss": "પૂર્વ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "સુધી"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "દિશા"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "પશ્ચિમ"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "ઝવૂલૂન"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "એક"
+    }
+  ],
+  "timestamp": "2026-08-21T15:45:18.099975088Z",
+  "model": "glm-5.3"
+}

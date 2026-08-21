@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "joshua 19:6",
+  "book": "joshua",
+  "lang": "gu",
+  "chapter": 19,
+  "translation": "અને બેથ-લબાઓત, અને શારૂહેન — તેર નગરો અને તેમનાં ગામડાં;",
+  "tokens": [
+    {
+      "surface": "ובית",
+      "gloss": "અને બેથ"
+    },
+    {
+      "surface": "לבאות",
+      "gloss": "લબાઓત"
+    },
+    {
+      "surface": "ושרוחן",
+      "gloss": "અને શારૂહેન"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "નગરો"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ત્રણ"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "દસ"
+    },
+    {
+      "surface": "וחצריהן",
+      "gloss": "અને તેમનાં ગામડાં"
+    }
+  ],
+  "timestamp": "2026-08-21T12:41:11.649217701Z",
+  "model": "glm-5.3"
+}

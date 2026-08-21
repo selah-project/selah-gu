@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nahum 3:2",
+  "book": "nahum",
+  "lang": "gu",
+  "chapter": 3,
+  "translation": "ચાબુકનો ધ્વનિ અને ચક્રના ગરજવાનો ધ્વનિ, અને દોડતો ઘોડો અને કુદતી રથ.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "ધ્વનિ"
+    },
+    {
+      "surface": "שוט",
+      "gloss": "ચાબુક"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "અને ધ્વનિ"
+    },
+    {
+      "surface": "רעש",
+      "gloss": "ગરજવું"
+    },
+    {
+      "surface": "אופן",
+      "gloss": "ચક્ર"
+    },
+    {
+      "surface": "וסוס",
+      "gloss": "અને ઘોડો"
+    },
+    {
+      "surface": "דהר",
+      "gloss": "દોડતો"
+    },
+    {
+      "surface": "ומרכבה",
+      "gloss": "અને રથ"
+    },
+    {
+      "surface": "מרקדה",
+      "gloss": "કુદતી"
+    }
+  ],
+  "timestamp": "2026-08-21T15:59:17.997075654Z",
+  "model": "glm-5.3"
+}

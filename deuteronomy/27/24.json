@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 27:24",
+  "book": "deuteronomy",
+  "lang": "gu",
+  "chapter": 27,
+  "translation": "શાપિત ⟨છે⟩ ⟨જે⟩ ગુપ્ત રીતે પોતાના પડોશીને મારનારો; અને આખું લોક કહેશે, આમેન.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "શાપિત"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "મારનારો"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "પોતાના પડોશીને"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "ગુપ્ત રીતે"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "અને કહેશે"
+    },
+    {
+      "surface": "כל",
+      "gloss": "આખું"
+    },
+    {
+      "surface": "העם",
+      "gloss": "લોક"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "આમેન"
+    }
+  ],
+  "timestamp": "2026-08-21T12:27:11.096063919Z",
+  "model": "glm-5.3"
+}

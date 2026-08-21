@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 36:2",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 36,
+  "translation": "દુષ્ટના અપરાધનું કથન ⟨મારા⟩ હૃદયની અંદર ⟨છે⟩: એલોહીમનો ભય તેની આંખોની સામે નથી.",
+  "tokens": [
+    {
+      "surface": "נאם",
+      "gloss": "કથન"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "અપરાધ"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": "દુષ્ટના"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "અંદર"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "મારા હૃદયની"
+    },
+    {
+      "surface": "אין",
+      "gloss": "નથી"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "ભય"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "એલોહીમનો"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "સામે"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "તેની આંખોની"
+    }
+  ],
+  "timestamp": "2026-08-21T18:55:18.025743750Z",
+  "model": "glm-5.3"
+}

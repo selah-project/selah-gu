@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 13:1",
+  "book": "leviticus",
+  "lang": "gu",
+  "chapter": 13,
+  "translation": "અને યાહવે મોશેને અને અહરોનને બોલ્યા, કહેતા:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "અને…બોલ્યા"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ને"
+    },
+    {
+      "surface": "משה",
+      "gloss": "મોશેને"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "અને…ને"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "અહરોનને"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "કહેતા"
+    }
+  ],
+  "timestamp": "2026-08-21T11:37:56.122623528Z",
+  "model": "glm-5.3"
+}

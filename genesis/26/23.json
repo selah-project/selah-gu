@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 26:23",
+  "book": "genesis",
+  "lang": "gu",
+  "chapter": 26,
+  "translation": "અને તે ત્યાંથી બેર-શેવા પર ચઢ્યો.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "તે ચઢ્યો"
+    },
+    {
+      "surface": "משם",
+      "gloss": "ત્યાંથી"
+    },
+    {
+      "surface": "באר",
+      "gloss": "બેર"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "શેવા"
+    }
+  ],
+  "timestamp": "2026-08-21T10:50:09.678695034Z",
+  "model": "glm-5.3"
+}

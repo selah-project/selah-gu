@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 29:10",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 29,
+  "translation": "એક-એક ઘાંઘસ માટે એક દશાંશ — એટલે કે સાત ઘાંઘસો માટે.",
+  "tokens": [
+    {
+      "surface": "עשרון",
+      "gloss": "એક દશાંશ"
+    },
+    {
+      "surface": "עשרון",
+      "gloss": "દશાંશ"
+    },
+    {
+      "surface": "לכבש",
+      "gloss": "ઘાંઘસ માટે"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "એક"
+    },
+    {
+      "surface": "לשבעת",
+      "gloss": "સાતને માટે"
+    },
+    {
+      "surface": "הכבשים",
+      "gloss": "ઘાંઘસો"
+    }
+  ],
+  "timestamp": "2026-08-21T12:06:22.953570501Z",
+  "model": "glm-5.3"
+}

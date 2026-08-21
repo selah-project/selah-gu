@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "habakkuk 3:7",
+  "book": "habakkuk",
+  "lang": "gu",
+  "chapter": 3,
+  "translation": "દુઃખ હેઠળ મેં કુશાનનાં ડેરા જોયાં, મિદ્યાન દેશનાં પડદા ધ્રુજે છે.",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "હેઠળ"
+    },
+    {
+      "surface": "און",
+      "gloss": "દુઃખ"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "મેં જોયાં"
+    },
+    {
+      "surface": "אהלי",
+      "gloss": "ડેરા"
+    },
+    {
+      "surface": "כושן",
+      "gloss": "કુશાનનાં"
+    },
+    {
+      "surface": "ירגזון",
+      "gloss": "ધ્રુજે છે"
+    },
+    {
+      "surface": "יריעות",
+      "gloss": "પડદા"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "દેશ"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "મિદ્યાન"
+    }
+  ],
+  "timestamp": "2026-08-21T16:02:54.981570594Z",
+  "model": "glm-5.3"
+}

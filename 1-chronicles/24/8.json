@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 24:8",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 24,
+  "translation": "હારીમ માટે ત્રીજું, સઆરીમ માટે ચોથું.",
+  "tokens": [
+    {
+      "surface": "לחרם",
+      "gloss": "હારીમ માટે"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "ત્રીજું"
+    },
+    {
+      "surface": "לשערים",
+      "gloss": "સઆરીમ માટે"
+    },
+    {
+      "surface": "הרבעי",
+      "gloss": "ચોથું"
+    }
+  ],
+  "timestamp": "2026-08-21T18:11:22.053413595Z",
+  "model": "glm-5.3"
+}

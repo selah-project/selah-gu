@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-samuel 25:38",
+  "book": "1-samuel",
+  "lang": "gu",
+  "chapter": 25,
+  "translation": "અને દસ દિવસ પછી યાહવેએ ⟨את⟩ નાબાલને પ્રહાર કર્યો અને તે મરી ગયો.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "અને ... પછી"
+    },
+    {
+      "surface": "כעשרת",
+      "gloss": "દસ"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "દિવસ"
+    },
+    {
+      "surface": "ויגף",
+      "gloss": "પ્રહાર કર્યો"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવેએ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "નાબાલને"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "નાબાલ"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "મરી ગયો"
+    }
+  ],
+  "timestamp": "2026-08-21T13:16:55.170253085Z",
+  "model": "glm-5.3"
+}

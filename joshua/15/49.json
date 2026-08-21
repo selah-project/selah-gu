@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "joshua 15:49",
+  "book": "joshua",
+  "lang": "gu",
+  "chapter": 15,
+  "translation": "અને દન્નાહ, અને કિર્યાથ-સન્નાહ — ⟨તે⟩ દેબીર છે,",
+  "tokens": [
+    {
+      "surface": "ודנה",
+      "gloss": "અને દન્નાહ"
+    },
+    {
+      "surface": "וקרית",
+      "gloss": "અને કિર્યાથ"
+    },
+    {
+      "surface": "סנה",
+      "gloss": "સન્નાહ"
+    },
+    {
+      "surface": "היא",
+      "gloss": "તે"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "દેબીર"
+    }
+  ],
+  "timestamp": "2026-08-21T12:40:23.527701351Z",
+  "model": "glm-5.3"
+}

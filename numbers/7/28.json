@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "numbers 7:28",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 7,
+  "translation": "એક રોંટાનો બકરો, પાપાર્પણ ⟨માટે⟩।",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "રોંટાનો બકરો"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "બકરાઓનાં"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "એક"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "પાપાર્પણ માટે"
+    }
+  ],
+  "timestamp": "2026-08-21T11:51:16.970822760Z",
+  "model": "glm-5.3"
+}

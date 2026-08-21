@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "deuteronomy 28:44",
+  "book": "deuteronomy",
+  "lang": "gu",
+  "chapter": 28,
+  "translation": "તે તને ધિરાણ આપશે અને તું તેને ધિરાણ આપી શકશે નહીં; તે મસ્તક બનશે અને તું પૂંછડી બનશે.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "તે"
+    },
+    {
+      "surface": "ילוך",
+      "gloss": "તને ધિરાણ આપશે"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "અને તું"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "תלונו",
+      "gloss": "તેને ધિરાણ આપી શકશે"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "તે"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "બનશે"
+    },
+    {
+      "surface": "לראש",
+      "gloss": "મસ્તક"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "અને તું"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "બનશે"
+    },
+    {
+      "surface": "לזנב",
+      "gloss": "પૂંછડી"
+    }
+  ],
+  "timestamp": "2026-08-21T12:27:36.817071036Z",
+  "model": "glm-5.3"
+}

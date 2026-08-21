@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 9:26",
+  "book": "genesis",
+  "lang": "gu",
+  "chapter": 9,
+  "translation": "અને તેણે કહ્યું: ધન્ય છે યાહવે, શેમનો એલોહીમ; અને કનાન ⟨તેમનો⟩ દાસ થાય.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "અને તેણે કહ્યું"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "ધન્ય છે"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "…નો એલોહીમ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "શેમ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "અને થાય"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "કનાન"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "દાસ"
+    },
+    {
+      "surface": "למו",
+      "gloss": "તેમનો"
+    }
+  ],
+  "timestamp": "2026-08-21T10:40:23.930131671Z",
+  "model": "glm-5.3"
+}

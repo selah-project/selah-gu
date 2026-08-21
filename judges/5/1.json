@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "judges 5:1",
+  "book": "judges",
+  "lang": "gu",
+  "chapter": 5,
+  "translation": "અને તે દિવસે દેબોરાહે અને અવિનોઅમના પુત્ર બારકે ગીત ગાયું, કહેતાં:",
+  "tokens": [
+    {
+      "surface": "ותשר",
+      "gloss": "ગાયું"
+    },
+    {
+      "surface": "דבורה",
+      "gloss": "દેબોરાહે"
+    },
+    {
+      "surface": "וברק",
+      "gloss": "અને બારકે"
+    },
+    {
+      "surface": "בן",
+      "gloss": "પુત્ર"
+    },
+    {
+      "surface": "אבינעם",
+      "gloss": "અવિનોઅમના"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "તે દિવસે"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "તે"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "કહેતાં"
+    }
+  ],
+  "timestamp": "2026-08-21T12:47:58.457304118Z",
+  "model": "glm-5.3"
+}

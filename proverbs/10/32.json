@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 10:32",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 10,
+  "translation": "The lips of the righteous know favor; but the mouth of the wicked — perversity.",
+  "tokens": [
+    {
+      "surface": "שפתי",
+      "gloss": "the lips of"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "the righteous"
+    },
+    {
+      "surface": "ידעון",
+      "gloss": "know"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "favor"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "and the mouth of"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "the wicked"
+    },
+    {
+      "surface": "תהפכות",
+      "gloss": "perversity"
+    }
+  ],
+  "timestamp": "2026-08-21T16:54:42.195710248Z",
+  "model": "glm-5.3"
+}

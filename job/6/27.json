@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "job 6:27",
+  "book": "job",
+  "lang": "gu",
+  "chapter": 6,
+  "translation": "હા, તમે અનાથ પર પડાવો છો, અને તમારા મિત્ર માટે ખાડો ખોદો છો.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "હા"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "અનાથ"
+    },
+    {
+      "surface": "תפילו",
+      "gloss": "પડાવો છો"
+    },
+    {
+      "surface": "ותכרו",
+      "gloss": "અને ખોદો છો"
+    },
+    {
+      "surface": "על",
+      "gloss": "માટે"
+    },
+    {
+      "surface": "ריעכם",
+      "gloss": "તમારા મિત્ર"
+    }
+  ],
+  "timestamp": "2026-08-21T17:07:00.040073032Z",
+  "model": "glm-5.3"
+}

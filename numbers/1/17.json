@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 1:17",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 1,
+  "translation": "અને મોશે અને અહરોને ⟨את⟩ ⟨the⟩ એ ⟨the⟩ પુરુષો ⟨the⟩ આ ⟨the⟩ લોકો લીધા, જેમનાં નામ પ્રમાણે નિર્દિષ્ટ થયા હતા.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "લીધા"
+    },
+    {
+      "surface": "משה",
+      "gloss": "મોશે"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "અહરોન"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "આ પુરુષો"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "પુરુષો"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "આ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જેમનાં"
+    },
+    {
+      "surface": "נקבו",
+      "gloss": "નિર્દિષ્ટ થયા હતા"
+    },
+    {
+      "surface": "בשמות",
+      "gloss": "નામ પ્રમાણે"
+    }
+  ],
+  "timestamp": "2026-08-21T11:47:55.120500213Z",
+  "model": "glm-5.3"
+}

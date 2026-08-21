@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 6:5",
+  "book": "job",
+  "lang": "gu",
+  "chapter": 6,
+  "translation": "શું જંગલી ગધેડો તાજા ઘાસ પર કરડે છે? શું બળદ પોતાના ચારા પર ડકારે છે?",
+  "tokens": [
+    {
+      "surface": "הינהק",
+      "gloss": "કરડે છે"
+    },
+    {
+      "surface": "פרא",
+      "gloss": "જંગલી ગધેડો"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "પર"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "તાજા ઘાસ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "શું"
+    },
+    {
+      "surface": "יגעה",
+      "gloss": "ડકારે છે"
+    },
+    {
+      "surface": "שור",
+      "gloss": "બળદ"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "בלילו",
+      "gloss": "પોતાના ચારા"
+    }
+  ],
+  "timestamp": "2026-08-21T17:06:05.775612053Z",
+  "model": "glm-5.3"
+}

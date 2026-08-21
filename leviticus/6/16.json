@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 6:16",
+  "book": "leviticus",
+  "lang": "gu",
+  "chapter": 6,
+  "translation": "અને કોહેનનો દરેક મિનહા સંપૂર્ણ હશે; તે ખવાય નહીં.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "અને દરેક"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "મિનહાનો"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "કોહેન"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "સંપૂર્ણ"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "હશે"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "ખવાય"
+    }
+  ],
+  "timestamp": "2026-08-21T11:32:00.276996024Z",
+  "model": "glm-5.3"
+}

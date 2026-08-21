@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 37:5",
+  "book": "ezekiel",
+  "lang": "gu",
+  "chapter": 37,
+  "translation": "આમ કહે છે અદોનાય યાહવે આ હાડકાંને: જુઓ, હું તમારામાં રૂઆખ લાવી રહ્યો છું, અને તમે જીવશો.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "આમ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "કહે છે"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "અદોનાય"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "לעצמות",
+      "gloss": "હાડકાંને"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "આ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "જુઓ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "હું"
+    },
+    {
+      "surface": "מביא",
+      "gloss": "લાવી રહ્યો છું"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "તમારામાં"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "રૂઆખ"
+    },
+    {
+      "surface": "וחייתם",
+      "gloss": "અને તમે જીવશો"
+    }
+  ],
+  "timestamp": "2026-08-21T15:37:46.339164519Z",
+  "model": "glm-5.3"
+}

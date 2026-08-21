@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 6:18",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 6,
+  "translation": "દુષ્ટ કારસાજીઓ ઘડતું હૃદય, દુષ્ટતા તરફ દોડવા ઉતાવળ કરતાં પગ,",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "હૃદય"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "ઘડતું"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "કારસાજીઓ"
+    },
+    {
+      "surface": "און",
+      "gloss": "દુષ્ટ"
+    },
+    {
+      "surface": "רגלים",
+      "gloss": "પગ"
+    },
+    {
+      "surface": "ממהרות",
+      "gloss": "ઉતાવળ કરતાં"
+    },
+    {
+      "surface": "לרוץ",
+      "gloss": "દોડવા"
+    },
+    {
+      "surface": "לרעה",
+      "gloss": "દુષ્ટતા તરફ"
+    }
+  ],
+  "timestamp": "2026-08-21T16:53:44.324774936Z",
+  "model": "glm-5.3"
+}

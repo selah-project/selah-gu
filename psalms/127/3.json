@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 127:3",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 127,
+  "translation": "જુઓ, પુત્રો યાહવેની વિરાસત છે; ગર્ભનું ફળ પ્રતિફળ ⟨છે⟩.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "જુઓ"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "વિરાસત"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવેની"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "પ્રતિફળ"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "ફળ"
+    },
+    {
+      "surface": "הבטן",
+      "gloss": "ગર્ભનું"
+    }
+  ],
+  "timestamp": "2026-08-21T16:46:38.880891993Z",
+  "model": "glm-5.3"
+}

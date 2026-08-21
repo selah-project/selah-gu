@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 24:30",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 24,
+  "translation": "એક આળસુ માણસના ખેતર પર મુજથી પસાર થયો, અને હૃદયથી વિવર માણસની દ્રાક્ષાવાડી પર.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "ખેતર"
+    },
+    {
+      "surface": "איש",
+      "gloss": "માણસ"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "આળસુ"
+    },
+    {
+      "surface": "עברתי",
+      "gloss": "મુજથી પસાર થયો"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "અને ... પર"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "દ્રાક્ષાવાડી"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "માણસ"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "વિવર"
+    },
+    {
+      "surface": "לב",
+      "gloss": "હૃદય"
+    }
+  ],
+  "timestamp": "2026-08-21T17:01:28.334158665Z",
+  "model": "glm-5.3"
+}

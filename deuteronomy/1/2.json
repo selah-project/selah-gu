@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 1:2",
+  "book": "deuteronomy",
+  "lang": "gu",
+  "chapter": 1,
+  "translation": "અગિયાર દિવસ ⟨છે⟩ ખોરેવથી, સેઈર પર્વતના માર્ગે, કાદેશ-બાર્નેઆ સુધી.",
+  "tokens": [
+    {
+      "surface": "אחד",
+      "gloss": "અગિયાર"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "…સાથે જોડાયેલ: -ગિયાર"
+    },
+    {
+      "surface": "יום",
+      "gloss": "દિવસ"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "ખોરેવથી"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "માર્ગે"
+    },
+    {
+      "surface": "הר",
+      "gloss": "પર્વતના"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "સેઈર"
+    },
+    {
+      "surface": "עד",
+      "gloss": "સુધી"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "કાદેશ-"
+    },
+    {
+      "surface": "ברנע",
+      "gloss": "બાર્નેઆ"
+    }
+  ],
+  "timestamp": "2026-08-21T12:13:54.842314829Z",
+  "model": "glm-5.3"
+}

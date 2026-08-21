@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 57:21",
+  "book": "isaiah",
+  "lang": "gu",
+  "chapter": 57,
+  "translation": "શાંતિ નથી, મારા એલોહીમે કહ્યું, દુષ્ટો માટે.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "નથી"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "શાંતિ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "કહ્યું"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "મારા એલોહીમે"
+    },
+    {
+      "surface": "לרשעים",
+      "gloss": "દુષ્ટો માટે"
+    }
+  ],
+  "timestamp": "2026-08-21T14:39:03.251620108Z",
+  "model": "glm-5.3"
+}

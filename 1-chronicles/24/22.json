@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 24:22",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 24,
+  "translation": "યિત્સહરી માટે શેલોમોત; શેલોમોતના પુત્રો માટે યાખત.",
+  "tokens": [
+    {
+      "surface": "ליצהרי",
+      "gloss": "યિત્સહરી માટે"
+    },
+    {
+      "surface": "שלמות",
+      "gloss": "શેલોમોત"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "પુત્રો માટે"
+    },
+    {
+      "surface": "שלמות",
+      "gloss": "શેલોમોતના"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "યાખત"
+    }
+  ],
+  "timestamp": "2026-08-21T18:10:46.911652277Z",
+  "model": "glm-5.3"
+}

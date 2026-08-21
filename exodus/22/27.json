@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 22:27",
+  "book": "exodus",
+  "lang": "gu",
+  "chapter": 22,
+  "translation": "એલોહીમને શાપ ન આપતો, અને તારા પ્રજામાંના પ્રમુખને શાપ ન દેતો.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "એલોહીમને"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ન"
+    },
+    {
+      "surface": "પક્ષે",
+      "gloss": "શાપ આપતો"
+    },
+    {
+      "surface": "ונשיא",
+      "gloss": "અને પ્રમુખને"
+    },
+    {
+      "surface": "בעמך",
+      "gloss": "તારા પ્રજામાંના"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ન"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "શાપ દેતો"
+    }
+  ],
+  "timestamp": "2026-08-21T11:17:20.570107606Z",
+  "model": "glm-5.3"
+}

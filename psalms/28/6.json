@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 28:6",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 28,
+  "translation": "ધન્ય છે યાહવે, કેમ કે તેણે મારી વિનવણીઓનો અવાજ સાંભળ્યો છે.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "ધન્ય છે"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "כי",
+      "gloss": "કેમ કે"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "સાંભળ્યો છે"
+    },
+    {
+      "surface": "קול",
+      "gloss": "અવાજ"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "મારી વિનવણીઓનો"
+    }
+  ],
+  "timestamp": "2026-08-21T16:17:10.804638772Z",
+  "model": "glm-5.3"
+}

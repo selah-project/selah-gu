@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 25:14",
+  "book": "genesis",
+  "lang": "gu",
+  "chapter": 25,
+  "translation": "અને મિશ્મા, અને દૂમા, અને માસા.",
+  "tokens": [
+    {
+      "surface": "ומשמע",
+      "gloss": "અને મિશ્મા"
+    },
+    {
+      "surface": "ודומה",
+      "gloss": "અને દૂમા"
+    },
+    {
+      "surface": "ומשא",
+      "gloss": "અને માસા"
+    }
+  ],
+  "timestamp": "2026-08-21T10:49:23.485305913Z",
+  "model": "glm-5.3"
+}

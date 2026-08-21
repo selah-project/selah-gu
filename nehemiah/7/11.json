@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nehemiah 7:11",
+  "book": "nehemiah",
+  "lang": "gu",
+  "chapter": 7,
+  "translation": "પાખત-મોઆબના પુત્રો — યેશુઆ અને યોઆવના પુત્રોમાંથી — બે હજાર આઠસો અઢાર.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "פחת",
+      "gloss": "પાખત"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "મોઆબ"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "પુત્રોમાંથી"
+    },
+    {
+      "surface": "ישוע",
+      "gloss": "યેશુઆ"
+    },
+    {
+      "surface": "ויואב",
+      "gloss": "અને યોઆવ"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "હજાર"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "અને આઠ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "સો"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "આઠ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "અઢાર"
+    }
+  ],
+  "timestamp": "2026-08-21T17:53:01.445118467Z",
+  "model": "glm-5.3"
+}

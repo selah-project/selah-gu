@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 35:6",
+  "book": "genesis",
+  "lang": "gu",
+  "chapter": 35,
+  "translation": "અને યાકોબ લૂઝ પહોંચ્યો, જે કનાન દેશમાં ⟨છે⟩ — ⟨તે⟩ બેઇત-એલ ⟨છે⟩ — ⟨તે⟩ અને તેની સાથેનો તમામ પ્રજા.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "અને ⟨તે⟩ આવ્યો"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "યાકોબ"
+    },
+    {
+      "surface": "לוזה",
+      "gloss": "લૂઝ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જે"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "દેશમાં"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "કનાન"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨તે⟩"
+    },
+    {
+      "surface": "בית",
+      "gloss": "બેઇત"
+    },
+    {
+      "surface": "אל",
+      "gloss": "એલ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨તે⟩"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "અને તમામ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "પ્રજા"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જે"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "તેની સાથે"
+    }
+  ],
+  "timestamp": "2026-08-21T10:56:56.466679161Z",
+  "model": "glm-5.3"
+}

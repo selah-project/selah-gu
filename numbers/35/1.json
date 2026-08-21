@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 35:1",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 35,
+  "translation": "અને યાહવેએ મોશેને મોઆબના મેદાનોમાં, યર્દનને સામે યરીખો પાસે વાત કરી, કહેતા:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "અને…વાત કરી"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ને (તરફ)"
+    },
+    {
+      "surface": "משה",
+      "gloss": "મોશે"
+    },
+    {
+      "surface": "בערבת",
+      "gloss": "મેદાનોમાં"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "મોઆબના"
+    },
+    {
+      "surface": "על",
+      "gloss": "સામે"
+    },
+    {
+      "surface": "ירדן",
+      "gloss": "યર્દનને"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "યરીખો"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "કહેતા"
+    }
+  ],
+  "timestamp": "2026-08-21T12:10:58.172111460Z",
+  "model": "glm-5.3"
+}

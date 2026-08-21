@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 44:27",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 44,
+  "translation": "ઊઠ, અમને મદદ કર, અને તારા હેસેદને માટે અમને છોડાવ.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "ઊઠ"
+    },
+    {
+      "surface": "עזרתה",
+      "gloss": "મદદ કર"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "અમને"
+    },
+    {
+      "surface": "ופדנו",
+      "gloss": "અને અમને છોડાવ"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ને માટે"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "તારા હેસેદ"
+    }
+  ],
+  "timestamp": "2026-08-21T16:21:42.966180632Z",
+  "model": "glm-5.3"
+}

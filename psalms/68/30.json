@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 68:30",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 68,
+  "translation": "તારા મંદિરથી, યરૂશાલાયિમ (યરૂશાલેમ) પર, રાજાઓ તને ભેટ લઈ આવશે.",
+  "tokens": [
+    {
+      "surface": "מהיכלך",
+      "gloss": "તારા મંદિરથી"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "યરૂશાલાયિમ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "તને"
+    },
+    {
+      "surface": "יובילו",
+      "gloss": "લઈ આવશે"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "રાજાઓ"
+    },
+    {
+      "surface": "שי",
+      "gloss": "ભેટ"
+    }
+  ],
+  "timestamp": "2026-08-21T16:29:26.461118643Z",
+  "model": "glm-5.3"
+}

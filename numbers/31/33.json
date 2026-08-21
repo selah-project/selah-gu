@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "numbers 31:33",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 31,
+  "translation": "અને ઢોર બે હજાર અને સિત્તેર હજાર — કુલ બોતાત્તેર હજાર.",
+  "tokens": [
+    {
+      "surface": "ובקר",
+      "gloss": "અને ઢોર"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "બે"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "અને સિત્તેર"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "હજાર"
+    }
+  ],
+  "timestamp": "2026-08-21T18:37:25.252835096Z",
+  "model": "glm-5.3"
+}

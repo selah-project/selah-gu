@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "lamentations 3:46",
+  "book": "lamentations",
+  "lang": "gu",
+  "chapter": 3,
+  "translation": "અમારા બધા શત્રુઓએ અમારા પર પોતાનું મુખ પહોળું ખોલ્યું.",
+  "tokens": [
+    {
+      "surface": "פצו",
+      "gloss": "પહોળું ખોલ્યું"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "અમારા પર"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "પોતાનું મુખ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "બધા"
+    },
+    {
+      "surface": "איבינו",
+      "gloss": "અમારા શત્રુઓએ"
+    }
+  ],
+  "timestamp": "2026-08-21T17:26:09.037579719Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 106:28",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 106,
+  "translation": "અને તેઓ બાલ-પેઓર સાથે જોડાયા, અને મૃતકોના યજ્ઞો ખાધા.",
+  "tokens": [
+    {
+      "surface": "ויצמדו",
+      "gloss": "અને તેઓ જોડાયા"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "બાલ-સાથે"
+    },
+    {
+      "surface": "פעור",
+      "gloss": "પેઓર"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "અને ખાધા"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "યજ્ઞો"
+    },
+    {
+      "surface": "מתים",
+      "gloss": "મૃતકોના"
+    }
+  ],
+  "timestamp": "2026-08-21T18:57:57.365403872Z",
+  "model": "glm-5.3"
+}

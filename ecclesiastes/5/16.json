@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 5:16",
+  "book": "ecclesiastes",
+  "lang": "gu",
+  "chapter": 5,
+  "translation": "તેના સર્વ દિવસો પણ તે અંધકારમાં ખાય છે, અને ઘણો ક્રોધ, અને તેનું દુઃખ અને ગુસ્સો.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "પણ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "સર્વ"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "તેના દિવસો"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "અંધકારમાં"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "તે ખાય છે"
+    },
+    {
+      "surface": "וכעס",
+      "gloss": "અને ક્રોધ"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "ઘણો"
+    },
+    {
+      "surface": "וחליו",
+      "gloss": "અને તેનું દુઃખ"
+    },
+    {
+      "surface": "וקצף",
+      "gloss": "અને ગુસ્સો"
+    }
+  ],
+  "timestamp": "2026-08-21T17:30:51.717312718Z",
+  "model": "glm-5.3"
+}

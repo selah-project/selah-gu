@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 5:20",
+  "book": "deuteronomy",
+  "lang": "gu",
+  "chapter": 5,
+  "translation": "અને તું પોતાના પડોશી વિરુદ્ધ ખોટી સાક્ષી નહિ આપે.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "અને નહિ"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "તું ઉત્તર આપે"
+    },
+    {
+      "surface": "ברעך",
+      "gloss": "પોતાના પડોશી વિરુદ્ધ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "સાક્ષી"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "ખોટી"
+    }
+  ],
+  "timestamp": "2026-08-21T12:14:06.962462003Z",
+  "model": "glm-5.3"
+}

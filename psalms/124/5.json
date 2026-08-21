@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 124:5",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 124,
+  "translation": "ત્યારે ઉદ્દામ પાણીઓ આપણા પ્રાણ પરથી પસાર થઈ ગયાં હોત.",
+  "tokens": [
+    {
+      "surface": "אזי",
+      "gloss": "ત્યારે"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "પસાર થઈ ગયાં હોત"
+    },
+    {
+      "surface": "על",
+      "gloss": "પરથી"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "આપણા પ્રાણ"
+    },
+    {
+      "surface": "המים",
+      "gloss": "પાણીઓ"
+    },
+    {
+      "surface": "הזידונים",
+      "gloss": "ઉદ્દામ"
+    }
+  ],
+  "timestamp": "2026-08-21T16:46:50.036414259Z",
+  "model": "glm-5.3"
+}

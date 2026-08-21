@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 66:5",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 66,
+  "translation": "આવો અને એલોહીમનાં કાર્યો જુઓ; માનવ-પુત્રો પર ⟨તેનાં⟩ ભયંકર કાર્યો ⟨છે⟩.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "આવો"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "અને જુઓ"
+    },
+    {
+      "surface": "מפעלות",
+      "gloss": "કાર્યો"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "એલોહીમનાં"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "ભયંકર"
+    },
+    {
+      "surface": "עלילה",
+      "gloss": "કાર્યો"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "בני",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "માનવ"
+    }
+  ],
+  "timestamp": "2026-08-21T16:27:49.637972894Z",
+  "model": "glm-5.3"
+}

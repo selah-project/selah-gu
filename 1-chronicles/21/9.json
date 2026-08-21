@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 21:9",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 21,
+  "translation": "અને યાહવેએ દાવિદના દ્રષ્ટા ગાદને કહ્યું:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "અને કહ્યું"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવેએ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "પ્રતિ"
+    },
+    {
+      "surface": "גד",
+      "gloss": "ગાદને"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "દ્રષ્ટા"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "દાવિદના"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "કે"
+    }
+  ],
+  "timestamp": "2026-08-21T18:10:27.580847263Z",
+  "model": "glm-5.3"
+}

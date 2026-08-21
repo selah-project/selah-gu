@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 25:18",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 25,
+  "translation": "અગિયારમો અઝરએલ; તે, તેના પુત્રો અને તેના ભાઈઓ — બારમાં.",
+  "tokens": [
+    {
+      "surface": "עשתי",
+      "gloss": "અગિયાર"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "-મો"
+    },
+    {
+      "surface": "עזראל",
+      "gloss": "અઝરએલ"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "તેના પુત્રો"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "અને તેના ભાઈઓ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "બાર"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "(નામાં)"
+    }
+  ],
+  "timestamp": "2026-08-21T18:10:47.113979148Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zechariah 2:3",
+  "book": "zechariah",
+  "lang": "gu",
+  "chapter": 2,
+  "translation": "અને યાહવેએ મને ચાર કારીગરો બતાવ્યા.",
+  "tokens": [
+    {
+      "surface": "ויראני",
+      "gloss": "અને તેમણે મને બતાવ્યા"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "ચાર"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "કારીગરો"
+    }
+  ],
+  "timestamp": "2026-08-21T16:05:43.097973039Z",
+  "model": "glm-5.3"
+}

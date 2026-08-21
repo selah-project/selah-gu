@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 6:7",
+  "book": "ezekiel",
+  "lang": "gu",
+  "chapter": 6,
+  "translation": "અને મારેલા તમારી વચ્ચે પડશે, અને તમે જાણશો કે હું જ યાહવે ⟨છું⟩.",
+  "tokens": [
+    {
+      "surface": "ונפל",
+      "gloss": "અને પડશે"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "મારેલા"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "તમારી વચ્ચે"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "અને તમે જાણશો"
+    },
+    {
+      "surface": "כי",
+      "gloss": "કે"
+    },
+    {
+      "surface": "אני",
+      "gloss": "હું જ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    }
+  ],
+  "timestamp": "2026-08-21T18:50:00.658963323Z",
+  "model": "glm-5.3"
+}

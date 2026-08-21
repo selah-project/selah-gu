@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 10:16",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 10,
+  "translation": "અને ઝવૂલૂનનાં પુત્રોના શાખા-સૈન્ય પર ખેલોનનો પુત્ર એલીઆવ ⟨હતો⟩.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "અને … પર"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "સૈન્ય"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "શાખા-"
+    },
+    {
+      "surface": "בני",
+      "gloss": "પુત્રોના"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "ઝવૂલૂન"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "એલીઆવ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "પુત્ર"
+    },
+    {
+      "surface": "חלון",
+      "gloss": "ખેલોનનો"
+    }
+  ],
+  "timestamp": "2026-08-21T11:53:48.628403033Z",
+  "model": "glm-5.3"
+}

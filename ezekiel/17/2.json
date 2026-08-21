@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 17:2",
+  "book": "ezekiel",
+  "lang": "gu",
+  "chapter": 17,
+  "translation": "મનુષ્યના પુત્ર, કોયડો ગૂંથ અને ઈસ્રાએલના ઘર સામે દૃષ્ટાંત કહે:",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "પુત્ર"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "મનુષ્યના"
+    },
+    {
+      "surface": "חוד",
+      "gloss": "ગૂંથ"
+    },
+    {
+      "surface": "חידה",
+      "gloss": "કોયડો"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "અને દૃષ્ટાંત કહે"
+    },
+    {
+      "surface": "משל",
+      "gloss": "દૃષ્ટાંત"
+    },
+    {
+      "surface": "אל",
+      "gloss": "સામે"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ઘર"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ઈસ્રાએલના"
+    }
+  ],
+  "timestamp": "2026-08-21T15:25:36.259291759Z",
+  "model": "glm-5.3"
+}

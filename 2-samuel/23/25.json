@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 23:25",
+  "book": "2-samuel",
+  "lang": "gu",
+  "chapter": 23,
+  "translation": "શમ્મા ⟨હચરોદી⟩, એલિકા ⟨હચરોદી⟩,",
+  "tokens": [
+    {
+      "surface": "שמה",
+      "gloss": "શમ્મા"
+    },
+    {
+      "surface": "החרדי",
+      "gloss": "હચરોદી"
+    },
+    {
+      "surface": "אליקא",
+      "gloss": "એલિકા"
+    },
+    {
+      "surface": "החרדי",
+      "gloss": "હચરોદી"
+    }
+  ],
+  "timestamp": "2026-08-21T13:34:00.147000743Z",
+  "model": "glm-5.3"
+}

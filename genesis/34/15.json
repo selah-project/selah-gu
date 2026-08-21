@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 34:15",
+  "book": "genesis",
+  "lang": "gu",
+  "chapter": 34,
+  "translation": "ફક્ત આ શરતે આપણે તમને સંમત થઈશું: જો તમે આપણા જેવા બનો, તમારા દરેક પુરુષનું પરિચ્છેદન થાય,",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "ફક્ત"
+    },
+    {
+      "surface": "בזאת",
+      "gloss": "આ શરતે"
+    },
+    {
+      "surface": "נאות",
+      "gloss": "સંમત થઈશું"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "તમને"
+    },
+    {
+      "surface": "אם",
+      "gloss": "જો"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "બનો"
+    },
+    {
+      "surface": "כמנו",
+      "gloss": "આપણા જેવા"
+    },
+    {
+      "surface": "להמל",
+      "gloss": "પરિચ્છેદન થાય"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "તમારા"
+    },
+    {
+      "surface": "כל",
+      "gloss": "દરેક"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "પુરુષ"
+    }
+  ],
+  "timestamp": "2026-08-21T10:57:06.887262260Z",
+  "model": "glm-5.3"
+}

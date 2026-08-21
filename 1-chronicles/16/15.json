@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 16:15",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 16,
+  "translation": "યાદ રાખો સદાકાળ સુધી તેમની કરાર, વચન જે તેમણે આજ્ઞા કર્યું એક હજાર પેઢીઓ સુધી —",
+  "tokens": [
+    {
+      "surface": "זכרו",
+      "gloss": "યાદ રાખો"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "સદાકાળ સુધી"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "તેમની કરાર"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "વચન"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "આજ્ઞા કર્યું"
+    },
+    {
+      "surface": "לאלף",
+      "gloss": "એક હજાર"
+    },
+    {
+      "surface": "דור",
+      "gloss": "પેઢીઓ"
+    }
+  ],
+  "timestamp": "2026-08-21T18:06:48.207314115Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "nehemiah 7:44",
+  "book": "nehemiah",
+  "lang": "gu",
+  "chapter": 7,
+  "translation": "ગાયકો: આસાફના પુત્રો — એકસો આઠતાલીસ.",
+  "tokens": [
+    {
+      "surface": "המשררים",
+      "gloss": "ગાયકો"
+    },
+    {
+      "surface": "בני",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "આસાફ"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "એકસો"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "ચાલીસ"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "અને આઠ"
+    }
+  ],
+  "timestamp": "2026-08-21T17:54:59.369085597Z",
+  "model": "glm-5.3"
+}

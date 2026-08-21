@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "leviticus 13:48",
+  "book": "leviticus",
+  "lang": "gu",
+  "chapter": 13,
+  "translation": "કે તાણમાં કે વાણમાં, અળસી માટે કે ઊન માટે, કે ચામડામાં, કે ચામડાની કોઈપણ બનાવટમાં.",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "કે"
+    },
+    {
+      "surface": "בשתי",
+      "gloss": "તાણમાં"
+    },
+    {
+      "surface": "או",
+      "gloss": "કે"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "વાણમાં"
+    },
+    {
+      "surface": "לפשתים",
+      "gloss": "અળસી માટે"
+    },
+    {
+      "surface": "ולצמר",
+      "gloss": "અને ઊન માટે"
+    },
+    {
+      "surface": "או",
+      "gloss": "કે"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "ચામડામાં"
+    },
+    {
+      "surface": "או",
+      "gloss": "કે"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "કોઈપણ…માં"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "બનાવટ"
+    },
+    {
+      "surface": "עור",
+      "gloss": "ચામડાની"
+    }
+  ],
+  "timestamp": "2026-08-21T11:36:38.769352834Z",
+  "model": "glm-5.3"
+}

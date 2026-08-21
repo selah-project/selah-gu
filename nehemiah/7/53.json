@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "nehemiah 7:53",
+  "book": "nehemiah",
+  "lang": "gu",
+  "chapter": 7,
+  "translation": "બકબુકનાં પુત્રો, હકુફાનાં પુત્રો, હરહુરનાં પુત્રો,",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "בקבוק",
+      "gloss": "બકબુક"
+    },
+    {
+      "surface": "בני",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "חקופא",
+      "gloss": "હકુફા"
+    },
+    {
+      "surface": "בני",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "חרחור",
+      "gloss": "હરહુર"
+    }
+  ],
+  "timestamp": "2026-08-21T17:55:12.568081474Z",
+  "model": "glm-5.3"
+}

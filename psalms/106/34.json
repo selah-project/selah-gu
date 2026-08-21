@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 106:34",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 106,
+  "translation": "તેમણે ⟨את⟩ ⟨the⟩ પ્રજાઓનો નાશ ન કર્યો, જેના વિષે યાહવેએ તેમને કહ્યું હતું,",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ન"
+    },
+    {
+      "surface": "હשמידו",
+      "gloss": "નાશ કર્યો"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "⟨the⟩ પ્રજાઓનો"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "પ્રજાઓ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જેના વિષે"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "કહ્યું હતું"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "להם",
+      "gloss": "તેમને"
+    }
+  ],
+  "timestamp": "2026-08-21T16:39:38.312276638Z",
+  "model": "glm-5.3"
+}

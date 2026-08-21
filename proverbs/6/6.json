@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 6:6",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 6,
+  "translation": "જા આળસુ, કીડી પાસે; તેનાં માર્ગોને જો અને બુદ્ધિમાન થા.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "જા"
+    },
+    {
+      "surface": "אל",
+      "gloss": "પાસે"
+    },
+    {
+      "surface": "נמלה",
+      "gloss": "કીડી"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "આળસુ"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "જો"
+    },
+    {
+      "surface": "דרכיה",
+      "gloss": "તેનાં માર્ગોને"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "અને બુદ્ધિમાન થા"
+    }
+  ],
+  "timestamp": "2026-08-21T16:54:01.441648870Z",
+  "model": "glm-5.3"
+}

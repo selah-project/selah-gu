@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 22:20",
+  "book": "leviticus",
+  "lang": "gu",
+  "chapter": 22,
+  "translation": "જેમાં કશો દૂષ હોય તે બધું તમે ધરાવશો નહીં, કારણ કે તે તમારા માટે પ્રસન્નતા નહીં બને.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "બધું"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જે"
+    },
+    {
+      "surface": "בו",
+      "gloss": "તેમાં"
+    },
+    {
+      "surface": "מום",
+      "gloss": "દૂષ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "תקריבו",
+      "gloss": "તમે ધરાવશો"
+    },
+    {
+      "surface": "כי",
+      "gloss": "કારણ કે"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "לרצון",
+      "gloss": "પ્રસન્નતા માટે"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "બને"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "તમારા માટે"
+    }
+  ],
+  "timestamp": "2026-08-21T11:41:58.245551432Z",
+  "model": "glm-5.3"
+}

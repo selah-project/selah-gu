@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 23:15",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 23,
+  "translation": "મોશેના પુત્રો: ગેરેશોમ અને એલીએઝર.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "משה",
+      "gloss": "મોશેના"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "ગેરેશોમ"
+    },
+    {
+      "surface": "ואליעזר",
+      "gloss": "અને એલીએઝર"
+    }
+  ],
+  "timestamp": "2026-08-21T18:11:15.833196913Z",
+  "model": "glm-5.3"
+}

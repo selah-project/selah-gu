@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 25:6",
+  "book": "job",
+  "lang": "gu",
+  "chapter": 25,
+  "translation": "તો પછી મરણશીલ માણસ — કીડો — કેટલો વધુ નહીં! અને માનવપુત્ર — અળસિયો!",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "પણ વળી"
+    },
+    {
+      "surface": "כי",
+      "gloss": "કે"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "મરણશીલ માણસ"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "કીડો"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "અને પુત્ર"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "માનવ"
+    },
+    {
+      "surface": "תולעה",
+      "gloss": "અળસિયો"
+    }
+  ],
+  "timestamp": "2026-08-21T17:13:04.733198555Z",
+  "model": "glm-5.3"
+}

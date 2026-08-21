@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 24:5",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 24,
+  "translation": "જ્ઞાની પુરુષ બળવાન ⟨છે⟩, અને જ્ઞાનવાન માણસ શક્તિ મજબૂત કરે છે.",
+  "tokens": [
+    {
+      "surface": "גבר",
+      "gloss": "પુરુષ"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "જ્ઞાની"
+    },
+    {
+      "surface": "בעוז",
+      "gloss": "બળવાન"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "અને માણસ"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "જ્ઞાનવાન"
+    },
+    {
+      "surface": "מאמץ",
+      "gloss": "મજબૂત કરે છે"
+    },
+    {
+      "surface": "כח",
+      "gloss": "શક્તિ"
+    }
+  ],
+  "timestamp": "2026-08-21T17:00:46.618678058Z",
+  "model": "glm-5.3"
+}

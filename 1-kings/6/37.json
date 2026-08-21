@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-kings 6:37",
+  "book": "1-kings",
+  "lang": "gu",
+  "chapter": 6,
+  "translation": "ચોથાં વર્ષમાં યાહવેના ઘરનો પાયો નંખાયો, ઝીવ માસમાં.",
+  "tokens": [
+    {
+      "surface": "בשנה",
+      "gloss": "વર્ષમાં"
+    },
+    {
+      "surface": "הרביעית",
+      "gloss": "ચોથાં"
+    },
+    {
+      "surface": "יסד",
+      "gloss": "પાયો નંખાયો"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ઘરનો"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવેના"
+    },
+    {
+      "surface": "בירח",
+      "gloss": "માસમાં"
+    },
+    {
+      "surface": "זו",
+      "gloss": "ઝીવ"
+    }
+  ],
+  "timestamp": "2026-08-21T13:38:32.108934891Z",
+  "model": "glm-5.3"
+}

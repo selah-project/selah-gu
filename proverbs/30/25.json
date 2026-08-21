@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 30:25",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 30,
+  "translation": "કીડીઓ ⟨એ⟩ એવો દળ છે જેની પાસે બળ નથી, છતાં તેઓ ઉનાળામાં પોતાનો અન્ન તૈયાર કરે છે;",
+  "tokens": [
+    {
+      "surface": "הנמלים",
+      "gloss": "કીડીઓ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "દળ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નથી"
+    },
+    {
+      "surface": "עז",
+      "gloss": "બળ"
+    },
+    {
+      "surface": "ויכינו",
+      "gloss": "અને તૈયાર કરે છે"
+    },
+    {
+      "surface": "בקיץ",
+      "gloss": "ઉનાળામાં"
+    },
+    {
+      "surface": "לחמם",
+      "gloss": "પોતાનો અન્ન"
+    }
+  ],
+  "timestamp": "2026-08-21T18:59:14.581280389Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 12:10",
+  "book": "judges",
+  "lang": "gu",
+  "chapter": 12,
+  "translation": "અને ઇબ્ત્સાન મર્યો, અને બેત-લેખેમમાં દફન થયો.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "મર્યો"
+    },
+    {
+      "surface": "אבצן",
+      "gloss": "ઇબ્ત્સાન"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "દફન થયો"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "માં…બેત"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "લેખેમ"
+    }
+  ],
+  "timestamp": "2026-08-21T12:53:47.151158427Z",
+  "model": "glm-5.3"
+}

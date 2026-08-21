@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 36:21",
+  "book": "exodus",
+  "lang": "gu",
+  "chapter": 36,
+  "translation": "દસ હાથ ⟨એ⟩ એક તકતીની લંબાઈ, અને એક હાથ અને અડધો હાથ ⟨એ⟩ એક તકતીની પહોળાઈ.",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "દસ"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "હાથ (માપ)"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "લંબાઈ"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "એક તકતીની"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "અને એક હાથ"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "અને અડધો"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "હાથ"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "પહોળાઈ"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "એક તકતીની"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "એક"
+    }
+  ],
+  "timestamp": "2026-08-21T11:27:17.203378881Z",
+  "model": "glm-5.3"
+}

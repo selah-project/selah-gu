@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "nehemiah 10:5",
+  "book": "nehemiah",
+  "lang": "gu",
+  "chapter": 10,
+  "translation": "ખત્તૂશ, શેબન્યા, મલ્લૂખ,",
+  "tokens": [
+    {
+      "surface": "חטוש",
+      "gloss": "ખત્તૂશ"
+    },
+    {
+      "surface": "שבניה",
+      "gloss": "શેબન્યા"
+    },
+    {
+      "surface": "מלוך",
+      "gloss": "મલ્લૂખ"
+    }
+  ],
+  "timestamp": "2026-08-21T17:55:19.623140304Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 12:10",
+  "book": "job",
+  "lang": "gu",
+  "chapter": 12,
+  "translation": "જેના હાથમાં સર્વ જીવતાંનો પ્રાણ અને સર્વ માનવ-શરીરનો શ્વાસ ⟨છે⟩.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "જેના"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "હાથમાં"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "પ્રાણ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "સર્વ"
+    },
+    {
+      "surface": "חי",
+      "gloss": "જીવતાં"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "અને શ્વાસ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "સર્વ"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "શરીર"
+    },
+    {
+      "surface": "איש",
+      "gloss": "માનવ"
+    }
+  ],
+  "timestamp": "2026-08-21T17:07:55.944642978Z",
+  "model": "glm-5.3"
+}

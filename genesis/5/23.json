@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 5:23",
+  "book": "genesis",
+  "lang": "gu",
+  "chapter": 5,
+  "translation": "અને હનોખનાં બધાં દિવસો પાંચ અને સાઠ વર્ષ અને ત્રણસો વર્ષ ⟨થયાં⟩.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "અને…થયાં"
+    },
+    {
+      "surface": "כל",
+      "gloss": "બધાં"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "દિવસો"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "હનોખનાં"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "પાંચ"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "અને સાઠ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "વર્ષ"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "અને ત્રણ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "સો"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "વર્ષ"
+    }
+  ],
+  "timestamp": "2026-08-21T10:39:04.222418318Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 8:4",
+  "book": "genesis",
+  "lang": "gu",
+  "chapter": 8,
+  "translation": "અને તાબુ સાતમાં મહિનામાં, મહિનાના સત્તરમાં દિવસે, અરારાતના પર્વતો પર ટકી રહી.",
+  "tokens": [
+    {
+      "surface": "ותנח",
+      "gloss": "ટકી રહી"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "તાબુ"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "મહિનામાં"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "સાતમાં"
+    },
+    {
+      "surface": "בשבעה",
+      "gloss": "સાત"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "…સત્તરમાં"
+    },
+    {
+      "surface": "יום",
+      "gloss": "દિવસે"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "મહિનાના"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "הרי",
+      "gloss": "પર્વતો"
+    },
+    {
+      "surface": "אררט",
+      "gloss": "અરારાતના"
+    }
+  ],
+  "timestamp": "2026-08-21T10:39:37.094374450Z",
+  "model": "glm-5.3"
+}

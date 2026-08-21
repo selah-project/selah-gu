@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "lamentations 5:22",
+  "book": "lamentations",
+  "lang": "gu",
+  "chapter": 5,
+  "translation": "કેમ કે ⟨શું⟩ તેં અમને સાવ તિરસ્કાર્યા છે, તેં અમારા પર અત્યંત ક્રોધ કર્યો છે?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "કેમ કે"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨શું⟩"
+    },
+    {
+      "surface": "מאס",
+      "gloss": "સાવ"
+    },
+    {
+      "surface": "מאסתנו",
+      "gloss": "અમને તિરસ્કાર્યા છે"
+    },
+    {
+      "surface": "קצפת",
+      "gloss": "તેં ક્રોધ કર્યો છે"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "અમારા પર"
+    },
+    {
+      "surface": "עד",
+      "gloss": "અત્યંત"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "અત્યંત"
+    }
+  ],
+  "timestamp": "2026-08-21T17:28:03.849601898Z",
+  "model": "glm-5.3"
+}

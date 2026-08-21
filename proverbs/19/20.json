@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 19:20",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 19,
+  "translation": "સલાહ સાંભળ અને શિક્ષણ ગ્રહણ કર, જેથી તારા અંતમાં તું ડહાવેલો થાય.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "સાંભળ"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "સલાહ"
+    },
+    {
+      "surface": "וקבל",
+      "gloss": "અને ગ્રહણ કર"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "શિક્ષણ"
+    },
+    {
+      "surface": "למען",
+      "gloss": "જેથી"
+    },
+    {
+      "surface": "תחכם",
+      "gloss": "તું ડહાવેલો થાય"
+    },
+    {
+      "surface": "באחריתך",
+      "gloss": "તારા અંતમાં"
+    }
+  ],
+  "timestamp": "2026-08-21T16:59:21.824257028Z",
+  "model": "glm-5.3"
+}

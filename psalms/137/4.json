@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 137:4",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 137,
+  "translation": "અજાણી ભૂમિ પર આપણે યાહવેનું ⟨את⟩ ગીત કેવી રીતે ગાઈએ?",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "કેવી રીતે"
+    },
+    {
+      "surface": "נשיר",
+      "gloss": "આપણે ગાઈએ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ગીત"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "ગીત"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવેનું"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "ભૂમિ"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "અજાણી"
+    }
+  ],
+  "timestamp": "2026-08-21T16:48:29.834373904Z",
+  "model": "glm-5.3"
+}

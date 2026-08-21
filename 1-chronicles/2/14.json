@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 2:14",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 2,
+  "translation": "નતનએલ ⟨is⟩ ચોથો, રદ્દાય ⟨is⟩ પાંચમો.",
+  "tokens": [
+    {
+      "surface": "נתנאל",
+      "gloss": "નતનએલ"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "ચોથો"
+    },
+    {
+      "surface": "רדי",
+      "gloss": "રદ્દાય"
+    },
+    {
+      "surface": "החמישי",
+      "gloss": "પાંચમો"
+    }
+  ],
+  "timestamp": "2026-08-21T17:59:38.711832038Z",
+  "model": "glm-5.3"
+}

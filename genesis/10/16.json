@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 10:16",
+  "book": "genesis",
+  "lang": "gu",
+  "chapter": 10,
+  "translation": "અને ⟨את⟩ યબૂસી, ⟨את⟩ અમોરી અને ⟨את⟩ ગિર્ગાશી.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "યબૂસી"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "યબૂસી"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "અમોરી"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "અમોરી"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ગિર્ગાશી"
+    },
+    {
+      "surface": "הגרגשי",
+      "gloss": "ગિર્ગાશી"
+    }
+  ],
+  "timestamp": "2026-08-21T10:42:46.143809627Z",
+  "model": "glm-5.3"
+}

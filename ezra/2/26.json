@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "ezra 2:26",
+  "book": "ezra",
+  "lang": "gu",
+  "chapter": 2,
+  "translation": "રામા અને ગેવાનાં પુત્રો — છસો વીસ, એક.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "הרמה",
+      "gloss": "રામા"
+    },
+    {
+      "surface": "וגבע",
+      "gloss": "અને ગેવા"
+    },
+    {
+      "surface": "שש",
+      "gloss": "છ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "સો"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "વીસ"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "એક"
+    }
+  ],
+  "timestamp": "2026-08-21T17:45:09.746859426Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "nehemiah 12:20",
+  "book": "nehemiah",
+  "lang": "gu",
+  "chapter": 12,
+  "translation": "સલ્લાયના ઘરાણનો કલ્લાય; આમોકના ઘરાણનો એવેર —",
+  "tokens": [
+    {
+      "surface": "לסלי",
+      "gloss": "સલ્લાયના ઘરાણનો"
+    },
+    {
+      "surface": "קלי",
+      "gloss": "કલ્લાય"
+    },
+    {
+      "surface": "לעמוק",
+      "gloss": "આમોકના ઘરાણનો"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "એવેર"
+    }
+  ],
+  "timestamp": "2026-08-21T17:57:37.040519193Z",
+  "model": "glm-5.3"
+}

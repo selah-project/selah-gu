@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 1:25",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 1,
+  "translation": "તમે મારી આખી સલાહ છોડી દીધી, અને મારી ઠપ્પક તમે ઈચ્છી નહીં.",
+  "tokens": [
+    {
+      "surface": "ותפרעו",
+      "gloss": "છોડી દીધી"
+    },
+    {
+      "surface": "כל",
+      "gloss": "આખી"
+    },
+    {
+      "surface": "עצתי",
+      "gloss": "મારી સલાહ"
+    },
+    {
+      "surface": "ותוכחתי",
+      "gloss": "મારી ઠપ્પક"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "אביתם",
+      "gloss": "તમે ઈચ્છી"
+    }
+  ],
+  "timestamp": "2026-08-21T16:51:40.379362217Z",
+  "model": "glm-5.3"
+}

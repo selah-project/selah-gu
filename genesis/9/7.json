@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 9:7",
+  "book": "genesis",
+  "lang": "gu",
+  "chapter": 9,
+  "translation": "અને તમે ફળ ધરો અને વધો, પૃથ્વીમાં છલકાઓ અને તેમાં વધો.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "અને તમે"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "ફળ ધરો"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "અને વધો"
+    },
+    {
+      "surface": "שרצו",
+      "gloss": "છલકાઓ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "પૃથ્વીમાં"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "અને વધો"
+    },
+    {
+      "surface": "בה",
+      "gloss": "તેમાં"
+    }
+  ],
+  "timestamp": "2026-08-21T10:40:26.001212253Z",
+  "model": "glm-5.3"
+}

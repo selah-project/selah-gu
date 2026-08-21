@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 52:6",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 52,
+  "translation": "છેતરામણી કરનારી જીભે, નિગલી જનારાં તમામ શબ્દો તને ગમે છે.",
+  "tokens": [
+    {
+      "surface": "אהבת",
+      "gloss": "ગમે છે"
+    },
+    {
+      "surface": "כל",
+      "gloss": "તમામ"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "શબ્દો"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "નિગલી જનારાં"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "જીભ"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "છેતરામણી કરનારી"
+    }
+  ],
+  "timestamp": "2026-08-21T16:25:38.733789553Z",
+  "model": "glm-5.3"
+}

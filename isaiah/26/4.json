@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 26:4",
+  "book": "isaiah",
+  "lang": "gu",
+  "chapter": 26,
+  "translation": "યાહવેમાં સદાકાળ ભરોસો રાખો, કારણ કે યાહ יהוה — યાહવે — અનંત કાળનો શિલા છે.",
+  "tokens": [
+    {
+      "surface": "בטחו",
+      "gloss": "ભરોસો રાખો"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "યાહવેમાં"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "સદાકાળ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "સદા"
+    },
+    {
+      "surface": "כי",
+      "gloss": "કારણ કે"
+    },
+    {
+      "surface": "ביה",
+      "gloss": "યાહ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "צור",
+      "gloss": "શિલા"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "અનંત કાળનો"
+    }
+  ],
+  "timestamp": "2026-08-21T14:22:08.575194499Z",
+  "model": "glm-5.3"
+}

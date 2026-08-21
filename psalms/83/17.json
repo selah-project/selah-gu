@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 83:17",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 83,
+  "translation": "તેમનાં મુખ નામઠીથી ભરી દો, અને તેઓ તમારું નામ શોધે, હે યાહવે।",
+  "tokens": [
+    {
+      "surface": "מלא",
+      "gloss": "ભરી દો"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "તેમનાં મુખ"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "નામઠી"
+    },
+    {
+      "surface": "ויבקשו",
+      "gloss": "અને તેઓ શોધે"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "તમારું નામ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    }
+  ],
+  "timestamp": "2026-08-21T16:32:16.957060319Z",
+  "model": "glm-5.3"
+}

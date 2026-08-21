@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "deuteronomy 1:32",
+  "book": "deuteronomy",
+  "lang": "gu",
+  "chapter": 1,
+  "translation": "અને ⟨the⟩ આ વાતમાં તમે યાહવે તમારા એલોહીમને વિશ્વાસમાં ટકાવી રાખતા નથી.",
+  "tokens": [
+    {
+      "surface": "ובדבר",
+      "gloss": "અને આ વાતમાં"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "આ"
+    },
+    {
+      "surface": "אינכם",
+      "gloss": "તમે નથી"
+    },
+    {
+      "surface": "מאמינם",
+      "gloss": "વિશ્વાસમાં ટકાવી રાખતા"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "યાહવેને"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "તમારા એલોહીમ"
+    }
+  ],
+  "timestamp": "2026-08-21T12:13:22.346307572Z",
+  "model": "glm-5.3"
+}

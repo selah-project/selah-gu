@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 7:5",
+  "book": "genesis",
+  "lang": "gu",
+  "chapter": 7,
+  "translation": "અને નોહએ એ બધું જ કર્યું જેની યાહવેએ તેને આજ્ઞા આપી હતી.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "અને…કર્યું"
+    },
+    {
+      "surface": "נח",
+      "gloss": "નોહએ"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "એ બધું જ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જે"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "આજ્ઞા આપી હતી"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવેએ"
+    }
+  ],
+  "timestamp": "2026-08-21T10:39:55.232262888Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 3:24",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 3,
+  "translation": "જ્યારે તું સૂઈશ, તો ભયભીત નહીં થઈશ; સૂઈ જઈશ અને તારી ઊંઘ મીઠી હશે.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "જ્યારે"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "તું સૂઈશ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "תפחד",
+      "gloss": "ભયભીત થઈશ"
+    },
+    {
+      "surface": "ושכבת",
+      "gloss": "સૂઈ જઈશ"
+    },
+    {
+      "surface": "וערבה",
+      "gloss": "અને મીઠી હશે"
+    },
+    {
+      "surface": "שנתך",
+      "gloss": "તારી ઊંઘ"
+    }
+  ],
+  "timestamp": "2026-08-21T16:51:38.969573318Z",
+  "model": "glm-5.3"
+}

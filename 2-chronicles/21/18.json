@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-chronicles 21:18",
+  "book": "2-chronicles",
+  "lang": "gu",
+  "chapter": 21,
+  "translation": "અને આ બધા પછી યાહવેએ તેના પેટમાં એવી બીમારી સાથે તેને માર્યો જેનો કોઈ ઈલાજ ન હતો.",
+  "tokens": [
+    {
+      "surface": "ואחרי",
+      "gloss": "પછી"
+    },
+    {
+      "surface": "כל",
+      "gloss": "આ બધા"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "આ"
+    },
+    {
+      "surface": "נגפו",
+      "gloss": "માર્યો"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવેએ"
+    },
+    {
+      "surface": "במעיו",
+      "gloss": "તેના પેટમાં"
+    },
+    {
+      "surface": "לחלי",
+      "gloss": "બીમારી સાથે"
+    },
+    {
+      "surface": "לאין",
+      "gloss": "જેનો કોઈ ન હતો"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "ઈલાજ"
+    }
+  ],
+  "timestamp": "2026-08-21T18:24:39.421805461Z",
+  "model": "glm-5.3"
+}

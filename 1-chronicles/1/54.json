@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "1-chronicles 1:54",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 1,
+  "translation": "સરદાર મગ્દીએલ, સરદાર ઈરામ. આ ⟨are⟩ એદોમના સરદારો.",
+  "tokens": [
+    {
+      "surface": "אלוף",
+      "gloss": "સરદાર"
+    },
+    {
+      "surface": "מגדיאל",
+      "gloss": "મગ્દીએલ"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "સરદાર"
+    },
+    {
+      "surface": "עירם",
+      "gloss": "ઈરામ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "આ"
+    },
+    {
+      "surface": "אלופי",
+      "gloss": "સરદારો"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "એદોમ"
+    }
+  ],
+  "timestamp": "2026-08-21T17:58:56.517035453Z",
+  "model": "glm-5.3"
+}

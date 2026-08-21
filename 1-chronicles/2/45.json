@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-chronicles 2:45",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 2,
+  "translation": "અને શમ્માયનો પુત્ર માઓન ⟨હતો⟩, અને માઓન બેત-ત્સૂરનો પિતા ⟨હતો⟩.",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "અને…પુત્ર"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "શમ્માયનો"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "માઓન"
+    },
+    {
+      "surface": "ומעון",
+      "gloss": "અને માઓન"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "પિતા"
+    },
+    {
+      "surface": "בית",
+      "gloss": "બેત-"
+    },
+    {
+      "surface": "צור",
+      "gloss": "ત્સૂર"
+    }
+  ],
+  "timestamp": "2026-08-21T17:59:42.551163761Z",
+  "model": "glm-5.3"
+}

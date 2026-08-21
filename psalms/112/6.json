@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 112:6",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 112,
+  "translation": "કેમ કે સદા સુધી ⟨એ⟩ ખસશે નહીં; ન્યાયી માણસ સનાતન સ્મરણમાં રહેશે.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "કેમ કે"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "સદા સુધી"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "ખસશે"
+    },
+    {
+      "surface": "לזכר",
+      "gloss": "સ્મરણમાં"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "સનાતન"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "રહેશે"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ન્યાયી માણસ"
+    }
+  ],
+  "timestamp": "2026-08-21T16:41:31.691484817Z",
+  "model": "glm-5.3"
+}

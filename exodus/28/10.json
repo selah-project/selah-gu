@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 28:10",
+  "book": "exodus",
+  "lang": "gu",
+  "chapter": 28,
+  "translation": "છ નામ એક ⟨the⟩ પથ્થર પર, અને ⟨את⟩ બાકીના છનાં નામ બીજા ⟨the⟩ પથ્થર પર, તેમનાં જન્મક્રમ પ્રમાણે.",
+  "tokens": [
+    {
+      "surface": "ששה",
+      "gloss": "છ"
+    },
+    {
+      "surface": "משמתם",
+      "gloss": "તેમનાં નામમાંથી"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "પથ્થર"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "એક"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "નામ"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "નામ"
+    },
+    {
+      "surface": "הששה",
+      "gloss": "છનાં"
+    },
+    {
+      "surface": "הנותרים",
+      "gloss": "બાકી રહેલા"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "પથ્થર"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "બીજા"
+    },
+    {
+      "surface": "כתולדתם",
+      "gloss": "તેમનાં જન્મક્રમ પ્રમાણે"
+    }
+  ],
+  "timestamp": "2026-08-21T11:20:52.993658248Z",
+  "model": "glm-5.3"
+}

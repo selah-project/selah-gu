@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 3:17",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 3,
+  "translation": "અને યખન્યાહ ⟨કેદી⟩ના પુત્રો: શાલ્તીએલ તેનો પુત્ર.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "અને પુત્રો"
+    },
+    {
+      "surface": "יכניה",
+      "gloss": "યખન્યાહ"
+    },
+    {
+      "surface": "אסר",
+      "gloss": "⟨કેદી⟩"
+    },
+    {
+      "surface": "שאלתיאל",
+      "gloss": "શાલ્તીએલ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "તેનો પુત્ર"
+    }
+  ],
+  "timestamp": "2026-08-21T18:01:16.838036516Z",
+  "model": "glm-5.3"
+}

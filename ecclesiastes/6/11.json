@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 6:11",
+  "book": "ecclesiastes",
+  "lang": "gu",
+  "chapter": 6,
+  "translation": "કેમ કે ઘણાં વચનો છે જે હાંસ (વ્યર્થતા) વધારે છે; મનુષ્ય માટે શું વધારાનું છે?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "કેમ કે"
+    },
+    {
+      "surface": "יש",
+      "gloss": "છે"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "વચનો"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "ઘણાં"
+    },
+    {
+      "surface": "מרבים",
+      "gloss": "વધારે છે"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "હાંસ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "શું"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "વધારાનું"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "મનુષ્ય માટે"
+    }
+  ],
+  "timestamp": "2026-08-21T19:00:58.722271516Z",
+  "model": "glm-5.3"
+}

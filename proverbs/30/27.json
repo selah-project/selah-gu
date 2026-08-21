@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 30:27",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 30,
+  "translation": "ટીડીનો કોઈ રાજા નથી, છતાં તે ⟨બધી⟩ ટોળાં બનાવીને નીકળે છે.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "રાજા"
+    },
+    {
+      "surface": "אין",
+      "gloss": "નથી"
+    },
+    {
+      "surface": "לארבה",
+      "gloss": "ટીડીનો"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "નીકળે છે"
+    },
+    {
+      "surface": "חצץ",
+      "gloss": "ટોળાં બનાવીને"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "બધી"
+    }
+  ],
+  "timestamp": "2026-08-21T18:58:54.415461723Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 23:2",
+  "book": "ezekiel",
+  "lang": "gu",
+  "chapter": 23,
+  "translation": "માનવપુત્ર, એક માતાનીં પુત્રીઓ — બે સ્ત્રીઓ ⟨હતીં⟩.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "પુત્ર"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "માનવ"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "બે"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "સ્ત્રીઓ"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "પુત્રીઓ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "માતાનીં"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "એક"
+    },
+    {
+      "surface": "היו",
+      "gloss": "હતીં"
+    }
+  ],
+  "timestamp": "2026-08-21T15:29:44.491181117Z",
+  "model": "glm-5.3"
+}

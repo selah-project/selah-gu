@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 8:7",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 8,
+  "translation": "કેમ કે મારું તાળું સત્ય બોલશે, અને દુષ્ટતા મારા હોઠને ધિક્કારવામાં ⟨આવે⟩ છે।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "કેમ કે"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "સત્ય"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "બોલશે"
+    },
+    {
+      "surface": "חכי",
+      "gloss": "મારું તાળું"
+    },
+    {
+      "surface": "ותועבת",
+      "gloss": "અને ધિક્કાર"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "મારા હોઠને"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "દુષ્ટતા"
+    }
+  ],
+  "timestamp": "2026-08-21T16:53:43.860660509Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 2:15",
+  "book": "isaiah",
+  "lang": "gu",
+  "chapter": 2,
+  "translation": "અને દરેક ઊંચા મિનારા પર, અને દરેક દુર્ગ-દીવાલ પર,",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "અને … પર"
+    },
+    {
+      "surface": "כל",
+      "gloss": "દરેક"
+    },
+    {
+      "surface": "מגדל",
+      "gloss": "મિનારા"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "ઊંચા"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "અને … પર"
+    },
+    {
+      "surface": "כל",
+      "gloss": "દરેક"
+    },
+    {
+      "surface": "חומה",
+      "gloss": "દીવાલ"
+    },
+    {
+      "surface": "בצורה",
+      "gloss": "દુર્ગ-"
+    }
+  ],
+  "timestamp": "2026-08-21T14:10:17.833589353Z",
+  "model": "glm-5.3"
+}

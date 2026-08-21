@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 9:10",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 9,
+  "translation": "અને યાજકોમાંથી યદઆયાહ, અને યહોયારીવ, અને યાખીન.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "અને …માંથી"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "યાજકો"
+    },
+    {
+      "surface": "ידעיה",
+      "gloss": "યદઆયાહ"
+    },
+    {
+      "surface": "ויהויריב",
+      "gloss": "અને યહોયારીવ"
+    },
+    {
+      "surface": "ויכין",
+      "gloss": "અને યાખીન"
+    }
+  ],
+  "timestamp": "2026-08-21T18:04:52.748963745Z",
+  "model": "glm-5.3"
+}

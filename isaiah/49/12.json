@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 49:12",
+  "book": "isaiah",
+  "lang": "gu",
+  "chapter": 49,
+  "translation": "જુઓ, આ ⟨લોકો⟩ દૂરથી આવશે; અને જુઓ, આ ઉત્તરથી અને પશ્ચિમથી, અને આ સિનીમ દેશથી.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "જુઓ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "આ ⟨લોકો⟩"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "દૂરથી"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "આવશે"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "અને જુઓ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "આ"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "ઉત્તરથી"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "અને પશ્ચિમથી"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "અને આ"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "…દેશથી"
+    },
+    {
+      "surface": "סינים",
+      "gloss": "સિનીમ"
+    }
+  ],
+  "timestamp": "2026-08-21T14:35:04.330913370Z",
+  "model": "glm-5.3"
+}

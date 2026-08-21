@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "nehemiah 11:15",
+  "book": "nehemiah",
+  "lang": "gu",
+  "chapter": 11,
+  "translation": "અને લેવીયોમાંથી: શમઅયા, પુત્ર ખશ્શુબ, પુત્ર અઝરિકામ, પુત્ર ખશબયા, પુત્ર બુન્ની.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "અને ... માંથી"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "લેવીયો"
+    },
+    {
+      "surface": "שמעיה",
+      "gloss": "શમઅયા"
+    },
+    {
+      "surface": "בן",
+      "gloss": "પુત્ર"
+    },
+    {
+      "surface": "חשוב",
+      "gloss": "ખશ્શુબ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "પુત્ર"
+    },
+    {
+      "surface": "עזריקם",
+      "gloss": "અઝરિકામ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "પુત્ર"
+    },
+    {
+      "surface": "חשביה",
+      "gloss": "ખશબયા"
+    },
+    {
+      "surface": "בן",
+      "gloss": "પુત્ર"
+    },
+    {
+      "surface": "בוני",
+      "gloss": "બુન્ની"
+    }
+  ],
+  "timestamp": "2026-08-21T17:58:01.972776051Z",
+  "model": "glm-5.3"
+}

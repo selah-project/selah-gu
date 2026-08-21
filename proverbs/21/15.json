@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 21:15",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 21,
+  "translation": "ન્યાય કરવો ⟨is⟩ ન્યાયી માટે આનંદ ⟨is⟩, અને અકર્મણ્યના કર્તાઓ માટે વિનાશ.",
+  "tokens": [
+    {
+      "surface": "שמחה",
+      "gloss": "આનંદ"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "ન્યાયી માટે"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "કરવો"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ન્યાય"
+    },
+    {
+      "surface": "ומחתה",
+      "gloss": "અને વિનાશ"
+    },
+    {
+      "surface": "לפעלי",
+      "gloss": "કર્તાઓ માટે"
+    },
+    {
+      "surface": "און",
+      "gloss": "અકર્મણ્યના"
+    }
+  ],
+  "timestamp": "2026-08-21T16:59:06.247534311Z",
+  "model": "glm-5.3"
+}

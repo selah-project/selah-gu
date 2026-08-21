@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "job 41:26",
+  "book": "job",
+  "lang": "gu",
+  "chapter": 41,
+  "translation": "તે ⟨את⟩ સર્વ ઊંચી વસ્તુઓ જુએ છે; તે સર્વ અહંકારના પુત્રો પર રાજા છે.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "સર્વ ઊંચી વસ્તુઓ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "સર્વ"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "ઊંચી વસ્તુઓ"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "જુએ છે"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "તે"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "રાજા"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "כל",
+      "gloss": "સર્વ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "שחץ",
+      "gloss": "અહંકારના"
+    }
+  ],
+  "timestamp": "2026-08-21T17:20:13.183019876Z",
+  "model": "glm-5.3"
+}

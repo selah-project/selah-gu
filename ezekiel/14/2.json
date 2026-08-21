@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 14:2",
+  "book": "ezekiel",
+  "lang": "gu",
+  "chapter": 14,
+  "translation": "અને યાહવેનો વચન મારી પાસે થયું, કહેતા:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "અને થયું"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "વચન"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવેનો"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "મારી પાસે"
+    },
+    {
+      "surface": "કહેતા",
+      "gloss": "લאמר"
+    }
+  ],
+  "timestamp": "2026-08-21T18:52:24.099391882Z",
+  "model": "glm-5.3"
+}

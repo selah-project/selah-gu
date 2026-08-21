@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 3:2",
+  "book": "job",
+  "lang": "gu",
+  "chapter": 3,
+  "translation": "અને અય્યૂબે ઉત્તર આપ્યું અને કહ્યું:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "ઉત્તર આપ્યું"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "અય્યૂબે"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "કહ્યું"
+    }
+  ],
+  "timestamp": "2026-08-21T17:04:37.318943243Z",
+  "model": "glm-5.3"
+}

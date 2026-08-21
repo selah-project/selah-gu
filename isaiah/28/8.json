@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 28:8",
+  "book": "isaiah",
+  "lang": "gu",
+  "chapter": 28,
+  "translation": "કેમ કે બધાં ટેબલ ઉલટી અને મળમૂત્રથી ભરાયાં છે, સ્વચ્છ સ્થળ વિના.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "કેમ કે"
+    },
+    {
+      "surface": "כל",
+      "gloss": "બધાં"
+    },
+    {
+      "surface": "שלחנות",
+      "gloss": "ટેબલ"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "ભરાયાં છે"
+    },
+    {
+      "surface": "קיא",
+      "gloss": "ઉલટી"
+    },
+    {
+      "surface": "צאה",
+      "gloss": "અને મળમૂત્રથી"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "વિના"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "સ્થળ"
+    }
+  ],
+  "timestamp": "2026-08-21T14:23:21.982795431Z",
+  "model": "glm-5.3"
+}

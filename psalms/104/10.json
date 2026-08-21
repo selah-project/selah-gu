@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 104:10",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 104,
+  "translation": "જે ખીણોમાં ઝરણાં મોકલે છે; પર્વતોની વચ્ચે તે ચાલે છે.",
+  "tokens": [
+    {
+      "surface": "המשלח",
+      "gloss": "જે મોકલે છે"
+    },
+    {
+      "surface": "מעינים",
+      "gloss": "ઝરણાં"
+    },
+    {
+      "surface": "בנחלים",
+      "gloss": "ખીણોમાં"
+    },
+    {
+      "surface": "בין",
+      "gloss": "વચ્ચે"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "પર્વતોની"
+    },
+    {
+      "surface": "יהלכון",
+      "gloss": "તે ચાલે છે"
+    }
+  ],
+  "timestamp": "2026-08-21T16:38:16.601217587Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 101:4",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 101,
+  "translation": "વક્ર હૃદય મારાથી દૂર ફરશે; દુષ્ટતાને હું જાણીશ નહીં.",
+  "tokens": [
+    {
+      "surface": "לבב",
+      "gloss": "હૃદય"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "વક્ર"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "દૂર ફરશે"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "મારાથી"
+    },
+    {
+      "surface": "רע",
+      "gloss": "દુષ્ટતાને"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "હું જાણીશ"
+    }
+  ],
+  "timestamp": "2026-08-21T16:38:44.295244318Z",
+  "model": "glm-5.3"
+}

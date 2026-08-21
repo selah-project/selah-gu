@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-chronicles 2:43",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 2,
+  "translation": "અને હેબ્રોનના પુત્રો: કોરહ, અને તાપ્પુહ, અને રેકેમ, અને શમા.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "અને પુત્રો"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "હેબ્રોનના"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "કોરહ"
+    },
+    {
+      "surface": "ותפח",
+      "gloss": "અને તાપ્પુહ"
+    },
+    {
+      "surface": "ורקם",
+      "gloss": "અને રેકેમ"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "અને શમા"
+    }
+  ],
+  "timestamp": "2026-08-21T17:59:07.342396571Z",
+  "model": "glm-5.3"
+}

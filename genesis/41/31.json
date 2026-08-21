@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 41:31",
+  "book": "genesis",
+  "lang": "gu",
+  "chapter": 41,
+  "translation": "અને તે પછી તે દુકાળને કારણે દેશમાં સમૃદ્ધિ જાણી શકાશે નહીં, કેમ કે તે અત્યંત ભારે ⟨is⟩.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "અને ... નહીં"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "જાણી શકાશે"
+    },
+    {
+      "surface": "השבע",
+      "gloss": "સમૃદ્ધિ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "દેશમાં"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "કારણે"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "દુકાળને"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "તે"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "પછી"
+    },
+    {
+      "surface": "כן",
+      "gloss": "તે"
+    },
+    {
+      "surface": "כי",
+      "gloss": "કેમ કે"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "ભારે"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "તે"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "અત્યંત"
+    }
+  ],
+  "timestamp": "2026-08-21T10:59:25.834096627Z",
+  "model": "glm-5.3"
+}

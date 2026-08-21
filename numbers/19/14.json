@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 19:14",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 19,
+  "translation": "આ ⟨છે⟩ વિધિ: જ્યારે કોઈ માનવ ડેરામાં મરે, તો ડેરામાં આવનાર દરેક અને જે કંઈ ડેરામાં છે તે બધું સાત દિવસ અશુદ્ધ થશે.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "આ"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "વિધિ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "માનવ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "જ્યારે"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "મરે"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "ડેરામાં"
+    },
+    {
+      "surface": "כל",
+      "gloss": "દરેક"
+    },
+    {
+      "surface": "הבא",
+      "gloss": "આવનાર"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…માં"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "ડેરા"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "અને દરેક"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જે"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "ડેરામાં"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "અશુદ્ધ થશે"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "સાત"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "દિવસ"
+    }
+  ],
+  "timestamp": "2026-08-21T12:02:10.040519684Z",
+  "model": "glm-5.3"
+}

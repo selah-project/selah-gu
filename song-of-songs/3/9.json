@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "song-of-songs 3:9",
+  "book": "song-of-songs",
+  "lang": "gu",
+  "chapter": 3,
+  "translation": "אષ્ટપાલનકી પોતાની માટે બનાવી રાજા શલોમોએ, લેબાનોનનાં વૃક્ષોમાંથી.",
+  "tokens": [
+    {
+      "surface": "אפריון",
+      "gloss": "אષ્ટપાલનકી"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "બનાવી"
+    },
+    {
+      "surface": "לו",
+      "gloss": "પોતાની માટે"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "રાજા"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "શલોમોએ"
+    },
+    {
+      "surface": "מעצי",
+      "gloss": "વૃક્ષોમાંથી"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "લેબાનોનનાં"
+    }
+  ],
+  "timestamp": "2026-08-21T17:20:58.416895310Z",
+  "model": "glm-5.3"
+}

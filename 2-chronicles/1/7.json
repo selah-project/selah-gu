@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 1:7",
+  "book": "2-chronicles",
+  "lang": "gu",
+  "chapter": 1,
+  "translation": "તે રાત્રે એલોહીમ શલોમોને દર્શન દીધાં, અને તેને કહ્યું: માંગ, હું તને શું આપું?",
+  "tokens": [
+    {
+      "surface": "בלילה",
+      "gloss": "રાત્રે"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "તે"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "દર્શન દીધાં"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "એલોહીમ"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "શલોમોને"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "અને કહ્યું"
+    },
+    {
+      "surface": "לו",
+      "gloss": "તેને"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "માંગ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "શું"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "હું આપું"
+    },
+    {
+      "surface": "לך",
+      "gloss": "તને"
+    }
+  ],
+  "timestamp": "2026-08-21T18:14:06.044803798Z",
+  "model": "glm-5.3"
+}

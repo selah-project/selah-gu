@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 31:20",
+  "book": "genesis",
+  "lang": "gu",
+  "chapter": 31,
+  "translation": "અને યાકોબે અરામી લાવાનનું ⟨את⟩ હૃદય ચોર્યું, તેને જણાવ્યા વિના કે ⟨he⟩ ભાગી જતો હતો.",
+  "tokens": [
+    {
+      "surface": "ויגנב",
+      "gloss": "ચોર્યું"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "યાકોબે"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "હૃદય"
+    },
+    {
+      "surface": "לב",
+      "gloss": "હૃદય"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "લાવાનનું"
+    },
+    {
+      "surface": "הארמי",
+      "gloss": "અરામી"
+    },
+    {
+      "surface": "על",
+      "gloss": "વિના"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "જણાવ્યા વિના"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "જણાવ્યા"
+    },
+    {
+      "surface": "לו",
+      "gloss": "તેને"
+    },
+    {
+      "surface": "כי",
+      "gloss": "કે"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "ભાગી જતો"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨he⟩ હતો"
+    }
+  ],
+  "timestamp": "2026-08-21T10:53:14.465030477Z",
+  "model": "glm-5.3"
+}

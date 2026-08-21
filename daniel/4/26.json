@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "daniel 4:26",
+  "book": "daniel",
+  "lang": "gu",
+  "chapter": 4,
+  "translation": "બાર મહિનાના અંતે તે બાબેલના રાજ્યના મહેલ પર ચાલતો ⟨હતો⟩.",
+  "tokens": [
+    {
+      "surface": "לקצת",
+      "gloss": "અંતે"
+    },
+    {
+      "surface": "ירחין",
+      "gloss": "મહિના"
+    },
+    {
+      "surface": "תרי",
+      "gloss": "બે"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "દસ"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "મહેલ"
+    },
+    {
+      "surface": "מלכותא",
+      "gloss": "રાજ્યના"
+    },
+    {
+      "surface": "די",
+      "gloss": "ના"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "બાબેલ"
+    },
+    {
+      "surface": "מהלך",
+      "gloss": "ચાલતો"
+    },
+    {
+      "surface": "הוה",
+      "gloss": "⟨હતો⟩"
+    }
+  ],
+  "timestamp": "2026-08-21T17:39:31.356232972Z",
+  "model": "glm-5.3"
+}

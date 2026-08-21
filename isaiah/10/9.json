@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 10:9",
+  "book": "isaiah",
+  "lang": "gu",
+  "chapter": 10,
+  "translation": "શું કરકમીશ જેવું કલ્નો નથી? શું અર્પદ જેવું હમાત નથી? શું દમશેક જેવી શોમરોન નથી?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "શું...નથી"
+    },
+    {
+      "surface": "ככרכמיש",
+      "gloss": "કરકમીશ જેવું"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "કલ્નો"
+    },
+    {
+      "surface": "אם",
+      "gloss": "શું"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નથી"
+    },
+    {
+      "surface": "כארפד",
+      "gloss": "અર્પદ જેવું"
+    },
+    {
+      "surface": "ગמथ",
+      "gloss": "હમાત",
+      "notes": ""
+    },
+    {
+      "surface": "אם",
+      "gloss": "શું"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નથી"
+    },
+    {
+      "surface": "כדמשק",
+      "gloss": "દમશેક જેવી"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "શોમરોન"
+    }
+  ],
+  "timestamp": "2026-08-21T14:15:43.638858698Z",
+  "model": "glm-5.3"
+}

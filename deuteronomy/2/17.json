@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 2:17",
+  "book": "deuteronomy",
+  "lang": "gu",
+  "chapter": 2,
+  "translation": "અને યાહવે મારી સાથે વાત કર્યાં, કહેતાં:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "અને વાત કર્યાં"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "મારી સાથે"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "કહેતાં"
+    }
+  ],
+  "timestamp": "2026-08-21T12:12:13.957245693Z",
+  "model": "glm-5.3"
+}

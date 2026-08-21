@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 29:7",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 29,
+  "translation": "યાહવેનો સ્વર અગ્નિની જ્યોતિઓ કાપે છે.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "સ્વર"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "חצב",
+      "gloss": "કાપે છે"
+    },
+    {
+      "surface": "להבות",
+      "gloss": "જ્યોતિઓ"
+    },
+    {
+      "surface": "אש",
+      "gloss": "અગ્નિ"
+    }
+  ],
+  "timestamp": "2026-08-21T16:17:04.515735276Z",
+  "model": "glm-5.3"
+}

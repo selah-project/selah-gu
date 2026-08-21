@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 5:21",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 5,
+  "translation": "કેમ કે યાહવેની આંખો સામે માણસના માર્ગો છે, અને તેના બધા પગલાંને તે તોળે છે.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "કેમ કે"
+    },
+    {
+      "surface": "נכח",
+      "gloss": "સામે"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "આંખો"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "માર્ગો"
+    },
+    {
+      "surface": "איש",
+      "gloss": "માણસના"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "અને બધા"
+    },
+    {
+      "surface": "מעגלתיו",
+      "gloss": "પગલાંને"
+    },
+    {
+      "surface": "מפלס",
+      "gloss": "તોળે છે"
+    }
+  ],
+  "timestamp": "2026-08-21T16:51:31.551719611Z",
+  "model": "glm-5.3"
+}

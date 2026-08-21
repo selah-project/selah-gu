@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 37:30",
+  "book": "genesis",
+  "lang": "gu",
+  "chapter": 37,
+  "translation": "અને તે પોતાના ભાઈઓ પાસે પાછો આવ્યો અને કહ્યું: “બાળક નથી; અને હું — હું ક્યાં જાઉં?”",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "પાછો આવ્યો"
+    },
+    {
+      "surface": "אל",
+      "gloss": "પાસે"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "પોતાના ભાઈઓ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "અને કહ્યું"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "બાળક"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "નથી"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "અને હું"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "ક્યાં"
+    },
+    {
+      "surface": "אני",
+      "gloss": "હું"
+    },
+    {
+      "surface": "בא",
+      "gloss": "જાઉં"
+    }
+  ],
+  "timestamp": "2026-08-21T10:58:01.302217936Z",
+  "model": "glm-5.3"
+}

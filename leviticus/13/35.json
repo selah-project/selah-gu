@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 13:35",
+  "book": "leviticus",
+  "lang": "gu",
+  "chapter": 13,
+  "translation": "અને જો ફેલાય-ફેલાય ચાઠો ચામડીમાં, તેની શુદ્ધિ પછી,",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "અને જો"
+    },
+    {
+      "surface": "פשה",
+      "gloss": "ફેલાય"
+    },
+    {
+      "surface": "יפשה",
+      "gloss": "ફેલાય"
+    },
+    {
+      "surface": "ઘהנתק",
+      "gloss": "ચાઠો"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "ચામડીમાં"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "પછી"
+    },
+    {
+      "surface": "טהרתו",
+      "gloss": "તેની શુદ્ધિ"
+    }
+  ],
+  "timestamp": "2026-08-21T11:36:32.078506905Z",
+  "model": "glm-5.3"
+}

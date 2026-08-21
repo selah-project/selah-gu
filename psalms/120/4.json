@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 120:4",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 120,
+  "translation": "બળવાનનાં તીક્ષ્ણ તીર, સાથે ઝાડનાં અંગારા.",
+  "tokens": [
+    {
+      "surface": "חצי",
+      "gloss": "તીર"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "બળવાનનાં"
+    },
+    {
+      "surface": "שנונים",
+      "gloss": "તીક્ષ્ણ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "સાથે"
+    },
+    {
+      "surface": "גחלי",
+      "gloss": "અંગારા"
+    },
+    {
+      "surface": "רתמים",
+      "gloss": "ઝાડનાં"
+    }
+  ],
+  "timestamp": "2026-08-21T16:45:37.369823536Z",
+  "model": "glm-5.3"
+}

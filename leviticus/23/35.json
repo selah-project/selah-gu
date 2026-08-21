@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 23:35",
+  "book": "leviticus",
+  "lang": "gu",
+  "chapter": 23,
+  "translation": "પહેલા દિવસે પવિત્ર સભા ⟨થશે⟩; કોઈપણ સેવા-કાર્યનું કામ તમે ન કરતા.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "દિવસે"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "પહેલા"
+    },
+    {
+      "surface": "מקרא",
+      "gloss": "સભા"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "પવિત્ર"
+    },
+    {
+      "surface": "כל",
+      "gloss": "કોઈપણ"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "કામ"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "સેવા-કાર્યનું"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ન"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "કરતા"
+    }
+  ],
+  "timestamp": "2026-08-21T11:44:30.038449290Z",
+  "model": "glm-5.3"
+}

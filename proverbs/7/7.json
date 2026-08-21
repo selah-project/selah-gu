@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 7:7",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 7,
+  "translation": "અને ભોળાઓમાં મેં જોયું, યુવકોમાં મેં સમજ્યો — એક તરુણ, હૃદયથી વંચિત.",
+  "tokens": [
+    {
+      "surface": "וארא",
+      "gloss": "અને મેં જોયું"
+    },
+    {
+      "surface": "בפתאים",
+      "gloss": "ભોળાઓમાં"
+    },
+    {
+      "surface": "אבינה",
+      "gloss": "મેં સમજ્યો"
+    },
+    {
+      "surface": "בבנים",
+      "gloss": "યુવકોમાં"
+    },
+    {
+      "surface": "נער",
+      "gloss": "એક તરુણ"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "વંચિત"
+    },
+    {
+      "surface": "לב",
+      "gloss": "હૃદયથી"
+    }
+  ],
+  "timestamp": "2026-08-21T16:53:17.713347834Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 22:4",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 22,
+  "translation": "અને તમે પવિત્ર છો, યિસ્રાએલની સ્તુતિઓ પર વિરાજમાન.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "અને તમે"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "પવિત્ર"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "વિરાજમાન"
+    },
+    {
+      "surface": "תהלות",
+      "gloss": "સ્તુતિઓ પર"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "યિસ્રાએલની"
+    }
+  ],
+  "timestamp": "2026-08-21T16:15:13.512168847Z",
+  "model": "glm-5.3"
+}

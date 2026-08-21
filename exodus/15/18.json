@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 15:18",
+  "book": "exodus",
+  "lang": "gu",
+  "chapter": 15,
+  "translation": "યાહવે સદા અને સર્વદા રાજ્ય કરશે.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "ימלך",
+      "gloss": "રાજ્ય કરશે"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "સદા"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "અને સર્વદા"
+    }
+  ],
+  "timestamp": "2026-08-21T11:13:35.426617320Z",
+  "model": "glm-5.3"
+}

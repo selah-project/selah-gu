@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 24:5",
+  "book": "leviticus",
+  "lang": "gu",
+  "chapter": 24,
+  "translation": "અને તું ઝીણો લોટ લઈશ અને તેમાંથી તેની ⟨את⟩ બાર રોટલીઓ બકાવીશ; એક એક રોટલી બે દશમાંશ હશે.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "અને તું લઈશ"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "ઝીણો લોટ"
+    },
+    {
+      "surface": "ואפית",
+      "gloss": "અને તું બકાવીશ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "બાર રોટલીઓ"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "બાર"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "બાર"
+    },
+    {
+      "surface": "חלות",
+      "gloss": "રોટલીઓ"
+    },
+    {
+      "surface": "שני",
+      "gloss": "બે"
+    },
+    {
+      "surface": "עשרנים",
+      "gloss": "દશમાંશ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "હશે"
+    },
+    {
+      "surface": "החלה",
+      "gloss": "એક એક રોટલી"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "એક એક"
+    }
+  ],
+  "timestamp": "2026-08-21T11:44:46.082325566Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ecclesiastes 7:24",
+  "book": "ecclesiastes",
+  "lang": "gu",
+  "chapter": 7,
+  "translation": "દૂર છે જે હતું, અને ઊંડું, ઊંડું — કોણ તેને શોધી શકે?",
+  "tokens": [
+    {
+      "surface": "רחוק",
+      "gloss": "દૂર"
+    },
+    {
+      "surface": "מה",
+      "gloss": "શું"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "જે હતું"
+    },
+    {
+      "surface": "ועמק",
+      "gloss": "અને ઊંડું"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "ઊંડું"
+    },
+    {
+      "surface": "מי",
+      "gloss": "કોણ"
+    },
+    {
+      "surface": "ימצאנו",
+      "gloss": "તેને શોધી શકે છે"
+    }
+  ],
+  "timestamp": "2026-08-21T17:30:26.892241114Z",
+  "model": "glm-5.3"
+}

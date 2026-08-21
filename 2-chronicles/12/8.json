@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 12:8",
+  "book": "2-chronicles",
+  "lang": "gu",
+  "chapter": 12,
+  "translation": "છતાં તેઓ તેના દાસ બનશે, જેથી તેઓ મારી સેવા અને દેશોનાં રાજ્યોની સેવા જાણે.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "છતાં જેથી"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "બનશે"
+    },
+    {
+      "surface": "לו",
+      "gloss": "તેના"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "દાસ"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "અને જાણે"
+    },
+    {
+      "surface": "עבודתי",
+      "gloss": "મારી સેવા"
+    },
+    {
+      "surface": "ועבודת",
+      "gloss": "અને સેવા"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "રાજ્યોની"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "દેશોનાં"
+    }
+  ],
+  "timestamp": "2026-08-21T18:19:26.869422447Z",
+  "model": "glm-5.3"
+}

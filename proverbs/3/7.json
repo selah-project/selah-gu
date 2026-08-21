@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 3:7",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 3,
+  "translation": "તારી આંખોમાં પોતાને જ્ઞાની માનતો નહિ; યાહવેને ⟨את⟩ ભય રાખ અને દુષ્ટતાથી દૂર થા.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "નહિ"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "માનતો થતો"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "જ્ઞાની"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "તારી આંખોમાં"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "ભય રાખ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "યાહવે"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "וסור",
+      "gloss": "અને દૂર થા"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "દુષ્ટતાથી"
+    }
+  ],
+  "timestamp": "2026-08-21T16:51:28.330772454Z",
+  "model": "glm-5.3"
+}

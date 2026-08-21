@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 24:26",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 24,
+  "translation": "મેરારીના પુત્રો માહલી અને મૂશી; યાઅઝીયાહુના પુત્રો — તેનો પુત્ર બેનો.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "મેરારીના"
+    },
+    {
+      "surface": "מחלי",
+      "gloss": "માહલી"
+    },
+    {
+      "surface": "ומושי",
+      "gloss": "અને મૂશી"
+    },
+    {
+      "surface": "בני",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "יעזיהו",
+      "gloss": "યાઅઝીયાહુના"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "તેનો પુત્ર"
+    }
+  ],
+  "timestamp": "2026-08-21T18:11:18.721332647Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joel 3:2",
+  "book": "joel",
+  "lang": "gu",
+  "chapter": 3,
+  "translation": "અને એ જ દિવસોમાં હું દાસો પર અને દાસીઓ પર પણ ⟨את⟩ મારી રૂહ રેડીશ.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "અને પણ"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "העבדים",
+      "gloss": "દાસો"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "અને પર"
+    },
+    {
+      "surface": "השפחות",
+      "gloss": "દાસીઓ"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "દિવસોમાં"
+    },
+    {
+      "surface": "ההמה",
+      "gloss": "એ જ"
+    },
+    {
+      "surface": "אשפוך",
+      "gloss": "રેડીશ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "મારી રૂહ"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "મારી રૂહ"
+    }
+  ],
+  "timestamp": "2026-08-21T15:50:40.474222137Z",
+  "model": "glm-5.3"
+}

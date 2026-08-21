@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 33:9",
+  "book": "genesis",
+  "lang": "gu",
+  "chapter": 33,
+  "translation": "અને એસાવે કહ્યું, “મારી પાસે ઘણું છે, મારા ભાઈ; તારું જે છે તે તારી પાસે રહે.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "અને કહ્યું"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "એસાવે"
+    },
+    {
+      "surface": "יש",
+      "gloss": "છે"
+    },
+    {
+      "surface": "לי",
+      "gloss": "મારી પાસે"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ઘણું"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "મારા ભાઈ"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "રહે"
+    },
+    {
+      "surface": "לך",
+      "gloss": "તારું"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જે"
+    },
+    {
+      "surface": "לך",
+      "gloss": "તારી પાસે"
+    }
+  ],
+  "timestamp": "2026-08-21T10:54:03.550832269Z",
+  "model": "glm-5.3"
+}

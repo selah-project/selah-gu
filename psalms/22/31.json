@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 22:31",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 22,
+  "translation": "એક સંતતિ તેની સેવા કરશે; અદોનાય વિષે પેઢીને કહેવાશે.",
+  "tokens": [
+    {
+      "surface": "זרע",
+      "gloss": "સંતતિ"
+    },
+    {
+      "surface": "יעבדנו",
+      "gloss": "તેની સેવા કરશે"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "કહેવાશે"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "અદોનાય વિષે"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "પેઢીને"
+    }
+  ],
+  "timestamp": "2026-08-21T16:15:16.972159681Z",
+  "model": "glm-5.3"
+}

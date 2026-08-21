@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 4:17",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 4,
+  "translation": "અને યાહવે મૂષા અને અહરોન સાથે બોલ્યા, કહેતા,",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "અને બોલ્યા"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…સાથે"
+    },
+    {
+      "surface": "משה",
+      "gloss": "મૂષા"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "અને…સાથે"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "અહરોન"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "કહેતા"
+    }
+  ],
+  "timestamp": "2026-08-21T11:50:19.386321158Z",
+  "model": "glm-5.3"
+}

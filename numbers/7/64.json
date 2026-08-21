@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "numbers 7:64",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 7,
+  "translation": "એક બકરો, વાછરડાં નહીં — એક શિયાળનું બકરાનું બચ્ચું, પાપાર્પણ માટે.",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "બકરો"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "બકરાઓનું"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "એક"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "પાપાર્પણ માટે"
+    }
+  ],
+  "timestamp": "2026-08-21T11:53:26.889670914Z",
+  "model": "glm-5.3"
+}

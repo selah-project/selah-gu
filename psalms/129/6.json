@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 129:6",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 129,
+  "translation": "તે થાય છટ છતનાં ઘાસની જેમ, જે તૂટી પડે તે પહેલાં જેતું થઈ જાય.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "તે થાય"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "ઘાસની જેમ"
+    },
+    {
+      "surface": "גגות",
+      "gloss": "છતનાં"
+    },
+    {
+      "surface": "שקדמת",
+      "gloss": "તે પહેલાં જ"
+    },
+    {
+      "surface": "שלף",
+      "gloss": "તૂટી પડે"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "જેતું થઈ જાય"
+    }
+  ],
+  "timestamp": "2026-08-21T16:46:04.565150847Z",
+  "model": "glm-5.3"
+}

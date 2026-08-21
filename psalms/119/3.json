@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 119:3",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 119,
+  "translation": "હા, અન્યાય કરતા નથી; તેના માર્ગોમાં ચાલે છે.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "હા"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નથી"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "કરતા"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "અન્યાય"
+    },
+    {
+      "surface": "בדרכיו",
+      "gloss": "તેના માર્ગોમાં"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "ચાલે છે"
+    }
+  ],
+  "timestamp": "2026-08-21T16:43:29.796806258Z",
+  "model": "glm-5.3"
+}

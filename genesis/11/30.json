@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 11:30",
+  "book": "genesis",
+  "lang": "gu",
+  "chapter": 11,
+  "translation": "અને સારાય વંધ્ય ⟨હતી⟩; તેને કોઈ સંતાન નહોતું.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "અને ⟨હતી⟩"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "સારાય"
+    },
+    {
+      "surface": "עקרה",
+      "gloss": "વંધ્ય"
+    },
+    {
+      "surface": "אין",
+      "gloss": "નહોતું\/નથી"
+    },
+    {
+      "surface": "לה",
+      "gloss": "તેને"
+    },
+    {
+      "surface": "ולד",
+      "gloss": "સંતાન"
+    }
+  ],
+  "timestamp": "2026-08-21T10:42:10.722164433Z",
+  "model": "glm-5.3"
+}

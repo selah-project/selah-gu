@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 10:27",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 10,
+  "translation": "યાહવેનો ભય દિવસો ઉમેરે છે, પણ દુષ્ટોનાં વર્ષો ટૂંકાં થશે.",
+  "tokens": [
+    {
+      "surface": "יראת",
+      "gloss": "ભય"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવેનો"
+    },
+    {
+      "surface": "תוסיף",
+      "gloss": "ઉમેરે છે"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "દિવસો"
+    },
+    {
+      "surface": "ושנות",
+      "gloss": "પણ વર્ષો"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "દુષ્ટોનાં"
+    },
+    {
+      "surface": "תקצרנהה",
+      "gloss": "ટૂંકાં થશે"
+    }
+  ],
+  "timestamp": "2026-08-21T16:55:01.682224380Z",
+  "model": "glm-5.3"
+}

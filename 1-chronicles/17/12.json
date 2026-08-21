@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 17:12",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 17,
+  "translation": "તે મારા માટે ઘર બાંધશે, અને હું સદાકાળ સુધી તેનું સિંહાસન ⟨את⟩ સ્થિર કરીશ.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "તે"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "બાંધશે"
+    },
+    {
+      "surface": "לי",
+      "gloss": "મારા માટે"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ઘર"
+    },
+    {
+      "surface": "וכננתי",
+      "gloss": "અને હું સ્થિર કરીશ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "તેનું સિંહાસન"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "તેનું સિંહાસન"
+    },
+    {
+      "surface": "עד",
+      "gloss": "સુધી"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "સદાકાળ"
+    }
+  ],
+  "timestamp": "2026-08-21T18:09:41.847676856Z",
+  "model": "glm-5.3"
+}

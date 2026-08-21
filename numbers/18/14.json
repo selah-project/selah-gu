@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 18:14",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 18,
+  "translation": "ઇસ્રાએલમાં સર્વ હેરેમ (સમર્પિત વસ્તુ) તારી થશે.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "સર્વ"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "હેરેમ"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "ઇસ્રાએલમાં"
+    },
+    {
+      "surface": "לך",
+      "gloss": "તારી"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "થશે"
+    }
+  ],
+  "timestamp": "2026-08-21T12:00:02.907383841Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "joshua 15:55",
+  "book": "joshua",
+  "lang": "gu",
+  "chapter": 15,
+  "translation": "માઓન, કાર્મેલ, અને ત્સિફ, અને યુત્તાહ,",
+  "tokens": [
+    {
+      "surface": "מעון",
+      "gloss": "માઓન"
+    },
+    {
+      "surface": "כרמל",
+      "gloss": "કાર્મેલ"
+    },
+    {
+      "surface": "וזיף",
+      "gloss": "અને ત્સિફ"
+    },
+    {
+      "surface": "ויוטה",
+      "gloss": "અને યુત્તાહ"
+    }
+  ],
+  "timestamp": "2026-08-21T12:40:25.677499914Z",
+  "model": "glm-5.3"
+}

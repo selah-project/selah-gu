@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 40:16",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 40,
+  "translation": "ઉજ્જડ થઈ જાઓ તેમની શરમના બદલા રૂપે, એ સર્વે જે મને કહે છે: “હાહ, હાહ.”",
+  "tokens": [
+    {
+      "surface": "ישמו",
+      "gloss": "ઉજ્જડ થઈ જાઓ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ના બદલા રૂપે"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "ફળ સ્વરૂપે"
+    },
+    {
+      "surface": "בשתם",
+      "gloss": "તેમની શરમ"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "જે કહે છે"
+    },
+    {
+      "surface": "לי",
+      "gloss": "મને"
+    },
+    {
+      "surface": "האח",
+      "gloss": "હાહ"
+    },
+    {
+      "surface": "האח",
+      "gloss": "હાહ"
+    }
+  ],
+  "timestamp": "2026-08-21T16:21:11.509940051Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 4:11",
+  "book": "ecclesiastes",
+  "lang": "gu",
+  "chapter": 4,
+  "translation": "પણ જો બે સૂતાં હોય, તો તેમને ગરમી મળે; પણ એકલાને — કેવી રીતે ગરમી મળે?",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "પણ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "જો"
+    },
+    {
+      "surface": "ישכבו",
+      "gloss": "સૂતાં હોય"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "બે"
+    },
+    {
+      "surface": "וחם",
+      "gloss": "અને ગરમી"
+    },
+    {
+      "surface": "להם",
+      "gloss": "તેમને"
+    },
+    {
+      "surface": "ולאחד",
+      "gloss": "પણ એકલાને"
+    },
+    {
+      "surface": "איך",
+      "gloss": "કેવી રીતે"
+    },
+    {
+      "surface": "יחם",
+      "gloss": "ગરમી મળે"
+    }
+  ],
+  "timestamp": "2026-08-21T17:28:42.274139962Z",
+  "model": "glm-5.3"
+}

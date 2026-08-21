@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 37:8",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 37,
+  "translation": "ક્રોધથી વિરામ લો અને રોષ છોડી દો; ક્રોધિત ન થાઓ — તે તો દુષ્ટતા તરફ જ દોરી જાય છે.",
+  "tokens": [
+    {
+      "surface": "הרף",
+      "gloss": "વિરામ લો"
+    },
+    {
+      "surface": "מאף",
+      "gloss": "ક્રોધથી"
+    },
+    {
+      "surface": "ועזב",
+      "gloss": "અને છોડી દો"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "રોષ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ન"
+    },
+    {
+      "surface": "תתחר",
+      "gloss": "ક્રોધિત થાઓ"
+    },
+    {
+      "surface": "אך",
+      "gloss": "તો જ"
+    },
+    {
+      "surface": "להרע",
+      "gloss": "દુષ્ટતા તરફ"
+    }
+  ],
+  "timestamp": "2026-08-21T16:19:59.678327280Z",
+  "model": "glm-5.3"
+}

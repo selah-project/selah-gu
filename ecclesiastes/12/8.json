@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 12:8",
+  "book": "ecclesiastes",
+  "lang": "gu",
+  "chapter": 12,
+  "translation": "“વ્યર્થતા વ્યર્થતાઓની,” કોહેલેત કહે છે, “બધું જ વ્યર્થ છે.”",
+  "tokens": [
+    {
+      "surface": "הבל",
+      "gloss": "વ્યર્થતા"
+    },
+    {
+      "surface": "הבלים",
+      "gloss": "વ્યર્થતાઓની"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "કહે છે"
+    },
+    {
+      "surface": "הקוהלת",
+      "gloss": "કોહેલેત"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "બધું જ"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "વ્યર્થ"
+    }
+  ],
+  "timestamp": "2026-08-21T17:33:00.125186268Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 47:2",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 47,
+  "translation": "હે બધા પ્રજાઓ, તાળી પાડો; જયના અવાજે એલોહીમને પ્રસ્તાવના કરો.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "બધા"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "પ્રજાઓ"
+    },
+    {
+      "surface": "תקעו",
+      "gloss": "તાળી પાડો"
+    },
+    {
+      "surface": "כף",
+      "gloss": "હાથની હથેળી"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "જયનાદ કરો"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "એલોહીમને"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "અવાજે"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "જયનાદના"
+    }
+  ],
+  "timestamp": "2026-08-21T16:23:21.118918762Z",
+  "model": "glm-5.3"
+}

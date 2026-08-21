@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joshua 12:11",
+  "book": "joshua",
+  "lang": "gu",
+  "chapter": 12,
+  "translation": "યર્મૂતના રાજાનું — એક; લાખીશના રાજાનું — એક;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "રાજાનું"
+    },
+    {
+      "surface": "ירמות",
+      "gloss": "યર્મૂત"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "એક"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "રાજાનું"
+    },
+    {
+      "surface": "לכיש",
+      "gloss": "લાખીશ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "એક"
+    }
+  ],
+  "timestamp": "2026-08-21T12:38:12.764535956Z",
+  "model": "glm-5.3"
+}

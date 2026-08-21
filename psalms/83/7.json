@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 83:7",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 83,
+  "translation": "એદોમના ડેરા, અને યિશ્માએલીઓ, મોઆબ, અને હાગરીઓ,",
+  "tokens": [
+    {
+      "surface": "אהלי",
+      "gloss": "ડેરા"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "એદોમના"
+    },
+    {
+      "surface": "וישמעאלים",
+      "gloss": "અને યિશ્માએલીઓ"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "મોઆબ"
+    },
+    {
+      "surface": "והגרים",
+      "gloss": "અને હાગરીઓ"
+    }
+  ],
+  "timestamp": "2026-08-21T16:32:54.597791515Z",
+  "model": "glm-5.3"
+}

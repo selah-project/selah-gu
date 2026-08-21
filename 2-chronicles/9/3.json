@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 9:3",
+  "book": "2-chronicles",
+  "lang": "gu",
+  "chapter": 9,
+  "translation": "અને શેબાની રાણીએ ⟨את⟩ શલોમોની જ્ઞાનતા જોઈ, અને ⟨את⟩ ભવન જે તેણે બાંધ્યો.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "અને જોઈ"
+    },
+    {
+      "surface": "מלכת",
+      "gloss": "રાણી"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "શેબાની"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "જ્ઞાનતા"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "જ્ઞાનતા"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "શલોમોની"
+    },
+    {
+      "surface": "והבית",
+      "gloss": "અને ભવન"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જે"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "બાંધ્યો"
+    }
+  ],
+  "timestamp": "2026-08-21T18:20:24.873163766Z",
+  "model": "glm-5.3"
+}

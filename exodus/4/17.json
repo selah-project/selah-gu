@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 4:17",
+  "book": "exodus",
+  "lang": "gu",
+  "chapter": 4,
+  "translation": "અને ⟨את⟩ આ મળોડો તારા હાથમાં લેજે, જેના વડે તું તેમાં ⟨את⟩ ચિહ્નો કરશે.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "આ મળોડો"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "આ મળોડો"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "આ"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "લેજે"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "તારા હાથમાં"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જેના વડે"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "કરશે"
+    },
+    {
+      "surface": "בו",
+      "gloss": "તેમાં"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ચિહ્નો"
+    },
+    {
+      "surface": "האתת",
+      "gloss": "ચિહ્નો"
+    }
+  ],
+  "timestamp": "2026-08-21T11:08:08.701963854Z",
+  "model": "glm-5.3"
+}

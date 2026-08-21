@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "micah 7:11",
+  "book": "micah",
+  "lang": "gu",
+  "chapter": 7,
+  "translation": "તારી દીવાલો બાંધવાનો દિવસ! તે દિવસે હદ દૂર કરાશે.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "દિવસ"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "બાંધવાનો"
+    },
+    {
+      "surface": "גדריך",
+      "gloss": "તારી દીવાલો"
+    },
+    {
+      "surface": "יום",
+      "gloss": "દિવસે"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "તે"
+    },
+    {
+      "surface": "ירחק",
+      "gloss": "દૂર કરાશે"
+    },
+    {
+      "surface": "חק",
+      "gloss": "હદ"
+    }
+  ],
+  "timestamp": "2026-08-21T15:58:48.839653109Z",
+  "model": "glm-5.3"
+}

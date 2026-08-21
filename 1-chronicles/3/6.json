@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 3:6",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 3,
+  "translation": "અને યિબહાર, અને એલીશામઆ, અને એલીપલેત.",
+  "tokens": [
+    {
+      "surface": "ויבחר",
+      "gloss": "અને યિબહાર"
+    },
+    {
+      "surface": "ואלישמע",
+      "gloss": "અને એલીશામઆ"
+    },
+    {
+      "surface": "ואליפלט",
+      "gloss": "અને એલીપલેત"
+    }
+  ],
+  "timestamp": "2026-08-21T18:01:08.760208260Z",
+  "model": "glm-5.3"
+}

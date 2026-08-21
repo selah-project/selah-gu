@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 151,
+  "ref": "psalms 119:151",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 119,
+  "translation": "તમે પાસે છો, હે યાહવે; અને તમારી બધી આજ્ઞાઓ સત્ય છે.",
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "પાસે"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "તમે"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "અને બધી"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "તમારી આજ્ઞાઓ"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "સત્ય"
+    }
+  ],
+  "timestamp": "2026-08-21T16:45:07.054468642Z",
+  "model": "glm-5.3"
+}

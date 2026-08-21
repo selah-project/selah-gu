@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 21:3",
+  "book": "deuteronomy",
+  "lang": "gu",
+  "chapter": 21,
+  "translation": "અને જે નગર મૃતકની સૌથી નજીક હોય તે થશે, અને તે નગરના વડીલો ઢોરની એક વાછડી લેશે જેના વડે ખેતી કરાઈ નથી, જેણે જૂમાં ખેંચ્યું નથી.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "અને થશે"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "નગર"
+    },
+    {
+      "surface": "הקרבה",
+      "gloss": "સૌથી નજીકનું"
+    },
+    {
+      "surface": "אל",
+      "gloss": "પ્રત્યે"
+    },
+    {
+      "surface": "החלל",
+      "gloss": "મૃતક"
+    },
+    {
+      "surface": "ולקחו",
+      "gloss": "અને લેશે"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "વડીલો"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "નગરના"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "તે"
+    },
+    {
+      "surface": "עגלת",
+      "gloss": "વાછડી"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ઢોરની"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જેના વડે"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "ખેતી કરાઈ"
+    },
+    {
+      "surface": "בה",
+      "gloss": "તેનાથી"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જેણે"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "משכה",
+      "gloss": "ખેંચ્યું"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "જૂમાં"
+    }
+  ],
+  "timestamp": "2026-08-21T12:24:00.311598627Z",
+  "model": "glm-5.3"
+}

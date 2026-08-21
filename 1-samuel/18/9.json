@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 18:9",
+  "book": "1-samuel",
+  "lang": "gu",
+  "chapter": 18,
+  "translation": "અને શાઉલ તે દિવસથી આગોતરા દાવિદને ⟨את⟩ નજરથી જોઈ રહ્યો.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "અને થયું"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "શાઉલ"
+    },
+    {
+      "surface": "עון",
+      "gloss": "નજરથી જોઈ રહ્યો"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "દાવિદને"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "દાવિદને"
+    },
+    {
+      "surface": "מהיום",
+      "gloss": "તે દિવસથી"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "તે"
+    },
+    {
+      "surface": "והלאה",
+      "gloss": "આગોતરા"
+    }
+  ],
+  "timestamp": "2026-08-21T13:11:12.828965738Z",
+  "model": "glm-5.3"
+}

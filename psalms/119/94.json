@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 94,
+  "ref": "psalms 119:94",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 119,
+  "translation": "હું તારો છું — મને બચાવ, કારણ કે મેં તારા પિક્કુદો શોધ્યા છે.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "તારો"
+    },
+    {
+      "surface": "אני",
+      "gloss": "હું"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "મને બચાવ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "કારણ કે"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "તારા પિક્કુદો"
+    },
+    {
+      "surface": "דרשתי",
+      "gloss": "મેં શોધ્યા"
+    }
+  ],
+  "timestamp": "2026-08-21T16:44:21.116621347Z",
+  "model": "glm-5.3"
+}

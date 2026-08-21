@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 34:9",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 34,
+  "translation": "ચાખો અને જુઓ કે યાહવે સારો ⟨છે⟩; ભાગ્યશાળી ⟨છે⟩ ⟨એ⟩ પુરુષ જે ⟨એ⟩નામાં શરણ લે છે.",
+  "tokens": [
+    {
+      "surface": "טעמו",
+      "gloss": "ચાખો"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "અને જુઓ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "કે"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "સારો"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "ભાગ્યશાળી"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "⟨એ⟩ પુરુષ"
+    },
+    {
+      "surface": "יחסה",
+      "gloss": "શરણ લે છે"
+    },
+    {
+      "surface": "בו",
+      "gloss": "⟨એ⟩નામાં"
+    }
+  ],
+  "timestamp": "2026-08-21T16:18:18.365189364Z",
+  "model": "glm-5.3"
+}

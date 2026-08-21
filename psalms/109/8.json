@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 109:8",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 109,
+  "translation": "તેનાં દિવસો થોડાં હોય, અને તેનો હોદ્દો બીજો કોઈ લઈ લે.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "હોય"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "તેનાં દિવસો"
+    },
+    {
+      "surface": "מעטים",
+      "gloss": "થોડાં"
+    },
+    {
+      "surface": "פקדתו",
+      "gloss": "તેનો હોદ્દો"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "લઈ લે"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "બીજો કોઈ"
+    }
+  ],
+  "timestamp": "2026-08-21T16:41:47.579187650Z",
+  "model": "glm-5.3"
+}

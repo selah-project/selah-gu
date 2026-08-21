@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 38:24",
+  "book": "jeremiah",
+  "lang": "gu",
+  "chapter": 38,
+  "translation": "અને સિદકિયાહુએ યિર્મિયાહુને કહ્યું, ‘કોઈ માણસ આ બાબતો જાણે નહીં, અને તું નહીં મરે.’",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "કહ્યું"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "સિદકિયાહુએ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ને"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "યિર્મિયાહુને"
+    },
+    {
+      "surface": "איש",
+      "gloss": "કોઈ માણસ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "જાણે"
+    },
+    {
+      "surface": "בדברים",
+      "gloss": "બાબતો"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "આ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "અને નહીં"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "મરે"
+    }
+  ],
+  "timestamp": "2026-08-21T15:08:13.365712663Z",
+  "model": "glm-5.3"
+}

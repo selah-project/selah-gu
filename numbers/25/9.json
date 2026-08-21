@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 25:9",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 25,
+  "translation": "અને મહામારીમાં મરનારા ચોવીસ હજાર થયા.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "થયા"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "મરનારા"
+    },
+    {
+      "surface": "במגפה",
+      "gloss": "મહામારીમાં"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "ચાર"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "અને વીસ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "હજાર"
+    }
+  ],
+  "timestamp": "2026-08-21T12:03:39.237186856Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 24:10",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 24,
+  "translation": "તો કોણ છે ⟨તે⟩, આ મહિમાનો રાજા? સૈન્યોનો યાહવે — ⟨તે⟩ જ મહિમાનો રાજા છે. સેલા.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "કોણ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨તે⟩"
+    },
+    {
+      "surface": "זה",
+      "gloss": "આ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "રાજા"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "મહિમાનો"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "સૈન્યોનો"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨તે⟩ જ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "રાજા"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "מહिमાનો"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "સેલા"
+    }
+  ],
+  "timestamp": "2026-08-21T16:16:04.660045448Z",
+  "model": "glm-5.3"
+}

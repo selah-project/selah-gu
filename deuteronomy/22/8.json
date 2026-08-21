@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 22:8",
+  "book": "deuteronomy",
+  "lang": "gu",
+  "chapter": 22,
+  "translation": "જ્યારે તમે નવો ઘર બાંધો, તો તમારી છત પર મોટ બનાવજો, જેથી તમે તમારા ઘર પર લોહીનો વ્યાજ ન મૂકો, જો કોઈ તેમાંથી પડી જાય.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "જ્યારે"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "બાંધો"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ઘર"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "નવો"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "બનાવજો"
+    },
+    {
+      "surface": "מעקה",
+      "gloss": "મોટ"
+    },
+    {
+      "surface": "לגגך",
+      "gloss": "તમારી છત પર"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "અને ન"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "મૂકો"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "લોહીનો વ્યાજ"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "તમારા ઘર પર"
+    },
+    {
+      "surface": "כי",
+      "gloss": "જો"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "પડી જાય"
+    },
+    {
+      "surface": "הנפל",
+      "gloss": "પડનાર કોઈ"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "તેમાંથી"
+    }
+  ],
+  "timestamp": "2026-08-21T12:23:17.063793564Z",
+  "model": "glm-5.3"
+}

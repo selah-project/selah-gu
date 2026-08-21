@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 2:16",
+  "book": "isaiah",
+  "lang": "gu",
+  "chapter": 2,
+  "translation": "અને તરશીશનાં બધાં જહાજો પર, અને બધી મનોહર શોભા-વસ્તુઓ પર,",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "અને … પર"
+    },
+    {
+      "surface": "כל",
+      "gloss": "બધાં"
+    },
+    {
+      "surface": "אניות",
+      "gloss": "જહાજો"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "તરશીશનાં"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "અને … પર"
+    },
+    {
+      "surface": "כל",
+      "gloss": "બધી"
+    },
+    {
+      "surface": "שכיות",
+      "gloss": "શોભા-વસ્તુઓ"
+    },
+    {
+      "surface": "החמדה",
+      "gloss": "મનોહર"
+    }
+  ],
+  "timestamp": "2026-08-21T14:10:17.833712644Z",
+  "model": "glm-5.3"
+}

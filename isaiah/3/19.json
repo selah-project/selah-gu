@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 3:19",
+  "book": "isaiah",
+  "lang": "gu",
+  "chapter": 3,
+  "translation": "લટકતાં હાર, અને કંકણો, અને પડદા;",
+  "tokens": [
+    {
+      "surface": "הנטיפות",
+      "gloss": "લટકતાં હાર"
+    },
+    {
+      "surface": "והשירות",
+      "gloss": "અને કંકણો"
+    },
+    {
+      "surface": "והרעלות",
+      "gloss": "અને પડદા"
+    }
+  ],
+  "timestamp": "2026-08-21T14:12:58.026580547Z",
+  "model": "glm-5.3"
+}

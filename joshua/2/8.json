@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 2:8",
+  "book": "joshua",
+  "lang": "gu",
+  "chapter": 2,
+  "translation": "અને તેઓ સૂવા પડ્યા તે પહેલાં જ, તેણી છત પર તેમની પાસે ચઢી આવી.",
+  "tokens": [
+    {
+      "surface": "והמה",
+      "gloss": "અને તેઓ"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "તે પહેલાં જ"
+    },
+    {
+      "surface": "ישכבון",
+      "gloss": "સૂવા પડ્યા"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "તેણી"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "ચઢી આવી"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "તેમની પાસે"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "הגג",
+      "gloss": "છત"
+    }
+  ],
+  "timestamp": "2026-08-21T12:33:00.509212396Z",
+  "model": "glm-5.3"
+}

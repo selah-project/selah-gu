@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "daniel 2:20",
+  "book": "daniel",
+  "lang": "gu",
+  "chapter": 2,
+  "translation": "દાનિયેલે ઉત્તર આપીને કહ્યું: એલાહનું નામ સનાતનથી સનાતન સુધી ધન્ય રહે, કે જ્ઞાન અને પરાક્રમ તેના જ છે.",
+  "tokens": [
+    {
+      "surface": "ענה",
+      "gloss": "ઉત્તર આપીને"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "દાનિયેલે"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "અને કહ્યું"
+    },
+    {
+      "surface": "להוא",
+      "gloss": "રહે"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "નામ"
+    },
+    {
+      "surface": "די",
+      "gloss": "કે"
+    },
+    {
+      "surface": "אלהא",
+      "gloss": "એલાહનું"
+    },
+    {
+      "surface": "מברך",
+      "gloss": "ધન્ય"
+    },
+    {
+      "surface": "מן",
+      "gloss": "થી"
+    },
+    {
+      "surface": "עלמא",
+      "gloss": "સનાતન"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "સુધી"
+    },
+    {
+      "surface": "עלמא",
+      "gloss": "સનાતન"
+    },
+    {
+      "surface": "די",
+      "gloss": "કે"
+    },
+    {
+      "surface": "חכמתא",
+      "gloss": "જ્ઞાન"
+    },
+    {
+      "surface": "וגבורתא",
+      "gloss": "અને પરાક્રમ"
+    },
+    {
+      "surface": "די",
+      "gloss": "તેના જ"
+    },
+    {
+      "surface": "לה",
+      "gloss": "તેને"
+    },
+    {
+      "surface": "היא",
+      "gloss": "છે"
+    }
+  ],
+  "timestamp": "2026-08-21T17:35:47.479048215Z",
+  "model": "glm-5.3"
+}

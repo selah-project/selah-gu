@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 26:4",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 26,
+  "translation": "હું નિષ્ફળ માણસો સાથે બેઠો નથી, અને કપટીઓ સાથે હું નહીં આવું.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "નથી"
+    },
+    {
+      "surface": "ישבתי",
+      "gloss": "બેઠો"
+    },
+    {
+      "surface": "עם",
+      "gloss": "…સાથે"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "માણસો"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "નિષ્ફળ"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "અને …સાથે"
+    },
+    {
+      "surface": "נעלמים",
+      "gloss": "કપટીઓ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "આવું"
+    }
+  ],
+  "timestamp": "2026-08-21T16:16:56.023677599Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 14:30",
+  "book": "leviticus",
+  "lang": "gu",
+  "chapter": 14,
+  "translation": "અને ⟨את⟩ એક તરટ કે કબૂતરના પાડાંમાંથી — જેટલું તેનો હાથ પહોંચે તે — તે કરશે.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "અને તે કરશે"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "એક"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "એક"
+    },
+    {
+      "surface": "מן",
+      "gloss": "માંથી"
+    },
+    {
+      "surface": "התרים",
+      "gloss": "તરટ"
+    },
+    {
+      "surface": "או",
+      "gloss": "કે"
+    },
+    {
+      "surface": "מן",
+      "gloss": "માંથી"
+    },
+    {
+      "surface": "בני",
+      "gloss": "પાડાં"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "કબૂતરના"
+    },
+    {
+      "surface": "מאשר",
+      "gloss": "જેટલું"
+    },
+    {
+      "surface": "תשיג",
+      "gloss": "પહોંચે"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "તેનો હાથ"
+    }
+  ],
+  "timestamp": "2026-08-21T11:37:05.076742854Z",
+  "model": "glm-5.3"
+}

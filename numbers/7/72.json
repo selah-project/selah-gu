@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 72,
+  "ref": "numbers 7:72",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 7,
+  "translation": "અગિયારમાં દિવસે આશેરનાં પુત્રોનો નાસી — પગિએલ પુત્ર ઓખરાન.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "દિવસે"
+    },
+    {
+      "surface": "עשתי",
+      "gloss": "અગિયાર"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "(–મો)"
+    },
+    {
+      "surface": "יום",
+      "gloss": "દિવસ"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "નાસી (સરદાર)"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "પુત્રોનો"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "આશેર"
+    },
+    {
+      "surface": "פגעיאל",
+      "gloss": "પગિએલ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "પુત્ર"
+    },
+    {
+      "surface": "עכרן",
+      "gloss": "ઓખરાન"
+    }
+  ],
+  "timestamp": "2026-08-21T11:53:20.784485889Z",
+  "model": "glm-5.3"
+}

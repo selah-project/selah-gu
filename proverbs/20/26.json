@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 20:26",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 20,
+  "translation": "ડાહ્યો રાજા દુષ્ટોને પલાળે છે, અને તેમની ઉપર ચક્ર ફેરવે છે.",
+  "tokens": [
+    {
+      "surface": "מזרה",
+      "gloss": "પલાળે છે"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "દુષ્ટોને"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "રાજા"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "ડાહ્યો"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ફેરવે છે"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "તેમની ઉપર"
+    },
+    {
+      "surface": "אופן",
+      "gloss": "ચક્ર"
+    }
+  ],
+  "timestamp": "2026-08-21T16:58:51.523997140Z",
+  "model": "glm-5.3"
+}

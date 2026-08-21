@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 16:7",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 16,
+  "translation": "તે જ દિવસે ત્યારે દાવિદે પ્રથમ યાહવેનો આભાર માનવા અસાફ અને તેના ભાઈઓના હાથે આપ્યું.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "તે દિવસે"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "તે જ"
+    },
+    {
+      "surface": "אז",
+      "gloss": "ત્યારે"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "આપ્યું"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "દાવિદે"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "પ્રથમ"
+    },
+    {
+      "surface": "להדות",
+      "gloss": "આભાર માનવા"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "યાહવેનો"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "હાથે"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "અસાફ"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "અને તેના ભાઈઓના"
+    }
+  ],
+  "timestamp": "2026-08-21T18:07:09.359068697Z",
+  "model": "glm-5.3"
+}

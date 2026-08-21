@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 14:14",
+  "book": "isaiah",
+  "lang": "gu",
+  "chapter": 14,
+  "translation": "હું વાદળોની ઊંચાઈઓ પર ચઢીશ, એલ્યોન જેવો બનીશ.",
+  "tokens": [
+    {
+      "surface": "אעלה",
+      "gloss": "હું ચઢીશ"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "במתי",
+      "gloss": "ઊંચાઈઓ"
+    },
+    {
+      "surface": "עב",
+      "gloss": "વાદળોની"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "જેવો બનીશ"
+    },
+    {
+      "surface": "לעליון",
+      "gloss": "એલ્યોન"
+    }
+  ],
+  "timestamp": "2026-08-21T14:16:29.733660976Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "lamentations 3:30",
+  "book": "lamentations",
+  "lang": "gu",
+  "chapter": 3,
+  "translation": "તે પોતાની કપોળ તેને આપે જે તેને મારે છે; તે ઉપહાસથી સંતૃપ્ત થાય.",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "આપે"
+    },
+    {
+      "surface": "למכהו",
+      "gloss": "તેને જે તેને મારે છે"
+    },
+    {
+      "surface": "לחי",
+      "gloss": "કપોળ"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "સંતૃપ્ત થાય"
+    },
+    {
+      "surface": "בחרפה",
+      "gloss": "ઉપહાસથી"
+    }
+  ],
+  "timestamp": "2026-08-21T17:25:32.743886658Z",
+  "model": "glm-5.3"
+}

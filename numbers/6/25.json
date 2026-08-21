@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 6:25",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 6,
+  "translation": "યાહવે તારી તરફ ⟨પોતાનું⟩ મુખ પ્રકાશિત કરે, અને તને કૃપા કરે;",
+  "tokens": [
+    {
+      "surface": "יאר",
+      "gloss": "પ્રકાશિત કરે"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "તેનું મુખ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "તારી તરફ"
+    },
+    {
+      "surface": "ויחנך",
+      "gloss": "અને તને કૃપા કરે"
+    }
+  ],
+  "timestamp": "2026-08-21T11:50:37.418341489Z",
+  "model": "glm-5.3"
+}

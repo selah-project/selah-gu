@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 3:15",
+  "book": "deuteronomy",
+  "lang": "gu",
+  "chapter": 3,
+  "translation": "અને માખીરને મેં ગિલઆદ ⟨את⟩ આપ્યું.",
+  "tokens": [
+    {
+      "surface": "ולמכיר",
+      "gloss": "અને માખીરને"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "મેં આપ્યું"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ગિલઆદ"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "ગિલઆદ"
+    }
+  ],
+  "timestamp": "2026-08-21T12:13:50.320054778Z",
+  "model": "glm-5.3"
+}

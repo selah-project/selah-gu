@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 15:1",
+  "book": "2-chronicles",
+  "lang": "gu",
+  "chapter": 15,
+  "translation": "અને અઝર્યાહુ, ઓદેદના પુત્ર, પર — એલોહીમની રૂહ ⟨હતી⟩.",
+  "tokens": [
+    {
+      "surface": "ועזריהו",
+      "gloss": "અને અઝર્યાહુ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "પુત્ર"
+    },
+    {
+      "surface": "עודד",
+      "gloss": "ઓદેદના"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "હતી"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "તેના પર"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "રૂહ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "એલોહીમની"
+    }
+  ],
+  "timestamp": "2026-08-21T18:22:21.632932656Z",
+  "model": "glm-5.3"
+}

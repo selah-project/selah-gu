@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 109:6",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 109,
+  "translation": "તેના પર દુષ્ટને નિયુક્ત કર, અને શત્રુ તેના જમણે હાથે ઊભો રહે.",
+  "tokens": [
+    {
+      "surface": "הפקד",
+      "gloss": "નિયુક્ત કર"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "તેના પર"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "દુષ્ટને"
+    },
+    {
+      "surface": "ושטן",
+      "gloss": "અને શત્રુ"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "ઊભો રહે"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "તેના જમણે હાથે"
+    }
+  ],
+  "timestamp": "2026-08-21T16:41:47.578938252Z",
+  "model": "glm-5.3"
+}

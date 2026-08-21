@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 18:17",
+  "book": "job",
+  "lang": "gu",
+  "chapter": 18,
+  "translation": "તેનું સ્મરણ પૃથ્વીમાંથી નાશ પામ્યું, અને તેનું નામ ગલીના મુખ પર નથી રહ્યું.",
+  "tokens": [
+    {
+      "surface": "זכרו",
+      "gloss": "તેનું સ્મરણ"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "નાશ પામ્યું"
+    },
+    {
+      "surface": "מני",
+      "gloss": "માંથી"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "પૃથ્વી"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "અને નથી"
+    },
+    {
+      "surface": "שם",
+      "gloss": "નામ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "તેનું"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "פני",
+      "gloss": "મુખ"
+    },
+    {
+      "surface": "חוץ",
+      "gloss": "ગલી"
+    }
+  ],
+  "timestamp": "2026-08-21T17:10:16.100556312Z",
+  "model": "glm-5.3"
+}

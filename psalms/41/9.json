@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 41:9",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 41,
+  "translation": "બલિયાળનું વચન તેના પર રેડાય છે, અને જે સૂઈ ગયો છે તે ફરી ઊઠશે નહીં.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "વચન"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "બલિયાળનું"
+    },
+    {
+      "surface": "יצוק",
+      "gloss": "રેડાય છે"
+    },
+    {
+      "surface": "בו",
+      "gloss": "તેના પર"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "અને જે"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "સૂઈ ગયો છે"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "ફરી"
+    },
+    {
+      "surface": "לקום",
+      "gloss": "ઊઠશે"
+    }
+  ],
+  "timestamp": "2026-08-21T16:20:37.956668654Z",
+  "model": "glm-5.3"
+}

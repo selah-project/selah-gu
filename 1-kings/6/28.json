@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-kings 6:28",
+  "book": "1-kings",
+  "lang": "gu",
+  "chapter": 6,
+  "translation": "અને તેણે ⟨את⟩ કરુબોને સોનાથી મઢ્યા.",
+  "tokens": [
+    {
+      "surface": "ויצף",
+      "gloss": "અને તેણે મઢ્યા"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "કરુબોને"
+    },
+    {
+      "surface": "הכרובים",
+      "gloss": "કરુબોને"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "સોનાથી"
+    }
+  ],
+  "timestamp": "2026-08-21T13:39:48.886223026Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-chronicles 21:19",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 21,
+  "translation": "અને દાવિદ ગાદના વચન પ્રમાણે ચઢ્યો, જે ગાદે યાહવેના નામે બોલ્યો હતો.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "અને ચઢ્યો"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "દાવિદ"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "વચન પ્રમાણે"
+    },
+    {
+      "surface": "גד",
+      "gloss": "ગાદના"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જે"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "બોલ્યો હતો"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "નામે"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવેના"
+    }
+  ],
+  "timestamp": "2026-08-21T18:10:30.375566774Z",
+  "model": "glm-5.3"
+}

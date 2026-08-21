@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 5:4",
+  "book": "ezra",
+  "lang": "gu",
+  "chapter": 5,
+  "translation": "ત્યારે આપણે તેમને આ પ્રમાણે કહેલું: આ બાંધકામ બાંધનારા પુરુષોનાં નામ શું છે?",
+  "tokens": [
+    {
+      "surface": "אדין",
+      "gloss": "ત્યારે"
+    },
+    {
+      "surface": "כנמא",
+      "gloss": "આ પ્રમાણે"
+    },
+    {
+      "surface": "אמרנא",
+      "gloss": "આપણે કહેલું"
+    },
+    {
+      "surface": "להם",
+      "gloss": "તેમને"
+    },
+    {
+      "surface": "מן",
+      "gloss": "શું"
+    },
+    {
+      "surface": "אנון",
+      "gloss": "છે"
+    },
+    {
+      "surface": "שמהת",
+      "gloss": "નામ"
+    },
+    {
+      "surface": "גבריא",
+      "gloss": "પુરુષોનાં"
+    },
+    {
+      "surface": "די",
+      "gloss": "જે"
+    },
+    {
+      "surface": "דנה",
+      "gloss": "આ"
+    },
+    {
+      "surface": "בנינא",
+      "gloss": "બાંધકામ"
+    },
+    {
+      "surface": "בנין",
+      "gloss": "બાંધનારા"
+    }
+  ],
+  "timestamp": "2026-08-21T17:48:27.600433989Z",
+  "model": "glm-5.3"
+}

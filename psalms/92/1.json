@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 92:1",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 92,
+  "translation": "મિજમોર, એક ગીત — શબ્બાતના દિવસ માટે.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "મિજમોર"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "ગીત"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "દિવસ માટે"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "શબ્બાતના"
+    }
+  ],
+  "timestamp": "2026-08-21T16:36:24.398103589Z",
+  "model": "glm-5.3"
+}

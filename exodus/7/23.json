@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 7:23",
+  "book": "exodus",
+  "lang": "gu",
+  "chapter": 7,
+  "translation": "અને ફારો ફરી ગયો અને પોતાના ઘરમાં આવ્યો, અને તેણે આ બાબત પર પણ હૃદય ન ધર્યું.",
+  "tokens": [
+    {
+      "surface": "ויפן",
+      "gloss": "અને ફરી ગયો"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ફારો"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "અને આવ્યો"
+    },
+    {
+      "surface": "אל",
+      "gloss": "માં"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "પોતાના ઘર"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "અને નહીં"
+    },
+    {
+      "surface": "שת",
+      "gloss": "ધર્યું"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "હૃદય"
+    },
+    {
+      "surface": "גם",
+      "gloss": "પણ"
+    },
+    {
+      "surface": "לזאת",
+      "gloss": "આ બાબત પર"
+    }
+  ],
+  "timestamp": "2026-08-21T11:07:30.030876212Z",
+  "model": "glm-5.3"
+}

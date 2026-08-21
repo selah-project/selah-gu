@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "jeremiah 31:39",
+  "book": "jeremiah",
+  "lang": "gu",
+  "chapter": 31,
+  "translation": "અને માપદંડ ફરી તેની સામે નીકળશે — ગારેબની ટેકરી પર — અને ગોઆહ સુધી ફરી વળશે.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "અને નીકળશે"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ફરી"
+    },
+    {
+      "surface": "קוה",
+      "gloss": "માપદંડ"
+    },
+    {
+      "surface": "המדה",
+      "gloss": "માપ"
+    },
+    {
+      "surface": "נגדו",
+      "gloss": "તેની સામે"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "גבעת",
+      "gloss": "ટેકરી"
+    },
+    {
+      "surface": "גרב",
+      "gloss": "ગારેબની"
+    },
+    {
+      "surface": "ונסב",
+      "gloss": "અને ફરી વળશે"
+    },
+    {
+      "surface": "געתה",
+      "gloss": "ગોઆહ સુધી"
+    }
+  ],
+  "timestamp": "2026-08-21T15:01:00.131513014Z",
+  "model": "glm-5.3"
+}

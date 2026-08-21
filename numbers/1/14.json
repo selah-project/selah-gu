@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 1:14",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 1,
+  "translation": "ગાદ માટે — એલ્યાસાફ, દેઉએલનો પુત્ર.",
+  "tokens": [
+    {
+      "surface": "לגד",
+      "gloss": "ગાદ માટે"
+    },
+    {
+      "surface": "אליסף",
+      "gloss": "એલ્યાસાફ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "પુત્ર"
+    },
+    {
+      "surface": "דעואל",
+      "gloss": "દેઉએલ"
+    }
+  ],
+  "timestamp": "2026-08-21T11:46:38.443579510Z",
+  "model": "glm-5.3"
+}

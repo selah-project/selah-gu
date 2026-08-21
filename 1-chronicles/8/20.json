@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 8:20",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 8,
+  "translation": "અને એલિએનાય, અને ઝિલ્લેથાય, અને એલિએલ —",
+  "tokens": [
+    {
+      "surface": "ואליעני",
+      "gloss": "અને એલિએનાય"
+    },
+    {
+      "surface": "וצלתי",
+      "gloss": "અને ઝિલ્લેથાય"
+    },
+    {
+      "surface": "ואליאל",
+      "gloss": "અને એલિએલ"
+    }
+  ],
+  "timestamp": "2026-08-21T18:02:37.393823277Z",
+  "model": "glm-5.3"
+}

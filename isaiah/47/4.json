@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 47:4",
+  "book": "isaiah",
+  "lang": "gu",
+  "chapter": 47,
+  "translation": "આપણો ગોએલ યાહવે સેબાઓત — ⟨એ⟩ જ તેમનું નામ — ઇસ્રાએલનો પવિત્ર.",
+  "tokens": [
+    {
+      "surface": "גאלנו",
+      "gloss": "આપણો ગોએલ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "સેબાઓત"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "તેમનું નામ"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "પવિત્ર"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ઇસ્રાએલ"
+    }
+  ],
+  "timestamp": "2026-08-21T14:35:27.455063164Z",
+  "model": "glm-5.3"
+}

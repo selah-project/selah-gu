@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 1:38",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 1,
+  "translation": "અને સેઈરનાં પુત્રો: લોતાન, શોવાલ, ત્સિબ્યોન, અનાહ, દિશોન, એત્ઝેર અને દિશાન.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "અને …નાં પુત્રો"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "સેઈરનાં"
+    },
+    {
+      "surface": "לוטן",
+      "gloss": "લોતાન"
+    },
+    {
+      "surface": "ושובל",
+      "gloss": "શોવાલ"
+    },
+    {
+      "surface": "וצבעון",
+      "gloss": "ત્સિબ્યોન"
+    },
+    {
+      "surface": "וענה",
+      "gloss": "અનાહ"
+    },
+    {
+      "surface": "ודישן",
+      "gloss": "દિશોન"
+    },
+    {
+      "surface": "ואצר",
+      "gloss": "એત્ઝેર"
+    },
+    {
+      "surface": "ודישן",
+      "gloss": "દિશાન"
+    }
+  ],
+  "timestamp": "2026-08-21T17:59:03.805813270Z",
+  "model": "glm-5.3"
+}

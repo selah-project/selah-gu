@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 19:3",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 19,
+  "translation": "માણસની મૂર્ખાઈ તેનો માર્ગ વાંકો કરે છે, અને યાહવે પર તેનું હૃદય ગુસ્સે થાય છે.",
+  "tokens": [
+    {
+      "surface": "אולת",
+      "gloss": "મૂર્ખાઈ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "માણસની"
+    },
+    {
+      "surface": "תסלף",
+      "gloss": "વાંકો કરે છે"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "માર્ગ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "અને... પર"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "יזעף",
+      "gloss": "ગુસ્સે થાય છે"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "હૃદય"
+    }
+  ],
+  "timestamp": "2026-08-21T16:59:15.499376786Z",
+  "model": "glm-5.3"
+}

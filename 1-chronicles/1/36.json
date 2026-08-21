@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 1:36",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 1,
+  "translation": "એલીફાઝના પુત્રો: તેમાન, ઓમાર, ત્સેફી, ગઅતામ, કેનાઝ, તિમ્ના અને અમાલેક.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "એલીફાઝ"
+    },
+    {
+      "surface": "תימן",
+      "gloss": "તેમાન"
+    },
+    {
+      "surface": "ואומר",
+      "gloss": "અને ઓમાર"
+    },
+    {
+      "surface": "צפי",
+      "gloss": "ત્સેફી"
+    },
+    {
+      "surface": "וגעתם",
+      "gloss": "અને ગઅતામ"
+    },
+    {
+      "surface": "קנז",
+      "gloss": "કેનાઝ"
+    },
+    {
+      "surface": "ותמנע",
+      "gloss": "અને તિમ્ના"
+    },
+    {
+      "surface": "ועמלק",
+      "gloss": "અને અમાલેક"
+    }
+  ],
+  "timestamp": "2026-08-21T17:59:33.080515372Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 26:9",
+  "book": "deuteronomy",
+  "lang": "gu",
+  "chapter": 26,
+  "translation": "અને તેમણે આપણને આ સ્થાનમાં લાવ્યા, અને આપણને ⟨את⟩ આ દેશ આપ્યો — દૂધ અને મધથી વહેતો દેશ.",
+  "tokens": [
+    {
+      "surface": "ויבאנו",
+      "gloss": "અને તેમણે લાવ્યા"
+    },
+    {
+      "surface": "אל",
+      "gloss": "માં"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "સ્થાન"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "આ"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "અને આપ્યો"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "આપણને"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "આ દેશ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "દેશ"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "આ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "દેશ"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "વહેતો"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "દૂધ"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "અને મધ"
+    }
+  ],
+  "timestamp": "2026-08-21T12:26:27.593574428Z",
+  "model": "glm-5.3"
+}

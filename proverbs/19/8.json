@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 19:8",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 19,
+  "translation": "હૃદય મેળવનાર પોતાના પ્રાણને પ્રેમ કરે છે; સમજ રાખનાર ભલાઈ મેળવશે.",
+  "tokens": [
+    {
+      "surface": "קנה",
+      "gloss": "મેળવનાર"
+    },
+    {
+      "surface": "לב",
+      "gloss": "હૃદય"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "પ્રેમ કરે છે"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "પોતાના પ્રાણને"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "રાખનાર"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "સમજ"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "મેળવશે"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ભલાઈ"
+    }
+  ],
+  "timestamp": "2026-08-21T16:58:50.373274621Z",
+  "model": "glm-5.3"
+}

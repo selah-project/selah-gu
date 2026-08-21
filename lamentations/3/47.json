@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "lamentations 3:47",
+  "book": "lamentations",
+  "lang": "gu",
+  "chapter": 3,
+  "translation": "ભય અને ખાડો અમારા ભાગે ⟨આવ્યાં⟩, ઉજ્જડતા અને વિનાશ.",
+  "tokens": [
+    {
+      "surface": "פחד",
+      "gloss": "ભય"
+    },
+    {
+      "surface": "ופחת",
+      "gloss": "અને ખાડો"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨આવ્યાં⟩ થયાં"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "અમારા ભાગે"
+    },
+    {
+      "surface": "השאת",
+      "gloss": "ઉજ્જડતા"
+    },
+    {
+      "surface": "והשבר",
+      "gloss": "અને વિનાશ"
+    }
+  ],
+  "timestamp": "2026-08-21T17:26:09.037736736Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 45:15",
+  "book": "isaiah",
+  "lang": "gu",
+  "chapter": 45,
+  "translation": "ખરેખર તમે છુપાયેલા એલ છો, ઇસ્રાએલના એલોહીમ, મુક્તિદાતા.",
+  "tokens": [
+    {
+      "surface": "אכן",
+      "gloss": "ખરેખર"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "તમે"
+    },
+    {
+      "surface": "אל",
+      "gloss": "એલ"
+    },
+    {
+      "surface": "מסתתר",
+      "gloss": "છુપાયેલા"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "એલોહીમ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ઇસ્રાએલના"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "મુક્તિદાતા"
+    }
+  ],
+  "timestamp": "2026-08-21T14:34:53.345046671Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "exodus 12:47",
+  "book": "exodus",
+  "lang": "gu",
+  "chapter": 12,
+  "translation": "ઇસ્રાએલની સમગ્ર સભા ⟨את⟩ તેનું પાલન કરશે.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "સમગ્ર"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "સભા"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ઇસ્રાએલની"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "પાલન કરશે"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "તેનું (પ્રસંગ)"
+    }
+  ],
+  "timestamp": "2026-08-21T11:12:01.323856227Z",
+  "model": "glm-5.3"
+}

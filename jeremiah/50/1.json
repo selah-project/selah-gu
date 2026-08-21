@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 50:1",
+  "book": "jeremiah",
+  "lang": "gu",
+  "chapter": 50,
+  "translation": "જે વચન યાહવેએ બાબેલ (બેબીલોન) વિષે, કસદીઓના દેશ વિષે, યિર્મેયાહુ પ્રબોધકના હાથે બોલ્યા.",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "વચન"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જે"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "બોલ્યા"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવેએ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "વિષે"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "બાબેલ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "વિષે"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "દેશ"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "કસદીઓના"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "હાથે"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "યિર્મેયાહુ"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "પ્રબોધક"
+    }
+  ],
+  "timestamp": "2026-08-21T15:13:34.974961573Z",
+  "model": "glm-5.3"
+}

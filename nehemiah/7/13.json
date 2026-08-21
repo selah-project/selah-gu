@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "nehemiah 7:13",
+  "book": "nehemiah",
+  "lang": "gu",
+  "chapter": 7,
+  "translation": "ઝત્તૂનાં પુત્રો: આઠસો ચુંતાલીસ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "זתוא",
+      "gloss": "ઝત્તૂનાં"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "આઠ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "સો"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "ચુંતાલીસ"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "…પાંચ"
+    }
+  ],
+  "timestamp": "2026-08-21T17:54:55.269027532Z",
+  "model": "glm-5.3"
+}

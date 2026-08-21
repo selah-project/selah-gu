@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 66:2",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 66,
+  "translation": "તેના નામના તેજનું ગાન કરો; તેની સ્તુતિને તેજસ્વી બનાવો.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "ગાન કરો"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "તેજ"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "તેના નામના"
+    },
+    {
+      "surface": "שימו",
+      "gloss": "બનાવો"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "તેજસ્વી"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "તેની સ્તુતિને"
+    }
+  ],
+  "timestamp": "2026-08-21T16:27:15.868769250Z",
+  "model": "glm-5.3"
+}

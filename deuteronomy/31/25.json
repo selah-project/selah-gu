@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 31:25",
+  "book": "deuteronomy",
+  "lang": "gu",
+  "chapter": 31,
+  "translation": "અને મૂશાએ યાહવેના કરારના સંદુક ધારક લેવીયોને ⟨את⟩ આજ્ઞા આપી, કહેતા:",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "અને આજ્ઞા આપી"
+    },
+    {
+      "surface": "משה",
+      "gloss": "મૂશાએ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "લેવીયોને"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "લેવીયોને"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "ધારક"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "સંદુક"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "કરારના"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવેના"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "કહેતા"
+    }
+  ],
+  "timestamp": "2026-08-21T12:31:18.152122388Z",
+  "model": "glm-5.3"
+}

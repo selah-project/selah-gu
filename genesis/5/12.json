@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 5:12",
+  "book": "genesis",
+  "lang": "gu",
+  "chapter": 5,
+  "translation": "અને કેનાન સિત્તેર વર્ષ જીવ્યો, અને ⟨את⟩ મહલલેલને જન્મ આપ્યો.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "જીવ્યો"
+    },
+    {
+      "surface": "קינן",
+      "gloss": "કેનાન"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "સિત્તેર"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "વર્ષ"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "જન્મ આપ્યો"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "મહલલેલ"
+    },
+    {
+      "surface": "מהללאל",
+      "gloss": "મહલલેલ"
+    }
+  ],
+  "timestamp": "2026-08-21T10:37:45.099821707Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 12:16",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 12,
+  "translation": "મૂર્ખનો ક્રોધ એ જ દિવસે જાણી શકાય છે, પણ સમજદાર અપમાન ઢાંકી લે છે.",
+  "tokens": [
+    {
+      "surface": "אויל",
+      "gloss": "મૂર્ખનો"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "એ જ દિવસે"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "જાણી શકાય છે"
+    },
+    {
+      "surface": "כעסו",
+      "gloss": "ક્રોધ"
+    },
+    {
+      "surface": "וכסה",
+      "gloss": "ઢાંકી લે છે"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "અપમાન"
+    },
+    {
+      "surface": "ערום",
+      "gloss": "સમજદાર"
+    }
+  ],
+  "timestamp": "2026-08-21T16:55:19.120665489Z",
+  "model": "glm-5.3"
+}

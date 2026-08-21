@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 3:8",
+  "book": "deuteronomy",
+  "lang": "gu",
+  "chapter": 3,
+  "translation": "અને તે સમયે આપણે યર્દનને પાર રહેલા બે એમોરી રાજાઓના હાતમાંથી ⟨את⟩ જમીન લીધી — અર્નોનની નદીથી હેરમોન પર્વત સુધી.",
+  "tokens": [
+    {
+      "surface": "ונקח",
+      "gloss": "અને આપણે લીધી"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "તે સમયે"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "તે"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "જમીન"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "જમીન"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "હાતમાંથી"
+    },
+    {
+      "surface": "שני",
+      "gloss": "બે"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "રાજાઓના"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "એમોરી"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જે"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "પાર રહેલા"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "યર્દનને"
+    },
+    {
+      "surface": "מנחל",
+      "gloss": "નદીથી"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "અર્નોનની"
+    },
+    {
+      "surface": "עד",
+      "gloss": "સુધી"
+    },
+    {
+      "surface": "הר",
+      "gloss": "પર્વત"
+    },
+    {
+      "surface": "חרמון",
+      "gloss": "હેરમોן"
+    }
+  ],
+  "timestamp": "2026-08-21T12:13:36.554953635Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 13:16",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 13,
+  "translation": "દરેક ચતુર માણસ જ્ઞાનથી કાર્ય કરે છે; પણ મૂર્ખ મૂર્ખામી પથરાવે છે.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "દરેક"
+    },
+    {
+      "surface": "ערום",
+      "gloss": "ચતુર માણસ"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "કાર્ય કરે છે"
+    },
+    {
+      "surface": "בדעת",
+      "gloss": "જ્ઞાનથી"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "પણ મૂર્ખ"
+    },
+    {
+      "surface": "יפרש",
+      "gloss": "પથરાવે છે"
+    },
+    {
+      "surface": "אולת",
+      "gloss": "મૂર્ખામી"
+    }
+  ],
+  "timestamp": "2026-08-21T16:56:02.353810225Z",
+  "model": "glm-5.3"
+}

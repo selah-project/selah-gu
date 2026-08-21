@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 19:15",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 19,
+  "translation": "અને દરેક ખુલ્લું પાત્ર જેના પર કસેલું ઢાંકણ-દોરી નથી, તે અશુદ્ધ છે.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "અને દરેક"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "પાત્ર"
+    },
+    {
+      "surface": "פתוח",
+      "gloss": "ખુલ્લું"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જે"
+    },
+    {
+      "surface": "אין",
+      "gloss": "નથી"
+    },
+    {
+      "surface": "צמיד",
+      "gloss": "કસેલું ઢાંકણ"
+    },
+    {
+      "surface": "פתיל",
+      "gloss": "દોરી"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "તેના પર"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "અશુદ્ધ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "છે"
+    }
+  ],
+  "timestamp": "2026-08-21T12:02:10.040687853Z",
+  "model": "glm-5.3"
+}

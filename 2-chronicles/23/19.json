@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 23:19",
+  "book": "2-chronicles",
+  "lang": "gu",
+  "chapter": 23,
+  "translation": "અને તેણે દરવાજા-રખોને યાહવેના ઘરના દરવાજાઓ પર ઊભા કર્યા, કે જે કોઈ કારણથી અશુદ્ધ ⟨is⟩ તે અંદર ન આવે.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "ઊભા કર્યા"
+    },
+    {
+      "surface": "השוערים",
+      "gloss": "દરવાજા-રખોને"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "שערי",
+      "gloss": "દરવાજાઓ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ઘરના"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવેના"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ન આવે"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "આવે"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "અશુદ્ધ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "કોઈ કારણથી"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "કારણ"
+    }
+  ],
+  "timestamp": "2026-08-21T18:25:28.876521471Z",
+  "model": "glm-5.3"
+}

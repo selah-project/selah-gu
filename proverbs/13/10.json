@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 13:10",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 13,
+  "translation": "ફક્ત ઘમંડથી ઝઘટો થાય છે, પણ ⟨את⟩ મંત્રણા કરનારા સાથે જ્ઞાન ⟨is⟩.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "ફક્ત"
+    },
+    {
+      "surface": "בזדון",
+      "gloss": "ઘમંડથી"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "થાય છે"
+    },
+    {
+      "surface": "מצה",
+      "gloss": "ઝઘટો"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "મંત્રણા કરનારા"
+    },
+    {
+      "surface": "נועצים",
+      "gloss": "મંત્રણા કરનારા"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "જ્ઞાન"
+    }
+  ],
+  "timestamp": "2026-08-21T16:55:05.454243976Z",
+  "model": "glm-5.3"
+}

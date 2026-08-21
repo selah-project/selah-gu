@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 7:42",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 7,
+  "translation": "છઠ્ઠા દિવસે ગાદનાં પુત્રોનો નસી — એલ્યાસાફ પુત્ર દેઉએલ.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "…ના દિવસે"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "છઠ્ઠા"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "નસી (સરદાર)"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "…નાં પુત્રોનો"
+    },
+    {
+      "surface": "גד",
+      "gloss": "ગાદ"
+    },
+    {
+      "surface": "אליסף",
+      "gloss": "એલ્યાસાફ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "પુત્ર"
+    },
+    {
+      "surface": "דעואל",
+      "gloss": "દેઉએલ"
+    }
+  ],
+  "timestamp": "2026-08-21T11:52:03.127862723Z",
+  "model": "glm-5.3"
+}

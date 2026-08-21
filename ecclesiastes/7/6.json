@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 7:6",
+  "book": "ecclesiastes",
+  "lang": "gu",
+  "chapter": 7,
+  "translation": "કારણ કે કડાઈ નીચે બળતા કાંટાઓના અવાજ જેવું છે, એમ મૂર્ખનું હાસ્ય છે; અને આ પણ હેબેલ છે.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "કારણ કે"
+    },
+    {
+      "surface": "כקול",
+      "gloss": "અવાજ જેવું છે"
+    },
+    {
+      "surface": "הסירים",
+      "gloss": "કાંટાઓના"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "નીચે"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "કડાઈ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "એમ"
+    },
+    {
+      "surface": "שחק",
+      "gloss": "હાસ્ય"
+    },
+    {
+      "surface": "הכסיל",
+      "gloss": "મૂર્ખનું"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "અને પણ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "આ"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "હેબેલ"
+    }
+  ],
+  "timestamp": "2026-08-21T19:00:49.879392897Z",
+  "model": "glm-5.3"
+}

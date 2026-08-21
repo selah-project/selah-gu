@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 25:22",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 25,
+  "translation": "કેમ કે તું તેના માથે અંગારા રચી રહ્યો છે, અને યાહવે તને વળતર આપશે.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "કેમ કે"
+    },
+    {
+      "surface": "גחלים",
+      "gloss": "અંગારા"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "તું"
+    },
+    {
+      "surface": "חתה",
+      "gloss": "રચી રહ્યો છે"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "તેના માથે"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "અને યાહવે"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "વળતર આપશે"
+    },
+    {
+      "surface": "לך",
+      "gloss": "તને"
+    }
+  ],
+  "timestamp": "2026-08-21T17:00:52.140989630Z",
+  "model": "glm-5.3"
+}

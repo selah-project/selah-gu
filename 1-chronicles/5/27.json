@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 5:27",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 5,
+  "translation": "લેવીના પુત્રો: ગેર્શોન, કહાત અને મરારી.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "લેવીના"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "ગેર્શોન"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "કહાત"
+    },
+    {
+      "surface": "ומררי",
+      "gloss": "અને મરારી"
+    }
+  ],
+  "timestamp": "2026-08-21T18:02:28.916276034Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 1:6",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 1,
+  "translation": "અને ગોમેરના પુત્રો: અશ્કેનાઝ, દીફત અને તોગર્માહ.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "અને …ના પુત્રો"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "ગોમેર"
+    },
+    {
+      "surface": "אשכנז",
+      "gloss": "અશ્કેનાઝ"
+    },
+    {
+      "surface": "ודיפת",
+      "gloss": "દીફત"
+    },
+    {
+      "surface": "ותוגרמה",
+      "gloss": "તોગર્માહ"
+    }
+  ],
+  "timestamp": "2026-08-21T17:59:16.854889242Z",
+  "model": "glm-5.3"
+}

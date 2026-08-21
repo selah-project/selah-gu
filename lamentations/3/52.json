@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "lamentations 3:52",
+  "book": "lamentations",
+  "lang": "gu",
+  "chapter": 3,
+  "translation": "શિકાર કરતા મારા શત્રુઓએ મને પક્ષીની જેમ, નિષ્કારણ જ પીછો કર્યો.",
+  "tokens": [
+    {
+      "surface": "צוד",
+      "gloss": "શિકાર કરતા"
+    },
+    {
+      "surface": "צדוני",
+      "gloss": "મને પીછો કર્યો"
+    },
+    {
+      "surface": "כצפור",
+      "gloss": "પક્ષીની જેમ"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "મારા શત્રુઓએ"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "નિષ્કારણ જ"
+    }
+  ],
+  "timestamp": "2026-08-21T17:25:39.271450279Z",
+  "model": "glm-5.3"
+}

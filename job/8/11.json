@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 8:11",
+  "book": "job",
+  "lang": "gu",
+  "chapter": 8,
+  "translation": "શું કાદવ વિના ગોમે ઊગે છે? શું પાણી વિના કાદવઘાસ વધે છે?",
+  "tokens": [
+    {
+      "surface": "היגאה",
+      "gloss": "શું... ઊગે છે"
+    },
+    {
+      "surface": "גמא",
+      "gloss": "ગોમે (પપાયરસ)"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "વિના"
+    },
+    {
+      "surface": "בצה",
+      "gloss": "કાદવ"
+    },
+    {
+      "surface": "ישגה",
+      "gloss": "વધે છે"
+    },
+    {
+      "surface": "אחו",
+      "gloss": "કાદવઘાસ"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "વિના"
+    },
+    {
+      "surface": "מים",
+      "gloss": "પાણી"
+    }
+  ],
+  "timestamp": "2026-08-21T17:05:58.701165621Z",
+  "model": "glm-5.3"
+}

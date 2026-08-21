@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "deuteronomy 32:40",
+  "book": "deuteronomy",
+  "lang": "gu",
+  "chapter": 32,
+  "translation": "કે હું આકાસ તરફ મારો હાથ ઊંચો કરું છું અને કહું છું: જેમ હું સદા જીવંત છું —",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "કે"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "ઊંચો કરું છું"
+    },
+    {
+      "surface": "אל",
+      "gloss": "તરફ"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "આકાશ"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "મારો હાથ"
+    },
+    {
+      "surface": "ואמרתי",
+      "gloss": "અને કહું છું"
+    },
+    {
+      "surface": "חי",
+      "gloss": "જીવંત"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "હું"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "સદા"
+    }
+  ],
+  "timestamp": "2026-08-21T12:29:57.530098814Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 2:5",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 2,
+  "translation": "પેરેત્સના પુત્રો: ખેત્સરોન અને ખામુલ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "પેરેત્સ"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "ખેત્સરોન"
+    },
+    {
+      "surface": "וחמול",
+      "gloss": "અને ખામુલ"
+    }
+  ],
+  "timestamp": "2026-08-21T17:59:25.789836776Z",
+  "model": "glm-5.3"
+}

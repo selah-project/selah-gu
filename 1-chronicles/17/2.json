@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 17:2",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 17,
+  "translation": "નાતાને દાવીદને કહ્યું: તારા હૃદયમાં જે ⟨છે⟩ તે બધું કર, કારણ કે એલોહીમ તારી સાથે ⟨છે⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "કહ્યું"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "નાતાને"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ને"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "દાવીદને"
+    },
+    {
+      "surface": "כל",
+      "gloss": "બધું"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જે"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "તારા હૃદયમાં"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "કર"
+    },
+    {
+      "surface": "כי",
+      "gloss": "કારણ કે"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "એલોહીમ"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "તારી સાથે"
+    }
+  ],
+  "timestamp": "2026-08-21T18:10:06.081677708Z",
+  "model": "glm-5.3"
+}

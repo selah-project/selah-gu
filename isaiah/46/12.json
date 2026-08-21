@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 46:12",
+  "book": "isaiah",
+  "lang": "gu",
+  "chapter": 46,
+  "translation": "મારી સાંભળો, હૃદયના જુદબુદિયાઓ, જે ન્યાયથી દૂર છો.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "સાંભળો"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "મારી"
+    },
+    {
+      "surface": "אבירי",
+      "gloss": "જુદબુદિયાઓ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "હૃદયના"
+    },
+    {
+      "surface": "הרחוקים",
+      "gloss": "દૂર છો"
+    },
+    {
+      "surface": "מצדקה",
+      "gloss": "ન્યાયથી"
+    }
+  ],
+  "timestamp": "2026-08-21T14:33:53.091140357Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 11:24",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 11,
+  "translation": "આ બધું બનાયાહુ, યહોયાદાના પુત્રે કર્યું, અને તેને ત્રણ પરાક્રમીઓમાં નામ મળ્યું.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "આ બધું"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "કર્યું"
+    },
+    {
+      "surface": "בניהו",
+      "gloss": "બનાયાહુએ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "પુત્ર"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "યહોયાદાના"
+    },
+    {
+      "surface": "ולו",
+      "gloss": "અને તેને"
+    },
+    {
+      "surface": "שם",
+      "gloss": "નામ"
+    },
+    {
+      "surface": "בשלושה",
+      "gloss": "ત્રણમાં"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "પરાક્રમીઓ"
+    }
+  ],
+  "timestamp": "2026-08-21T18:06:05.695031176Z",
+  "model": "glm-5.3"
+}

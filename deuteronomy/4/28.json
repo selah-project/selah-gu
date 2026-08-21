@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "deuteronomy 4:28",
+  "book": "deuteronomy",
+  "lang": "gu",
+  "chapter": 4,
+  "translation": "અને તમે ત્યાં એવા એલોહીમની સેવા કરશો, માનવના હાથોનું કાર્ય, લાકડું અને પથ્થર, જે ન દેખે, ન સાંભળે, ન ખાય અને ન સૂંઘે.",
+  "tokens": [
+    {
+      "surface": "ועבדתם",
+      "gloss": "અને તમે સેવા કરશો"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ત્યાં"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "એલોહીમની"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "કાર્ય"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "હાથોનું"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "માનવના"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "લાકડું"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "અને પથ્થર"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જે"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ન"
+    },
+    {
+      "surface": "יראון",
+      "gloss": "દેખે"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ન"
+    },
+    {
+      "surface": "ישמעון",
+      "gloss": "સાંભળે"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ન"
+    },
+    {
+      "surface": "יאכלון",
+      "gloss": "ખાય"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "અને ન"
+    },
+    {
+      "surface": "יריחן",
+      "gloss": "સૂંઘે"
+    }
+  ],
+  "timestamp": "2026-08-21T12:15:32.014053397Z",
+  "model": "glm-5.3"
+}

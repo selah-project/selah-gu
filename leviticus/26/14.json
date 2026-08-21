@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 26:14",
+  "book": "leviticus",
+  "lang": "gu",
+  "chapter": 26,
+  "translation": "પણ જો તમે મારું સાંભળશો નહિ, અને ⟨את⟩ આ બધી આજ્ઞાઓ તમે કરશો નહિ —",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "પણ જો"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નહિ"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "સાંભળશો"
+    },
+    {
+      "surface": "לי",
+      "gloss": "મારું"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "અને નહિ"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "કરશો"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "આ બધી આજ્ઞાઓ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "બધી"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "આજ્ઞાઓ"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "આ"
+    }
+  ],
+  "timestamp": "2026-08-21T18:36:48.802785995Z",
+  "model": "glm-5.3"
+}

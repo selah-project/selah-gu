@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 8:11",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 8,
+  "translation": "અને તેણે ખુશીમથી ⟨את⟩ અવિતુબ અને ⟨את⟩ એલપાલને જન્મ આપ્યો.",
+  "tokens": [
+    {
+      "surface": "ומחשים",
+      "gloss": "અને ખુશીમથી"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "જન્મ આપ્યો"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "અવિતુબ"
+    },
+    {
+      "surface": "אביטוב",
+      "gloss": "અવિતુબ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "અને ⟨את⟩",
+      "marks": "એલપાલ"
+    },
+    {
+      "surface": "אלפעל",
+      "gloss": "એલપાલ"
+    }
+  ],
+  "timestamp": "2026-08-21T18:02:51.809481556Z",
+  "model": "glm-5.3"
+}

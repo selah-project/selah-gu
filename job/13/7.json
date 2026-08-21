@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 13:7",
+  "book": "job",
+  "lang": "gu",
+  "chapter": 13,
+  "translation": "એલના હિતમાં અન્યાય બોલશો, અને તેના માટે છળ બોલશો?",
+  "tokens": [
+    {
+      "surface": "הלאל",
+      "gloss": "એલના હિતમાં"
+    },
+    {
+      "surface": "תדברו",
+      "gloss": "બોલશો"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "અન્યાય"
+    },
+    {
+      "surface": "ולו",
+      "gloss": "અને તેના માટે"
+    },
+    {
+      "surface": "תדברו",
+      "gloss": "બોલશો"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "છળ"
+    }
+  ],
+  "timestamp": "2026-08-21T17:08:29.848884521Z",
+  "model": "glm-5.3"
+}

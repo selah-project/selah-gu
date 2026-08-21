@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 7:22",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 7,
+  "translation": "બકરાનો એક ટટ્ટર પાપ-વિશેષ માટે.",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "ટટ્ટર"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "બકરાનો"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "એક"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "પાપ-વિશેષ માટે"
+    }
+  ],
+  "timestamp": "2026-08-21T11:52:03.174540595Z",
+  "model": "glm-5.3"
+}

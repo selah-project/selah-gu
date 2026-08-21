@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "song-of-songs 2:16",
+  "book": "song-of-songs",
+  "lang": "gu",
+  "chapter": 2,
+  "translation": "મારો પ્રિય મારો છે અને હું તેની છું; ⟨he⟩ કમળો વચ્ચે ચરાય છે.",
+  "tokens": [
+    {
+      "surface": "דודי",
+      "gloss": "મારો પ્રિય"
+    },
+    {
+      "surface": "לי",
+      "gloss": "મારો છે"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "અને હું"
+    },
+    {
+      "surface": "לו",
+      "gloss": "તેની છું"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "ચરાય છે ⟨he⟩"
+    },
+    {
+      "surface": "בשושנים",
+      "gloss": "કમળો વચ્ચે"
+    }
+  ],
+  "timestamp": "2026-08-21T17:21:03.976437730Z",
+  "model": "glm-5.3"
+}

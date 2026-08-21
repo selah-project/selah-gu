@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 3:4",
+  "book": "genesis",
+  "lang": "gu",
+  "chapter": 3,
+  "translation": "અને સર્પે સ્ત્રીને કહ્યું, “મરવા તો તમે મરશો જ નહીં.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "અને સર્પે કહ્યું"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "સર્પે"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ને"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "સ્ત્રીને"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "מות",
+      "gloss": "મરવા"
+    },
+    {
+      "surface": "תמתון",
+      "gloss": "મરશો"
+    }
+  ],
+  "timestamp": "2026-08-21T10:38:34.582919469Z",
+  "model": "glm-5.3"
+}

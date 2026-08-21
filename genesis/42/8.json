@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 42:8",
+  "book": "genesis",
+  "lang": "gu",
+  "chapter": 42,
+  "translation": "અને યોસેફે ⟨את⟩ પોતાના ભાઈઓને ઓળખ્યા, પણ તેઓએ તેને ઓળખ્યો નહીં.",
+  "tokens": [
+    {
+      "surface": "ויכר",
+      "gloss": "ઓળખ્યા"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "યોસેફે"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "પોતાના ભાઈઓને"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "પોતાના ભાઈઓ"
+    },
+    {
+      "surface": "והם",
+      "gloss": "પણ તેઓએ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "הכרהו",
+      "gloss": "તેને ઓળખ્યો"
+    }
+  ],
+  "timestamp": "2026-08-21T11:01:06.345605397Z",
+  "model": "glm-5.3"
+}

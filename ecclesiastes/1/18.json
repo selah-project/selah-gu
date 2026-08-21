@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 1:18",
+  "book": "ecclesiastes",
+  "lang": "gu",
+  "chapter": 1,
+  "translation": "કેમ કે વિપુલ જ્ઞાનમાં વિપુલ દુઃખ ⟨છે⟩, અને જે વિદ્યા વધારે છે તે વેદના પણ વધારે છે.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "કેમ કે"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "વિપુલ...માં"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "જ્ઞાન"
+    },
+    {
+      "surface": "רב",
+      "gloss": "વિપુલ"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "દુઃખ"
+    },
+    {
+      "surface": "ויוסיף",
+      "gloss": "અને વધારે છે"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "વિદ્યા"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "વધારે છે"
+    },
+    {
+      "surface": "מכאוב",
+      "gloss": "વેદના"
+    }
+  ],
+  "timestamp": "2026-08-21T17:28:25.637614495Z",
+  "model": "glm-5.3"
+}

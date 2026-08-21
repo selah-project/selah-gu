@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "judges 9:14",
+  "book": "judges",
+  "lang": "gu",
+  "chapter": 9,
+  "translation": "અને બધા વૃક્ષોએ કાંટાઝાડને કહ્યું: તું આવ, અમારા પર રાજા થા.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "અને કહ્યું"
+    },
+    {
+      "surface": "כל",
+      "gloss": "બધા"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "વૃક્ષોએ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ને"
+    },
+    {
+      "surface": "האטד",
+      "gloss": "કાંટાઝાડને"
+    },
+    {
+      "surface": "לך",
+      "gloss": "તું આવ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "તું"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "રાજા થા"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "અમારા પર"
+    }
+  ],
+  "timestamp": "2026-08-21T12:50:48.157523131Z",
+  "model": "glm-5.3"
+}

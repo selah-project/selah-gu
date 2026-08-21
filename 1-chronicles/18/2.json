@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 18:2",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 18,
+  "translation": "અને તેણે ⟨את⟩ મોઆબને ફટકાર્યો, અને મોઆબીઓ દાવીદના દાસ બન્યા, ભેટ ધરાવનારા.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "ફટકાર્યો"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "મોઆબને"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "મોઆબને"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "બન્યા"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "મોઆબીઓ"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "દાસ"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "દાવીદના"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "ધરાવનારા"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "ભેટ"
+    }
+  ],
+  "timestamp": "2026-08-21T18:10:09.223762255Z",
+  "model": "glm-5.3"
+}

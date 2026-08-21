@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 7:6",
+  "book": "exodus",
+  "lang": "gu",
+  "chapter": 7,
+  "translation": "અને મોશે અને અહરોને એ કર્યું; જેમ યાહવેએ ⟨את⟩ તેમને આજ્ઞા આપી હતી, તેમ તેઓએ કર્યું.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "અને કર્યું"
+    },
+    {
+      "surface": "משה",
+      "gloss": "મોશે"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "અને અહરોન"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "જેમ"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "આજ્ઞા આપી હતી"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "તેમને"
+    },
+    {
+      "surface": "כן",
+      "gloss": "તેમ"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "કર્યું"
+    }
+  ],
+  "timestamp": "2026-08-21T11:07:15.262995512Z",
+  "model": "glm-5.3"
+}

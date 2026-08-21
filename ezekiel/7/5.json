@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 7:5",
+  "book": "ezekiel",
+  "lang": "gu",
+  "chapter": 7,
+  "translation": "આમ કહે છે અદોનાય યાહવે: અનર્થ, એક અનર્થ — જુઓ, તે આવી રહ્યો છે.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "આમ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "કહે છે"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "અદોનાય"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "અનર્થ"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "એક"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "અનર્થ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "જુઓ"
+    },
+    {
+      "surface": "באה",
+      "gloss": "આવી રહ્યો છે"
+    }
+  ],
+  "timestamp": "2026-08-21T15:18:40.538724432Z",
+  "model": "glm-5.3"
+}

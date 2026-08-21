@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 2:39",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 2,
+  "translation": "અને અઝર્યાએ ⟨את⟩ ખેલેત્સને જન્મ આપ્યો, અને ખેલેત્સે ⟨את⟩ એલઆસાને જન્મ આપ્યો.",
+  "tokens": [
+    {
+      "surface": "ועזריה",
+      "gloss": "અને અઝર્યા"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "જન્મ આપ્યો"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ખેલેત્સ"
+    },
+    {
+      "surface": "חלץ",
+      "gloss": "ખેલેત્સ"
+    },
+    {
+      "surface": "וחלץ",
+      "gloss": "અને ખેલેત્સ"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "જન્મ આપ્યો"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "એલઆસા"
+    },
+    {
+      "surface": "אלעשה",
+      "gloss": "એલઆસા"
+    }
+  ],
+  "timestamp": "2026-08-21T17:59:24.624855027Z",
+  "model": "glm-5.3"
+}

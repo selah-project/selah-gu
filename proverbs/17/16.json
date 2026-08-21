@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 17:16",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 17,
+  "translation": "આ શા માટે ⟨છે⟩ મૂર્ખના હાથમાં મૂલ્ય — જ્ઞાન ખરીદવા ⟨માટે⟩ — જ્યારે બુદ્ધિ તો નથી જ?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "શા માટે"
+    },
+    {
+      "surface": "זה",
+      "gloss": "આ"
+    },
+    {
+      "surface": "מחיר",
+      "gloss": "મૂલ્ય"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "હાથમાં"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "મૂર્ખના"
+    },
+    {
+      "surface": "לקנות",
+      "gloss": "ખરીદવા"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "જ્ઞાન"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "અને બુદ્ધિ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "નથી"
+    }
+  ],
+  "timestamp": "2026-08-21T16:57:59.630498173Z",
+  "model": "glm-5.3"
+}

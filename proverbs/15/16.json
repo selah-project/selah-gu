@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 15:16",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 15,
+  "translation": "યાહવેના ભયમાં થોડું સારું છે, વિપુલ ભંડાર કરતાં — અને તેમાં ખલેલ સાથે.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "સારું છે"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "થોડું"
+    },
+    {
+      "surface": "ביראת",
+      "gloss": "ભયમાં"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવેના"
+    },
+    {
+      "surface": "מאוצר",
+      "gloss": "ભંડાર કરતાં"
+    },
+    {
+      "surface": "רב",
+      "gloss": "વિપુલ"
+    },
+    {
+      "surface": "ומהומה",
+      "gloss": "અને ખલેલ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "તેમાં"
+    }
+  ],
+  "timestamp": "2026-08-21T16:57:32.296166009Z",
+  "model": "glm-5.3"
+}

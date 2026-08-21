@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 4:35",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 4,
+  "translation": "અને યોએલ, અને યિહૂ — યોશિબયાહનો પુત્ર, સરાયાહનો પુત્ર, અસિએલનો પુત્ર.",
+  "tokens": [
+    {
+      "surface": "ויואל",
+      "gloss": "અને યોએલ"
+    },
+    {
+      "surface": "ויהוא",
+      "gloss": "અને યિહૂ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "પુત્ર"
+    },
+    {
+      "surface": "יושביה",
+      "gloss": "યોશિબયાહનો"
+    },
+    {
+      "surface": "בן",
+      "gloss": "પુત્ર"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "સરાયાહનો"
+    },
+    {
+      "surface": "בן",
+      "gloss": "પુત્ર"
+    },
+    {
+      "surface": "עשיאל",
+      "gloss": "અસિએલનો"
+    }
+  ],
+  "timestamp": "2026-08-21T18:01:32.043734892Z",
+  "model": "glm-5.3"
+}

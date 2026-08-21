@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 24:11",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 24,
+  "translation": "નવમો યેશુઆ માટે, દસમો શેખન્યાહ માટે.",
+  "tokens": [
+    {
+      "surface": "לישוע",
+      "gloss": "યેશુઆ માટે"
+    },
+    {
+      "surface": "התשעי",
+      "gloss": "નવમો"
+    },
+    {
+      "surface": "לשכניהו",
+      "gloss": "શેખન્યાહ માટે"
+    },
+    {
+      "surface": "העשרי",
+      "gloss": "દસમો"
+    }
+  ],
+  "timestamp": "2026-08-21T18:10:45.406298289Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 21:6",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 21,
+  "translation": "તારા તારણમાં તેનો તેજ મહાન ⟨છે⟩; તેજ અને વૈભવ તું તેના પર ધરે છે.",
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "મહાન"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "તેનો તેજ"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "તારા તારણમાં"
+    },
+    {
+      "surface": "הוד",
+      "gloss": "તેજ"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "અને વૈભવ"
+    },
+    {
+      "surface": "תשוה",
+      "gloss": "તું ધરે છે"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "તેના પર"
+    }
+  ],
+  "timestamp": "2026-08-21T16:15:18.862374843Z",
+  "model": "glm-5.3"
+}

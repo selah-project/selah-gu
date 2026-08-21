@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "lamentations 3:41",
+  "book": "lamentations",
+  "lang": "gu",
+  "chapter": 3,
+  "translation": "અમે અમારું હૃદય હાથો તરફ ઊંચું ઉઠાવીએ, આકાશમાં ⟨રહેલા⟩ એલ તરફ.",
+  "tokens": [
+    {
+      "surface": "נשא",
+      "gloss": "ઊંચું ઉઠાવીએ"
+    },
+    {
+      "surface": "לבבנו",
+      "gloss": "અમારું હૃદય"
+    },
+    {
+      "surface": "אל",
+      "gloss": "તરફ"
+    },
+    {
+      "surface": "כפים",
+      "gloss": "હાથો"
+    },
+    {
+      "surface": "אל",
+      "gloss": "તરફ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "એલ"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "આકાશમાં"
+    }
+  ],
+  "timestamp": "2026-08-21T17:25:34.244534525Z",
+  "model": "glm-5.3"
+}

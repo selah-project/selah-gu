@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 4:27",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 4,
+  "translation": "જમણી તરફ ઝુકતો નહીં, ડાબી તરફ નહીં; તારો પગ દુષ્ટતાથી દૂર હટાવ.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "תט",
+      "gloss": "ઝુકતો"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "જમણી તરફ"
+    },
+    {
+      "surface": "ושמאול",
+      "gloss": "અને ડાબી તરફ"
+    },
+    {
+      "surface": "הסר",
+      "gloss": "દૂર હટાવ"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "તારો પગ"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "દુષ્ટતાથી"
+    }
+  ],
+  "timestamp": "2026-08-21T16:51:33.279698246Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 24:12",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 24,
+  "translation": "અગિયારમો એલ્યાશીવ માટે, બારમો યાકીમ માટે.",
+  "tokens": [
+    {
+      "surface": "לאלישיב",
+      "gloss": "એલ્યાશીવ માટે"
+    },
+    {
+      "surface": "עשתי",
+      "gloss": "અગિયાર…"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "…મો"
+    },
+    {
+      "surface": "ליקים",
+      "gloss": "યાકીમ માટે"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "બાર…"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "…મો"
+    }
+  ],
+  "timestamp": "2026-08-21T18:10:45.406400239Z",
+  "model": "glm-5.3"
+}

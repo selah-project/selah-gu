@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 26:18",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 26,
+  "translation": "આ છે ગાદનાં પુત્રોનાં કુળો, તેમની ગણતરી પ્રમાણે — ચાલીસ હજાર અને પાંચસો.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "આ"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "કુળો"
+    },
+    {
+      "surface": "בני",
+      "gloss": "પુત્રોનાં"
+    },
+    {
+      "surface": "גד",
+      "gloss": "ગાદ"
+    },
+    {
+      "surface": "לפקדיהם",
+      "gloss": "તેમની ગણતરી પ્રમાણે"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "ચાલીસ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "હજાર"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "અને પાંચ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "સો"
+    }
+  ],
+  "timestamp": "2026-08-21T12:04:36.097937970Z",
+  "model": "glm-5.3"
+}

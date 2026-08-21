@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "proverbs 6:35",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 6,
+  "translation": "તે કોઈ પણ મુકવાની રકમનો ચહેરો ⟨ગ્રહણ⟩ નહીં કરે, અને તે રાજી નહીં થાય, ભલે તું લાંચ વધારે.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "ઉઠાવે"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ચહેરો"
+    },
+    {
+      "surface": "כל",
+      "gloss": "કોઈ પણ"
+    },
+    {
+      "surface": "כפר",
+      "gloss": "મુકવાની રકમ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "અને નહીં"
+    },
+    {
+      "surface": "יאבה",
+      "gloss": "રાજી થાય"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ભલે"
+    },
+    {
+      "surface": "תרבה",
+      "gloss": "વધારે"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "લાંચ"
+    }
+  ],
+  "timestamp": "2026-08-21T16:53:16.764532809Z",
+  "model": "glm-5.3"
+}

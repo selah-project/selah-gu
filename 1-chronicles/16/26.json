@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 16:26",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 16,
+  "translation": "કેમ કે સર્વ પ્રજાઓના એલોહીમ નિરર્થક છે, પરંતુ યાહવેએ આકાશો બનાવ્યાં.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "કેમ કે"
+    },
+    {
+      "surface": "כל",
+      "gloss": "સર્વ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "એલોહીમ"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "પ્રજાઓના"
+    },
+    {
+      "surface": "אלילים",
+      "gloss": "નિરર્થક"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "પરંતુ યાહવેએ"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "આકાશો"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "બનાવ્યાં"
+    }
+  ],
+  "timestamp": "2026-08-21T18:06:26.480840880Z",
+  "model": "glm-5.3"
+}

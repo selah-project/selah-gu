@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 4:16",
+  "book": "1-kings",
+  "lang": "gu",
+  "chapter": 4,
+  "translation": "બાઆના હૂશાઇનો પુત્ર આશેરમાં અને બઆલોતમાં ⟨હતો⟩.",
+  "tokens": [
+    {
+      "surface": "בענא",
+      "gloss": "બાઆના"
+    },
+    {
+      "surface": "בן",
+      "gloss": "પુત્ર"
+    },
+    {
+      "surface": "חושי",
+      "gloss": "હૂશાઇનો"
+    },
+    {
+      "surface": "באשר",
+      "gloss": "આશેરમાં"
+    },
+    {
+      "surface": "ובעלות",
+      "gloss": "અને બઆલોતમાં"
+    }
+  ],
+  "timestamp": "2026-08-21T13:36:28.287675166Z",
+  "model": "glm-5.3"
+}

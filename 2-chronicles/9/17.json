@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 9:17",
+  "book": "2-chronicles",
+  "lang": "gu",
+  "chapter": 9,
+  "translation": "અને રાજાએ હાથીદાંતનું મહાન સિંહાસન બનાવ્યું અને તેને શુદ્ધ સોનાથી મઢ્યું.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "અને બનાવ્યું"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "રાજાએ"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "સિંહાસન"
+    },
+    {
+      "surface": "שן",
+      "gloss": "હાથીદાંતનું"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "મહાન"
+    },
+    {
+      "surface": "ויצפהו",
+      "gloss": "અને તેને મઢ્યું"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "સોનાથી"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "શુદ્ધ"
+    }
+  ],
+  "timestamp": "2026-08-21T18:18:50.660705375Z",
+  "model": "glm-5.3"
+}

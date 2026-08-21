@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 24:9",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 24,
+  "translation": "પાંચમો મલ્ખીયાહ માટે, છઠ્ઠો મીયામીન માટે.",
+  "tokens": [
+    {
+      "surface": "למלכיה",
+      "gloss": "મલ્ખીયાહ માટે"
+    },
+    {
+      "surface": "החמישי",
+      "gloss": "પાંચમો"
+    },
+    {
+      "surface": "למימן",
+      "gloss": "મીયામીન માટે"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "છઠ્ઠો"
+    }
+  ],
+  "timestamp": "2026-08-21T18:10:45.405913756Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 10:9",
+  "book": "ecclesiastes",
+  "lang": "gu",
+  "chapter": 10,
+  "translation": "પથ્થરો ખસેડનાર તેથી પીડાશે; લાકડાં ફાડનાર તેમાં જોખમ વહોરશે.",
+  "tokens": [
+    {
+      "surface": "מסיע",
+      "gloss": "ખસેડનાર"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "પથ્થરો"
+    },
+    {
+      "surface": "יעצב",
+      "gloss": "પીડાશે"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "તેથી"
+    },
+    {
+      "surface": "בוקע",
+      "gloss": "ફાડનાર"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "લાકડાં"
+    },
+    {
+      "surface": "יסכן",
+      "gloss": "જોખમ વહોરશે"
+    },
+    {
+      "surface": "בם",
+      "gloss": "તેમાં"
+    }
+  ],
+  "timestamp": "2026-08-21T17:30:22.857666494Z",
+  "model": "glm-5.3"
+}

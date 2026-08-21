@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "1-chronicles 2:48",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 2,
+  "translation": "કાલેબની ઉપપત્ની માઅખાએ શેબેરને અને ⟨את⟩ તિરહાનાને જન્મ આપ્યો.",
+  "tokens": [
+    {
+      "surface": "פלגש",
+      "gloss": "ઉપપત્ની"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "કાલેબની"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "માઅખાએ"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "જન્મ આપ્યો"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "શેબેરને"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "તિરહાનાને"
+    },
+    {
+      "surface": "תרחנה",
+      "gloss": "તિરહાના"
+    }
+  ],
+  "timestamp": "2026-08-21T17:59:42.551839404Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 106:22",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 106,
+  "translation": "ખામના દેશમાં અદ્ભુત કાર્યો, સુફના સમુદ્ર પર ભયજનક કાર્યો.",
+  "tokens": [
+    {
+      "surface": "נפלאות",
+      "gloss": "અદ્ભુત કાર્યો"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "દેશમાં"
+    },
+    {
+      "surface": "חם",
+      "gloss": "ખામના"
+    },
+    {
+      "surface": "נוראות",
+      "gloss": "ભયજનક કાર્યો"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "ים",
+      "gloss": "સમુદ્ર"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "સુફના"
+    }
+  ],
+  "timestamp": "2026-08-21T16:39:57.173912238Z",
+  "model": "glm-5.3"
+}

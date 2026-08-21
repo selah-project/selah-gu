@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "lamentations 3:39",
+  "book": "lamentations",
+  "lang": "gu",
+  "chapter": 3,
+  "translation": "જીવતો માણસ શા માટે ફરિયાદ કરે, પુરુષ પોતાના પાપના દંડ વિશે?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "શા માટે"
+    },
+    {
+      "surface": "יתאונן",
+      "gloss": "ફરિયાદ કરે"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "માણસ"
+    },
+    {
+      "surface": "חי",
+      "gloss": "જીવતો"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "પુરુષ"
+    },
+    {
+      "surface": "על",
+      "gloss": "વિશે"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "પોતાના પાપના દંડ"
+    }
+  ],
+  "timestamp": "2026-08-21T17:25:37.885347763Z",
+  "model": "glm-5.3"
+}

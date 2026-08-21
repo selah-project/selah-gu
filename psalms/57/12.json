@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 57:12",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 57,
+  "translation": "ઊંચા થાઓ, હે એલોહીમ, આકાશોથી ઉપર; સમગ્ર ⟨the⟩ પૃથ્વી પર તમારો મહિમા!",
+  "tokens": [
+    {
+      "surface": "רומה",
+      "gloss": "ઊંચા થાઓ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ઉપર"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "આકાશો"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "એલોહીમ"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "כל",
+      "gloss": "સમગ્ર"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "પૃથ્વી"
+    },
+    {
+      "surface": "כבודך",
+      "gloss": "તમારો મહિમા"
+    }
+  ],
+  "timestamp": "2026-08-21T16:24:27.792608264Z",
+  "model": "glm-5.3"
+}

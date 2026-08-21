@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 6:1",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 6,
+  "translation": "લેવીના પુત્રો: ગેરશોમ, કહાત અને મેરારી.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "લેવીના"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "ગેરશોમ"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "કહાત"
+    },
+    {
+      "surface": "ומררי",
+      "gloss": "અને મેરારી"
+    }
+  ],
+  "timestamp": "2026-08-21T18:02:17.663193219Z",
+  "model": "glm-5.3"
+}

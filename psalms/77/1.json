@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 77:1",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 77,
+  "translation": "મુખ્ય સંગીતકાર માટે, યદૂતૂન પ્રમાણે; આસાફની મઝમૂર.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "મુખ્ય સંગીતકાર માટે"
+    },
+    {
+      "surface": "על",
+      "gloss": "પ્રમાણે"
+    },
+    {
+      "surface": "ידיתון",
+      "gloss": "યદૂતૂન"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "આસાફ માટે"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "મઝમૂર"
+    }
+  ],
+  "timestamp": "2026-08-21T16:31:17.221657525Z",
+  "model": "glm-5.3"
+}

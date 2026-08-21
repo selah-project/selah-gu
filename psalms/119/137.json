@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 137,
+  "ref": "psalms 119:137",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 119,
+  "translation": "તું ન્યાયી છે, હે યાહવે, અને તારા મિશપાત ⟨છે⟩ સાચા.",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "ન્યાયી"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "તું"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "અને સાચા"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "તારા મિશપાત"
+    }
+  ],
+  "timestamp": "2026-08-21T18:57:37.969192814Z",
+  "model": "glm-5.3"
+}

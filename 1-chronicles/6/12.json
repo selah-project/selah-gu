@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 6:12",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 6,
+  "translation": "એલીઆબ ⟨તેનો⟩ પુત્ર, યેરોખામ ⟨તેનો⟩ પુત્ર, એલકાના ⟨તેનો⟩ પુત્ર.",
+  "tokens": [
+    {
+      "surface": "אליאב",
+      "gloss": "એલીઆબ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "⟨તેનો⟩ પુત્ર"
+    },
+    {
+      "surface": "ירחם",
+      "gloss": "યેરોખામ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "⟨તેનો⟩ પુત્ર"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "એલકાના"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "⟨તેનો⟩ પુત્ર"
+    }
+  ],
+  "timestamp": "2026-08-21T18:02:05.323036903Z",
+  "model": "glm-5.3"
+}

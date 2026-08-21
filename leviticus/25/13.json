@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 25:13",
+  "book": "leviticus",
+  "lang": "gu",
+  "chapter": 25,
+  "translation": "આ યોવેલનાં વર્ષમાં તમે પાછા વળશો — દરેક માણસ ⟨પોતાની⟩ પોતાની વસાહત તરફ.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "…નાં વર્ષમાં"
+    },
+    {
+      "surface": "היובל",
+      "gloss": "યોવેલનાં"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "આ"
+    },
+    {
+      "surface": "תשבו",
+      "gloss": "તમે પાછા વળશો"
+    },
+    {
+      "surface": "איש",
+      "gloss": "દરેક માણસ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "તરફ"
+    },
+    {
+      "surface": "אחזתו",
+      "gloss": "પોતાની વસાહત"
+    }
+  ],
+  "timestamp": "2026-08-21T11:45:23.885329735Z",
+  "model": "glm-5.3"
+}

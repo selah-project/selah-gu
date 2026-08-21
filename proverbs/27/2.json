@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 27:2",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 27,
+  "translation": "પરાયો તારી પ્રશંસા કરે, અને તારો મુખ નહીં; અજાણીયો, અને તારા હોઠ નહીં.",
+  "tokens": [
+    {
+      "surface": "יהללך",
+      "gloss": "તારી પ્રશંસા કરે"
+    },
+    {
+      "surface": "זר",
+      "gloss": "પરાયો"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "અને નહીં"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "તારો મુખ"
+    },
+    {
+      "surface": "נכרי",
+      "gloss": "અજાણીયો"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "અને નહીં"
+    },
+    {
+      "surface": "שפתיך",
+      "gloss": "તારા હોઠ"
+    }
+  ],
+  "timestamp": "2026-08-21T17:02:30.485193565Z",
+  "model": "glm-5.3"
+}

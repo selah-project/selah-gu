@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 22:30",
+  "book": "leviticus",
+  "lang": "gu",
+  "chapter": 22,
+  "translation": "તે જ દિવસે તે ખવડાય; સવાર સુધી તેમાંથી કંઈ બાકી રાખશો નહીં; હું યાહવે છું.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "તે જ દિવસે"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "તે"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "તે ખવડાય"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "תותירו",
+      "gloss": "બાકી રાખશો"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "તેમાંથી કંઈ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "સુધી"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "સવાર"
+    },
+    {
+      "surface": "אני",
+      "gloss": "હું"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    }
+  ],
+  "timestamp": "2026-08-21T11:42:23.002809401Z",
+  "model": "glm-5.3"
+}

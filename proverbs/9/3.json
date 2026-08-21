@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 9:3",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 9,
+  "translation": "તેણીએ પોતાનીઓ દાસીઓ મોકલી; તે નગરનાં ઊંચા સ્થાનો પર પોકાર કરે છે —",
+  "tokens": [
+    {
+      "surface": "שלחה",
+      "gloss": "મોકલી"
+    },
+    {
+      "surface": "נערתיה",
+      "gloss": "પોતાની દાસીઓ"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "પોકાર કરે છે"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "גפי",
+      "gloss": "—"
+    },
+    {
+      "surface": "מרמי",
+      "gloss": "ઊંચા સ્થાનો"
+    },
+    {
+      "surface": "קרת",
+      "gloss": "નગર"
+    }
+  ],
+  "timestamp": "2026-08-21T16:54:39.965885031Z",
+  "model": "glm-5.3"
+}

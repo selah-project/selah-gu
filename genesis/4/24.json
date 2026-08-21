@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 4:24",
+  "book": "genesis",
+  "lang": "gu",
+  "chapter": 4,
+  "translation": "કેમ કે કૈન માટે સાતગણો બદલો લેવાશે, પણ લેમેખ માટે સિત્તાવન અને સાત.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "કેમ કે"
+    },
+    {
+      "surface": "שבעתים",
+      "gloss": "સાતગણો"
+    },
+    {
+      "surface": "יקם",
+      "gloss": "બદલો લેવાશે"
+    },
+    {
+      "surface": "קין",
+      "gloss": "કૈન"
+    },
+    {
+      "surface": "ולמך",
+      "gloss": "પણ લેમેખ"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "સિત્તાવન"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "અને સાત"
+    }
+  ],
+  "timestamp": "2026-08-21T10:38:24.979232896Z",
+  "model": "glm-5.3"
+}

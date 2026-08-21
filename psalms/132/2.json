@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 132:2",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 132,
+  "translation": "જેણે યાહવેને સોગંદ ખાધો, યાકોબના બળવાનને પ્રતિજ્ઞા કરી:",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "જેણે"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "સોગંદ ખાધો"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "યાહવેને"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "પ્રતિજ્ઞા કરી"
+    },
+    {
+      "surface": "לאביר",
+      "gloss": "બળવાનને"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "યાકોબના"
+    }
+  ],
+  "timestamp": "2026-08-21T16:46:26.520360248Z",
+  "model": "glm-5.3"
+}

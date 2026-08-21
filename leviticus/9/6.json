@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 9:6",
+  "book": "leviticus",
+  "lang": "gu",
+  "chapter": 9,
+  "translation": "અને મોશેએ કહ્યું, “આ ⟨is⟩ ⟨the⟩ વચન જે યાહવેએ આજ્ઞા કર્યું છે; તમે તે કરો, અને યાહવેનો તેજ તમને દેખાશે.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "અને કહ્યું"
+    },
+    {
+      "surface": "משה",
+      "gloss": "મોશેએ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "આ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "વચન"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જે"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "આજ્ઞા કર્યું છે"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવેએ"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "તમે કરો"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "અને દેખાશે"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "તમને"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "તેજ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવેનો"
+    }
+  ],
+  "timestamp": "2026-08-21T11:34:30.563837116Z",
+  "model": "glm-5.3"
+}

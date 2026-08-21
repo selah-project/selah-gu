@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 19:13",
+  "book": "deuteronomy",
+  "lang": "gu",
+  "chapter": 19,
+  "translation": "તારી આંખ તેના પર દયા ન કરે, અને તું ઇસ્રાએલમાંથી નિર્દોષનું લોહી દૂર કર, જેથી તને ભલું થાય.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "દયા કરે"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "તારી આંખ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "તેના પર"
+    },
+    {
+      "surface": "ובערת",
+      "gloss": "અને તું દૂર કર"
+    },
+    {
+      "surface": "דם",
+      "gloss": "લોહી"
+    },
+    {
+      "surface": "הנקי",
+      "gloss": "નિર્દોષનું"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "ઇસ્રાએલમાંથી"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "અને ભલું"
+    },
+    {
+      "surface": "לך",
+      "gloss": "તને"
+    }
+  ],
+  "timestamp": "2026-08-21T12:23:06.257463246Z",
+  "model": "glm-5.3"
+}

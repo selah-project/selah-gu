@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 17:6",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 17,
+  "translation": "વૃદ્ધોનો તાજ એટલે પૌત્રો, અને પુત્રોનો તેજ એટલે ⟨તેમના⟩ પિતા.",
+  "tokens": [
+    {
+      "surface": "עטרת",
+      "gloss": "તાજ"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "વૃદ્ધોનો"
+    },
+    {
+      "surface": "בני",
+      "gloss": "પુત્રોના"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "ותפארת",
+      "gloss": "અને તેજ"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "પુત્રોનો"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "તેમના પિતા"
+    }
+  ],
+  "timestamp": "2026-08-21T16:57:55.575900143Z",
+  "model": "glm-5.3"
+}

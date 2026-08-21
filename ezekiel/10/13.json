@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ezekiel 10:13",
+  "book": "ezekiel",
+  "lang": "gu",
+  "chapter": 10,
+  "translation": "ચક્રો પ્રતિ — તેમને મારા કાને કૂત્કાળાયું: “ચક્ર!”",
+  "tokens": [
+    {
+      "surface": "לאופנים",
+      "gloss": "ચક્રો પ્રતિ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "તેમને"
+    },
+    {
+      "surface": "קורא",
+      "gloss": "કૂત્કાળાયું"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "“ચક્ર!”"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "મારા કાને"
+    }
+  ],
+  "timestamp": "2026-08-21T15:21:16.153913748Z",
+  "model": "glm-5.3"
+}

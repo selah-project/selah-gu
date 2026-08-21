@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 85:8",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 85,
+  "translation": "અમને બતાવો, યાહવે, તમારો હેસેદ, અને તમારો મુક્તિ અમને આપો.",
+  "tokens": [
+    {
+      "surface": "הראנו",
+      "gloss": "અમને બતાવો"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "તમારો હેસેદ"
+    },
+    {
+      "surface": "וישעך",
+      "gloss": "અને તમારો મુક્તિ"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "આપો"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "અમને"
+    }
+  ],
+  "timestamp": "2026-08-21T16:34:26.518059275Z",
+  "model": "glm-5.3"
+}

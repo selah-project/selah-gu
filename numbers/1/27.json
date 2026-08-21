@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "numbers 1:27",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 1,
+  "translation": "તેમની ગણતરી-પાત્રો યહૂદાના કુળ માટે: ચાર અને સિત્તેર હજાર અને છ સો.",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "તેમની ગણતરી-પાત્રો"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "કુળ માટે"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "યહૂદા"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "ચાર"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "અને સિત્તેર"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "હજાર"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "અને છ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "સો"
+    }
+  ],
+  "timestamp": "2026-08-21T11:47:42.668481925Z",
+  "model": "glm-5.3"
+}

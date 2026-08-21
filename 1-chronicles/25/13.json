@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 25:13",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 25,
+  "translation": "છઠ્ઠો બુક્કિયાહુ, તેનાં પુત્રો અને તેના ભાઈઓ — બારઃ",
+  "tokens": [
+    {
+      "surface": "הששי",
+      "gloss": "છઠ્ઠો"
+    },
+    {
+      "surface": "בקיהו",
+      "gloss": "બુક્કિયાહુ"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "તેનાં પુત્રો"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "અને તેના ભાઈઓ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "બે"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "દસ (બાર)"
+    }
+  ],
+  "timestamp": "2026-08-21T18:11:33.996950472Z",
+  "model": "glm-5.3"
+}

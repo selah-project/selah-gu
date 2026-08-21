@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zechariah 3:6",
+  "book": "zechariah",
+  "lang": "gu",
+  "chapter": 3,
+  "translation": "અને યાહવેના દૂતે યહોશુઆને ચેતવણી આપી, કહેતા,",
+  "tokens": [
+    {
+      "surface": "ויעד",
+      "gloss": "અને ચેતવણી આપી"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "દૂત"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવેના"
+    },
+    {
+      "surface": "ביהושע",
+      "gloss": "યહોશુઆને"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "કહેતા"
+    }
+  ],
+  "timestamp": "2026-08-21T16:06:07.018687708Z",
+  "model": "glm-5.3"
+}

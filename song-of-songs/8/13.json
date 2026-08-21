@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "song-of-songs 8:13",
+  "book": "song-of-songs",
+  "lang": "gu",
+  "chapter": 8,
+  "translation": "બગીચાઓમાં વસનારી, સાથીઓ તારા અવાજ ⟨માટે⟩ કાન ધરે છે; મને સંભળાવ.",
+  "tokens": [
+    {
+      "surface": "היושבת",
+      "gloss": "વસનારી"
+    },
+    {
+      "surface": "בגנים",
+      "gloss": "બગીચાઓમાં"
+    },
+    {
+      "surface": "חברים",
+      "gloss": "સાથીઓ"
+    },
+    {
+      "surface": "מקשיבים",
+      "gloss": "કાન ધરે છે"
+    },
+    {
+      "surface": "לקולך",
+      "gloss": "તારા અવાજ માટે"
+    },
+    {
+      "surface": "השמיעיני",
+      "gloss": "મને સંભળાવ"
+    }
+  ],
+  "timestamp": "2026-08-21T17:22:39.297250047Z",
+  "model": "glm-5.3"
+}

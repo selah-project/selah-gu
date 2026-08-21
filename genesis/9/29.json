@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "genesis 9:29",
+  "book": "genesis",
+  "lang": "gu",
+  "chapter": 9,
+  "translation": "અને નોહાનાં બધાં દિવસો નવસો પચાસ વર્ષ ⟨થયાં⟩, અને તે મરી ગયો.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "⟨થયાં⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "બધાં"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "દિવસો"
+    },
+    {
+      "surface": "נח",
+      "gloss": "નોહાનાં"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "નવ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "સો"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "વર્ષ"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "અને પચાસ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "વર્ષ"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "અને તે મરી ગયો"
+    }
+  ],
+  "timestamp": "2026-08-21T10:38:37.065450195Z",
+  "model": "glm-5.3"
+}

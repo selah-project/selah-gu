@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 20:8",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 20,
+  "translation": "ન્યાયના સિંહાસન પર બિરાજતો રાજા પોતાની આંખોથી બધી દુષ્ટતાને વિખેરી નાખે છે.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "રાજા"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "બિરાજતો"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "સિંહાસન"
+    },
+    {
+      "surface": "דין",
+      "gloss": "ન્યાયના"
+    },
+    {
+      "surface": "מזרה",
+      "gloss": "વિખેરી નાખે છે"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "પોતાની આંખોથી"
+    },
+    {
+      "surface": "כל",
+      "gloss": "બધી"
+    },
+    {
+      "surface": "רע",
+      "gloss": "દુષ્ટતાને"
+    }
+  ],
+  "timestamp": "2026-08-21T16:58:55.034790145Z",
+  "model": "glm-5.3"
+}

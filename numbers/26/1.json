@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 26:1",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 26,
+  "translation": "અને યાહવેએ મોશે અને કહેન અહરોનના પુત્ર એલઆઝારને કહ્યું, લખતા:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "અને કહ્યું"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવેએ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ને"
+    },
+    {
+      "surface": "משה",
+      "gloss": "મોશે"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "અને ને"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "એલઆઝાર"
+    },
+    {
+      "surface": "בן",
+      "gloss": "પુત્ર"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "અહરોનના"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "કહેન"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "લખતા"
+    }
+  ],
+  "timestamp": "2026-08-21T12:05:15.768993502Z",
+  "model": "glm-5.3"
+}

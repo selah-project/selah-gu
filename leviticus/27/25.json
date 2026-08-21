@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 27:25",
+  "book": "leviticus",
+  "lang": "gu",
+  "chapter": 27,
+  "translation": "અને તારું બધું મૂલ્યાંકન પવિત્ર શેકેલ પ્રમાણે થશે; વીસ ગેરા એ ⟨the⟩ શેકેલ થશે.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "અને બધું"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "તારું મૂલ્યાંકન"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "થશે"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "શેકેલ પ્રમાણે"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "પવિત્ર"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "વીસ"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "ગેરા"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "થશે"
+    },
+    {
+      "surface": "השקל",
+      "gloss": "⟨the⟩ શેકેલ"
+    }
+  ],
+  "timestamp": "2026-08-21T11:48:12.737932451Z",
+  "model": "glm-5.3"
+}

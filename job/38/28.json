@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "job 38:28",
+  "book": "job",
+  "lang": "gu",
+  "chapter": 38,
+  "translation": "શું વરસાદને પિતા છે? અથવા ઓસનાં ટીપાંને કોણે જન્મ આપ્યો?",
+  "tokens": [
+    {
+      "surface": "היש",
+      "gloss": "શું છે"
+    },
+    {
+      "surface": "למטר",
+      "gloss": "વરસાદને"
+    },
+    {
+      "surface": "אב",
+      "gloss": "પિતા"
+    },
+    {
+      "surface": "או",
+      "gloss": "અથવા"
+    },
+    {
+      "surface": "מי",
+      "gloss": "કોણે"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "જન્મ આપ્યો"
+    },
+    {
+      "surface": "אגלי",
+      "gloss": "ટીપાં"
+    },
+    {
+      "surface": "טל",
+      "gloss": "ઓસ"
+    }
+  ],
+  "timestamp": "2026-08-21T17:18:55.228326528Z",
+  "model": "glm-5.3"
+}

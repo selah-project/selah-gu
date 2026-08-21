@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 22:18",
+  "book": "deuteronomy",
+  "lang": "gu",
+  "chapter": 22,
+  "translation": "અને તે નગરના વડીલો ⟨את⟩ તે પુરુષને પકડશે અને તેને શિક્ષા આપશે.",
+  "tokens": [
+    {
+      "surface": "ולקחו",
+      "gloss": "અને પકડશે"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "વડીલો"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "નગરના"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "તે"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "તે પુરુષને"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "પુરુષને"
+    },
+    {
+      "surface": "ויסרו",
+      "gloss": "અને શિક્ષા આપશે"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "તેને"
+    }
+  ],
+  "timestamp": "2026-08-21T12:25:09.232971129Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 38:7",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 38,
+  "translation": "હું વાંકી થઈ ગઈ છું, અત્યંત નમી ગઈ છું; આખો દિવસ હું શોક-મૂક ફરું છું.",
+  "tokens": [
+    {
+      "surface": "נעויתי",
+      "gloss": "હું વાંકી થઈ ગઈ છું"
+    },
+    {
+      "surface": "שחתי",
+      "gloss": "નમી ગઈ છું"
+    },
+    {
+      "surface": "עד",
+      "gloss": "અત્યંત"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "અતિ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "આખો"
+    },
+    {
+      "surface": "היום",
+      "gloss": "દિવસ"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "શોક-મૂક"
+    },
+    {
+      "surface": "הלכתי",
+      "gloss": "ફરું છું"
+    }
+  ],
+  "timestamp": "2026-08-21T16:20:36.854774807Z",
+  "model": "glm-5.3"
+}

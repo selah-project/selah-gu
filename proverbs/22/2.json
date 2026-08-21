@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 22:2",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 22,
+  "translation": "ધનિક અને દરિદ્રી એકબીજાને મળે છે; તે બધાને બનાવનાર યાહવે ⟨is⟩.",
+  "tokens": [
+    {
+      "surface": "עשיר",
+      "gloss": "ધનિક"
+    },
+    {
+      "surface": "ורש",
+      "gloss": "અને દરિદ્રી"
+    },
+    {
+      "surface": "נפגשו",
+      "gloss": "એકબીજાને મળે છે"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "બનાવનાર"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "તે બધાને"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    }
+  ],
+  "timestamp": "2026-08-21T17:00:06.719818577Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 1:27",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 1,
+  "translation": "અવ્રામ — એ ⟨એ⟩ અવ્રાહામ ⟨છે⟩.",
+  "tokens": [
+    {
+      "surface": "אברם",
+      "gloss": "અવ્રામ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "એ"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "અવ્રાહામ"
+    }
+  ],
+  "timestamp": "2026-08-21T17:58:55.239236889Z",
+  "model": "glm-5.3"
+}

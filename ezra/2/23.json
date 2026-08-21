@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezra 2:23",
+  "book": "ezra",
+  "lang": "gu",
+  "chapter": 2,
+  "translation": "અનાતોતના માણસો, સો વીસ અને આઠ.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "માણસો"
+    },
+    {
+      "surface": "ענתות",
+      "gloss": "અનાતોત"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "સો"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "વીસ"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "અને આઠ"
+    }
+  ],
+  "timestamp": "2026-08-21T17:45:04.012568167Z",
+  "model": "glm-5.3"
+}

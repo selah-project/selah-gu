@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 1:8",
+  "book": "ecclesiastes",
+  "lang": "gu",
+  "chapter": 1,
+  "translation": "બધી વાતો થકાવનારી છે; ⟨એક⟩ માણસ ⟨એ⟩ બોલી શકતું નથી; આંખ જોવાથી તૃપ્ત થતી નથી, અને કાન સાંભળવાથી ભરાતું નથી.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "બધી"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "વાતો"
+    },
+    {
+      "surface": "יגעים",
+      "gloss": "થકાવનારી છે"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નથી"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "શકતું"
+    },
+    {
+      "surface": "איש",
+      "gloss": "માણસ"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "બોલી"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નથી"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "તૃપ્ત થતી"
+    },
+    {
+      "surface": "עין",
+      "gloss": "આંખ"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "જોવાથી"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "અને…નથી"
+    },
+    {
+      "surface": "תמלא",
+      "gloss": "ભરાતું"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "કાન"
+    },
+    {
+      "surface": "משמע",
+      "gloss": "સાંભળવાથી"
+    }
+  ],
+  "timestamp": "2026-08-21T17:29:35.014785035Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 17:1",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 17,
+  "translation": "અને યાહવેએ મોશેને કહ્યું, તે કહે છે:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "અને કહ્યું"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવેએ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ને"
+    },
+    {
+      "surface": "משה",
+      "gloss": "મોશેને"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "તે કહે છે"
+    }
+  ],
+  "timestamp": "2026-08-21T12:00:18.050865999Z",
+  "model": "glm-5.3"
+}

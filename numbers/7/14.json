@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 7:14",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 7,
+  "translation": "એક સોનાની કચોળી, દસ ⟨શેકેલ⟩, કેતોરેતથી ભરેલી.",
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "કચોળી"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "એક"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "દસ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "સોનાની"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "ભરેલી"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "કેતોરેતથી"
+    }
+  ],
+  "timestamp": "2026-08-21T11:50:55.859614129Z",
+  "model": "glm-5.3"
+}

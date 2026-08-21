@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 108:13",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 108,
+  "translation": "અમને સંકટમાંથી સહાય આપ; કેમ કે માનવનો છોડાવો વ્યર્થ છે.",
+  "tokens": [
+    {
+      "surface": "הבה",
+      "gloss": "આપ"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "અમને"
+    },
+    {
+      "surface": "עזרת",
+      "gloss": "સહાય"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "સંકટમાંથી"
+    },
+    {
+      "surface": "ושוא",
+      "gloss": "અને વ્યર્થ"
+    },
+    {
+      "surface": "תשועת",
+      "gloss": "છોડાવો"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "માનવનો"
+    }
+  ],
+  "timestamp": "2026-08-21T16:40:41.766835385Z",
+  "model": "glm-5.3"
+}

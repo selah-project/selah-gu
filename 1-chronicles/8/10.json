@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 8:10",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 8,
+  "translation": "અને ⟨את⟩ યાઉત્સ, અને ⟨את⟩ શાખ્યા, અને ⟨את⟩ મિર્મા; આ ⟨તેના⟩ પુત્રો હતા, કુળોના મુખિયા.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "અને ⟨את⟩",
+      "marks": "યાઉત્સ"
+    },
+    {
+      "surface": "יעוץ",
+      "gloss": "યાઉત્સ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "અને ⟨את⟩",
+      "marks": "શાખ્યા"
+    },
+    {
+      "surface": "שכיה",
+      "gloss": "શાખ્યા"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "અને ⟨את⟩",
+      "marks": "મિર્મા"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "મિર્મા"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "આ"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "તેના પુત્રો"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "મુખિયા"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "કુળોના"
+    }
+  ],
+  "timestamp": "2026-08-21T18:02:51.809364537Z",
+  "model": "glm-5.3"
+}

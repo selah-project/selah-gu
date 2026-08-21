@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 4:15",
+  "book": "joshua",
+  "lang": "gu",
+  "chapter": 4,
+  "translation": "અને યાહવે યહોશુઆને બોલ્યો, કહેતા:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "અને…બોલ્યો"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "אל",
+      "gloss": "પ્રતિ"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "યહોશુઆને"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "કહેતા"
+    }
+  ],
+  "timestamp": "2026-08-21T12:32:59.366330969Z",
+  "model": "glm-5.3"
+}

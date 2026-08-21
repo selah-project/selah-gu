@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 28:24",
+  "book": "deuteronomy",
+  "lang": "gu",
+  "chapter": 28,
+  "translation": "યાહવે તારી જમીનનો ⟨את⟩ વરસાદ ધૂળકણ અને પાઉડર આપશે; આકાશમાંથી તે તારા પર ઊતરશે, જ્યાં સુધી તું નષ્ટ ન થાય.",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "આપશે"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "વરસાદ"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "વરસાદ"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "તારી જમીનનો"
+    },
+    {
+      "surface": "אבק",
+      "gloss": "ધૂળકણ"
+    },
+    {
+      "surface": "ועפר",
+      "gloss": "અને પાઉડર"
+    },
+    {
+      "surface": "מן",
+      "gloss": "માંથી"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "આકાશ"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "ઊતરશે"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "તારા પર"
+    },
+    {
+      "surface": "עד",
+      "gloss": "જ્યાં સુધી"
+    },
+    {
+      "surface": "השמדך",
+      "gloss": "તું નષ્ટ થાય"
+    }
+  ],
+  "timestamp": "2026-08-21T12:28:45.853782666Z",
+  "model": "glm-5.3"
+}

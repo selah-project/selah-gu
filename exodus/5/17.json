@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 5:17",
+  "book": "exodus",
+  "lang": "gu",
+  "chapter": 5,
+  "translation": "અને ⟨ફરાઓએ⟩ કહ્યું: તમે ઢીલા છો, ઢીલા! તેથી જ તમે કહો છો: ચાલો, યાહવેને બલિદાન કરીએ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "અને કહ્યું"
+    },
+    {
+      "surface": "נרפים",
+      "gloss": "ઢીલા"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "તમે"
+    },
+    {
+      "surface": "נרפים",
+      "gloss": "ઢીલા"
+    },
+    {
+      "surface": "על",
+      "gloss": "તેથી"
+    },
+    {
+      "surface": "כן",
+      "gloss": "જ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "તમે"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "કહો છો"
+    },
+    {
+      "surface": "נלכה",
+      "gloss": "ચાલો"
+    },
+    {
+      "surface": "נזבחה",
+      "gloss": "બલિદાન કરીએ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "યાહવેને"
+    }
+  ],
+  "timestamp": "2026-08-21T11:08:28.414467148Z",
+  "model": "glm-5.3"
+}

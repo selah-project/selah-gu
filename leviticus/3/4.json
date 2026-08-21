@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 3:4",
+  "book": "leviticus",
+  "lang": "gu",
+  "chapter": 3,
+  "translation": "અને ⟨את⟩ બંને કિડની, અને ⟨את⟩ તેની ઉપરની ચરબી જે કમર પર છે તે, અને ⟨את⟩ યકૃત પરની કલેજો — કિડની સાથે તે દૂર કરશે.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "બંને કિડની"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "બંને"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "કિડની"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ચરબી"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "ચરબી"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જે"
+    },
+    {
+      "surface": "עלהן",
+      "gloss": "તેની ઉપર"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જે"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "הכסלים",
+      "gloss": "કમર"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "કલેજો"
+    },
+    {
+      "surface": "היתרת",
+      "gloss": "કલેજો"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "યકૃત"
+    },
+    {
+      "surface": "על",
+      "gloss": "સાથે"
+    },
+    {
+      "surface": "הכליות",
+      "gloss": "કિડની"
+    },
+    {
+      "surface": "יסירנה",
+      "gloss": "દૂર કરશે"
+    }
+  ],
+  "timestamp": "2026-08-21T11:30:41.432908219Z",
+  "model": "glm-5.3"
+}

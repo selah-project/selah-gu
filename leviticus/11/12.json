@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 11:12",
+  "book": "leviticus",
+  "lang": "gu",
+  "chapter": 11,
+  "translation": "જેને પાણીમાં પખાલિયાં અને ભીંગડાં નથી, તે બધું તે તમારા માટે ઘૃણાસ્પદ છે.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "તે બધું"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જે"
+    },
+    {
+      "surface": "אין",
+      "gloss": "નથી"
+    },
+    {
+      "surface": "לו",
+      "gloss": "જેને"
+    },
+    {
+      "surface": "סנפיר",
+      "gloss": "પખાલિયાં"
+    },
+    {
+      "surface": "וקשקשת",
+      "gloss": "અને ભીંગડાં"
+    },
+    {
+      "surface": "במים",
+      "gloss": "પાણીમાં"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "ઘૃણાસ્પદ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "તે"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "તમારા માટે"
+    }
+  ],
+  "timestamp": "2026-08-21T11:33:58.151704727Z",
+  "model": "glm-5.3"
+}

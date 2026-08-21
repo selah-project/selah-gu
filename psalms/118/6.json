@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 118:6",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 118,
+  "translation": "યાહવે મારા માટે ⟨છે⟩; હું ડરીશ નહીં — માનવ મારું શું કરી શકે?",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "לי",
+      "gloss": "મારા માટે"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "ડરીશ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "શું"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "કરી શકે"
+    },
+    {
+      "surface": "לי",
+      "gloss": "મારું"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "માનવ"
+    }
+  ],
+  "timestamp": "2026-08-21T16:42:53.451994735Z",
+  "model": "glm-5.3"
+}

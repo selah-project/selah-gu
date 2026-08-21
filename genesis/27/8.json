@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 27:8",
+  "book": "genesis",
+  "lang": "gu",
+  "chapter": 27,
+  "translation": "અને હવે, મારા પુત્ર, મારો અવાજ સાંભળ, હું જે ⟨તને⟩ આદેશ આપું છું તે પ્રમાણે.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "અને હવે"
+    },
+    {
+      "surface": "בני",
+      "gloss": "મારા પુત્ર"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "સાંભળ"
+    },
+    {
+      "surface": "בקלי",
+      "gloss": "મારો અવાજ"
+    },
+    {
+      "surface": "לאשר",
+      "gloss": "તે પ્રમાણે"
+    },
+    {
+      "surface": "אני",
+      "gloss": "હું"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "આદેશ આપું છું"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "તને"
+    }
+  ],
+  "timestamp": "2026-08-21T10:50:24.131233728Z",
+  "model": "glm-5.3"
+}

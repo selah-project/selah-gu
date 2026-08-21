@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 7:4",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 7,
+  "translation": "યાહવે, મારા એલોહીમ, જો મેં આ કર્યું છે, જો મારા હાથોમાં અન્યાય છે —",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "મારા એલોહીમ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "જો"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "મેં કર્યું છે"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "આ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "જો"
+    },
+    {
+      "surface": "יש",
+      "gloss": "છે"
+    },
+    {
+      "surface": "עול",
+      "gloss": "અન્યાય"
+    },
+    {
+      "surface": "בכפי",
+      "gloss": "મારા હાથોમાં"
+    }
+  ],
+  "timestamp": "2026-08-21T16:10:10.726040120Z",
+  "model": "glm-5.3"
+}

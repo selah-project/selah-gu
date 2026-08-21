@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 22:19",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 22,
+  "translation": "યાહવેમાં તારો ભરોસો રહે એ માટે મેં તને આજે જાણ કરી છે, ખરેખર તને.",
+  "tokens": [
+    {
+      "surface": "להיות",
+      "gloss": "રહે એ માટે"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "યાહવેમાં"
+    },
+    {
+      "surface": "מבטחך",
+      "gloss": "તારો ભરોસો"
+    },
+    {
+      "surface": "הודעתיך",
+      "gloss": "મેં તને જાણ કરી છે"
+    },
+    {
+      "surface": "היום",
+      "gloss": "આજે"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ખરેખર"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "તને"
+    }
+  ],
+  "timestamp": "2026-08-21T17:00:03.945190638Z",
+  "model": "glm-5.3"
+}

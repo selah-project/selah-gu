@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 7:4",
+  "book": "ezra",
+  "lang": "gu",
+  "chapter": 7,
+  "translation": "ઝરખાયાનો પુત્ર, ઉઝ્ઝીનો પુત્ર, બુક્કીનો પુત્ર,",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "પુત્ર"
+    },
+    {
+      "surface": "זרחיה",
+      "gloss": "ઝરખાયા"
+    },
+    {
+      "surface": "בן",
+      "gloss": "પુત્ર"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "ઉઝ્ઝી"
+    },
+    {
+      "surface": "בן",
+      "gloss": "પુત્ર"
+    },
+    {
+      "surface": "בקי",
+      "gloss": "બુક્કી"
+    }
+  ],
+  "timestamp": "2026-08-21T17:48:56.505087734Z",
+  "model": "glm-5.3"
+}

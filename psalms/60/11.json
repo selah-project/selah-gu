@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 60:11",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 60,
+  "translation": "કોણ મને કિલ્લેબંદ નગર સુધી લઈ જશે? કોણ મને એદોમ સુધી દોરી જશે?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "કોણ"
+    },
+    {
+      "surface": "יבלני",
+      "gloss": "મને લઈ જશે"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "નગર"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "કિલ્લેબંદ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "કોણ"
+    },
+    {
+      "surface": "נחני",
+      "gloss": "મને દોરી જશે"
+    },
+    {
+      "surface": "עד",
+      "gloss": "સુધી"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "એદોમ"
+    }
+  ],
+  "timestamp": "2026-08-21T16:26:49.080924573Z",
+  "model": "glm-5.3"
+}

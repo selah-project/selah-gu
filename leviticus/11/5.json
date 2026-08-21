@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 11:5",
+  "book": "leviticus",
+  "lang": "gu",
+  "chapter": 11,
+  "translation": "અને ⟨את⟩ શફાનને — કેમ કે તે ગેરા (અપાન કરેલું ઘાસ) ઉપર લાવે છે, પણ ખૂણાંને ચીરતું નથી — તે તમારા માટે અશુદ્ધ છે.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "શફાનને"
+    },
+    {
+      "surface": "השפן",
+      "gloss": "શફાન"
+    },
+    {
+      "surface": "כי",
+      "gloss": "કેમ કે"
+    },
+    {
+      "surface": "מעלה",
+      "gloss": "ઉપર લાવે છે"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "ગેરા"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "તે"
+    },
+    {
+      "surface": "ופרסה",
+      "gloss": "અને ખૂણું"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નથી"
+    },
+    {
+      "surface": "יפריס",
+      "gloss": "ચીરતું"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "અશુદ્ધ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "તે"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "તમારા માટે"
+    }
+  ],
+  "timestamp": "2026-08-21T11:34:32.474704485Z",
+  "model": "glm-5.3"
+}

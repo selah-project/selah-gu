@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 7:10",
+  "book": "ecclesiastes",
+  "lang": "gu",
+  "chapter": 7,
+  "translation": "તું ન કહેતું, “શું થયું કે પહેલાંના દિવસો ⟨આ દિવસો⟩ કરતાં સારા હતા?” કારણ કે તેં ⟨આ⟩ વિષે જ્ઞાનથી પૂછ્યું નથી.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "કહેતું"
+    },
+    {
+      "surface": "מה",
+      "gloss": "શું"
+    },
+    {
+      "surface": "היה",
+      "gloss": "થયું"
+    },
+    {
+      "surface": "שהימים",
+      "gloss": "કે પહેલાંના દિવસો"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "પહેલાંના"
+    },
+    {
+      "surface": "היו",
+      "gloss": "હતા"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "સારા"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "⟨આ દિવસો⟩ કરતાં"
+    },
+    {
+      "surface": "כי",
+      "gloss": "કારણ કે"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નથી"
+    },
+    {
+      "surface": "מחכמה",
+      "gloss": "જ્ઞાનથી"
+    },
+    {
+      "surface": "שאלת",
+      "gloss": "પૂછ્યું"
+    },
+    {
+      "surface": "על",
+      "gloss": "વિષે"
+    },
+    {
+      "surface": "זה",
+      "gloss": "⟨આ⟩"
+    }
+  ],
+  "timestamp": "2026-08-21T18:59:56.006767262Z",
+  "model": "glm-5.3"
+}

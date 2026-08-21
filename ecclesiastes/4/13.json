@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 4:13",
+  "book": "ecclesiastes",
+  "lang": "gu",
+  "chapter": 4,
+  "translation": "દરિદ્ર અને જ્ઞાની તરુણ એ વૃદ્ધ અને મૂર્ખ રાજા કરતાં સારો ⟨છે⟩, જે હવે ચેતવણી માનતું જાણતો નથી.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "સારો"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "તરુણ"
+    },
+    {
+      "surface": "מסכן",
+      "gloss": "દરિદ્ર"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "અને જ્ઞાની"
+    },
+    {
+      "surface": "ממלך",
+      "gloss": "રાજા કરતાં"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "વૃદ્ધ"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "અને મૂર્ખ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જે"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નથી"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "જાણતો"
+    },
+    {
+      "surface": "להזהר",
+      "gloss": "ચેતવણી માનતું"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "હવે (આગળ)"
+    }
+  ],
+  "timestamp": "2026-08-21T17:29:05.297353510Z",
+  "model": "glm-5.3"
+}

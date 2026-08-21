@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 7:6",
+  "book": "ezekiel",
+  "lang": "gu",
+  "chapter": 7,
+  "translation": "અંત આવ્યો છે, આવ્યો છે ⟨the⟩ અંત; તે તારી સામે જાગી ઊઠ્યો છે; જુઓ, તે આવી રહ્યો છે.",
+  "tokens": [
+    {
+      "surface": "קץ",
+      "gloss": "અંત"
+    },
+    {
+      "surface": "בא",
+      "gloss": "આવ્યો છે"
+    },
+    {
+      "surface": "בא",
+      "gloss": "આવ્યો છે"
+    },
+    {
+      "surface": "הקץ",
+      "gloss": "⟨the⟩ અંત"
+    },
+    {
+      "surface": "הקיץ",
+      "gloss": "જાગી ઊઠ્યો છે"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "તારી સામે"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "જુઓ"
+    },
+    {
+      "surface": "באה",
+      "gloss": "આવી રહ્યો છે"
+    }
+  ],
+  "timestamp": "2026-08-21T15:18:40.538989290Z",
+  "model": "glm-5.3"
+}

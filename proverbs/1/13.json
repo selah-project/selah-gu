@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 1:13",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 1,
+  "translation": "દરેક મૂલ્યવાન સંપત્તિ આપણને મળશે, લૂંટથી આપણાં ઘર ભરી દઈશ.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "દરેક"
+    },
+    {
+      "surface": "הון",
+      "gloss": "સંપત્તિ"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "મૂલ્યવાન"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "મળશે"
+    },
+    {
+      "surface": "נמלא",
+      "gloss": "ભરી દઈશ"
+    },
+    {
+      "surface": "בתינו",
+      "gloss": "આપણાં ઘર"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "લૂંટ"
+    }
+  ],
+  "timestamp": "2026-08-21T16:50:51.322987871Z",
+  "model": "glm-5.3"
+}

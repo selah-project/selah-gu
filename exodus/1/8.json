@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 1:8",
+  "book": "exodus",
+  "lang": "gu",
+  "chapter": 1,
+  "translation": "પછી મિત્સરાયિમ ઉપર એવો નવો રાજા ઊઠ્યો, જેણે યોસેફને ⟨את⟩ ન ઓળખ્યો.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "પછી...ઊઠ્યો"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "રાજા"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "નવો"
+    },
+    {
+      "surface": "על",
+      "gloss": "ઉપર"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "મિત્સરાયિમ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જેણે"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ન"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ઓળખ્યો"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "યોસેફને"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "યોસેફ"
+    }
+  ],
+  "timestamp": "2026-08-21T11:05:14.555137454Z",
+  "model": "glm-5.3"
+}

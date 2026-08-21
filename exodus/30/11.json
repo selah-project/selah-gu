@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 30:11",
+  "book": "exodus",
+  "lang": "gu",
+  "chapter": 30,
+  "translation": "અને યાહવે મૂશાને બોલ્યા, કહેતાં:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "અને બોલ્યા"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ને"
+    },
+    {
+      "surface": "משה",
+      "gloss": "મૂશા"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "કહેતાં"
+    }
+  ],
+  "timestamp": "2026-08-21T11:22:03.844409740Z",
+  "model": "glm-5.3"
+}

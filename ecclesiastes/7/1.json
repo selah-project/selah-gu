@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 7:1",
+  "book": "ecclesiastes",
+  "lang": "gu",
+  "chapter": 7,
+  "translation": "સારું નામ સારા તેલ કરતાં શ્રેષ્ઠ ⟨છે⟩, અને મરણનો દિવસ જન્મના દિવસ કરતાં શ્રેષ્ઠ ⟨છે⟩.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "શ્રેષ્ઠ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "નામ"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "તેલ કરતાં"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "સારા"
+    },
+    {
+      "surface": "ויום",
+      "gloss": "અને દિવસ"
+    },
+    {
+      "surface": "המות",
+      "gloss": "મરણનો"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "દિવસ કરતાં"
+    },
+    {
+      "surface": "הולדו",
+      "gloss": "તેના જન્મના"
+    }
+  ],
+  "timestamp": "2026-08-21T17:30:48.105013331Z",
+  "model": "glm-5.3"
+}

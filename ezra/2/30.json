@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "ezra 2:30",
+  "book": "ezra",
+  "lang": "gu",
+  "chapter": 2,
+  "translation": "માગબીશનાં પુત્રો, સો છપ્પન.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "מגביש",
+      "gloss": "માગબીશ"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "સો"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "પચાસ"
+    },
+    {
+      "surface": "וששה",
+      "gloss": "અને છ"
+    }
+  ],
+  "timestamp": "2026-08-21T17:45:26.357901422Z",
+  "model": "glm-5.3"
+}

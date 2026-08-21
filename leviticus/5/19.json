@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 5:19",
+  "book": "leviticus",
+  "lang": "gu",
+  "chapter": 5,
+  "translation": "દોષાર્પણ તે ⟨છે⟩; તે યાહવે ⟨સામે⟩ ખરેખર દોષી થયો છે.",
+  "tokens": [
+    {
+      "surface": "אשם",
+      "gloss": "દોષાર્પણ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "તે"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "દોષી"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "ખરેખર દોષી થયો"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "યાહવે સામે"
+    }
+  ],
+  "timestamp": "2026-08-21T11:31:36.296743768Z",
+  "model": "glm-5.3"
+}

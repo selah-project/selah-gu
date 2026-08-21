@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 36:8",
+  "book": "genesis",
+  "lang": "gu",
+  "chapter": 36,
+  "translation": "અને એસાવ સેઈર પર્વતમાં વસ્યો; એસાવ ⟨એ⟩ એદોમ ⟨છે⟩.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "વસ્યો"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "એસાવ"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "પર્વતમાં"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "સેઈર"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "એસાવ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "એ"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "એદોમ"
+    }
+  ],
+  "timestamp": "2026-08-21T10:56:20.638195747Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezra 2:14",
+  "book": "ezra",
+  "lang": "gu",
+  "chapter": 2,
+  "translation": "બિગવાયનાં પુત્રો — બે હજાર પચાસ અને છ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "בגוי",
+      "gloss": "બિગવાયનાં"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "બે હજાર"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "પચાસ"
+    },
+    {
+      "surface": "וששה",
+      "gloss": "અને છ"
+    }
+  ],
+  "timestamp": "2026-08-21T17:45:08.807486442Z",
+  "model": "glm-5.3"
+}

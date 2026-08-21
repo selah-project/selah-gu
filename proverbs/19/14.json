@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 19:14",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 19,
+  "translation": "ઘર અને ધન પિતાઓની વિરાસત ⟨છે⟩, પણ યાહવે પાસેથી સમજદાર પત્ની મળે છે.",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "ઘર"
+    },
+    {
+      "surface": "והון",
+      "gloss": "અને ધન"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "વિરાસત"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "પિતાઓની"
+    },
+    {
+      "surface": "ומיהוה",
+      "gloss": "અને યાહવે પાસેથી"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "પત્ની"
+    },
+    {
+      "surface": "משכלת",
+      "gloss": "સમજદાર"
+    }
+  ],
+  "timestamp": "2026-08-21T16:59:38.133719097Z",
+  "model": "glm-5.3"
+}

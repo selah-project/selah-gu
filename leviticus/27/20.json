@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 27:20",
+  "book": "leviticus",
+  "lang": "gu",
+  "chapter": 27,
+  "translation": "અને જો ⟨તે⟩ ⟨את⟩ ખેતરનો છોડાવટ ન કરે, અથવા જો ⟨તેણે⟩ ⟨את⟩ ખેતર બીજા માણસને વેચ્યું હોય, તો તે ફરી છોડાવટ થશે નહીં.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "અને જો"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ન"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "છોડાવટ કરે"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ખેતરનો"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ખેતર"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "અથવા જો"
+    },
+    {
+      "surface": "מכר",
+      "gloss": "વેચ્યું હોય"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ખેતર"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ખેતર"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "માણસને"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "બીજા"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "છોડાવટ થશે"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ફરી"
+    }
+  ],
+  "timestamp": "2026-08-21T11:48:24.845068724Z",
+  "model": "glm-5.3"
+}

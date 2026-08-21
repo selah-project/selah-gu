@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 121:6",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 121,
+  "translation": "દિવસે સૂર્ય તને મારશે નહીં, અને રાત્રે ચંદ્ર ⟨પણ નહીં⟩.",
+  "tokens": [
+    {
+      "surface": "יומם",
+      "gloss": "દિવસે"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "સૂર્ય"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "יככה",
+      "gloss": "તને મારશે"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "અને ચંદ્ર"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "રાત્રે"
+    }
+  ],
+  "timestamp": "2026-08-21T16:45:51.765269272Z",
+  "model": "glm-5.3"
+}

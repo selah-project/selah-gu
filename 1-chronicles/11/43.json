@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-chronicles 11:43",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 11,
+  "translation": "હાનાન માઅખાનો પુત્ર, અને યોશાફાત મિત્ની,",
+  "tokens": [
+    {
+      "surface": "חנן",
+      "gloss": "હાનાન"
+    },
+    {
+      "surface": "בן",
+      "gloss": "પુત્ર"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "માઅખા"
+    },
+    {
+      "surface": "ויושפט",
+      "gloss": "અને યોશાફાત"
+    },
+    {
+      "surface": "המתני",
+      "gloss": "મિત્ની"
+    }
+  ],
+  "timestamp": "2026-08-21T18:04:31.174509700Z",
+  "model": "glm-5.3"
+}

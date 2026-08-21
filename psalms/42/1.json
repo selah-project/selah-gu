@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 42:1",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 42,
+  "translation": "સંચાલક માટે; કોરહના પુત્રોની શિક્ષણ-રચના.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "સંચાલક માટે"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "શિક્ષણ-રચના"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "પુત્રોની"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "કોરહ"
+    }
+  ],
+  "timestamp": "2026-08-21T16:21:47.513015196Z",
+  "model": "glm-5.3"
+}

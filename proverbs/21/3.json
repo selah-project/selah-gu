@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 21:3",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 21,
+  "translation": "ન્યાય અને સારાંશ કરવું એ યાહવે પાસે વેદી કરતાં પસંદ છે.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "કરવું"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "ન્યાય"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "અને સારાંશ"
+    },
+    {
+      "surface": "נבחר",
+      "gloss": "પસંદ છે"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "યાહવે પાસે"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "વેદી કરતાં"
+    }
+  ],
+  "timestamp": "2026-08-21T16:59:36.073436525Z",
+  "model": "glm-5.3"
+}

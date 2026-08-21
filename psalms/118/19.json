@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 118:19",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 118,
+  "translation": "મારે માટે ન્યાયના દરવાજા ખોલો; હું તેમાં પ્રવેશીશ, યાહનો આભાર માનીશ.",
+  "tokens": [
+    {
+      "surface": "פתחו",
+      "gloss": "ખોલો"
+    },
+    {
+      "surface": "לי",
+      "gloss": "મારે માટે"
+    },
+    {
+      "surface": "שערי",
+      "gloss": "દરવાજા"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ન્યાયના"
+    },
+    {
+      "surface": "אבא",
+      "gloss": "પ્રવેશીશ"
+    },
+    {
+      "surface": "בם",
+      "gloss": "તેમાં"
+    },
+    {
+      "surface": "אודה",
+      "gloss": "આભાર માનીશ"
+    },
+    {
+      "surface": "יה",
+      "gloss": "યાહ"
+    }
+  ],
+  "timestamp": "2026-08-21T16:43:32.987339123Z",
+  "model": "glm-5.3"
+}

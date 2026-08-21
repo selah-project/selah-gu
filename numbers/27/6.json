@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 27:6",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 27,
+  "translation": "અને યાહવે મોશેને તરફ બોલ્યા, કહેતા:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "બોલ્યા"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "אל",
+      "gloss": "તરફ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "મોશેને"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "કહેતા"
+    }
+  ],
+  "timestamp": "2026-08-21T12:06:35.626384216Z",
+  "model": "glm-5.3"
+}

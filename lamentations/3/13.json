@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "lamentations 3:13",
+  "book": "lamentations",
+  "lang": "gu",
+  "chapter": 3,
+  "translation": "તેણે પોતાના તૂણીરના પુત્રોને મારા મૂત્રપિંડોમાં પ્રવેશ કરાવ્યો.",
+  "tokens": [
+    {
+      "surface": "הביא",
+      "gloss": "પ્રવેશ કરાવ્યો"
+    },
+    {
+      "surface": "בכליותי",
+      "gloss": "મારા મૂત્રપિંડોમાં"
+    },
+    {
+      "surface": "בני",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "אשפתו",
+      "gloss": "પોતાના તૂણીરના"
+    }
+  ],
+  "timestamp": "2026-08-21T17:26:06.809242429Z",
+  "model": "glm-5.3"
+}

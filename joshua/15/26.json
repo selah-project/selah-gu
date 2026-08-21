@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "joshua 15:26",
+  "book": "joshua",
+  "lang": "gu",
+  "chapter": 15,
+  "translation": "અમામ, અને શેમા, અને મોલાદા.",
+  "tokens": [
+    {
+      "surface": "אמם",
+      "gloss": "અમામ"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "અને શેમા"
+    },
+    {
+      "surface": "ומולדה",
+      "gloss": "અને મોલાદા"
+    }
+  ],
+  "timestamp": "2026-08-21T12:40:35.479728294Z",
+  "model": "glm-5.3"
+}

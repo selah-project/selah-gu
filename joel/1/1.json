@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joel 1:1",
+  "book": "joel",
+  "lang": "gu",
+  "chapter": 1,
+  "translation": "યાહવેનો વચન જે યોએલને, પતુએલના પુત્રને, આવ્યો.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "વચન"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવેનો"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જે"
+    },
+    {
+      "surface": "היה",
+      "gloss": "આવ્યો"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ને"
+    },
+    {
+      "surface": "יואל",
+      "gloss": "યોએલ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "પુત્ર"
+    },
+    {
+      "surface": "פתואל",
+      "gloss": "પતુએલ"
+    }
+  ],
+  "timestamp": "2026-08-21T15:49:17.594474309Z",
+  "model": "glm-5.3"
+}

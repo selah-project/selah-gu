@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 57:9",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 57,
+  "translation": "જાગ, મારા મહિમા, જાગ, હે નેવલ અને કિન્નોર; હું ઊષાને જગાડીશ.",
+  "tokens": [
+    {
+      "surface": "עורה",
+      "gloss": "જાગ"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "મારા મહિમા"
+    },
+    {
+      "surface": "עורה",
+      "gloss": "જાગ"
+    },
+    {
+      "surface": "הנבל",
+      "gloss": "નેવલ"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "અને કિન્નોર"
+    },
+    {
+      "surface": "אעירה",
+      "gloss": "હું જગાડીશ"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "ઊષા"
+    }
+  ],
+  "timestamp": "2026-08-21T16:24:27.792097303Z",
+  "model": "glm-5.3"
+}

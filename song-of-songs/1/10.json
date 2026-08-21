@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "song-of-songs 1:10",
+  "book": "song-of-songs",
+  "lang": "gu",
+  "chapter": 1,
+  "translation": "તારાં ગાલ માળાઓથી સુંદર છે, તારી ગરદન મણકાની હારથી.",
+  "tokens": [
+    {
+      "surface": "נאוו",
+      "gloss": "સુંદર છે"
+    },
+    {
+      "surface": "לחייך",
+      "gloss": "તારાં ગાલ"
+    },
+    {
+      "surface": "בתרים",
+      "gloss": "માળાઓથી"
+    },
+    {
+      "surface": "צוארך",
+      "gloss": "તારી ગરદન"
+    },
+    {
+      "surface": "בחרוזים",
+      "gloss": "મણકાની હારથી"
+    }
+  ],
+  "timestamp": "2026-08-21T17:20:22.917497682Z",
+  "model": "glm-5.3"
+}

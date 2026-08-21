@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "malachi 3:6",
+  "book": "malachi",
+  "lang": "gu",
+  "chapter": 3,
+  "translation": "કેમ કે હું યાહવે ⟨છું⟩, હું બદલાયો નથી; અને તમે, યાઆકોબના પુત્રો, નાશ પામ્યા નથી.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "કેમ કે"
+    },
+    {
+      "surface": "אני",
+      "gloss": "હું"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નથી"
+    },
+    {
+      "surface": "שניתי",
+      "gloss": "બદલાયો"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "અને તમે"
+    },
+    {
+      "surface": "בני",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "યાઆકોબના"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નથી"
+    },
+    {
+      "surface": "כליתם",
+      "gloss": "નાશ પામ્યા"
+    }
+  ],
+  "timestamp": "2026-08-21T16:10:35.831542762Z",
+  "model": "glm-5.3"
+}

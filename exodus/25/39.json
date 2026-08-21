@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "exodus 25:39",
+  "book": "exodus",
+  "lang": "gu",
+  "chapter": 25,
+  "translation": "શુદ્ધ સોનાનું એક કિકાર ⟨વજન⟩ તેને, ⟨את⟩ આ બધાં પાત્રો સાથે બનાવવાનું છે.",
+  "tokens": [
+    {
+      "surface": "ככר",
+      "gloss": "કિકાર"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "સોના"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "શુદ્ધ"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "બનાવવાનું છે"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ તેને",
+      "marks": "મેનોરા"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "આ બધાં પાત્રો"
+    },
+    {
+      "surface": "כל",
+      "gloss": "બધાં"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "પાત્રો"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "આ"
+    }
+  ],
+  "timestamp": "2026-08-21T11:19:33.847118247Z",
+  "model": "glm-5.3"
+}

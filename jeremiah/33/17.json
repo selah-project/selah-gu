@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 33:17",
+  "book": "jeremiah",
+  "lang": "gu",
+  "chapter": 33,
+  "translation": "કેમ કે આમ કહે છે યાહવે: દાવિદને એક પુરુષ કપાઈ નહીં જાય, જે ઇસ્રાએલના ઘરના સિંહાસન પર બેસે.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "કેમ કે"
+    },
+    {
+      "surface": "כה",
+      "gloss": "આમ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "કહે છે"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "יכרת",
+      "gloss": "કપાઈ જાય"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "દાવિદને"
+    },
+    {
+      "surface": "איש",
+      "gloss": "એક પુરુષ"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "બેસે"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "સિંહાસન"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ઘરના"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ઇસ્રાએલના"
+    }
+  ],
+  "timestamp": "2026-08-21T15:03:59.613288989Z",
+  "model": "glm-5.3"
+}

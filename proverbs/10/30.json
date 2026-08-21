@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 10:30",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 10,
+  "translation": "The righteous shall never be moved, to eternity; and the wicked shall not inhabit the land.",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "the righteous"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "to eternity"
+    },
+    {
+      "surface": "בל",
+      "gloss": "never"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "shall be moved"
+    },
+    {
+      "surface": "ורשעים",
+      "gloss": "and the wicked"
+    },
+    {
+      "surface": "לא",
+      "gloss": "not"
+    },
+    {
+      "surface": "ישכנו",
+      "gloss": "shall inhabit"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "the land"
+    }
+  ],
+  "timestamp": "2026-08-21T16:54:42.195471410Z",
+  "model": "glm-5.3"
+}

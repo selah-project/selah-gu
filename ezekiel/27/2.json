@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 27:2",
+  "book": "ezekiel",
+  "lang": "gu",
+  "chapter": 27,
+  "translation": "અને તું, મનુષ્યના પુત્ર, ત્સોર વિશે વિલાપ ઉઠાવ;",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "અને તું"
+    },
+    {
+      "surface": "בן",
+      "gloss": "પુત્ર"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "મનુષ્યના"
+    },
+    {
+      "surface": "שא",
+      "gloss": "ઉઠાવ"
+    },
+    {
+      "surface": "על",
+      "gloss": "વિશે"
+    },
+    {
+      "surface": "צר",
+      "gloss": "ત્સોર"
+    },
+    {
+      "surface": "קינה",
+      "gloss": "વિલાપ"
+    }
+  ],
+  "timestamp": "2026-08-21T15:31:55.275517757Z",
+  "model": "glm-5.3"
+}

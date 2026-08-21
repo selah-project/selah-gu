@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 25:12",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 25,
+  "translation": "તેથી કહે: જુઓ, હું તેને ⟨את⟩ મારી શાંતિની બ્રિત આપું છું.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "તેથી"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "કહે"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "જુઓ, હું"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "આપું છું"
+    },
+    {
+      "surface": "לו",
+      "gloss": "તેને"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "મારી શાંતિની બ્રિત"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "મારી બ્રિત"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "શાંતિની"
+    }
+  ],
+  "timestamp": "2026-08-21T12:03:39.237722073Z",
+  "model": "glm-5.3"
+}

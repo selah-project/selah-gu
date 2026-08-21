@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 9:14",
+  "book": "isaiah",
+  "lang": "gu",
+  "chapter": 9,
+  "translation": "વૃદ્ધ અને ચહેરાથી માન-પામેલો, એ ⟨is⟩ ⟨the⟩ માથું; અને જૂઠાણું શીખવનારો નબી, એ ⟨is⟩ ⟨the⟩ પૂંછડી.",
+  "tokens": [
+    {
+      "surface": "זקן",
+      "gloss": "વૃદ્ધ"
+    },
+    {
+      "surface": "ונשוא",
+      "gloss": "અને માન-પામેલો"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "ચહેરો"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "એ ⟨is⟩"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "માથું"
+    },
+    {
+      "surface": "ונביא",
+      "gloss": "અને નબી"
+    },
+    {
+      "surface": "מורה",
+      "gloss": "શીખવનારો"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "જૂઠાણું"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "એ ⟨is⟩"
+    },
+    {
+      "surface": "הזנב",
+      "gloss": "પૂંછડી"
+    }
+  ],
+  "timestamp": "2026-08-21T14:16:55.654467003Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 11:8",
+  "book": "ecclesiastes",
+  "lang": "gu",
+  "chapter": 11,
+  "translation": "કારણ કે જો માણસ ઘણાં વર્ષ જીવે, તો બધાંમાં આનંદ કરે, અને યાદ રાખે ⟨את⟩ અંધકારના દિવસોને, કારણ કે તે ઘણા હશે; બધું જે આવશે તે હેબેલ છે.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "કારણ કે"
+    },
+    {
+      "surface": "אם",
+      "gloss": "જો"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "વર્ષ"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "ઘણાં"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "જીવે"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "માણસ"
+    },
+    {
+      "surface": "בכלם",
+      "gloss": "બધાંમાં"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "આનંદ કરે"
+    },
+    {
+      "surface": "ויזכר",
+      "gloss": "અને યાદ રાખે"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "અંધકારના દિવસો"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "દિવસો"
+    },
+    {
+      "surface": "החשך",
+      "gloss": "અંધકારના"
+    },
+    {
+      "surface": "כי",
+      "gloss": "કારણ કે"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "ઘણા"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "હશે"
+    },
+    {
+      "surface": "כל",
+      "gloss": "બધું"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "જે આવશે"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "હેબેલ"
+    }
+  ],
+  "timestamp": "2026-08-21T17:32:14.612889279Z",
+  "model": "glm-5.3"
+}

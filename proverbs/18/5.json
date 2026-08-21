@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 18:5",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 18,
+  "translation": "દુષ્ટના ચહેરાને ઉચ્ચાલવું સારું નથી, કે ન્યાયમાં ન્યાયીને ખસેડવાનું.",
+  "tokens": [
+    {
+      "surface": "שאת",
+      "gloss": "ઉચ્ચાલવું"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ચહેરાને"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "દુષ્ટના"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નથી"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "સારું"
+    },
+    {
+      "surface": "להטות",
+      "gloss": "ખસેડવાનું"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ન્યાયીને"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "ન્યાયમાં"
+    }
+  ],
+  "timestamp": "2026-08-21T16:58:18.036132515Z",
+  "model": "glm-5.3"
+}

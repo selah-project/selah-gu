@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 17:16",
+  "book": "leviticus",
+  "lang": "gu",
+  "chapter": 17,
+  "translation": "પણ જો તે ધોય નહીં અને પોતાનું શરીર ન સ્નાન કરે, તો તે પોતાનો અધર્મ વહન કરશે.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "પણ જો"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "તે ધોય"
+    },
+    {
+      "surface": "ובשרו",
+      "gloss": "અને પોતાનું શરીર"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ન"
+    },
+    {
+      "surface": "ירחץ",
+      "gloss": "સ્નાન કરે"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "તો તે વહન કરશે"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "પોતાનો અધર્મ"
+    }
+  ],
+  "timestamp": "2026-08-21T11:40:19.696127399Z",
+  "model": "glm-5.3"
+}

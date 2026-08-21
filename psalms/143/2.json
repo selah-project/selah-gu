@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 143:2",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 143,
+  "translation": "અને તારા દાસ સાથે મહેફતમાં ન આવ, કારણ કે તારા સામે કોઈ પણ જીવતું ⟨ને⟩ સદ્ધ નહીં ઠરે.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "અને ન"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "આવ"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "મહેફતમાં"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "તારા દાસ"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "તારા દાસ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "કારણ કે"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "יצדק",
+      "gloss": "સદ્ધ ઠરે"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "તારા સામે"
+    },
+    {
+      "surface": "כל",
+      "gloss": "કોઈ પણ"
+    },
+    {
+      "surface": "חי",
+      "gloss": "જીવતું"
+    }
+  ],
+  "timestamp": "2026-08-21T16:48:56.796252650Z",
+  "model": "glm-5.3"
+}

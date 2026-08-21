@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 23:27",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 23,
+  "translation": "કેમ કે વેશ્યા ⟨એ⟩ ઊંડી ખાઈ ⟨છે⟩, અને પરાઈ સ્ત્રી સાંકડી કૂવાઓ ⟨છે⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "કેમ કે"
+    },
+    {
+      "surface": "שוחה",
+      "gloss": "ખાઈ"
+    },
+    {
+      "surface": "עמקה",
+      "gloss": "ઊંડી"
+    },
+    {
+      "surface": "זונה",
+      "gloss": "વેશ્યા"
+    },
+    {
+      "surface": "ובאר",
+      "gloss": "અને કૂવો"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "સાંકડી"
+    },
+    {
+      "surface": "נכריה",
+      "gloss": "પરાઈ"
+    }
+  ],
+  "timestamp": "2026-08-21T17:00:27.680147731Z",
+  "model": "glm-5.3"
+}

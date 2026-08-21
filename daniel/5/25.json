@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "daniel 5:25",
+  "book": "daniel",
+  "lang": "gu",
+  "chapter": 5,
+  "translation": "અને આ એ ⟨is⟩ લખાણ જે લખવામાં આવ્યું: મેને, મેને, તેકેલ, ઉફરસીન.",
+  "tokens": [
+    {
+      "surface": "ודנה",
+      "gloss": "અને આ"
+    },
+    {
+      "surface": "છપબા",
+      "gloss": "લખાણ"
+    },
+    {
+      "surface": "દી",
+      "gloss": "જે"
+    },
+    {
+      "surface": "רશીમ",
+      "gloss": "લખવામાં આવ્યું"
+    },
+    {
+      "surface": "מנא",
+      "gloss": "મેને"
+    },
+    {
+      "surface": "מנא",
+      "gloss": "મેને"
+    },
+    {
+      "surface": "תקל",
+      "gloss": "તેકેલ"
+    },
+    {
+      "surface": "ופרסין",
+      "gloss": "ઉફરસીન"
+    }
+  ],
+  "timestamp": "2026-08-21T17:38:32.349133202Z",
+  "model": "glm-5.3"
+}

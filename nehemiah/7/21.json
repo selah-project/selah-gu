@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "nehemiah 7:21",
+  "book": "nehemiah",
+  "lang": "gu",
+  "chapter": 7,
+  "translation": "અતેરના પુત્રો — હિઝકિયાના — અઠ્ઠાણું અને આઠ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "אטר",
+      "gloss": "અતેર"
+    },
+    {
+      "surface": "לחזקיה",
+      "gloss": "હિઝકિયાના"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "અઠ્ઠાણું"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "અને આઠ"
+    }
+  ],
+  "timestamp": "2026-08-21T17:54:53.651727006Z",
+  "model": "glm-5.3"
+}

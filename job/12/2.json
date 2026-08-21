@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 12:2",
+  "book": "job",
+  "lang": "gu",
+  "chapter": 12,
+  "translation": "ખરેખર, તમે જ ⟨the⟩ પ્રજા છો, અને તમારી સાથે જ જ્ઞાન મરશે!",
+  "tokens": [
+    {
+      "surface": "אמנם",
+      "gloss": "ખરેખર"
+    },
+    {
+      "surface": "כי",
+      "gloss": "કે"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "તમે"
+    },
+    {
+      "surface": "עם",
+      "gloss": "પ્રજા"
+    },
+    {
+      "surface": "ועמכם",
+      "gloss": "અને તમારી સાથે"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "મરશે"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "જ્ઞાન"
+    }
+  ],
+  "timestamp": "2026-08-21T17:08:24.217090630Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 52:8",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 52,
+  "translation": "ન્યાયીઓ પણ જોશે અને ધ્રૂજશે, અને તેની સામે હસશે.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "અને જોશે"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "ન્યાયીઓ"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "અને ધ્રૂજશે"
+    },
+    {
+      "surface": "ועליו",
+      "gloss": "અને તેની સામે"
+    },
+    {
+      "surface": "ישחקו",
+      "gloss": "હસશે"
+    }
+  ],
+  "timestamp": "2026-08-21T16:25:38.734075353Z",
+  "model": "glm-5.3"
+}

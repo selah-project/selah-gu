@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 25:28",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 25,
+  "translation": "એકવીસમો હોતીરને, તેના પુત્રો અને તેના ભાઈઓ — બારઃ",
+  "tokens": [
+    {
+      "surface": "לאחד",
+      "gloss": "એકવીસમો"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "(-મો)"
+    },
+    {
+      "surface": "להותיר",
+      "gloss": "હોતીરને"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "તેના પુત્રો"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "અને તેના ભાઈઓ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "બાર"
+    },
+    {
+      "surface": "עשר",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-21T18:11:10.581935286Z",
+  "model": "glm-5.3"
+}

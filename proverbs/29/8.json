@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 29:8",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 29,
+  "translation": "ટિખળિયા માણસો નગરને ભડકાવે છે; પણ જ્ઞાની ક્રોધ વાળી લે છે.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "માણસો"
+    },
+    {
+      "surface": "לצון",
+      "gloss": "ટિખળિયા"
+    },
+    {
+      "surface": "יפיחו",
+      "gloss": "ભડકાવે છે"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "નગરને"
+    },
+    {
+      "surface": "וחכמים",
+      "gloss": "પણ જ્ઞાની"
+    },
+    {
+      "surface": "ישיבו",
+      "gloss": "વાળી લે છે"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ક્રોધ"
+    }
+  ],
+  "timestamp": "2026-08-21T17:02:34.911464797Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 6:9",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 6,
+  "translation": "ઢીલ, તું ક્યાં સુધી સૂતો રહીશ? ક્યારે તું તારી ઊંઘમાંથી ઊઠીશ?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "ક્યાં સુધી"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "ક્યારે"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "ઢીલ"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "સૂતો રહીશ"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "ક્યારે"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "ઊઠીશ"
+    },
+    {
+      "surface": "משנתך",
+      "gloss": "તારી ઊંઘમાંથી"
+    }
+  ],
+  "timestamp": "2026-08-21T16:53:30.105646072Z",
+  "model": "glm-5.3"
+}

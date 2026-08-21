@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 49:16",
+  "book": "genesis",
+  "lang": "gu",
+  "chapter": 49,
+  "translation": "દાન ⟨shall⟩ પોતાના પ્રજાનો ન્યાય કરશે, ઇસ્રાએલનાં કાઠિયાઓ પૈકીના એક સમાન.",
+  "tokens": [
+    {
+      "surface": "דן",
+      "gloss": "દાન"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "ન્યાય કરશે"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "પોતાના પ્રજાનો"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "એક સમાન"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "કાઠિયાઓ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ઇસ્રાએલનાં"
+    }
+  ],
+  "timestamp": "2026-08-21T11:04:51.474736910Z",
+  "model": "glm-5.3"
+}

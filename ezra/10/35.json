@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "ezra 10:35",
+  "book": "ezra",
+  "lang": "gu",
+  "chapter": 10,
+  "translation": "બેનાયા, બેદેયા, કેલૂહાય.",
+  "tokens": [
+    {
+      "surface": "בניה",
+      "gloss": "બેનાયા"
+    },
+    {
+      "surface": "בדיה",
+      "gloss": "બેદેયા"
+    },
+    {
+      "surface": "כלהי",
+      "gloss": "કેલૂહાય"
+    }
+  ],
+  "timestamp": "2026-08-21T17:50:03.983987937Z",
+  "model": "glm-5.3"
+}

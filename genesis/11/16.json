@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 11:16",
+  "book": "genesis",
+  "lang": "gu",
+  "chapter": 11,
+  "translation": "અને એવેર ચાર અને ત્રીસ વર્ષ જીવ્યો, અને ⟨את⟩ પેલેગને જન્મ આપ્યો.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "જીવ્યો"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "એવેર"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "ચાર"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "અને ત્રીસ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "વર્ષ"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "જન્મ આપ્યો"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "પેલેગ"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "પેલેગ"
+    }
+  ],
+  "timestamp": "2026-08-21T10:41:25.972530548Z",
+  "model": "glm-5.3"
+}

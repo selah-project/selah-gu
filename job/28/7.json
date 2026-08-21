@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 28:7",
+  "book": "job",
+  "lang": "gu",
+  "chapter": 28,
+  "translation": "શિકારી પક્ષીએ માર્ગ નથી ઓળખ્યો, અને બાજની આંખે તેને નથી જોયો.",
+  "tokens": [
+    {
+      "surface": "נתיב",
+      "gloss": "માર્ગ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નથી"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "ઓળખ્યો"
+    },
+    {
+      "surface": "עיט",
+      "gloss": "શિકારી પક્ષીએ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "અને નથી"
+    },
+    {
+      "surface": "שזפתו",
+      "gloss": "જોયો"
+    },
+    {
+      "surface": "עין",
+      "gloss": "આંખ"
+    },
+    {
+      "surface": "איה",
+      "gloss": "બાજની"
+    }
+  ],
+  "timestamp": "2026-08-21T17:14:19.357134706Z",
+  "model": "glm-5.3"
+}

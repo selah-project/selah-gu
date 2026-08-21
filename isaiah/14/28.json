@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "isaiah 14:28",
+  "book": "isaiah",
+  "lang": "gu",
+  "chapter": 14,
+  "translation": "રાજા આખાઝના મરણના વર્ષમાં આ ભાર ⟨was⟩ થયો.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "વર્ષમાં"
+    },
+    {
+      "surface": "מות",
+      "gloss": "મરણના"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "રાજા"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "આખાઝ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "થયો"
+    },
+    {
+      "surface": "המשא",
+      "gloss": "ભાર"
+    },
+    {
+      "surface": "ખזה",
+      "gloss": "આ"
+    }
+  ],
+  "timestamp": "2026-08-21T14:17:00.537056845Z",
+  "model": "glm-5.3"
+}

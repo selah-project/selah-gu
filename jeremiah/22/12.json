@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 22:12",
+  "book": "jeremiah",
+  "lang": "gu",
+  "chapter": 22,
+  "translation": "કારણ કે જ્યાં તેને દેશનિકાલમાં મોકલ્યો ત્યાં જ તે મરશે, અને ⟨את⟩ આ દેશ ફરી જોશે નહીં.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "કારણ કે"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "જ્યાં"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "તે"
+    },
+    {
+      "surface": "הגלו",
+      "gloss": "દેશનિકાલમાં મોકલ્યો"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "તેને"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ત્યાં જ"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "તે મરશે"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "આ દેશ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "આ દેશ"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "આ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "જોશે"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ફરી"
+    }
+  ],
+  "timestamp": "2026-08-21T14:55:43.180848560Z",
+  "model": "glm-5.3"
+}

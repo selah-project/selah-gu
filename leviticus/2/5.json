@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 2:5",
+  "book": "leviticus",
+  "lang": "gu",
+  "chapter": 2,
+  "translation": "અને જો તારો કરબાન તવચી પર શેકેલી મિન્ખાહ ⟨હોય⟩, તો તે તેલમાં મેળવેલી સોજીની મત્સાહ હોય.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "અને જો"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "મિન્ખાહ"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "המחבת",
+      "gloss": "તવચી"
+    },
+    {
+      "surface": "קרבנך",
+      "gloss": "તારો કરબાન"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "સોજી"
+    },
+    {
+      "surface": "בלולה",
+      "gloss": "મેળવેલી"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "તેલમાં"
+    },
+    {
+      "surface": "מצה",
+      "gloss": "મત્સાહ"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "હોય"
+    }
+  ],
+  "timestamp": "2026-08-21T11:29:35.946284324Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 11:7",
+  "book": "ecclesiastes",
+  "lang": "gu",
+  "chapter": 11,
+  "translation": "અને પ્રકાશ મીઠો છે, અને આંખો માટે સારું છે ⟨את⟩ સૂર્યને જોવું.",
+  "tokens": [
+    {
+      "surface": "ומתוק",
+      "gloss": "અને મીઠો"
+    },
+    {
+      "surface": "האור",
+      "gloss": "પ્રકાશ"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "અને સારું"
+    },
+    {
+      "surface": "לעינים",
+      "gloss": "આંખો માટે"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "જોવું"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "સૂર્ય"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "સૂર્યને"
+    }
+  ],
+  "timestamp": "2026-08-21T17:32:14.612745978Z",
+  "model": "glm-5.3"
+}

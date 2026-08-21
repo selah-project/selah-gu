@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 49:22",
+  "book": "genesis",
+  "lang": "gu",
+  "chapter": 49,
+  "translation": "ફળદાયી પુત્ર યોસેફ, ઝરણા પર ફળદાયી પુત્ર; પુત્રીઓ દીવાલ પર ચાલે છે.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "પુત્ર"
+    },
+    {
+      "surface": "פרת",
+      "gloss": "ફળદાયી"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "યોસેફ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "પુત્ર"
+    },
+    {
+      "surface": "פרת",
+      "gloss": "ફળદાયી"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "પર"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ઝરણુ"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "પુત્રીઓ"
+    },
+    {
+      "surface": "צעדה",
+      "gloss": "ચાલે છે"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "પર"
+    },
+    {
+      "surface": "שור",
+      "gloss": "દીવાલ"
+    }
+  ],
+  "timestamp": "2026-08-21T11:04:59.262372996Z",
+  "model": "glm-5.3"
+}

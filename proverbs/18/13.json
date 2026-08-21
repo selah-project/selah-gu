@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 18:13",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 18,
+  "translation": "જે સાંભળ્યા પહેલાં જવાબ આપે છે, તેની વાત — તે તેના માટે મૂર્ખાઈ અને લજ્જા છે.",
+  "tokens": [
+    {
+      "surface": "משיב",
+      "gloss": "જવાબ આપે છે"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "વાત"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "પહેલાં"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "સાંભળ્યા"
+    },
+    {
+      "surface": "אולת",
+      "gloss": "મૂર્ખાઈ"
+    },
+    {
+      "surface": "היא",
+      "gloss": "તે"
+    },
+    {
+      "surface": "לו",
+      "gloss": "તેના માટે"
+    },
+    {
+      "surface": "וכלמה",
+      "gloss": "અને લજ્જા"
+    }
+  ],
+  "timestamp": "2026-08-21T16:58:24.874071074Z",
+  "model": "glm-5.3"
+}

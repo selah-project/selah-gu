@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 2:5",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 2,
+  "translation": "ત્યારે તું યાહવેનો ભય સમજશે, અને એલોહીમનું જ્ઞાન મેળવશે.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "ત્યારે"
+    },
+    {
+      "surface": "תבין",
+      "gloss": "સમજશે"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "ભય"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "અને જ્ઞાન"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "એલોહીમનું"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "મેળવશે"
+    }
+  ],
+  "timestamp": "2026-08-21T16:51:30.651543237Z",
+  "model": "glm-5.3"
+}

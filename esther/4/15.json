@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "esther 4:15",
+  "book": "esther",
+  "lang": "gu",
+  "chapter": 4,
+  "translation": "અને એસ્તેરે મારદ્દાય પાસે જવાબ પાછો મોકલવા કહ્યું.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "અને...કહ્યું"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "એસ્તેરે"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "જવાબ પાછો મોકલવા"
+    },
+    {
+      "surface": "אל",
+      "gloss": "પાસે"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "મારદ્દાય"
+    }
+  ],
+  "timestamp": "2026-08-21T17:33:11.707199811Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 61,
+  "ref": "lamentations 3:61",
+  "book": "lamentations",
+  "lang": "gu",
+  "chapter": 3,
+  "translation": "તમે તેમની નિંદા સાંભળી છે, હે યાહવે, મારા વિરુદ્ધની તેમની બધી યોજનાઓ.",
+  "tokens": [
+    {
+      "surface": "שמעת",
+      "gloss": "તમે સાંભળી છે"
+    },
+    {
+      "surface": "חרפתם",
+      "gloss": "તેમની નિંદા"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "כל",
+      "gloss": "બધી"
+    },
+    {
+      "surface": "מחשבתם",
+      "gloss": "તેમની યોજનાઓ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "મારા વિરુદ્ધ"
+    }
+  ],
+  "timestamp": "2026-08-21T17:25:36.661881716Z",
+  "model": "glm-5.3"
+}

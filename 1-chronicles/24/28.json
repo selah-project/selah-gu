@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 24:28",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 24,
+  "translation": "માહલીને એલઆઝાર ⟨હતો⟩, અને તેને પુત્રો ન હતા.",
+  "tokens": [
+    {
+      "surface": "למחלי",
+      "gloss": "માહલીને"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "એલઆઝાર"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "અને ન"
+    },
+    {
+      "surface": "היה",
+      "gloss": "હતો"
+    },
+    {
+      "surface": "לו",
+      "gloss": "તેને"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "પુત્રો"
+    }
+  ],
+  "timestamp": "2026-08-21T18:11:18.721565142Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 25:3",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 25,
+  "translation": "આકાશ ઊંચાઈ માટે, અને પૃથ્વી ઊંડાણ માટે, અને રાજાઓનું હૃદય અગોચર ⟨છે⟩.",
+  "tokens": [
+    {
+      "surface": "שמים",
+      "gloss": "આકાશ"
+    },
+    {
+      "surface": "לרום",
+      "gloss": "ઊંચાઈ માટે"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "અને પૃથ્વી"
+    },
+    {
+      "surface": "לעמק",
+      "gloss": "ઊંડાણ માટે"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "અને હૃદય"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "રાજાઓનું"
+    },
+    {
+      "surface": "אין",
+      "gloss": "નથી \/ અગોચર"
+    },
+    {
+      "surface": "חקר",
+      "gloss": "તપાસ"
+    }
+  ],
+  "timestamp": "2026-08-21T17:01:45.703822433Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 3:13",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 3,
+  "translation": "અહાઝ તેનો પુત્ર, હિઝકિયાહ તેનો પુત્ર, મનાશ્શેહ તેનો પુત્ર.",
+  "tokens": [
+    {
+      "surface": "אחז",
+      "gloss": "અહાઝ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "તેનો પુત્ર"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "હિઝકિયાહ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "તેનો પુત્ર"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "મનાશ્શેહ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "તેનો પુત્ર"
+    }
+  ],
+  "timestamp": "2026-08-21T18:01:08.849959556Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 47:6",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 47,
+  "translation": "એલોહીમ જયધ્વનિ સાથે ઊપર ગયો, શિંગડાના અવાજ સાથે યાહવે.",
+  "tokens": [
+    {
+      "surface": "עלה",
+      "gloss": "ઊપર ગયો"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "એલોહીમ"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "જયધ્વનિ સાથે"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "અવાજ સાથે"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "શિંગડાના"
+    }
+  ],
+  "timestamp": "2026-08-21T16:23:09.227463219Z",
+  "model": "glm-5.3"
+}

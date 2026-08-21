@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 32:23",
+  "book": "deuteronomy",
+  "lang": "gu",
+  "chapter": 32,
+  "translation": "હું તેમના પર દુષ્કૃત્યો એકઠાં કરીશ; મારા તીર તેમના પર ખર્ચી નાખીશ.",
+  "tokens": [
+    {
+      "surface": "אספה",
+      "gloss": "હું એકઠાં કરીશ"
+    },
+    {
+      "surface": "עלימו",
+      "gloss": "તેમના પર"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "દુષ્કૃત્યો"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "મારા તીર"
+    },
+    {
+      "surface": "אכלה",
+      "gloss": "ખર્ચી નાખીશ"
+    },
+    {
+      "surface": "בם",
+      "gloss": "તેમના પર"
+    }
+  ],
+  "timestamp": "2026-08-21T12:30:23.529298826Z",
+  "model": "glm-5.3"
+}

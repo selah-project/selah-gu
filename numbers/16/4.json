@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 16:4",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 16,
+  "translation": "અને મોશેએ સાંભળ્યું, અને તે ⟨પોતાના ઘૂંટણે⟩ પોતાના ચહેરા પર પડ્યો.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "સાંભળ્યું"
+    },
+    {
+      "surface": "משה",
+      "gloss": "મોશેએ"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "પડ્યો"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "પોતાના ચહેરા"
+    }
+  ],
+  "timestamp": "2026-08-21T11:59:12.876960098Z",
+  "model": "glm-5.3"
+}

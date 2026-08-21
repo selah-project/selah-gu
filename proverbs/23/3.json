@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 23:3",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 23,
+  "translation": "તેની સ્વાદિષ્ટ વાનગીઓની ઈચ્છા ન કર, કેમ કે તે ⟨is⟩ જૂઠનું ભોજન છે.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ન"
+    },
+    {
+      "surface": "תתאו",
+      "gloss": "ઈચ્છા કર"
+    },
+    {
+      "surface": "למטעמותיו",
+      "gloss": "તેની સ્વાદિષ્ટ વાનગીઓની"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "કેમ કે તે"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ભોજન"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "જૂઠનું"
+    }
+  ],
+  "timestamp": "2026-08-21T17:01:06.136536551Z",
+  "model": "glm-5.3"
+}

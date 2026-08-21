@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 5:2",
+  "book": "ecclesiastes",
+  "lang": "gu",
+  "chapter": 5,
+  "translation": "કેમ કે સ્વપ્ન ઘણી વ્યસ્તતામાંથી આવે છે, અને મૂર્ખનો અવાજ ઘણાં વચનોમાં ⟨હોય છે⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "કેમ કે"
+    },
+    {
+      "surface": "בא",
+      "gloss": "આવે છે"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "સ્વપ્ન"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "ઘણી વ્યસ્તતામાંથી"
+    },
+    {
+      "surface": "ענין",
+      "gloss": "વ્યસ્તતા"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "અને અવાજ"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "મૂર્ખનો"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "ઘણાં વચનોમાં"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "વચનો"
+    }
+  ],
+  "timestamp": "2026-08-21T17:29:58.416465581Z",
+  "model": "glm-5.3"
+}

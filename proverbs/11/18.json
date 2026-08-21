@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 11:18",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 11,
+  "translation": "દુષ્ટ કપટનું કામ કરે છે, અને દાકતા વાવનારને સાચું વળતર ⟨મળે છે⟩.",
+  "tokens": [
+    {
+      "surface": "רשע",
+      "gloss": "દુષ્ટ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "કરે છે"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "કામ"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "કપટનું"
+    },
+    {
+      "surface": "וזרע",
+      "gloss": "અને વાવનારને"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "દાકતા"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "વળતર"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "સાચું"
+    }
+  ],
+  "timestamp": "2026-08-21T16:56:19.079835551Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 5:14",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 5,
+  "translation": "અલ્પ વિશેષ હતું કે હું સર્વ અનર્થમાં પડું, સભા અને મંડળની વચ્ચે.",
+  "tokens": [
+    {
+      "surface": "כמעט",
+      "gloss": "અલ્પ વિશેષ"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "હતું કે હું...પડું"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "સર્વ...માં"
+    },
+    {
+      "surface": "רע",
+      "gloss": "અનર્થ"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "વચ્ચે"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "સભા"
+    },
+    {
+      "surface": "ועדה",
+      "gloss": "અને મંડળ"
+    }
+  ],
+  "timestamp": "2026-08-21T16:52:28.532202274Z",
+  "model": "glm-5.3"
+}

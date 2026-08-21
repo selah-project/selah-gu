@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 26:19",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 26,
+  "translation": "યહૂદાના પુત્રો એર અને ઓનાન; અને એર અને ઓનાન કનાન દેશમાં મર્યા.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "યહૂદાના"
+    },
+    {
+      "surface": "ער",
+      "gloss": "એર"
+    },
+    {
+      "surface": "ואונן",
+      "gloss": "અને ઓનાન"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "અને મર્યા"
+    },
+    {
+      "surface": "ער",
+      "gloss": "એર"
+    },
+    {
+      "surface": "ואונן",
+      "gloss": "અને ઓનાન"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "દેશમાં"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "કનાન"
+    }
+  ],
+  "timestamp": "2026-08-21T12:04:36.098098564Z",
+  "model": "glm-5.3"
+}

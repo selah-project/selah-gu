@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 27:11",
+  "book": "job",
+  "lang": "gu",
+  "chapter": 27,
+  "translation": "હું ⟨את⟩ તમને એલના હાથ વિશે શીખવીશ; જે શદ્દાય પાસે છે તે હું છુપાવીશ નહીં.",
+  "tokens": [
+    {
+      "surface": "אורה",
+      "gloss": "શીખવીશ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "તમને"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "હાથ વિશે"
+    },
+    {
+      "surface": "אל",
+      "gloss": "એલ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જે"
+    },
+    {
+      "surface": "עם",
+      "gloss": "પાસે"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "શદ્દાય"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "אכחד",
+      "gloss": "છુપાવીશ"
+    }
+  ],
+  "timestamp": "2026-08-21T17:13:40.754528676Z",
+  "model": "glm-5.3"
+}

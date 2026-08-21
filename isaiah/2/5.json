@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 2:5",
+  "book": "isaiah",
+  "lang": "gu",
+  "chapter": 2,
+  "translation": "હે યાકોબના ઘરાણા, આવો, ચાલો આપણે યાહવેના પ્રકાશમાં ચાલીએ.",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "ઘરાણા"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "યાકોબના"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "આવો"
+    },
+    {
+      "surface": "ונלכה",
+      "gloss": "ચાલીએ"
+    },
+    {
+      "surface": "באור",
+      "gloss": "પ્રકાશમાં"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવેના"
+    }
+  ],
+  "timestamp": "2026-08-21T14:10:54.386764464Z",
+  "model": "glm-5.3"
+}

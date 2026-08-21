@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 26:9",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 26,
+  "translation": "પાપીઓ સાથે મારો પ્રાણ ભેગો ન કર, અને લોહીરેતા માણસો સાથે મારો જીવ ⟨નહીં⟩.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ન કર"
+    },
+    {
+      "surface": "תאסף",
+      "gloss": "ભેગો કર"
+    },
+    {
+      "surface": "עם",
+      "gloss": "સાથે"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "પાપીઓ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "મારો પ્રાણ"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "અને … સાથે"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "માણસો"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "લોહીરેતા"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "મારો જીવ"
+    }
+  ],
+  "timestamp": "2026-08-21T16:16:15.538335382Z",
+  "model": "glm-5.3"
+}

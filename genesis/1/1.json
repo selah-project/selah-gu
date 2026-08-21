@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 1:1",
+  "book": "genesis",
+  "lang": "gu",
+  "chapter": 1,
+  "translation": "આરંભમાં એલોહીમે ⟨את⟩ આકાશ અને ⟨את⟩ પૃથ્વીનું સર્જન કર્યું.",
+  "tokens": [
+    {
+      "surface": "בראשית",
+      "gloss": "આરંભમાં"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "સર્જન કર્યું"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "એલોહીમે"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "આકાશ"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "આકાશ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "અને ⟨את⟩",
+      "marks": "પૃથ્વી"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "પૃથ્વી"
+    }
+  ],
+  "timestamp": "2026-08-21T10:36:24.227140339Z",
+  "model": "glm-5.3"
+}

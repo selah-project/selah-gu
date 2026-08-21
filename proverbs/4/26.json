@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 4:26",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 4,
+  "translation": "તારા પગનો માર્ગ તોળી લે; અને તારાં બધાં માર્ગો સ્થિર થાય.",
+  "tokens": [
+    {
+      "surface": "פלס",
+      "gloss": "તોળી લે"
+    },
+    {
+      "surface": "מע઒ל",
+      "gloss": "માર્ગ"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "તારા પગનો"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "અને બધાં"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "તારાં માર્ગો"
+    },
+    {
+      "surface": "יכנו",
+      "gloss": "સ્થિર થાય"
+    }
+  ],
+  "timestamp": "2026-08-21T16:51:33.279535197Z",
+  "model": "glm-5.3"
+}

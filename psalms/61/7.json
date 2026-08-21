@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 61:7",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 61,
+  "translation": "રાજાના દિવસોને ઉપર દિવસો ઉમેર; તેનાં વર્ષો પેઢી પર પેઢી જેટલાં થાય.",
+  "tokens": [
+    {
+      "surface": "ימים",
+      "gloss": "દિવસો"
+    },
+    {
+      "surface": "על",
+      "gloss": "ઉપર"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "દિવસોને"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "રાજાના"
+    },
+    {
+      "surface": "תוסיף",
+      "gloss": "ઉમેર"
+    },
+    {
+      "surface": "שנותיו",
+      "gloss": "તેનાં વર્ષો"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "જેટલાં"
+    },
+    {
+      "surface": "דר",
+      "gloss": "પેઢી"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "પર પેઢી"
+    }
+  ],
+  "timestamp": "2026-08-21T16:26:37.773649470Z",
+  "model": "glm-5.3"
+}

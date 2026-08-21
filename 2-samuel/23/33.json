@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-samuel 23:33",
+  "book": "2-samuel",
+  "lang": "gu",
+  "chapter": 23,
+  "translation": "શમ્માહ ⟨the⟩ હારારી; અખિયામ શરારનો પુત્ર, ⟨the⟩ અરારી.",
+  "tokens": [
+    {
+      "surface": "שמה",
+      "gloss": "શમ્માહ"
+    },
+    {
+      "surface": "ההררי",
+      "gloss": "હારારી"
+    },
+    {
+      "surface": "אחיאם",
+      "gloss": "અખિયામ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "પુત્ર"
+    },
+    {
+      "surface": "שרר",
+      "gloss": "શરારનો"
+    },
+    {
+      "surface": "האררי",
+      "gloss": "અરારી"
+    }
+  ],
+  "timestamp": "2026-08-21T13:34:14.322205014Z",
+  "model": "glm-5.3"
+}

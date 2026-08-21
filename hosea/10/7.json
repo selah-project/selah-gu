@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 10:7",
+  "book": "hosea",
+  "lang": "gu",
+  "chapter": 10,
+  "translation": "શોમરોન ⟨નો⟩ તેનો રાજા નાશ પામશે, પાણીની સપાટી પરના ફીન સમાન.",
+  "tokens": [
+    {
+      "surface": "נדמה",
+      "gloss": "નાશ પામશે"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "શોમરોન"
+    },
+    {
+      "surface": "מלכה",
+      "gloss": "તેનો રાજા"
+    },
+    {
+      "surface": "כקצף",
+      "gloss": "ફીન સમાન"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "פני",
+      "gloss": "સપાટી"
+    },
+    {
+      "surface": "מים",
+      "gloss": "પાણીની"
+    }
+  ],
+  "timestamp": "2026-08-21T18:53:29.388057040Z",
+  "model": "glm-5.3"
+}

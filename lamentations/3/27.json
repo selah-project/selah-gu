@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "lamentations 3:27",
+  "book": "lamentations",
+  "lang": "gu",
+  "chapter": 3,
+  "translation": "માણસ માટે સારું ⟨છે⟩ કે ⟨તે⟩ પોતાના તારુણ્યમાં જાળ ઉઠાવે.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "સારું"
+    },
+    {
+      "surface": "לגבר",
+      "gloss": "માણસ માટે"
+    },
+    {
+      "surface": "כי",
+      "gloss": "કે"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "ઉઠાવે"
+    },
+    {
+      "surface": "על",
+      "gloss": "જાળ"
+    },
+    {
+      "surface": "בנעוריו",
+      "gloss": "પોતાના તારુણ્યમાં"
+    }
+  ],
+  "timestamp": "2026-08-21T17:25:35.360665737Z",
+  "model": "glm-5.3"
+}

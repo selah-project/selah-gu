@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 16:14",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 16,
+  "translation": "તે ⟨છે⟩ યાહવે આપણા એલોહીમ; ⟨તેમનાં⟩ ન્યાયો સમગ્ર પૃથ્વીમાં ⟨છે⟩.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "તે"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "આપણા એલોહીમ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "સમગ્ર"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "પૃથ્વીમાં"
+    },
+    {
+      "surface": "משפטיו",
+      "gloss": "તેમનાં ન્યાયો"
+    }
+  ],
+  "timestamp": "2026-08-21T18:06:48.207170705Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 21:7",
+  "book": "deuteronomy",
+  "lang": "gu",
+  "chapter": 21,
+  "translation": "અને તે જવાબ આપીને કહેશે: આપણા હાથે ⟨את⟩ આ લોહી રેડ્યું નથી, અને આપણી આંખોએ જોયું નથી.",
+  "tokens": [
+    {
+      "surface": "וענו",
+      "gloss": "જવાબ આપીને"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "કહેશે"
+    },
+    {
+      "surface": "ידינו",
+      "gloss": "આપણા હાથે"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નથી"
+    },
+    {
+      "surface": "שפכה",
+      "gloss": "રેડ્યું"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "આ લોહી"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "લોહી"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "આ"
+    },
+    {
+      "surface": "ועינינו",
+      "gloss": "અને આપણી આંખોએ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નથી"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "જોયું"
+    }
+  ],
+  "timestamp": "2026-08-21T12:22:53.822024539Z",
+  "model": "glm-5.3"
+}

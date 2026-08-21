@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 4:16",
+  "book": "leviticus",
+  "lang": "gu",
+  "chapter": 4,
+  "translation": "અને અભિષિક્ત યાજક વાછરડાના લોહીમાંથી મુલાકાતના ડેરા પાસે લઈ જાય.",
+  "tokens": [
+    {
+      "surface": "והביא",
+      "gloss": "અને લઈ જાય"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "યાજક"
+    },
+    {
+      "surface": "המשיח",
+      "gloss": "અભિષિક્ત"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "લોહીમાંથી"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "વાછરડાના"
+    },
+    {
+      "surface": "אל",
+      "gloss": "પાસે"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ડેરા"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "מુલાકાતના"
+    }
+  ],
+  "timestamp": "2026-08-21T11:31:45.895982192Z",
+  "model": "glm-5.3"
+}

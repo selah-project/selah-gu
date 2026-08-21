@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 1:35",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 1,
+  "translation": "એસાવના પુત્રો: એલીફાઝ, રેઉએલ, યેઉશ, યાલામ અને કોરહ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "એસાવ"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "એલીફાઝ"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "રેઉએલ"
+    },
+    {
+      "surface": "ויעוש",
+      "gloss": "અને યેઉશ"
+    },
+    {
+      "surface": "ויעלם",
+      "gloss": "અને યાલામ"
+    },
+    {
+      "surface": "וקרח",
+      "gloss": "અને કોરહ"
+    }
+  ],
+  "timestamp": "2026-08-21T17:59:33.080325420Z",
+  "model": "glm-5.3"
+}

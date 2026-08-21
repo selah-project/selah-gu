@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 22:29",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 22,
+  "translation": "કેમ કે યાહવે માટે છે ⟨the⟩ રાજ્ય, અને તે ⟨is⟩ જાતિઓમાં શાસન કરનાર.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "કેમ કે"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "યાહવે માટે"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "રાજ્ય"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "અને શાસન કરનાર"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "જાતિઓમાં"
+    }
+  ],
+  "timestamp": "2026-08-21T16:15:16.971819014Z",
+  "model": "glm-5.3"
+}

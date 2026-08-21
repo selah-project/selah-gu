@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "nehemiah 7:50",
+  "book": "nehemiah",
+  "lang": "gu",
+  "chapter": 7,
+  "translation": "રઆયાહનાં પુત્રો, રેત્સિનનાં પુત્રો, નેકોદાનાં પુત્રો,",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "ראיה",
+      "gloss": "રઆયાહ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "רצין",
+      "gloss": "રેત્સિન"
+    },
+    {
+      "surface": "בני",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "נקודא",
+      "gloss": "નેકોદા"
+    }
+  ],
+  "timestamp": "2026-08-21T17:55:09.829223459Z",
+  "model": "glm-5.3"
+}

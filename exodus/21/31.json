@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 21:31",
+  "book": "exodus",
+  "lang": "gu",
+  "chapter": 21,
+  "translation": "કે તે પુત્રને મારે, કે પુત્રીને મારે — આ ચુકાદા પ્રમાણે તેની સાથે કરવામાં આવશે.",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "કે"
+    },
+    {
+      "surface": "בן",
+      "gloss": "પુત્રને"
+    },
+    {
+      "surface": "יגח",
+      "gloss": "મારે"
+    },
+    {
+      "surface": "או",
+      "gloss": "કે"
+    },
+    {
+      "surface": "בת",
+      "gloss": "પુત્રીને"
+    },
+    {
+      "surface": "יגח",
+      "gloss": "મારે"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "ચુકાદા પ્રમાણે"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "આ"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "કરવામાં આવશે"
+    },
+    {
+      "surface": "לו",
+      "gloss": "તેની સાથે"
+    }
+  ],
+  "timestamp": "2026-08-21T11:18:59.142113426Z",
+  "model": "glm-5.3"
+}

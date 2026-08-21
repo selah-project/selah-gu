@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 72:8",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 72,
+  "translation": "અને તે સમુદ્રથી સમુદ્ર સુધી રાજ કરશે, અને નદીથી પૃથ્વીના છેડા સુધી.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "અને તે રાજ કરશે"
+    },
+    {
+      "surface": "מים",
+      "gloss": "સમુદ્રથી"
+    },
+    {
+      "surface": "עד",
+      "gloss": "સુધી"
+    },
+    {
+      "surface": "ים",
+      "gloss": "સમુદ્ર"
+    },
+    {
+      "surface": "ומנהר",
+      "gloss": "અને નદીથી"
+    },
+    {
+      "surface": "עד",
+      "gloss": "સુધી"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "છેડા"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "પૃથ્વીના"
+    }
+  ],
+  "timestamp": "2026-08-21T16:29:40.692650431Z",
+  "model": "glm-5.3"
+}

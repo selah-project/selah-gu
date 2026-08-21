@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 36:16",
+  "book": "genesis",
+  "lang": "gu",
+  "chapter": 36,
+  "translation": "સરદાર કોરહ, સરદાર ગઅતામ, સરદાર અમાલેક; આ એલીફઝના સરદારો એદોમ દેશમાં; આ અદાહનાં પુત્રો હતા.",
+  "tokens": [
+    {
+      "surface": "אלוף",
+      "gloss": "સરદાર"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "કોરહ"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "સરદાર"
+    },
+    {
+      "surface": "געתם",
+      "gloss": "ગઅતામ"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "સરદાર"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "અમાલેક"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "આ"
+    },
+    {
+      "surface": "אלופי",
+      "gloss": "સરદારો"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "એલીફઝના"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "દેશમાં"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "એદોમ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "આ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "અદાહનાં"
+    }
+  ],
+  "timestamp": "2026-08-21T10:56:27.547397085Z",
+  "model": "glm-5.3"
+}

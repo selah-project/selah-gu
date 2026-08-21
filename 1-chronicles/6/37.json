@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 6:37",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 6,
+  "translation": "મેરાયોત તેનો પુત્ર, અમર્યાહ તેનો પુત્ર, અહીતૂબ તેનો પુત્ર.",
+  "tokens": [
+    {
+      "surface": "מריות",
+      "gloss": "મેરાયોત"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "તેનો પુત્ર"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "અમર્યાહ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "તેનો પુત્ર"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "અહીતૂબ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "તેનો પુત્ર"
+    }
+  ],
+  "timestamp": "2026-08-21T18:03:13.295001312Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 22:4",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 22,
+  "translation": "નમ્રતાનું ફળ ⟨is⟩ યાહવેનો ભય — ધન, અને માન, અને જીવન.",
+  "tokens": [
+    {
+      "surface": "עקב",
+      "gloss": "ફળ"
+    },
+    {
+      "surface": "ענוה",
+      "gloss": "નમ્રતાનું"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "ભય"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવેનો"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ધન"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "અને માન"
+    },
+    {
+      "surface": "וחיים",
+      "gloss": "અને જીવન"
+    }
+  ],
+  "timestamp": "2026-08-21T17:00:06.720065320Z",
+  "model": "glm-5.3"
+}

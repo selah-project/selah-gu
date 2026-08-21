@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 29:19",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 29,
+  "translation": "વચનોથી દાસ શિસ્ત પામતો નથી, કેમ કે તે સમજે છે, પણ કોઈ પ્રત્યુત્તર નથી આપતો.",
+  "tokens": [
+    {
+      "surface": "בדברים",
+      "gloss": "વચનોથી"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નથી"
+    },
+    {
+      "surface": "יוסר",
+      "gloss": "શિસ્ત પામતો"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "દાસ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "કેમ કે"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "સમજે છે"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "પણ … નથી"
+    },
+    {
+      "surface": "מענה",
+      "gloss": "પ્રત્યુત્તર આપતો"
+    }
+  ],
+  "timestamp": "2026-08-21T17:02:48.519698198Z",
+  "model": "glm-5.3"
+}

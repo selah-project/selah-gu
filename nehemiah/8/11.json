@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nehemiah 8:11",
+  "book": "nehemiah",
+  "lang": "gu",
+  "chapter": 8,
+  "translation": "અને ⟨the⟩ લેવીઓ આખી ⟨the⟩ જનતાને શાંત કરવા લાગ્યા, કહેતા: ચૂપ રહો, કારણ કે ⟨the⟩ દિવસ પવિત્ર ⟨is⟩ અને દુઃખી ન થાઓ.",
+  "tokens": [
+    {
+      "surface": "והלוים",
+      "gloss": "લેવીઓ"
+    },
+    {
+      "surface": "מחשים",
+      "gloss": "શાંત કરવા લાગ્યા"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "આખી"
+    },
+    {
+      "surface": "העם",
+      "gloss": "જનતા"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "કહેતા"
+    },
+    {
+      "surface": "הסו",
+      "gloss": "ચૂપ રહો"
+    },
+    {
+      "surface": "כי",
+      "gloss": "કારણ કે"
+    },
+    {
+      "surface": "היום",
+      "gloss": "દિવસ"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "પવિત્ર"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "અને નહીં"
+    },
+    {
+      "surface": "תעצבו",
+      "gloss": "દુઃખી થાઓ"
+    }
+  ],
+  "timestamp": "2026-08-21T17:56:25.984816374Z",
+  "model": "glm-5.3"
+}

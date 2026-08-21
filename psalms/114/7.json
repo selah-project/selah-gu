@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 114:7",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 114,
+  "translation": "અદોનાયના સામે, હે પૃથ્વી, કાંપ; યાકોબના એલોઆહના સામે.",
+  "tokens": [
+    {
+      "surface": "מלפני",
+      "gloss": "…ના સામે"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "અદોનાય"
+    },
+    {
+      "surface": "חולי",
+      "gloss": "કાંપ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "હે પૃથ્વી"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "…ના સામે"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "એલોઆહ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "યાકોબ"
+    }
+  ],
+  "timestamp": "2026-08-21T16:41:45.914148930Z",
+  "model": "glm-5.3"
+}

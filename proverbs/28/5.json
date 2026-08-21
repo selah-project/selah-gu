@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 28:5",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 28,
+  "translation": "દુષ્ટ પુરુષો ન્યાયને સમજતા નથી, પણ યાહવેને શોધનારા સર્વને સમજે છે.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "પુરુષો"
+    },
+    {
+      "surface": "רע",
+      "gloss": "દુષ્ટ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નથી"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "સમજતા"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ન્યાયને"
+    },
+    {
+      "surface": "ומבקשי",
+      "gloss": "પણ શોધનારા"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવેને"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "સમજે છે"
+    },
+    {
+      "surface": "כל",
+      "gloss": "સર્વને"
+    }
+  ],
+  "timestamp": "2026-08-21T17:03:24.731151351Z",
+  "model": "glm-5.3"
+}

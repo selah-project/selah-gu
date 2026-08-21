@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 6:15",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 6,
+  "translation": "એટલે અચાનક તેનો નાશ આવશે, એક ક્ષણમાં તે તૂટી પડશે અને પ્રતિકાર ⟨નહીં⟩ રહે.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "એટલે પર"
+    },
+    {
+      "surface": "כן",
+      "gloss": "એટલે"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "અચાનક"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "આવશે"
+    },
+    {
+      "surface": "אידו",
+      "gloss": "નાશ"
+    },
+    {
+      "surface": "פתע",
+      "gloss": "એક ક્ષણમાં"
+    },
+    {
+      "surface": "ישבר",
+      "gloss": "તૂટી પડશે"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "અને નહીં"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "પ્રતિકાર\/રૂઝાણ"
+    }
+  ],
+  "timestamp": "2026-08-21T16:53:52.525805435Z",
+  "model": "glm-5.3"
+}

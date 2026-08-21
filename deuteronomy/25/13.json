@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 25:13",
+  "book": "deuteronomy",
+  "lang": "gu",
+  "chapter": 25,
+  "translation": "તારા થેલામાં પથ્થર અને પથ્થર — મોટો અને નાનો — તારી પાસે ન હોવો જોઈએ.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ન"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "હોવો જોઈએ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "તારી પાસે"
+    },
+    {
+      "surface": "בכיסך",
+      "gloss": "તારા થેલામાં"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "પથ્થર"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "અને પથ્થર"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "મોટો"
+    },
+    {
+      "surface": "וקטנה",
+      "gloss": "અને નાનો"
+    }
+  ],
+  "timestamp": "2026-08-21T12:25:32.230778950Z",
+  "model": "glm-5.3"
+}

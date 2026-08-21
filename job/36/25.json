@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 36:25",
+  "book": "job",
+  "lang": "gu",
+  "chapter": 36,
+  "translation": "સર્વ માનવોએ તેને જોયો છે; મર્ત્ય ⟨એ⟩ દૂરથી જુએ છે.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "સર્વ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "માનવોએ"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "જોયો છે"
+    },
+    {
+      "surface": "בו",
+      "gloss": "તેને"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "મર્ત્ય"
+    },
+    {
+      "surface": "יביט",
+      "gloss": "જુએ છે"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "દૂરથી"
+    }
+  ],
+  "timestamp": "2026-08-21T17:17:59.113500292Z",
+  "model": "glm-5.3"
+}

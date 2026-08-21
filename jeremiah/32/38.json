@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "jeremiah 32:38",
+  "book": "jeremiah",
+  "lang": "gu",
+  "chapter": 32,
+  "translation": "અને તેઓ મારા માટે પ્રજા બનશે, અને હું તેમના માટે એલોહીમ થઈશ.",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "અને તેઓ બનશે"
+    },
+    {
+      "surface": "לי",
+      "gloss": "મારા માટે"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "પ્રજા"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "અને હું"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "થઈશ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "તેમના માટે"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "એલોહીમ"
+    }
+  ],
+  "timestamp": "2026-08-21T15:03:34.621822555Z",
+  "model": "glm-5.3"
+}

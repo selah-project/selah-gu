@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 6:10",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 6,
+  "translation": "થોડી ઊંઘ, થોડી નીંદણ, થોડું હાથોનું વળગાવું — સૂવા માટે;",
+  "tokens": [
+    {
+      "surface": "מעט",
+      "gloss": "થોડી"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "ઊંઘ"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "થોડી"
+    },
+    {
+      "surface": "תנומות",
+      "gloss": "નીંદણ"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "થોડું"
+    },
+    {
+      "surface": "חבק",
+      "gloss": "વળગાવું"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "હાથોનું"
+    },
+    {
+      "surface": "לשכב",
+      "gloss": "સૂવા માટે"
+    }
+  ],
+  "timestamp": "2026-08-21T16:53:30.105904157Z",
+  "model": "glm-5.3"
+}

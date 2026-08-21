@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 19:21",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 19,
+  "translation": "માણસના હૃદયમાં ઘણી યોજનાઓ હોય છે, પણ યાહવેની સભા, એ જ ટકશે.",
+  "tokens": [
+    {
+      "surface": "רבות",
+      "gloss": "ઘણી"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "યોજનાઓ"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "હૃદયમાં"
+    },
+    {
+      "surface": "איש",
+      "gloss": "માણસના"
+    },
+    {
+      "surface": "ועצת",
+      "gloss": "પણ …ની સભા"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવેની"
+    },
+    {
+      "surface": "היא",
+      "gloss": "એ જ"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "ટકશે"
+    }
+  ],
+  "timestamp": "2026-08-21T16:58:53.789627519Z",
+  "model": "glm-5.3"
+}

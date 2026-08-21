@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 1:5",
+  "book": "ecclesiastes",
+  "lang": "gu",
+  "chapter": 1,
+  "translation": "અને સૂર્ય ઉગે છે, અને સૂર્ય આથડે છે, અને જ્યાં તે ઉગે છે ત્યાં તેનાં સ્થાન તરફ હાંફતો ઊભો રહે છે.",
+  "tokens": [
+    {
+      "surface": "וזרח",
+      "gloss": "અને ઉગે છે"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "સૂર્ય"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "અને આથડે છે"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "સૂર્ય"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "અને…તરફ"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "તેનાં સ્થાન"
+    },
+    {
+      "surface": "שואף",
+      "gloss": "હાંફતો"
+    },
+    {
+      "surface": "זורח",
+      "gloss": "ઉગનાર"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "તે"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ત્યાં"
+    }
+  ],
+  "timestamp": "2026-08-21T17:29:35.014176915Z",
+  "model": "glm-5.3"
+}

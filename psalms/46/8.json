@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 46:8",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 46,
+  "translation": "યાહવે ત્સેવાઓત અમારી સાથે ⟨છે⟩; યાકોબનો એલોહીમ અમારો દુર્ગ ⟨છે⟩. સેલા.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "ત્સેવાઓત"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "અમારી સાથે"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "દુર્ગ"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "અમારો"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "એલોહીમ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "યાકોબનો"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "સેલા"
+    }
+  ],
+  "timestamp": "2026-08-21T16:23:26.045819636Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 9:14",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 9,
+  "translation": "અને લેવીયોમાંથી: શમયા, ખશુબનો પુત્ર, અઝરીકામનો પુત્ર, ખશબ્યાનો પુત્ર — મરારીના પુત્રોમાંથી.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "અને ... માંથી"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "લેવીયો"
+    },
+    {
+      "surface": "שמעיה",
+      "gloss": "શમયા"
+    },
+    {
+      "surface": "בן",
+      "gloss": "પુત્ર"
+    },
+    {
+      "surface": "חשוב",
+      "gloss": "ખશુબ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "પુત્ર"
+    },
+    {
+      "surface": "עזריקם",
+      "gloss": "અઝરીકામ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "પુત્ર"
+    },
+    {
+      "surface": "חשביה",
+      "gloss": "ખશબ્યા"
+    },
+    {
+      "surface": "מן",
+      "gloss": "માંથી"
+    },
+    {
+      "surface": "בני",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "મરારી"
+    }
+  ],
+  "timestamp": "2026-08-21T18:05:05.204278470Z",
+  "model": "glm-5.3"
+}

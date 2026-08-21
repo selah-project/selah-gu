@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 31:1",
+  "book": "deuteronomy",
+  "lang": "gu",
+  "chapter": 31,
+  "translation": "અને મોશે ચાલ્યો ગયો, અને આ શબ્દો ⟨את⟩ બધા યિસ્રાએલને બોલ્યો.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "અને ચાલ્યો ગયો"
+    },
+    {
+      "surface": "משה",
+      "gloss": "મોશે"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "અને બોલ્યો"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "શબ્દો"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "શબ્દો"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "આ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ને"
+    },
+    {
+      "surface": "כל",
+      "gloss": "બધા"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "યિસ્રાએલ"
+    }
+  ],
+  "timestamp": "2026-08-21T12:31:40.374237428Z",
+  "model": "glm-5.3"
+}

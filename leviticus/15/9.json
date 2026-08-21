@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 15:9",
+  "book": "leviticus",
+  "lang": "gu",
+  "chapter": 15,
+  "translation": "અને જે કોઈ કાઠિયા પર સ્રાવવાળો સવારી કરે તે અશુદ્ધ થાય.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "અને જે કોઈ"
+    },
+    {
+      "surface": "המרכב",
+      "gloss": "કાઠિયા"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જે"
+    },
+    {
+      "surface": "ירכב",
+      "gloss": "સવારી કરે"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "તેના પર"
+    },
+    {
+      "surface": "הזב",
+      "gloss": "સ્રાવવાળો"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "અશુદ્ધ થાય"
+    }
+  ],
+  "timestamp": "2026-08-21T11:39:20.554185263Z",
+  "model": "glm-5.3"
+}

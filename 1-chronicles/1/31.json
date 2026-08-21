@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 1:31",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 1,
+  "translation": "યેતૂર, નાફિશ, અને કેદેમા. આ ⟨જ⟩ યિશ્માએલના પુત્રો છે.",
+  "tokens": [
+    {
+      "surface": "יטור",
+      "gloss": "યેતૂર"
+    },
+    {
+      "surface": "נפיש",
+      "gloss": "નાફિશ"
+    },
+    {
+      "surface": "וקדמה",
+      "gloss": "અને કેદેમા"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "આ"
+    },
+    {
+      "surface": "הם",
+      "gloss": "⟨જ⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "યિશ્માએલના"
+    }
+  ],
+  "timestamp": "2026-08-21T17:59:06.866770103Z",
+  "model": "glm-5.3"
+}

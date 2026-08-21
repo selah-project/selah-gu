@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 8:2",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 8,
+  "translation": "નોહા ⟨the⟩ ચોથો, અને રાફા ⟨the⟩ પાંચમો.",
+  "tokens": [
+    {
+      "surface": "נוחה",
+      "gloss": "નોહા"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "ચોથો"
+    },
+    {
+      "surface": "ורפא",
+      "gloss": "અને રાફા"
+    },
+    {
+      "surface": "החמישי",
+      "gloss": "પાંચમો"
+    }
+  ],
+  "timestamp": "2026-08-21T18:03:20.673676615Z",
+  "model": "glm-5.3"
+}

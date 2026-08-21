@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 26:13",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 26,
+  "translation": "આળસુ કહે છે, “રસ્તામાં સિંહ છે, ચોકડીઓની વચ્ચે સિંહ છે.”",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "કહે છે"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "આળસુ"
+    },
+    {
+      "surface": "שחל",
+      "gloss": "સિંહ"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "રસ્તામાં"
+    },
+    {
+      "surface": "ארי",
+      "gloss": "સિંહ"
+    },
+    {
+      "surface": "בין",
+      "gloss": "વચ્ચે"
+    },
+    {
+      "surface": "הרחבות",
+      "gloss": "ચોકડીઓની"
+    }
+  ],
+  "timestamp": "2026-08-21T17:01:43.619874761Z",
+  "model": "glm-5.3"
+}

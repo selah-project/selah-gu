@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 1:16",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 1,
+  "translation": "અને ⟨את⟩ અર્વાદી, અને ⟨את⟩ ત્સેમારી, અને ⟨את⟩ હમાતી.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "અર્વાદી"
+    },
+    {
+      "surface": "הארודי",
+      "gloss": "અર્વાદી"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ત્સેમારી"
+    },
+    {
+      "surface": "הצמרי",
+      "gloss": "ત્સેમારી"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "હમાતી"
+    },
+    {
+      "surface": "החמתי",
+      "gloss": "હમાતી"
+    }
+  ],
+  "timestamp": "2026-08-21T17:59:15.743974790Z",
+  "model": "glm-5.3"
+}

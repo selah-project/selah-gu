@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 38:5",
+  "book": "ezekiel",
+  "lang": "gu",
+  "chapter": 38,
+  "translation": "પારસ, કૂશ અને પૂત ⟨את⟩ તેમની સાથે; તે બધા ઢાલ અને ટોપ ધરાવે છે.",
+  "tokens": [
+    {
+      "surface": "פרס",
+      "gloss": "પારસ"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "કૂશ"
+    },
+    {
+      "surface": "ופוט",
+      "gloss": "અને પૂત"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "તેમની સાથે"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "તે બધા"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "ઢાલ"
+    },
+    {
+      "surface": "וכובע",
+      "gloss": "અને ટોપ"
+    }
+  ],
+  "timestamp": "2026-08-21T15:38:39.021359821Z",
+  "model": "glm-5.3"
+}

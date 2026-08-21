@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 11:23",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 11,
+  "translation": "ન્યાયીઓની ઈચ્છા તો ભલું જ; દુષ્ટોની આશા ક્રોધ.",
+  "tokens": [
+    {
+      "surface": "תאות",
+      "gloss": "ઈચ્છા"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "ન્યાયીઓની"
+    },
+    {
+      "surface": "אך",
+      "gloss": "તો જ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ભલું"
+    },
+    {
+      "surface": "תקות",
+      "gloss": "આશા"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "દુષ્ટોની"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "ક્રોધ"
+    }
+  ],
+  "timestamp": "2026-08-21T16:55:28.002742226Z",
+  "model": "glm-5.3"
+}

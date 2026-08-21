@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "jeremiah 51:60",
+  "book": "jeremiah",
+  "lang": "gu",
+  "chapter": 51,
+  "translation": "અને યિર્મેયાહુએ બાવેલ પર આવનારી ⟨આ⟩ સમસ્ત વિપત્તિ ⟨את⟩ એક પુસ્તકમાં લખી, બાવેલ વિષે લખાયેલા આ બધા વચનો ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "અને લખી"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "યિર્મેયાહુએ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "સમસ્ત વિપત્તિ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "સમસ્ત"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "વિપત્તિ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જે"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "આવનારી"
+    },
+    {
+      "surface": "אל",
+      "gloss": "પર"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "બાવેલ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "માં"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "પુસ્તક"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "એક"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "આ બધા વચનો"
+    },
+    {
+      "surface": "כל",
+      "gloss": "બધા"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "વચનો"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "આ"
+    },
+    {
+      "surface": "הכתבים",
+      "gloss": "લખાયેલા"
+    },
+    {
+      "surface": "אל",
+      "gloss": "વિષે"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "બાવેલ"
+    }
+  ],
+  "timestamp": "2026-08-21T15:16:28.726749031Z",
+  "model": "glm-5.3"
+}

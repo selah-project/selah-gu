@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 140,
+  "ref": "psalms 119:140",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 119,
+  "translation": "Your promise is refined exceedingly, and your servant loves it.",
+  "tokens": [
+    {
+      "surface": "શુદ્ધ",
+      "gloss": "શુદ્ધ-શુદ્ધ છે"
+    },
+    {
+      "surface": "तुमhá",
+      "gloss": "તારું વચન"
+    },
+    {
+      "surface": "અત્યંત",
+      "gloss": "અત્યંત"
+    },
+    {
+      "surface": "અને તારો",
+      "gloss": "અને તારો"
+    },
+    {
+      "surface": "સેવક",
+      "gloss": "સેવક"
+    },
+    {
+      "surface": "તેને",
+      "gloss": "તેને પ્રેમ કરે છે"
+    }
+  ],
+  "timestamp": "2026-08-21T18:58:14.048228625Z",
+  "model": "glm-5.3"
+}

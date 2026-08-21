@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 9:9",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 9,
+  "translation": "અને યાહવે મોશે સાથે વાત કરી, કહેતાં:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "અને વાત કરી"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "אל",
+      "gloss": "સાથે"
+    },
+    {
+      "surface": "משה",
+      "gloss": "મોશે"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "કહેતાં"
+    }
+  ],
+  "timestamp": "2026-08-21T11:54:50.192259003Z",
+  "model": "glm-5.3"
+}

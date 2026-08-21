@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 32:11",
+  "book": "ezekiel",
+  "lang": "gu",
+  "chapter": 32,
+  "translation": "કેમ કે આમ કહે છે અદોનાય યાહવે: બાવેલના રાજાની તલવાર તારા પર આવશે.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "કેમ કે"
+    },
+    {
+      "surface": "כה",
+      "gloss": "આમ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "કહે છે"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "અદોનાય"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "તલવાર"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "રાજાની"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "બાવેલના"
+    },
+    {
+      "surface": "תבואך",
+      "gloss": "તારા પર આવશે"
+    }
+  ],
+  "timestamp": "2026-08-21T15:34:28.997504002Z",
+  "model": "glm-5.3"
+}

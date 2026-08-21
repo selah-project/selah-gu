@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 21:1",
+  "book": "exodus",
+  "lang": "gu",
+  "chapter": 21,
+  "translation": "અને આ છે ⟨તે⟩ મિશપાટીઓ જે તું તેમની સમક્ષ મૂકશે.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "અને આ છે"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "મિશપાટીઓ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જે"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "મૂકશે"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "તેમની સમક્ષ"
+    }
+  ],
+  "timestamp": "2026-08-21T11:18:26.822155463Z",
+  "model": "glm-5.3"
+}

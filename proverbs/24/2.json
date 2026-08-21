@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 24:2",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 24,
+  "translation": "કેમ કે તેમનું હૃદય લૂંટફાટ પર ઘડે છે, અને તેમના હોઠ દુષ્કર્મને બોલે છે.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "કેમ કે"
+    },
+    {
+      "surface": "שד",
+      "gloss": "લૂંટફાટ"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "ઘડે છે"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "તેમનું હૃદય"
+    },
+    {
+      "surface": "ועמל",
+      "gloss": "અને દુષ્કર્મને"
+    },
+    {
+      "surface": "שפתיהם",
+      "gloss": "તેમના હોઠ"
+    },
+    {
+      "surface": "תדברנה",
+      "gloss": "બોલે છે"
+    }
+  ],
+  "timestamp": "2026-08-21T17:01:15.362882468Z",
+  "model": "glm-5.3"
+}

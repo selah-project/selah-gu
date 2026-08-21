@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 25:22",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 25,
+  "translation": "હે એલોહીમ, યિસ્રાએલને ⟨את⟩ તેની બધી સંકટોમાંથી છોડો.",
+  "tokens": [
+    {
+      "surface": "פדה",
+      "gloss": "છોડો"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "હે એલોહીમ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "યિસ્રાએલને"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "યિસ્રાએલ"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "બધી…માંથી"
+    },
+    {
+      "surface": "צרותיו",
+      "gloss": "તેની સંકટો"
+    }
+  ],
+  "timestamp": "2026-08-21T16:15:58.093217231Z",
+  "model": "glm-5.3"
+}

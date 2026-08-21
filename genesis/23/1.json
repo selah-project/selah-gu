@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 23:1",
+  "book": "genesis",
+  "lang": "gu",
+  "chapter": 23,
+  "translation": "અને શારાહનાં જીવનનાં વર્ષો સો વર્ષ અને વીસ વર્ષ અને સાત વર્ષ — શારાહનાં જીવનનાં વર્ષો.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "અને હતાં"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "જીવનનાં"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "શારાહનાં"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "સો"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "વર્ષ"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "અને વીસ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "વર્ષ"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "અને સાત"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "વર્ષ"
+    },
+    {
+      "surface": "שני",
+      "gloss": "વર્ષો"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "જીવનનાં"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "શારાહ"
+    }
+  ],
+  "timestamp": "2026-08-21T10:47:28.246645130Z",
+  "model": "glm-5.3"
+}

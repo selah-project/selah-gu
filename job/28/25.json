@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 28:25",
+  "book": "job",
+  "lang": "gu",
+  "chapter": 28,
+  "translation": "વાયુ માટે તેનું વજન ઘડવા, અને પાણીને માપથી માપવા.",
+  "tokens": [
+    {
+      "surface": "לעשות",
+      "gloss": "ઘડવા માટે"
+    },
+    {
+      "surface": "לרוח",
+      "gloss": "વાયુ માટે"
+    },
+    {
+      "surface": "משקל",
+      "gloss": "વજન"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "અને પાણીને"
+    },
+    {
+      "surface": "תכן",
+      "gloss": "માપે છે"
+    },
+    {
+      "surface": "במדה",
+      "gloss": "માપથી"
+    }
+  ],
+  "timestamp": "2026-08-21T18:59:05.490682889Z",
+  "model": "glm-5.3"
+}

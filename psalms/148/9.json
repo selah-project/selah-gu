@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 148:9",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 148,
+  "translation": "પર્વતો અને બધી ટેકરીઓ, ફળદાર વૃક્ષો અને બધા દેવદાર વૃક્ષો.",
+  "tokens": [
+    {
+      "surface": "ההרים",
+      "gloss": "પર્વતો"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "અને બધી"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "ટેકરીઓ"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "વૃક્ષો"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "ફળદાર"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "અને બધા"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "દેવદાર વૃક્ષો"
+    }
+  ],
+  "timestamp": "2026-08-21T16:49:41.337398974Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 26:17",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 26,
+  "translation": "અરોદના — અરોદીઓનું કુળ; અરએલીના — અરએલીઓનું કુળ.",
+  "tokens": [
+    {
+      "surface": "לארוד",
+      "gloss": "અરોદના"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "કુળ"
+    },
+    {
+      "surface": "הארודי",
+      "gloss": "અરોદીઓનું"
+    },
+    {
+      "surface": "לאראלי",
+      "gloss": "અરએલીના"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "કુળ"
+    },
+    {
+      "surface": "האראלי",
+      "gloss": "અરએલીઓનું"
+    }
+  ],
+  "timestamp": "2026-08-21T12:04:36.097696277Z",
+  "model": "glm-5.3"
+}

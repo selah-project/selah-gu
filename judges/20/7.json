@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "judges 20:7",
+  "book": "judges",
+  "lang": "gu",
+  "chapter": 20,
+  "translation": "જુઓ, તમે બધા યિસ્રાએલના પુત્રો છો; આપો તમારો શબ્દ અને સલાહ અહીં.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "જુઓ"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "તમે બધા"
+    },
+    {
+      "surface": "בני",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "યિસ્રાએલના"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "આપો"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "તમારો"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "શબ્દ"
+    },
+    {
+      "surface": "ועצה",
+      "gloss": "અને સલાહ"
+    },
+    {
+      "surface": "הלם",
+      "gloss": "અહીં"
+    }
+  ],
+  "timestamp": "2026-08-21T12:58:54.414479892Z",
+  "model": "glm-5.3"
+}

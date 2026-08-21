@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "zechariah 8:20",
+  "book": "zechariah",
+  "lang": "gu",
+  "chapter": 8,
+  "translation": "આ પ્રમાણે યાહવે સૈન્યોનો પ્રભુ કહે છે: હજુ એમ બનશે કે પ્રજાઓ આવશે, અને ઘણાં નગરોના વતનીઓ.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "આ પ્રમાણે"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "કહે છે"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "સૈન્યોનો પ્રભુ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "હજુ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "કે"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "આવશે"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "પ્રજાઓ"
+    },
+    {
+      "surface": "וישבי",
+      "gloss": "અને વતનીઓ"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "નગરોના"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "ઘણાં"
+    }
+  ],
+  "timestamp": "2026-08-21T16:05:06.456796902Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 38:5",
+  "book": "job",
+  "lang": "gu",
+  "chapter": 38,
+  "translation": "કોણે ⟨તેનાં⟩ માપ મૂક્યાં — શું તું જાણે છે? અથવા કોણે તેના પર માપદોરો તાણ્યો?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "કોણે"
+    },
+    {
+      "surface": "שם",
+      "gloss": "મૂક્યાં"
+    },
+    {
+      "surface": "ממדיה",
+      "gloss": "માપ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "શું"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "તું જાણે છે"
+    },
+    {
+      "surface": "או",
+      "gloss": "અથવા"
+    },
+    {
+      "surface": "מי",
+      "gloss": "કોણે"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "તાણ્યો"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "તેના પર"
+    },
+    {
+      "surface": "קו",
+      "gloss": "માપદોરો"
+    }
+  ],
+  "timestamp": "2026-08-21T17:19:23.646099615Z",
+  "model": "glm-5.3"
+}

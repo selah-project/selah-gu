@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "zechariah 2:14",
+  "book": "zechariah",
+  "lang": "gu",
+  "chapter": 2,
+  "translation": "ગા, હે સિયોન-પુત્રી, આનંદ કર, કે જુઓ, હું આવું છું અને તારી વચ્ચે વસીશ, યાહવેના વચન પ્રમાણે.",
+  "tokens": [
+    {
+      "surface": "רני",
+      "gloss": "ગા"
+    },
+    {
+      "surface": "ושמחי",
+      "gloss": "આનંદ કર"
+    },
+    {
+      "surface": "בת",
+      "gloss": "પુત્રી"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "સિયોન"
+    },
+    {
+      "surface": "כי",
+      "gloss": "કે"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "જુઓ, હું"
+    },
+    {
+      "surface": "בא",
+      "gloss": "આવું છું"
+    },
+    {
+      "surface": "ושכנתי",
+      "gloss": "અને વસીશ"
+    },
+    {
+      "surface": "בתוכך",
+      "gloss": "તારી વચ્ચે"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "વચન પ્રમાણે"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    }
+  ],
+  "timestamp": "2026-08-21T16:04:33.946874268Z",
+  "model": "glm-5.3"
+}

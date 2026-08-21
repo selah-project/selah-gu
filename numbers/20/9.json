@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 20:9",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 20,
+  "translation": "અને મોશેએ યાહવેની સામેથી ⟨את⟩ લાકડી લીધી, જેમ ⟨તેણે⟩ ⟨તેને⟩ આજ્ઞા કરી હતી.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "લીધી"
+    },
+    {
+      "surface": "משה",
+      "gloss": "મોશેએ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "લાકડી"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "લાકડી"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "ની સામેથી"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવેની"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "જેમ"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "આજ્ઞા કરી હતી"
+    }
+  ],
+  "timestamp": "2026-08-21T12:01:23.176649136Z",
+  "model": "glm-5.3"
+}

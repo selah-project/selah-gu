@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 18:8",
+  "book": "leviticus",
+  "lang": "gu",
+  "chapter": 18,
+  "translation": "તારા પિતાની પત્નીની નગ્નતા ઉઘાડીશ નહીં; તે તારા પિતાની નગ્નતા છે.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "નગ્નતા"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "પત્નીની"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "તારા પિતાની"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "ઉઘાડીશ"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "નગ્નતા"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "તારા પિતાની"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "તે છે"
+    }
+  ],
+  "timestamp": "2026-08-21T11:39:23.896692288Z",
+  "model": "glm-5.3"
+}

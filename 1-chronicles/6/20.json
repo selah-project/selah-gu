@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 6:20",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 6,
+  "translation": "ઝૂફનો પુત્ર, એલકાનાનો પુત્ર, માહાથનો પુત્ર, અમાસાયનો પુત્ર.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "પુત્ર"
+    },
+    {
+      "surface": "ציף",
+      "gloss": "ઝૂફ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "પુત્ર"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "એલકાના"
+    },
+    {
+      "surface": "בן",
+      "gloss": "પુત્ર"
+    },
+    {
+      "surface": "מחת",
+      "gloss": "માહાથ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "પુત્ર"
+    },
+    {
+      "surface": "עמשי",
+      "gloss": "અમાસાય"
+    }
+  ],
+  "timestamp": "2026-08-21T18:02:57.366202978Z",
+  "model": "glm-5.3"
+}

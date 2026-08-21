@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezra 7:2",
+  "book": "ezra",
+  "lang": "gu",
+  "chapter": 7,
+  "translation": "શલ્લૂમનો પુત્ર, ત્સાદોકનો પુત્ર, અખીતૂબનો પુત્ર,",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "પુત્ર"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "શલ્લૂમ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "પુત્ર"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "ત્સાદોક"
+    },
+    {
+      "surface": "בן",
+      "gloss": "પુત્ર"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "અખીતૂબ"
+    }
+  ],
+  "timestamp": "2026-08-21T17:48:56.504825982Z",
+  "model": "glm-5.3"
+}

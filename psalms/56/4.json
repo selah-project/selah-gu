@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 56:4",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 56,
+  "translation": "જે દિવસે હું ડરીશ, હું તારા પર ભરોસો રાખીશ.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "જે દિવસે"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "હું ડરીશ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "હું"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "તારા પર"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "ભરોસો રાખીશ"
+    }
+  ],
+  "timestamp": "2026-08-21T16:25:15.850445623Z",
+  "model": "glm-5.3"
+}

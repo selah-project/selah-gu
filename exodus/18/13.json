@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 18:13",
+  "book": "exodus",
+  "lang": "gu",
+  "chapter": 18,
+  "translation": "અને બીજા દિવસે થયું, મોશે ⟨את⟩ પ્રજાનો ન્યાય કરવા બેઠો, અને પ્રજા સવારથી સાંજ સુધી મોશે પાસે ઊભી રહી.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "અને થયું"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "બીજા દિવસે"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "બેઠો"
+    },
+    {
+      "surface": "משה",
+      "gloss": "મોશે"
+    },
+    {
+      "surface": "לשפט",
+      "gloss": "ન્યાય કરવા"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "પ્રજા"
+    },
+    {
+      "surface": "העם",
+      "gloss": "પ્રજા"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "ઊભી રહી"
+    },
+    {
+      "surface": "העם",
+      "gloss": "પ્રજા"
+    },
+    {
+      "surface": "על",
+      "gloss": "પાસે"
+    },
+    {
+      "surface": "משה",
+      "gloss": "મોશે"
+    },
+    {
+      "surface": "מן",
+      "gloss": "થી"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "સવાર"
+    },
+    {
+      "surface": "עד",
+      "gloss": "સુધી"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "સાંજ"
+    }
+  ],
+  "timestamp": "2026-08-21T11:15:29.122593397Z",
+  "model": "glm-5.3"
+}

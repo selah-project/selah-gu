@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 14:21",
+  "book": "genesis",
+  "lang": "gu",
+  "chapter": 14,
+  "translation": "અને સદોમના રાજાએ અવ્રામને કહ્યું: મને જીવો આપ, અને સંપત્તિ તું લઈ લે.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "અને કહ્યું"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "રાજાએ"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "સદોમના"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ને"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "અવ્રામને"
+    },
+    {
+      "surface": "תן",
+      "gloss": "આપ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "મને"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "જીવો"
+    },
+    {
+      "surface": "והרכש",
+      "gloss": "અને સંપત્તિ"
+    },
+    {
+      "surface": "קח",
+      "gloss": "લઈ લે"
+    },
+    {
+      "surface": "לך",
+      "gloss": "તું"
+    }
+  ],
+  "timestamp": "2026-08-21T10:43:08.083269510Z",
+  "model": "glm-5.3"
+}

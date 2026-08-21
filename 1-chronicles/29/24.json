@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 29:24",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 29,
+  "translation": "અને સઘળા સરદારો અને શૂરવીરો, તથા રાજા દાવિદના સઘળા પુત્રોએ પણ, રાજા શલોમોની હેઠળ હાથ આપ્યો.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "અને સઘળા"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "સરદારો"
+    },
+    {
+      "surface": "והגברים",
+      "gloss": "અને શૂરવીરો"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "તથા પણ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "સઘળા"
+    },
+    {
+      "surface": "בני",
+      "gloss": "પુત્રોએ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "રાજા"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "દાવિદના"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "આપ્યો"
+    },
+    {
+      "surface": "יד",
+      "gloss": "હાથ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "હેઠળ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "શલોમોની"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "રાજા"
+    }
+  ],
+  "timestamp": "2026-08-21T18:13:58.332023570Z",
+  "model": "glm-5.3"
+}

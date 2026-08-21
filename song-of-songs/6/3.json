@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 6:3",
+  "book": "song-of-songs",
+  "lang": "gu",
+  "chapter": 6,
+  "translation": "હું મારા પ્રિયની છું અને મારો પ્રિય મારો છે — ⟨એ⟩ કમળોમાં ચરનાર.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "હું"
+    },
+    {
+      "surface": "לדודי",
+      "gloss": "મારા પ્રિયની"
+    },
+    {
+      "surface": "ודודי",
+      "gloss": "અને મારો પ્રિય"
+    },
+    {
+      "surface": "לי",
+      "gloss": "મારો છે"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "ચરનાર"
+    },
+    {
+      "surface": "בשושנים",
+      "gloss": "કમળોમાં"
+    }
+  ],
+  "timestamp": "2026-08-21T17:21:49.616492957Z",
+  "model": "glm-5.3"
+}

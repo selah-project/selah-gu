@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 32:5",
+  "book": "deuteronomy",
+  "lang": "gu",
+  "chapter": 32,
+  "translation": "તેઓ એની સામે ભ્રષ્ટ થયા; એનાં પુત્રો નહીં — તેમનો દોષ; એક વક્ર અને વળેલી પેઢી.",
+  "tokens": [
+    {
+      "surface": "שחת",
+      "gloss": "ભ્રષ્ટ થયા"
+    },
+    {
+      "surface": "לו",
+      "gloss": "એની સામે"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "એનાં પુત્રો"
+    },
+    {
+      "surface": "מומם",
+      "gloss": "તેમનો દોષ"
+    },
+    {
+      "surface": "דור",
+      "gloss": "પેઢી"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "વક્ર"
+    },
+    {
+      "surface": "ופתלתל",
+      "gloss": "અને વળેલી"
+    }
+  ],
+  "timestamp": "2026-08-21T12:30:37.169301382Z",
+  "model": "glm-5.3"
+}

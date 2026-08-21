@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "amos 7:6",
+  "book": "amos",
+  "lang": "gu",
+  "chapter": 7,
+  "translation": "યાહવેનો આ વિષયે પસ્તાવો થયો; “આ પણ થશે નહીં,” અદોનાય યાહવેએ કહ્યું.",
+  "tokens": [
+    {
+      "surface": "נחם",
+      "gloss": "પસ્તાવો થયો"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવેનો"
+    },
+    {
+      "surface": "על",
+      "gloss": "વિષયે"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "આ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "પણ"
+    },
+    {
+      "surface": "היא",
+      "gloss": "આ ⟨છે⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "થશે"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "કહ્યું"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "અદોનાય"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવેએ"
+    }
+  ],
+  "timestamp": "2026-08-21T15:53:36.984542403Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 2:27",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 2,
+  "translation": "અને રામનાં પુત્રો — યરખમ્એલનો જેઠો — હતાં: માત્સ, અને યામીન, અને એકેર.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "હતાં"
+    },
+    {
+      "surface": "בני",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "רם",
+      "gloss": "રામ"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "જેઠો"
+    },
+    {
+      "surface": "ירחמאל",
+      "gloss": "યરખમ્એલ"
+    },
+    {
+      "surface": "מעץ",
+      "gloss": "માત્સ"
+    },
+    {
+      "surface": "וימין",
+      "gloss": "અને યામીન"
+    },
+    {
+      "surface": "ועקר",
+      "gloss": "અને એકેર"
+    }
+  ],
+  "timestamp": "2026-08-21T17:59:36.077024875Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 8:4",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 8,
+  "translation": "અને અબિશૂઆ, અને નામાન, અને અહોહ.",
+  "tokens": [
+    {
+      "surface": "ואבישוע",
+      "gloss": "અને અબિશૂઆ"
+    },
+    {
+      "surface": "ונעמן",
+      "gloss": "અને નામાન"
+    },
+    {
+      "surface": "ואחוח",
+      "gloss": "અને અહોહ"
+    }
+  ],
+  "timestamp": "2026-08-21T18:03:20.673894001Z",
+  "model": "glm-5.3"
+}

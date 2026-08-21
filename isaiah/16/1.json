@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 16:1",
+  "book": "isaiah",
+  "lang": "gu",
+  "chapter": 16,
+  "translation": "મેંઢી મોકલો — પૃથ્વીના શાસક પાસે — સેલાથી રણની તરફ, દીકરી ત્સીયોનના પર્વત સુધી.",
+  "tokens": [
+    {
+      "surface": "שלחו",
+      "gloss": "મોકલો"
+    },
+    {
+      "surface": "כר",
+      "gloss": "મેંઢી"
+    },
+    {
+      "surface": "משל",
+      "gloss": "શાસક"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "પૃથ્વીના"
+    },
+    {
+      "surface": "מסלע",
+      "gloss": "સેલાથી"
+    },
+    {
+      "surface": "מדברה",
+      "gloss": "રણની તરફ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "સુધી"
+    },
+    {
+      "surface": "הר",
+      "gloss": "પર્વત"
+    },
+    {
+      "surface": "בת",
+      "gloss": "દીકરી"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "ત્સીયોન"
+    }
+  ],
+  "timestamp": "2026-08-21T14:20:50.548299354Z",
+  "model": "glm-5.3"
+}

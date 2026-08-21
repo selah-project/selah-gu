@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "lamentations 3:44",
+  "book": "lamentations",
+  "lang": "gu",
+  "chapter": 3,
+  "translation": "વાદળથી તેં પોતાને ઢાંક્યું, પ્રાર્થના પસાર ન થાય એ માટે.",
+  "tokens": [
+    {
+      "surface": "סכותה",
+      "gloss": "ઢાંક્યું"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "વાદળથી"
+    },
+    {
+      "surface": "לך",
+      "gloss": "પોતાને"
+    },
+    {
+      "surface": "מעבור",
+      "gloss": "પસાર થાય"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "પ્રાર્થના"
+    }
+  ],
+  "timestamp": "2026-08-21T17:25:34.245061706Z",
+  "model": "glm-5.3"
+}

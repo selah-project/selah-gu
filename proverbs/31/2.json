@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 31:2",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 31,
+  "translation": "શું, મારા પુત્ર? અને શું, મારા ગર્ભના પુત્ર? અને શું, મારી પ્રતિજ્ઞાઓના પુત્ર?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "શું"
+    },
+    {
+      "surface": "ברי",
+      "gloss": "મારા પુત્ર"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "અને શું"
+    },
+    {
+      "surface": "בר",
+      "gloss": "પુત્ર"
+    },
+    {
+      "surface": "בטני",
+      "gloss": "મારા ગર્ભના"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "અને શું"
+    },
+    {
+      "surface": "בר",
+      "gloss": "પુત્ર"
+    },
+    {
+      "surface": "נדרי",
+      "gloss": "મારી પ્રતિજ્ઞાઓના"
+    }
+  ],
+  "timestamp": "2026-08-21T17:04:08.518837372Z",
+  "model": "glm-5.3"
+}

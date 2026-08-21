@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 24:23",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 24,
+  "translation": "અને તેણે પોતાની મશલ ઊંચકીને બોલ્યો: હાય! જ્યારે એલ ⟨તે⟩ ઘડશે, ત્યારે કોણ જીવશે?",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "ઊંચકીને"
+    },
+    {
+      "surface": "משלו",
+      "gloss": "પોતાની મશલ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "બોલ્યો"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "હાય!"
+    },
+    {
+      "surface": "מי",
+      "gloss": "કોણ"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "જીવશે"
+    },
+    {
+      "surface": "משמו",
+      "gloss": "જ્યારે … ઘડશે"
+    },
+    {
+      "surface": "אל",
+      "gloss": "એલ"
+    }
+  ],
+  "timestamp": "2026-08-21T12:03:43.087928687Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 7:15",
+  "book": "genesis",
+  "lang": "gu",
+  "chapter": 7,
+  "translation": "અને તેઓ નોઆહ પાસે, તબુતમાં આવ્યાં — બે બે, દરેક દેહમાંથી જેમાં જીવનની રૂહ છે.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "અને આવ્યાં"
+    },
+    {
+      "surface": "אל",
+      "gloss": "પાસે"
+    },
+    {
+      "surface": "נח",
+      "gloss": "નોઆહ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "માં"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "તબુત"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "બે"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "બે"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "દરેકમાંથી"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "દેહ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જેમાં"
+    },
+    {
+      "surface": "בו",
+      "gloss": "છે"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "રૂહ"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "જીવનની"
+    }
+  ],
+  "timestamp": "2026-08-21T10:39:57.320474599Z",
+  "model": "glm-5.3"
+}

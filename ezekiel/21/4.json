@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 21:4",
+  "book": "ezekiel",
+  "lang": "gu",
+  "chapter": 21,
+  "translation": "અને સર્વ દેહ જુશે કે ⟨મ⟩ યાહવે તેને પ્રગટાવી છું; તે ઓલવાશે નહીં.",
+  "tokens": [
+    {
+      "surface": "וראו",
+      "gloss": "અને જુશે"
+    },
+    {
+      "surface": "כל",
+      "gloss": "સર્વ"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "દેહ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "કે"
+    },
+    {
+      "surface": "אני",
+      "gloss": "⟨મ⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "בערתיה",
+      "gloss": "તેને પ્રગટાવી છું"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "תכבה",
+      "gloss": "ઓલવાશે"
+    }
+  ],
+  "timestamp": "2026-08-21T15:27:36.558617957Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 13:11",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 13,
+  "translation": "વ્યર્થથી મળેલી સંપત્તિ ઓછી થાય છે, અને હાથ પર એકઠું કરનાર વધારે કરશે.",
+  "tokens": [
+    {
+      "surface": "הון",
+      "gloss": "સંપત્તિ"
+    },
+    {
+      "surface": "מהבל",
+      "gloss": "વ્યર્થથી મળેલી"
+    },
+    {
+      "surface": "ימעט",
+      "gloss": "ઓછી થાય છે"
+    },
+    {
+      "surface": "וקבץ",
+      "gloss": "અને એકઠું કરનાર"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "יד",
+      "gloss": "હાથ"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "વધારે કરશે"
+    }
+  ],
+  "timestamp": "2026-08-21T16:55:05.454420542Z",
+  "model": "glm-5.3"
+}

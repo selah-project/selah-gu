@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 4:15",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 4,
+  "translation": "તેને છોડી દો, તેની પર પસાર ન થાઓ; તેનાથી વળી જાઓ અને આગળ નીકળી જાઓ.",
+  "tokens": [
+    {
+      "surface": "פרעהו",
+      "gloss": "તેને છોડી દો"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ન"
+    },
+    {
+      "surface": "תעבר",
+      "gloss": "પસાર થાઓ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "તેની પર"
+    },
+    {
+      "surface": "שטה",
+      "gloss": "વળી જાઓ"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "તેનાથી"
+    },
+    {
+      "surface": "ועבור",
+      "gloss": "અને આગળ નીકળી જાઓ"
+    }
+  ],
+  "timestamp": "2026-08-21T16:51:55.774715547Z",
+  "model": "glm-5.3"
+}

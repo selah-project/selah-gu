@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 6:20",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 6,
+  "translation": "મારા પુત્ર, તારા પિતાની આજ્ઞા રખો, અને તારી માતાનો શિક્ષાશાસ્ત્ર ન છોડતો.",
+  "tokens": [
+    {
+      "surface": "נצר",
+      "gloss": "રખો"
+    },
+    {
+      "surface": "בני",
+      "gloss": "મારા પુત્ર"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "આજ્ઞા"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "તારા પિતાની"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "અને ન"
+    },
+    {
+      "surface": "תטש",
+      "gloss": "છોડતો"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "શિક્ષાશાસ્ત્ર"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "તારી માતાનો"
+    }
+  ],
+  "timestamp": "2026-08-21T16:53:44.325004976Z",
+  "model": "glm-5.3"
+}

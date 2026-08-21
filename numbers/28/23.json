@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 28:23",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 28,
+  "translation": "પ્રભાતની હોમભેટ ઉપરાંત, જે નિત્ય હોમભેટ માટેની છે, તમે ⟨את⟩ આ બધું કરશો.",
+  "tokens": [
+    {
+      "surface": "מלבד",
+      "gloss": "ઉપરાંત"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "હોમભેટ"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "પ્રભાતની"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જે"
+    },
+    {
+      "surface": "לעלת",
+      "gloss": "હોમભેટ માટે"
+    },
+    {
+      "surface": "התמיד",
+      "gloss": "નિત્ય"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "તમે કરશો"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "આ બધું"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "આ"
+    }
+  ],
+  "timestamp": "2026-08-21T12:06:15.458850527Z",
+  "model": "glm-5.3"
+}

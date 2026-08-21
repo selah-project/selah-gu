@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 4:5",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 4,
+  "translation": "અને તકોઆના પિતા અશ્શૂરની બે પત્નીઓ હતીં — હેલા અને નારા.",
+  "tokens": [
+    {
+      "surface": "ולאשחור",
+      "gloss": "અને અશ્શૂરની"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "પિતા"
+    },
+    {
+      "surface": "תקוע",
+      "gloss": "તકોઆના"
+    },
+    {
+      "surface": "היו",
+      "gloss": "હતીં"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "બે"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "પત્નીઓ"
+    },
+    {
+      "surface": "חלאה",
+      "gloss": "હેલા"
+    },
+    {
+      "surface": "ונערה",
+      "gloss": "અને નારા"
+    }
+  ],
+  "timestamp": "2026-08-21T18:01:25.945421687Z",
+  "model": "glm-5.3"
+}

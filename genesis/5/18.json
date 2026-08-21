@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 5:18",
+  "book": "genesis",
+  "lang": "gu",
+  "chapter": 5,
+  "translation": "અને યરેદ જીવ્યો બે અને સાઠ વર્ષ અને સો વર્ષ, અને ⟨તેણે⟩ ⟨את⟩ હનોખને જન્મ આપ્યો.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "જીવ્યો"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "યરેદ"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "બે"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "અને સાઠ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "વર્ષ"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "અને સો"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "વર્ષ"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "જન્મ આપ્યો"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "હનોખ"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "હનોખ"
+    }
+  ],
+  "timestamp": "2026-08-21T10:39:18.125566598Z",
+  "model": "glm-5.3"
+}

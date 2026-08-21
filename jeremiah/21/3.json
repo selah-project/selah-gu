@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 21:3",
+  "book": "jeremiah",
+  "lang": "gu",
+  "chapter": 21,
+  "translation": "અને યિર્મેયાહુએ તેમને કહ્યું: “તમે સિદકિયાહુને આ પ્રમાણે કહેશો —",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "અને કહ્યું"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "યિર્મેયાહુ"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "તેમને"
+    },
+    {
+      "surface": "כה",
+      "gloss": "આ પ્રમાણે"
+    },
+    {
+      "surface": "תאמרן",
+      "gloss": "તમે કહેશો"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ને"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "સિદકિયાહુ"
+    }
+  ],
+  "timestamp": "2026-08-21T14:56:37.934078351Z",
+  "model": "glm-5.3"
+}

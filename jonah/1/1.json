@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 1:1",
+  "book": "jonah",
+  "lang": "gu",
+  "chapter": 1,
+  "translation": "અને યાહવેનો વચન યોના પાસે — અમિત્તાઈના પુત્ર પાસે — આવ્યું, કહેતું:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "અને આવ્યું (થયું)"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "વચન"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવેનો"
+    },
+    {
+      "surface": "אל",
+      "gloss": "પાસે"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "યોના"
+    },
+    {
+      "surface": "בן",
+      "gloss": "પુત્ર"
+    },
+    {
+      "surface": "אמתי",
+      "gloss": "અમિત્તાઈના"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "કહેતું"
+    }
+  ],
+  "timestamp": "2026-08-21T15:56:16.773064721Z",
+  "model": "glm-5.3"
+}

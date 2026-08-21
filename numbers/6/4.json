@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 6:4",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 6,
+  "translation": "તેના સમર્પણના સર્વ દિવસોમાં દ્રાક્ષારસની વેલથી બનેલું કંઈપણ — બીજથી લઈને છાલ સુધી — ન ખાય.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "સર્વ"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "દિવસોમાં"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "તેના સમર્પણના"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "કંઈપણથી"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જે"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "બને"
+    },
+    {
+      "surface": "מגפן",
+      "gloss": "વેલથી"
+    },
+    {
+      "surface": "היין",
+      "gloss": "દ્રાક્ષારસની"
+    },
+    {
+      "surface": "מחרצנים",
+      "gloss": "બીજથી"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "લઈને…સુધી"
+    },
+    {
+      "surface": "זג",
+      "gloss": "છાલ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ન"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ખાય"
+    }
+  ],
+  "timestamp": "2026-08-21T11:52:53.764332384Z",
+  "model": "glm-5.3"
+}

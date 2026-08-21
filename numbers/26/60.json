@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "numbers 26:60",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 26,
+  "translation": "અને અહરોનને ⟨את⟩ નાદાબ, ⟨את⟩ અવીહૂ, ⟨את⟩ એલઆઝાર અને ⟨את⟩ ઇતામાર જન્મ્યા.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "અને જન્મ્યા"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "અહરોનને"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "નાદાબ"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "નાદાબ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "અવીહૂ"
+    },
+    {
+      "surface": "אביהוא",
+      "gloss": "અવીહૂ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "એલઆઝાર"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "એલઆઝાર"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ઇતામાર"
+    },
+    {
+      "surface": "איתמר",
+      "gloss": "ઇતામાર"
+    }
+  ],
+  "timestamp": "2026-08-21T12:05:53.506856944Z",
+  "model": "glm-5.3"
+}

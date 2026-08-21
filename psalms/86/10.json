@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 86:10",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 86,
+  "translation": "કેમ કે તમે મહાન છો અને અદ્ભુત કાર્યો કરનાર છો; તમે એકલા એલોહીમ છો.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "કેમ કે"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "મહાન"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "તમે"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "અને કરનાર"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "અદ્ભુત કાર્યો"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "તમે"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "એલોહીમ"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "એકલા"
+    }
+  ],
+  "timestamp": "2026-08-21T16:34:25.065784602Z",
+  "model": "glm-5.3"
+}

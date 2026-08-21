@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 1:26",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 1,
+  "translation": "સેરૂગ, નાખોર, તેરાખ —",
+  "tokens": [
+    {
+      "surface": "שרוג",
+      "gloss": "સેરૂગ"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "નાખોર"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "તેરાખ"
+    }
+  ],
+  "timestamp": "2026-08-21T17:58:55.239130511Z",
+  "model": "glm-5.3"
+}

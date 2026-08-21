@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 4:2",
+  "book": "1-kings",
+  "lang": "gu",
+  "chapter": 4,
+  "translation": "અને આ ⟨હતા⟩ તેમના સરદારો: અજર્યાહુ ત્સાદોકનો પુત્ર, યાજક.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "અને આ"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "સરદારો"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જે"
+    },
+    {
+      "surface": "לו",
+      "gloss": "તેમના"
+    },
+    {
+      "surface": "עזריהו",
+      "gloss": "અજર્યાહુ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "પુત્ર"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "ત્સાદોક"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "યાજક"
+    }
+  ],
+  "timestamp": "2026-08-21T13:37:15.568729405Z",
+  "model": "glm-5.3"
+}

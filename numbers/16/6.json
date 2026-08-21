@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 16:6",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 16,
+  "translation": "આ કરો: તમારા માટે અગ્નિ-પાત્રો લો, કોરખ અને તેની આખી સભા,",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "આ"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "કરો"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "લો"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "તમારા માટે"
+    },
+    {
+      "surface": "מחתות",
+      "gloss": "અગ્નિ-પાત્રો"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "કોરખ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "અને આખી"
+    },
+    {
+      "surface": "עדתו",
+      "gloss": "તેની સભા"
+    }
+  ],
+  "timestamp": "2026-08-21T11:58:31.240754641Z",
+  "model": "glm-5.3"
+}

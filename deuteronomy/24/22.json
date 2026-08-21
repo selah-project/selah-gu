@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 24:22",
+  "book": "deuteronomy",
+  "lang": "gu",
+  "chapter": 24,
+  "translation": "અને તું યાદ રાખજે કે તું મિત્સરાયિમના દેશમાં દાસ હતો; એટલે જ હું તને આ ⟨את⟩ કાર્ય કરવાની આજ્ઞા આપું છું.",
+  "tokens": [
+    {
+      "surface": "וזכרת",
+      "gloss": "અને તું યાદ રાખજે"
+    },
+    {
+      "surface": "כי",
+      "gloss": "કે"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "દાસ"
+    },
+    {
+      "surface": "היית",
+      "gloss": "હતો"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "દેશમાં"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "મિત્સરાયિમના"
+    },
+    {
+      "surface": "על",
+      "gloss": "એટલે"
+    },
+    {
+      "surface": "כן",
+      "gloss": "જ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "હું"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "તને આજ્ઞા આપું છું"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "કરવાની"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "આ કાર્ય"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "કાર્ય"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "આ"
+    }
+  ],
+  "timestamp": "2026-08-21T12:24:36.756403046Z",
+  "model": "glm-5.3"
+}

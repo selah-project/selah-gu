@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 10:17",
+  "book": "1-samuel",
+  "lang": "gu",
+  "chapter": 10,
+  "translation": "અને શમુએલે ⟨את⟩ પ્રજાને યાહવે પાસે મિત્સપાહ (મિઝપા) ખાતે બોલાવી.",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "બોલાવી"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "શમુએલે"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "પ્રજાને"
+    },
+    {
+      "surface": "העם",
+      "gloss": "પ્રજાને"
+    },
+    {
+      "surface": "אל",
+      "gloss": "પાસે"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "મિત્સપાહ"
+    }
+  ],
+  "timestamp": "2026-08-21T13:05:18.733393795Z",
+  "model": "glm-5.3"
+}

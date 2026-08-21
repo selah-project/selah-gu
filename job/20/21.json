@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 20:21",
+  "book": "job",
+  "lang": "gu",
+  "chapter": 20,
+  "translation": "તેના ખાવા માટે કોઈ બચેલું નહીં; તેથી તેનું ભલું ટકશે નહીં.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "નહીં છે"
+    },
+    {
+      "surface": "שריד",
+      "gloss": "બચેલું"
+    },
+    {
+      "surface": "לאכלו",
+      "gloss": "તેના ખાવા માટે"
+    },
+    {
+      "surface": "על",
+      "gloss": "તેથી"
+    },
+    {
+      "surface": "כן",
+      "gloss": "તેથી"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "ટકશે"
+    },
+    {
+      "surface": "טובו",
+      "gloss": "તેનું ભલું"
+    }
+  ],
+  "timestamp": "2026-08-21T17:11:42.781931985Z",
+  "model": "glm-5.3"
+}

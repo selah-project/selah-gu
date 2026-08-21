@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 6:22",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 6,
+  "translation": "અને યાહવે મોશેને વાત કર્યાં, કહેતાં:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "અને વાત કર્યાં"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ને"
+    },
+    {
+      "surface": "משה",
+      "gloss": "મોશેને"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "કહેતાં"
+    }
+  ],
+  "timestamp": "2026-08-21T11:50:50.220032857Z",
+  "model": "glm-5.3"
+}

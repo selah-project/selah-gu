@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 2:18",
+  "book": "isaiah",
+  "lang": "gu",
+  "chapter": 2,
+  "translation": "અને દેવમૂર્તિઓ સંપૂર્ણપણે મિટાઈ જશે.",
+  "tokens": [
+    {
+      "surface": "והאלילים",
+      "gloss": "દેવમૂર્તિઓ"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "સંપૂર્ણપણે"
+    },
+    {
+      "surface": "יחלף",
+      "gloss": "મિટાઈ જશે"
+    }
+  ],
+  "timestamp": "2026-08-21T14:10:11.527170093Z",
+  "model": "glm-5.3"
+}

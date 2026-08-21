@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 28:18",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 28,
+  "translation": "પહેલા દિવસે પવિત્ર સભા; કોઈ પણ સેવા-કાર્યનું કામ તમે ન કરતા.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "દિવસે"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "પહેલા"
+    },
+    {
+      "surface": "מקרא",
+      "gloss": "સભા"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "પવિત્ર"
+    },
+    {
+      "surface": "כל",
+      "gloss": "કોઈ પણ"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "કામ"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "સેવા-કાર્યનું"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ન"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "તમે કરતા"
+    }
+  ],
+  "timestamp": "2026-08-21T12:07:11.609087934Z",
+  "model": "glm-5.3"
+}

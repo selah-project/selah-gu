@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 104:2",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 104,
+  "translation": "પ્રકાશને આવરણની જેમ ઓઢે છે, આકાશને તંબુની જેમ વિસ્તારે છે.",
+  "tokens": [
+    {
+      "surface": "עטה",
+      "gloss": "ઓઢે છે"
+    },
+    {
+      "surface": "אור",
+      "gloss": "પ્રકાશ"
+    },
+    {
+      "surface": "כשלמה",
+      "gloss": "આવરણની જેમ"
+    },
+    {
+      "surface": "נוטה",
+      "gloss": "વિસ્તારે છે"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "આકાશ"
+    },
+    {
+      "surface": "כיריעה",
+      "gloss": "તંબુની જેમ"
+    }
+  ],
+  "timestamp": "2026-08-21T16:38:58.058737777Z",
+  "model": "glm-5.3"
+}

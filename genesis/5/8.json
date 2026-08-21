@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 5:8",
+  "book": "genesis",
+  "lang": "gu",
+  "chapter": 5,
+  "translation": "અને શેતનાં બધાં દિવસો બાર વર્ષ અને નવસો વર્ષ થયાં, અને તે મર્યો.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "થયાં"
+    },
+    {
+      "surface": "כל",
+      "gloss": "બધાં"
+    },
+    {
+      "surface": "ઙײ׷",
+      "gloss": "દિવસો"
+    },
+    {
+      "surface": "שת",
+      "gloss": "શેત"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "(બે)"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "બાર"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "વર્ષ"
+    },
+    {
+      "surface": "ותשע",
+      "gloss": "અને નવસો"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "(સો)"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "વર્ષ"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "અને તે મર્યો"
+    }
+  ],
+  "timestamp": "2026-08-21T10:37:50.001666227Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 6:24",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 6,
+  "translation": "તને દુષ્ટ સ્ત્રીથી અને પરદેશી સ્ત્રીની ચપળ જીભથી રક્ષવા માટે.",
+  "tokens": [
+    {
+      "surface": "לשמרך",
+      "gloss": "તને રક્ષવા માટે"
+    },
+    {
+      "surface": "מאשת",
+      "gloss": "સ્ત્રીથી"
+    },
+    {
+      "surface": "רע",
+      "gloss": "દુષ્ટ"
+    },
+    {
+      "surface": "מחלקת",
+      "gloss": "ચપળ…થી"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "જીભ"
+    },
+    {
+      "surface": "נכריה",
+      "gloss": "પરદેશી સ્ત્રીની"
+    }
+  ],
+  "timestamp": "2026-08-21T16:53:59.202798947Z",
+  "model": "glm-5.3"
+}

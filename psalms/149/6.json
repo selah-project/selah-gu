@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 149:6",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 149,
+  "translation": "ગળામાં એલની ઉચ્ચ સ્તુતિ, અને હાથમાં બે-ધારી તલવાર —",
+  "tokens": [
+    {
+      "surface": "רוממות",
+      "gloss": "ઉચ્ચ સ્તુતિ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "એલ"
+    },
+    {
+      "surface": "בגרונם",
+      "gloss": "ગળામાં"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "અને તલવાર"
+    },
+    {
+      "surface": "פיפיות",
+      "gloss": "બે-ધારી"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "હાથમાં"
+    }
+  ],
+  "timestamp": "2026-08-21T16:50:15.130957808Z",
+  "model": "glm-5.3"
+}

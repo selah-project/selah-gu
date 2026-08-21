@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 6:7",
+  "book": "2-chronicles",
+  "lang": "gu",
+  "chapter": 6,
+  "translation": "અને મારા પિતા દાવિદના હૃદયમાં હતું કે યાહવે, યિસ્રાએલના એલોહીમના નામ માટે મકાન બાંધે.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "અને હતું"
+    },
+    {
+      "surface": "עם",
+      "gloss": "સાથે"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "હૃદય"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "દાવિદ"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "મારા પિતા"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "બાંધે"
+    },
+    {
+      "surface": "בית",
+      "gloss": "મકાન"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "નામ માટે"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "એલોહીમના"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "યિસ્રાએલના"
+    }
+  ],
+  "timestamp": "2026-08-21T18:15:52.649842398Z",
+  "model": "glm-5.3"
+}

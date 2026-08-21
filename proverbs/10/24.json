@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 10:24",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 10,
+  "translation": "દુષ્ટનો ભય ⟨જ તેની પર આવશે⟩, અને ન્યાયીઓની ઇચ્છા પૂર્ણ કરશે.",
+  "tokens": [
+    {
+      "surface": "מגורת",
+      "gloss": "ભય"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "દુષ્ટનો"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨જ⟩"
+    },
+    {
+      "surface": "תבואנו",
+      "gloss": "તેની પર આવશે"
+    },
+    {
+      "surface": "ותאות",
+      "gloss": "અને ઇચ્છા"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "ન્યાયીઓની"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "પૂર્ણ કરશે"
+    }
+  ],
+  "timestamp": "2026-08-21T16:55:21.438720942Z",
+  "model": "glm-5.3"
+}

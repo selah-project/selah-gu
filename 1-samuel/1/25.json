@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-samuel 1:25",
+  "book": "1-samuel",
+  "lang": "gu",
+  "chapter": 1,
+  "translation": "અને તેઓએ ⟨את⟩ બળદનું વધેરું, અને ⟨את⟩ બાળકને એલી પાસે લાવ્યા.",
+  "tokens": [
+    {
+      "surface": "וישחטו",
+      "gloss": "અને તેઓએ વધેર્યું"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "બળદનું"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "બળદ"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "અને તેઓ લાવ્યા"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "બાળકને"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "બાળક"
+    },
+    {
+      "surface": "אל",
+      "gloss": "પાસે"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "એલી"
+    }
+  ],
+  "timestamp": "2026-08-21T13:01:29.287554812Z",
+  "model": "glm-5.3"
+}

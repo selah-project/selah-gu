@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jonah 2:11",
+  "book": "jonah",
+  "lang": "gu",
+  "chapter": 2,
+  "translation": "અને યાહવેએ માછલીને કહ્યું, અને તેણે યોનાને ⟨את⟩ જમીન પર ઊલટી દીધો.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "અને કહ્યું"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવેએ"
+    },
+    {
+      "surface": "לדג",
+      "gloss": "માછલીને"
+    },
+    {
+      "surface": "ויקא",
+      "gloss": "ઊલટી દીધો"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "યોનાને"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "યોનાને"
+    },
+    {
+      "surface": "אל",
+      "gloss": "પર"
+    },
+    {
+      "surface": "היבשה",
+      "gloss": "જમીન"
+    }
+  ],
+  "timestamp": "2026-08-21T15:54:45.883520257Z",
+  "model": "glm-5.3"
+}

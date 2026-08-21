@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "habakkuk 3:5",
+  "book": "habakkuk",
+  "lang": "gu",
+  "chapter": 3,
+  "translation": "તેના સામે મહામારી ચાલે છે, અને તેના પગલાં આગળ અંગારા નીકળે છે.",
+  "tokens": [
+    {
+      "surface": "לפניו",
+      "gloss": "તેના સામે"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "ચાલે છે"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "મહામારી"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "અને નીકળે છે"
+    },
+    {
+      "surface": "רשף",
+      "gloss": "અંગારા"
+    },
+    {
+      "surface": "לרגליו",
+      "gloss": "તેના પગલાં આગળ"
+    }
+  ],
+  "timestamp": "2026-08-21T16:02:54.981129681Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 25:1",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 25,
+  "translation": "આ પણ શલોમોના દંડકો છે, જે યહૂદાના રાજા હિઝકીયાના માણસોએ ઉતાર્યા.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "પણ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "આ"
+    },
+    {
+      "surface": "משלי",
+      "gloss": "દંડકો"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "શલોમોના"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જે"
+    },
+    {
+      "surface": "העתיקו",
+      "gloss": "ઉતાર્યા"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "માણસોએ"
+    },
+    {
+      "surface": "חזקיה",
+      "gloss": "હિઝકીયાના"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "રાજા"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "યહૂદાના"
+    }
+  ],
+  "timestamp": "2026-08-21T17:01:45.703485183Z",
+  "model": "glm-5.3"
+}

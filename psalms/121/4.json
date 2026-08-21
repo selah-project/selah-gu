@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 121:4",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 121,
+  "translation": "જુઓ, તે મીંડવશે નહીં અને નહીં ઊંઘશે — ઇસ્રાએલનો રખવાળ.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "જુઓ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "ינום",
+      "gloss": "મીંડવશે"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "અને નહીં"
+    },
+    {
+      "surface": "יישן",
+      "gloss": "ઊંઘશે"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "રખવાળ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ઇસ્રાએલનો"
+    }
+  ],
+  "timestamp": "2026-08-21T16:45:39.778364023Z",
+  "model": "glm-5.3"
+}

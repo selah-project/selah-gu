@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 41:23",
+  "book": "ezekiel",
+  "lang": "gu",
+  "chapter": 41,
+  "translation": "અને હેખલ માટે બે દરવાજા હતા અને પવિત્ર સ્થાન માટે ⟨બે⟩.",
+  "tokens": [
+    {
+      "surface": "ושתים",
+      "gloss": "અને બે"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "દરવાજા"
+    },
+    {
+      "surface": "להיכל",
+      "gloss": "હેખલ માટે"
+    },
+    {
+      "surface": "ולקדש",
+      "gloss": "અને પવિત્ર સ્થાન માટે"
+    }
+  ],
+  "timestamp": "2026-08-21T15:39:47.902632927Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 31:22",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 31,
+  "translation": "માત્ર ⟨את⟩ સોનું અને ⟨את⟩ ચાંદી, ⟨את⟩ તાંબું, ⟨את⟩ લોખંડ, ⟨את⟩ ટીન અને ⟨את⟩ સીસું —",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "માત્ર"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "સોનું"
+    },
+    {
+      "surface": "હזהב",
+      "gloss": "સોનું"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "અને ⟨את⟩",
+      "marks": "ચાંદી"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "ચાંદી"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "તાંબું"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "તાંબું"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "લોખંડ"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "લોખંડ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ટીન"
+    },
+    {
+      "surface": "הבדיל",
+      "gloss": "ટીન"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "અને ⟨את⟩",
+      "marks": "સીસું"
+    },
+    {
+      "surface": "העפרת",
+      "gloss": "સીસું"
+    }
+  ],
+  "timestamp": "2026-08-21T12:08:19.277886919Z",
+  "model": "glm-5.3"
+}

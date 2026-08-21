@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "numbers 33:50",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 33,
+  "translation": "અને યાહવે મોઆબના મેદાનોમાં, યર્દન પાસે યરીખો સામે, મોશેને વાત કરી, કહેતા:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "અને…વાત કરી"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "אל",
+      "gloss": "પ્રતિ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "મોશેને"
+    },
+    {
+      "surface": "בערבת",
+      "gloss": "મેદાનોમાં"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "મોઆબના"
+    },
+    {
+      "surface": "על",
+      "gloss": "પાસે"
+    },
+    {
+      "surface": "ירדן",
+      "gloss": "યર્દન"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "યરીખો સામે"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "કહેતા"
+    }
+  ],
+  "timestamp": "2026-08-21T12:10:32.065041453Z",
+  "model": "glm-5.3"
+}

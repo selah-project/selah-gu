@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 24:20",
+  "book": "ezekiel",
+  "lang": "gu",
+  "chapter": 24,
+  "translation": "અને મેં તેઓને કહ્યું, યાહવેનો વચન મને આવ્યું, કહેતા:",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "અને મેં કહ્યું"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "તેઓને"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "વચન"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવેનો"
+    },
+    {
+      "surface": "היה",
+      "gloss": "આવ્યું"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "મને"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "કહેતા"
+    }
+  ],
+  "timestamp": "2026-08-21T15:30:20.230200774Z",
+  "model": "glm-5.3"
+}

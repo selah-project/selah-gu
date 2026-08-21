@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "malachi 2:1",
+  "book": "malachi",
+  "lang": "gu",
+  "chapter": 2,
+  "translation": "અને હવે, હે યાજકો, આ આજ્ઞા તમારા માટે ⟨છે⟩.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "અને હવે"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "તમારા માટે, હે યાજકો"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "આ આજ્ઞા"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "આ"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "યાજકો"
+    }
+  ],
+  "timestamp": "2026-08-21T16:07:45.666212057Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 41:28",
+  "book": "genesis",
+  "lang": "gu",
+  "chapter": 41,
+  "translation": "એ જ વાત છે જે મેં ફારોહને કહી: જે એલોહીમ કરી રહ્યા છે તે તેમણે ફારોહને બતાવ્યું છે.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "એ જ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "વાત"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જે"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "મેં કહી"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ને"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ફારોહ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જે"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "એલોહીમ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "કરી રહ્યા છે"
+    },
+    {
+      "surface": "הראה",
+      "gloss": "બતાવ્યું છે"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ફારોહ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ફારોહને"
+    }
+  ],
+  "timestamp": "2026-08-21T10:59:28.806040650Z",
+  "model": "glm-5.3"
+}

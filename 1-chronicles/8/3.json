@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 8:3",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 8,
+  "translation": "અને બેલાને પુત્રો થયા: અદ્દાર, અને ગેરા, અને અબિહૂદ.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "થયા"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "לבלע",
+      "gloss": "બેલાને"
+    },
+    {
+      "surface": "אדר",
+      "gloss": "અદ્દાર"
+    },
+    {
+      "surface": "וגרא",
+      "gloss": "અને ગેરા"
+    },
+    {
+      "surface": "ואביהוד",
+      "gloss": "અને અબિહૂદ"
+    }
+  ],
+  "timestamp": "2026-08-21T18:03:20.673796851Z",
+  "model": "glm-5.3"
+}

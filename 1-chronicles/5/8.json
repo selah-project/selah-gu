@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 5:8",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 5,
+  "translation": "અને બેલા અઝાઝનો પુત્ર, શેમાનો પુત્ર, યોએલનો પુત્ર; તે ⟨he⟩ અરોએરમાં, નેબો સુધી અને બાલ-મેઓન સુધી વસતો હતો.",
+  "tokens": [
+    {
+      "surface": "ובלע",
+      "gloss": "અને બેલા"
+    },
+    {
+      "surface": "בן",
+      "gloss": "પુત્ર"
+    },
+    {
+      "surface": "עזז",
+      "gloss": "અઝાઝનો"
+    },
+    {
+      "surface": "בן",
+      "gloss": "પુત્ર"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "શેમાનો"
+    },
+    {
+      "surface": "בן",
+      "gloss": "પુત્ર"
+    },
+    {
+      "surface": "יואל",
+      "gloss": "યોએલનો"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "તે"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "વસતો હતો"
+    },
+    {
+      "surface": "בערער",
+      "gloss": "અરોએરમાં"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "સુધી"
+    },
+    {
+      "surface": "נבו",
+      "gloss": "નેબો"
+    },
+    {
+      "surface": "ובעל",
+      "gloss": "અને બાલ"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "મેઓન"
+    }
+  ],
+  "timestamp": "2026-08-21T18:01:54.843747130Z",
+  "model": "glm-5.3"
+}

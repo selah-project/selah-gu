@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 48:8",
+  "book": "genesis",
+  "lang": "gu",
+  "chapter": 48,
+  "translation": "અને ઇસ્રાએલે ⟨את⟩ યોસેફના પુત્રોને જોયા, અને કહ્યું, “આ કોણ છે?”",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "અને જોયા"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ઇસ્રાએલે"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "યોસેફના પુત્રોને"
+    },
+    {
+      "surface": "בני",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "યોસેફના"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "અને કહ્યું"
+    },
+    {
+      "surface": "מי",
+      "gloss": "કોણ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "આ"
+    }
+  ],
+  "timestamp": "2026-08-21T11:04:19.287217092Z",
+  "model": "glm-5.3"
+}

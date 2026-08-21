@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 13:4",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 13,
+  "translation": "અને આખા સભાએ એમ કરવા કહ્યું, કારણ કે ⟨વાત⟩ આખા પ્રજાની આંખોમાં સાચી ⟨લાગતી હતી⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "અને કહ્યું"
+    },
+    {
+      "surface": "כל",
+      "gloss": "આખા"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "સભાએ"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "કરવા"
+    },
+    {
+      "surface": "כן",
+      "gloss": "એમ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "કારણ કે"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "સાચી"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "વાત"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "આંખોમાં"
+    },
+    {
+      "surface": "כל",
+      "gloss": "આખા"
+    },
+    {
+      "surface": "העם",
+      "gloss": "પ્રજાની"
+    }
+  ],
+  "timestamp": "2026-08-21T18:07:47.214805627Z",
+  "model": "glm-5.3"
+}

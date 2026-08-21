@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 14:8",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 14,
+  "translation": "ચતુરની હિંમત ⟨એ છે કે⟩ તે ⟨પોતાનો⟩ માર્ગ સમજે, અને મૂર્ખોની મૂર્ખાઈ છળ છે.",
+  "tokens": [
+    {
+      "surface": "חכמת",
+      "gloss": "હિંમત"
+    },
+    {
+      "surface": "ערום",
+      "gloss": "ચતુરની"
+    },
+    {
+      "surface": "הבין",
+      "gloss": "સમજે"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "તેનો માર્ગ"
+    },
+    {
+      "surface": "ואולת",
+      "gloss": "અને મૂર્ખાઈ"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "મૂર્ખોની"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "છળ"
+    }
+  ],
+  "timestamp": "2026-08-21T16:56:25.568237845Z",
+  "model": "glm-5.3"
+}

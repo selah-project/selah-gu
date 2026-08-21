@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 20:2",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 20,
+  "translation": "અને સભા માટે પાણી નહોતું, અને તેઓ મોશે સામે અને અહરોન સામે એકઠા થયા.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "અને... નહોતું"
+    },
+    {
+      "surface": "היה",
+      "gloss": "હતું"
+    },
+    {
+      "surface": "מים",
+      "gloss": "પાણી"
+    },
+    {
+      "surface": "לעדה",
+      "gloss": "સભા માટે"
+    },
+    {
+      "surface": "ויקהלו",
+      "gloss": "એકઠા થયા"
+    },
+    {
+      "surface": "על",
+      "gloss": "સામે"
+    },
+    {
+      "surface": "משה",
+      "gloss": "મોશે"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "અને... સામે"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "અહરોન"
+    }
+  ],
+  "timestamp": "2026-08-21T12:02:19.475153374Z",
+  "model": "glm-5.3"
+}

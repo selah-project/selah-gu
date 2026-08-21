@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 12:10",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 12,
+  "translation": "એઝેર ⟨the⟩ પ્રથમ, ઓબદ્યાહ ⟨the⟩ બીજો, એલિઆબ ⟨the⟩ ત્રીજો.",
+  "tokens": [
+    {
+      "surface": "עזר",
+      "gloss": "એઝેર"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "પ્રથમ"
+    },
+    {
+      "surface": "עבדיה",
+      "gloss": "ઓબદ્યાહ"
+    },
+    {
+      "surface": "השני",
+      "gloss": "બીજો"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "એલિઆબ"
+    },
+    {
+      "surface": "השלשי",
+      "gloss": "ત્રીજો"
+    }
+  ],
+  "timestamp": "2026-08-21T18:05:05.945678811Z",
+  "model": "glm-5.3"
+}

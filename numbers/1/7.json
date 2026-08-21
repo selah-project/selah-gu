@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 1:7",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 1,
+  "translation": "યહૂદા માટે — નખશોન, અમ્મીનાદાવનો પુત્ર।",
+  "tokens": [
+    {
+      "surface": "ליהודה",
+      "gloss": "યહૂદા માટે"
+    },
+    {
+      "surface": "נחשון",
+      "gloss": "નખશોન"
+    },
+    {
+      "surface": "בן",
+      "gloss": "પુત્ર"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "અમ્મીનાદાવનો"
+    }
+  ],
+  "timestamp": "2026-08-21T11:46:41.847396716Z",
+  "model": "glm-5.3"
+}

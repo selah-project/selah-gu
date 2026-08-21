@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 17:26",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 17,
+  "translation": "અને હવે, હે યાહવે, તું જ એલોહીમ છે, અને તેં તારા દાસની વિષે આ ભલાઈની વાત કહી છે.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "અને હવે"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "તું"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "જ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "એલોહીમ"
+    },
+    {
+      "surface": "ותדבר",
+      "gloss": "અને તેં કહી છે"
+    },
+    {
+      "surface": "על",
+      "gloss": "વિષે"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "તારા દાસની"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "આ ભલાઈની વાત"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "આ"
+    }
+  ],
+  "timestamp": "2026-08-21T18:09:00.626417078Z",
+  "model": "glm-5.3"
+}

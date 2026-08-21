@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 13:1",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 13,
+  "translation": "જ્ઞાની પુત્ર ⟨પિતાની⟩ શિક્ષા સાંભળે છે, પણ ઉપહાસક ઠપકો સાંભળતો નથી.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "પુત્ર"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "જ્ઞાની"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "શિક્ષા"
+    },
+    {
+      "surface": "אב",
+      "gloss": "પિતાની"
+    },
+    {
+      "surface": "ולץ",
+      "gloss": "પણ ઉપહાસક"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નથી"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "સાંભળે છે"
+    },
+    {
+      "surface": "גערה",
+      "gloss": "ઠપકો"
+    }
+  ],
+  "timestamp": "2026-08-21T16:55:54.987810526Z",
+  "model": "glm-5.3"
+}

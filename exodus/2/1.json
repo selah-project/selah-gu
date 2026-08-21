@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 2:1",
+  "book": "exodus",
+  "lang": "gu",
+  "chapter": 2,
+  "translation": "અને લેવીના ઘરનો એક માણસ ગયો, અને તેણે લેવીની પુત્રીને ⟨את⟩ લીધી.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "અને ગયો"
+    },
+    {
+      "surface": "איש",
+      "gloss": "એક માણસ"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "ઘરનો"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "લેવી"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "અને તેણે લીધી"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "લેવીની પુત્રી"
+    },
+    {
+      "surface": "בת",
+      "gloss": "પુત્રી"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "લેવીની"
+    }
+  ],
+  "timestamp": "2026-08-21T11:06:45.618358593Z",
+  "model": "glm-5.3"
+}

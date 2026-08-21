@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 3:3",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 3,
+  "translation": "ઘણા મારા નફશને કહે ⟨છે⟩: “તેના માટે એલોહીમમાં કોઈ મુક્તિ નથી.” સેલા.",
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "ઘણા"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "કહે"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "મારા નફશને"
+    },
+    {
+      "surface": "אין",
+      "gloss": "નથી"
+    },
+    {
+      "surface": "ישועתה",
+      "gloss": "મુક્તિ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "તેના માટે"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "એલોહીમમાં"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "સેલા"
+    }
+  ],
+  "timestamp": "2026-08-21T16:09:37.192929475Z",
+  "model": "glm-5.3"
+}

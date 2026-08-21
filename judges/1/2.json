@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "judges 1:2",
+  "book": "judges",
+  "lang": "gu",
+  "chapter": 1,
+  "translation": "અને યાહવેએ કહ્યું: યહૂદા ચઢશે; જુઓ, મેં ⟨את⟩ ભૂમિ તેના હાથમાં આપી છે.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "અને કહ્યું"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવેએ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "યહૂદા"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "ચઢશે"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "જુઓ"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "મેં આપી છે"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ભૂમિ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ભૂમિ"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "તેના હાથમાં"
+    }
+  ],
+  "timestamp": "2026-08-21T12:45:49.849005034Z",
+  "model": "glm-5.3"
+}

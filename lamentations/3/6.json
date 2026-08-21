@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "lamentations 3:6",
+  "book": "lamentations",
+  "lang": "gu",
+  "chapter": 3,
+  "translation": "અંધકારમાં તેણે મને વસાવ્યો, પ્રાચીન મૃતકોની જેમ.",
+  "tokens": [
+    {
+      "surface": "במחשכים",
+      "gloss": "અંધકારમાં"
+    },
+    {
+      "surface": "הושיבני",
+      "gloss": "તેણે મને વસાવ્યો"
+    },
+    {
+      "surface": "כמתי",
+      "gloss": "મૃતકોની જેમ"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "પ્રાચીન"
+    }
+  ],
+  "timestamp": "2026-08-21T17:25:38.993986189Z",
+  "model": "glm-5.3"
+}

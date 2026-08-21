@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "nehemiah 11:36",
+  "book": "nehemiah",
+  "lang": "gu",
+  "chapter": 11,
+  "translation": "અને લેવીયોમાંથી યહૂદાહનાં વિભાગો બિન્યામીન માટે ⟨is⟩.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "અને…માંથી"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "લેવીયો"
+    },
+    {
+      "surface": "מחלקות",
+      "gloss": "વિભાગો"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "યહૂદાહનાં"
+    },
+    {
+      "surface": "לבנימין",
+      "gloss": "બિન્યામીન માટે"
+    }
+  ],
+  "timestamp": "2026-08-21T17:58:00.061761805Z",
+  "model": "glm-5.3"
+}

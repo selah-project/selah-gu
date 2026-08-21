@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 2:1",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 2,
+  "translation": "અને યાહવેએ મોશેહ સાથે અને અહરોન સાથે વાત કરી, કહેતા,",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "અને વાત કરી"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવેએ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "સાથે"
+    },
+    {
+      "surface": "משה",
+      "gloss": "મોશેહ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "અને સાથે"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "અહરોન"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "કહેતા"
+    }
+  ],
+  "timestamp": "2026-08-21T11:48:30.791304155Z",
+  "model": "glm-5.3"
+}

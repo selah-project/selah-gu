@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 97:9",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 97,
+  "translation": "કેમ કે તું, હે યાહવે, સમગ્ર પૃથ્વી ઉપર સર્વોચ્ચ ⟨છે⟩; તું બધા જ એલોહીમ કરતાં ઘણો ઊંચો ઉઠ્યો ⟨છે⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "કેમ કે"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "તું"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "સર્વોચ્ચ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ઉપર"
+    },
+    {
+      "surface": "כל",
+      "gloss": "સમગ્ર"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "પૃથ્વી"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ઘણો"
+    },
+    {
+      "surface": "נעלית",
+      "gloss": "ઊંચો ઉઠ્યો"
+    },
+    {
+      "surface": "על",
+      "gloss": "કરતાં"
+    },
+    {
+      "surface": "כל",
+      "gloss": "બધા જ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "એલોહીમ"
+    }
+  ],
+  "timestamp": "2026-08-21T16:37:41.143917037Z",
+  "model": "glm-5.3"
+}

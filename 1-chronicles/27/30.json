@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 27:30",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 27,
+  "translation": "અને ઊંટો પર યિશ્મએલી ઓબીલ ⟨હતો⟩; અને ગધેડીઓ પર મેરોનોથી યહદીયાહૂ ⟨હતો⟩.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "અને … પર"
+    },
+    {
+      "surface": "הגמלים",
+      "gloss": "ઊંટો"
+    },
+    {
+      "surface": "אוביל",
+      "gloss": "ઓબીલ"
+    },
+    {
+      "surface": "הישמעלי",
+      "gloss": "યિશ્મએલી"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "અને … પર"
+    },
+    {
+      "surface": "האתנות",
+      "gloss": "ગધેડીઓ"
+    },
+    {
+      "surface": "יחדיהו",
+      "gloss": "યહદીયાહૂ"
+    },
+    {
+      "surface": "המרנתי",
+      "gloss": "મેરોનોથી"
+    }
+  ],
+  "timestamp": "2026-08-21T18:13:34.198648955Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 7:18",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 7,
+  "translation": "“આવ, પ્રભાત સુધી પ્રેમથી તૃપ્ત થઈએ; પ્રેમમાં રાજી થઈએ.",
+  "tokens": [
+    {
+      "surface": "לכה",
+      "gloss": "આવ"
+    },
+    {
+      "surface": "נרוה",
+      "gloss": "તૃપ્ત થઈએ"
+    },
+    {
+      "surface": "דדים",
+      "gloss": "પ્રેમથી"
+    },
+    {
+      "surface": "עד",
+      "gloss": "સુધી"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "પ્રભાત"
+    },
+    {
+      "surface": "נתעלסה",
+      "gloss": "રાજી થઈએ"
+    },
+    {
+      "surface": "באהבים",
+      "gloss": "પ્રેમમાં"
+    }
+  ],
+  "timestamp": "2026-08-21T16:54:11.582127637Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 15:1",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 15,
+  "translation": "નરમ જવાબ ક્રોધને પાછો વળાવે છે, અને દુઃખદાયી શબ્દ ક્રોધને ઉપડાવે છે.",
+  "tokens": [
+    {
+      "surface": "מענה",
+      "gloss": "જવાબ"
+    },
+    {
+      "surface": "רך",
+      "gloss": "નરમ"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "પાછો વળાવે છે"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "ક્રોધ"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "અને શબ્દ"
+    },
+    {
+      "surface": "עצב",
+      "gloss": "દુઃખદાયી"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "ઉપડાવે છે"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ક્રોધ"
+    }
+  ],
+  "timestamp": "2026-08-21T16:57:23.747115444Z",
+  "model": "glm-5.3"
+}

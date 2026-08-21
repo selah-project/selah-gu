@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "joshua 12:23",
+  "book": "joshua",
+  "lang": "gu",
+  "chapter": 12,
+  "translation": "નાફત-દોરમાં દોરના રાજાનું એક; ગિલ્ગાલના ગોયીમના રાજાનું એક;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "રાજા"
+    },
+    {
+      "surface": "דור",
+      "gloss": "દોર"
+    },
+    {
+      "surface": "לנפת",
+      "gloss": "નાફતમાં"
+    },
+    {
+      "surface": "דור",
+      "gloss": "દોર"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "એક"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "રાજા"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ગોયીમ"
+    },
+    {
+      "surface": "לגלגל",
+      "gloss": "ગિલ્ગાલના"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "એક"
+    }
+  ],
+  "timestamp": "2026-08-21T12:38:17.120387557Z",
+  "model": "glm-5.3"
+}

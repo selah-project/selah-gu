@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 8:14",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 8,
+  "translation": "મારી પાસે ⟨છે⟩ સલાહ અને તુશિયા; હું જ સમજ છું; મારી પાસે ⟨છે⟩ પરાક્રમ.",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "મારી પાસે"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "સલાહ"
+    },
+    {
+      "surface": "ותושיה",
+      "gloss": "અને તુશિયા"
+    },
+    {
+      "surface": "אני",
+      "gloss": "હું જ"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "સમજ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "મારી પાસે"
+    },
+    {
+      "surface": "גבורה",
+      "gloss": "પરાક્રમ"
+    }
+  ],
+  "timestamp": "2026-08-21T18:57:48.456023091Z",
+  "model": "glm-5.3"
+}

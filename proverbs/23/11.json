@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 23:11",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 23,
+  "translation": "કારણ કે તેમનો ગોએલ (છોડનાર) બળવાન ⟨is⟩; તે ⟨את⟩ તેમનો ઝઘો તારી સાથે લડશે.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "કારણ કે"
+    },
+    {
+      "surface": "גאלם",
+      "gloss": "તેમનો ગોએલ (છોડનાર)"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "બળવાન"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "તે"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "ઝઘો લડશે"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "તેમનો ઝઘો"
+    },
+    {
+      "surface": "ריבם",
+      "gloss": "તેમનો ઝઘો"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "તારી સાથે ⟨את⟩"
+    }
+  ],
+  "timestamp": "2026-08-21T17:00:39.047432723Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "nehemiah 7:18",
+  "book": "nehemiah",
+  "lang": "gu",
+  "chapter": 7,
+  "translation": "અદોનિકામનાં પુત્રો — છસો સિંસઠ અને સાત.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "אדניקם",
+      "gloss": "અદોનિકામ"
+    },
+    {
+      "surface": "שש",
+      "gloss": "છ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "સો"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "સિંસઠ"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "અને સાત"
+    }
+  ],
+  "timestamp": "2026-08-21T17:54:54.721230629Z",
+  "model": "glm-5.3"
+}

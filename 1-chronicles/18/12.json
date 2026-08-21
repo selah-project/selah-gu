@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 18:12",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 18,
+  "translation": "અને સરુયાહના પુત્ર અબીશાયે મીઠાની ખીણમાં એદોમને ⟨את⟩ પીટ્યો — અઢારાં હજાર.",
+  "tokens": [
+    {
+      "surface": "ואבשי",
+      "gloss": "અને અબીશાયે"
+    },
+    {
+      "surface": "בן",
+      "gloss": "પુત્ર"
+    },
+    {
+      "surface": "צרויה",
+      "gloss": "સરુયાહના"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "પીટ્યો"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "એદોમને"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "એદોમને"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "ખીણમાં"
+    },
+    {
+      "surface": "המלח",
+      "gloss": "મીઠાની"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "અઢાર"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "(અઢાર)"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "હજાર"
+    }
+  ],
+  "timestamp": "2026-08-21T18:09:35.817126721Z",
+  "model": "glm-5.3"
+}

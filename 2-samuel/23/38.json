@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "2-samuel 23:38",
+  "book": "2-samuel",
+  "lang": "gu",
+  "chapter": 23,
+  "translation": "ઇરા ⟨the⟩ યિત્રી, ગારેબ ⟨the⟩ યિત્રી —",
+  "tokens": [
+    {
+      "surface": "עירא",
+      "gloss": "ઇરા"
+    },
+    {
+      "surface": "היתרי",
+      "gloss": "યિત્રી"
+    },
+    {
+      "surface": "גרב",
+      "gloss": "ગારેબ"
+    },
+    {
+      "surface": "היתרי",
+      "gloss": "યિત્રી"
+    }
+  ],
+  "timestamp": "2026-08-21T13:33:52.573392958Z",
+  "model": "glm-5.3"
+}

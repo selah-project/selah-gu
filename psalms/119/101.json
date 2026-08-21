@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 101,
+  "ref": "psalms 119:101",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 119,
+  "translation": "દરેક દુષ્ટ માર્ગથી મેં મારા પગ રોકી દીધા, જેથી હું તારો વચન પાળું.",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "દરેક …થી"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "માર્ગ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "દુષ્ટ"
+    },
+    {
+      "surface": "כלאתי",
+      "gloss": "રોકી દીધા"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "મારા પગ"
+    },
+    {
+      "surface": "למען",
+      "gloss": "જેથી"
+    },
+    {
+      "surface": "אשמר",
+      "gloss": "પાળું"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "તારો વચન"
+    }
+  ],
+  "timestamp": "2026-08-21T16:44:52.883621555Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 11:9",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 11,
+  "translation": "અને રાત્રે છાવણી પર તુષાર ઊતરતો, ત્યારે તેના પર માન ઊતરતો.",
+  "tokens": [
+    {
+      "surface": "וברדת",
+      "gloss": "અને…ઊતરતો, ત્યારે"
+    },
+    {
+      "surface": "הטל",
+      "gloss": "તુષાર"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "છાવણી"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "રાત્રે"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "ઊતરતો"
+    },
+    {
+      "surface": "המן",
+      "gloss": "માન"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "તેના પર"
+    }
+  ],
+  "timestamp": "2026-08-21T11:56:59.166112577Z",
+  "model": "glm-5.3"
+}

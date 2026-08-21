@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 13:18",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 13,
+  "translation": "અને તમે ⟨את⟩ દેશને જુઓ — તે શું છે — અને ⟨את⟩ પ્રજાને જે તેમાં વસે છે — શું તે બળવાન ⟨is⟩, કે નબળા; શું તે ઓછા ⟨are⟩ કે વધારે.",
+  "tokens": [
+    {
+      "surface": "וראיתם",
+      "gloss": "અને તમે જુઓ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "દેશને"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "દેશ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "શું"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "તે છે"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "પ્રજાને"
+    },
+    {
+      "surface": "העם",
+      "gloss": "પ્રજા"
+    },
+    {
+      "surface": "הישב",
+      "gloss": "વસનાર"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "તેમાં"
+    },
+    {
+      "surface": "החזק",
+      "gloss": "બળવાન"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "તે છે"
+    },
+    {
+      "surface": "הרפה",
+      "gloss": "કે નબળા"
+    },
+    {
+      "surface": "המעט",
+      "gloss": "ઓછા"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "તે છે"
+    },
+    {
+      "surface": "אם",
+      "gloss": "કે"
+    },
+    {
+      "surface": "רב",
+      "gloss": "વધારે"
+    }
+  ],
+  "timestamp": "2026-08-21T11:56:17.564306582Z",
+  "model": "glm-5.3"
+}

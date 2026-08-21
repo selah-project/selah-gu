@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 18:15",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 18,
+  "translation": "અને ત્સરૂયાહનો પુત્ર યોઆવ ⟨was⟩ સૈન્ય પર; અને અખીલૂદનો પુત્ર યહોશાફાત ⟨was⟩ સ્મારક-લેખક.",
+  "tokens": [
+    {
+      "surface": "ויואב",
+      "gloss": "અને યોઆવ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "પુત્ર"
+    },
+    {
+      "surface": "צרויה",
+      "gloss": "ત્સરૂયાહનો"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "સૈન્ય"
+    },
+    {
+      "surface": "ויהושפט",
+      "gloss": "અને યહોશાફાત"
+    },
+    {
+      "surface": "בן",
+      "gloss": "પુત્ર"
+    },
+    {
+      "surface": "אחילוד",
+      "gloss": "અખીલૂદનો"
+    },
+    {
+      "surface": "מזכיר",
+      "gloss": "સ્મારક-લેખક"
+    }
+  ],
+  "timestamp": "2026-08-21T18:09:01.019419344Z",
+  "model": "glm-5.3"
+}

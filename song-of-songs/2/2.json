@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "song-of-songs 2:2",
+  "book": "song-of-songs",
+  "lang": "gu",
+  "chapter": 2,
+  "translation": "જેમ કાંટાઓ વચ્ચે કમળ, તેમ કન્યાઓ વચ્ચે મારી પ્રિયતમા ⟨છે⟩.",
+  "tokens": [
+    {
+      "surface": "כשושנה",
+      "gloss": "જેમ કમળ"
+    },
+    {
+      "surface": "בין",
+      "gloss": "વચ્ચે"
+    },
+    {
+      "surface": "החוחים",
+      "gloss": "કાંટાઓ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "તેમ"
+    },
+    {
+      "surface": "רעיתי",
+      "gloss": "મારી પ્રિયતમા"
+    },
+    {
+      "surface": "בין",
+      "gloss": "વચ્ચે"
+    },
+    {
+      "surface": "הבנות",
+      "gloss": "કન્યાઓ"
+    }
+  ],
+  "timestamp": "2026-08-21T17:21:27.983432549Z",
+  "model": "glm-5.3"
+}

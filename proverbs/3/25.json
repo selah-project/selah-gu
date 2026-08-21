@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 3:25",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 3,
+  "translation": "અચાનક આવતા ભયથી ડરશો નહીં, અને દુષ્ટોના વિનાશથી પણ નહીં, જ્યારે તે આવશે.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "ડરશો"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "ભયથી"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "અચાનક"
+    },
+    {
+      "surface": "ומשאת",
+      "gloss": "અને…વિનાશથી"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "દુષ્ટોના"
+    },
+    {
+      "surface": "כי",
+      "gloss": "જ્યારે"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "તે આવશે"
+    }
+  ],
+  "timestamp": "2026-08-21T16:52:21.780219285Z",
+  "model": "glm-5.3"
+}

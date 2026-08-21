@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 25:1",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 25,
+  "translation": "દાવીદનો. તરફ તારી, હે યાહવે, મારો જીવ હું ઊંચો કરું છું.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "દાવીદનો"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "તરફ તારી"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "મારો જીવ"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "હું ઊંચો કરું છું"
+    }
+  ],
+  "timestamp": "2026-08-21T16:16:21.904703188Z",
+  "model": "glm-5.3"
+}

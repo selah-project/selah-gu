@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 35:28",
+  "book": "genesis",
+  "lang": "gu",
+  "chapter": 35,
+  "translation": "અને ઇત્સહાકનાં દિવસો ⟨હતાં⟩ સો વર્ષ અને અંશી વર્ષ.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "અને…હતાં"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "દિવસો"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "ઇત્સહાકનાં"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "સો"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "વર્ષ"
+    },
+    {
+      "surface": "ושמנים",
+      "gloss": "અને અંશી"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "વર્ષ"
+    }
+  ],
+  "timestamp": "2026-08-21T10:56:20.573520848Z",
+  "model": "glm-5.3"
+}

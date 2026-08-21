@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 147:9",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 147,
+  "translation": "તે પશુને તેનો ખોરાક આપે છે, અને કાગડાના બચ્ચાંને જે બૂમ પાડે છે.",
+  "tokens": [
+    {
+      "surface": "נותן",
+      "gloss": "આપે છે"
+    },
+    {
+      "surface": "לבהמה",
+      "gloss": "પશુને"
+    },
+    {
+      "surface": "לחמה",
+      "gloss": "તેનો ખોરાક"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "…ના બચ્ચાંને"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "કાગડો"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જે"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "બૂમ પાડે છે"
+    }
+  ],
+  "timestamp": "2026-08-21T16:50:02.124351478Z",
+  "model": "glm-5.3"
+}

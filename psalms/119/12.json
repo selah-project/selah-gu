@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 119:12",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 119,
+  "translation": "તું ધન્ય છે, હે યાહવે; મને તારા વિધાનો શીખવ.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "ધન્ય"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "તું"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "મને શીખવ"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "તારા વિધાનો"
+    }
+  ],
+  "timestamp": "2026-08-21T16:43:28.809904468Z",
+  "model": "glm-5.3"
+}

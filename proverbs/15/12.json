@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 15:12",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 15,
+  "translation": "ઠઠ્ઠા મારનાર પોતાને ઠપકો મારનારને પ્રેમ કરતો નથી; જ્ઞાનીઓ પાસે ⟨તે⟩ જતો નથી.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "નથી"
+    },
+    {
+      "surface": "יאהב",
+      "gloss": "પ્રેમ કરતો"
+    },
+    {
+      "surface": "לץ",
+      "gloss": "ઠઠ્ઠા મારનાર"
+    },
+    {
+      "surface": "הוכח",
+      "gloss": "ઠપકો મારનાર"
+    },
+    {
+      "surface": "לו",
+      "gloss": "પોતાને"
+    },
+    {
+      "surface": "אל",
+      "gloss": "પાસે"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "જ્ઞાનીઓ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નથી"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "જતો"
+    }
+  ],
+  "timestamp": "2026-08-21T16:57:17.974062683Z",
+  "model": "glm-5.3"
+}

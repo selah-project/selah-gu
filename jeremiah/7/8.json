@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 7:8",
+  "book": "jeremiah",
+  "lang": "gu",
+  "chapter": 7,
+  "translation": "જુઓ, તમે તમારા પર ભરોસો રાખો છો જૂઠાણાનાં વચનો પર — જેથી કશું લાભ ન થાય.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "જુઓ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "તમે"
+    },
+    {
+      "surface": "בטחים",
+      "gloss": "ભરોસો રાખો છો"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "તમારા પર"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "વચનો"
+    },
+    {
+      "surface": "השקר",
+      "gloss": "જૂઠાણાનાં"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "જેથી...નહીં"
+    },
+    {
+      "surface": "הועיל",
+      "gloss": "લાભ થાય"
+    }
+  ],
+  "timestamp": "2026-08-21T14:47:50.909050563Z",
+  "model": "glm-5.3"
+}

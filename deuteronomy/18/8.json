@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 18:8",
+  "book": "deuteronomy",
+  "lang": "gu",
+  "chapter": 18,
+  "translation": "ભાગ જેમ ભાગ એ ખાશે, પિતૃઓની સાથે ⟨રહેતાં⟩ પોતાનાં વેચાણનાં વસ્તુઓ સિવાય.",
+  "tokens": [
+    {
+      "surface": "חלק",
+      "gloss": "ભાગ"
+    },
+    {
+      "surface": "כחלק",
+      "gloss": "જેમ ભાગ"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "એ ખાશે"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "સિવાય"
+    },
+    {
+      "surface": "ממכריו",
+      "gloss": "પોતાનાં વેચાણનાં વસ્તુઓ"
+    },
+    {
+      "surface": "על",
+      "gloss": "સાથે"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "પિતૃઓની"
+    }
+  ],
+  "timestamp": "2026-08-21T12:22:28.977247789Z",
+  "model": "glm-5.3"
+}

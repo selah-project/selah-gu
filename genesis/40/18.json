@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 40:18",
+  "book": "genesis",
+  "lang": "gu",
+  "chapter": 40,
+  "translation": "અને યોસેફે ઉત્તર આપીને કહ્યું: તેનો અર્થ એ ⟨is⟩: ત્રણ ટોપલીઓ ત્રણ દિવસ ⟨are⟩.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "ઉત્તર આપીને"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "યોસેફે"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "કહ્યું"
+    },
+    {
+      "surface": "זה",
+      "gloss": "તેનો"
+    },
+    {
+      "surface": "פתרנו",
+      "gloss": "અર્થ"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "ત્રણ"
+    },
+    {
+      "surface": "הסלים",
+      "gloss": "ટોપલીઓ"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "ત્રણ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "દિવસ"
+    },
+    {
+      "surface": "הם",
+      "gloss": "⟨are⟩"
+    }
+  ],
+  "timestamp": "2026-08-21T18:33:19.760345680Z",
+  "model": "glm-5.3"
+}

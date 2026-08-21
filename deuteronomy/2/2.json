@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 2:2",
+  "book": "deuteronomy",
+  "lang": "gu",
+  "chapter": 2,
+  "translation": "અને યાહવે મને કહેવા લાગ્યા:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "અને કહેવા લાગ્યા"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "મને"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "કહેવા"
+    }
+  ],
+  "timestamp": "2026-08-21T12:12:29.298978919Z",
+  "model": "glm-5.3"
+}

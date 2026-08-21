@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 27:7",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 27,
+  "translation": "તૃપ્ત જીવ મધની ધારાને પગ દળી નાખે છે, અને ભૂખ્યા જીવને દરેક કડવું મીઠું લાગે છે.",
+  "tokens": [
+    {
+      "surface": "נפש",
+      "gloss": "જીવ"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "તૃપ્ત"
+    },
+    {
+      "surface": "תבוס",
+      "gloss": "પગ દળી નાખે છે"
+    },
+    {
+      "surface": "נפת",
+      "gloss": "મધની ધારા"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "અને જીવ"
+    },
+    {
+      "surface": "רעבה",
+      "gloss": "ભૂખ્યા"
+    },
+    {
+      "surface": "כל",
+      "gloss": "દરેક"
+    },
+    {
+      "surface": "מר",
+      "gloss": "કડવું"
+    },
+    {
+      "surface": "מתוק",
+      "gloss": "મીઠું"
+    }
+  ],
+  "timestamp": "2026-08-21T17:02:31.416997252Z",
+  "model": "glm-5.3"
+}

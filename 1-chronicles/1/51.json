@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "1-chronicles 1:51",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 1,
+  "translation": "અને હાદદ મર્યો; અને એદોમના સરદારો હતા: સરદાર તિમના, સરદાર અલ્વા, સરદાર યતેત.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "અને મર્યો"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "હાદદ"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "અને હતા"
+    },
+    {
+      "surface": "אלופי",
+      "gloss": "સરદારો"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "એદોમના"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "સરદાર"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "તિમના"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "સરદાર"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "અલ્વા"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "સરદાર"
+    },
+    {
+      "surface": "יתת",
+      "gloss": "યતેત"
+    }
+  ],
+  "timestamp": "2026-08-21T17:59:08.602544704Z",
+  "model": "glm-5.3"
+}

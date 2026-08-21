@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 24:28",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 24,
+  "translation": "તારા પડોશી વિરુદ્ધ વ્યર્થ સાક્ષી ન થઈશ, અને તારા હોઠથી છેતરીશ નહીં.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ન"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "થઈશ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "સાક્ષી"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "વ્યર્થ"
+    },
+    {
+      "surface": "ברעך",
+      "gloss": "તારા પડોશી વિરુદ્ધ"
+    },
+    {
+      "surface": "והפתית",
+      "gloss": "અને છેતરીશ નહીં"
+    },
+    {
+      "surface": "בשפתיך",
+      "gloss": "તારા હોઠથી"
+    }
+  ],
+  "timestamp": "2026-08-21T17:01:11.571805538Z",
+  "model": "glm-5.3"
+}

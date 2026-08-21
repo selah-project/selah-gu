@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "genesis 30:34",
+  "book": "genesis",
+  "lang": "gu",
+  "chapter": 30,
+  "translation": "અને લાબાને કહ્યું, જુઓ, કાશ કે તે તારા શબ્દ પ્રમાણે થાય.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "અને કહ્યું"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "લાબાને"
+    },
+    {
+      "surface": "הן",
+      "gloss": "જુઓ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "કાશ કે"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "થાય"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "તારા શબ્દ પ્રમાણે"
+    }
+  ],
+  "timestamp": "2026-08-21T10:54:17.046888592Z",
+  "model": "glm-5.3"
+}

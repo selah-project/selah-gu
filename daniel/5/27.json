@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "daniel 5:27",
+  "book": "daniel",
+  "lang": "gu",
+  "chapter": 5,
+  "translation": "તેકેલ — તન્યાર તરાશમાં તોલાયો છે અને તોટામાં ઊણો મળ્યો છે.",
+  "tokens": [
+    {
+      "surface": "תקל",
+      "gloss": "તેકેલ"
+    },
+    {
+      "surface": "תקילתה",
+      "gloss": "તોલાયો છે"
+    },
+    {
+      "surface": "במאזניא",
+      "gloss": "તરાશમાં"
+    },
+    {
+      "surface": "והשתכחת",
+      "gloss": "અને મળ્યો છે"
+    },
+    {
+      "surface": "חסיר",
+      "gloss": "ઊણો"
+    }
+  ],
+  "timestamp": "2026-08-21T17:38:32.349480722Z",
+  "model": "glm-5.3"
+}

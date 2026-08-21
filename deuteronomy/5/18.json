@@ -1,0 +1,21 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 5:18",
+  "book": "deuteronomy",
+  "lang": "gu",
+  "chapter": 5,
+  "translation": "અને તું વ્યભિચાર નહિ કરે.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "અને નહિ"
+    },
+    {
+      "surface": "תנאף",
+      "gloss": "તું વ્યભિચાર કરે"
+    }
+  ],
+  "timestamp": "2026-08-21T12:14:06.962253573Z",
+  "model": "glm-5.3"
+}

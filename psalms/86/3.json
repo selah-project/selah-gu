@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 86:3",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 86,
+  "translation": "અદોનાય, મારી પર કૃપા કર, કેમ કે હું આખો દિવસ તારી પાસે પોકારું છું.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "મારી પર કૃપા કર"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "અદોનાય"
+    },
+    {
+      "surface": "כי",
+      "gloss": "કેમ કે"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "તારી પાસે"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "હું પોકારું છું"
+    },
+    {
+      "surface": "כל",
+      "gloss": "આખો"
+    },
+    {
+      "surface": "היום",
+      "gloss": "દિવસ"
+    }
+  ],
+  "timestamp": "2026-08-21T16:35:17.632196730Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ecclesiastes 7:23",
+  "book": "ecclesiastes",
+  "lang": "gu",
+  "chapter": 7,
+  "translation": "આ બધું મેં જ્ઞાન વડે પરીક્ષ્યું; મેં કહ્યું, હું જ્ઞાની થઈશ — પણ તે મારથી દૂર ⟨is⟩.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "બધું"
+    },
+    {
+      "surface": "זה",
+      "gloss": "આ"
+    },
+    {
+      "surface": "נסיתי",
+      "gloss": "મેં પરીક્ષ્યું"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "જ્ઞાન વડે"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "મેં કહ્યું"
+    },
+    {
+      "surface": "אחכמה",
+      "gloss": "હું જ્ઞાની થઈશ"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "અને તે"
+    },
+    {
+      "surface": "רחוקה",
+      "gloss": "દૂર"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "મારથી"
+    }
+  ],
+  "timestamp": "2026-08-21T17:30:26.892135377Z",
+  "model": "glm-5.3"
+}

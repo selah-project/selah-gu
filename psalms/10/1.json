@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 10:1",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 10,
+  "translation": "યાહવે, તું દૂર કેમ ઊભો રહે છે? સંકટના સમયોમાં તું કેમ છુપાય છે?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "કેમ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "તું ઊભો રહે છે"
+    },
+    {
+      "surface": "ברחוק",
+      "gloss": "દૂર"
+    },
+    {
+      "surface": "תעלים",
+      "gloss": "છુપાય છે"
+    },
+    {
+      "surface": "לעתות",
+      "gloss": "સમયોમાં"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "સંકટના"
+    }
+  ],
+  "timestamp": "2026-08-21T16:13:01.488295577Z",
+  "model": "glm-5.3"
+}

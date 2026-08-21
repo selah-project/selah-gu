@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 20:10",
+  "book": "deuteronomy",
+  "lang": "gu",
+  "chapter": 20,
+  "translation": "જ્યારે તું કોઈ નગર પર યુદ્ધ કરવા તેની પાસે આવીશ, તો તેને શાંતિનો પ્રસ્તાવ આપીશ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "જ્યારે"
+    },
+    {
+      "surface": "תקרב",
+      "gloss": "પાસે આવીશ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ની પાસે"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "નગર"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "યુદ્ધ કરવા"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "તેની સામે"
+    },
+    {
+      "surface": "וקראת",
+      "gloss": "તો પ્રસ્તાવ આપીશ"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "તેને"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "શાંતિનો"
+    }
+  ],
+  "timestamp": "2026-08-21T12:23:05.637970739Z",
+  "model": "glm-5.3"
+}

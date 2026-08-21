@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 31:1",
+  "book": "jeremiah",
+  "lang": "gu",
+  "chapter": 31,
+  "translation": "તે સમયે, યાહવેના વચન, હું ઇસ્રાએલનાં બધાં કુટુંબોનો એલોહીમ થઈશ, અને તેઓ મારી પ્રજા થશે.",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "તે સમયે"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "તે"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "વચન"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "હું થઈશ"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "એલોહીમ તરીકે"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "બધાંનો"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "કુટુંબો"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ઇસ્રાએલ"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "અને તેઓ"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "થશે"
+    },
+    {
+      "surface": "לי",
+      "gloss": "મારી"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "પ્રજા"
+    }
+  ],
+  "timestamp": "2026-08-21T15:02:15.232768139Z",
+  "model": "glm-5.3"
+}

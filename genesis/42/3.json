@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 42:3",
+  "book": "genesis",
+  "lang": "gu",
+  "chapter": 42,
+  "translation": "અને યોસેફના દસ ભાઈઓ મિત્સરાયિમમાંથી અનાજ ખરીદવા ઊતર્યા.",
+  "tokens": [
+    {
+      "surface": "וירדו",
+      "gloss": "ઊતર્યા"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "ભાઈઓ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "યોસેફના"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "દસ"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "ખરીદવા"
+    },
+    {
+      "surface": "בר",
+      "gloss": "અનાજ"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "મિત્સરાયિમમાંથી"
+    }
+  ],
+  "timestamp": "2026-08-21T11:01:16.393498745Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "ezra 2:35",
+  "book": "ezra",
+  "lang": "gu",
+  "chapter": 2,
+  "translation": "સેનાહ (સેનાહ)ના પુત્રો — ત્રણ હજાર છસો ત્રીસ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "סנאה",
+      "gloss": "સેનાહ (સેનાહ)"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "ત્રણ"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "હજાર"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "અને છ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "સો"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "અને ત્રીસ"
+    }
+  ],
+  "timestamp": "2026-08-21T17:45:24.313320188Z",
+  "model": "glm-5.3"
+}

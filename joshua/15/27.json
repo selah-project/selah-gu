@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "joshua 15:27",
+  "book": "joshua",
+  "lang": "gu",
+  "chapter": 15,
+  "translation": "અને હાત્સર-ગદ્દા, અને હેશ્મોન, અને બેથ-પાલેત.",
+  "tokens": [
+    {
+      "surface": "וחצר",
+      "gloss": "અને હાત્સર"
+    },
+    {
+      "surface": "גדה",
+      "gloss": "ગદ્દા"
+    },
+    {
+      "surface": "וחשמון",
+      "gloss": "અને હેશ્મોન"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "અને બેથ"
+    },
+    {
+      "surface": "פלט",
+      "gloss": "પાલેત"
+    }
+  ],
+  "timestamp": "2026-08-21T12:40:35.479884259Z",
+  "model": "glm-5.3"
+}

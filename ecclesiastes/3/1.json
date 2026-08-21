@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 3:1",
+  "book": "ecclesiastes",
+  "lang": "gu",
+  "chapter": 3,
+  "translation": "દરેક વસ્તુને એક નિયત સમય ⟨છે⟩, અને આકાશ નીચે દરેક ઇચ્છાને એક સમય ⟨છે⟩.",
+  "tokens": [
+    {
+      "surface": "לכל",
+      "gloss": "દરેક વસ્તુને"
+    },
+    {
+      "surface": "זמן",
+      "gloss": "નિયત સમય"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "અને એક સમય"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "દરેક"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "ઇચ્છા"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "નીચે"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "આકાશ"
+    }
+  ],
+  "timestamp": "2026-08-21T17:29:15.138443980Z",
+  "model": "glm-5.3"
+}

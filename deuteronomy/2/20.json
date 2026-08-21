@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 2:20",
+  "book": "deuteronomy",
+  "lang": "gu",
+  "chapter": 2,
+  "translation": "રફાઈમોની ભૂમિ તરીકે તે પણ ગણાય છે; રફાઈમ પહેલાં તેમાં વસતા હતા, અને અમ્મોનીઓ તેમને ઝમઝુમ્મીમ કહે છે.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "ભૂમિ"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "રફાઈમોની"
+    },
+    {
+      "surface": "תחשב",
+      "gloss": "ગણાય છે"
+    },
+    {
+      "surface": "אף",
+      "gloss": "પણ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "તે"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "રફાઈમ"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "વસતા હતા"
+    },
+    {
+      "surface": "בה",
+      "gloss": "તેમાં"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "પહેલાં"
+    },
+    {
+      "surface": "והעמנים",
+      "gloss": "અને અમ્મોનીઓ"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "કહે છે"
+    },
+    {
+      "surface": "להם",
+      "gloss": "તેમને"
+    },
+    {
+      "surface": "זמזמים",
+      "gloss": "ઝમઝુમ્મીમ"
+    }
+  ],
+  "timestamp": "2026-08-21T12:12:13.958015090Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 29:5",
+  "book": "jeremiah",
+  "lang": "gu",
+  "chapter": 29,
+  "translation": "ઘરો બાંધો અને વસો; અને બગીચા રોપો અને ⟨את⟩ તેમનું ફળ ખાઓ.",
+  "tokens": [
+    {
+      "surface": "בנו",
+      "gloss": "બાંધો"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "ઘરો"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "અને વસો"
+    },
+    {
+      "surface": "ונטעו",
+      "gloss": "અને રોપો"
+    },
+    {
+      "surface": "גנות",
+      "gloss": "બગીચા"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "અને ખાઓ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "તેમનું ફળ"
+    },
+    {
+      "surface": "פרין",
+      "gloss": "ફળ"
+    }
+  ],
+  "timestamp": "2026-08-21T15:01:38.806624571Z",
+  "model": "glm-5.3"
+}

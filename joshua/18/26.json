@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "joshua 18:26",
+  "book": "joshua",
+  "lang": "gu",
+  "chapter": 18,
+  "translation": "અને ⟨the⟩ મિત્સપાહ, અને ⟨the⟩ કફીરાહ, અને ⟨the⟩ મોત્સાહ.",
+  "tokens": [
+    {
+      "surface": "והמצפה",
+      "gloss": "અને મિત્સપાહ"
+    },
+    {
+      "surface": "והכפירה",
+      "gloss": "અને કફીરાહ"
+    },
+    {
+      "surface": "והמצה",
+      "gloss": "અને મોત્સાહ"
+    }
+  ],
+  "timestamp": "2026-08-21T12:41:30.380621962Z",
+  "model": "glm-5.3"
+}

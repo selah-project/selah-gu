@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "ezra 10:37",
+  "book": "ezra",
+  "lang": "gu",
+  "chapter": 10,
+  "translation": "મત્તન્યાહ, મત્તેનાય, અને યાઆસાઉ.",
+  "tokens": [
+    {
+      "surface": "מתניה",
+      "gloss": "મત્તન્યાહ"
+    },
+    {
+      "surface": "מתני",
+      "gloss": "મત્તેનાય"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "અને યાઆસાઉ"
+    }
+  ],
+  "timestamp": "2026-08-21T17:50:05.334865562Z",
+  "model": "glm-5.3"
+}

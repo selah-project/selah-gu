@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 7:27",
+  "book": "leviticus",
+  "lang": "gu",
+  "chapter": 7,
+  "translation": "જે કોઈ પ્રાણ કોઈ પણ લોહી ખાય, તે પ્રાણ પોતાની પ્રજામાંથી કાપી નાખવામાં આવશે.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "જે કોઈ"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "પ્રાણ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જે"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "ખાય"
+    },
+    {
+      "surface": "כל",
+      "gloss": "કોઈ પણ"
+    },
+    {
+      "surface": "דם",
+      "gloss": "લોહી"
+    },
+    {
+      "surface": "ונכרתה",
+      "gloss": "અને કાપી નાખવામાં આવશે"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "તે પ્રાણ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "તે"
+    },
+    {
+      "surface": "מעמיה",
+      "gloss": "પોતાની પ્રજામાંથી"
+    }
+  ],
+  "timestamp": "2026-08-21T11:32:30.428153972Z",
+  "model": "glm-5.3"
+}

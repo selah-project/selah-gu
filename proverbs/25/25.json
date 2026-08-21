@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 25:25",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 25,
+  "translation": "થાકેલા પ્રાણ પર ઠંડાં પાણી જેવાં છે, અને દૂરના દેશમાંથી સારી ખબર તેવી જ છે.",
+  "tokens": [
+    {
+      "surface": "מים",
+      "gloss": "પાણી"
+    },
+    {
+      "surface": "קרים",
+      "gloss": "ઠંડાં"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "પ્રાણ"
+    },
+    {
+      "surface": "עיפה",
+      "gloss": "થાકેલા"
+    },
+    {
+      "surface": "ושמועה",
+      "gloss": "અને ખબર"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "સારી"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "દેશમાંથી"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "દૂરના"
+    }
+  ],
+  "timestamp": "2026-08-21T17:01:38.684923101Z",
+  "model": "glm-5.3"
+}

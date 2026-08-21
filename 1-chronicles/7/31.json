@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 7:31",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 7,
+  "translation": "અને બેરિયાનાં પુત્રો: હેબેર અને મલ્કીએલ; ⟨he⟩ ⟨is⟩ બિર્ઝાયિતનો પિતા.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "અને પુત્રો"
+    },
+    {
+      "surface": "בריעה",
+      "gloss": "બેરિયાનાં"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "હેબેર"
+    },
+    {
+      "surface": "ומלכיאל",
+      "gloss": "અને મલ્કીએલ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "he"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "પિતા"
+    },
+    {
+      "surface": "ברזות",
+      "gloss": "બિર્ઝાયિત"
+    }
+  ],
+  "timestamp": "2026-08-21T18:03:59.004444470Z",
+  "model": "glm-5.3"
+}

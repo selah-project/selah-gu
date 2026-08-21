@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 22:15",
+  "book": "genesis",
+  "lang": "gu",
+  "chapter": 22,
+  "translation": "અને યાહવેના દૂતે અવ્રાહામને આકાશમાંથી બીજી વાર બોલાવ્યો.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "બોલાવ્યો"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "દૂત"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવેના"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ને (તરફ)"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "અવ્રાહામ"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "બીજી વાર"
+    },
+    {
+      "surface": "מן",
+      "gloss": "માંથી"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "આકાશ"
+    }
+  ],
+  "timestamp": "2026-08-21T10:46:55.451345090Z",
+  "model": "glm-5.3"
+}

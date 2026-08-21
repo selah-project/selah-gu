@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "judges 18:13",
+  "book": "judges",
+  "lang": "gu",
+  "chapter": 18,
+  "translation": "અને ત્યાંથી તેઓ એફ્રાયિમના પહાડ પર પસાર થયા, અને મીખાહના ઘર સુધી આવ્યા.",
+  "tokens": [
+    {
+      "surface": "ויעברו",
+      "gloss": "પસાર થયા"
+    },
+    {
+      "surface": "משם",
+      "gloss": "ત્યાંથી"
+    },
+    {
+      "surface": "הר",
+      "gloss": "પહાડ"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "એફ્રાયિમ"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "આવ્યા"
+    },
+    {
+      "surface": "עד",
+      "gloss": "સુધી"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ઘર"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "મીખાહ"
+    }
+  ],
+  "timestamp": "2026-08-21T12:57:47.091522807Z",
+  "model": "glm-5.3"
+}

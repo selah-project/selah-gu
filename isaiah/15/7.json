@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 15:7",
+  "book": "isaiah",
+  "lang": "gu",
+  "chapter": 15,
+  "translation": "એટલે તેમની કમાણીનો વધારો અને તેમનો સંગ્રહ તેઓ વિલોના ઝરણા પર લઈ જશે.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "એટલે"
+    },
+    {
+      "surface": "כן",
+      "gloss": "તેથી"
+    },
+    {
+      "surface": "יתרה",
+      "gloss": "વધારો"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "કમાણીનો"
+    },
+    {
+      "surface": "ופקדתם",
+      "gloss": "અને તેમનો સંગ્રહ"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "ઝરણા"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "વિલોના"
+    },
+    {
+      "surface": "ישאום",
+      "gloss": "તેઓ લઈ જશે"
+    }
+  ],
+  "timestamp": "2026-08-21T14:19:45.060293658Z",
+  "model": "glm-5.3"
+}

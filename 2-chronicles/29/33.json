@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-chronicles 29:33",
+  "book": "2-chronicles",
+  "lang": "gu",
+  "chapter": 29,
+  "translation": "અને પવિત્ર કરેલી વસ્તુઓ — ઢોર છશસો અને ઘેટાં ત્રણ હજાર.",
+  "tokens": [
+    {
+      "surface": "והקדשים",
+      "gloss": "અને પવિત્ર કરેલી વસ્તુઓ"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ઢોર"
+    },
+    {
+      "surface": "שש",
+      "gloss": "છ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "સો"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "અને ઘેટાં"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "ત્રણ"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "હજાર"
+    }
+  ],
+  "timestamp": "2026-08-21T18:28:42.644916935Z",
+  "model": "glm-5.3"
+}

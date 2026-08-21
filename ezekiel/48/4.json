@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 48:4",
+  "book": "ezekiel",
+  "lang": "gu",
+  "chapter": 48,
+  "translation": "અને નફ્તાલીની સીમા પર, પૂર્વની દિશાથી પશ્ચિમની દિશા સુધી — મનશ્શે, એક (ભાગ).",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "અને પર"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "સીમા"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "નફ્તાલીની"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "દિશાથી"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "પૂર્વની"
+    },
+    {
+      "surface": "עד",
+      "gloss": "સુધી"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "દિશા"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "પશ્ચિમની"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "મનશ્શે"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "એક (ભાગ)"
+    }
+  ],
+  "timestamp": "2026-08-21T15:44:33.155101599Z",
+  "model": "glm-5.3"
+}

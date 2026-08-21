@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 83:8",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 83,
+  "translation": "ગેબલ, અને અમ્મોન, અને અમાલેક; પલિશ્તીઓ ત્યારના વતનીઓ સાથે,",
+  "tokens": [
+    {
+      "surface": "גבל",
+      "gloss": "ગેબલ"
+    },
+    {
+      "surface": "ועמון",
+      "gloss": "અને અમ્મોન"
+    },
+    {
+      "surface": "ועמלק",
+      "gloss": "અને અમાલેક"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "પલિશ્તીઓ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "સાથે"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "વતનીઓ"
+    },
+    {
+      "surface": "צור",
+      "gloss": "ત્યારના"
+    }
+  ],
+  "timestamp": "2026-08-21T16:32:54.597920929Z",
+  "model": "glm-5.3"
+}

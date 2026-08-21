@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 84:6",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 84,
+  "translation": "કેટલો ધન્ય છે ⟨એ⟩ માણસ જેનું બળ તમારામાં છે, જેના હૃદયમાં માર્ગો છે.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "કેટલો ધન્ય છે"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "માણસ"
+    },
+    {
+      "surface": "עוז",
+      "gloss": "બળ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "તેનું"
+    },
+    {
+      "surface": "בך",
+      "gloss": "તમારામાં"
+    },
+    {
+      "surface": "מסלות",
+      "gloss": "માર્ગો"
+    },
+    {
+      "surface": "בלבבם",
+      "gloss": "તેમના હૃદયમાં"
+    }
+  ],
+  "timestamp": "2026-08-21T16:35:18.023878018Z",
+  "model": "glm-5.3"
+}

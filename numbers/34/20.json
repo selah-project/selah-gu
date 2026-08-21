@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 34:20",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 34,
+  "translation": "અને શિમઓનનાં પુત્રોની શાખા માટે શમુએલ અમ્મીહૂદનો પુત્ર.",
+  "tokens": [
+    {
+      "surface": "ולמטה",
+      "gloss": "અને શાખા માટે"
+    },
+    {
+      "surface": "בני",
+      "gloss": "પુત્રોનાં"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "શિમઓન"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "શમુએલ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "પુત્ર"
+    },
+    {
+      "surface": "עמיהוד",
+      "gloss": "અમ્મીહૂદ"
+    }
+  ],
+  "timestamp": "2026-08-21T12:10:19.436237796Z",
+  "model": "glm-5.3"
+}

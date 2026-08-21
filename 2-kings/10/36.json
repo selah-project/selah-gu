@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "2-kings 10:36",
+  "book": "2-kings",
+  "lang": "gu",
+  "chapter": 10,
+  "translation": "અને ⟨the⟩ દિવસો જે યિહૂએ ઇસ્રાએલ પર રાજ્ય કર્યું — શોમરોનમાં — વીસ અને આઠ વર્ષ ⟨was⟩.",
+  "tokens": [
+    {
+      "surface": "והימים",
+      "gloss": "અને દિવસો"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જે"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "રાજ્ય કર્યું"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "યિહૂએ"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ઇસ્રાએલ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "વીસ"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "અને આઠ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "વર્ષ"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "શોમરોનમાં"
+    }
+  ],
+  "timestamp": "2026-08-21T13:58:52.991179345Z",
+  "model": "glm-5.3"
+}

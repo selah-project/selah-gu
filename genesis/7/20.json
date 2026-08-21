@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 7:20",
+  "book": "genesis",
+  "lang": "gu",
+  "chapter": 7,
+  "translation": "પંદર હાથ ઊંચાઈ સુધી પાણીઓ પ્રબળ થયાં, અને પર્વતો ઢંકાઈ ગયા.",
+  "tokens": [
+    {
+      "surface": "חמש",
+      "gloss": "પાંચ"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "દસ"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "હાથ (માપ)"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "ઊંચાઈ સુધી"
+    },
+    {
+      "surface": "גברו",
+      "gloss": "પ્રબળ થયાં"
+    },
+    {
+      "surface": "המים",
+      "gloss": "પાણીઓ"
+    },
+    {
+      "surface": "ויכסו",
+      "gloss": "અને ઢંકાઈ ગયા"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "પર્વતો"
+    }
+  ],
+  "timestamp": "2026-08-21T10:39:49.856640353Z",
+  "model": "glm-5.3"
+}

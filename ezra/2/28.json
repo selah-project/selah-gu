@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "ezra 2:28",
+  "book": "ezra",
+  "lang": "gu",
+  "chapter": 2,
+  "translation": "બેઇત-એલ અને હા-આઈના માણસો — બસો વીસ ત્રણ.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "માણસો"
+    },
+    {
+      "surface": "בית",
+      "gloss": "બેઇત"
+    },
+    {
+      "surface": "אל",
+      "gloss": "એલ"
+    },
+    {
+      "surface": "והעי",
+      "gloss": "અને હા-આઈ"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "બસો"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "વીસ"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "ત્રણ"
+    }
+  ],
+  "timestamp": "2026-08-21T17:45:09.747268136Z",
+  "model": "glm-5.3"
+}

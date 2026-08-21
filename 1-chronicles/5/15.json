@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 5:15",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 5,
+  "translation": "અખી — અબદીએલનો પુત્ર, ગૂનીનો પુત્ર — તેમનાં પિતૃ-ઘરાણી ⟨મુખી⟩ ⟨હતો⟩.",
+  "tokens": [
+    {
+      "surface": "אחי",
+      "gloss": "અખી"
+    },
+    {
+      "surface": "בן",
+      "gloss": "…નો પુત્ર"
+    },
+    {
+      "surface": "עבדיאל",
+      "gloss": "અબદીએલ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "…નો પુત્ર"
+    },
+    {
+      "surface": "גוני",
+      "gloss": "ગૂની"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "મુખી"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "…નાં ઘર માટે"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "તેમનાં પિતૃ-ઘર"
+    }
+  ],
+  "timestamp": "2026-08-21T18:01:58.808098977Z",
+  "model": "glm-5.3"
+}

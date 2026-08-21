@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 18:16",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 18,
+  "translation": "અને અખીતૂબનો પુત્ર સાદોક અને અબ્યાતારનો પુત્ર અબીમેલેખ ⟨were⟩ યાજકો; અને શવ્શા ⟨was⟩ લેખક.",
+  "tokens": [
+    {
+      "surface": "וצדוק",
+      "gloss": "અને સાદોક"
+    },
+    {
+      "surface": "בן",
+      "gloss": "પુત્ર"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "અખીતૂબનો"
+    },
+    {
+      "surface": "ואבימלך",
+      "gloss": "અને અબીમેલેખ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "પુત્ર"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "અબ્યાતારનો"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "યાજકો"
+    },
+    {
+      "surface": "ושושא",
+      "gloss": "અને શવ્શા"
+    },
+    {
+      "surface": "סופר",
+      "gloss": "લેખક"
+    }
+  ],
+  "timestamp": "2026-08-21T18:09:01.019599176Z",
+  "model": "glm-5.3"
+}

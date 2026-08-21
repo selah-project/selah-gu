@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 68,
+  "ref": "nehemiah 7:68",
+  "book": "nehemiah",
+  "lang": "gu",
+  "chapter": 7,
+  "translation": "ઊંટ ચારસો પાંત્રીસ; ગધેડા છ હજાર સાતસો વીસ.",
+  "tokens": [
+    {
+      "surface": "גמלים",
+      "gloss": "ઊંટ"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "ચાર"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "સો"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "ત્રીસ"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "અને પાંચ"
+    },
+    {
+      "surface": "חמרים",
+      "gloss": "ગધેડા"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "છ"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "હજાર"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "સાત"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "સો"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "અને વીસ"
+    }
+  ],
+  "timestamp": "2026-08-21T17:55:20.326332853Z",
+  "model": "glm-5.3"
+}

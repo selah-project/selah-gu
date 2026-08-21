@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 1:3",
+  "book": "exodus",
+  "lang": "gu",
+  "chapter": 1,
+  "translation": "યિસ્સાસ્ખાર, ઝવૂલૂન અને બિન્યામીન.",
+  "tokens": [
+    {
+      "surface": "יששכר",
+      "gloss": "યિસ્સાસ્ખાર"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "ઝવૂલૂન"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "અને બિન્યામીન"
+    }
+  ],
+  "timestamp": "2026-08-21T11:05:28.820298051Z",
+  "model": "glm-5.3"
+}

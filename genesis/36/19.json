@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 36:19",
+  "book": "genesis",
+  "lang": "gu",
+  "chapter": 36,
+  "translation": "આ એસાવનાં પુત્રો છે, અને આ તેમના સરદારો છે; તે જ એદોમ છે.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "આ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "એસાવનાં"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "અને આ"
+    },
+    {
+      "surface": "אלופיהם",
+      "gloss": "તેમના સરદારો"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "તે જ"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "એદોમ"
+    }
+  ],
+  "timestamp": "2026-08-21T10:56:34.335046408Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 23:16",
+  "book": "deuteronomy",
+  "lang": "gu",
+  "chapter": 23,
+  "translation": "તું કોઈ દાસને તેના માલિક પાસે સોંપીશ નહીં, જે તેના માલિક પાસેથી તારી પાસે દોડીને આવે.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "תסגיר",
+      "gloss": "તું સોંપીશ"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "દાસને"
+    },
+    {
+      "surface": "אל",
+      "gloss": "પાસે"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "તેના માલિક"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જે"
+    },
+    {
+      "surface": "ינצל",
+      "gloss": "દોડીને આવે"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "તારી પાસે"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "પાસેથી"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "તેના માલિક"
+    }
+  ],
+  "timestamp": "2026-08-21T12:25:18.726174947Z",
+  "model": "glm-5.3"
+}

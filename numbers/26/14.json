@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 26:14",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 26,
+  "translation": "આ શિમયોનીઓનાં કુળ છે — બે અને વીસ હજાર અને બે સો.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "આ"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "કુળ"
+    },
+    {
+      "surface": "השמעני",
+      "gloss": "શિમયોનીઓનાં"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "બે"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "અને વીસ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "હજાર"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "અને બે સો"
+    }
+  ],
+  "timestamp": "2026-08-21T12:04:49.536346671Z",
+  "model": "glm-5.3"
+}

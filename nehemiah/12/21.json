@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "nehemiah 12:21",
+  "book": "nehemiah",
+  "lang": "gu",
+  "chapter": 12,
+  "translation": "હિલ્કિયાના હેઠળ હશબ્યા; યદાયાના હેઠળ નતનએલ.",
+  "tokens": [
+    {
+      "surface": "לחלקיה",
+      "gloss": "હિલ્કિયાના હેઠળ"
+    },
+    {
+      "surface": "חשביה",
+      "gloss": "હશબ્યા"
+    },
+    {
+      "surface": "לידעיה",
+      "gloss": "યદાયાના હેઠળ"
+    },
+    {
+      "surface": "נתנאל",
+      "gloss": "નતનએલ"
+    }
+  ],
+  "timestamp": "2026-08-21T19:01:43.235718365Z",
+  "model": "glm-5.3"
+}

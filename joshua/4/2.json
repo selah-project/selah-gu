@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 4:2",
+  "book": "joshua",
+  "lang": "gu",
+  "chapter": 4,
+  "translation": "પ્રજામાંથી તમારા માટે બાર પુરુષો લો, એક પુરુષ — એક પુરુષ દરેક કુળમાંથી.",
+  "tokens": [
+    {
+      "surface": "קחו",
+      "gloss": "લો"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "તમારા માટે"
+    },
+    {
+      "surface": "מן",
+      "gloss": "માંથી"
+    },
+    {
+      "surface": "העם",
+      "gloss": "પ્રજા"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "બાર"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "(-સ્થિત બારનો ભાગ)"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "પુરુષો"
+    },
+    {
+      "surface": "איש",
+      "gloss": "એક પુરુષ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "એક"
+    },
+    {
+      "surface": "איש",
+      "gloss": "એક પુરુષ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "એક"
+    },
+    {
+      "surface": "משבט",
+      "gloss": "કુળમાંથી"
+    }
+  ],
+  "timestamp": "2026-08-21T12:33:31.998557122Z",
+  "model": "glm-5.3"
+}

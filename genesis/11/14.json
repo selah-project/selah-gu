@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 11:14",
+  "book": "genesis",
+  "lang": "gu",
+  "chapter": 11,
+  "translation": "અને શેલાખ ત્રીસ વર્ષ જીવ્યો, અને ⟨את⟩ એવેરને જન્મ આપ્યો.",
+  "tokens": [
+    {
+      "surface": "ושלח",
+      "gloss": "અને શેલાખ"
+    },
+    {
+      "surface": "חי",
+      "gloss": "જીવ્યો"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "ત્રીસ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "વર્ષ"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "જન્મ આપ્યો"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "એવેર"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "એવેર"
+    }
+  ],
+  "timestamp": "2026-08-21T10:41:25.972142247Z",
+  "model": "glm-5.3"
+}

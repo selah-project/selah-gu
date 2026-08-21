@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 2:32",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 2,
+  "translation": "અને યાદાના — શમ્માયના ભાઈના — પુત્રો યેતેર અને યોનાતાન; અને યેતેર મર્યો — પુત્રો નહીં.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "અને પુત્રો"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "યાદાના"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "ભાઈ"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "શમ્માયના"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "યેતેર"
+    },
+    {
+      "surface": "ויונתן",
+      "gloss": "અને યોનાતાન"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "અને મર્યો"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "યેતેર"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "પુત્રો"
+    }
+  ],
+  "timestamp": "2026-08-21T17:59:23.451796756Z",
+  "model": "glm-5.3"
+}

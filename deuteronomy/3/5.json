@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 3:5",
+  "book": "deuteronomy",
+  "lang": "gu",
+  "chapter": 3,
+  "translation": "આ બધાં શહેરો કિલ્લેબંધ હતા — ઊંચી દીવાલ, દરવાજા અને આડશ સાથે — અનારાં ગામડાંનાં શહેરો સિવાય, ખૂબ ઘણાં.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "આ બધાં"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "આ"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "શહેરો"
+    },
+    {
+      "surface": "בצרות",
+      "gloss": "કિલ્લેબંધ"
+    },
+    {
+      "surface": "חומה",
+      "gloss": "દીવાલ"
+    },
+    {
+      "surface": "גבהה",
+      "gloss": "ઊંચી"
+    },
+    {
+      "surface": "דלתים",
+      "gloss": "દરવાજા"
+    },
+    {
+      "surface": "ובריח",
+      "gloss": "અને આડશ"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "સિવાય"
+    },
+    {
+      "surface": "מערי",
+      "gloss": "શહેરો"
+    },
+    {
+      "surface": "הפרזי",
+      "gloss": "અનારાં ગામડાંનાં"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "ઘણાં"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ખૂબ"
+    }
+  ],
+  "timestamp": "2026-08-21T12:13:36.554204349Z",
+  "model": "glm-5.3"
+}

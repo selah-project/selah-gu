@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 4:6",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 4,
+  "translation": "ન્યાયના યજ્ઞો વધેરો, અને યાહવે પર ભરોસો રાખો.",
+  "tokens": [
+    {
+      "surface": "זבחו",
+      "gloss": "યજ્ઞ વધેરો"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "યજ્ઞો"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ન્યાયના"
+    },
+    {
+      "surface": "ובטחו",
+      "gloss": "અને ભરોસો રાખો"
+    },
+    {
+      "surface": "אל",
+      "gloss": "પર"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    }
+  ],
+  "timestamp": "2026-08-21T16:10:05.168366558Z",
+  "model": "glm-5.3"
+}

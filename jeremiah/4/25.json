@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 4:25",
+  "book": "jeremiah",
+  "lang": "gu",
+  "chapter": 4,
+  "translation": "મેં જોયું, અને જુઓ, ⟨કોઈ⟩ માણસ ન ⟨હતો⟩, અને આકાશનાં બધાં પક્ષીઓ ઉડી ગયાં.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "મેં જોયું"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "અને જુઓ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ન ⟨હતો⟩"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "માણસ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "અને બધાં"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "પક્ષીઓ"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "આકાશનાં"
+    },
+    {
+      "surface": "נדדו",
+      "gloss": "ઉડી ગયાં"
+    }
+  ],
+  "timestamp": "2026-08-21T14:46:30.322570962Z",
+  "model": "glm-5.3"
+}

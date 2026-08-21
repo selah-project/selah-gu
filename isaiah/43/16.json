@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 43:16",
+  "book": "isaiah",
+  "lang": "gu",
+  "chapter": 43,
+  "translation": "આમ કહે છે યાહવે, જે સમુદ્રમાં માર્ગ આપે છે અને પ્રબળ જળમાં પગદંડી બનાવે છે.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "આમ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "કહે છે"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "הנותן",
+      "gloss": "જે આપે છે"
+    },
+    {
+      "surface": "בים",
+      "gloss": "સમુદ્રમાં"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "માર્ગ"
+    },
+    {
+      "surface": "ובמים",
+      "gloss": "અને જળમાં"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "પ્રબળ"
+    },
+    {
+      "surface": "נתיבה",
+      "gloss": "પગદંડી"
+    }
+  ],
+  "timestamp": "2026-08-21T14:31:50.767936696Z",
+  "model": "glm-5.3"
+}

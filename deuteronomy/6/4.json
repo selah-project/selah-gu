@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 6:4",
+  "book": "deuteronomy",
+  "lang": "gu",
+  "chapter": 6,
+  "translation": "સાંભળ, હે ઇસ્રાએલ: યાહવે આપણા એલોહીમ, યાહવે ⟨is⟩ એક.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "સાંભળ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "હે ઇસ્રાએલ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "આપણા એલોહીમ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "એક"
+    }
+  ],
+  "timestamp": "2026-08-21T12:16:20.588964961Z",
+  "model": "glm-5.3"
+}

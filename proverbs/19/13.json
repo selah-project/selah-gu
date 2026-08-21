@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 19:13",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 19,
+  "translation": "મૂર્ખ પુત્ર તેના પિતાનો વિનાશ ⟨છે⟩, અને સ્ત્રીનાં ઝઘટાં સતત ટપકતું છે.",
+  "tokens": [
+    {
+      "surface": "הות",
+      "gloss": "વિનાશ"
+    },
+    {
+      "surface": "לאביו",
+      "gloss": "તેના પિતાનો"
+    },
+    {
+      "surface": "בן",
+      "gloss": "પુત્ર"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "મૂર્ખ"
+    },
+    {
+      "surface": "ודלף",
+      "gloss": "અને ટપકતું"
+    },
+    {
+      "surface": "טרד",
+      "gloss": "ટળાવે છે"
+    },
+    {
+      "surface": "מדיני",
+      "gloss": "ઝઘટાં"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "સ્ત્રીનાં"
+    }
+  ],
+  "timestamp": "2026-08-21T16:59:38.133428367Z",
+  "model": "glm-5.3"
+}

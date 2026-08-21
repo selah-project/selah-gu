@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "ezekiel 48:27",
+  "book": "ezekiel",
+  "lang": "gu",
+  "chapter": 48,
+  "translation": "અને ઝવૂલૂનની સીમા પર, પૂર્વ દિશાથી પશ્ચિમ દિશા સુધી, ગાદ — એક ⟨ભાગ⟩.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "અને … પર"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "સીમા"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "ઝવૂલૂન"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "દિશાથી"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "પૂર્વ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "સુધી"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "દિશા"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "પશ્ચિમ"
+    },
+    {
+      "surface": "גד",
+      "gloss": "ગાદ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "એક"
+    }
+  ],
+  "timestamp": "2026-08-21T15:45:18.100090905Z",
+  "model": "glm-5.3"
+}

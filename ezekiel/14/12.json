@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 14:12",
+  "book": "ezekiel",
+  "lang": "gu",
+  "chapter": 14,
+  "translation": "અને યાહવેનો વચન મને આવ્યું, કહેતાં:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "અને આવ્યું"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "વચન"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવેનો"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "મને"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "કહેતાં"
+    }
+  ],
+  "timestamp": "2026-08-21T15:24:12.976451005Z",
+  "model": "glm-5.3"
+}

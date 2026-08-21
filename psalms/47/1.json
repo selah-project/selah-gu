@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 47:1",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 47,
+  "translation": "સંગીત-નિર્દેશક માટે; કોરાહના પુત્રોનો; એક મઝમોર.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "સંગીત-નિર્દેશક માટે"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "પુત્રોનો"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "કોરાહના"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "એક મઝમોર"
+    }
+  ],
+  "timestamp": "2026-08-21T16:23:21.118674995Z",
+  "model": "glm-5.3"
+}

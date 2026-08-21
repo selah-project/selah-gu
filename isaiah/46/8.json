@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 46:8",
+  "book": "isaiah",
+  "lang": "gu",
+  "chapter": 46,
+  "translation": "આને યાદ રાખો અને પુરુષાર્થ બતાવો; હે અપરાધીઓ, તેને હૃદય ⟨પર⟩ લાવો.",
+  "tokens": [
+    {
+      "surface": "זכרו",
+      "gloss": "યાદ રાખો"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "આને"
+    },
+    {
+      "surface": "והתאששו",
+      "gloss": "અને પુરુષાર્થ બતાવો"
+    },
+    {
+      "surface": "השיבו",
+      "gloss": "લાવો"
+    },
+    {
+      "surface": "פושעים",
+      "gloss": "હે અપરાધીઓ"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "לב",
+      "gloss": "હૃદય"
+    }
+  ],
+  "timestamp": "2026-08-21T14:34:12.366229408Z",
+  "model": "glm-5.3"
+}

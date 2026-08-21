@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "judges 8:13",
+  "book": "judges",
+  "lang": "gu",
+  "chapter": 8,
+  "translation": "અને યોઆશનો પુત્ર ગિદિયોન યુદ્ધમાંથી, ઊંચે હેરેસથી પાછો ફર્યો.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "પાછો ફર્યો"
+    },
+    {
+      "surface": "גדעון",
+      "gloss": "ગિદિયોન"
+    },
+    {
+      "surface": "בן",
+      "gloss": "પુત્ર"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "યોઆશ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "માંથી"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "યુદ્ધ"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "ઊંચેથી"
+    },
+    {
+      "surface": "החרס",
+      "gloss": "હેરેસ"
+    }
+  ],
+  "timestamp": "2026-08-21T12:51:35.595510754Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 12:22",
+  "book": "joshua",
+  "lang": "gu",
+  "chapter": 12,
+  "translation": "કેદેશના રાજાનું એક; કાર્મેલના યોક્નેઆમના રાજાનું એક;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "રાજા"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "કેદેશ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "એક"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "રાજા"
+    },
+    {
+      "surface": "יקנעם",
+      "gloss": "યોક્નેઆમ"
+    },
+    {
+      "surface": "לכרמל",
+      "gloss": "કાર્મેલના"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "એક"
+    }
+  ],
+  "timestamp": "2026-08-21T12:38:17.120227213Z",
+  "model": "glm-5.3"
+}

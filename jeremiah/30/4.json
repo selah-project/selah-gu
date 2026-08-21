@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 30:4",
+  "book": "jeremiah",
+  "lang": "gu",
+  "chapter": 30,
+  "translation": "અને આ છે તે વચનો કે જે યાહવેએ ઇસ્રાએલ વિશે અને યહૂદા વિશે બોલ્યા.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "અને આ"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "વચનો"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "કે જે"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "બોલ્યા"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવેએ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "વિશે"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ઇસ્રાએલ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "અને…વિશે"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "યહૂદા"
+    }
+  ],
+  "timestamp": "2026-08-21T15:01:32.614990165Z",
+  "model": "glm-5.3"
+}

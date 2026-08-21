@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-kings 6:26",
+  "book": "1-kings",
+  "lang": "gu",
+  "chapter": 6,
+  "translation": "એક કરુબની ઊંચાઈ દસ હાથ ⟨હતી⟩, અને તેમ જ બીજા કરુબની.",
+  "tokens": [
+    {
+      "surface": "קומת",
+      "gloss": "ઊંચાઈ"
+    },
+    {
+      "surface": "הכרוב",
+      "gloss": "કરુબની"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "એક"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "દસ"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "હાથ"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "અને તેમ જ"
+    },
+    {
+      "surface": "הכרוב",
+      "gloss": "કરુબની"
+    },
+    {
+      "surface": "השני",
+      "gloss": "બીજા"
+    }
+  ],
+  "timestamp": "2026-08-21T13:39:48.885865429Z",
+  "model": "glm-5.3"
+}

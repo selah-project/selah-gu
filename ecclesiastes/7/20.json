@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 7:20",
+  "book": "ecclesiastes",
+  "lang": "gu",
+  "chapter": 7,
+  "translation": "કેમ કે પૃથ્વી પર એવો કોઈ ન્યાયી માણસ નથી કે જે સારું કરે અને પાપ ન કરે.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "કેમ કે"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "માણસ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "નથી"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ન્યાયી"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "પૃથ્વી પર"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "કે જે"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "કરે"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "સારું"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "અને…ન"
+    },
+    {
+      "surface": "יחטא",
+      "gloss": "પાપ કરે"
+    }
+  ],
+  "timestamp": "2026-08-21T17:31:01.719433782Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 32:8",
+  "book": "isaiah",
+  "lang": "gu",
+  "chapter": 32,
+  "translation": "પણ નદીવ નદીવ કારસાજીઓ કરશે, અને તે નદીવ કારસાજીઓ પર ઊભો રહેશે.",
+  "tokens": [
+    {
+      "surface": "ונדיב",
+      "gloss": "પણ નદીવ"
+    },
+    {
+      "surface": "נדיבות",
+      "gloss": "નદીવ કારસાજીઓ"
+    },
+    {
+      "surface": "יעץ",
+      "gloss": "કરશે"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "અને તે"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "נדיבות",
+      "gloss": "નદીવ કારસાજીઓ"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "ઊભો રહેશે"
+    }
+  ],
+  "timestamp": "2026-08-21T14:24:30.612764174Z",
+  "model": "glm-5.3"
+}

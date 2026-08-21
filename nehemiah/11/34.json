@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "nehemiah 11:34",
+  "book": "nehemiah",
+  "lang": "gu",
+  "chapter": 11,
+  "translation": "ખાદિદ, ત્સેબોઇમ, નેવલ્લાત.",
+  "tokens": [
+    {
+      "surface": "חדיד",
+      "gloss": "ખાદિદ"
+    },
+    {
+      "surface": "צבעים",
+      "gloss": "ત્સેબોઇમ"
+    },
+    {
+      "surface": "נבלט",
+      "gloss": "નેવલ્લાત"
+    }
+  ],
+  "timestamp": "2026-08-21T17:58:00.061502728Z",
+  "model": "glm-5.3"
+}

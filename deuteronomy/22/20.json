@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 22:20",
+  "book": "deuteronomy",
+  "lang": "gu",
+  "chapter": 22,
+  "translation": "પણ જો આ વાત સાચી હોય, કે યુવતીને કન્યાત્વનાં ચિહ્નો મળ્યાં નહીં —",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "પણ જો"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "સાચી"
+    },
+    {
+      "surface": "היה",
+      "gloss": "હોય"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "વાત"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "આ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "נמצאו",
+      "gloss": "મળ્યાં"
+    },
+    {
+      "surface": "בתולים",
+      "gloss": "કન્યાત્વનાં ચિહ્નો"
+    },
+    {
+      "surface": "לנער",
+      "gloss": "યુવતીને"
+    }
+  ],
+  "timestamp": "2026-08-21T12:25:09.233323330Z",
+  "model": "glm-5.3"
+}

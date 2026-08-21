@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 19:10",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 19,
+  "translation": "મૂર્ખ માટે વિલાસિતા યોગ્ય નથી — તો સેવકનું સરદારો પર શાસન તો કેમ યોગ્ય હોય!",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "નથી"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "યોગ્ય"
+    },
+    {
+      "surface": "לכסיל",
+      "gloss": "મૂર્ખ માટે"
+    },
+    {
+      "surface": "תענוג",
+      "gloss": "વિલાસિતા"
+    },
+    {
+      "surface": "אף",
+      "gloss": "—"
+    },
+    {
+      "surface": "כי",
+      "gloss": "તો"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "સેવકનું"
+    },
+    {
+      "surface": "משל",
+      "gloss": "શાસન"
+    },
+    {
+      "surface": "בשרים",
+      "gloss": "સરદારો પર"
+    }
+  ],
+  "timestamp": "2026-08-21T16:59:04.482342227Z",
+  "model": "glm-5.3"
+}

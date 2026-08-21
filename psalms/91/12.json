@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 91:12",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 91,
+  "translation": "હથેળીઓ પર તેઓ તને ઊંચકશે, અન્યથા તારો પગ પથ્થરમાં અથડાઈ જાય.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "כפים",
+      "gloss": "હથેળીઓ"
+    },
+    {
+      "surface": "ישאונך",
+      "gloss": "તેઓ તને ઊંચકશે"
+    },
+    {
+      "surface": "פן",
+      "gloss": "અન્યથા"
+    },
+    {
+      "surface": "תגף",
+      "gloss": "અથડાઈ જાય"
+    },
+    {
+      "surface": "באבן",
+      "gloss": "પથ્થરમાં"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "તારો પગ"
+    }
+  ],
+  "timestamp": "2026-08-21T16:36:02.236577347Z",
+  "model": "glm-5.3"
+}

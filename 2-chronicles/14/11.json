@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 14:11",
+  "book": "2-chronicles",
+  "lang": "gu",
+  "chapter": 14,
+  "translation": "અને યાહવેએ ⟨את⟩ કૂશીઓને અસા અને યહૂદા સામે પરાજિત કર્યા, અને કૂશીઓ નાસી ગયા.",
+  "tokens": [
+    {
+      "surface": "ויגף",
+      "gloss": "પરાજિત કર્યા"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવેએ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "કૂશીઓને"
+    },
+    {
+      "surface": "הכושים",
+      "gloss": "કૂશીઓને"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "સામે"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "અસા"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "અને સામે"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "યહૂદા"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "નાસી ગયા"
+    },
+    {
+      "surface": "הכושים",
+      "gloss": "કૂશીઓ"
+    }
+  ],
+  "timestamp": "2026-08-21T18:22:03.200887239Z",
+  "model": "glm-5.3"
+}

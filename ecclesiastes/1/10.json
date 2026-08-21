@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 1:10",
+  "book": "ecclesiastes",
+  "lang": "gu",
+  "chapter": 1,
+  "translation": "એવી કોઈ વસ્તુ છે કે જેના વિષે કોઈ કહે, “જુઓ, આ નવું છે”? તે તો અમને પહેલાંનાં યુગોમાં પહેલેથી હતું, જે અમારા પહેલાં હતું.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "છે"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "વસ્તુ"
+    },
+    {
+      "surface": "שיאמר",
+      "gloss": "કે જેના વિષે કહેવાય"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "જુઓ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "આ"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "નવું"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "છે"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "પહેલેથી"
+    },
+    {
+      "surface": "היה",
+      "gloss": "હતું"
+    },
+    {
+      "surface": "לעלמים",
+      "gloss": "યુગોમાં"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જે"
+    },
+    {
+      "surface": "היה",
+      "gloss": "હતું"
+    },
+    {
+      "surface": "מלפננו",
+      "gloss": "અમારા પહેલાં"
+    }
+  ],
+  "timestamp": "2026-08-21T17:28:33.940269054Z",
+  "model": "glm-5.3"
+}

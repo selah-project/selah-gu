@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 20:21",
+  "book": "exodus",
+  "lang": "gu",
+  "chapter": 20,
+  "translation": "અને પ્રજા દૂર ઊભી રહી, અને મૂશા એ ઘન અંધકાર પાસે ધસી ગયો, જ્યાં એલોહીમ ⟨છે⟩.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "અને ઊભી રહી"
+    },
+    {
+      "surface": "העם",
+      "gloss": "પ્રજા"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "દૂર"
+    },
+    {
+      "surface": "ומשה",
+      "gloss": "અને મૂશા"
+    },
+    {
+      "surface": "נגש",
+      "gloss": "ધસી ગયો"
+    },
+    {
+      "surface": "אל",
+      "gloss": "પાસે"
+    },
+    {
+      "surface": "הערפל",
+      "gloss": "ઘન અંધકાર"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જ્યાં"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ત્યાં"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "એલોહીમ"
+    }
+  ],
+  "timestamp": "2026-08-21T11:16:04.458566277Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "lamentations 3:49",
+  "book": "lamentations",
+  "lang": "gu",
+  "chapter": 3,
+  "translation": "મારી આંખ વહી પડે છે અને રોકાતી નથી, કોઈ વિરામ વિના.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "મારી આંખ"
+    },
+    {
+      "surface": "נגרה",
+      "gloss": "વહી પડે છે"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "અને... નથી"
+    },
+    {
+      "surface": "תדמה",
+      "gloss": "રોકાતી"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "કોઈ... વિના"
+    },
+    {
+      "surface": "הפגות",
+      "gloss": "વિરામ"
+    }
+  ],
+  "timestamp": "2026-08-21T17:25:39.271006992Z",
+  "model": "glm-5.3"
+}

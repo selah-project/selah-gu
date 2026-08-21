@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 4:3",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 4,
+  "translation": "કેમ કે હું મારા પિતાને ત્યાં પુત્ર હતો, કોમળ અને માતાની સામે એકલું દીકરું.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "કેમ કે"
+    },
+    {
+      "surface": "בן",
+      "gloss": "પુત્ર"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "હતો"
+    },
+    {
+      "surface": "לאבי",
+      "gloss": "મારા પિતાને ત્યાં"
+    },
+    {
+      "surface": "רך",
+      "gloss": "કોમળ"
+    },
+    {
+      "surface": "ויחיד",
+      "gloss": "અને એકલું દીકરું"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "સામે"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "માતાની"
+    }
+  ],
+  "timestamp": "2026-08-21T16:51:52.503467446Z",
+  "model": "glm-5.3"
+}

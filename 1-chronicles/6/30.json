@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 6:30",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 6,
+  "translation": "હશબ્યાહનો પુત્ર, અમત્સ્યાહનો પુત્ર, હિલ્કીયાહનો પુત્ર.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "પુત્ર"
+    },
+    {
+      "surface": "חשביה",
+      "gloss": "હશબ્યાહનો"
+    },
+    {
+      "surface": "בן",
+      "gloss": "પુત્ર"
+    },
+    {
+      "surface": "אמציה",
+      "gloss": "અમત્સ્યાહનો"
+    },
+    {
+      "surface": "בן",
+      "gloss": "પુત્ર"
+    },
+    {
+      "surface": "חלקיה",
+      "gloss": "હિલ્કીયાહનો"
+    }
+  ],
+  "timestamp": "2026-08-21T18:03:00.198656184Z",
+  "model": "glm-5.3"
+}

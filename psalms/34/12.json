@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 34:12",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 34,
+  "translation": "આવો, દીકરાઓ, મારું સાંભળો; યાહવેનો ભય હું તમને શીખવીશ.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "આવો"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "દીકરાઓ"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "સાંભળો"
+    },
+    {
+      "surface": "לי",
+      "gloss": "મારું"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "ભય"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવેનો"
+    },
+    {
+      "surface": "אלמדכם",
+      "gloss": "હું તમને શીખવીશ"
+    }
+  ],
+  "timestamp": "2026-08-21T16:18:18.365691417Z",
+  "model": "glm-5.3"
+}

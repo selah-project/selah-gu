@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "leviticus 14:38",
+  "book": "leviticus",
+  "lang": "gu",
+  "chapter": 14,
+  "translation": "અને કોહેન ઘરમાંથી ઘરના પ્રવેશદ્વાર પાસે બહાર નીકળે, અને ઘરને સાત દિવસ માટે બંધ કરી દે.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "અને નીકળે"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "કોહેન"
+    },
+    {
+      "surface": "מן",
+      "gloss": "માંથી"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ઘર"
+    },
+    {
+      "surface": "אל",
+      "gloss": "પાસે"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "પ્રવેશદ્વાર"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ઘરના"
+    },
+    {
+      "surface": "והסגיר",
+      "gloss": "અને બંધ કરી દે"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ઘરને"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ઘર"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "સાત"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "દિવસ"
+    }
+  ],
+  "timestamp": "2026-08-21T11:36:45.935734332Z",
+  "model": "glm-5.3"
+}

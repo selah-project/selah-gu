@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezekiel 43:16",
+  "book": "ezekiel",
+  "lang": "gu",
+  "chapter": 43,
+  "translation": "અને હવન-ભાગ બાર હાથ લંબાઈ, બાર હાથ પહોળાઈ, ચોરસ — તેની ચારે બાજુ સરખો.",
+  "tokens": [
+    {
+      "surface": "והאראיל",
+      "gloss": "અને હવન-ભાગ"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "બાર-નો 'બે'"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "દસ"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "લંબાઈ"
+    },
+    {
+      "surface": "בשתים",
+      "gloss": "બાર-માં 'બે'"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "દસ"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "પહોળાઈ"
+    },
+    {
+      "surface": "רבוע",
+      "gloss": "ચોરસ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "પ્રત્યે"
+    },
+    {
+      "surface": "ארבעת",
+      "gloss": "ચારે"
+    },
+    {
+      "surface": "רבעיו",
+      "gloss": "તેની બાજુ"
+    }
+  ],
+  "timestamp": "2026-08-21T15:42:01.811349284Z",
+  "model": "glm-5.3"
+}

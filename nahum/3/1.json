@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "nahum 3:1",
+  "book": "nahum",
+  "lang": "gu",
+  "chapter": 3,
+  "translation": "હાય, રક્તનું શહેર! તે સંપૂર્ણ કપટથી, લૂંટથી ભરેલું ⟨છે⟩; લૂંટ દૂર થતી નથી.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "હાય"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "શહેર"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "રક્ત"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "સંપૂર્ણ"
+    },
+    {
+      "surface": "כחש",
+      "gloss": "કપટ"
+    },
+    {
+      "surface": "פרק",
+      "gloss": "લૂંટ"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "ભરેલું"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નથી"
+    },
+    {
+      "surface": "ימיש",
+      "gloss": "દૂર થાય"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "લૂંટ"
+    }
+  ],
+  "timestamp": "2026-08-21T15:59:17.996869400Z",
+  "model": "glm-5.3"
+}

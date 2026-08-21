@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 12:9",
+  "book": "genesis",
+  "lang": "gu",
+  "chapter": 12,
+  "translation": "અને અવ્રામ દક્ષિણ તરફ ચાલતો અને પ્રયાણ કરતો આગળ વધ્યો.",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "અને પ્રયાણ કર્યું"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "અવ્રામ"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "ચાલતો"
+    },
+    {
+      "surface": "ונסוע",
+      "gloss": "અને પ્રયાણ કરતો"
+    },
+    {
+      "surface": "הנגבה",
+      "gloss": "દક્ષિણ તરફ"
+    }
+  ],
+  "timestamp": "2026-08-21T10:42:08.772152997Z",
+  "model": "glm-5.3"
+}

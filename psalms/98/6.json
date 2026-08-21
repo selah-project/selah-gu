@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 98:6",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 98,
+  "translation": "તુરંતા અને શોફારના અવાજ સાથે રાજા યાહવેની સામે ઘોષણા કરો.",
+  "tokens": [
+    {
+      "surface": "בחצצרות",
+      "gloss": "તુરંતા"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "અને અવાજ"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "શોફારના"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "ઘોષણા કરો"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "સામે"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "રાજા"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    }
+  ],
+  "timestamp": "2026-08-21T16:37:54.449559035Z",
+  "model": "glm-5.3"
+}

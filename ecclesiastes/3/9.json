@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 3:9",
+  "book": "ecclesiastes",
+  "lang": "gu",
+  "chapter": 3,
+  "translation": "કરનારને શું લાભ, જેમાં ⟨તે⟩ કઠોર પરિશ્રમ કરે છે?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "શું"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "લાભ"
+    },
+    {
+      "surface": "העושה",
+      "gloss": "કરનારને"
+    },
+    {
+      "surface": "באשר",
+      "gloss": "જેમાં"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨તે⟩"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "કઠોર પરિશ્રમ કરે છે"
+    }
+  ],
+  "timestamp": "2026-08-21T17:28:59.468065966Z",
+  "model": "glm-5.3"
+}

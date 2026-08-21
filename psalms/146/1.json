@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 146:1",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 146,
+  "translation": "યાહની સ્તુતિ કરો; મારા પ્રાણ, તું યાહવેની સ્તુતિ કર.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "સ્તુતિ કરો"
+    },
+    {
+      "surface": "יה",
+      "gloss": "યાહ"
+    },
+    {
+      "surface": "הללי",
+      "gloss": "સ્તુતિ કર"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "મારા પ્રાણ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "યાહવે"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    }
+  ],
+  "timestamp": "2026-08-21T16:50:09.021202190Z",
+  "model": "glm-5.3"
+}

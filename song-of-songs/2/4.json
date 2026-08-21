@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "song-of-songs 2:4",
+  "book": "song-of-songs",
+  "lang": "gu",
+  "chapter": 2,
+  "translation": "તેણે મને દ્રાક્ષારસના ઘરમાં લઈ ગયો, અને તેનો ધ્વજ મારા પર પ્રેમ ⟨છે⟩.",
+  "tokens": [
+    {
+      "surface": "הביאני",
+      "gloss": "તેણે મને લઈ ગયો"
+    },
+    {
+      "surface": "אל",
+      "gloss": "માં"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ઘર"
+    },
+    {
+      "surface": "היין",
+      "gloss": "દ્રાક્ષારસના"
+    },
+    {
+      "surface": "ודגלו",
+      "gloss": "અને તેનો ધ્વજ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "મારા પર"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "પ્રેમ"
+    }
+  ],
+  "timestamp": "2026-08-21T17:21:27.983791531Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 3:2",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 3,
+  "translation": "ત્રીજો અબ્શાલોમ, માઅખાનો પુત્ર, જે ગેશુરના રાજા તલ્માયની પુત્રી ⟨was⟩; ચોથો અદોનીયા, ખગીતનો પુત્ર;",
+  "tokens": [
+    {
+      "surface": "השלשי",
+      "gloss": "ત્રીજો"
+    },
+    {
+      "surface": "לאבשלום",
+      "gloss": "અબ્શાલોમ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "પુત્ર"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "માઅખા"
+    },
+    {
+      "surface": "בת",
+      "gloss": "પુત્રી"
+    },
+    {
+      "surface": "תלמי",
+      "gloss": "તલ્માય"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "રાજા"
+    },
+    {
+      "surface": "גשור",
+      "gloss": "ગેશુર"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "ચોથો"
+    },
+    {
+      "surface": "אדניה",
+      "gloss": "અદોનીયા"
+    },
+    {
+      "surface": "בן",
+      "gloss": "પુત્ર"
+    },
+    {
+      "surface": "חגית",
+      "gloss": "ખગીત"
+    }
+  ],
+  "timestamp": "2026-08-21T18:01:33.431304799Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 136:25",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 136,
+  "translation": "જે તમામ માંસને ભોજન આપે છે, કેમ કે સદા સુધી ⟨છે⟩ તેનો હેસેદ.",
+  "tokens": [
+    {
+      "surface": "נתן",
+      "gloss": "આપે છે"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ભોજન"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "તમામ…ને"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "માંસ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "કેમ કે"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "સદા સુધી"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "તેનો હેસેદ"
+    }
+  ],
+  "timestamp": "2026-08-21T18:57:51.249889901Z",
+  "model": "glm-5.3"
+}

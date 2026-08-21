@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 1:19",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 1,
+  "translation": "જેમ યાહવેએ મોશેને ⟨את⟩ આજ્ઞા કરી હતી તેમ, તેણે તેમની ગણતરી સીનાઇ રણમાં કરી.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "જેમ"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "આજ્ઞા કરી હતી"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "મોશે"
+    },
+    {
+      "surface": "משה",
+      "gloss": "મોશેને"
+    },
+    {
+      "surface": "ויפקדם",
+      "gloss": "તેમની ગણતરી કરી"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "રણમાં"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "સીનાઇ"
+    }
+  ],
+  "timestamp": "2026-08-21T11:47:55.121293704Z",
+  "model": "glm-5.3"
+}

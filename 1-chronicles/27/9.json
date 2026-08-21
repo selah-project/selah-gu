@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 27:9",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 27,
+  "translation": "છઠ્ઠો, છઠ્ઠા મહિના માટે, ઇરા ઇક્કેશનો પુત્ર, તકોવાનો; અને તેની ટુકડી પર ચોવીસ હજાર.",
+  "tokens": [
+    {
+      "surface": "הששי",
+      "gloss": "છઠ્ઠો"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "મહિના માટે"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "છઠ્ઠા"
+    },
+    {
+      "surface": "עירא",
+      "gloss": "ઇરા"
+    },
+    {
+      "surface": "בן",
+      "gloss": "પુત્ર"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "ઇક્કેશનો"
+    },
+    {
+      "surface": "התקועי",
+      "gloss": "તકોવાનો"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "અને … પર"
+    },
+    {
+      "surface": "מחלקתו",
+      "gloss": "તેની ટુકડી"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "વીસ"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "અને ચાર"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "હજાર"
+    }
+  ],
+  "timestamp": "2026-08-21T18:13:03.600251939Z",
+  "model": "glm-5.3"
+}

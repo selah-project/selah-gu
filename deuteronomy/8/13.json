@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 8:13",
+  "book": "deuteronomy",
+  "lang": "gu",
+  "chapter": 8,
+  "translation": "અને તારાં ઢોર અને તારી ઘેટાઓ વધે, અને ચાંદી અને સોનું તારા માટે વધે, અને જે કંઈ તારું છે તે વધે;",
+  "tokens": [
+    {
+      "surface": "ובקרך",
+      "gloss": "અને તારાં ઢોર"
+    },
+    {
+      "surface": "וצאנך",
+      "gloss": "અને તારી ઘેટાઓ"
+    },
+    {
+      "surface": "ירבין",
+      "gloss": "વધે"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "અને ચાંદી"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "અને સોનું"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "વધે"
+    },
+    {
+      "surface": "לך",
+      "gloss": "તારા માટે"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "અને જે કંઈ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જે"
+    },
+    {
+      "surface": "לך",
+      "gloss": "તારું છે"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "તે વધે"
+    }
+  ],
+  "timestamp": "2026-08-21T12:17:25.624905023Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 2:3",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 2,
+  "translation": "હા, જો તું વિવેક માટે પોકાર કરે, અને સમજણ માટે તારો અવાજ ઊંચો કરે,",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "હા, કે"
+    },
+    {
+      "surface": "אם",
+      "gloss": "જો"
+    },
+    {
+      "surface": "לבינה",
+      "gloss": "વિવેક માટે"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "તું પોકાર કરે"
+    },
+    {
+      "surface": "לתבונה",
+      "gloss": "સમજણ માટે"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "તું આપે"
+    },
+    {
+      "surface": "קולך",
+      "gloss": "તારો અવાજ"
+    }
+  ],
+  "timestamp": "2026-08-21T16:52:52.226954316Z",
+  "model": "glm-5.3"
+}

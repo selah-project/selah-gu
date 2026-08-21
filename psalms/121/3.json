@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 121:3",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 121,
+  "translation": "તે તારા પગને ડગવા ન દે, તારો રખવાળ ઊંઘશે નહીં.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ન"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "દે"
+    },
+    {
+      "surface": "למוט",
+      "gloss": "ડગવા"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "તારા પગને"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ન"
+    },
+    {
+      "surface": "ינום",
+      "gloss": "ઊંઘશે"
+    },
+    {
+      "surface": "שמרך",
+      "gloss": "તારો રખવાળ"
+    }
+  ],
+  "timestamp": "2026-08-21T16:45:39.778242505Z",
+  "model": "glm-5.3"
+}

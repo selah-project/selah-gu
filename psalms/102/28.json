@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 102:28",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 102,
+  "translation": "અને તમે તે જ ⟨છો⟩, અને તમારાં વર્ષો પૂરાં થશે નહીં.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "અને તમે"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "તે જ"
+    },
+    {
+      "surface": "ושנותיך",
+      "gloss": "અને તમારાં વર્ષો"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "יתמו",
+      "gloss": "પૂરાં થશે"
+    }
+  ],
+  "timestamp": "2026-08-21T16:39:03.440706980Z",
+  "model": "glm-5.3"
+}

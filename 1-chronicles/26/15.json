@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 26:15",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 26,
+  "translation": "ઓવેદ-એદોમને દક્ષિણ તરફ, અને તેના પુત્રોને ભંડાર-ગૃહ ⟨મળ્યું⟩.",
+  "tokens": [
+    {
+      "surface": "לעבד",
+      "gloss": "ઓવેદ-ને"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "એદોમ"
+    },
+    {
+      "surface": "נגבה",
+      "gloss": "દક્ષિણ તરફ"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "અને તેના પુત્રોને"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ગૃહ"
+    },
+    {
+      "surface": "האספים",
+      "gloss": "ભંડાર-"
+    }
+  ],
+  "timestamp": "2026-08-21T18:11:54.692544510Z",
+  "model": "glm-5.3"
+}

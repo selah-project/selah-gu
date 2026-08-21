@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "song-of-songs 8:8",
+  "book": "song-of-songs",
+  "lang": "gu",
+  "chapter": 8,
+  "translation": "અમારી એક નાની બહેન છે અને તેને સ્તનો નથી; જે દિવસે તેની સાથે વાત થાય તે દિવસે અમારી બહેન માટે અમે શું કરીએ?",
+  "tokens": [
+    {
+      "surface": "אחות",
+      "gloss": "બહેન"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "અમારી"
+    },
+    {
+      "surface": "קטנה",
+      "gloss": "નાની"
+    },
+    {
+      "surface": "ושדים",
+      "gloss": "અને સ્તનો"
+    },
+    {
+      "surface": "אין",
+      "gloss": "નથી"
+    },
+    {
+      "surface": "לה",
+      "gloss": "તેને"
+    },
+    {
+      "surface": "מה",
+      "gloss": "શું"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "અમે કરીએ"
+    },
+    {
+      "surface": "לאחתנו",
+      "gloss": "અમારી બહેન માટે"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "જે દિવસે"
+    },
+    {
+      "surface": "שידבר",
+      "gloss": "વાત થાય"
+    },
+    {
+      "surface": "בה",
+      "gloss": "તેની સાથે"
+    }
+  ],
+  "timestamp": "2026-08-21T17:25:10.491023557Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 35:20",
+  "book": "exodus",
+  "lang": "gu",
+  "chapter": 35,
+  "translation": "અને ઇસ્રાએલના પુત્રોની આખી સભા મોશેની સામેથી બહાર નીકળી ગઈ.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "અને ... બહાર નીકળી ગઈ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "આખી"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "સભા"
+    },
+    {
+      "surface": "בני",
+      "gloss": "પુત્રોની"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ઇસ્રાએલના"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "ની સામેથી"
+    },
+    {
+      "surface": "משה",
+      "gloss": "મોશે"
+    }
+  ],
+  "timestamp": "2026-08-21T11:24:21.400512654Z",
+  "model": "glm-5.3"
+}

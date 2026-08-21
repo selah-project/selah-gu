@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 74:19",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 74,
+  "translation": "તારા ફાખ્તાનો જીવ જંગલી પશુને ન સોંપ; તારા દરિદ્રોનો જીવ સદા માટે ન ભૂલી જઈશ.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ન"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "સોંપ"
+    },
+    {
+      "surface": "לחית",
+      "gloss": "જંગલી પશુને"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "જીવ"
+    },
+    {
+      "surface": "תורך",
+      "gloss": "તારા ફાખ્તાનો"
+    },
+    {
+      "surface": "חית",
+      "gloss": "જીવ"
+    },
+    {
+      "surface": "ענייך",
+      "gloss": "તારા દરિદ્રોનો"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ન"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "ભૂલી જઈશ"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "સદા માટે"
+    }
+  ],
+  "timestamp": "2026-08-21T16:31:13.112962745Z",
+  "model": "glm-5.3"
+}

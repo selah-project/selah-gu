@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 22:3",
+  "book": "2-chronicles",
+  "lang": "gu",
+  "chapter": 22,
+  "translation": "તે પણ અખાબના ઘરના માર્ગો પર ચાલ્યો, કારણ કે દુષ્કૃત્ય કરાવવા તેની માતા તેની સલાહકાર હતી.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "પણ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "તે"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ચાલ્યો"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "માર્ગો પર"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ઘરના"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "અખાબ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "કારણ કે"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "તેની માતા"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "હતી"
+    },
+    {
+      "surface": "יועצתו",
+      "gloss": "તેની સલાહકાર"
+    },
+    {
+      "surface": "להרשיע",
+      "gloss": "દુષ્કૃત્ય કરાવવા"
+    }
+  ],
+  "timestamp": "2026-08-21T18:24:22.887634433Z",
+  "model": "glm-5.3"
+}

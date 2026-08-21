@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-chronicles 11:29",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 11,
+  "translation": "સિબ્બેકાય હુશાથી, ઇલાય અહોહી.",
+  "tokens": [
+    {
+      "surface": "סבכי",
+      "gloss": "સિબ્બેકાય"
+    },
+    {
+      "surface": "החשתי",
+      "gloss": "હુશાથી"
+    },
+    {
+      "surface": "עילי",
+      "gloss": "ઇલાય"
+    },
+    {
+      "surface": "האחוחי",
+      "gloss": "અહોહી"
+    }
+  ],
+  "timestamp": "2026-08-21T18:04:28.196012788Z",
+  "model": "glm-5.3"
+}

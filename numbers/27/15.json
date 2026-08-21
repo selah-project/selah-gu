@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 27:15",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 27,
+  "translation": "અને મોશેએ યાહવેને કહ્યું, બોલીને:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "અને કહ્યું"
+    },
+    {
+      "surface": "משה",
+      "gloss": "મોશેએ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ને"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવેને"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "બોલીને"
+    }
+  ],
+  "timestamp": "2026-08-21T12:06:53.197744056Z",
+  "model": "glm-5.3"
+}

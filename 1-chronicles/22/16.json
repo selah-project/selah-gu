@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 22:16",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 22,
+  "translation": "સોના, ચાંદી, તાંબા અને લોઢાની કોઈ ગણતરી નથી; ઊઠ અને કર, અને યાહવે તારી સાથે રહો.",
+  "tokens": [
+    {
+      "surface": "לזהב",
+      "gloss": "સોના"
+    },
+    {
+      "surface": "לכסף",
+      "gloss": "ચાંદી"
+    },
+    {
+      "surface": "ולנחשת",
+      "gloss": "તાંબા"
+    },
+    {
+      "surface": "ולברזל",
+      "gloss": "અને લોઢાની"
+    },
+    {
+      "surface": "אין",
+      "gloss": "નથી"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "કોઈ ગણતરી"
+    },
+    {
+      "surface": "קום",
+      "gloss": "ઊઠ"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "અને કર"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "અને રહો"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "તારી સાથે"
+    }
+  ],
+  "timestamp": "2026-08-21T18:12:24.295934978Z",
+  "model": "glm-5.3"
+}

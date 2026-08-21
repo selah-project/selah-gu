@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "judges 8:29",
+  "book": "judges",
+  "lang": "gu",
+  "chapter": 8,
+  "translation": "અને યેરુબ્બાલ, યોઆશનો પુત્ર, ચાલ્યો અને પોતાના ઘરમાં વસ્યો.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ચાલ્યો"
+    },
+    {
+      "surface": "ירבעל",
+      "gloss": "યેરુબ્બાલ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "પુત્ર"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "યોઆશ"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "વસ્યો"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "પોતાના ઘરમાં"
+    }
+  ],
+  "timestamp": "2026-08-21T12:51:46.377794903Z",
+  "model": "glm-5.3"
+}

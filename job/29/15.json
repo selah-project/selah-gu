@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 29:15",
+  "book": "job",
+  "lang": "gu",
+  "chapter": 29,
+  "translation": "આંધળા માટે હું આંખો હતો, અને લંગડા માટે હું પગ હતો.",
+  "tokens": [
+    {
+      "surface": "עינים",
+      "gloss": "આંખો"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "હતો"
+    },
+    {
+      "surface": "לעור",
+      "gloss": "આંધળા માટે"
+    },
+    {
+      "surface": "ורגלים",
+      "gloss": "અને પગ"
+    },
+    {
+      "surface": "לפסח",
+      "gloss": "લંગડા માટે"
+    },
+    {
+      "surface": "אני",
+      "gloss": "હું"
+    }
+  ],
+  "timestamp": "2026-08-21T17:13:10.519286261Z",
+  "model": "glm-5.3"
+}

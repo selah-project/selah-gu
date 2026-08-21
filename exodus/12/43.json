@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "exodus 12:43",
+  "book": "exodus",
+  "lang": "gu",
+  "chapter": 12,
+  "translation": "અને યાહવેએ મોશે અને અહરોનને કહ્યું: આ પસાખની વિધિ ⟨છે⟩ — કોઈ પરદેશીનો પુત્ર તેમાં ખાશે નહીં.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "અને કહ્યું"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવેએ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ને"
+    },
+    {
+      "surface": "משה",
+      "gloss": "મોશે"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "અને અહરોનને"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "આ"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "વિધિ"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "પસાખની"
+    },
+    {
+      "surface": "כל",
+      "gloss": "કોઈ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "પુત્ર"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "પરદેશીનો"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ખાશે"
+    },
+    {
+      "surface": "בו",
+      "gloss": "તેમાં"
+    }
+  ],
+  "timestamp": "2026-08-21T11:12:06.493285521Z",
+  "model": "glm-5.3"
+}

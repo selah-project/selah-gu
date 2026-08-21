@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "leviticus 14:55",
+  "book": "leviticus",
+  "lang": "gu",
+  "chapter": 14,
+  "translation": "અને વસ્ત્રના ત્વચા-રોગ માટે, અને ઘરના માટે —",
+  "tokens": [
+    {
+      "surface": "ולצרעת",
+      "gloss": "અને…ત્વચા-રોગ માટે"
+    },
+    {
+      "surface": "הבגד",
+      "gloss": "વસ્ત્રના"
+    },
+    {
+      "surface": "ולבית",
+      "gloss": "અને ઘરના માટે"
+    }
+  ],
+  "timestamp": "2026-08-21T11:37:09.429359063Z",
+  "model": "glm-5.3"
+}

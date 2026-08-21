@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 28:17",
+  "book": "deuteronomy",
+  "lang": "gu",
+  "chapter": 28,
+  "translation": "શાપિત છે તારી ટોકરી અને તારું કણકનું ⟨પાત્ર⟩.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "શાપિત છે"
+    },
+    {
+      "surface": "טנאך",
+      "gloss": "તારી ટોકરી"
+    },
+    {
+      "surface": "ומשארתך",
+      "gloss": "તારું કણકનું પાત્ર"
+    }
+  ],
+  "timestamp": "2026-08-21T12:28:53.858690694Z",
+  "model": "glm-5.3"
+}

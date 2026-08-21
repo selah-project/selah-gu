@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "ezra 2:51",
+  "book": "ezra",
+  "lang": "gu",
+  "chapter": 2,
+  "translation": "બક્બૂકના પુત્રો, હાકૂફાના પુત્રો, હર્હૂરના પુત્રો,",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "בקבוק",
+      "gloss": "બક્બૂક"
+    },
+    {
+      "surface": "בני",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "חקופא",
+      "gloss": "હાકૂફા"
+    },
+    {
+      "surface": "בני",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "חרחור",
+      "gloss": "હર્હૂર"
+    }
+  ],
+  "timestamp": "2026-08-21T17:47:42.203292855Z",
+  "model": "glm-5.3"
+}

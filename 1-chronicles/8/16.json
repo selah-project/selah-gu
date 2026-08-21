@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 8:16",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 8,
+  "translation": "અને મીખાએલ, અને યિશ્પાહ, અને યોખા — ⟨તે⟩ બેરીઆહના પુત્રો ⟨હતા⟩.",
+  "tokens": [
+    {
+      "surface": "ומיכאל",
+      "gloss": "અને મીખાએલ"
+    },
+    {
+      "surface": "וישפה",
+      "gloss": "અને યિશ્પાહ"
+    },
+    {
+      "surface": "ויוחא",
+      "gloss": "અને યોખા"
+    },
+    {
+      "surface": "בני",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "בריעה",
+      "gloss": "બેરીઆહના"
+    }
+  ],
+  "timestamp": "2026-08-21T18:03:32.780037483Z",
+  "model": "glm-5.3"
+}

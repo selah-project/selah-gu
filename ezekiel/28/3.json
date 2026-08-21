@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 28:3",
+  "book": "ezekiel",
+  "lang": "gu",
+  "chapter": 28,
+  "translation": "જુઓ, તું દાનીયેલ કરતાં જ્ઞાની છે; કોઈ છૂપી વાત તારાથી ઢંકાઈ નથી.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "જુઓ"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "જ્ઞાની"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "તું"
+    },
+    {
+      "surface": "מדנאל",
+      "gloss": "દાનીયેલ કરતાં"
+    },
+    {
+      "surface": "כל",
+      "gloss": "કોઈ પણ"
+    },
+    {
+      "surface": "סתום",
+      "gloss": "છૂપી વાત"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નથી"
+    },
+    {
+      "surface": "עממוך",
+      "gloss": "તારાથી ઢંકાઈ"
+    }
+  ],
+  "timestamp": "2026-08-21T15:33:54.750513644Z",
+  "model": "glm-5.3"
+}

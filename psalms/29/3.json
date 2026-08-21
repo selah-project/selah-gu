@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 29:3",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 29,
+  "translation": "યાહવેનો સ્વર પાણીઓ પર ⟨છે⟩; મહિમાવાન એલે ગર્જના કરી; યાહવે અનેક પાણીઓ પર ⟨છે⟩.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "સ્વર"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવેનો"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "המים",
+      "gloss": "પાણીઓ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "એલ"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "મહિમાવાન"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "ગર્જના કરી"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "מים",
+      "gloss": "પાણીઓ"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "અનેક"
+    }
+  ],
+  "timestamp": "2026-08-21T16:17:20.555287121Z",
+  "model": "glm-5.3"
+}

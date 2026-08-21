@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 12:27",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 12,
+  "translation": "લેવીનાં પુત્રોમાંથી ચાર હજાર અને છ સો.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "માંથી"
+    },
+    {
+      "surface": "בני",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "લેવીનાં"
+    },
+    {
+      "surface": "ארבעת",
+      "gloss": "ચાર"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "હજાર"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "અને છ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "સો"
+    }
+  ],
+  "timestamp": "2026-08-21T18:06:47.898618034Z",
+  "model": "glm-5.3"
+}

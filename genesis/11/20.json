@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 11:20",
+  "book": "genesis",
+  "lang": "gu",
+  "chapter": 11,
+  "translation": "અને રેઊ બત્રીસ વર્ષ જીવ્યા, અને ⟨את⟩ સેરૂગને જન્મ આપ્યો.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "જીવ્યા"
+    },
+    {
+      "surface": "רעו",
+      "gloss": "રેઊ"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "બે"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "અને ત્રીસ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "વર્ષ"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "અને જન્મ આપ્યો"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "સેરૂગ"
+    },
+    {
+      "surface": "שרוג",
+      "gloss": "સેરૂગ"
+    }
+  ],
+  "timestamp": "2026-08-21T10:41:27.476770228Z",
+  "model": "glm-5.3"
+}

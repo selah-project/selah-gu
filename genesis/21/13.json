@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 21:13",
+  "book": "genesis",
+  "lang": "gu",
+  "chapter": 21,
+  "translation": "અને દાસીના પુત્રને પણ ⟨את⟩ હું એક રાષ્ટ્ર બનાવીશ, કારણ કે તે તારો વંશ ⟨is⟩.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "અને પણ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "દાસીના પુત્રને"
+    },
+    {
+      "surface": "בן",
+      "gloss": "પુત્ર"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "દાસીના"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "રાષ્ટ્ર તરીકે"
+    },
+    {
+      "surface": "אשימנו",
+      "gloss": "હું તેને બનાવીશ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "કારણ કે"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "તારો વંશ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "તે ⟨is⟩"
+    }
+  ],
+  "timestamp": "2026-08-21T10:47:11.180519990Z",
+  "model": "glm-5.3"
+}

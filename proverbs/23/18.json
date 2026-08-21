@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 23:18",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 23,
+  "translation": "કેમ કે ફક્ત એક અંત ⟨છે⟩, અને તારી આશા કપાઈ જશે નહીં.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "કેમ કે"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ફક્ત"
+    },
+    {
+      "surface": "יש",
+      "gloss": "છે"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "અંત"
+    },
+    {
+      "surface": "ותקותך",
+      "gloss": "અને તારી આશા"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "תכרת",
+      "gloss": "કપાઈ જશે"
+    }
+  ],
+  "timestamp": "2026-08-21T17:00:59.490377385Z",
+  "model": "glm-5.3"
+}

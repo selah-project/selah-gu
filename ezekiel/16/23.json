@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 16:23",
+  "book": "ezekiel",
+  "lang": "gu",
+  "chapter": 16,
+  "translation": "અને તારા તમામ દુષ્કર્મ પછી થયું — હાય, હાય તારા માટે, અદોનાય યાહવેનો નિર્દેશ ⟨છે⟩.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "થયું"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "પછી"
+    },
+    {
+      "surface": "כל",
+      "gloss": "તમામ"
+    },
+    {
+      "surface": "רעתך",
+      "gloss": "દુષ્કર્મ"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "હાય"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "હાય"
+    },
+    {
+      "surface": "לך",
+      "gloss": "તારા માટે"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "નિર્દેશ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "અદોનાય"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    }
+  ],
+  "timestamp": "2026-08-21T15:23:37.693700086Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 26:17",
+  "book": "jeremiah",
+  "lang": "gu",
+  "chapter": 26,
+  "translation": "પછી દેશના વડીલોમાંથી કેટલાક પુરુષો ઊભા થયા અને લોકની આખી સભાને કહ્યું કે,",
+  "tokens": [
+    {
+      "surface": "ויקמו",
+      "gloss": "ઊભા થયા"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "પુરુષો"
+    },
+    {
+      "surface": "מזקני",
+      "gloss": "વડીલોમાંથી"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "દેશના"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "અને કહ્યું"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ને (પ્રતિ)"
+    },
+    {
+      "surface": "כל",
+      "gloss": "આખી"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "સભા"
+    },
+    {
+      "surface": "העם",
+      "gloss": "લોકની"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "કે"
+    }
+  ],
+  "timestamp": "2026-08-21T14:59:30.529291349Z",
+  "model": "glm-5.3"
+}

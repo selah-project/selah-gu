@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 49:4",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 49,
+  "translation": "મારું મુખ જ્ઞાન બોલશે, અને મારા હૃદયનું મંથન સમજ રજૂ કરશે.",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "મારું મુખ"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "બોલશે"
+    },
+    {
+      "surface": "חכמות",
+      "gloss": "જ્ઞાન"
+    },
+    {
+      "surface": "והגות",
+      "gloss": "અને મંથન"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "મારા હૃદયનું"
+    },
+    {
+      "surface": "תבונות",
+      "gloss": "સમજ"
+    }
+  ],
+  "timestamp": "2026-08-21T16:23:28.619212136Z",
+  "model": "glm-5.3"
+}

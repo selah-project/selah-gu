@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 26:23",
+  "book": "leviticus",
+  "lang": "gu",
+  "chapter": 26,
+  "translation": "અને જો આ બધાં છતાં તમે મારા દ્વારા શિક્ષિત ન થાઓ પણ મારી સાથે વિરોધથી ચાલો,",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "અને જો"
+    },
+    {
+      "surface": "באלה",
+      "gloss": "આ બધાં છતાં"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નહિ"
+    },
+    {
+      "surface": "תוסרו",
+      "gloss": "તમે શિક્ષિત થાઓ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "મારા દ્વારા"
+    },
+    {
+      "surface": "והלכתם",
+      "gloss": "પણ ચાલો"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "મારી સાથે"
+    },
+    {
+      "surface": "קרי",
+      "gloss": "વિરોધથી"
+    }
+  ],
+  "timestamp": "2026-08-21T11:47:03.513762745Z",
+  "model": "glm-5.3"
+}

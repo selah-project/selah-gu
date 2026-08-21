@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 26:7",
+  "book": "job",
+  "lang": "gu",
+  "chapter": 26,
+  "translation": "તે ઉત્તરને શૂન્ય પર તાણે ⟨છે⟩, પૃથ્વીને કશા પર તોલી રાખે છે.",
+  "tokens": [
+    {
+      "surface": "נטה",
+      "gloss": "તાણે છે"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "ઉત્તરને"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "શૂન્ય"
+    },
+    {
+      "surface": "תלה",
+      "gloss": "તોલી રાખે છે"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "પૃથ્વીને"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "કશા"
+    },
+    {
+      "surface": "מה",
+      "gloss": "પર નહીં (કંઈ પણ નહીં પર)"
+    }
+  ],
+  "timestamp": "2026-08-21T17:14:11.576184747Z",
+  "model": "glm-5.3"
+}

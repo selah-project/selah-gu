@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 17:3",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 17,
+  "translation": "એ જ રાત્રિએ એ બન્યું, કે એલોહીમનો વચન નાતાન પાસે આવ્યું, કહેતાં:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "એ બન્યું"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "રાત્રિએ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "એ જ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "એ બન્યું"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "વચન"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "એલોહીમનો"
+    },
+    {
+      "surface": "אל",
+      "gloss": "પાસે"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "નાતાન"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "કહેતાં"
+    }
+  ],
+  "timestamp": "2026-08-21T18:10:06.081809696Z",
+  "model": "glm-5.3"
+}

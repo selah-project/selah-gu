@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 34:9",
+  "book": "ezekiel",
+  "lang": "gu",
+  "chapter": 34,
+  "translation": "તેથી હે રખડાઓ, યાહવેનો વચન સાંભળો:",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "તેથી"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "હે રખડાઓ"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "સાંભળો"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "વચન"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવેનો"
+    }
+  ],
+  "timestamp": "2026-08-21T15:35:49.112939842Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 10:10",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 10,
+  "translation": "આંખ માર્કું આપનાર દુઃખ ઊભું કરે છે, અને ઓઠડીયો મૂર્ખ પરાજિત થશે.",
+  "tokens": [
+    {
+      "surface": "קרץ",
+      "gloss": "માર્કું આપનાર"
+    },
+    {
+      "surface": "עין",
+      "gloss": "આંખ"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "આપે છે"
+    },
+    {
+      "surface": "עצבת",
+      "gloss": "દુઃખ"
+    },
+    {
+      "surface": "ואויל",
+      "gloss": "અને મૂર્ખ"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "ઓઠડીયો"
+    },
+    {
+      "surface": "ילבט",
+      "gloss": "પરાજિત થશે"
+    }
+  ],
+  "timestamp": "2026-08-21T16:54:42.652898785Z",
+  "model": "glm-5.3"
+}

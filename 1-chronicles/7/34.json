@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-chronicles 7:34",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 7,
+  "translation": "અને શામેરના પુત્રો: અહી, અને રોહગા, યિહુબ્બા, અને અરામ.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "અને પુત્રો"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "શામેર"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "અહી"
+    },
+    {
+      "surface": "ורוהגה",
+      "gloss": "અને રોહગા"
+    },
+    {
+      "surface": "יחבה",
+      "gloss": "યિહુબ્બા"
+    },
+    {
+      "surface": "וארם",
+      "gloss": "અને અરામ"
+    }
+  ],
+  "timestamp": "2026-08-21T18:03:06.207368945Z",
+  "model": "glm-5.3"
+}

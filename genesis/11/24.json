@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 11:24",
+  "book": "genesis",
+  "lang": "gu",
+  "chapter": 11,
+  "translation": "અને નાહોર ઓગણત્રીસ વર્ષ જીવ્યો, અને ⟨את⟩ તેરાહને જન્મ આપ્યો.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "જીવ્યો"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "નાહોર"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "નવ"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "અને વીસ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "વર્ષ"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "જન્મ આપ્યો"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "તેરાહ"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "તેરાહ"
+    }
+  ],
+  "timestamp": "2026-08-21T10:41:25.381837846Z",
+  "model": "glm-5.3"
+}

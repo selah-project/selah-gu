@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 27:31",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 27,
+  "translation": "અને ઘેટાં-બકરાં પર હાગરી યાઝીઝ ⟨હતો⟩; આ બધા રાજા દાવીદની સંપત્તિના સરદારો ⟨હતાં⟩.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "અને … પર"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "ઘેટાં-બકરાં"
+    },
+    {
+      "surface": "יזיז",
+      "gloss": "યાઝીઝ"
+    },
+    {
+      "surface": "ההגרי",
+      "gloss": "હાગરી"
+    },
+    {
+      "surface": "כל",
+      "gloss": "બધા"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "આ"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "સરદારો"
+    },
+    {
+      "surface": "הרכוש",
+      "gloss": "સંપત્તિના"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જે"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "રાજાની"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "દાવીદ"
+    }
+  ],
+  "timestamp": "2026-08-21T18:13:34.198807515Z",
+  "model": "glm-5.3"
+}

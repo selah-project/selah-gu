@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 11:2",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 11,
+  "translation": "ઘમંડ ⟨આવે⟩ છે અને અપમાન આવે છે, અને નમ્રો સાથે ⟨છે⟩ જ્ઞાન.",
+  "tokens": [
+    {
+      "surface": "בא",
+      "gloss": "આવે છે"
+    },
+    {
+      "surface": "זדון",
+      "gloss": "ઘમંડ"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "અને આવે છે"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "અપમાન"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "નમ્રો"
+    },
+    {
+      "surface": "צנועים",
+      "gloss": "નમ્રો"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "જ્ઞાન"
+    }
+  ],
+  "timestamp": "2026-08-21T16:56:13.636202513Z",
+  "model": "glm-5.3"
+}

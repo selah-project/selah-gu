@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 25:26",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 25,
+  "translation": "ડામર થયેલો ઝરો અને બગડેલો સ્ત્રોત — દુષ્ટની સામે ડગમગતો ન્યાયી માણસ.",
+  "tokens": [
+    {
+      "surface": "מעין",
+      "gloss": "ઝરો"
+    },
+    {
+      "surface": "נרפש",
+      "gloss": "ડામર થયેલો"
+    },
+    {
+      "surface": "ומקור",
+      "gloss": "અને સ્ત્રોત"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "બગડેલો"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ન્યાયી માણસ"
+    },
+    {
+      "surface": "מט",
+      "gloss": "ડગમગતો"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "સામે"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "દુષ્ટની"
+    }
+  ],
+  "timestamp": "2026-08-21T17:01:38.685171908Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 1:4",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 1,
+  "translation": "દુષ્ટો એવા નથી, કિંતુ પરાળ જેવા છે, જેને પવન ઉડાવી જાય છે.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "નથી"
+    },
+    {
+      "surface": "כן",
+      "gloss": "એવા"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "દુષ્ટો"
+    },
+    {
+      "surface": "כי",
+      "gloss": "કિંતુ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "(ઊલ્લેખ)"
+    },
+    {
+      "surface": "כמץ",
+      "gloss": "પરાળ જેવા"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જેને"
+    },
+    {
+      "surface": "תדפנו",
+      "gloss": "ઉડાવી જાય છે"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "પવન"
+    }
+  ],
+  "timestamp": "2026-08-21T16:10:45.845264165Z",
+  "model": "glm-5.3"
+}

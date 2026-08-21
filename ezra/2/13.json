@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ezra 2:13",
+  "book": "ezra",
+  "lang": "gu",
+  "chapter": 2,
+  "translation": "અદોનિકામનાં પુત્રો — છસો છાસઠ અને છ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "אדניקם",
+      "gloss": "અદોનિકામનાં"
+    },
+    {
+      "surface": "שש",
+      "gloss": "છ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "સો"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "છાસઠ"
+    },
+    {
+      "surface": "וששה",
+      "gloss": "અને છ"
+    }
+  ],
+  "timestamp": "2026-08-21T17:45:08.807168139Z",
+  "model": "glm-5.3"
+}

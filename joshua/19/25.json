@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "joshua 19:25",
+  "book": "joshua",
+  "lang": "gu",
+  "chapter": 19,
+  "translation": "અને તેમની સીમા હતી: ખેલકત, અને ખલી, અને બેતેન, અને અખશાફ.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "હતી"
+    },
+    {
+      "surface": "גבולם",
+      "gloss": "તેમની સીમા"
+    },
+    {
+      "surface": "חלקת",
+      "gloss": "ખેલકત"
+    },
+    {
+      "surface": "וחלי",
+      "gloss": "અને ખલી"
+    },
+    {
+      "surface": "ובטן",
+      "gloss": "અને બેતેન"
+    },
+    {
+      "surface": "ואכשף",
+      "gloss": "અને અખશાફ"
+    }
+  ],
+  "timestamp": "2026-08-21T12:42:25.225376750Z",
+  "model": "glm-5.3"
+}

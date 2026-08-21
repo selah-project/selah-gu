@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 9:20",
+  "book": "leviticus",
+  "lang": "gu",
+  "chapter": 9,
+  "translation": "અને તેઓએ ⟨את⟩ ચરબી છાતી પર ગોઠવી, અને તેણે ચરબી યજ્ઞવેદી પર ધૂપ કરી.",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "ગોઠવી"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ચરબી"
+    },
+    {
+      "surface": "החלבים",
+      "gloss": "ચરબી"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "החזות",
+      "gloss": "છાતી"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "ધૂપ કરી"
+    },
+    {
+      "surface": "החלבים",
+      "gloss": "ચરબી"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "યજ્ઞવેદી પર"
+    }
+  ],
+  "timestamp": "2026-08-21T11:34:12.666033035Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 34:1",
+  "book": "deuteronomy",
+  "lang": "gu",
+  "chapter": 34,
+  "translation": "અને મોશે મોઆબના મેદાનોથી નેબો પર્વત પર, પિસ્ગાના શિખર પર — જે યરીખોની સામે ⟨છે⟩ — ચઢ્યો; અને યાહવેએ તેને ⟨את⟩ આખી ભૂમિ બતાવી — ⟨את⟩ ગિલિયદ, દાન સુધી.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "ચઢ્યો"
+    },
+    {
+      "surface": "משה",
+      "gloss": "મોશે"
+    },
+    {
+      "surface": "מערבת",
+      "gloss": "મેદાનોથી"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "મોઆબના"
+    },
+    {
+      "surface": "אל",
+      "gloss": "પર"
+    },
+    {
+      "surface": "הר",
+      "gloss": "પર્વત"
+    },
+    {
+      "surface": "נבו",
+      "gloss": "નેબો"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "શિખર"
+    },
+    {
+      "surface": "הפסגה",
+      "gloss": "પિસ્ગાના"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જે"
+    },
+    {
+      "surface": "על",
+      "gloss": "સામે"
+    },
+    {
+      "surface": "פני",
+      "gloss": "સામે"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "યરીખોની"
+    },
+    {
+      "surface": "ויראהו",
+      "gloss": "બતાવી"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવેએ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "આખી ભૂમિ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "આખી"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ભૂમિ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ગિલિયદ"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "ગિલિયદ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "સુધી"
+    },
+    {
+      "surface": "דן",
+      "gloss": "દાન"
+    }
+  ],
+  "timestamp": "2026-08-21T12:31:43.921074437Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 39:24",
+  "book": "exodus",
+  "lang": "gu",
+  "chapter": 39,
+  "translation": "અને તેઓએ મેલના છેડા પર દાડમ બનાવ્યા — તકલીત, અર્ગમન અને તોલાત શણીના, વળેલા.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "બનાવ્યા"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "שולי",
+      "gloss": "છેડા"
+    },
+    {
+      "surface": "המעיל",
+      "gloss": "મેલના"
+    },
+    {
+      "surface": "רמוני",
+      "gloss": "દાડમ"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "તકલીત"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "અર્ગમન"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "તોલાત"
+    },
+    {
+      "surface": "שני",
+      "gloss": "શણીના"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "વળેલા"
+    }
+  ],
+  "timestamp": "2026-08-21T11:29:09.732060953Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 10:16",
+  "book": "1-kings",
+  "lang": "gu",
+  "chapter": 10,
+  "translation": "અને રાજા શલોમોએ ઠોંસેલા સોનાની બે સો મોટી ઢાલ બનાવી — એક ઢાલ પર છ સો શેકલ સોનું ચઢતું.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "અને …બનાવી"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "રાજા"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "શલોમોએ"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "બે સો"
+    },
+    {
+      "surface": "צנה",
+      "gloss": "મોટી ઢાલ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "સોનાની"
+    },
+    {
+      "surface": "שחוט",
+      "gloss": "ઠોંસેલા"
+    },
+    {
+      "surface": "שש",
+      "gloss": "છ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "સો"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "સોનું"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "ચઢતું"
+    },
+    {
+      "surface": "על",
+      "gloss": "…પર"
+    },
+    {
+      "surface": "הצנה",
+      "gloss": "ઢાલ"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "એક"
+    }
+  ],
+  "timestamp": "2026-08-21T13:41:54.280198296Z",
+  "model": "glm-5.3"
+}

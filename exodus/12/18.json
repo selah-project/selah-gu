@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 12:18",
+  "book": "exodus",
+  "lang": "gu",
+  "chapter": 12,
+  "translation": "પ્રથમ ⟨માસે⟩, માસના ચૌદમા દિવસે, સાંજે તમે માત્સોત ખાશો — માસના એકવીસમા દિવસ સુધી, સાંજે.",
+  "tokens": [
+    {
+      "surface": "בראשן",
+      "gloss": "પ્રથમ"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "ચાર"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "દસ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "દિવસે"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "માસના"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "સાંજે"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "તમે ખાશો"
+    },
+    {
+      "surface": "מצת",
+      "gloss": "માત્સોત"
+    },
+    {
+      "surface": "עד",
+      "gloss": "સુધી"
+    },
+    {
+      "surface": "יום",
+      "gloss": "દિવસ"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "એક"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "અને વીસ"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "માસના"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "સાંજે"
+    }
+  ],
+  "timestamp": "2026-08-21T11:13:06.593964500Z",
+  "model": "glm-5.3"
+}

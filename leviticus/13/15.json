@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 13:15",
+  "book": "leviticus",
+  "lang": "gu",
+  "chapter": 13,
+  "translation": "અને યાજક ⟨את⟩ જીવંત માંસને જોશે અને તેને અશુદ્ધ ઠેરવશે; જીવંત માંસ અશુદ્ધ છે, તે કોઢ છે.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "અને જોશે"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "યાજક"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "જીવંત માંસને"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "માંસ"
+    },
+    {
+      "surface": "החי",
+      "gloss": "જીવંત"
+    },
+    {
+      "surface": "וטמאו",
+      "gloss": "અને અશુદ્ધ ઠેરવશે"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "માંસ"
+    },
+    {
+      "surface": "החי",
+      "gloss": "જીવંત"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "અશુદ્ધ છે"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "તે"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "કોઢ છે"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "તે"
+    }
+  ],
+  "timestamp": "2026-08-21T11:36:28.106921260Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 2:10",
+  "book": "deuteronomy",
+  "lang": "gu",
+  "chapter": 2,
+  "translation": "હાએમીમ પહેલા ત્યાં વસતા હતા — ⟨એક⟩ મોટો અને અનેક સંખ્યાવાળો અને ઊંચકદ પ્રજા, અનાકીઓની જેમ.",
+  "tokens": [
+    {
+      "surface": "האמים",
+      "gloss": "હાએમીમ"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "પહેલા"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "વસતા હતા"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ત્યાં"
+    },
+    {
+      "surface": "עם",
+      "gloss": "પ્રજા"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "મોટી"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "અને અનેક"
+    },
+    {
+      "surface": "ורם",
+      "gloss": "અને ઊંચકદ"
+    },
+    {
+      "surface": "כענקים",
+      "gloss": "અનાકીઓની જેમ"
+    }
+  ],
+  "timestamp": "2026-08-21T12:12:20.103535104Z",
+  "model": "glm-5.3"
+}

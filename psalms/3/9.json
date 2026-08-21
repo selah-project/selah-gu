@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 3:9",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 3,
+  "translation": "યાહવેને છે ⟨એ⟩ મુક્તિ; તારા પ્રજા પર છે તારું આશીર્વાદ. સેલા.",
+  "tokens": [
+    {
+      "surface": "ליהוה",
+      "gloss": "યાહવેને"
+    },
+    {
+      "surface": "הישועה",
+      "gloss": "મુક્તિ"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "તારા પ્રજા"
+    },
+    {
+      "surface": "ברכתך",
+      "gloss": "તારું આશીર્વાદ"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "સેલા"
+    }
+  ],
+  "timestamp": "2026-08-21T16:08:57.881330553Z",
+  "model": "glm-5.3"
+}

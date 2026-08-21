@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 5:12",
+  "book": "ecclesiastes",
+  "lang": "gu",
+  "chapter": 5,
+  "translation": "સૂર્યની નીચે એક ખરાબ કઠિન રોગ મેં જોયો છે: તેના માલિકના નુકસાન માટે સાચવેલો ધન.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "એક...છે"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ખરાબ"
+    },
+    {
+      "surface": "חולה",
+      "gloss": "કઠિન રોગ"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "મેં જોયો છે"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "નીચે"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "સૂર્યની"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ધન"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "સાચવેલો"
+    },
+    {
+      "surface": "לבעליו",
+      "gloss": "તેના માલિકના"
+    },
+    {
+      "surface": "לרעתו",
+      "gloss": "નુકસાન માટે"
+    }
+  ],
+  "timestamp": "2026-08-21T17:31:16.472752066Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 22:22",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 22,
+  "translation": "ગરીબને લૂંટતો નહીં, કેમ કે તે ગરીબ છે; અને દરવાજે હલાણવાનને કચરતો નહીં.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "תגזל",
+      "gloss": "લૂંટતો"
+    },
+    {
+      "surface": "דל",
+      "gloss": "ગરીબને"
+    },
+    {
+      "surface": "כי",
+      "gloss": "કેમ કે"
+    },
+    {
+      "surface": "דל",
+      "gloss": "ગરીબ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "તે"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "અને ... નહીં"
+    },
+    {
+      "surface": "תדכא",
+      "gloss": "કચરતો"
+    },
+    {
+      "surface": "עני",
+      "gloss": "હલાણવાનને"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "દરવાજે"
+    }
+  ],
+  "timestamp": "2026-08-21T17:00:38.125880876Z",
+  "model": "glm-5.3"
+}

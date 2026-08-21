@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ecclesiastes 7:21",
+  "book": "ecclesiastes",
+  "lang": "gu",
+  "chapter": 7,
+  "translation": "પણ જે બધા શબ્દો બોલાય છે તે બધા પર તું હૃદય ધ્યાન ન આપ, જેથી તારે ⟨את⟩ તારા દાસને તને શાપતો સાંભળવો ન પડે.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "પણ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "બધા પર"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "શબ્દો"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જે"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "બોલાય છે"
+    },
+    {
+      "surface": "אל",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "આપ"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "તું હૃદય"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જેથી"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "સાંભળવો ન પડે"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "તારા દાસને"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "તારો દાસ"
+    },
+    {
+      "surface": "מקללך",
+      "gloss": "તને શાપ આપે છે"
+    }
+  ],
+  "timestamp": "2026-08-21T17:30:26.891828777Z",
+  "model": "glm-5.3"
+}

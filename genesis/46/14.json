@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 46:14",
+  "book": "genesis",
+  "lang": "gu",
+  "chapter": 46,
+  "translation": "અને ઝવૂલૂનનાં પુત્રો: સેરેદ, અને એલોન, અને યાહલેલ.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "અને …નાં પુત્રો"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "ઝવૂલૂન"
+    },
+    {
+      "surface": "סרד",
+      "gloss": "સેરેદ"
+    },
+    {
+      "surface": "ואלון",
+      "gloss": "અને એલોન"
+    },
+    {
+      "surface": "ויחלאל",
+      "gloss": "અને યાહલેલ"
+    }
+  ],
+  "timestamp": "2026-08-21T11:02:29.606472718Z",
+  "model": "glm-5.3"
+}

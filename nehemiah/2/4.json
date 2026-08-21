@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "nehemiah 2:4",
+  "book": "nehemiah",
+  "lang": "gu",
+  "chapter": 2,
+  "translation": "અને રાજાએ મને કહ્યું: આ માટે તું શું માંગે છે? અને મેં આકાશના એલોહીમને પ્રાર્થના કરી.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "અને તેણે કહ્યું"
+    },
+    {
+      "surface": "לי",
+      "gloss": "મને"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "રાજાએ"
+    },
+    {
+      "surface": "על",
+      "gloss": "આ માટે"
+    },
+    {
+      "surface": "מה",
+      "gloss": "શું"
+    },
+    {
+      "surface": "זה",
+      "gloss": "આ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "તું"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "માંગે છે"
+    },
+    {
+      "surface": "ואתפלל",
+      "gloss": "અને મેં પ્રાર્થના કરી"
+    },
+    {
+      "surface": "אל",
+      "gloss": "પ્રત્યે"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "એલોહીમ"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "આકાશના"
+    }
+  ],
+  "timestamp": "2026-08-21T17:52:20.966119011Z",
+  "model": "glm-5.3"
+}

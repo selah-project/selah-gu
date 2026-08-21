@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 30:22",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 30,
+  "translation": "દાસના નીચે જ્યારે તે રાજ્ય કરે, અને મૂર્ખના નીચે જ્યારે તે રોટલીથી સંતુષ્ટ થાય,",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "નીચે"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "દાસ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "જ્યારે"
+    },
+    {
+      "surface": "ימלוך",
+      "gloss": "તે રાજ્ય કરે"
+    },
+    {
+      "surface": "ונבל",
+      "gloss": "અને મૂર્ખ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "જ્યારે"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "તે સંતુષ્ટ થાય"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "રોટલી"
+    }
+  ],
+  "timestamp": "2026-08-21T17:02:10.268916634Z",
+  "model": "glm-5.3"
+}

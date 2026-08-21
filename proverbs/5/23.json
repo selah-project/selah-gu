@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 5:23",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 5,
+  "translation": "તે મરશે ⟨કે⟩ શિક્ષણ વિના, અને પોતાની મૂર્ખતાની ભરમારમાં તે ભટકશે.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "તે"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "મરશે"
+    },
+    {
+      "surface": "באין",
+      "gloss": "વિના"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "શિક્ષણ"
+    },
+    {
+      "surface": "וברב",
+      "gloss": "અને ભરમારમાં"
+    },
+    {
+      "surface": "אולתו",
+      "gloss": "પોતાની મૂર્ખતાની"
+    },
+    {
+      "surface": "ישגה",
+      "gloss": "ભટકશે"
+    }
+  ],
+  "timestamp": "2026-08-21T16:51:31.552141056Z",
+  "model": "glm-5.3"
+}

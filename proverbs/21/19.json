@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 21:19",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 21,
+  "translation": "ઝઘડાટ અને ક્રોધી સ્ત્રી કરતાં રણના દેશમાં વસવું સારું છે.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "સારું છે"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "વસવું"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "દેશમાં"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "રણ"
+    },
+    {
+      "surface": "מאשת",
+      "gloss": "સ્ત્રી કરતાં"
+    },
+    {
+      "surface": "מדונים",
+      "gloss": "ઝઘડાટ"
+    },
+    {
+      "surface": "וכעס",
+      "gloss": "અને ક્રોધી"
+    }
+  ],
+  "timestamp": "2026-08-21T16:59:30.039821418Z",
+  "model": "glm-5.3"
+}

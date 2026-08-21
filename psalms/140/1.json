@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 140:1",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 140,
+  "translation": "સંગીત-નિર્દેશક માટે; દાવીદનો મિઝમોર.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "સંગીત-નિર્દેશક માટે"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "મિઝમોર"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "દાવીદનો"
+    }
+  ],
+  "timestamp": "2026-08-21T16:48:14.763916966Z",
+  "model": "glm-5.3"
+}

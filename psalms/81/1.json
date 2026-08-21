@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 81:1",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 81,
+  "translation": "મુખ્ય સંગીતકાર માટે, ગિત્તીત પર, આસાફ માટે.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "મુખ્ય સંગીતકાર માટે"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "הגתית",
+      "gloss": "ગિત્તીત"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "આસાફ માટે"
+    }
+  ],
+  "timestamp": "2026-08-21T16:33:06.182203837Z",
+  "model": "glm-5.3"
+}

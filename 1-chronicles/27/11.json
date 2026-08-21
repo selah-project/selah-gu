@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 27:11",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 27,
+  "translation": "આઠમો, આઠમા મહિના માટે, સિબ્બેખાય હુશાથી, ઝરહી; અને તેની ટુકડી પર ચોવીસ હજાર.",
+  "tokens": [
+    {
+      "surface": "השמיני",
+      "gloss": "આઠમો"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "મહિના માટે"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "આઠમા"
+    },
+    {
+      "surface": "סבכי",
+      "gloss": "સિબ્બેખાય"
+    },
+    {
+      "surface": "החשתי",
+      "gloss": "હુશાથી"
+    },
+    {
+      "surface": "לזרחי",
+      "gloss": "ઝરહી"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "અને … પર"
+    },
+    {
+      "surface": "מחלקתו",
+      "gloss": "તેની ટુકડી"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "વીસ"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "અને ચાર"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "હજાર"
+    }
+  ],
+  "timestamp": "2026-08-21T18:13:03.600613096Z",
+  "model": "glm-5.3"
+}

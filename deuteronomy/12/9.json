@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 12:9",
+  "book": "deuteronomy",
+  "lang": "gu",
+  "chapter": 12,
+  "translation": "કેમ કે તમે હજી સુધી ⟨આ⟩ વિશ્રામસ્થાન સુધી અને ⟨આ⟩ વારસા સુધી નથી પહોંચ્યા, જે તમારા એલોહીમ યાહવે તમને આપે છે.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "કેમ કે"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નથી"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "તમે પહોંચ્યા"
+    },
+    {
+      "surface": "עד",
+      "gloss": "સુધી"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "હજી"
+    },
+    {
+      "surface": "אל",
+      "gloss": "સુધી"
+    },
+    {
+      "surface": "המנוחה",
+      "gloss": "વિશ્રામસ્થાન"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "અને સુધી"
+    },
+    {
+      "surface": "הנחלה",
+      "gloss": "વારસા"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જે"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "તમારા એલોહીમ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "આપે છે"
+    },
+    {
+      "surface": "לך",
+      "gloss": "તમને"
+    }
+  ],
+  "timestamp": "2026-08-21T19:51:20.974925735Z",
+  "model": "glm-5.3"
+}

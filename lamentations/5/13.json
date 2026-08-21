@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "lamentations 5:13",
+  "book": "lamentations",
+  "lang": "gu",
+  "chapter": 5,
+  "translation": "યુવકોએ જાતી ચલાવી, અને બાળકો લાકડાં નીચે તરડ્યાં.",
+  "tokens": [
+    {
+      "surface": "בחורים",
+      "gloss": "યુવકોએ"
+    },
+    {
+      "surface": "טחון",
+      "gloss": "જાતી ચલાવી"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "ઊંચક્યો\/ચલાવ્યો"
+    },
+    {
+      "surface": "ונערים",
+      "gloss": "અને બાળકો"
+    },
+    {
+      "surface": "בעץ",
+      "gloss": "લાકડાં નીચે"
+    },
+    {
+      "surface": "כשלו",
+      "gloss": "તરડ્યાં"
+    }
+  ],
+  "timestamp": "2026-08-21T17:28:11.751225678Z",
+  "model": "glm-5.3"
+}

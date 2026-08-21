@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 27:26",
+  "book": "deuteronomy",
+  "lang": "gu",
+  "chapter": 27,
+  "translation": "શાપિત ⟨છે⟩ તે જે ⟨את⟩ આ તોરાહના વચનોને પળાવવા — ⟨את⟩ તેઓને કરવા — ઊભો ન કરે; અને આખા પ્રજાના લોકો કહેશે, આમેન.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "શાપિત"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "તે જે"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ન"
+    },
+    {
+      "surface": "יקים",
+      "gloss": "ઊભો કરે"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "આ તોરાહના વચનોને"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "વચનોને"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "તોરાહના"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "આ"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "કરવા"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ તેઓને"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "અને કહેશે"
+    },
+    {
+      "surface": "כל",
+      "gloss": "આખા"
+    },
+    {
+      "surface": "העם",
+      "gloss": "પ્રજાના લોકો"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "આમેન"
+    }
+  ],
+  "timestamp": "2026-08-21T12:27:03.085764667Z",
+  "model": "glm-5.3"
+}

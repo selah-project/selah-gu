@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "numbers 3:33",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 3,
+  "translation": "લેવી મરારીનાં પુત્રો પૈકી — મખલી કુળ અને મૂશી કુળ; આ એ મરારીનાં કુળ છે.",
+  "tokens": [
+    {
+      "surface": "למררי",
+      "gloss": "મરારીનાં પુત્રો પૈકી"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "કુળ"
+    },
+    {
+      "surface": "המחלי",
+      "gloss": "મખલી"
+    },
+    {
+      "surface": "ומשפחת",
+      "gloss": "અને કુળ"
+    },
+    {
+      "surface": "המושי",
+      "gloss": "મૂશી"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "આ"
+    },
+    {
+      "surface": "הם",
+      "gloss": "એ"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "કુળ"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "મરારી"
+    }
+  ],
+  "timestamp": "2026-08-21T11:49:33.008508207Z",
+  "model": "glm-5.3"
+}

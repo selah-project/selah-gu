@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 8:8",
+  "book": "ezekiel",
+  "lang": "gu",
+  "chapter": 8,
+  "translation": "તેણે મને કહ્યું: મનુષ્યના પુત્ર, હવે દિવાલમાં ખોદ. તો મેં દિવાલમાં ખોદી, અને જુઓ, એક દરવાજો.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "તેણે કહ્યું"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "મને"
+    },
+    {
+      "surface": "בן",
+      "gloss": "પુત્ર"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "મનુષ્યના"
+    },
+    {
+      "surface": "חתר",
+      "gloss": "ખોદ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "હવે"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "દિવાલમાં"
+    },
+    {
+      "surface": "ואחתר",
+      "gloss": "મેં ખોદી"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "દિવાલમાં"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "અને જુઓ"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "દરવાજો"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "એક"
+    }
+  ],
+  "timestamp": "2026-08-21T15:19:00.647804381Z",
+  "model": "glm-5.3"
+}

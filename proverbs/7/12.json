@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 7:12",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 7,
+  "translation": "સાંજે સાંજે બહાર, ચોકડીઓમાં, અને દરેક ખૂણે તે ઘાત રાખે છે.",
+  "tokens": [
+    {
+      "surface": "פעם",
+      "gloss": "વારે વારે"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "બહાર"
+    },
+    {
+      "surface": "פעם",
+      "gloss": "વારે વારે"
+    },
+    {
+      "surface": "ברחבות",
+      "gloss": "ચોકડીઓમાં"
+    },
+    {
+      "surface": "ואצל",
+      "gloss": "અને ... પાસે"
+    },
+    {
+      "surface": "כל",
+      "gloss": "દરેક"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "ખૂણે"
+    },
+    {
+      "surface": "תארב",
+      "gloss": "ઘાત રાખે છે"
+    }
+  ],
+  "timestamp": "2026-08-21T16:53:21.502049512Z",
+  "model": "glm-5.3"
+}

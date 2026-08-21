@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 2:11",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 2,
+  "translation": "અને તેનું સૈન્ય અને તેના ગણાયેલા ⟨છે⟩ છત્રીશ હજાર અને પાંચસો.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "અને તેનું સૈન્ય"
+    },
+    {
+      "surface": "ופקדיו",
+      "gloss": "અને તેના ગણાયેલા"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "છ"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "અને ચાલીસ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "હજાર"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "અને પાંચ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "સો"
+    }
+  ],
+  "timestamp": "2026-08-21T11:49:08.277630561Z",
+  "model": "glm-5.3"
+}

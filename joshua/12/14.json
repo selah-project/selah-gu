@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "joshua 12:14",
+  "book": "joshua",
+  "lang": "gu",
+  "chapter": 12,
+  "translation": "ખોર્માના રાજા, એક; અરાદના રાજા, એક;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "રાજા"
+    },
+    {
+      "surface": "חרמה",
+      "gloss": "ખોર્મા"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "એક"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "રાજા"
+    },
+    {
+      "surface": "ערד",
+      "gloss": "અરાદ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "એક"
+    }
+  ],
+  "timestamp": "2026-08-21T12:38:13.985080519Z",
+  "model": "glm-5.3"
+}

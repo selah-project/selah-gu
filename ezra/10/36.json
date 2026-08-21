@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "ezra 10:36",
+  "book": "ezra",
+  "lang": "gu",
+  "chapter": 10,
+  "translation": "વન્યા, મેરેમોત, એલ્યાશિબ.",
+  "tokens": [
+    {
+      "surface": "וניה",
+      "gloss": "વન્યા"
+    },
+    {
+      "surface": "מרמות",
+      "gloss": "મેરેમોત"
+    },
+    {
+      "surface": "אלישיב",
+      "gloss": "એલ્યાશિબ"
+    }
+  ],
+  "timestamp": "2026-08-21T17:50:03.984080899Z",
+  "model": "glm-5.3"
+}

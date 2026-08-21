@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "nehemiah 10:24",
+  "book": "nehemiah",
+  "lang": "gu",
+  "chapter": 10,
+  "translation": "હોશેઆ, ખાનન્યા, ખાશુવ.",
+  "tokens": [
+    {
+      "surface": "הושע",
+      "gloss": "હોશેઆ"
+    },
+    {
+      "surface": "חנניה",
+      "gloss": "ખાનન્યા"
+    },
+    {
+      "surface": "חשוב",
+      "gloss": "ખાશુવ"
+    }
+  ],
+  "timestamp": "2026-08-21T17:56:36.673076188Z",
+  "model": "glm-5.3"
+}

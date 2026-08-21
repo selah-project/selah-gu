@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 85:13",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 85,
+  "translation": "પણ યાહવે ⟨આ⟩ સારું આપશે, અને આપણી ભૂમિ પોતાનો પાક આપશે.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "પણ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "આપશે"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "⟨આ⟩ સારું"
+    },
+    {
+      "surface": "וארצנו",
+      "gloss": "અને આપણી ભૂમિ"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "આપશે"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "પોતાનો પાક"
+    }
+  ],
+  "timestamp": "2026-08-21T16:33:45.865181444Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 28:20",
+  "book": "job",
+  "lang": "gu",
+  "chapter": 28,
+  "translation": "અને જ્ઞાન ક્યાંથી આવે છે? અને સમજનું સ્થાન આ કયું છે?",
+  "tokens": [
+    {
+      "surface": "והחכמה",
+      "gloss": "અને જ્ઞાન"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "ક્યાંથી"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "આવે છે"
+    },
+    {
+      "surface": "ואי",
+      "gloss": "અને ક્યાં"
+    },
+    {
+      "surface": "זה",
+      "gloss": "આ"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "સ્થાન"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "સમજ"
+    }
+  ],
+  "timestamp": "2026-08-21T17:13:43.018230074Z",
+  "model": "glm-5.3"
+}

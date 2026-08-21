@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 4:21",
+  "book": "jeremiah",
+  "lang": "gu",
+  "chapter": 4,
+  "translation": "ક્યાં સુધી હું ધ્વજ જોઉં, શિંગડાનો અવાજ સાંભળું?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "ક્યાં સુધી"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "ક્યાં સુધી"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "હું જોઉં"
+    },
+    {
+      "surface": "נס",
+      "gloss": "ધ્વજ"
+    },
+    {
+      "surface": "אשמעה",
+      "gloss": "હું સાંભળું"
+    },
+    {
+      "surface": "קול",
+      "gloss": "અવાજ"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "શિંગડાનો"
+    }
+  ],
+  "timestamp": "2026-08-21T14:45:51.128164323Z",
+  "model": "glm-5.3"
+}

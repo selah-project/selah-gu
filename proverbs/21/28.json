@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 21:28",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 21,
+  "translation": "ખોટા સાક્ષી નાશ પામશે, પણ સાંભળનાર માણસ સદાકાળ બોલશે.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "સાક્ષી"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "ખોટા"
+    },
+    {
+      "surface": "יאבד",
+      "gloss": "નાશ પામશે"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "પણ માણસ"
+    },
+    {
+      "surface": "שומע",
+      "gloss": "સાંભળનાર"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "સદાકાળ"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "બોલશે"
+    }
+  ],
+  "timestamp": "2026-08-21T16:59:16.792825526Z",
+  "model": "glm-5.3"
+}

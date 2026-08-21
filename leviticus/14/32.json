@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 14:32",
+  "book": "leviticus",
+  "lang": "gu",
+  "chapter": 14,
+  "translation": "આ જ તેની વિધિ છે જેનામાં ચર્મરોગ-નિશાન છે, જેનો હાથ તેની શુદ્ધિ વખતે પહોંચતું નથી.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "આ"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "વિધિ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જેનામાં"
+    },
+    {
+      "surface": "בו",
+      "gloss": "તેનામાં"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "ચર્મરોગ-નિશાન"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "ચર્મરોગ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જેનો"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નથી"
+    },
+    {
+      "surface": "תשיג",
+      "gloss": "પહોંચતું"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "હાથ"
+    },
+    {
+      "surface": "בטהרתו",
+      "gloss": "તેની શુદ્ધિ વખતે"
+    }
+  ],
+  "timestamp": "2026-08-21T11:37:05.077088267Z",
+  "model": "glm-5.3"
+}

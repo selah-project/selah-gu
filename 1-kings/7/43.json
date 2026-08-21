@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-kings 7:43",
+  "book": "1-kings",
+  "lang": "gu",
+  "chapter": 7,
+  "translation": "અને ⟨את⟩ પાયાઓ દસ, અને ⟨את⟩ કડાહાં દસ, પાયાઓ પર.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "અને ⟨את⟩",
+      "marks": "પાયાઓ"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "પાયાઓ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "દસ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "અને ⟨את⟩",
+      "marks": "કડાહાં"
+    },
+    {
+      "surface": "הכירת",
+      "gloss": "કડાહાં"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "દસ"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "પાયાઓ"
+    }
+  ],
+  "timestamp": "2026-08-21T13:39:41.216975534Z",
+  "model": "glm-5.3"
+}

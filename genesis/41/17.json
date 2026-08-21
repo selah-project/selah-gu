@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 41:17",
+  "book": "genesis",
+  "lang": "gu",
+  "chapter": 41,
+  "translation": "અને ફારોએ યોસેફને કહ્યું: મારા સ્વપ્નમાં, જુઓ, હું નદીના કિનારે ઊભો ⟨હતો⟩.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "અને કહ્યું"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ફારોએ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ને"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "યોસેફને"
+    },
+    {
+      "surface": "בחלמי",
+      "gloss": "મારા સ્વપ્નમાં"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "જુઓ"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "ઊભો"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "કિનારે"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "નદીના"
+    }
+  ],
+  "timestamp": "2026-08-21T11:00:06.701905591Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 42:23",
+  "book": "genesis",
+  "lang": "gu",
+  "chapter": 42,
+  "translation": "અને તેઓ જાણતા નહોતા કે યૂસફ સમજે છે, કારણ કે તેમની વચ્ચે દુભાષિયો ⟨હતો⟩.",
+  "tokens": [
+    {
+      "surface": "והם",
+      "gloss": "અને તેઓ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નહોતા"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "જાણતા"
+    },
+    {
+      "surface": "כי",
+      "gloss": "કે"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "સમજે છે"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "યૂસફ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "કારણ કે"
+    },
+    {
+      "surface": "המליץ",
+      "gloss": "દુભાષિયો"
+    },
+    {
+      "surface": "בינתם",
+      "gloss": "તેમની વચ્ચે"
+    }
+  ],
+  "timestamp": "2026-08-21T11:01:36.641862165Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "nehemiah 7:33",
+  "book": "nehemiah",
+  "lang": "gu",
+  "chapter": 7,
+  "translation": "બીજા નેબોના માણસો: બાવન.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "માણસો"
+    },
+    {
+      "surface": "נבו",
+      "gloss": "નેબો"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "બીજા"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "પચાસ"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "અને બે"
+    }
+  ],
+  "timestamp": "2026-08-21T17:55:00.344969696Z",
+  "model": "glm-5.3"
+}

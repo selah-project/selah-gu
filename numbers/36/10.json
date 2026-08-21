@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 36:10",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 36,
+  "translation": "જેમ યાહવેએ મોશેને ⟨את⟩ આજ્ઞા કરી, તેમ જ ત્સેલોફહદનીઓ પુત્રીઓએ કર્યું.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "જેમ"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "આજ્ઞા કરી"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "મોશે"
+    },
+    {
+      "surface": "משה",
+      "gloss": "મોશે"
+    },
+    {
+      "surface": "כן",
+      "gloss": "તેમ જ"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "કર્યું"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "પુત્રીઓએ"
+    },
+    {
+      "surface": "צלפחד",
+      "gloss": "ત્સેલોફહદનીઓ"
+    }
+  ],
+  "timestamp": "2026-08-21T12:11:51.033158177Z",
+  "model": "glm-5.3"
+}

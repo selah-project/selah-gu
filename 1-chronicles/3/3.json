@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 3:3",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 3,
+  "translation": "પાંચમો શેફત્યા, અબીતાલથી; છઠ્ઠો યિત્રઆમ, એગ્લાથી, તેની પત્નીથી;",
+  "tokens": [
+    {
+      "surface": "החמישי",
+      "gloss": "પાંચમો"
+    },
+    {
+      "surface": "שפטיה",
+      "gloss": "શેફત્યા"
+    },
+    {
+      "surface": "לאביטל",
+      "gloss": "અબીતાલથી"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "છઠ્ઠો"
+    },
+    {
+      "surface": "יתרעם",
+      "gloss": "યિત્રઆમ"
+    },
+    {
+      "surface": "לעגלה",
+      "gloss": "એગ્લાથી"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "તેની પત્ની"
+    }
+  ],
+  "timestamp": "2026-08-21T18:01:33.431425416Z",
+  "model": "glm-5.3"
+}

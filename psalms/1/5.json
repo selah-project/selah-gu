@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 1:5",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 1,
+  "translation": "એટલે દુષ્ટો ⟨મશાલતમાં ઊભા નહીં રહે⟩, અને પાપીઓ સજ્જનોની સભામાં નહીં.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "એટલે"
+    },
+    {
+      "surface": "כן",
+      "gloss": "એટલે"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "יקמו",
+      "gloss": "ઊભા રહે"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "દુષ્ટો"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "મશાલતમાં"
+    },
+    {
+      "surface": "וחטאים",
+      "gloss": "અને પાપીઓ"
+    },
+    {
+      "surface": "בעדת",
+      "gloss": "સભામાં"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "સજ્જનોની"
+    }
+  ],
+  "timestamp": "2026-08-21T16:09:04.686293549Z",
+  "model": "glm-5.3"
+}

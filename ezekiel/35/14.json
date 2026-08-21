@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezekiel 35:14",
+  "book": "ezekiel",
+  "lang": "gu",
+  "chapter": 35,
+  "translation": "એમ અદોનાય યાહવે કહે છે: જેમ આખી પૃથ્વી આનંદ કરે છે તેમ, હું તને ઉજ્જડ કરીશ.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "એમ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "કહે છે"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "અદોનાય"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "כשמח",
+      "gloss": "જેમ આનંદ કરે છે"
+    },
+    {
+      "surface": "כל",
+      "gloss": "આખી"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "પૃથ્વી"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "ઉજ્જડ"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "હું કરીશ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "તને"
+    }
+  ],
+  "timestamp": "2026-08-21T15:36:49.873538432Z",
+  "model": "glm-5.3"
+}

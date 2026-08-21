@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "nehemiah 10:7",
+  "book": "nehemiah",
+  "lang": "gu",
+  "chapter": 10,
+  "translation": "દાનીયેલ, ગિન્નેતોન, બારૂખ,",
+  "tokens": [
+    {
+      "surface": "דניאל",
+      "gloss": "દાનીયેલ"
+    },
+    {
+      "surface": "גנתון",
+      "gloss": "ગિન્નેતોન"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "બારૂખ"
+    }
+  ],
+  "timestamp": "2026-08-21T17:55:19.623452025Z",
+  "model": "glm-5.3"
+}

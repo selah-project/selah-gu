@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 26:9",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 26,
+  "translation": "જેમ કાંટો દારૂ પીનારના હાથમાં ઊંચો થાય છે, તેમ મસલ ⟨is⟩ મૂર્ખોના મુખમાં।",
+  "tokens": [
+    {
+      "surface": "חוח",
+      "gloss": "કાંટો"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "ઊંચો થાય છે"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "હાથમાં"
+    },
+    {
+      "surface": "שכור",
+      "gloss": "દારૂ પીનારના"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "તેમ મસલ"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "મુખમાં"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "મૂર્ખોના"
+    }
+  ],
+  "timestamp": "2026-08-21T17:01:40.000052808Z",
+  "model": "glm-5.3"
+}

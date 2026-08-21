@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 38:7",
+  "book": "isaiah",
+  "lang": "gu",
+  "chapter": 38,
+  "translation": "અને આ તને યાહવેની પાસેથી ⟨આવેલ⟩ ચિહ્ન ⟨છે⟩ — કે યાહવે આ ⟨આ⟩ વચન કરશે જે ⟨તેણે⟩ બોલ્યો ⟨છે⟩:",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "અને આ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "તને"
+    },
+    {
+      "surface": "האות",
+      "gloss": "ચિહ્ન"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "પાસેથી ⟨את⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "કે"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "કરશે"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "આ વચન"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "વચન"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "આ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જે"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "બોલ્યો"
+    }
+  ],
+  "timestamp": "2026-08-21T14:29:55.093008188Z",
+  "model": "glm-5.3"
+}

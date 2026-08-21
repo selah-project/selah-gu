@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 76,
+  "ref": "numbers 7:76",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 7,
+  "translation": "બકરાઓમાંનો એક થોરિયો, પાપાર્પણ માટે.",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "થોરિયો"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "બકરાઓમાંનો"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "એક"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "પાપાર્પણ માટે"
+    }
+  ],
+  "timestamp": "2026-08-21T11:53:19.774690648Z",
+  "model": "glm-5.3"
+}

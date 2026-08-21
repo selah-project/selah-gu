@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "leviticus 8:36",
+  "book": "leviticus",
+  "lang": "gu",
+  "chapter": 8,
+  "translation": "અને અહરોન અને તેના પુત્રોએ ⟨את⟩ બધી જ વાતો કરી, જે યાહવેએ મોશેના હાથે આજ્ઞા કરી હતી.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "કરી"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "અહરોને"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "અને તેના પુત્રોએ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "બધી જ વાતો"
+    },
+    {
+      "surface": "כל",
+      "gloss": "બધી જ"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "વાતો"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જે"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "આજ્ઞા કરી હતી"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવેએ"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "હાથે"
+    },
+    {
+      "surface": "משה",
+      "gloss": "મોશેના"
+    }
+  ],
+  "timestamp": "2026-08-21T18:36:44.628512687Z",
+  "model": "glm-5.3"
+}

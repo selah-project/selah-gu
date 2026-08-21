@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "job 19:23",
+  "book": "job",
+  "lang": "gu",
+  "chapter": 19,
+  "translation": "કોણ આપે, હવે, કે મારાં વચનો લખાય; કોણ આપે કે પુસ્તકમાં તે કોતરાય!",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "કોણ"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "આપે"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "હવે"
+    },
+    {
+      "surface": "ויכתבון",
+      "gloss": "કે લખાય"
+    },
+    {
+      "surface": "מלי",
+      "gloss": "મારાં વચનો"
+    },
+    {
+      "surface": "מי",
+      "gloss": "કોણ"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "આપે"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "પુસ્તકમાં"
+    },
+    {
+      "surface": "ויחקו",
+      "gloss": "કે કોતરાય"
+    }
+  ],
+  "timestamp": "2026-08-21T17:11:23.140966024Z",
+  "model": "glm-5.3"
+}

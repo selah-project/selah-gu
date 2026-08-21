@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 83:1",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 83,
+  "translation": "ગીત, કીર્તન — અસાફનું.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "ગીત"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "કીર્તન"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "અસાફનું"
+    }
+  ],
+  "timestamp": "2026-08-21T16:32:19.332509743Z",
+  "model": "glm-5.3"
+}

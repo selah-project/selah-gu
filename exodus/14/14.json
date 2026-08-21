@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 14:14",
+  "book": "exodus",
+  "lang": "gu",
+  "chapter": 14,
+  "translation": "યાહવે તમારા માટે યુદ્ધ કરશે, અને તમે મૌન રહેશો.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "ילחם",
+      "gloss": "યુદ્ધ કરશે"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "તમારા માટે"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "અને તમે"
+    },
+    {
+      "surface": "תחרישון",
+      "gloss": "મૌન રહેશો"
+    }
+  ],
+  "timestamp": "2026-08-21T11:12:50.807933653Z",
+  "model": "glm-5.3"
+}

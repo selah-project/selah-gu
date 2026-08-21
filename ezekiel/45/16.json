@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezekiel 45:16",
+  "book": "ezekiel",
+  "lang": "gu",
+  "chapter": 45,
+  "translation": "દેશનો બધો પ્રજા-સમૂહ ઇસ્રાએલમાં નાસી માટે આ તેરૂમાહ તરફ ⟨દેશે⟩ ⟨હશે⟩.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "બધો"
+    },
+    {
+      "surface": "העם",
+      "gloss": "પ્રજા-સમૂહ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "દેશનો"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "હશે"
+    },
+    {
+      "surface": "אל",
+      "gloss": "તરફ"
+    },
+    {
+      "surface": "התרומה",
+      "gloss": "તેરૂમાહ"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "આ"
+    },
+    {
+      "surface": "לנשיא",
+      "gloss": "નાસી માટે"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "ઇસ્રાએલમાં"
+    }
+  ],
+  "timestamp": "2026-08-21T15:42:47.104648875Z",
+  "model": "glm-5.3"
+}

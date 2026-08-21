@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 11:15",
+  "book": "leviticus",
+  "lang": "gu",
+  "chapter": 11,
+  "translation": "⟨את⟩ દરેક કાગડો, તેના પ્રકાર પ્રમાણે.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "દરેક કાગડો"
+    },
+    {
+      "surface": "כל",
+      "gloss": "દરેક"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "કાગડો"
+    },
+    {
+      "surface": "למינו",
+      "gloss": "તેના પ્રકાર પ્રમાણે"
+    }
+  ],
+  "timestamp": "2026-08-21T11:33:40.632557856Z",
+  "model": "glm-5.3"
+}

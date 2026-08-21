@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 18:20",
+  "book": "leviticus",
+  "lang": "gu",
+  "chapter": 18,
+  "translation": "અને તારા સાથીની સ્ત્રી પાસે તું તારું શયનનું બીજ આપીશ નહિ, તેની સાથે અશુદ્ધ થવા.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "અને … પાસે"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "સ્ત્રી"
+    },
+    {
+      "surface": "עמיתך",
+      "gloss": "તારા સાથીની"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નહિ"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "તું આપીશ"
+    },
+    {
+      "surface": "שכבתך",
+      "gloss": "તારું શયન"
+    },
+    {
+      "surface": "לזרע",
+      "gloss": "બીજ"
+    },
+    {
+      "surface": "לטמאה",
+      "gloss": "અશુદ્ધ થવા"
+    },
+    {
+      "surface": "בה",
+      "gloss": "તેની સાથે"
+    }
+  ],
+  "timestamp": "2026-08-21T11:40:34.618686597Z",
+  "model": "glm-5.3"
+}

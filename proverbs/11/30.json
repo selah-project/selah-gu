@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 11:30",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 11,
+  "translation": "ન્યાયીનું ફળ જીવનનું વૃક્ષ ⟨છે⟩, અને જે જીવોને લે છે તે જ્ઞાની ⟨છે⟩.",
+  "tokens": [
+    {
+      "surface": "פרי",
+      "gloss": "ફળ"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ન્યાયીનું"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "વૃક્ષ"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "જીવનનું"
+    },
+    {
+      "surface": "ולקח",
+      "gloss": "અને જે … લે છે તે"
+    },
+    {
+      "surface": "נפשות",
+      "gloss": "જીવોને"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "જ્ઞાની"
+    }
+  ],
+  "timestamp": "2026-08-21T16:56:03.455525532Z",
+  "model": "glm-5.3"
+}

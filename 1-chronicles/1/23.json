@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 1:23",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 1,
+  "translation": "અને ⟨את⟩ ઓફીર, અને ⟨את⟩ ખવીલાહ, અને ⟨את⟩ યોવાવ; આ બધા યોક્તાના પુત્રો ⟨હતા⟩.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "અને ⟨את⟩",
+      "marks": "ઓફીર"
+    },
+    {
+      "surface": "אופיר",
+      "gloss": "ઓફીર"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "અને ⟨את⟩",
+      "marks": "ખવીલાહ"
+    },
+    {
+      "surface": "חוילה",
+      "gloss": "ખવીલાહ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "અને ⟨את⟩",
+      "marks": "યોવાવ"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "યોવાવ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "બધા"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "આ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "יקטן",
+      "gloss": "યોક્તાના"
+    }
+  ],
+  "timestamp": "2026-08-21T17:59:03.400299610Z",
+  "model": "glm-5.3"
+}

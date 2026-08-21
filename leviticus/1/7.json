@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 1:7",
+  "book": "leviticus",
+  "lang": "gu",
+  "chapter": 1,
+  "translation": "અને યાજક અહરોનના પુત્રો વેદી પર અગ્નિ મૂકશે, અને અગ્નિ પર કાઠ ગોઠવશે.",
+  "tokens": [
+    {
+      "surface": "ונתנו",
+      "gloss": "અને મૂકશે"
+    },
+    {
+      "surface": "בני",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "અહરોનના"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "યાજક"
+    },
+    {
+      "surface": "אש",
+      "gloss": "અગ્નિ"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "વેદી"
+    },
+    {
+      "surface": "וערכו",
+      "gloss": "અને ગોઠવશે"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "કાઠ"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "האש",
+      "gloss": "અગ્નિ"
+    }
+  ],
+  "timestamp": "2026-08-21T11:29:19.216232404Z",
+  "model": "glm-5.3"
+}

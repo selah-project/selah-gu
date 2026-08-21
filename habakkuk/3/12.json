@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "habakkuk 3:12",
+  "book": "habakkuk",
+  "lang": "gu",
+  "chapter": 3,
+  "translation": "ક્રોધથી તું પૃથ્વી પર ચાલે છે, રોષથી તું જનજાતિઓને દળી નાખે છે.",
+  "tokens": [
+    {
+      "surface": "בזעם",
+      "gloss": "ક્રોધથી"
+    },
+    {
+      "surface": "תצעד",
+      "gloss": "ચાલે છે"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "પૃથ્વી પર"
+    },
+    {
+      "surface": "באף",
+      "gloss": "રોષથી"
+    },
+    {
+      "surface": "תדוש",
+      "gloss": "દળી નાખે છે"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "જનજાતિઓને"
+    }
+  ],
+  "timestamp": "2026-08-21T16:00:59.002087184Z",
+  "model": "glm-5.3"
+}

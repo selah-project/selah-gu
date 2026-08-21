@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 2:15",
+  "book": "deuteronomy",
+  "lang": "gu",
+  "chapter": 2,
+  "translation": "અને પણ યાહવેનો હાથ તેઓ પર હતો, છાવણીની મધ્યમાંથી તેઓને કચાશમાં લેવા — જ્યાં સુધી તેઓ સમાપ્ત થયા.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "અને પણ"
+    },
+    {
+      "surface": "יד",
+      "gloss": "હાથ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવેનો"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "હતો"
+    },
+    {
+      "surface": "בם",
+      "gloss": "તેઓ પર"
+    },
+    {
+      "surface": "להמם",
+      "gloss": "કચાશમાં લેવા"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "મધ્યમાંથી"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "છાવણીની"
+    },
+    {
+      "surface": "עד",
+      "gloss": "જ્યાં સુધી"
+    },
+    {
+      "surface": "תמם",
+      "gloss": "સમાપ્ત થયા"
+    }
+  ],
+  "timestamp": "2026-08-21T12:12:02.788361318Z",
+  "model": "glm-5.3"
+}

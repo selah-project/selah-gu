@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "joshua 15:50",
+  "book": "joshua",
+  "lang": "gu",
+  "chapter": 15,
+  "translation": "અને અનાબ, અને એશ્તેમોહ, અને અનીમ,",
+  "tokens": [
+    {
+      "surface": "וענב",
+      "gloss": "અને અનાબ"
+    },
+    {
+      "surface": "ואשתמה",
+      "gloss": "અને એશ્તેમોહ"
+    },
+    {
+      "surface": "וענים",
+      "gloss": "અને અનીમ"
+    }
+  ],
+  "timestamp": "2026-08-21T12:40:23.527914639Z",
+  "model": "glm-5.3"
+}

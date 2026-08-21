@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "proverbs 20:29",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 20,
+  "translation": "યુવાનોનો તેજ ⟨is⟩ તેમનું બળ, અને વૃદ્ધોનો વૈભવ ⟨is⟩ શ્વેતકેશ.",
+  "tokens": [
+    {
+      "surface": "תפארת",
+      "gloss": "તેજ"
+    },
+    {
+      "surface": "בחורים",
+      "gloss": "યુવાનોનો"
+    },
+    {
+      "surface": "כחם",
+      "gloss": "તેમનું બળ"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "અને વૈભવ"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "વૃદ્ધોનો"
+    },
+    {
+      "surface": "שיבה",
+      "gloss": "શ્વેતકેશ"
+    }
+  ],
+  "timestamp": "2026-08-21T16:58:24.067237079Z",
+  "model": "glm-5.3"
+}

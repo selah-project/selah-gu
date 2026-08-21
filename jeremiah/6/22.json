@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 6:22",
+  "book": "jeremiah",
+  "lang": "gu",
+  "chapter": 6,
+  "translation": "યાહવે એમ કહે છે: જુઓ, ઉત્તર દેશમાંથી એક પ્રજા આવે છે, અને પૃથ્વીના છેડાઓમાંથી એક મોટો ગણ જાગૃત થશે.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "એમ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "કહે છે"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "જુઓ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "પ્રજા"
+    },
+    {
+      "surface": "בא",
+      "gloss": "આવે છે"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "દેશમાંથી"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "ઉત્તર"
+    },
+    {
+      "surface": "וגוי",
+      "gloss": "અને ગણ"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "મોટો"
+    },
+    {
+      "surface": "יעור",
+      "gloss": "જાગૃત થશે"
+    },
+    {
+      "surface": "מירכתי",
+      "gloss": "છેડાઓમાંથી"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "પૃથ્વીના"
+    }
+  ],
+  "timestamp": "2026-08-21T14:46:22.756001814Z",
+  "model": "glm-5.3"
+}

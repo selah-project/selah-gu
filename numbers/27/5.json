@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 27:5",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 27,
+  "translation": "અને મોશેએ તેમનો મુકદમો યાહવેના સામે ⟨את⟩ લાવ્યો.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "લાવ્યો"
+    },
+    {
+      "surface": "משה",
+      "gloss": "મોશેએ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "મુકદમો"
+    },
+    {
+      "surface": "משפטן",
+      "gloss": "તેમનો મુકદમો"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "સામે"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવેના"
+    }
+  ],
+  "timestamp": "2026-08-21T12:06:35.626194314Z",
+  "model": "glm-5.3"
+}

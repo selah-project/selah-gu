@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 11:14",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 11,
+  "translation": "હું મારા જ આળું સામર્થ્યથી આ બધા લોકોનું ⟨את⟩ વહન કરી શકતો નથી, કારણ કે તે મારા કરતાં ભારે છે.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "નથી"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "શકતો"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "હું"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "મારા જ"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "વહન કરવા"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "આ બધા લોકોનું"
+    },
+    {
+      "surface": "כל",
+      "gloss": "બધા"
+    },
+    {
+      "surface": "העם",
+      "gloss": "લોકો"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "આ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "કારણ કે"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "ભારે"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "મારા કરતાં"
+    }
+  ],
+  "timestamp": "2026-08-21T11:56:56.252969171Z",
+  "model": "glm-5.3"
+}

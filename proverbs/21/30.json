@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 21:30",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 21,
+  "translation": "યાહવેની સામે ન કોઈ જ્ઞાન છે, ન સમજ, ન કોઈ યુક્તિ.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "ન કોઈ… છે"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "જ્ઞાન"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ન"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "સમજ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ન કોઈ"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "યુક્તિ"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "સામે"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    }
+  ],
+  "timestamp": "2026-08-21T16:59:24.494566813Z",
+  "model": "glm-5.3"
+}

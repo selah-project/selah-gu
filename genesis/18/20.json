@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 18:20",
+  "book": "genesis",
+  "lang": "gu",
+  "chapter": 18,
+  "translation": "અને યાહવેએ કહ્યું: સદોમ અને અમોરાની ચીસ ખૂબ મોટી છે, અને તેમનો પાપ ખૂબ ભારે છે,",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "અને કહ્યું"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવેએ"
+    },
+    {
+      "surface": "זעקת",
+      "gloss": "ચીસ"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "સદોમ"
+    },
+    {
+      "surface": "ועמרה",
+      "gloss": "અને અમોરાની"
+    },
+    {
+      "surface": "כי",
+      "gloss": "કે"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "ખૂબ મોટી છે"
+    },
+    {
+      "surface": "וחטאתם",
+      "gloss": "અને તેમનો પાપ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "કે"
+    },
+    {
+      "surface": "כבדה",
+      "gloss": "ખૂબ ભારે છે"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ખૂબ"
+    }
+  ],
+  "timestamp": "2026-08-21T18:33:47.743720646Z",
+  "model": "glm-5.3"
+}

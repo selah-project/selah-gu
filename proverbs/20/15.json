@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 20:15",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 20,
+  "translation": "સોનું છે અને મોતીઓની બહુતાયત ⟨છે⟩; પણ જ્ઞાનનાં હોઠ મૂલ્યવાન વસ્તુ છે.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "છે"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "સોનું"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "અને બહુતાયત"
+    },
+    {
+      "surface": "פנינים",
+      "gloss": "મોતીઓની"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "અને વસ્તુ"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "મૂલ્યવાન"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "હોઠ"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "જ્ઞાનનાં"
+    }
+  ],
+  "timestamp": "2026-08-21T16:59:21.605455806Z",
+  "model": "glm-5.3"
+}

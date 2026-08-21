@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "numbers 13:13",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 13,
+  "translation": "આશેરના કુળનો — સેતૂર, મીખાએલનો પુત્ર.",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "કુળનો"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "આશેરના"
+    },
+    {
+      "surface": "סתור",
+      "gloss": "સેતૂર"
+    },
+    {
+      "surface": "בן",
+      "gloss": "પુત્ર"
+    },
+    {
+      "surface": "מיכאל",
+      "gloss": "મીખાએલનો"
+    }
+  ],
+  "timestamp": "2026-08-21T11:55:16.636269728Z",
+  "model": "glm-5.3"
+}

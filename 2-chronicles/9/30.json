@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-chronicles 9:30",
+  "book": "2-chronicles",
+  "lang": "gu",
+  "chapter": 9,
+  "translation": "અને શલોમો યરૂશાલાયિમ (યરૂશાલેમ) માં સમગ્ર ઇસ્રાએલ પર ચાલીસ વર્ષ રાજ કરે છે.",
+  "tokens": [
+    {
+      "surface": "וימלך",
+      "gloss": "રાજ કરે છે"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "શલોમો"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "યરૂશાલાયિમમાં"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "כל",
+      "gloss": "સમગ્ર"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ઇસ્રાએલ"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "ચાલીસ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "વર્ષ"
+    }
+  ],
+  "timestamp": "2026-08-21T18:18:45.712051471Z",
+  "model": "glm-5.3"
+}

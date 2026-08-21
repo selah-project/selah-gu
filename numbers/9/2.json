@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 9:2",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 9,
+  "translation": "“ઇસ્રાએલના પુત્રો પેસખને ⟨את⟩ તેના નિયત સમયે કરવા જાય.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "કરવા જાય"
+    },
+    {
+      "surface": "בני",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ઇસ્રાએલના"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "પેસખને"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "પેસખ"
+    },
+    {
+      "surface": "במועדו",
+      "gloss": "તેના નિયત સમયે"
+    }
+  ],
+  "timestamp": "2026-08-21T11:55:11.993939159Z",
+  "model": "glm-5.3"
+}

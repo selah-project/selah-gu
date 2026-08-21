@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 6:10",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 6,
+  "translation": "અને એલકાનાનાં પુત્રો: અમાસાય અને અહીમોત.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "અને …નાં પુત્રો"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "એલકાના"
+    },
+    {
+      "surface": "עמשי",
+      "gloss": "અમાસાય"
+    },
+    {
+      "surface": "ואחימות",
+      "gloss": "અને અહીમોત"
+    }
+  ],
+  "timestamp": "2026-08-21T18:02:05.322751995Z",
+  "model": "glm-5.3"
+}

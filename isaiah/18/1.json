@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 18:1",
+  "book": "isaiah",
+  "lang": "gu",
+  "chapter": 18,
+  "translation": "હાય, પાંખોની ફરફરાટવાળી ભૂમિ, જે કુશની નદીઓને પાર છે!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "હાય"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ભૂમિ"
+    },
+    {
+      "surface": "צלצל",
+      "gloss": "ફરફરાટ"
+    },
+    {
+      "surface": "כנפים",
+      "gloss": "પાંખો"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જે"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "પાર"
+    },
+    {
+      "surface": "לנהרי",
+      "gloss": "નદીઓ"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "કુશ"
+    }
+  ],
+  "timestamp": "2026-08-21T14:20:48.736394376Z",
+  "model": "glm-5.3"
+}

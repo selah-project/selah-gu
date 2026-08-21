@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 30:2",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 30,
+  "translation": "અને મોશેએ ઈસ્રાએલનાં પુત્રોની કુળોના મુખિયાઓને બોલ્યા, કહેતા: આ ⟨the⟩ વચન ⟨is⟩ જે યાહવેએ આજ્ઞા આપી છે.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "અને…બોલ્યા"
+    },
+    {
+      "surface": "משה",
+      "gloss": "મોશેએ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ને"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "મુખિયાઓના"
+    },
+    {
+      "surface": "המטות",
+      "gloss": "કુળોના"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "પુત્રોની"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ઈસ્રાએલનાં"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "કહેતા"
+    },
+    {
+      "surface": "זה",
+      "gloss": "આ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "વચન"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જે"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "આજ્ઞા આપી છે"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવેએ"
+    }
+  ],
+  "timestamp": "2026-08-21T12:08:50.069979622Z",
+  "model": "glm-5.3"
+}

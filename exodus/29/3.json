@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 29:3",
+  "book": "exodus",
+  "lang": "gu",
+  "chapter": 29,
+  "translation": "અને તું તેમને એક ટોપલી પર મૂકીશ, અને તું ટોપલીમાં ⟨את⟩ તેમને નજીક લાવીશ, અને ⟨את⟩ ⟨the⟩ વછેર અને ⟨את⟩ ⟨the⟩ બે ઘેટાઓ.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "અને તું મૂકીશ"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "તેમને"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "סל",
+      "gloss": "ટોપલી"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "એક"
+    },
+    {
+      "surface": "והקרבת",
+      "gloss": "અને તું નજીક લાવીશ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "તેમને"
+    },
+    {
+      "surface": "בסל",
+      "gloss": "ટોપલીમાં"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "વછેર"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "⟨the⟩ વછેર"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "બે ઘેટાઓ"
+    },
+    {
+      "surface": "שני",
+      "gloss": "બે"
+    },
+    {
+      "surface": "האילם",
+      "gloss": "⟨the⟩ ઘેટાઓ"
+    }
+  ],
+  "timestamp": "2026-08-21T11:23:04.188680765Z",
+  "model": "glm-5.3"
+}

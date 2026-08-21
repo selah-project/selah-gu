@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 6:7",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 6,
+  "translation": "જેને કોઈ સરદાર નથી, ન નિરીક્ષક, ન શાસક —",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "જેને"
+    },
+    {
+      "surface": "אין",
+      "gloss": "નથી"
+    },
+    {
+      "surface": "לה",
+      "gloss": "તેને"
+    },
+    {
+      "surface": "קצין",
+      "gloss": "કોઈ સરદાર"
+    },
+    {
+      "surface": "שטר",
+      "gloss": "નિરીક્ષક"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "ન શાસક"
+    }
+  ],
+  "timestamp": "2026-08-21T16:54:01.441781479Z",
+  "model": "glm-5.3"
+}

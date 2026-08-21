@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 10:14",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 10,
+  "translation": "ચતુર લોકો જ્ઞાન સંતાડે છે, પણ મૂર્ખનું મુખ નાશની નજીક ⟨છે⟩.",
+  "tokens": [
+    {
+      "surface": "חכמים",
+      "gloss": "ચતુર લોકો"
+    },
+    {
+      "surface": "יצפנו",
+      "gloss": "સંતાડે છે"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "જ્ઞાન"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "પણ મૂર્ખનું મુખ"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "મૂર્ખ"
+    },
+    {
+      "surface": "מחתה",
+      "gloss": "નાશ"
+    },
+    {
+      "surface": "קרבה",
+      "gloss": "નજીક"
+    }
+  ],
+  "timestamp": "2026-08-21T16:55:29.415654829Z",
+  "model": "glm-5.3"
+}

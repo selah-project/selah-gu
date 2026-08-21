@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "joshua 11:18",
+  "book": "joshua",
+  "lang": "gu",
+  "chapter": 11,
+  "translation": "ઘણા દિવસો સુધી યહોશુઆએ આ બધા રાજાઓ સાથે ⟨את⟩ યુદ્ધ કર્યું.",
+  "tokens": [
+    {
+      "surface": "ימים",
+      "gloss": "દિવસો"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ઘણા"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "કર્યું"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "યહોશુઆએ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "આ બધા રાજાઓ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "બધા"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "રાજાઓ"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "આ"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "યુદ્ધ"
+    }
+  ],
+  "timestamp": "2026-08-21T12:40:07.585504552Z",
+  "model": "glm-5.3"
+}

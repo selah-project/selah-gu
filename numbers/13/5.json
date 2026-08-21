@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 13:5",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 13,
+  "translation": "શિમોનના કુળ માટે — શાફાત, ખોરીનો પુત્ર.",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "કુળ માટે"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "શિમોનના"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "શાફાત"
+    },
+    {
+      "surface": "בן",
+      "gloss": "પુત્ર"
+    },
+    {
+      "surface": "חורי",
+      "gloss": "ખોરીનો"
+    }
+  ],
+  "timestamp": "2026-08-21T11:55:08.564470532Z",
+  "model": "glm-5.3"
+}

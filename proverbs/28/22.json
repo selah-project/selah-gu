@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 28:22",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 28,
+  "translation": "ધન માટે ઘબરાયેલો એવો દુષ્ટ નજરવાળો માણસ, અને તે જાણતું નથી કે તેની પર અભાવ આવશે.",
+  "tokens": [
+    {
+      "surface": "נבהל",
+      "gloss": "ઘબરાયેલો"
+    },
+    {
+      "surface": "להון",
+      "gloss": "ધન માટે"
+    },
+    {
+      "surface": "איש",
+      "gloss": "માણસ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "દુષ્ટ"
+    },
+    {
+      "surface": "עין",
+      "gloss": "નજરવાળો"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "અને... નહિ"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "જાણતું"
+    },
+    {
+      "surface": "כי",
+      "gloss": "કે"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "અભાવ"
+    },
+    {
+      "surface": "יבאנו",
+      "gloss": "તેની પર આવશે"
+    }
+  ],
+  "timestamp": "2026-08-21T17:03:23.979388968Z",
+  "model": "glm-5.3"
+}

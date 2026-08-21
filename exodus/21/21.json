@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 21:21",
+  "book": "exodus",
+  "lang": "gu",
+  "chapter": 21,
+  "translation": "પણ જો તે એક દિવસ કે બે દિવસ ટકે, તો તેનો બદલો લેવાશે નહીં, કારણ કે તે તેનું ચાંદી (પૈસા) છે.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "પણ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "જો"
+    },
+    {
+      "surface": "יום",
+      "gloss": "એક દિવસ"
+    },
+    {
+      "surface": "או",
+      "gloss": "કે"
+    },
+    {
+      "surface": "יומים",
+      "gloss": "બે દિવસ"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "ટકે"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "יקם",
+      "gloss": "બદલો લેવાશે"
+    },
+    {
+      "surface": "כי",
+      "gloss": "કારણ કે"
+    },
+    {
+      "surface": "כספו",
+      "gloss": "તેનું ચાંદી (પૈસા)"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "તે છે"
+    }
+  ],
+  "timestamp": "2026-08-21T11:17:35.482358249Z",
+  "model": "glm-5.3"
+}

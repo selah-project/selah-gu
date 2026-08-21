@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 23:23",
+  "book": "deuteronomy",
+  "lang": "gu",
+  "chapter": 23,
+  "translation": "પણ જો તું પ્રતિજ્ઞા કરવામાંથી ચૂકશે, તો તારામાં પાપ રહેશે નહીં.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "પણ જો"
+    },
+    {
+      "surface": "תחדל",
+      "gloss": "ચૂકશે"
+    },
+    {
+      "surface": "לנדר",
+      "gloss": "પ્રતિજ્ઞા કરવામાંથી"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "રહેશે"
+    },
+    {
+      "surface": "בך",
+      "gloss": "તારામાં"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "પાપ"
+    }
+  ],
+  "timestamp": "2026-08-21T12:24:58.273646652Z",
+  "model": "glm-5.3"
+}

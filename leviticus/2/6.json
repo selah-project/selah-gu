@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 2:6",
+  "book": "leviticus",
+  "lang": "gu",
+  "chapter": 2,
+  "translation": "તું તેને ⟨את⟩ ટુકડા તોડીને તેના પર તેલ રેડીશ; તે મિન્ખાહ છે.",
+  "tokens": [
+    {
+      "surface": "פתות",
+      "gloss": "તોડીને"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ટુકડા"
+    },
+    {
+      "surface": "פתים",
+      "gloss": "ટુકડા"
+    },
+    {
+      "surface": "ויצקת",
+      "gloss": "રેડીશ"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "તેના પર"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "તેલ"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "મિન્ખાહ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "તે છે"
+    }
+  ],
+  "timestamp": "2026-08-21T11:29:35.946640321Z",
+  "model": "glm-5.3"
+}

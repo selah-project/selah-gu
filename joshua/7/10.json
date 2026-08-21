@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 7:10",
+  "book": "joshua",
+  "lang": "gu",
+  "chapter": 7,
+  "translation": "અને યાહવેએ યહોશુઆને કહ્યું: “ઊઠ, તારા માટે; આ શા માટે તું પોતાના ચહેરા પર પડ્યો છે?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "અને કહ્યું"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવેએ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ને"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "યહોશુઆને"
+    },
+    {
+      "surface": "קם",
+      "gloss": "ઊઠ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "તારા માટે"
+    },
+    {
+      "surface": "למה",
+      "gloss": "કેમ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "આ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "તું"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "પડ્યો છે"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "પોતાના ચહેરા"
+    }
+  ],
+  "timestamp": "2026-08-21T12:35:43.217857118Z",
+  "model": "glm-5.3"
+}

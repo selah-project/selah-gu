@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 136:20",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 136,
+  "translation": "અને ઓગને — બાશાનના રાજાને, કેમ કે સદા સુધી ⟨રહે છે⟩ તેનો હેસેદ।",
+  "tokens": [
+    {
+      "surface": "ולעוג",
+      "gloss": "અને ઓગને"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "રાજા"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "બાશાનના"
+    },
+    {
+      "surface": "כי",
+      "gloss": "કેમ કે"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "સદા સુધી"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "તેનો હેસેદ"
+    }
+  ],
+  "timestamp": "2026-08-21T16:47:50.922558084Z",
+  "model": "glm-5.3"
+}

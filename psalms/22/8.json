@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 22:8",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 22,
+  "translation": "મને જોનારા બધા મને ટાળે છે; ઓઠાં વડે તર્કે છે, માથું ધુણાવે છે.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "બધા"
+    },
+    {
+      "surface": "ראי",
+      "gloss": "મને જોનારા"
+    },
+    {
+      "surface": "ילעגו",
+      "gloss": "ટાળે છે"
+    },
+    {
+      "surface": "לי",
+      "gloss": "મને"
+    },
+    {
+      "surface": "יפטירו",
+      "gloss": "તર્કે છે"
+    },
+    {
+      "surface": "בשפה",
+      "gloss": "ઓઠાં વડે"
+    },
+    {
+      "surface": "יניעו",
+      "gloss": "ધુણાવે છે"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "માથું"
+    }
+  ],
+  "timestamp": "2026-08-21T16:14:59.047086402Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "daniel 8:20",
+  "book": "daniel",
+  "lang": "gu",
+  "chapter": 8,
+  "translation": "જે ઘેટો શિંગડાંનો માલિક ⟨છે⟩ તેં જોયો, તે માદી અને પારસના રાજાઓ ⟨છે⟩.",
+  "tokens": [
+    {
+      "surface": "האיל",
+      "gloss": "ઘેટો"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જે"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "તેં જોયો"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "માલિક"
+    },
+    {
+      "surface": "הקרנים",
+      "gloss": "શિંગડાંનો"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "રાજાઓ"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "માદી"
+    },
+    {
+      "surface": "ופרס",
+      "gloss": "અને પારસ"
+    }
+  ],
+  "timestamp": "2026-08-21T17:42:41.122919490Z",
+  "model": "glm-5.3"
+}

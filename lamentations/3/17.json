@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "lamentations 3:17",
+  "book": "lamentations",
+  "lang": "gu",
+  "chapter": 3,
+  "translation": "અને મારી નફશને ⟨એણે⟩ શાંતિથી દૂર કરી છે; મેં ભલાઈ ભૂલી ગઈ છે.",
+  "tokens": [
+    {
+      "surface": "ותזנח",
+      "gloss": "અને દૂર કરી છે"
+    },
+    {
+      "surface": "משלום",
+      "gloss": "શાંતિથી"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "મારી નફશ"
+    },
+    {
+      "surface": "נשיתי",
+      "gloss": "મેં ભૂલી ગઈ છે"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "ભલાઈ"
+    }
+  ],
+  "timestamp": "2026-08-21T17:26:05.696860159Z",
+  "model": "glm-5.3"
+}

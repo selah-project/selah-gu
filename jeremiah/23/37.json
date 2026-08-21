@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "jeremiah 23:37",
+  "book": "jeremiah",
+  "lang": "gu",
+  "chapter": 23,
+  "translation": "આ પ્રમાણે તું નબીને કહેશે: યાહવેએ તને શું ઉત્તર આપ્યો? અને યાહવે શું બોલ્યા છે?",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "આ પ્રમાણે"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "તું કહેશે"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ને"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "નબીને"
+    },
+    {
+      "surface": "מה",
+      "gloss": "શું"
+    },
+    {
+      "surface": "ענך",
+      "gloss": "ઉત્તર આપ્યો"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવેએ"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "અને શું"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "બોલ્યા છે"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    }
+  ],
+  "timestamp": "2026-08-21T14:58:31.105529458Z",
+  "model": "glm-5.3"
+}

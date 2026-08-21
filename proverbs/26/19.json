@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 26:19",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 26,
+  "translation": "એવો જ એ ⟨છે⟩ જે ⟨את⟩ પોતાના મિત્રને છળે છે, અને કહે છે: શું હું મજાક નહીં કરતો?",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "એવો જ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "માણસ"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "છળે છે"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "પોતાના મિત્રને"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "પોતાના મિત્રને"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "અને કહે છે"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "શું…નહીં"
+    },
+    {
+      "surface": "משחק",
+      "gloss": "મજાક કરતો"
+    },
+    {
+      "surface": "אני",
+      "gloss": "હું"
+    }
+  ],
+  "timestamp": "2026-08-21T17:01:58.106001752Z",
+  "model": "glm-5.3"
+}

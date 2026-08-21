@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "lamentations 3:54",
+  "book": "lamentations",
+  "lang": "gu",
+  "chapter": 3,
+  "translation": "મારા માથા પર પાણી વહી ગયાં; મેં કહ્યું, હું કાપી નાખાયો છું.",
+  "tokens": [
+    {
+      "surface": "צפו",
+      "gloss": "વહી ગયાં"
+    },
+    {
+      "surface": "מים",
+      "gloss": "પાણી"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "મારા માથા"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "મેં કહ્યું"
+    },
+    {
+      "surface": "נגזרתי",
+      "gloss": "હું કાપી નાખાયો છું"
+    }
+  ],
+  "timestamp": "2026-08-21T17:25:57.185618880Z",
+  "model": "glm-5.3"
+}

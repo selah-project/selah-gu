@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "malachi 3:9",
+  "book": "malachi",
+  "lang": "gu",
+  "chapter": 3,
+  "translation": "શાપમાં તમે શાપિત છો, અને ⟨את⟩ મને જ તમે ઠગો છો — ⟨the⟩ પ્રજા, સમગ્ર તે.",
+  "tokens": [
+    {
+      "surface": "במארה",
+      "gloss": "શાપમાં"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "તમે"
+    },
+    {
+      "surface": "נארים",
+      "gloss": "શાપિત"
+    },
+    {
+      "surface": "ואתי",
+      "gloss": "અને ⟨את⟩ મને",
+      "marks": "મને"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "તમે"
+    },
+    {
+      "surface": "קבעים",
+      "gloss": "ઠગો છો"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "પ્રજા"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "સમગ્ર તે"
+    }
+  ],
+  "timestamp": "2026-08-21T16:11:17.150095268Z",
+  "model": "glm-5.3"
+}

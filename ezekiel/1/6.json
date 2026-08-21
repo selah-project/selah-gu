@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 1:6",
+  "book": "ezekiel",
+  "lang": "gu",
+  "chapter": 1,
+  "translation": "અને એકને ચાર ચહેરા, અને એકને ચાર પાંખો ⟨હતીં⟩.",
+  "tokens": [
+    {
+      "surface": "וארבעה",
+      "gloss": "અને ચાર"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "ચહેરા"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "એકને"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "અને ચાર"
+    },
+    {
+      "surface": "כנפים",
+      "gloss": "પાંખો"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "એકને"
+    },
+    {
+      "surface": "להם",
+      "gloss": "તેમની પાસે"
+    }
+  ],
+  "timestamp": "2026-08-21T15:14:52.327686289Z",
+  "model": "glm-5.3"
+}

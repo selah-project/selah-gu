@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 17:3",
+  "book": "leviticus",
+  "lang": "gu",
+  "chapter": 17,
+  "translation": "ઇસ્રાએલના ઘરમાંથી માણસ માણસ, જે છાવણીમાં બળદ અથવા ડોકરું અથવા બકરી વધેરે, અથવા જે છાવણીની બહાર વધેરે —",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "માણસ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "માણસ"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "…ના ઘરમાંથી"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ઇસ્રાએલ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જે"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "વધેરે"
+    },
+    {
+      "surface": "שור",
+      "gloss": "બળદ"
+    },
+    {
+      "surface": "או",
+      "gloss": "અથવા"
+    },
+    {
+      "surface": "כשב",
+      "gloss": "ડોકરું"
+    },
+    {
+      "surface": "או",
+      "gloss": "અથવા"
+    },
+    {
+      "surface": "עז",
+      "gloss": "બકરી"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "છાવણીમાં"
+    },
+    {
+      "surface": "או",
+      "gloss": "અથવા"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જે"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "વધેરે"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "…ની બહાર"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "છાવણીથી"
+    }
+  ],
+  "timestamp": "2026-08-21T11:40:58.323412973Z",
+  "model": "glm-5.3"
+}

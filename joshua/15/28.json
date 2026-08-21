@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "joshua 15:28",
+  "book": "joshua",
+  "lang": "gu",
+  "chapter": 15,
+  "translation": "અને હાત્સર-શુઆલ, અને બેએર-શેવા, અને બિઝિયોથિયા.",
+  "tokens": [
+    {
+      "surface": "וחצר",
+      "gloss": "અને હાત્સર"
+    },
+    {
+      "surface": "שועל",
+      "gloss": "શુઆલ"
+    },
+    {
+      "surface": "ובאר",
+      "gloss": "અને બેએર"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "શેવા"
+    },
+    {
+      "surface": "ובזיותיה",
+      "gloss": "અને બિઝિયોથિયા"
+    }
+  ],
+  "timestamp": "2026-08-21T12:40:35.480016739Z",
+  "model": "glm-5.3"
+}

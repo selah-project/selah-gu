@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "numbers 31:43",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 31,
+  "translation": "અને સમૂહનો અડધો ભાગ — ઘેટાંમાંથી ત્રણ લાખ, અને ત્રીસ હજાર, સાત હજાર અને પાંચસો,",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "અને...હતો"
+    },
+    {
+      "surface": "מחצת",
+      "gloss": "અડધો ભાગ"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "સમૂહનો"
+    },
+    {
+      "surface": "מן",
+      "gloss": "માંથી"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "ઘેટાં"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ત્રણ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "લાખ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "હજાર"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "અને ત્રીસ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "હજાર"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "સાત"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "હજાર"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "અને પાંચ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "સો"
+    }
+  ],
+  "timestamp": "2026-08-21T12:07:37.679352319Z",
+  "model": "glm-5.3"
+}

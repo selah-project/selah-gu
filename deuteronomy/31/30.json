@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "deuteronomy 31:30",
+  "book": "deuteronomy",
+  "lang": "gu",
+  "chapter": 31,
+  "translation": "અને મોશે ઇસ્રાએલના સમગ્ર સભાના કાનોમાં ⟨את⟩ આ ગીતના શબ્દો બોલ્યા, તે પૂર્ણ થાય ત્યાં સુધી.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "અને બોલ્યા"
+    },
+    {
+      "surface": "משה",
+      "gloss": "મોશે"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "કાનોમાં"
+    },
+    {
+      "surface": "כל",
+      "gloss": "સમગ્ર"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "સભાના"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ઇસ્રાએલના"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "આ ગીતના શબ્દો"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "શબ્દો"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "ગીતના"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "આ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "સુધી"
+    },
+    {
+      "surface": "תמם",
+      "gloss": "પૂર્ણ થાય ત્યાં"
+    }
+  ],
+  "timestamp": "2026-08-21T12:29:16.593530806Z",
+  "model": "glm-5.3"
+}

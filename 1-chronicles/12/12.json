@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 12:12",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 12,
+  "translation": "અત્તાય ⟨the⟩ છઠ્ઠો, એલિએલ ⟨the⟩ સાતમો.",
+  "tokens": [
+    {
+      "surface": "עתי",
+      "gloss": "અત્તાય"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "છઠ્ઠો"
+    },
+    {
+      "surface": "אליאל",
+      "gloss": "એલિએલ"
+    },
+    {
+      "surface": "השבעי",
+      "gloss": "સાતમો"
+    }
+  ],
+  "timestamp": "2026-08-21T18:05:05.945932237Z",
+  "model": "glm-5.3"
+}

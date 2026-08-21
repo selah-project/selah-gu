@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezra 2:20",
+  "book": "ezra",
+  "lang": "gu",
+  "chapter": 2,
+  "translation": "ગિબ્બારના પુત્રો, પંચાણાણું.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "ગિબ્બારના"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "નેંણું"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "અને પાંચ"
+    }
+  ],
+  "timestamp": "2026-08-21T17:45:14.187203382Z",
+  "model": "glm-5.3"
+}

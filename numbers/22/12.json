@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 22:12",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 22,
+  "translation": "અને એલોહીમે બિલામને કહ્યું: તું તેમની સાથે ન જઈશ; તું ⟨את⟩ એ પ્રજાને શાપ ન આપત; કેમ કે તે ધન્ય છે.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "અને કહ્યું"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "એલોહીમે"
+    },
+    {
+      "surface": "אל",
+      "gloss": "પાસે"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "બિલામને"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ન"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "જઈશ"
+    },
+    {
+      "surface": "עמהם",
+      "gloss": "તેમની સાથે"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ન"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "શાપ આપત"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "એ પ્રજાને"
+    },
+    {
+      "surface": "העם",
+      "gloss": "એ પ્રજાને"
+    },
+    {
+      "surface": "כי",
+      "gloss": "કેમ કે"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "ધન્ય"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "તે છે"
+    }
+  ],
+  "timestamp": "2026-08-21T12:02:21.500648965Z",
+  "model": "glm-5.3"
+}

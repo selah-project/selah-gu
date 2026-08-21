@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "joshua 13:18",
+  "book": "joshua",
+  "lang": "gu",
+  "chapter": 13,
+  "translation": "અને યાહાસાહ, અને કેદેમોત, અને મેફાત.",
+  "tokens": [
+    {
+      "surface": "ויהצה",
+      "gloss": "અને યાહાસાહ"
+    },
+    {
+      "surface": "וקדמת",
+      "gloss": "અને કેદેમોત"
+    },
+    {
+      "surface": "ומפעת",
+      "gloss": "અને મેફાત"
+    }
+  ],
+  "timestamp": "2026-08-21T12:38:29.962919929Z",
+  "model": "glm-5.3"
+}

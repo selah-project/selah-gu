@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 22:11",
+  "book": "2-samuel",
+  "lang": "gu",
+  "chapter": 22,
+  "translation": "અને તે કરુબ પર સવાર થયો અને ઉડ્યો, અને તે પવનના પાંખો પર દેખાઈ આવ્યો.",
+  "tokens": [
+    {
+      "surface": "וירכב",
+      "gloss": "અને તે સવાર થયો"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "כרוב",
+      "gloss": "કરુબ"
+    },
+    {
+      "surface": "ויעף",
+      "gloss": "અને ઉડ્યો"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "અને દેખાઈ આવ્યો"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "પાંખો"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "પવન"
+    }
+  ],
+  "timestamp": "2026-08-21T13:30:56.268736197Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 43:4",
+  "book": "ezekiel",
+  "lang": "gu",
+  "chapter": 43,
+  "translation": "અને યાહવેનો તેજ એ દરવાજા દ્વારા ઘરમાં આવ્યો, જેનો ચહેરો પૂર્વના માર્ગ તરફ ⟨હતો⟩.",
+  "tokens": [
+    {
+      "surface": "וכבוד",
+      "gloss": "અને તેજ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવેનો"
+    },
+    {
+      "surface": "בא",
+      "gloss": "આવ્યો"
+    },
+    {
+      "surface": "אל",
+      "gloss": "માં"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ઘરમાં"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "દ્વારા"
+    },
+    {
+      "surface": "שער",
+      "gloss": "દરવાજા"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જેનો"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ચહેરો"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "માર્ગ તરફ"
+    },
+    {
+      "surface": "הקדים",
+      "gloss": "પૂર્વના"
+    }
+  ],
+  "timestamp": "2026-08-21T15:41:10.484698942Z",
+  "model": "glm-5.3"
+}

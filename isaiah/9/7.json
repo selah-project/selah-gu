@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 9:7",
+  "book": "isaiah",
+  "lang": "gu",
+  "chapter": 9,
+  "translation": "એક વાણી અદોનાયે યાકોવ પર મોકલી, અને તે ઇસ્રાએલ પર પડી.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "વાણી"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "મોકલી"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "અદોનાય"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "યાકોવ પર"
+    },
+    {
+      "surface": "ונפל",
+      "gloss": "અને પડી"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "ઇસ્રાએલ પર"
+    }
+  ],
+  "timestamp": "2026-08-21T14:18:05.610474640Z",
+  "model": "glm-5.3"
+}

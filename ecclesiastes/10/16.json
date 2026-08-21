@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 10:16",
+  "book": "ecclesiastes",
+  "lang": "gu",
+  "chapter": 10,
+  "translation": "હાય તમારે, હે દેશ, જ્યારે તમારો રાજા બાળક હોય, અને તમારા સરદારો સવારે જમે!",
+  "tokens": [
+    {
+      "surface": "אי",
+      "gloss": "હાય"
+    },
+    {
+      "surface": "לך",
+      "gloss": "તમારે"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "હે દેશ"
+    },
+    {
+      "surface": "שמלכך",
+      "gloss": "જ્યારે તમારો રાજા"
+    },
+    {
+      "surface": "נער",
+      "gloss": "બાળક"
+    },
+    {
+      "surface": "ושריך",
+      "gloss": "અને તમારા સરદારો"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "સવારે"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "જમે"
+    }
+  ],
+  "timestamp": "2026-08-21T17:30:18.486312066Z",
+  "model": "glm-5.3"
+}

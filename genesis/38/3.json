@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 38:3",
+  "book": "genesis",
+  "lang": "gu",
+  "chapter": 38,
+  "translation": "અને તેણી ગર્ભવતી થઈ, અને દીકરો જન્મ્યો, અને તેણે ⟨આત⟩ તેનું નામ એર પાડ્યું.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "ગર્ભવતી થઈ"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "જન્મ્યો"
+    },
+    {
+      "surface": "בן",
+      "gloss": "દીકરો"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "પાડ્યું"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "તેનું નામ"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "તેનું નામ"
+    },
+    {
+      "surface": "ער",
+      "gloss": "એર"
+    }
+  ],
+  "timestamp": "2026-08-21T10:58:48.394137974Z",
+  "model": "glm-5.3"
+}

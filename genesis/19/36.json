@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "genesis 19:36",
+  "book": "genesis",
+  "lang": "gu",
+  "chapter": 19,
+  "translation": "અને લોટની બંને પુત્રોએ પોતાના પિતાથી ગર્ભધારણ કર્યું.",
+  "tokens": [
+    {
+      "surface": "ותהרין",
+      "gloss": "ગર્ભધારણ કર્યું"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "બંને"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "પુત્રોએ"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "લોટની"
+    },
+    {
+      "surface": "מאביהן",
+      "gloss": "પોતાના પિતાથી"
+    }
+  ],
+  "timestamp": "2026-08-21T10:46:13.686161443Z",
+  "model": "glm-5.3"
+}

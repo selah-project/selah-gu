@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 21:1",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 21,
+  "translation": "પાણીની નહેરો જેવું રાજાનું હૃદય યાહવેના હાથમાં ⟨છે⟩; જે તેને ગમે તે તરફ તે તેને વાળે છે.",
+  "tokens": [
+    {
+      "surface": "פלגי",
+      "gloss": "નહેરો"
+    },
+    {
+      "surface": "מים",
+      "gloss": "પાણી"
+    },
+    {
+      "surface": "לב",
+      "gloss": "હૃદય"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "રાજા"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "હાથમાં"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "על",
+      "gloss": "તરફ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "જે"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "તે"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "તેને ગમે"
+    },
+    {
+      "surface": "יטנו",
+      "gloss": "તે વાળે છે"
+    }
+  ],
+  "timestamp": "2026-08-21T16:59:36.073107871Z",
+  "model": "glm-5.3"
+}

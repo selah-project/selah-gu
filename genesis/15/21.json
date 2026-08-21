@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 15:21",
+  "book": "genesis",
+  "lang": "gu",
+  "chapter": 15,
+  "translation": "અને ⟨את⟩ એમોરી, અને ⟨את⟩ કનાની, અને ⟨את⟩ ગિર્ગાશી, અને ⟨את⟩ યબૂસી.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "એમોરી"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "એમોરી"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "કનાની"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "કનાની"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ગિર્ગાશી"
+    },
+    {
+      "surface": "הגרגשי",
+      "gloss": "ગિર્ગાશી"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "યબૂસી"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "યબૂસી"
+    }
+  ],
+  "timestamp": "2026-08-21T10:42:52.987719349Z",
+  "model": "glm-5.3"
+}

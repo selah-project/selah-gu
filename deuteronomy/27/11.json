@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 27:11",
+  "book": "deuteronomy",
+  "lang": "gu",
+  "chapter": 27,
+  "translation": "અને મોશેએ તે જ દિવસે ⟨את⟩ પ્રજાને આજ્ઞા આપી, કહેતા:",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "અને આજ્ઞા આપી"
+    },
+    {
+      "surface": "משה",
+      "gloss": "મોશેએ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "પ્રજા"
+    },
+    {
+      "surface": "העם",
+      "gloss": "પ્રજા"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "દિવસે"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "તે જ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "કહેતા"
+    }
+  ],
+  "timestamp": "2026-08-21T12:25:56.540538779Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 9:18",
+  "book": "1-kings",
+  "lang": "gu",
+  "chapter": 9,
+  "translation": "અને ⟨את⟩ બાલાત, અને ⟨את⟩ તામાર, જે ⟨the⟩ જંગલમાં ⟨the⟩ દેશમાં ⟨is⟩.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "અને ⟨את⟩",
+      "marks": "બાલાત"
+    },
+    {
+      "surface": "בעלת",
+      "gloss": "બાલાત"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "અને ⟨את⟩",
+      "marks": "તામાર"
+    },
+    {
+      "surface": "תמר",
+      "gloss": "તામાર"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "જંગલમાં"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "દેશમાં"
+    }
+  ],
+  "timestamp": "2026-08-21T13:42:12.120562308Z",
+  "model": "glm-5.3"
+}

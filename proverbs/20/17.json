@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 20:17",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 20,
+  "translation": "માણસને છળનું ભાખરું મીઠું લાગે છે, પણ પછી તેનું મુખ કંકડિયાથી ભરાઈ જશે.",
+  "tokens": [
+    {
+      "surface": "ערב",
+      "gloss": "મીઠું લાગે છે"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "માણસને"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ભાખરું"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "છળનું"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "પણ પછી"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "ભરાઈ જશે"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "તેનું મુખ"
+    },
+    {
+      "surface": "חצץ",
+      "gloss": "કંકડિયાથી"
+    }
+  ],
+  "timestamp": "2026-08-21T16:59:03.261759808Z",
+  "model": "glm-5.3"
+}

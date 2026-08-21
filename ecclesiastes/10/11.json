@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 10:11",
+  "book": "ecclesiastes",
+  "lang": "gu",
+  "chapter": 10,
+  "translation": "જો સાપ મંત્ર વિના ડંખે, તો જીભના ધણીને કોઈ લાભ નથી.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "જો"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "ડંખે"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "સાપ"
+    },
+    {
+      "surface": "בלוא",
+      "gloss": "વિના"
+    },
+    {
+      "surface": "לחש",
+      "gloss": "મંત્ર"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "અને નથી"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "લાભ"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "…ના ધણીને"
+    },
+    {
+      "surface": "הלשון",
+      "gloss": "જીભના"
+    }
+  ],
+  "timestamp": "2026-08-21T17:30:22.858051257Z",
+  "model": "glm-5.3"
+}

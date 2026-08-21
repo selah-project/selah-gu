@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "jeremiah 8:18",
+  "book": "jeremiah",
+  "lang": "gu",
+  "chapter": 8,
+  "translation": "મારું અસાધ્ય દુઃખ મારી ઉપર ⟨છે⟩; મારું હૃદય મારામાં રોગીલું ⟨છે⟩.",
+  "tokens": [
+    {
+      "surface": "מבליגיתי",
+      "gloss": "અસાધ્ય દુઃખ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "મારી ઉપર"
+    },
+    {
+      "surface": "יגון",
+      "gloss": "દુઃખ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "મારામાં"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "મારું હૃદય"
+    },
+    {
+      "surface": "דוי",
+      "gloss": "રોગીલું"
+    }
+  ],
+  "timestamp": "2026-08-21T14:50:20.957861606Z",
+  "model": "glm-5.3"
+}

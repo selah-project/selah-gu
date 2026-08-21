@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "habakkuk 1:17",
+  "book": "habakkuk",
+  "lang": "gu",
+  "chapter": 1,
+  "translation": "શું તેથી તે પોતાનું જાળું ખાલી કરશે, અને સતત પ્રજાઓને મારવા ન છોડશે?",
+  "tokens": [
+    {
+      "surface": "העל",
+      "gloss": "શું તેથી"
+    },
+    {
+      "surface": "כן",
+      "gloss": "તેથી"
+    },
+    {
+      "surface": "יריק",
+      "gloss": "ખાલી કરશે"
+    },
+    {
+      "surface": "חרמו",
+      "gloss": "પોતાનું જાળું"
+    },
+    {
+      "surface": "ותמיד",
+      "gloss": "અને સતત"
+    },
+    {
+      "surface": "להרג",
+      "gloss": "મારવા"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "પ્રજાઓને"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ન"
+    },
+    {
+      "surface": "יחמול",
+      "gloss": "છોડશે"
+    }
+  ],
+  "timestamp": "2026-08-21T15:57:24.755251833Z",
+  "model": "glm-5.3"
+}

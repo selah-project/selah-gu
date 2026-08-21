@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 23:5",
+  "book": "leviticus",
+  "lang": "gu",
+  "chapter": 23,
+  "translation": "પ્રથમ માસમાં, માસના ચૌદમાં દિવસે, સાંજ-સવાર વચ્ચે, યાહવેનો પાસહ ⟨છે⟩.",
+  "tokens": [
+    {
+      "surface": "בחדש",
+      "gloss": "માસમાં"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "પ્રથમ"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "ચૌદમાં...પર"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ચૌદમાં...પર"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "માસના"
+    },
+    {
+      "surface": "בין",
+      "gloss": "વચ્ચે"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "સાંજ-સવાર"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "પાસહ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "યાહવેનો"
+    }
+  ],
+  "timestamp": "2026-08-21T11:43:51.831266775Z",
+  "model": "glm-5.3"
+}

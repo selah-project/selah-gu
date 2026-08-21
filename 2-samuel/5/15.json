@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 5:15",
+  "book": "2-samuel",
+  "lang": "gu",
+  "chapter": 5,
+  "translation": "ઇબ્હાર, અને એલીશુઆ, અને નેફેગ, અને યાફીઆ,",
+  "tokens": [
+    {
+      "surface": "ויבחר",
+      "gloss": "ઇબ્હાર"
+    },
+    {
+      "surface": "ואלישוע",
+      "gloss": "અને એલીશુઆ"
+    },
+    {
+      "surface": "ונפג",
+      "gloss": "અને નેફેગ"
+    },
+    {
+      "surface": "ויפיע",
+      "gloss": "અને યાફીઆ"
+    }
+  ],
+  "timestamp": "2026-08-21T13:22:19.507203448Z",
+  "model": "glm-5.3"
+}

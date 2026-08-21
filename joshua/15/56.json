@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "joshua 15:56",
+  "book": "joshua",
+  "lang": "gu",
+  "chapter": 15,
+  "translation": "અને યિઝ્રેએલ, અને યોકદેઆમ, અને ત્સાનોઆહ.",
+  "tokens": [
+    {
+      "surface": "ויזרעאל",
+      "gloss": "અને યિઝ્રેએલ"
+    },
+    {
+      "surface": "ויקדעם",
+      "gloss": "અને યોકદેઆમ"
+    },
+    {
+      "surface": "וזנוח",
+      "gloss": "અને ત્સાનોઆહ"
+    }
+  ],
+  "timestamp": "2026-08-21T12:40:25.677628356Z",
+  "model": "glm-5.3"
+}

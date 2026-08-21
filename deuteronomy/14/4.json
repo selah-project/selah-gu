@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 14:4",
+  "book": "deuteronomy",
+  "lang": "gu",
+  "chapter": 14,
+  "translation": "આ ⟨એ⟩ ⟨છે⟩ પશુ જે તમે ખાઈ શકો: બળદ, ઘેટાંનું ઘાસચારણનું પાડું, અને બકરાંનું પાડું.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "આ"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "પશુ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જે"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "તમે ખાઈ શકો"
+    },
+    {
+      "surface": "שור",
+      "gloss": "બળદ"
+    },
+    {
+      "surface": "שה",
+      "gloss": "પાડું"
+    },
+    {
+      "surface": "כשבים",
+      "gloss": "ઘેટાંનું"
+    },
+    {
+      "surface": "ושה",
+      "gloss": "અને...પાડું"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "બકરાંનું"
+    }
+  ],
+  "timestamp": "2026-08-21T12:19:46.003096464Z",
+  "model": "glm-5.3"
+}

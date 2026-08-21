@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 50:22",
+  "book": "jeremiah",
+  "lang": "gu",
+  "chapter": 50,
+  "translation": "દેશમાં યુદ્ધનો અવાજ ⟨છે⟩, અને મહાન વિનાશ ⟨છે⟩.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "અવાજ"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "યુદ્ધનો"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "દેશમાં"
+    },
+    {
+      "surface": "ושבר",
+      "gloss": "અને વિનાશ"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "મહાન"
+    }
+  ],
+  "timestamp": "2026-08-21T15:12:40.160510342Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "job 40:32",
+  "book": "job",
+  "lang": "gu",
+  "chapter": 40,
+  "translation": "તારો હાથ તેના પર મૂક; યુદ્ધને યાદ રાખ — ફરી વધુ નહીં.",
+  "tokens": [
+    {
+      "surface": "שים",
+      "gloss": "મૂક"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "તેના પર"
+    },
+    {
+      "surface": "כפך",
+      "gloss": "તારો હાથ"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "યાદ રાખ"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "યુદ્ધને"
+    },
+    {
+      "surface": "אל",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "תוסף",
+      "gloss": "ફરી વધુ"
+    }
+  ],
+  "timestamp": "2026-08-21T17:19:21.846529201Z",
+  "model": "glm-5.3"
+}

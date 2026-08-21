@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 30:11",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 30,
+  "translation": "સાંભળ, હે યાહવે, અને મને કૃપા કર; હે યાહવે, મારા મદદગાર થા.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "સાંભળ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "અને મને કૃપા કર"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "היה",
+      "gloss": "થા"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "મદદગાર"
+    },
+    {
+      "surface": "לי",
+      "gloss": "મારા"
+    }
+  ],
+  "timestamp": "2026-08-21T16:16:09.283016340Z",
+  "model": "glm-5.3"
+}

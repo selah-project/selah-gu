@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 32:22",
+  "book": "genesis",
+  "lang": "gu",
+  "chapter": 32,
+  "translation": "અને ભેટ તેની સામે પસાર થઈ, અને તે તે રાત્રે છાવણીમાં રોકાયો.",
+  "tokens": [
+    {
+      "surface": "ותעבר",
+      "gloss": "અને પસાર થઈ"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "ભેટ"
+    },
+    {
+      "surface": "על",
+      "gloss": "સામે"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "તેના ચહેરાની"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "અને તે"
+    },
+    {
+      "surface": "לן",
+      "gloss": "રોકાયો"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "રાત્રે"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "તે"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "છાવણીમાં"
+    }
+  ],
+  "timestamp": "2026-08-21T10:52:50.581278021Z",
+  "model": "glm-5.3"
+}

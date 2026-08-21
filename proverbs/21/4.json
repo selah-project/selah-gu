@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 21:4",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 21,
+  "translation": "ઉદ્ધત આંખો અને ફૂલેલું હૃદય — દુષ્ટોની ખેડ — પાપ ⟨છે⟩.",
+  "tokens": [
+    {
+      "surface": "רום",
+      "gloss": "ઉદ્ધત"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "આંખો"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "અને ફૂલેલું"
+    },
+    {
+      "surface": "לב",
+      "gloss": "હૃદય"
+    },
+    {
+      "surface": "נר",
+      "gloss": "ખેડ"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "દુષ્ટોની"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "પાપ"
+    }
+  ],
+  "timestamp": "2026-08-21T16:59:36.073552402Z",
+  "model": "glm-5.3"
+}

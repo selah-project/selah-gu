@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 66:18",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 66,
+  "translation": "અનીતિ જો મેં મારા હૃદયમાં જોઈ હોત, તો અદોનાય સાંભળત નહીં.",
+  "tokens": [
+    {
+      "surface": "און",
+      "gloss": "અનીતિ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "જો"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "મેં જોઈ હોત"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "મારા હૃદયમાં"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "સાંભળત"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "અદોનાય"
+    }
+  ],
+  "timestamp": "2026-08-21T16:27:21.370964579Z",
+  "model": "glm-5.3"
+}

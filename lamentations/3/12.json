@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "lamentations 3:12",
+  "book": "lamentations",
+  "lang": "gu",
+  "chapter": 3,
+  "translation": "તેણે ⟨પોતાની⟩ ધનુષ્ક તાણી, અને મને તીર માટે લક્ષ્ય બનાવી મૂક્યો.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "તાણી"
+    },
+    {
+      "surface": "קשתו",
+      "gloss": "પોતાની ધનુષ્ક"
+    },
+    {
+      "surface": "ויציבני",
+      "gloss": "અને મને…મૂક્યો"
+    },
+    {
+      "surface": "כמטרא",
+      "gloss": "તીર માટે લક્ષ્ય બનાવી"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "તીર માટે"
+    }
+  ],
+  "timestamp": "2026-08-21T17:25:56.062546115Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "isaiah 14:26",
+  "book": "isaiah",
+  "lang": "gu",
+  "chapter": 14,
+  "translation": "આ એ સલાહ છે જે આખા ⟨the⟩ પૃથ્વી પર કરવામાં આવી છે, અને આ એ હાથ છે જે બધા જનસમૂહો પર લંબાવેલો છે.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "આ"
+    },
+    {
+      "surface": "העצה",
+      "gloss": "સલાહ"
+    },
+    {
+      "surface": "היעוצה",
+      "gloss": "કરવામાં આવેલી"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "כל",
+      "gloss": "આખા"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "પૃથ્વી"
+    },
+    {
+      "surface": "וזאת",
+      "gloss": "અને આ"
+    },
+    {
+      "surface": "היד",
+      "gloss": "હાથ"
+    },
+    {
+      "surface": "הנטויה",
+      "gloss": "લંબાવેલો"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "כל",
+      "gloss": "બધા"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "જનસમૂહો"
+    }
+  ],
+  "timestamp": "2026-08-21T14:17:00.536795134Z",
+  "model": "glm-5.3"
+}

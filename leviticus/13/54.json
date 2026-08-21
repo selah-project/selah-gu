@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "leviticus 13:54",
+  "book": "leviticus",
+  "lang": "gu",
+  "chapter": 13,
+  "translation": "તો કોહેન આજ્ઞા કરશે કે ⟨את⟩ જેમાં નગ છે તે ધોઈ નાખે, અને તેને બીજી વાર સાત દિવસ બંધ રાખે.",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "આજ્ઞા કરશે"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "કોહેન"
+    },
+    {
+      "surface": "וכבסו",
+      "gloss": "ધોઈ નાખે"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "જેમાં નગ છે તે"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જે"
+    },
+    {
+      "surface": "בו",
+      "gloss": "તેમાં"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "નગ"
+    },
+    {
+      "surface": "והסגירו",
+      "gloss": "બંધ રાખે"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "સાત"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "દિવસ"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "બીજી વાર"
+    }
+  ],
+  "timestamp": "2026-08-21T11:37:38.619672622Z",
+  "model": "glm-5.3"
+}

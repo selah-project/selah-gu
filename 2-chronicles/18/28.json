@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-chronicles 18:28",
+  "book": "2-chronicles",
+  "lang": "gu",
+  "chapter": 18,
+  "translation": "અને ઇસ્રાએલનો રાજા અને યહૂદાનો રાજા યહોશાફાત રામોત-ગિલિયદ પર ચઢ્યા.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "અને ચઢ્યા"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "રાજા"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ઇસ્રાએલનો"
+    },
+    {
+      "surface": "ויהושפט",
+      "gloss": "અને યહોશાફાત"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "રાજા"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "યહૂદાનો"
+    },
+    {
+      "surface": "אל",
+      "gloss": "તરફ"
+    },
+    {
+      "surface": "רמת",
+      "gloss": "રામોત"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "ગિલિયદ"
+    }
+  ],
+  "timestamp": "2026-08-21T18:22:45.366708700Z",
+  "model": "glm-5.3"
+}

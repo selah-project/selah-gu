@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "numbers 31:44",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 31,
+  "translation": "અને ડાંગર — છત્રીસ હજાર.",
+  "tokens": [
+    {
+      "surface": "ובקר",
+      "gloss": "અને ડાંગર"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "છ"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "અને ત્રીસ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "હજાર"
+    }
+  ],
+  "timestamp": "2026-08-21T12:07:37.679503395Z",
+  "model": "glm-5.3"
+}

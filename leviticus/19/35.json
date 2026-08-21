@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 19:35",
+  "book": "leviticus",
+  "lang": "gu",
+  "chapter": 19,
+  "translation": "તમે ન્યાયમાં, માપમાં, તૂકામાં અને પ્રમાણમાં અન્યાય ન કરશો.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "નહિ"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "તમે કરશો"
+    },
+    {
+      "surface": "עול",
+      "gloss": "અન્યાય"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "ન્યાયમાં"
+    },
+    {
+      "surface": "במדה",
+      "gloss": "માપમાં"
+    },
+    {
+      "surface": "במשקל",
+      "gloss": "તૂકામાં"
+    },
+    {
+      "surface": "ובמשורה",
+      "gloss": "અને પ્રમાણમાં"
+    }
+  ],
+  "timestamp": "2026-08-21T11:42:08.977974200Z",
+  "model": "glm-5.3"
+}

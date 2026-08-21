@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 4:13",
+  "book": "genesis",
+  "lang": "gu",
+  "chapter": 4,
+  "translation": "અને કાયિને યાહવેને કહ્યું: “મારો અપરાધ ⟨મારા⟩ વહન કરવા કરતાં મોટો ⟨છે⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "અને કહ્યું"
+    },
+    {
+      "surface": "קין",
+      "gloss": "કાયિને"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ને"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવેને"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "મોટો"
+    },
+    {
+      "surface": "עוני",
+      "gloss": "મારો અપરાધ"
+    },
+    {
+      "surface": "מנשא",
+      "gloss": "વહન કરવા કરતાં"
+    }
+  ],
+  "timestamp": "2026-08-21T10:39:03.908440740Z",
+  "model": "glm-5.3"
+}

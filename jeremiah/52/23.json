@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 52:23",
+  "book": "jeremiah",
+  "lang": "gu",
+  "chapter": 52,
+  "translation": "અને દાડમો હતા છત્રીસ, ⟨દરેક બાજુએ⟩ એકસો દાડમો જાળી પર ચારે બાજુ.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "અને હતા"
+    },
+    {
+      "surface": "הרמנים",
+      "gloss": "દાડમો"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "નેવું"
+    },
+    {
+      "surface": "וששה",
+      "gloss": "અને છ"
+    },
+    {
+      "surface": "רוחה",
+      "gloss": "બાજુ પર"
+    },
+    {
+      "surface": "כל",
+      "gloss": "બધા"
+    },
+    {
+      "surface": "הרמונים",
+      "gloss": "દાડમો"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "એકસો"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "השבכה",
+      "gloss": "જાળી"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ચારે બાજુ"
+    }
+  ],
+  "timestamp": "2026-08-21T15:14:59.126701075Z",
+  "model": "glm-5.3"
+}

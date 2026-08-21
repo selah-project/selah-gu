@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 7:24",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 7,
+  "translation": "અને હવે, હે પુત્રો, મારું સાંભળો, અને મારા મુખનાં વચનોને કાન લગાડો.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "અને હવે"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "હે પુત્રો"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "સાંભળો"
+    },
+    {
+      "surface": "לי",
+      "gloss": "મારું"
+    },
+    {
+      "surface": "והקשיבו",
+      "gloss": "અને કાન લગાડો"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "વચનોને"
+    },
+    {
+      "surface": "פי",
+      "gloss": "મારા મુખનાં"
+    }
+  ],
+  "timestamp": "2026-08-21T16:53:59.748850437Z",
+  "model": "glm-5.3"
+}

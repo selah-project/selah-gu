@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "lamentations 5:8",
+  "book": "lamentations",
+  "lang": "gu",
+  "chapter": 5,
+  "translation": "દાસોએ અમારા પર શાસન કર્યું; છૂટકારા માટે ⟨એવો⟩ કોઈ નથી, તેમના હાથમાંથી.",
+  "tokens": [
+    {
+      "surface": "עבדים",
+      "gloss": "દાસોએ"
+    },
+    {
+      "surface": "משלו",
+      "gloss": "શાસન કર્યું"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "અમારા પર"
+    },
+    {
+      "surface": "פרק",
+      "gloss": "છૂટકારા માટે"
+    },
+    {
+      "surface": "אין",
+      "gloss": "નથી"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "તેમના હાથમાંથી"
+    }
+  ],
+  "timestamp": "2026-08-21T17:28:14.831855040Z",
+  "model": "glm-5.3"
+}

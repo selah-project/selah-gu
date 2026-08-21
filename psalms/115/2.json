@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 115:2",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 115,
+  "translation": "શા માટે જાતિઓ કહેશે, “તેમના એલોહીમ ક્યાં ⟨છે⟩ હવે?”",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "શા માટે"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "કહેશે"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "જાતિઓ"
+    },
+    {
+      "surface": "איה",
+      "gloss": "ક્યાં"
+    },
+    {
+      "surface": "נא",
+      "gloss": "હવે"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "તેમના એલોહીમ"
+    }
+  ],
+  "timestamp": "2026-08-21T16:40:54.838525086Z",
+  "model": "glm-5.3"
+}

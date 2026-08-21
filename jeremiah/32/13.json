@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 32:13",
+  "book": "jeremiah",
+  "lang": "gu",
+  "chapter": 32,
+  "translation": "અને હું તેમની આંખો સામે બરૂખને ⟨את⟩ આજ્ઞા આપું, કહેતો:",
+  "tokens": [
+    {
+      "surface": "ואצוה",
+      "gloss": "આજ્ઞા આપું"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "બરૂખ"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "બરૂખ"
+    },
+    {
+      "surface": "לעיניהם",
+      "gloss": "તેમની આંખો સામે"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "કહેતો"
+    }
+  ],
+  "timestamp": "2026-08-21T15:03:10.428577809Z",
+  "model": "glm-5.3"
+}

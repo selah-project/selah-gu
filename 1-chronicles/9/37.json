@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 9:37",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 9,
+  "translation": "અને ગેદોર, અને અહયો, અને ઝખર્યાહ, અને મિક્લોત.",
+  "tokens": [
+    {
+      "surface": "וגדור",
+      "gloss": "અને ગેદોર"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "અને અહયો"
+    },
+    {
+      "surface": "וזכריה",
+      "gloss": "અને ઝખર્યાહ"
+    },
+    {
+      "surface": "ומקלות",
+      "gloss": "અને મિક્લોત"
+    }
+  ],
+  "timestamp": "2026-08-21T18:04:38.992142461Z",
+  "model": "glm-5.3"
+}

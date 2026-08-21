@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 29:3",
+  "book": "deuteronomy",
+  "lang": "gu",
+  "chapter": 29,
+  "translation": "પણ યાહવેએ તમને જાણવા માટે હૃદય, જોવા માટે આંખો અને સાંભળવા માટે કાન આ દિવસ સુધી આપ્યાં નથી.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "પણ નથી"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "આપ્યાં"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવેએ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "તમને"
+    },
+    {
+      "surface": "לב",
+      "gloss": "હૃદય"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "જાણવા માટે"
+    },
+    {
+      "surface": "ועינים",
+      "gloss": "અને આંખો"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "જોવા માટે"
+    },
+    {
+      "surface": "ואזנים",
+      "gloss": "અને કાન"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "સાંભળવા માટે"
+    },
+    {
+      "surface": "עד",
+      "gloss": "સુધી"
+    },
+    {
+      "surface": "היום",
+      "gloss": "દિવસ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "આ"
+    }
+  ],
+  "timestamp": "2026-08-21T12:29:24.466431931Z",
+  "model": "glm-5.3"
+}

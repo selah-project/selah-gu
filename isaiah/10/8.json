@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 10:8",
+  "book": "isaiah",
+  "lang": "gu",
+  "chapter": 10,
+  "translation": "કેમ કે તે કહેશે, “શું મારા સરદારો એકસાથે સૌ રાજાઓ નથી?”",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "કેમ કે"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "તે કહેશે"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "શું... નથી"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "મારા સરદારો"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "એકસાથે"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "રાજાઓ"
+    }
+  ],
+  "timestamp": "2026-08-21T14:16:06.786312063Z",
+  "model": "glm-5.3"
+}

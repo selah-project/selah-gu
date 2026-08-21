@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 27:20",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 27,
+  "translation": "શેઓલ અને અવદોન સંતૃપ્ત થતાં નથી, અને માણસની આંખો સંતૃપ્ત થતી નથી.",
+  "tokens": [
+    {
+      "surface": "שאול",
+      "gloss": "શેઓલ"
+    },
+    {
+      "surface": "ואבדה",
+      "gloss": "અને અવદોન"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નથી"
+    },
+    {
+      "surface": "תשבענה",
+      "gloss": "સંતૃપ્ત થતાં"
+    },
+    {
+      "surface": "ועיני",
+      "gloss": "અને આંખો"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "માણસની"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નથી"
+    },
+    {
+      "surface": "תשבענה",
+      "gloss": "સંતૃપ્ત થતી"
+    }
+  ],
+  "timestamp": "2026-08-21T17:02:25.237548839Z",
+  "model": "glm-5.3"
+}

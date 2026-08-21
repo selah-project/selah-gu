@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 29:4",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 29,
+  "translation": "અને સાત ઘાસચારા માટે, દરેક એક ઘાસચારા માટે એક દશાંશ.",
+  "tokens": [
+    {
+      "surface": "ועשרון",
+      "gloss": "અને એક દશાંશ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "એક"
+    },
+    {
+      "surface": "לכבש",
+      "gloss": "ઘાસચારા માટે"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "દરેક એક"
+    },
+    {
+      "surface": "לשבעת",
+      "gloss": "સાત માટે"
+    },
+    {
+      "surface": "הכבשים",
+      "gloss": "ઘાસચારા"
+    }
+  ],
+  "timestamp": "2026-08-21T12:06:52.812819619Z",
+  "model": "glm-5.3"
+}

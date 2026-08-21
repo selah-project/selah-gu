@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 38:1",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 38,
+  "translation": "દાવીદનો મિઝમોર, સ્મરણ કરાવવા ⟨માટે⟩.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "મિઝમોર"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "દાવીદનો"
+    },
+    {
+      "surface": "להזכיר",
+      "gloss": "સ્મરણ કરાવવા"
+    }
+  ],
+  "timestamp": "2026-08-21T16:20:43.242862442Z",
+  "model": "glm-5.3"
+}

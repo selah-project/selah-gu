@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-samuel 23:26",
+  "book": "2-samuel",
+  "lang": "gu",
+  "chapter": 23,
+  "translation": "ચેલેત્સ ⟨હપલ્તી⟩, ઇરા ઇક્કેશનો પુત્ર, ⟨હત્કોઆી⟩,",
+  "tokens": [
+    {
+      "surface": "חלץ",
+      "gloss": "ચેલેત્સ"
+    },
+    {
+      "surface": "הפלטי",
+      "gloss": "હપલ્તી"
+    },
+    {
+      "surface": "עירא",
+      "gloss": "ઇરા"
+    },
+    {
+      "surface": "בן",
+      "gloss": "પુત્ર"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "ઇક્કેશ"
+    },
+    {
+      "surface": "התקועי",
+      "gloss": "હત્કોઆી"
+    }
+  ],
+  "timestamp": "2026-08-21T13:34:00.147203719Z",
+  "model": "glm-5.3"
+}

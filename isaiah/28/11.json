@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 28:11",
+  "book": "isaiah",
+  "lang": "gu",
+  "chapter": 28,
+  "translation": "કારણ કે ઠટ્ટા મારતી હોઠ અને બીજી જીભ વડે તે આ લોક સાથે બોલશે.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "કારણ કે"
+    },
+    {
+      "surface": "בלעגי",
+      "gloss": "ઠટ્ટા મારતી...વડે"
+    },
+    {
+      "surface": "שפה",
+      "gloss": "હોઠ"
+    },
+    {
+      "surface": "ובלשון",
+      "gloss": "અને...જીભ વડે"
+    },
+    {
+      "surface": "אחרת",
+      "gloss": "બીજી"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "તે બોલશે"
+    },
+    {
+      "surface": "אל",
+      "gloss": "સાથે"
+    },
+    {
+      "surface": "העם",
+      "gloss": "આ લોક"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "આ"
+    }
+  ],
+  "timestamp": "2026-08-21T14:23:08.443091393Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "lamentations 3:56",
+  "book": "lamentations",
+  "lang": "gu",
+  "chapter": 3,
+  "translation": "તેં મારો અવાજ સાંભળ્યો; મારા શ્વાસ-વખતે, મારી દોહાયલા-વખતે તારું કાન ન ઢાંક.",
+  "tokens": [
+    {
+      "surface": "קולי",
+      "gloss": "મારો અવાજ"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "તેં સાંભળ્યો"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ન"
+    },
+    {
+      "surface": "תעלם",
+      "gloss": "ઢાંક"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "તારું કાન"
+    },
+    {
+      "surface": "לרוחתי",
+      "gloss": "મારા શ્વાસ-વખતે"
+    },
+    {
+      "surface": "לשועתי",
+      "gloss": "મારી દોહાયલા-વખતે"
+    }
+  ],
+  "timestamp": "2026-08-21T17:25:57.185883317Z",
+  "model": "glm-5.3"
+}

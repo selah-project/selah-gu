@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 25:12",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 25,
+  "translation": "પાંચમો નતન્યાહુ ⟨માટે⟩, ⟨તેના⟩ પુત્રો અને ⟨તેના⟩ ભાઈઓ, બાર.",
+  "tokens": [
+    {
+      "surface": "החמישי",
+      "gloss": "પાંચમો"
+    },
+    {
+      "surface": "נתניהו",
+      "gloss": "નતન્યાહુ"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "તેના પુત્રો"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "અને તેના ભાઈઓ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "બાર"
+    },
+    {
+      "surface": "עשר",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-21T18:11:26.346721428Z",
+  "model": "glm-5.3"
+}

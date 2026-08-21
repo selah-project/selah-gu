@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 30:3",
+  "book": "ezekiel",
+  "lang": "gu",
+  "chapter": 30,
+  "translation": "કારણ કે પાસે છે દિવસ, અને પાસે છે યાહવેનો દિવસ; વાદળોનો દિવસ — તે રાષ્ટ્રોનો સમય થશે.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "કારણ કે"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "પાસે છે"
+    },
+    {
+      "surface": "יום",
+      "gloss": "દિવસ"
+    },
+    {
+      "surface": "וקרוב",
+      "gloss": "અને પાસે છે"
+    },
+    {
+      "surface": "יום",
+      "gloss": "દિવસ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "યાહવેનો"
+    },
+    {
+      "surface": "יום",
+      "gloss": "દિવસ"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "વાદળોનો"
+    },
+    {
+      "surface": "עת",
+      "gloss": "સમય"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "રાષ્ટ્રોનો"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "થશે"
+    }
+  ],
+  "timestamp": "2026-08-21T15:33:42.827312238Z",
+  "model": "glm-5.3"
+}

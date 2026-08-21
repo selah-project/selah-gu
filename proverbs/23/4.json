@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 23:4",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 23,
+  "translation": "ધનવાન થવા માટે કંટાળાભર્યો પ્રયત્ન ન કર; તારી સમજ છોડી દે.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ન"
+    },
+    {
+      "surface": "תיגע",
+      "gloss": "કંટાળાભર્યો પ્રયત્ન કર"
+    },
+    {
+      "surface": "להעשיר",
+      "gloss": "ધનવાન થવા માટે"
+    },
+    {
+      "surface": "מבינתך",
+      "gloss": "તારી સમજથી"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "છોડી દે"
+    }
+  ],
+  "timestamp": "2026-08-21T17:01:06.136670534Z",
+  "model": "glm-5.3"
+}

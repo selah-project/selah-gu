@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 16:25",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 16,
+  "translation": "એક માર્ગ ⟨છે⟩ જે માણસની સામે સીધો લાગે છે, પણ તેનો અંત મૃત્યુનાં માર્ગો છે.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "છે"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "માર્ગ"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "સીધો"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ની સામે"
+    },
+    {
+      "surface": "איש",
+      "gloss": "માણસ"
+    },
+    {
+      "surface": "ואחריתה",
+      "gloss": "પણ તેનો અંત"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "માર્ગો"
+    },
+    {
+      "surface": "מות",
+      "gloss": "મૃત્યુનાં"
+    }
+  ],
+  "timestamp": "2026-08-21T16:57:31.065019566Z",
+  "model": "glm-5.3"
+}

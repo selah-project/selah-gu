@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 9:20",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 9,
+  "translation": "ઊઠ, યાહવે! માનવ બળવાન ન થાય; રાષ્ટ્રો તારા સમક્ષ ચકાસાય.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "ઊઠ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ન"
+    },
+    {
+      "surface": "יעז",
+      "gloss": "બળવાન થાય"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "માનવ"
+    },
+    {
+      "surface": "ישפטו",
+      "gloss": "ચકાસાય"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "રાષ્ટ્રો"
+    },
+    {
+      "surface": "על",
+      "gloss": "સમક્ષ"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "તારા તંત્રિયાં"
+    }
+  ],
+  "timestamp": "2026-08-21T16:12:38.820072005Z",
+  "model": "glm-5.3"
+}

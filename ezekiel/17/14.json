@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezekiel 17:14",
+  "book": "ezekiel",
+  "lang": "gu",
+  "chapter": 17,
+  "translation": "કે રાજ્ય નમણું રહે, ઊંચું ન થાય, પણ ⟨את⟩ તેનો કરાર રાખીને ટકી રહે.",
+  "tokens": [
+    {
+      "surface": "להיות",
+      "gloss": "કે રહે"
+    },
+    {
+      "surface": "ממלכה",
+      "gloss": "રાજ્ય"
+    },
+    {
+      "surface": "שפלה",
+      "gloss": "નમણું"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "התנשא",
+      "gloss": "ઊંચું થાય"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "રાખીને"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "તેનો કરાર"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "તેનો કરાર"
+    },
+    {
+      "surface": "לעמדה",
+      "gloss": "ટકી રહે"
+    }
+  ],
+  "timestamp": "2026-08-21T15:25:56.683703340Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 115:1",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 115,
+  "translation": "અમને નહીં, હે યાહવે, અમને નહીં — કે જે તારા નામને મહિમા આપ, તારા હેસેદ (પ્રેમ-કૃપા) પર, તારા સત્ય પર.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "અમને"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "અમને"
+    },
+    {
+      "surface": "כי",
+      "gloss": "કે જે"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "તારા નામને"
+    },
+    {
+      "surface": "תן",
+      "gloss": "આપ"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "મહિમા"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "તારા હેસેદ"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "તારા સત્ય"
+    }
+  ],
+  "timestamp": "2026-08-21T16:40:54.838303282Z",
+  "model": "glm-5.3"
+}

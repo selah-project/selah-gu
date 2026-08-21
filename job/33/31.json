@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "job 33:31",
+  "book": "job",
+  "lang": "gu",
+  "chapter": 33,
+  "translation": "કાન ધર, અય્યોબ, મારું સાંભળ; મૌન રહું, અને હું બોલીશ.",
+  "tokens": [
+    {
+      "surface": "הקשב",
+      "gloss": "કાન ધર"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "અય્યોબ"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "સાંભળ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "મારું"
+    },
+    {
+      "surface": "החרש",
+      "gloss": "મૌન રહું"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "અને હું"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "બોલીશ"
+    }
+  ],
+  "timestamp": "2026-08-21T17:16:55.666400117Z",
+  "model": "glm-5.3"
+}

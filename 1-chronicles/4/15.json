@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 4:15",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 4,
+  "translation": "અને કાલેબના પુત્રો — યફુન્નેહનો પુત્ર — : ઇરૂ, એલાહ અને નાઅમ; અને એલાહના પુત્રો: કેનાઝ.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "અને …ના પુત્રો"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "કાલેબ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "પુત્ર"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "યફુન્નેહ"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "ઇરૂ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "એલાહ"
+    },
+    {
+      "surface": "ונעם",
+      "gloss": "અને નાઅમ"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "અને …ના પુત્રો"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "એલાહ"
+    },
+    {
+      "surface": "וקנז",
+      "gloss": "કેનાઝ"
+    }
+  ],
+  "timestamp": "2026-08-21T18:02:00.933851948Z",
+  "model": "glm-5.3"
+}

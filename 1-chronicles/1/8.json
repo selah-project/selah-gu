@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 1:8",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 1,
+  "translation": "ખામના પુત્રો: કૂશ, મિત્સરાયિમ, પૂત અને કનાન.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "חם",
+      "gloss": "ખામ"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "કૂશ"
+    },
+    {
+      "surface": "ומצרים",
+      "gloss": "મિત્સરાયિમ"
+    },
+    {
+      "surface": "פוט",
+      "gloss": "પૂત"
+    },
+    {
+      "surface": "וכנען",
+      "gloss": "કનાન"
+    }
+  ],
+  "timestamp": "2026-08-21T17:59:16.855174320Z",
+  "model": "glm-5.3"
+}

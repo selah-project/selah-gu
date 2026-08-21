@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "nehemiah 12:13",
+  "book": "nehemiah",
+  "lang": "gu",
+  "chapter": 12,
+  "translation": "એજ્રાના માટે મશુલ્લામ; અમર્યાહના માટે યહોચાનાન.",
+  "tokens": [
+    {
+      "surface": "לעזרא",
+      "gloss": "એજ્રાના માટે"
+    },
+    {
+      "surface": "משלם",
+      "gloss": "મશુલ્લામ"
+    },
+    {
+      "surface": "לאמריה",
+      "gloss": "અમર્યાહના માટે"
+    },
+    {
+      "surface": "יהוחנן",
+      "gloss": "યહોચાનાન"
+    }
+  ],
+  "timestamp": "2026-08-21T17:56:54.075965137Z",
+  "model": "glm-5.3"
+}

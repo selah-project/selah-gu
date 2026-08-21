@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 12:24",
+  "book": "deuteronomy",
+  "lang": "gu",
+  "chapter": 12,
+  "translation": "તમે તેને ન ખાશો; તેને પૃથ્વી પર પાણીની જેમ રેડશો.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ન"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "તમે તેને ખાશો"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "પૃથ્વી"
+    },
+    {
+      "surface": "תשפכנו",
+      "gloss": "તેને રેડશો"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "પાણીની જેમ"
+    }
+  ],
+  "timestamp": "2026-08-21T12:19:51.014216085Z",
+  "model": "glm-5.3"
+}

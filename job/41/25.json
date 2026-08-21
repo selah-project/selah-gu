@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 41:25",
+  "book": "job",
+  "lang": "gu",
+  "chapter": 41,
+  "translation": "ધૂળ પર તેના જેવું ⟨is⟩ કંઈ નથી; તે નિર્ભય બનાવવામાં આવ્યો ⟨is⟩ છે.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "નથી"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "ધૂળ"
+    },
+    {
+      "surface": "משלו",
+      "gloss": "તેના જેવું"
+    },
+    {
+      "surface": "העשו",
+      "gloss": "બનાવવામાં આવ્યો"
+    },
+    {
+      "surface": "לבלי",
+      "gloss": "વિના"
+    },
+    {
+      "surface": "חת",
+      "gloss": "ભય"
+    }
+  ],
+  "timestamp": "2026-08-21T17:20:13.182609223Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "song-of-songs 2:10",
+  "book": "song-of-songs",
+  "lang": "gu",
+  "chapter": 2,
+  "translation": "મારા પ્રિયે ઉત્તર આપ્યું અને મને કહ્યું: “ઊઠ, મારી પ્રિયા, મારી સુંદરી, અને તું ચાલી આવ.”",
+  "tokens": [
+    {
+      "surface": "ענה",
+      "gloss": "ઉત્તર આપ્યું"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "મારા પ્રિયે"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "અને કહ્યું"
+    },
+    {
+      "surface": "לי",
+      "gloss": "મને"
+    },
+    {
+      "surface": "קומי",
+      "gloss": "ઊઠ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "તું"
+    },
+    {
+      "surface": "רעיתי",
+      "gloss": "મારી પ્રિયા"
+    },
+    {
+      "surface": "יפתי",
+      "gloss": "મારી સુંદરી"
+    },
+    {
+      "surface": "ולכי",
+      "gloss": "અને ચાલી આવ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "તું"
+    }
+  ],
+  "timestamp": "2026-08-21T17:21:00.012624424Z",
+  "model": "glm-5.3"
+}

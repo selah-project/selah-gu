@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 14:19",
+  "book": "deuteronomy",
+  "lang": "gu",
+  "chapter": 14,
+  "translation": "અને જે કંઈ ભમરાટ કરતું ઉડનારું છે તે બધું તમારા માટે અશુદ્ધ છે — ⟨તે⟩ ખાવાશે નહીં.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "અને જે કંઈ"
+    },
+    {
+      "surface": "שרץ",
+      "gloss": "ભમરાટ કરતું"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "ઉડનારું"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "અશુદ્ધ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "છે"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "તમારા માટે"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "ખાવાશે"
+    }
+  ],
+  "timestamp": "2026-08-21T12:19:35.020721231Z",
+  "model": "glm-5.3"
+}

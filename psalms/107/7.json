@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 107:7",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 107,
+  "translation": "અને તેણે તેમને સીધા માર્ગે ચલાવ્યા, વસવાટનાં નગર સુધી જવા.",
+  "tokens": [
+    {
+      "surface": "וידריכם",
+      "gloss": "અને તેણે તેમને ચલાવ્યા"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "માર્ગે"
+    },
+    {
+      "surface": "ישרה",
+      "gloss": "સીધા"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "જવા"
+    },
+    {
+      "surface": "אל",
+      "gloss": "સુધી"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "નગર"
+    },
+    {
+      "surface": "מושב",
+      "gloss": "વસવાટનાં"
+    }
+  ],
+  "timestamp": "2026-08-21T16:40:33.108367547Z",
+  "model": "glm-5.3"
+}

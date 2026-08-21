@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 48:1",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 48,
+  "translation": "ગીત, મિઝમોર — કોરખના પુત્રોનું.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "ગીત"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "મિઝમોર"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ના પુત્રોનું"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "કોરખ"
+    }
+  ],
+  "timestamp": "2026-08-21T16:23:01.886284470Z",
+  "model": "glm-5.3"
+}

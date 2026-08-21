@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 106:31",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 106,
+  "translation": "અને તે તેને નીતિ તરીકે ગણાયું, પેઢીથી પેઢી સુધી, સદાકાળ સુધી.",
+  "tokens": [
+    {
+      "surface": "ותחשב",
+      "gloss": "ગણાયું"
+    },
+    {
+      "surface": "לו",
+      "gloss": "તેને"
+    },
+    {
+      "surface": "לצדקה",
+      "gloss": "નીતિ તરીકે"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "પેઢીથી"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "પેઢી સુધી"
+    },
+    {
+      "surface": "עד",
+      "gloss": "સુધી"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "સદાકાળ"
+    }
+  ],
+  "timestamp": "2026-08-21T16:40:18.909311564Z",
+  "model": "glm-5.3"
+}

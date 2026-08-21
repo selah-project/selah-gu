@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 13:29",
+  "book": "leviticus",
+  "lang": "gu",
+  "chapter": 13,
+  "translation": "અને જ્યારે કોઈ પુરુષ કે સ્ત્રીને તેના મસ્તક પર કે દાઢીમાં કોઈ માર (ચાંડાં-જેવો નહેરો) થાય,",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "અને પુરુષ"
+    },
+    {
+      "surface": "או",
+      "gloss": "કે"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "સ્ત્રી"
+    },
+    {
+      "surface": "כי",
+      "gloss": "જ્યારે"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "થાય"
+    },
+    {
+      "surface": "בו",
+      "gloss": "તેનામાં"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "માર"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "મસ્તક પર"
+    },
+    {
+      "surface": "או",
+      "gloss": "કે"
+    },
+    {
+      "surface": "בזקן",
+      "gloss": "દાઢીમાં"
+    }
+  ],
+  "timestamp": "2026-08-21T11:37:03.877131770Z",
+  "model": "glm-5.3"
+}

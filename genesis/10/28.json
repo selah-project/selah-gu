@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 10:28",
+  "book": "genesis",
+  "lang": "gu",
+  "chapter": 10,
+  "translation": "અને ⟨את⟩ ઓવાલ, અને ⟨את⟩ અબીમાએલ, અને ⟨את⟩ શેબા.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "અને ⟨את⟩",
+      "marks": "ઓવાલ"
+    },
+    {
+      "surface": "עובל",
+      "gloss": "ઓવાલ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "અને ⟨את⟩",
+      "marks": "અબીમાએલ"
+    },
+    {
+      "surface": "אבימאל",
+      "gloss": "અબીમાએલ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "અને ⟨את⟩",
+      "marks": "શેબા"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "શેબા"
+    }
+  ],
+  "timestamp": "2026-08-21T10:41:47.096994353Z",
+  "model": "glm-5.3"
+}

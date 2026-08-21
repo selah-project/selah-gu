@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 68:16",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 68,
+  "translation": "એલોહીમનો પર્વત — બાશાનનો પર્વત; ટેકરીઓનો પર્વત — બાશાનનો પર્વત.",
+  "tokens": [
+    {
+      "surface": "הר",
+      "gloss": "પર્વત"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "એલોહીમનો"
+    },
+    {
+      "surface": "הר",
+      "gloss": "પર્વત"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "બાશાનનો"
+    },
+    {
+      "surface": "הר",
+      "gloss": "પર્વત"
+    },
+    {
+      "surface": "גבננים",
+      "gloss": "ટેકરીઓનો"
+    },
+    {
+      "surface": "הר",
+      "gloss": "પર્વત"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "બાશાનનો"
+    }
+  ],
+  "timestamp": "2026-08-21T16:28:35.896947665Z",
+  "model": "glm-5.3"
+}

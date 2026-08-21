@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 15:10",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 15,
+  "translation": "ઉઝ્ઝીએલના પુત્રોમાંથી: અમ્મીનાદાબ ⟨સરદાર⟩ અને તેના ભાઈઓ સો બાર.",
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "ના પુત્રોમાંથી"
+    },
+    {
+      "surface": "עזיאל",
+      "gloss": "ઉઝ્ઝીએલ"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "અમ્મીનાદાબ"
+    },
+    {
+      "surface": "השר",
+      "gloss": "⟨સરદાર⟩"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "અને તેના ભાઈઓ"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "સો"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "બે"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "-બાર"
+    }
+  ],
+  "timestamp": "2026-08-21T18:06:49.437172985Z",
+  "model": "glm-5.3"
+}

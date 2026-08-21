@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 29:2",
+  "book": "deuteronomy",
+  "lang": "gu",
+  "chapter": 29,
+  "translation": "⟨the⟩ મહાન પરીક્ષાઓ જે તમારી આંખોએ જોઈ, ⟨the⟩ ચિહ્નો અને ⟨the⟩ મહાન ચમત્કારો તે ⟨the⟩",
+  "tokens": [
+    {
+      "surface": "המסות",
+      "gloss": "મહાન પરીક્ષાઓ"
+    },
+    {
+      "surface": "הגדלת",
+      "gloss": "મહાન"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જે"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "જોઈ"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "તમારી આંખોએ"
+    },
+    {
+      "surface": "האתת",
+      "gloss": "ચિહ્નો"
+    },
+    {
+      "surface": "והמפתים",
+      "gloss": "અને ચમત્કારો"
+    },
+    {
+      "surface": "הגדלים",
+      "gloss": "મહાન"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "તે"
+    }
+  ],
+  "timestamp": "2026-08-21T12:29:24.466270495Z",
+  "model": "glm-5.3"
+}

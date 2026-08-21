@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 80,
+  "ref": "psalms 119:80",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 119,
+  "translation": "મારું હૃદય તમારા વિધાનોમાં સંપૂર્ણ રહે, જેથી હું લજ્જિત ન થાઉં.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "રહે"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "મારું હૃદય"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "સંપૂર્ણ"
+    },
+    {
+      "surface": "בחקיך",
+      "gloss": "તમારા વિધાનોમાં"
+    },
+    {
+      "surface": "למען",
+      "gloss": "જેથી"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ન"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "લજ્જિત થાઉં"
+    }
+  ],
+  "timestamp": "2026-08-21T16:45:30.488459165Z",
+  "model": "glm-5.3"
+}

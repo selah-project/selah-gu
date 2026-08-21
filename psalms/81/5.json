@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 81:5",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 81,
+  "translation": "કે તે યિસ્રાએલ માટે એક હુકમ ⟨છે⟩, યાકોબના એલોહીમનો એક ચુકાદો.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "કે"
+    },
+    {
+      "surface": "חק",
+      "gloss": "હુકમ"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "યિસ્રાએલ માટે"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "તે"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ચુકાદો"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "એલોહીમનો"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "યાકોબ"
+    }
+  ],
+  "timestamp": "2026-08-21T18:57:05.060615440Z",
+  "model": "glm-5.3"
+}

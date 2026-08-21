@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 1:6",
+  "book": "exodus",
+  "lang": "gu",
+  "chapter": 1,
+  "translation": "અને યોસેફ મરી ગયો, અને તેના બધા ભાઈઓ, અને ⟨તે⟩ સમગ્ર પેઢી ⟨પણ⟩.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "અને...મરી ગયો"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "યોસેફ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "અને બધા"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "તેના ભાઈઓ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "અને સમગ્ર"
+    },
+    {
+      "surface": "הדור",
+      "gloss": "પેઢી"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "તે"
+    }
+  ],
+  "timestamp": "2026-08-21T11:05:14.554711832Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 8:32",
+  "book": "leviticus",
+  "lang": "gu",
+  "chapter": 8,
+  "translation": "અને માંસમાં અને લોટમાં જે બચી રહે તે તમે અગ્નિથી બાળી દેશો.",
+  "tokens": [
+    {
+      "surface": "והנותר",
+      "gloss": "અને જે બચી રહે"
+    },
+    {
+      "surface": "בבשר",
+      "gloss": "માંસમાં"
+    },
+    {
+      "surface": "ובלחם",
+      "gloss": "અને લોટમાં"
+    },
+    {
+      "surface": "באש",
+      "gloss": "અગ્નિથી"
+    },
+    {
+      "surface": "תשרפו",
+      "gloss": "તમે બાળી દેશો"
+    }
+  ],
+  "timestamp": "2026-08-21T11:35:01.266781804Z",
+  "model": "glm-5.3"
+}

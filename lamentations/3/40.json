@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "lamentations 3:40",
+  "book": "lamentations",
+  "lang": "gu",
+  "chapter": 3,
+  "translation": "આપણે આપણા માર્ગો તપાસીએ અને પરખીએ, અને યાહવે પાસે પાછા ફરીએ.",
+  "tokens": [
+    {
+      "surface": "נחפשה",
+      "gloss": "તપાસીએ"
+    },
+    {
+      "surface": "דרכינו",
+      "gloss": "આપણા માર્ગો"
+    },
+    {
+      "surface": "ונחקרה",
+      "gloss": "અને પરખીએ"
+    },
+    {
+      "surface": "ונשובה",
+      "gloss": "અને પાછા ફરીએ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "પાસે"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    }
+  ],
+  "timestamp": "2026-08-21T17:25:37.885503417Z",
+  "model": "glm-5.3"
+}

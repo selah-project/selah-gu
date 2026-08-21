@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "lamentations 3:55",
+  "book": "lamentations",
+  "lang": "gu",
+  "chapter": 3,
+  "translation": "મેં તારું નામ, હે યાહવે, નીચલા કૂવામાંથી પોકાર્યું.",
+  "tokens": [
+    {
+      "surface": "קראתי",
+      "gloss": "મેં પોકાર્યું"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "તારું નામ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "હે યાહવે"
+    },
+    {
+      "surface": "מבור",
+      "gloss": "કૂવામાંથી"
+    },
+    {
+      "surface": "תחתיות",
+      "gloss": "નીચલા"
+    }
+  ],
+  "timestamp": "2026-08-21T17:25:57.185750578Z",
+  "model": "glm-5.3"
+}

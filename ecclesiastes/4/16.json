@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 4:16",
+  "book": "ecclesiastes",
+  "lang": "gu",
+  "chapter": 4,
+  "translation": "સઘળા પ્રજાનો — સઘળા જે તેમની આગળ હતા તેમનો — કોઈ અંત નથી; પછીના લોકો પણ તેમાં આનંદ કરશે નહીં; કારણ કે આ પણ વ્યર્થતા અને વાયુનો સંતાપ છે.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "નથી"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "અંત"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "સઘળા…નો"
+    },
+    {
+      "surface": "העם",
+      "gloss": "પ્રજાનો"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "સઘળા"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જે"
+    },
+    {
+      "surface": "היה",
+      "gloss": "હતા"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "તેમની આગળ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "પણ"
+    },
+    {
+      "surface": "האחרונים",
+      "gloss": "પછીના લોકો"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "આનંદ કરશે"
+    },
+    {
+      "surface": "בו",
+      "gloss": "તેમાં"
+    },
+    {
+      "surface": "כי",
+      "gloss": "કારણ કે"
+    },
+    {
+      "surface": "גם",
+      "gloss": "પણ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "આ"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "વ્યર્થતા"
+    },
+    {
+      "surface": "ורעיון",
+      "gloss": "અને સંતાપ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "વાયુનો"
+    }
+  ],
+  "timestamp": "2026-08-21T17:29:05.297879679Z",
+  "model": "glm-5.3"
+}

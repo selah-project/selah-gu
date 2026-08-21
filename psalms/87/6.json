@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 87:6",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 87,
+  "translation": "યાહવે લોકોની નોંધ કરતાં ગણશે: આ ત્યાં જન્મ્યો. સેલાહ.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "ગણશે"
+    },
+    {
+      "surface": "בכתוב",
+      "gloss": "લખતાં\/નોંધ કરતાં"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "લોકોની"
+    },
+    {
+      "surface": "זה",
+      "gloss": "આ"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "જન્મ્યો"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ત્યાં"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "સેલાહ"
+    }
+  ],
+  "timestamp": "2026-08-21T16:34:24.276892869Z",
+  "model": "glm-5.3"
+}

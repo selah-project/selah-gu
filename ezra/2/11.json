@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezra 2:11",
+  "book": "ezra",
+  "lang": "gu",
+  "chapter": 2,
+  "translation": "બેબાઈના પુત્રો, છસો ત્રણવીસ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "בבי",
+      "gloss": "બેબાઈ"
+    },
+    {
+      "surface": "שש",
+      "gloss": "છ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "સો"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "વીસ"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "અને ત્રણ"
+    }
+  ],
+  "timestamp": "2026-08-21T17:45:14.508929809Z",
+  "model": "glm-5.3"
+}

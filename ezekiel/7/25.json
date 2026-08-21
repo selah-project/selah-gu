@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 7:25",
+  "book": "ezekiel",
+  "lang": "gu",
+  "chapter": 7,
+  "translation": "ધ્રૂજારી આવે છે, અને તેઓ શાંતિ શોધશે, પણ ⟨તે⟩ હશે નહીં.",
+  "tokens": [
+    {
+      "surface": "קפדה",
+      "gloss": "ધ્રૂજારી"
+    },
+    {
+      "surface": "בא",
+      "gloss": "આવે છે"
+    },
+    {
+      "surface": "ובקשו",
+      "gloss": "અને તેઓ શોધશે"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "શાંતિ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "પણ હશે નહીં"
+    }
+  ],
+  "timestamp": "2026-08-21T15:17:24.429514997Z",
+  "model": "glm-5.3"
+}

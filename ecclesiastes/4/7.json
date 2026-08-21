@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 4:7",
+  "book": "ecclesiastes",
+  "lang": "gu",
+  "chapter": 4,
+  "translation": "અને હું પાછો ફર્યો, મેં સૂર્યની તળે વ્યર્થતા જોઈ.",
+  "tokens": [
+    {
+      "surface": "ושבתי",
+      "gloss": "અને હું પાછો ફર્યો"
+    },
+    {
+      "surface": "אני",
+      "gloss": "હું"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "અને મેં જોઈ"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "વ્યર્થતા"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "તળે"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "સૂર્યની"
+    }
+  ],
+  "timestamp": "2026-08-21T17:29:24.839793570Z",
+  "model": "glm-5.3"
+}

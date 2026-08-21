@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 14:1",
+  "book": "1-kings",
+  "lang": "gu",
+  "chapter": 14,
+  "translation": "તે સમયે યારાવઆમનો પુત્ર અવીયાહ માંદો પડ્યો.",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "તે સમયે"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "તે"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "માંદો પડ્યો"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "અવીયાહ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "પુત્ર"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "યારાવઆમનો"
+    }
+  ],
+  "timestamp": "2026-08-21T13:46:55.113148365Z",
+  "model": "glm-5.3"
+}

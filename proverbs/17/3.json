@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 17:3",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 17,
+  "translation": "ચાંદી માટે તાપણી અને સોના માટે ભઠ્ઠી, અને હૃદયો પરીક્ષક યાહવે.",
+  "tokens": [
+    {
+      "surface": "מצרף",
+      "gloss": "તાપણી"
+    },
+    {
+      "surface": "לכסף",
+      "gloss": "ચાંદી માટે"
+    },
+    {
+      "surface": "וכור",
+      "gloss": "અને ભઠ્ઠી"
+    },
+    {
+      "surface": "לזהב",
+      "gloss": "સોના માટે"
+    },
+    {
+      "surface": "ובחן",
+      "gloss": "અને પરીક્ષક"
+    },
+    {
+      "surface": "לבות",
+      "gloss": "હૃદયોના"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    }
+  ],
+  "timestamp": "2026-08-21T16:58:00.717978459Z",
+  "model": "glm-5.3"
+}

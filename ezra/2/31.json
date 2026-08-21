@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "ezra 2:31",
+  "book": "ezra",
+  "lang": "gu",
+  "chapter": 2,
+  "translation": "બીજા એલામનાં પુત્રો, એક હજાર બસો ચોપન.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "એલામ"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "બીજા"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "એક હજાર"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "બસો"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "પચાસ"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "અને ચાર"
+    }
+  ],
+  "timestamp": "2026-08-21T17:45:26.358035424Z",
+  "model": "glm-5.3"
+}

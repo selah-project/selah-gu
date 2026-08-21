@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "amos 6:9",
+  "book": "amos",
+  "lang": "gu",
+  "chapter": 6,
+  "translation": "અને એમ થશે કે, જો એક ઘરમાં દસ પુરુષો બચી રહે, તો તેઓ મરી જશે.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "અને એમ થશે"
+    },
+    {
+      "surface": "אם",
+      "gloss": "જો"
+    },
+    {
+      "surface": "יותרו",
+      "gloss": "બચી રહે"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "દસ"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "પુરુષો"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "ઘરમાં"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "એક"
+    },
+    {
+      "surface": "ומתו",
+      "gloss": "અને તેઓ મરી જશે"
+    }
+  ],
+  "timestamp": "2026-08-21T15:52:54.072469572Z",
+  "model": "glm-5.3"
+}

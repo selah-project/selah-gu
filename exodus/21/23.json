@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 21:23",
+  "book": "exodus",
+  "lang": "gu",
+  "chapter": 21,
+  "translation": "અને જો વિપત્તિ થાય, તો તું પ્રાણ સામે પ્રાણ આપીશ.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "અને જો"
+    },
+    {
+      "surface": "אסון",
+      "gloss": "વિપત્તિ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "થાય"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "તો તું આપીશ"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "પ્રાણ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "સામે"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "પ્રાણ"
+    }
+  ],
+  "timestamp": "2026-08-21T11:17:35.482955598Z",
+  "model": "glm-5.3"
+}

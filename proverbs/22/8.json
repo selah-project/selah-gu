@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 22:8",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 22,
+  "translation": "અનીતિ વાવનાર દુઃખનો પાક કાપશે; અને તેના ક્રોધનો દંડનો અંત આવશે.",
+  "tokens": [
+    {
+      "surface": "זורע",
+      "gloss": "વાવનાર"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "અનીતિ"
+    },
+    {
+      "surface": "יקצור",
+      "gloss": "કાપશે (પાક)"
+    },
+    {
+      "surface": "און",
+      "gloss": "દુઃખનો પાક"
+    },
+    {
+      "surface": "ושבט",
+      "gloss": "અને દંડ"
+    },
+    {
+      "surface": "עברתו",
+      "gloss": "તેના ક્રોધનો"
+    },
+    {
+      "surface": "יכלה",
+      "gloss": "અંત આવશે"
+    }
+  ],
+  "timestamp": "2026-08-21T16:59:54.284679978Z",
+  "model": "glm-5.3"
+}

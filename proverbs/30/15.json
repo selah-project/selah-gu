@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 30:15",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 30,
+  "translation": "જળોકને બે પુત્રીઓ છે — ‘આપ, આપ!’ ત્રણ વસ્તુઓ સંતૃપ્ત થતી નથી, ચાર કહેતાં નથી ‘પૂરું છે’ —",
+  "tokens": [
+    {
+      "surface": "לעלוקה",
+      "gloss": "જળોકને"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "બે"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "પુત્રીઓ"
+    },
+    {
+      "surface": "הב",
+      "gloss": "આપ"
+    },
+    {
+      "surface": "הב",
+      "gloss": "આપ"
+    },
+    {
+      "surface": "שלוש",
+      "gloss": "ત્રણ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "વસ્તુઓ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નથી"
+    },
+    {
+      "surface": "תשבענה",
+      "gloss": "સંતૃપ્ત થતી"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "ચાર"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નથી"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "કહેતાં"
+    },
+    {
+      "surface": "הון",
+      "gloss": "‘પૂરું છે’"
+    }
+  ],
+  "timestamp": "2026-08-21T17:03:24.921791611Z",
+  "model": "glm-5.3"
+}

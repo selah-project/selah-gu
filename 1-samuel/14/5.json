@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 14:5",
+  "book": "1-samuel",
+  "lang": "gu",
+  "chapter": 14,
+  "translation": "હિલનો એક સામાન્ય કડક ઉત્તર તરફ મિકમાસની સામે, અને બીજો દક્ષિણ તરફ ગેબાની સામે.",
+  "tokens": [
+    {
+      "surface": "השן",
+      "gloss": "હિલનો"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "એક"
+    },
+    {
+      "surface": "מצוק",
+      "gloss": "કડક"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "ઉત્તર તરફ"
+    },
+    {
+      "surface": "מול",
+      "gloss": "સામે"
+    },
+    {
+      "surface": "מכמש",
+      "gloss": "મિકમાસ"
+    },
+    {
+      "surface": "והאחד",
+      "gloss": "અને બીજો"
+    },
+    {
+      "surface": "מנגב",
+      "gloss": "દક્ષિણ તરફ"
+    },
+    {
+      "surface": "מול",
+      "gloss": "સામે"
+    },
+    {
+      "surface": "גבע",
+      "gloss": "ગેબા"
+    }
+  ],
+  "timestamp": "2026-08-21T13:07:19.297504275Z",
+  "model": "glm-5.3"
+}

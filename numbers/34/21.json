@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 34:21",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 34,
+  "translation": "બિન્યામીનના કુળ માટે એલિદાદ કિસ્લોનનો પુત્ર.",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "કુળ માટે"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "બિન્યામીન"
+    },
+    {
+      "surface": "אלידד",
+      "gloss": "એલિદાદ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "પુત્ર"
+    },
+    {
+      "surface": "כסלון",
+      "gloss": "કિસ્લોન"
+    }
+  ],
+  "timestamp": "2026-08-21T12:10:04.091974228Z",
+  "model": "glm-5.3"
+}

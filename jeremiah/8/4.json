@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 8:4",
+  "book": "jeremiah",
+  "lang": "gu",
+  "chapter": 8,
+  "translation": "અને તું તેમને કહેશે: યાહવે આ પ્રમાણે કહે છે: શું પડયા પછી ઊભા ન થાય? શું ફર્યા પછી પાછા ન ફરે?",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "અને તું કહેશે"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "તેમને"
+    },
+    {
+      "surface": "כה",
+      "gloss": "આ પ્રમાણે"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "કહે છે"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "היפלו",
+      "gloss": "શું પડયા પછી"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ન"
+    },
+    {
+      "surface": "יקומו",
+      "gloss": "ઊભા થાય"
+    },
+    {
+      "surface": "אם",
+      "gloss": "શું"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "ફર્યા પછી"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ન"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "પાછા ફરે"
+    }
+  ],
+  "timestamp": "2026-08-21T14:50:33.612345389Z",
+  "model": "glm-5.3"
+}

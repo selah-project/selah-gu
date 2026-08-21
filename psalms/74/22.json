@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 74:22",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 74,
+  "translation": "ઊઠ, હે એલોહીમ, તારો ઝઘો ઝઘો; મૂર્ખ પાસેથી તારી નિંદા આખો દિવસ યાદ રાખ.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "ઊઠ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "હે એલોહીમ"
+    },
+    {
+      "surface": "ריבה",
+      "gloss": "ઝઘો કર"
+    },
+    {
+      "surface": "ריבך",
+      "gloss": "તારો ઝઘો"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "યાદ રાખ"
+    },
+    {
+      "surface": "חרפתך",
+      "gloss": "તારી નિંદા"
+    },
+    {
+      "surface": "מני",
+      "gloss": "પાસેથી"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "મૂર્ખ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "આખો"
+    },
+    {
+      "surface": "היום",
+      "gloss": "દિવસ"
+    }
+  ],
+  "timestamp": "2026-08-21T16:30:35.410035569Z",
+  "model": "glm-5.3"
+}

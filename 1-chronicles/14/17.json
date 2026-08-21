@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 14:17",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 14,
+  "translation": "અને દાવિદનું નામ બધી પૃથ્વીઓમાં ફેલાયું, અને યાહવેએ ⟨את⟩ તેનો ભય બધા પ્રજા-સમૂહો પર મૂક્યો.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "ફેલાયું"
+    },
+    {
+      "surface": "שם",
+      "gloss": "નામ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "દાવિદનું"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "બધી"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "પૃથ્વીઓમાં"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "અને યાહવેએ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "મૂક્યો"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "તેનો ભય"
+    },
+    {
+      "surface": "פחדו",
+      "gloss": "તેનો ભય"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "כל",
+      "gloss": "બધા"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "પ્રજા-સમૂહો"
+    }
+  ],
+  "timestamp": "2026-08-21T18:06:15.914524498Z",
+  "model": "glm-5.3"
+}

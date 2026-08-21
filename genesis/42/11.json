@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 42:11",
+  "book": "genesis",
+  "lang": "gu",
+  "chapter": 42,
+  "translation": "આપણે સૌ એક જ માણસના પુત્રો છીએ; આપણે પ્રામાણિક પુરુષો છીએ, તારા દાસો જાસૂસો નથી.",
+  "tokens": [
+    {
+      "surface": "כלנו",
+      "gloss": "આપણે સૌ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "איש",
+      "gloss": "માણસના"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "એક જ"
+    },
+    {
+      "surface": "נחנו",
+      "gloss": "છીએ"
+    },
+    {
+      "surface": "כנים",
+      "gloss": "પ્રામાણિક"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "આપણે"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નથી"
+    },
+    {
+      "surface": "היו",
+      "gloss": "છીએ"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "તારા દાસો"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "જાસૂસો"
+    }
+  ],
+  "timestamp": "2026-08-21T11:00:25.064430592Z",
+  "model": "glm-5.3"
+}

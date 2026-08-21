@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 31:2",
+  "book": "exodus",
+  "lang": "gu",
+  "chapter": 31,
+  "translation": "જુઓ, મેં નામ લઈને બેસલએલને બોલાવ્યો છે — ઊરીનો પુત્ર, ખૂરનો પૌત્ર — યહૂદાના કુળનો.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "જુઓ"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "મેં બોલાવ્યો છે"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "નામ લઈને"
+    },
+    {
+      "surface": "בצלאל",
+      "gloss": "બેસલએલ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "પુત્ર"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "ઊરી"
+    },
+    {
+      "surface": "בן",
+      "gloss": "પુત્ર"
+    },
+    {
+      "surface": "חור",
+      "gloss": "ખૂર"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "કુળનો"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "યહૂદા"
+    }
+  ],
+  "timestamp": "2026-08-21T11:21:35.698492548Z",
+  "model": "glm-5.3"
+}

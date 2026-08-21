@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "nehemiah 10:6",
+  "book": "nehemiah",
+  "lang": "gu",
+  "chapter": 10,
+  "translation": "ખારીમ, મેરેમોત, ઓબદ્યાહ,",
+  "tokens": [
+    {
+      "surface": "חרם",
+      "gloss": "ખારીમ"
+    },
+    {
+      "surface": "מרמות",
+      "gloss": "મેરેમોત"
+    },
+    {
+      "surface": "עבדיה",
+      "gloss": "ઓબદ્યાહ"
+    }
+  ],
+  "timestamp": "2026-08-21T17:55:19.623344124Z",
+  "model": "glm-5.3"
+}

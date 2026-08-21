@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 100:2",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 100,
+  "translation": "યાહવેની ⟨את⟩ સેવા આનંદથી કરો; તેમના સમક્ષ આવો રણકના ગીત સાથે.",
+  "tokens": [
+    {
+      "surface": "עבדו",
+      "gloss": "સેવા કરો"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "યાહવે"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "આનંદથી"
+    },
+    {
+      "surface": "באו",
+      "gloss": "આવો"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "તેમના સમક્ષ"
+    },
+    {
+      "surface": "ברננה",
+      "gloss": "રણકના ગીત સાથે"
+    }
+  ],
+  "timestamp": "2026-08-21T16:37:43.993670077Z",
+  "model": "glm-5.3"
+}

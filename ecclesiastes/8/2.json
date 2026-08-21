@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 8:2",
+  "book": "ecclesiastes",
+  "lang": "gu",
+  "chapter": 8,
+  "translation": "હું ⟨કહું છું⟩ — રાજાના મુખને રાખો, અને એલોહીમના શપથને માનત રાખો.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "હું"
+    },
+    {
+      "surface": "פי",
+      "gloss": "મુખને"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "રાજાના"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "રાખો"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "અને માનત"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "બાબતમાં"
+    },
+    {
+      "surface": "שבועת",
+      "gloss": "શપથને"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "એલોહીમના"
+    }
+  ],
+  "timestamp": "2026-08-21T17:30:34.252143416Z",
+  "model": "glm-5.3"
+}

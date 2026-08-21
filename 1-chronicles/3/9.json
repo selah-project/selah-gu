@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 3:9",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 3,
+  "translation": "દાવીદનાં બધાં પુત્રો — ઉપપત્નીઓનાં પુત્રો સિવાય, અને તામાર તેમની બહેણ ⟨હતી⟩.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "બધાં"
+    },
+    {
+      "surface": "בני",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "દાવીદનાં"
+    },
+    {
+      "surface": "מלבד",
+      "gloss": "સિવાય"
+    },
+    {
+      "surface": "בני",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "פילגשים",
+      "gloss": "ઉપપત્નીઓનાં"
+    },
+    {
+      "surface": "ותמר",
+      "gloss": "અને તામાર"
+    },
+    {
+      "surface": "אחותם",
+      "gloss": "તેમની બહેણ"
+    }
+  ],
+  "timestamp": "2026-08-21T18:01:10.921194366Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 6:14",
+  "book": "deuteronomy",
+  "lang": "gu",
+  "chapter": 6,
+  "translation": "તમે બીજા એલોહીમને પાછળ ન ચાલશો — તમારી આસપાસનાં પ્રજાઓના એલોહીમ પૈકીના કોઈપણ ⟨નો⟩.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "પ્રજાઓ",
+      "gloss": ""
+    },
+    {
+      "surface": "תלכון",
+      "gloss": "ચાલશો"
+    },
+    {
+      "surface": "આસપાસ",
+      "gloss": ""
+    },
+    {
+      "surface": "માંથી",
+      "gloss": "પાછળ"
+    },
+    {
+      "surface": "ના",
+      "gloss": ""
+    },
+    {
+      "surface": "બીજા",
+      "gloss": "બીજા"
+    },
+    {
+      "surface": "માંથી",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-21T12:14:57.186797369Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 10:8",
+  "book": "ezekiel",
+  "lang": "gu",
+  "chapter": 10,
+  "translation": "અને કરુબોના પાંખોની નીચે માણસના હાથનું સ્વરૂપ દેખાઈ.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "અને દેખાઈ"
+    },
+    {
+      "surface": "לכרבים",
+      "gloss": "કરુબોમાં"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "સ્વરૂપ"
+    },
+    {
+      "surface": "יד",
+      "gloss": "હાથનું"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "માણસના"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "નીચે"
+    },
+    {
+      "surface": "כנפיהם",
+      "gloss": "તેમની પાંખો"
+    }
+  ],
+  "timestamp": "2026-08-21T15:21:21.830820480Z",
+  "model": "glm-5.3"
+}

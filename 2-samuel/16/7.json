@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 16:7",
+  "book": "2-samuel",
+  "lang": "gu",
+  "chapter": 16,
+  "translation": "અને શિમીએ શાપ આપતા આમ કહ્યું: નીકળ, નીકળ, લોહીનો માણસ, અને બેકાર માણસ!",
+  "tokens": [
+    {
+      "surface": "וכה",
+      "gloss": "આમ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "કહ્યું"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "શિમીએ"
+    },
+    {
+      "surface": "בקללו",
+      "gloss": "શાપ આપતા"
+    },
+    {
+      "surface": "צא",
+      "gloss": "નીકળ"
+    },
+    {
+      "surface": "צא",
+      "gloss": "નીકળ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "માણસ"
+    },
+    {
+      "surface": "הדמים",
+      "gloss": "લોહીનો"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "અને માણસ"
+    },
+    {
+      "surface": "הבליעל",
+      "gloss": "બેકાર"
+    }
+  ],
+  "timestamp": "2026-08-21T13:28:00.607792789Z",
+  "model": "glm-5.3"
+}

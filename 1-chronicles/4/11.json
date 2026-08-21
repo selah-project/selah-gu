@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 4:11",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 4,
+  "translation": "અને કેલૂબ, શૂખાહનો ભાઈ, ⟨את⟩ મેખિરને જન્મ આપે છે; તે એશ્તોનનો પિતા ⟨is⟩.",
+  "tokens": [
+    {
+      "surface": "וכלוב",
+      "gloss": "અને કેલૂબ"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "…નો ભાઈ"
+    },
+    {
+      "surface": "שוחה",
+      "gloss": "શૂખાહ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "જન્મ આપે છે"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "મેખિર"
+    },
+    {
+      "surface": "מחיר",
+      "gloss": "મેખિર"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "તે"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "…નો પિતા"
+    },
+    {
+      "surface": "אשתון",
+      "gloss": "એશ્તોન"
+    }
+  ],
+  "timestamp": "2026-08-21T18:02:25.228998346Z",
+  "model": "glm-5.3"
+}

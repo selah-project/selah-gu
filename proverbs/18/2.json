@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 18:2",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 18,
+  "translation": "મૂર્ખ સમજણમાં રસ ધરાવતો નથી, પણ ફક્ત તેના હૃદયના ખુલાસામાં.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "નથી"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "રસ ધરાવે છે"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "મૂર્ખ"
+    },
+    {
+      "surface": "בתבונה",
+      "gloss": "સમજણમાં"
+    },
+    {
+      "surface": "כי",
+      "gloss": "પણ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ફક્ત"
+    },
+    {
+      "surface": "בהתגלות",
+      "gloss": "ખુલાસામાં"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "તેના હૃદયના"
+    }
+  ],
+  "timestamp": "2026-08-21T16:58:27.778007860Z",
+  "model": "glm-5.3"
+}

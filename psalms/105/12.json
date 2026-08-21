@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 105:12",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 105,
+  "translation": "જ્યારે તેઓ ગણતરીના માણસો ⟨were⟩, માત્ર થોડા, અને તેમાં પરદેશીઓ ⟨were⟩।",
+  "tokens": [
+    {
+      "surface": "בהיותם",
+      "gloss": "જ્યારે તેઓ ⟨were⟩"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "માણસો"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "ગણતરીના"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "માત્ર થોડા"
+    },
+    {
+      "surface": "וגרים",
+      "gloss": "અને પરદેશીઓ"
+    },
+    {
+      "surface": "בה",
+      "gloss": "તેમાં"
+    }
+  ],
+  "timestamp": "2026-08-21T16:39:32.345423702Z",
+  "model": "glm-5.3"
+}

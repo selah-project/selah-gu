@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 7:6",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 7,
+  "translation": "બિન્યામીન — બેલા, અને બેખેર, અને યિદિયાએલ, ત્રણ.",
+  "tokens": [
+    {
+      "surface": "בנימן",
+      "gloss": "બિન્યામીન"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "બેલા"
+    },
+    {
+      "surface": "ובכר",
+      "gloss": "અને બેખેર"
+    },
+    {
+      "surface": "וידיעאל",
+      "gloss": "અને યિદિયાએલ"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "ત્રણ"
+    }
+  ],
+  "timestamp": "2026-08-21T18:03:55.678120660Z",
+  "model": "glm-5.3"
+}

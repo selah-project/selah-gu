@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 26:6",
+  "book": "jeremiah",
+  "lang": "gu",
+  "chapter": 26,
+  "translation": "તો હું ⟨את⟩ આ ઘરને શીલોહ જેવું બનાવીશ, અને ⟨את⟩ આ નગરને પૃથ્વીના બધા રાષ્ટ્રો માટે શાપરૂપ આપીશ.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "તો હું બનાવીશ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "આ ઘરને"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "આ ઘર"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "આ"
+    },
+    {
+      "surface": "כשלה",
+      "gloss": "શીલોહ જેવું"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "આ નગરને"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "નગર"
+    },
+    {
+      "surface": "הזאתה",
+      "gloss": "આ"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "આપીશ"
+    },
+    {
+      "surface": "לקללה",
+      "gloss": "શાપરૂપ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "બધા … માટે"
+    },
+    {
+      "surface": "גויי",
+      "gloss": "રાષ્ટ્રો"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "પૃથ્વીના"
+    }
+  ],
+  "timestamp": "2026-08-21T14:58:44.801625978Z",
+  "model": "glm-5.3"
+}

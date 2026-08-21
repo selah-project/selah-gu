@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 17:17",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 17,
+  "translation": "દરેક સમયે મિત્ર પ્રેમ કરે છે, અને ભાઈ મુશ્કેલી માટે જન્મે છે.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "દરેક સમયે"
+    },
+    {
+      "surface": "עת",
+      "gloss": "સમય"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "પ્રેમ કરે છે"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "મિત્ર"
+    },
+    {
+      "surface": "ואח",
+      "gloss": "અને ભાઈ"
+    },
+    {
+      "surface": "לצרה",
+      "gloss": "મુશ્કેલી માટે"
+    },
+    {
+      "surface": "יולד",
+      "gloss": "જન્મે છે"
+    }
+  ],
+  "timestamp": "2026-08-21T16:57:09.478567272Z",
+  "model": "glm-5.3"
+}

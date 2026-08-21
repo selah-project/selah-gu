@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 11:4",
+  "book": "ecclesiastes",
+  "lang": "gu",
+  "chapter": 11,
+  "translation": "જે વાયુની રાહ જુએ છે તે વાવશે નહીં, અને જે વાદળો સામે જુએ છે તે કાપશે નહીં.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "જે…રાહ જુએ છે"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "વાયુની"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "יזרע",
+      "gloss": "વાવશે"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "અને જે…જુએ છે"
+    },
+    {
+      "surface": "בעבים",
+      "gloss": "વાદળો સામે"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "יקצור",
+      "gloss": "કાપશે"
+    }
+  ],
+  "timestamp": "2026-08-21T17:31:23.705893061Z",
+  "model": "glm-5.3"
+}

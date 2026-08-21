@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 15:26",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 15,
+  "translation": "દુષ્ટ વિચારો યાહવે માટે દ્વેષભાવ છે, અને પ્રસન્નતાનાં વચનો શુદ્ધ છે.",
+  "tokens": [
+    {
+      "surface": "תועבת",
+      "gloss": "દ્વેષભાવ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "વિચારો"
+    },
+    {
+      "surface": "רע",
+      "gloss": "દુષ્ટ"
+    },
+    {
+      "surface": "וטהרים",
+      "gloss": "અને શુદ્ધ"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "વચનો"
+    },
+    {
+      "surface": "נעם",
+      "gloss": "પ્રસન્નતાનાં"
+    }
+  ],
+  "timestamp": "2026-08-21T16:57:00.571071409Z",
+  "model": "glm-5.3"
+}

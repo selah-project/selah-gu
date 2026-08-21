@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 5:12",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 5,
+  "translation": "યોએલ પ્રમુખ, અને શાફામ બીજો, અને યાનાય અને શાફાત બાશાનમાં.",
+  "tokens": [
+    {
+      "surface": "יואל",
+      "gloss": "યોએલ"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "પ્રમુખ"
+    },
+    {
+      "surface": "ושפם",
+      "gloss": "અને શાફામ"
+    },
+    {
+      "surface": "המשנה",
+      "gloss": "બીજો"
+    },
+    {
+      "surface": "ויעני",
+      "gloss": "અને યાનાય"
+    },
+    {
+      "surface": "ושפט",
+      "gloss": "અને શાફાત"
+    },
+    {
+      "surface": "בבשן",
+      "gloss": "બાશાનમાં"
+    }
+  ],
+  "timestamp": "2026-08-21T18:01:42.719175311Z",
+  "model": "glm-5.3"
+}

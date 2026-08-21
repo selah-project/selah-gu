@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 82:6",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 82,
+  "translation": "મેં કહ્યું છે: તમે એલોહીમ છો, અને તમે બધા એલ્યોનના પુત્રો છો.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "મેં"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "કહ્યું છે"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "એલોહીમ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "તમે"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "અને... પુત્રો"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "એલ્યોનના"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "તમે બધા"
+    }
+  ],
+  "timestamp": "2026-08-21T16:32:37.699505455Z",
+  "model": "glm-5.3"
+}

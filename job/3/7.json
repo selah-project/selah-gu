@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 3:7",
+  "book": "job",
+  "lang": "gu",
+  "chapter": 3,
+  "translation": "જુઓ, રાત તે વંધ્ય બને; તેમાં આનંદનો ઉલ્લાસ ન આવે.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "જુઓ"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "રાત"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "તે"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "બને"
+    },
+    {
+      "surface": "גלמוד",
+      "gloss": "વંધ્ય"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ન"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "આવે"
+    },
+    {
+      "surface": "רננה",
+      "gloss": "આનંદનો ઉલ્લાસ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "તેમાં"
+    }
+  ],
+  "timestamp": "2026-08-21T17:04:17.344205313Z",
+  "model": "glm-5.3"
+}

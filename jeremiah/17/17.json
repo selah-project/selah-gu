@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 17:17",
+  "book": "jeremiah",
+  "lang": "gu",
+  "chapter": 17,
+  "translation": "મારા માટે ત્રાસ ન બન; દુષ્ટતાના દિવસે તું ⟨જ⟩ મારું શરણસ્થાન છે.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ન"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "બન"
+    },
+    {
+      "surface": "לי",
+      "gloss": "મારા માટે"
+    },
+    {
+      "surface": "למחתה",
+      "gloss": "ત્રાસ"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "મારું શરણસ્થાન"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "તું"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "દિવસે"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "દુષ્ટતાના"
+    }
+  ],
+  "timestamp": "2026-08-21T18:48:32.656303546Z",
+  "model": "glm-5.3"
+}

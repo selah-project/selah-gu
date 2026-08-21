@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 1:20",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 1,
+  "translation": "જ્ઞાન બહાર ઊંચે અવાજે બોલે છે, ચોકમાં ⟨તે⟩ પોતાનો અવાજ આપે છે.",
+  "tokens": [
+    {
+      "surface": "חכמות",
+      "gloss": "જ્ઞાન"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "બહાર"
+    },
+    {
+      "surface": "תרנה",
+      "gloss": "ઊંચે અવાજે બોલે છે"
+    },
+    {
+      "surface": "ברחבות",
+      "gloss": "ચોકમાં"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "આપે છે"
+    },
+    {
+      "surface": "קולה",
+      "gloss": "પોતાનો અવાજ"
+    }
+  ],
+  "timestamp": "2026-08-21T16:51:06.483279449Z",
+  "model": "glm-5.3"
+}

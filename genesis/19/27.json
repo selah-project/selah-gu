@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 19:27",
+  "book": "genesis",
+  "lang": "gu",
+  "chapter": 19,
+  "translation": "અને અવ્રાહામ વહેલી સવારે એ સ્થાન પર ગયો, જ્યાં તે યાહવેના સામા ઊભો હતો.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "અને વહેલી સવારે ઊઠ્યો"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "અવ્રાહામ"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "સવારે"
+    },
+    {
+      "surface": "אל",
+      "gloss": "પર"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "એ સ્થાન"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જ્યાં"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "ઊભો હતો"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ત્યાં"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "સામા"
+    },
+    {
+      "surface": "פני",
+      "gloss": "સામા"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવેના"
+    }
+  ],
+  "timestamp": "2026-08-21T10:45:24.750255576Z",
+  "model": "glm-5.3"
+}

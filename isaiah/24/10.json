@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 24:10",
+  "book": "isaiah",
+  "lang": "gu",
+  "chapter": 24,
+  "translation": "તોહુનું શહેર તૂટી પડ્યું છે; દરેક ઘર પ્રવેશથી બંધ કરાયું છે.",
+  "tokens": [
+    {
+      "surface": "נשברה",
+      "gloss": "તૂટી પડ્યું છે"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "શહેર"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "તોહુ (અરાજકતા)"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "બંધ કરાયું છે"
+    },
+    {
+      "surface": "כל",
+      "gloss": "દરેક"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ઘર"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "પ્રવેશથી"
+    }
+  ],
+  "timestamp": "2026-08-21T14:22:15.219581419Z",
+  "model": "glm-5.3"
+}

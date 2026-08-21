@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "lamentations 3:26",
+  "book": "lamentations",
+  "lang": "gu",
+  "chapter": 3,
+  "translation": "સારું ⟨છે⟩ ⟨કે માણસ⟩ આશા રાખે અને શાંતિથી યાહવેના ઉદ્ધાર માટે રાહ જુએ.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "સારું"
+    },
+    {
+      "surface": "ויחיל",
+      "gloss": "અને આશા રાખે"
+    },
+    {
+      "surface": "ודומם",
+      "gloss": "અને શાંતિથી"
+    },
+    {
+      "surface": "לתשועת",
+      "gloss": "ઉદ્ધાર માટે"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવેના"
+    }
+  ],
+  "timestamp": "2026-08-21T17:25:35.360536795Z",
+  "model": "glm-5.3"
+}

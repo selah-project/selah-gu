@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 2:13",
+  "book": "ecclesiastes",
+  "lang": "gu",
+  "chapter": 2,
+  "translation": "અને મેં, હું જોયું કે મૂર્ખતા કરતાં જ્ઞાનનો લાભ છે — જેમ અંધકાર કરતાં પ્રકાશનો લાભ છે.",
+  "tokens": [
+    {
+      "surface": "וראיתי",
+      "gloss": "અને મેં જોયું"
+    },
+    {
+      "surface": "אני",
+      "gloss": "હું"
+    },
+    {
+      "surface": "שיש",
+      "gloss": "કે … છે"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "લાભ"
+    },
+    {
+      "surface": "לחכמה",
+      "gloss": "જ્ઞાનનો"
+    },
+    {
+      "surface": "מן",
+      "gloss": "કરતાં"
+    },
+    {
+      "surface": "הסכלות",
+      "gloss": "મૂર્ખતા"
+    },
+    {
+      "surface": "כיתרון",
+      "gloss": "જેમ … નો લાભ"
+    },
+    {
+      "surface": "האור",
+      "gloss": "પ્રકાશનો"
+    },
+    {
+      "surface": "מן",
+      "gloss": "કરતાં"
+    },
+    {
+      "surface": "החשך",
+      "gloss": "અંધકાર"
+    }
+  ],
+  "timestamp": "2026-08-21T17:29:44.165266266Z",
+  "model": "glm-5.3"
+}

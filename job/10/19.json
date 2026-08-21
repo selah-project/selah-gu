@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "job 10:19",
+  "book": "job",
+  "lang": "gu",
+  "chapter": 10,
+  "translation": "જેમ હું નહોતો, તેમ હોઉં — ગર્ભથી કબર સુધી મને લઈ જવાય.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "જેમ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નહોતો"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "હું હતો"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "હોઉં"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "ગર્ભથી"
+    },
+    {
+      "surface": "לקבר",
+      "gloss": "કબર સુધી"
+    },
+    {
+      "surface": "אובל",
+      "gloss": "મને લઈ જવાય"
+    }
+  ],
+  "timestamp": "2026-08-21T17:09:09.011158054Z",
+  "model": "glm-5.3"
+}

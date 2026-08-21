@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 1:4",
+  "book": "ecclesiastes",
+  "lang": "gu",
+  "chapter": 1,
+  "translation": "એક પેઢી જાય છે અને એક પેઢી આવે છે, પણ પૃથ્વી સદા માટે ઊભી રહે છે.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "પેઢી"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "જાય છે"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "અને એક પેઢી"
+    },
+    {
+      "surface": "בא",
+      "gloss": "આવે છે"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "પણ પૃથ્વી"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "સદા માટે"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "ઊભી રહે છે"
+    }
+  ],
+  "timestamp": "2026-08-21T17:28:51.478523740Z",
+  "model": "glm-5.3"
+}

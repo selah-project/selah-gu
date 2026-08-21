@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 75:8",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 75,
+  "translation": "કેમ કે એલોહીમ ⟨is⟩ ન્યાયાધીશ; ⟨he⟩ એકને નિર્ધન કરે છે અને ⟨he⟩ બીજાને ઊંચો કરે છે.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "કેમ કે"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "એલોહીમ"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "ન્યાયાધીશ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "એકને"
+    },
+    {
+      "surface": "ישפיל",
+      "gloss": "નિર્ધન કરે છે"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "અને બીજાને"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "ઊંચો કરે છે"
+    }
+  ],
+  "timestamp": "2026-08-21T16:30:37.731805124Z",
+  "model": "glm-5.3"
+}

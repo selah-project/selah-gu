@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 4:1",
+  "book": "jonah",
+  "lang": "gu",
+  "chapter": 4,
+  "translation": "અને યૂનાને મોટી દુષ્ટતા ખોટી લાગી, અને તેને ક્રોધ ઊપજ્યો.",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "ખોટી લાગી"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ને (પ્રતિ)"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "યૂના"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "દુષ્ટતા"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "મોટી"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "અને ક્રોધ ઊપજ્યો"
+    },
+    {
+      "surface": "לו",
+      "gloss": "તેને"
+    }
+  ],
+  "timestamp": "2026-08-21T15:55:41.060821992Z",
+  "model": "glm-5.3"
+}

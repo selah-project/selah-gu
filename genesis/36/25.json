@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 36:25",
+  "book": "genesis",
+  "lang": "gu",
+  "chapter": 36,
+  "translation": "અને આ છે અનાહનાં પુત્રો: દિશોન અને ઓહોલીબામાહ, અનાહની પુત્રી.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "અને આ છે"
+    },
+    {
+      "surface": "בני",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "અનાહનાં"
+    },
+    {
+      "surface": "דשן",
+      "gloss": "દિશોન"
+    },
+    {
+      "surface": "ואהליבמה",
+      "gloss": "અને ઓહોલીબામાહ"
+    },
+    {
+      "surface": "בת",
+      "gloss": "પુત્રી"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "અનાહની"
+    }
+  ],
+  "timestamp": "2026-08-21T10:56:35.290007043Z",
+  "model": "glm-5.3"
+}

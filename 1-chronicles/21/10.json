@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 21:10",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 21,
+  "translation": "જા, દાવિદને કહે, કે આ પ્રમાણે યાહવે કહે છે: ત્રણ હું તારા પર તાણું છું; તેમાંથી એક તારા માટે પસંદ કર, અને હું તને તે કરીશ.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "જા"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "અને કહે"
+    },
+    {
+      "surface": "אל",
+      "gloss": "પ્રતિ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "દાવિદને"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "કે"
+    },
+    {
+      "surface": "כה",
+      "gloss": "આ પ્રમાણે"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "કહે છે"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "שלוש",
+      "gloss": "ત્રણ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "હું"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "તાણું છું"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "તારા પર"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "પસંદ કર"
+    },
+    {
+      "surface": "לך",
+      "gloss": "તારા માટે"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "એક"
+    },
+    {
+      "surface": "מהנה",
+      "gloss": "તેમાંથી"
+    },
+    {
+      "surface": "ואעשה",
+      "gloss": "અને કરીશ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "તને"
+    }
+  ],
+  "timestamp": "2026-08-21T18:10:27.581180015Z",
+  "model": "glm-5.3"
+}

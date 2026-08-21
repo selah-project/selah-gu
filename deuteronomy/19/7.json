@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 19:7",
+  "book": "deuteronomy",
+  "lang": "gu",
+  "chapter": 19,
+  "translation": "એટલે હું તને આજ્ઞા કરું છું, કે: તારા માટે ત્રણ નગરો અલગ કરીશ.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "એટલા પર"
+    },
+    {
+      "surface": "כן",
+      "gloss": "એટલે"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "હું"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "તને આજ્ઞા કરું છું"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "કે"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ત્રણ"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "નગરો"
+    },
+    {
+      "surface": "תבדיל",
+      "gloss": "અલગ કરીશ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "તારા માટે"
+    }
+  ],
+  "timestamp": "2026-08-21T12:23:47.880643913Z",
+  "model": "glm-5.3"
+}

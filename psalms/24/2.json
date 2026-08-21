@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 24:2",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 24,
+  "translation": "કેમ કે તેણે ⟨her⟩ સમુદ્રો પર તેનો પાયો નાખ્યો, અને નદીઓ પર તેણે તેને સ્થિર કરી.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "કેમ કે"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "તેણે"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "સમુદ્રો"
+    },
+    {
+      "surface": "יסדה",
+      "gloss": "પાયો નાખ્યો"
+    },
+    {
+      "surface": "ו�¢על",
+      "gloss": "અને…પર"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "નદીઓ"
+    },
+    {
+      "surface": "יכוננה",
+      "gloss": "સ્થિર કરી"
+    }
+  ],
+  "timestamp": "2026-08-21T16:17:15.843595526Z",
+  "model": "glm-5.3"
+}

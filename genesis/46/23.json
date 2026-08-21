@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 46:23",
+  "book": "genesis",
+  "lang": "gu",
+  "chapter": 46,
+  "translation": "અને દાનનાં પુત્રો: હુશિમ.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "અને …નાં પુત્રો"
+    },
+    {
+      "surface": "דן",
+      "gloss": "દાન"
+    },
+    {
+      "surface": "חשים",
+      "gloss": "હુશિમ"
+    }
+  ],
+  "timestamp": "2026-08-21T11:02:09.565744759Z",
+  "model": "glm-5.3"
+}

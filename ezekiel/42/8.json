@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 42:8",
+  "book": "ezekiel",
+  "lang": "gu",
+  "chapter": 42,
+  "translation": "કેમ કે બહારના આંગણા તરફની કક્ષોની લંબાઈ પચાસ હાત ⟨હતી⟩, અને હાં, મંદિરના સામે સો હાથ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "કેમ કે"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "લંબાઈ"
+    },
+    {
+      "surface": "הלשכות",
+      "gloss": "કક્ષોની"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જે"
+    },
+    {
+      "surface": "לחצר",
+      "gloss": "આંગણા તરફની"
+    },
+    {
+      "surface": "החצונה",
+      "gloss": "બહારના"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "પચાસ"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "હાથ"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "અને હાં"
+    },
+    {
+      "surface": "על",
+      "gloss": "…ના"
+    },
+    {
+      "surface": "פני",
+      "gloss": "સામે"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "મંદિરના"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "સો"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "હાથ"
+    }
+  ],
+  "timestamp": "2026-08-21T15:40:54.392921634Z",
+  "model": "glm-5.3"
+}

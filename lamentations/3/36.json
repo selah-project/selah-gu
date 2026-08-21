@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "lamentations 3:36",
+  "book": "lamentations",
+  "lang": "gu",
+  "chapter": 3,
+  "translation": "માણસને તેના કેસમાં અધર્મ કરવા — એ અદોનાય જુએ છે નહિ.",
+  "tokens": [
+    {
+      "surface": "לעות",
+      "gloss": "અધર્મ કરવા"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "માણસને"
+    },
+    {
+      "surface": "בריבו",
+      "gloss": "તેના કેસમાં"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "અદોનાય"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નહિ"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "જુએ છે"
+    }
+  ],
+  "timestamp": "2026-08-21T17:26:10.428983061Z",
+  "model": "glm-5.3"
+}

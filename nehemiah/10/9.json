@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "nehemiah 10:9",
+  "book": "nehemiah",
+  "lang": "gu",
+  "chapter": 10,
+  "translation": "માઅઝયાહ, બિલ્ગાય, શેમાયાહ — આ ⟨હતા⟩ કોહેનો.",
+  "tokens": [
+    {
+      "surface": "מעזיה",
+      "gloss": "માઅઝયાહ"
+    },
+    {
+      "surface": "בלגי",
+      "gloss": "બિલ્ગાય"
+    },
+    {
+      "surface": "שמעיה",
+      "gloss": "શેમાયાહ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "આ"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "કોહેનો"
+    }
+  ],
+  "timestamp": "2026-08-21T17:56:41.536887080Z",
+  "model": "glm-5.3"
+}

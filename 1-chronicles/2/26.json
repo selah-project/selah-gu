@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 2:26",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 2,
+  "translation": "અને યરખમ્એલ પાસે બીજી સ્ત્રી ⟨હતી⟩, તેનું નામ અતારાહ; તે ⟨એ⟩ ઓનામની માતા ⟨હતી⟩.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "અને … હતી"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "સ્ત્રી"
+    },
+    {
+      "surface": "אחרת",
+      "gloss": "બીજી"
+    },
+    {
+      "surface": "לירחמאל",
+      "gloss": "યરખમ્એલ પાસે"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "તેનું નામ"
+    },
+    {
+      "surface": "עטרה",
+      "gloss": "અતારાહ"
+    },
+    {
+      "surface": "היא",
+      "gloss": "તે"
+    },
+    {
+      "surface": "אם",
+      "gloss": "માતા"
+    },
+    {
+      "surface": "אונם",
+      "gloss": "ઓનામ"
+    }
+  ],
+  "timestamp": "2026-08-21T17:59:36.076881534Z",
+  "model": "glm-5.3"
+}

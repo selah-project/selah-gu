@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 25:15",
+  "book": "exodus",
+  "lang": "gu",
+  "chapter": 25,
+  "translation": "સંદૂકનાં વળાંકોમાં દાંડાઓ રહેશે; તેઓ તેની પાસેથી દૂર ન થશે.",
+  "tokens": [
+    {
+      "surface": "בטבעת",
+      "gloss": "વળાંકોમાં"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "સંદૂકનાં"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "રહેશે"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "દાંડાઓ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ન"
+    },
+    {
+      "surface": "יסרו",
+      "gloss": "દૂર થશે"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "તેની પાસેથી"
+    }
+  ],
+  "timestamp": "2026-08-21T11:19:35.446186428Z",
+  "model": "glm-5.3"
+}

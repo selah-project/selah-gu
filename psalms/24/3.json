@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 24:3",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 24,
+  "translation": "કોણ યાહવેના પર્વત પર ચઢશે? અને કોણ તેના પવિત્ર સ્થાનમાં ઊભું રહેશે?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "કોણ"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "ચઢશે"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "પર્વત પર"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવેના"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "અને કોણ"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "ઊભું રહેશે"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "સ્થાનમાં"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "તેના પવિત્ર"
+    }
+  ],
+  "timestamp": "2026-08-21T16:17:15.843763435Z",
+  "model": "glm-5.3"
+}

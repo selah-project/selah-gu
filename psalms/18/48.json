@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "psalms 18:48",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 18,
+  "translation": "એલ ⟨એ⟩ જે મને પ્રતિશોધ આપે છે અને પ્રજાઓને મારા તળિયે દબાવે છે.",
+  "tokens": [
+    {
+      "surface": "האל",
+      "gloss": "એલ"
+    },
+    {
+      "surface": "הנותן",
+      "gloss": "જે આપે છે"
+    },
+    {
+      "surface": "נקמות",
+      "gloss": "પ્રતિશોધ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "મને"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "અને દબાવે છે"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "પ્રજાઓને"
+    },
+    {
+      "surface": "תחתי",
+      "gloss": "મારા તળિયે"
+    }
+  ],
+  "timestamp": "2026-08-21T16:14:27.416258011Z",
+  "model": "glm-5.3"
+}

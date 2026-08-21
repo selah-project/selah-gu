@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "deuteronomy 32:33",
+  "book": "deuteronomy",
+  "lang": "gu",
+  "chapter": 32,
+  "translation": "તેમનો દ્રાક્ષારસ સમુદ્ર-સર્પોનું ઝેર ⟨છે⟩, અને અણસાંનું ક્રૂર ઝેર.",
+  "tokens": [
+    {
+      "surface": "חמת",
+      "gloss": "ઝેર"
+    },
+    {
+      "surface": "תנינם",
+      "gloss": "સમુદ્ર-સર્પોનું"
+    },
+    {
+      "surface": "יינם",
+      "gloss": "તેમનો દ્રાક્ષારસ"
+    },
+    {
+      "surface": "וראש",
+      "gloss": "અને ઝેર"
+    },
+    {
+      "surface": "פתנים",
+      "gloss": "અણસાંનું"
+    },
+    {
+      "surface": "אכזר",
+      "gloss": "ક્રૂર"
+    }
+  ],
+  "timestamp": "2026-08-21T12:30:55.897746612Z",
+  "model": "glm-5.3"
+}

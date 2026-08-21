@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 38:21",
+  "book": "jeremiah",
+  "lang": "gu",
+  "chapter": 38,
+  "translation": "અને જો તું બહાર જવાનો ઇનકાર કરશે, તો આ એ ⟨the⟩ વાત છે ⟨જે⟩ યાહવેએ મને બતાવી છે.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "અને જો"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "ઇનકાર કરશે"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "તું"
+    },
+    {
+      "surface": "לצאת",
+      "gloss": "બહાર જવાનો"
+    },
+    {
+      "surface": "זה",
+      "gloss": "આ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "વાત"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જે"
+    },
+    {
+      "surface": "הראני",
+      "gloss": "મને બતાવી છે"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    }
+  ],
+  "timestamp": "2026-08-21T15:08:13.364982492Z",
+  "model": "glm-5.3"
+}

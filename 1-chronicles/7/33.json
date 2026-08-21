@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-chronicles 7:33",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 7,
+  "translation": "અને યાફ્લેતના પુત્રો: પાસાખ, અને વિમ્હાલ, અને અશ્વાત; આ યાફ્લેતના પુત્રો ⟨હતા⟩.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "અને પુત્રો"
+    },
+    {
+      "surface": "יפלט",
+      "gloss": "યાફ્લેત"
+    },
+    {
+      "surface": "פסך",
+      "gloss": "પાસાખ"
+    },
+    {
+      "surface": "ובמהל",
+      "gloss": "અને વિમ્હાલ"
+    },
+    {
+      "surface": "ועשות",
+      "gloss": "અને અશ્વાત"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "આ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "יפלט",
+      "gloss": "યાફ્લેત"
+    }
+  ],
+  "timestamp": "2026-08-21T18:03:06.207131981Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 22:20",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 22,
+  "translation": "પણ તમે, હે યાહવે, દૂર ન રહો; હે મારી શક્તિ, મારી મદદે ઝડપથી આવો.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "પણ તમે"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "હે યાહવે"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ન"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "દૂર રહો"
+    },
+    {
+      "surface": "אילותי",
+      "gloss": "હે મારી શક્તિ"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "મારી મદદે"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "ઝડપથી આવો"
+    }
+  ],
+  "timestamp": "2026-08-21T16:15:16.786238665Z",
+  "model": "glm-5.3"
+}

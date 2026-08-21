@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 3:7",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 3,
+  "translation": "હું ડરશ નહીં — લાખો લોકોથી, જે ⟨લોકો⟩ ચારે બાજુ મારી સામે ગોઠવાયા છે.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "હું ડરશ"
+    },
+    {
+      "surface": "מרבבות",
+      "gloss": "લાખો થી"
+    },
+    {
+      "surface": "עם",
+      "gloss": "લોકો"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જે"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ચારે બાજુ"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "ગોઠવાયા છે"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "મારી સામે"
+    }
+  ],
+  "timestamp": "2026-08-21T16:09:39.942049781Z",
+  "model": "glm-5.3"
+}

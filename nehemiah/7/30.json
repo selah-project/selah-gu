@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "nehemiah 7:30",
+  "book": "nehemiah",
+  "lang": "gu",
+  "chapter": 7,
+  "translation": "રામા અને ગબાના માણસો — છાસો એકવીસ.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "માણસો"
+    },
+    {
+      "surface": "הרמה",
+      "gloss": "રામા"
+    },
+    {
+      "surface": "וגבע",
+      "gloss": "અને ગબા"
+    },
+    {
+      "surface": "שש",
+      "gloss": "છ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "સો"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "એકવીસ"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "…એક (એકવીસ પૂર્ણ)"
+    }
+  ],
+  "timestamp": "2026-08-21T17:55:12.455090500Z",
+  "model": "glm-5.3"
+}

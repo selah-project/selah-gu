@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 18:4",
+  "book": "genesis",
+  "lang": "gu",
+  "chapter": 18,
+  "translation": "મૂકો ના થોડું પાણી લવાય, અને તમારાં પગ ધોઈ લો, અને વૃક્ષ નીચે ટેકો લો.",
+  "tokens": [
+    {
+      "surface": "יקח",
+      "gloss": "લવાય"
+    },
+    {
+      "surface": "נא",
+      "gloss": "મૂકો ના"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "થોડું"
+    },
+    {
+      "surface": "מים",
+      "gloss": "પાણી"
+    },
+    {
+      "surface": "ורחצו",
+      "gloss": "અને ધોઈ લો"
+    },
+    {
+      "surface": "רגליכם",
+      "gloss": "તમારાં પગ"
+    },
+    {
+      "surface": "והשענו",
+      "gloss": "અને ટેકો લો"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "નીચે"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "વૃક્ષ"
+    }
+  ],
+  "timestamp": "2026-08-21T18:33:59.306453185Z",
+  "model": "glm-5.3"
+}

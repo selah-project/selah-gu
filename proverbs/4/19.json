@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 4:19",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 4,
+  "translation": "દુષ્ટોનો માર્ગ ઘોર અંધકાર જેવો છે; તેઓ જાણતા નથી કે શામાં તેઓ ઠેકડા ખાશે.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "માર્ગ"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "દુષ્ટોનો"
+    },
+    {
+      "surface": "כאפלה",
+      "gloss": "ઘોર અંધકાર જેવો"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નથી"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "જાણતા"
+    },
+    {
+      "surface": "במה",
+      "gloss": "શામાં"
+    },
+    {
+      "surface": "יכשלו",
+      "gloss": "ઠેકડા ખાશે"
+    }
+  ],
+  "timestamp": "2026-08-21T16:51:25.701632214Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 30:20",
+  "book": "2-chronicles",
+  "lang": "gu",
+  "chapter": 30,
+  "translation": "અને યાહવેએ હિઝકિયાને ⟨સાંભળ્યો⟩ અને ⟨את⟩ પ્રજાને સાજા કરી.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "અને સાંભળ્યું"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવેએ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ને"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "હિઝકિયા"
+    },
+    {
+      "surface": "וירפא",
+      "gloss": "અને સાજા કરી"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "પ્રજા"
+    },
+    {
+      "surface": "העם",
+      "gloss": "પ્રજા"
+    }
+  ],
+  "timestamp": "2026-08-21T18:30:04.046284717Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 16:24",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 16,
+  "translation": "સભા સાથે વાત કર, કહેતા: કોરાખ, દાતાન અને અવીરામના નિવાસની આસપાસથી ઊપડો.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "વાત કર"
+    },
+    {
+      "surface": "אל",
+      "gloss": "સાથે"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "સભા"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "કહેતા"
+    },
+    {
+      "surface": "העלו",
+      "gloss": "ઊપડો"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "આસપાસથી"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "નિવાસની"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "કોરાખ"
+    },
+    {
+      "surface": "דתן",
+      "gloss": "દાતાન"
+    },
+    {
+      "surface": "ואבירם",
+      "gloss": "અને અવીરામ"
+    }
+  ],
+  "timestamp": "2026-08-21T11:58:26.658385736Z",
+  "model": "glm-5.3"
+}

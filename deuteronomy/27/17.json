@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 27:17",
+  "book": "deuteronomy",
+  "lang": "gu",
+  "chapter": 27,
+  "translation": "શાપિત ⟨છે⟩ તે જે ⟨את⟩ પોતાના નાતી-પડોશીની સીમા ખસેડે; અને આખા પ્રજાએ કહેવું: આમેન.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "શાપિત"
+    },
+    {
+      "surface": "מסיג",
+      "gloss": "ખસેડે"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "સીમા"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "પોતાના નાતી-પડોશીની"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "અને કહેવું"
+    },
+    {
+      "surface": "כל",
+      "gloss": "આખા"
+    },
+    {
+      "surface": "העם",
+      "gloss": "પ્રજાએ"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "આમેન"
+    }
+  ],
+  "timestamp": "2026-08-21T12:27:09.115186454Z",
+  "model": "glm-5.3"
+}

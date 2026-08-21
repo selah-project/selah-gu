@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 8:22",
+  "book": "jeremiah",
+  "lang": "gu",
+  "chapter": 8,
+  "translation": "શું ગિલઅદમાં ગોંદ-રસ નથી? શું ત્યાં વૈદ્ય નથી? કારણ કે મારા પ્રજાની પુત્રીની સાજા કેમ ઊપડી નથી?",
+  "tokens": [
+    {
+      "surface": "הצרי",
+      "gloss": "ગોંદ-રસ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "નથી"
+    },
+    {
+      "surface": "בגלעד",
+      "gloss": "ગિલઅદમાં"
+    },
+    {
+      "surface": "אם",
+      "gloss": "શું"
+    },
+    {
+      "surface": "רפא",
+      "gloss": "વૈદ્ય"
+    },
+    {
+      "surface": "אין",
+      "gloss": "નથી"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ત્યાં"
+    },
+    {
+      "surface": "כי",
+      "gloss": "કારણ કે"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "કેમ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નથી"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "ઊપડી"
+    },
+    {
+      "surface": "ארכת",
+      "gloss": "સાજા"
+    },
+    {
+      "surface": "בת",
+      "gloss": "પુત્રી"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "મારા પ્રજાની"
+    }
+  ],
+  "timestamp": "2026-08-21T14:48:42.026319458Z",
+  "model": "glm-5.3"
+}

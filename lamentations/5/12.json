@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "lamentations 5:12",
+  "book": "lamentations",
+  "lang": "gu",
+  "chapter": 5,
+  "translation": "સરદારો તેમના હાથે લટકાવી દેવામાં આવ્યા; વડીલોનાં ચહેરાને માન ન મળ્યું.",
+  "tokens": [
+    {
+      "surface": "שרים",
+      "gloss": "સરદારો"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "તેમના હાથે"
+    },
+    {
+      "surface": "נתלו",
+      "gloss": "લટકાવી દેવામાં આવ્યા"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ચહેરાનાં"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "વડીલો"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ન"
+    },
+    {
+      "surface": "נהדרו",
+      "gloss": "માન મળ્યું"
+    }
+  ],
+  "timestamp": "2026-08-21T17:28:24.438439562Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 128:6",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 128,
+  "translation": "અને તું પોતાનાં પુત્રોનાં પુત્રો જુએ; ઇસ્રાએલ પર શાંતિ રહે.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "અને જુએ"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "לבניך",
+      "gloss": "પોતાનાં પુત્રોનાં"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "શાંતિ"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ઇસ્રાએલ"
+    }
+  ],
+  "timestamp": "2026-08-21T16:45:51.269670604Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 32:15",
+  "book": "genesis",
+  "lang": "gu",
+  "chapter": 32,
+  "translation": "બકરીઓ બસો, અને બકરા વીસ; ઢેડીઓ બસો, અને ઘેટા વીસ.",
+  "tokens": [
+    {
+      "surface": "עזים",
+      "gloss": "બકરીઓ"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "બસો"
+    },
+    {
+      "surface": "ותישים",
+      "gloss": "અને બકરા"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "વીસ"
+    },
+    {
+      "surface": "רחלים",
+      "gloss": "ઢેડીઓ"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "બસો"
+    },
+    {
+      "surface": "ואילים",
+      "gloss": "અને ઘેટા"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "વીસ"
+    }
+  ],
+  "timestamp": "2026-08-21T10:53:22.784175742Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 1:15",
+  "book": "ecclesiastes",
+  "lang": "gu",
+  "chapter": 1,
+  "translation": "વાંકું થયેલું સીધું કરી શકાતું નથી, અને ખૂટેલું ગણી શકાતું નથી.",
+  "tokens": [
+    {
+      "surface": "מעות",
+      "gloss": "વાંકું થયેલું"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નથી"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "શકાતું"
+    },
+    {
+      "surface": "לתקן",
+      "gloss": "સીધું કરી"
+    },
+    {
+      "surface": "וחסרון",
+      "gloss": "અને ખૂટેલું"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નથી"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "શકાતું"
+    },
+    {
+      "surface": "להמנות",
+      "gloss": "ગણી"
+    }
+  ],
+  "timestamp": "2026-08-21T17:28:58.584479914Z",
+  "model": "glm-5.3"
+}

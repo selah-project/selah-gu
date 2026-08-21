@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 130:3",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 130,
+  "translation": "જો તું અધર્મોને જાળવી રાખે, હે યાહ — હે અદોનાય, કોણ ઊભું રહે?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "જો"
+    },
+    {
+      "surface": "עונות",
+      "gloss": "અધર્મો"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "તું જાળવી રાખે"
+    },
+    {
+      "surface": "יה",
+      "gloss": "યાહ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "અદોનાય"
+    },
+    {
+      "surface": "מי",
+      "gloss": "કોણ"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "ઊભું રહે"
+    }
+  ],
+  "timestamp": "2026-08-21T16:46:15.370806088Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "ezra 2:44",
+  "book": "ezra",
+  "lang": "gu",
+  "chapter": 2,
+  "translation": "કેરોસનાં પુત્રો, સિયાહાનાં પુત્રો, પદોનનાં પુત્રો.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "קרס",
+      "gloss": "કેરોસનાં"
+    },
+    {
+      "surface": "בני",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "סיעהא",
+      "gloss": "સિયાહાનાં"
+    },
+    {
+      "surface": "בני",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "פדון",
+      "gloss": "પદોનનાં"
+    }
+  ],
+  "timestamp": "2026-08-21T17:47:34.771385478Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 11:13",
+  "book": "job",
+  "lang": "gu",
+  "chapter": 11,
+  "translation": "જો તું હૃદય તૈયાર કરીશ અને તારા હાથ તેની તરફ પાથરીશ,",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "જો"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "તું"
+    },
+    {
+      "surface": "הכינות",
+      "gloss": "તૈયાર કરીશ"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "હૃદય"
+    },
+    {
+      "surface": "ופרשת",
+      "gloss": "અને પાથરીશ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "તેની તરફ"
+    },
+    {
+      "surface": "כפך",
+      "gloss": "તારા હાથ"
+    }
+  ],
+  "timestamp": "2026-08-21T17:08:14.192809441Z",
+  "model": "glm-5.3"
+}

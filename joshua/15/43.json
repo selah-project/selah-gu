@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "joshua 15:43",
+  "book": "joshua",
+  "lang": "gu",
+  "chapter": 15,
+  "translation": "અને યિફ્તાહ, અને અશ્નાહ, અને નેત્સિવ.",
+  "tokens": [
+    {
+      "surface": "ויפתח",
+      "gloss": "અને યિફ્તાહ"
+    },
+    {
+      "surface": "ואשנה",
+      "gloss": "અને અશ્નાહ"
+    },
+    {
+      "surface": "ונציב",
+      "gloss": "અને નેત્સિવ"
+    }
+  ],
+  "timestamp": "2026-08-21T12:40:21.197453576Z",
+  "model": "glm-5.3"
+}

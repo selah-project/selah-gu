@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 21:19",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 21,
+  "translation": "અને મતાનાથી નહલિએલ, અને નહલિએલથી બામોત।",
+  "tokens": [
+    {
+      "surface": "וממתנה",
+      "gloss": "અને મતાનાથી"
+    },
+    {
+      "surface": "נחליאל",
+      "gloss": "નહલિએલ"
+    },
+    {
+      "surface": "ומנחליאל",
+      "gloss": "અને નહલિએલથી"
+    },
+    {
+      "surface": "במות",
+      "gloss": "બામોત"
+    }
+  ],
+  "timestamp": "2026-08-21T12:00:41.848665178Z",
+  "model": "glm-5.3"
+}

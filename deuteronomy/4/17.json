@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 4:17",
+  "book": "deuteronomy",
+  "lang": "gu",
+  "chapter": 4,
+  "translation": "પૃથ્વી પરના કોઈપણ પશુનાં સ્વરૂપની, આકાશમાં ઉડનારા કોઈપણ પાંખવાળા પક્ષીનાં સ્વરૂપની,",
+  "tokens": [
+    {
+      "surface": "תבנית",
+      "gloss": "સ્વરૂપની"
+    },
+    {
+      "surface": "כל",
+      "gloss": "કોઈપણ"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "પશુનાં"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જે"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "પૃથ્વી પરના"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "સ્વરૂપની"
+    },
+    {
+      "surface": "כל",
+      "gloss": "કોઈપણ"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "પક્ષીનાં"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "પાંખવાળા"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જે"
+    },
+    {
+      "surface": "תעוף",
+      "gloss": "ઉડનારા"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "આકાશમાં"
+    }
+  ],
+  "timestamp": "2026-08-21T12:16:17.293505345Z",
+  "model": "glm-5.3"
+}

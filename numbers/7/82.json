@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 82,
+  "ref": "numbers 7:82",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 7,
+  "translation": "બકરીઓ પૈકીનો એક વાછરડો, પાપ-અર્પણ ⟨માટે⟩.",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "વાછરડો (બકરીનો)"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "બકરીઓ પૈકીનો"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "એક"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "પાપ-અર્પણ માટે"
+    }
+  ],
+  "timestamp": "2026-08-21T11:53:48.957940309Z",
+  "model": "glm-5.3"
+}

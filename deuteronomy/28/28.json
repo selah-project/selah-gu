@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "deuteronomy 28:28",
+  "book": "deuteronomy",
+  "lang": "gu",
+  "chapter": 28,
+  "translation": "યાહવે તને ઉન્માદ વડે, અંધતા વડે અને હૃદયના ભ્રમ (તમ્મોતા) વડે મારશે.",
+  "tokens": [
+    {
+      "surface": "יככה",
+      "gloss": "તને મારશે"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "בשגעון",
+      "gloss": "ઉન્માદ વડે"
+    },
+    {
+      "surface": "ובעורון",
+      "gloss": "અંધતા વડે"
+    },
+    {
+      "surface": "ובתמהון",
+      "gloss": "ભ્રમ વડે"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "હૃદયના"
+    }
+  ],
+  "timestamp": "2026-08-21T12:27:31.670943423Z",
+  "model": "glm-5.3"
+}

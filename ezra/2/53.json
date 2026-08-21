@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "ezra 2:53",
+  "book": "ezra",
+  "lang": "gu",
+  "chapter": 2,
+  "translation": "બરકોસના પુત્રો, સીસરાના પુત્રો, તમાખના પુત્રો.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "ברקוס",
+      "gloss": "બરકોસ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "סיסרא",
+      "gloss": "સીસરા"
+    },
+    {
+      "surface": "בני",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "תמח",
+      "gloss": "તમાખ"
+    }
+  ],
+  "timestamp": "2026-08-21T17:47:32.141956912Z",
+  "model": "glm-5.3"
+}

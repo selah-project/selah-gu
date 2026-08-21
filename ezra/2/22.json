@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ezra 2:22",
+  "book": "ezra",
+  "lang": "gu",
+  "chapter": 2,
+  "translation": "નેતોફાહના માણસો, પચાસ અને છ.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "માણસો"
+    },
+    {
+      "surface": "נטפה",
+      "gloss": "નેતોફાહ"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "પચાસ"
+    },
+    {
+      "surface": "וששה",
+      "gloss": "અને છ"
+    }
+  ],
+  "timestamp": "2026-08-21T17:45:04.012422432Z",
+  "model": "glm-5.3"
+}

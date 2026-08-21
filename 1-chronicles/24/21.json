@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 24:21",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 24,
+  "translation": "રહબ્યાહુ માટે — રહબ્યાહુના પુત્રો માટે: વડલો યિશ્શીયાહ.",
+  "tokens": [
+    {
+      "surface": "לרחביהו",
+      "gloss": "રહબ્યાહુ માટે"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "પુત્રો માટે"
+    },
+    {
+      "surface": "רחביהו",
+      "gloss": "રહબ્યાહુના"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "વડલો"
+    },
+    {
+      "surface": "ישיה",
+      "gloss": "યિશ્શીયાહ"
+    }
+  ],
+  "timestamp": "2026-08-21T18:10:46.911413068Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "nehemiah 7:41",
+  "book": "nehemiah",
+  "lang": "gu",
+  "chapter": 7,
+  "translation": "પશ્ખુરના પુત્રો: એક હજાર બસો ચાલીસ અને સાત.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "פשחור",
+      "gloss": "પશ્ખુર"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "એક હજાર"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "બસો"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "ચાલીસ"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "અને સાત"
+    }
+  ],
+  "timestamp": "2026-08-21T17:54:59.368489900Z",
+  "model": "glm-5.3"
+}

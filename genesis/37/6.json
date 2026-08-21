@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 37:6",
+  "book": "genesis",
+  "lang": "gu",
+  "chapter": 37,
+  "translation": "અને તેણે તેઓને કહ્યું: સાંભળો મારી વિનંતી, ⟨the⟩ આ સ્વપ્ન જે મેં સ્વપ્નાયું છે.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "અને તેણે કહ્યું"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "તેઓને"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "સાંભળો"
+    },
+    {
+      "surface": "נא",
+      "gloss": "મારી વિનંતી"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "⟨the⟩ સ્વપ્ન"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "આ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જે"
+    },
+    {
+      "surface": "חלמתי",
+      "gloss": "મેં સ્વપ્નાયું છે"
+    }
+  ],
+  "timestamp": "2026-08-21T10:57:19.797042363Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 7:4",
+  "book": "jeremiah",
+  "lang": "gu",
+  "chapter": 7,
+  "translation": "ખોટા વચનો પર ભરોસો ન રાખતા કહેતા: યાહવેનું મંદિર, યાહવેનું મંદિર, યાહવેનું મંદિર — એ ⟨જ આ છે⟩.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ન"
+    },
+    {
+      "surface": "תבטחו",
+      "gloss": "ભરોસો રાખો"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "તમારા માટે"
+    },
+    {
+      "surface": "אל",
+      "gloss": "પર"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "વચનો"
+    },
+    {
+      "surface": "השקר",
+      "gloss": "ખોટા"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "કહેતા"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "મંદિર"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવેનું"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "મંદિર"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવેનું"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "મંદિર"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવેનું"
+    },
+    {
+      "surface": "המה",
+      "gloss": "એ છે"
+    }
+  ],
+  "timestamp": "2026-08-21T14:48:06.927373735Z",
+  "model": "glm-5.3"
+}

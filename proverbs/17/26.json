@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 17:26",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 17,
+  "translation": "પણ ન્યાયીને દંડ કરવો સારું નથી, સાચાઈને કારણે મહાનુભાવોને મારવું.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "પણ"
+    },
+    {
+      "surface": "ענוש",
+      "gloss": "દંડ કરવો"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "ન્યાયીને"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નથી"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "સારું"
+    },
+    {
+      "surface": "להכות",
+      "gloss": "મારવું"
+    },
+    {
+      "surface": "נדיבים",
+      "gloss": "મહાનુભાવોને"
+    },
+    {
+      "surface": "על",
+      "gloss": "ને કારણે"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "સાચાઈ"
+    }
+  ],
+  "timestamp": "2026-08-21T16:58:08.530459006Z",
+  "model": "glm-5.3"
+}

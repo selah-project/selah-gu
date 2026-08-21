@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 11:14",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 11,
+  "translation": "માર્ગદર્શન વિના પ્રજા પડી જાય છે, અને ઘણા સલાહકારોમાં છૂટકારો ⟨છે⟩.",
+  "tokens": [
+    {
+      "surface": "באין",
+      "gloss": "વિના"
+    },
+    {
+      "surface": "תחבלות",
+      "gloss": "માર્ગદર્શન"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "પડી જાય છે"
+    },
+    {
+      "surface": "עם",
+      "gloss": "પ્રજા"
+    },
+    {
+      "surface": "ותשועה",
+      "gloss": "અને છૂટકારો"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "ઘણામાં"
+    },
+    {
+      "surface": "יועץ",
+      "gloss": "સલાહકારો"
+    }
+  ],
+  "timestamp": "2026-08-21T16:56:23.992041467Z",
+  "model": "glm-5.3"
+}

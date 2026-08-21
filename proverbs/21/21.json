@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 21:21",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 21,
+  "translation": "ન્યાય અને હેસેદનો પીછો કરનાર જીવન, ન્યાય અને માન શોધી લેશે.",
+  "tokens": [
+    {
+      "surface": "רדף",
+      "gloss": "પીછો કરનાર"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "ન્યાય"
+    },
+    {
+      "surface": "וחסד",
+      "gloss": "અને હેસેદ"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "શોધી લેશે"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "જીવન"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "ન્યાય"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "અને માન"
+    }
+  ],
+  "timestamp": "2026-08-21T18:59:19.580738170Z",
+  "model": "glm-5.3"
+}

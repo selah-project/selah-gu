@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 1:8",
+  "book": "leviticus",
+  "lang": "gu",
+  "chapter": 1,
+  "translation": "અને અહરોનના પુત્રો યાજકો ⟨את⟩ ટુકડાઓ, ⟨את⟩ માથું અને ⟨את⟩ ચરબી એ કાઠ પર ગોઠવશે જે અગ્નિ પર છે જે વેદી પર છે.",
+  "tokens": [
+    {
+      "surface": "וערכו",
+      "gloss": "અને ગોઠવશે"
+    },
+    {
+      "surface": "בני",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "અહરોનના"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "યાજકો"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ટુકડાઓ"
+    },
+    {
+      "surface": "הנתחים",
+      "gloss": "ટુકડાઓ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "માથું"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "માથું"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "અને ⟨את⟩",
+      "marks": "ચરબી"
+    },
+    {
+      "surface": "הפדר",
+      "gloss": "ચરબી"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "કાઠ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જે"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "האש",
+      "gloss": "אગ્નિ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જે"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "વેદી"
+    }
+  ],
+  "timestamp": "2026-08-21T11:29:19.216401535Z",
+  "model": "glm-5.3"
+}

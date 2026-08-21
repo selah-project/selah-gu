@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "daniel 6:10",
+  "book": "daniel",
+  "lang": "gu",
+  "chapter": 6,
+  "translation": "તેને કારણે રાજા દાર્યાવેશે ⟨the⟩ લેખ અને ⟨the⟩ પ્રતિબંધ પર હસ્તાક્ષર કર્યા.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "તેને કારણે"
+    },
+    {
+      "surface": "קבל",
+      "gloss": "પ્રમાણે"
+    },
+    {
+      "surface": "דנה",
+      "gloss": "આ"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "રાજા"
+    },
+    {
+      "surface": "דריוש",
+      "gloss": "દાર્યાવેશ"
+    },
+    {
+      "surface": "רשם",
+      "gloss": "હસ્તાક્ષર કર્યા"
+    },
+    {
+      "surface": "כתבא",
+      "gloss": "લેખ"
+    },
+    {
+      "surface": "ואסרא",
+      "gloss": "અને પ્રતિબંધ"
+    }
+  ],
+  "timestamp": "2026-08-21T17:42:36.619178615Z",
+  "model": "glm-5.3"
+}

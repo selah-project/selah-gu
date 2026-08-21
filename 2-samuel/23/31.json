@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "2-samuel 23:31",
+  "book": "2-samuel",
+  "lang": "gu",
+  "chapter": 23,
+  "translation": "અબી-અલ્બોન અરાબાથી; અઝમાવેત બર્હુમી,",
+  "tokens": [
+    {
+      "surface": "אבי",
+      "gloss": "અબી-"
+    },
+    {
+      "surface": "עלבון",
+      "gloss": "અલ્બોન"
+    },
+    {
+      "surface": "הערבתי",
+      "gloss": "અરાબાથી"
+    },
+    {
+      "surface": "עזמות",
+      "gloss": "અઝમાવેત"
+    },
+    {
+      "surface": "הברחמי",
+      "gloss": "બર્હુમી"
+    }
+  ],
+  "timestamp": "2026-08-21T13:34:08.446903461Z",
+  "model": "glm-5.3"
+}

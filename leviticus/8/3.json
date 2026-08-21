@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 8:3",
+  "book": "leviticus",
+  "lang": "gu",
+  "chapter": 8,
+  "translation": "અને ⟨את⟩ સમગ્ર સભાને મુલાકાતના તંબુના પ્રવેશદ્વાર પાસે એકઠા કર.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "અને ⟨את⟩",
+      "marks": "સમગ્ર સભાને"
+    },
+    {
+      "surface": "כל",
+      "gloss": "સમગ્ર"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "સભાને"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "એકઠા કર"
+    },
+    {
+      "surface": "אל",
+      "gloss": "પાસે"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "પ્રવેશદ્વાર"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "તંબુના"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "મુલાકાતના"
+    }
+  ],
+  "timestamp": "2026-08-21T11:32:43.922785571Z",
+  "model": "glm-5.3"
+}

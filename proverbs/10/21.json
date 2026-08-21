@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 10:21",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 10,
+  "translation": "ન્યાયીના હોઠ ઘણાંને ચરાવે છે, અને મૂર્ખો હૃદયના અભાવથી મરશે.",
+  "tokens": [
+    {
+      "surface": "שפתי",
+      "gloss": "હોઠ"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ન્યાયીના"
+    },
+    {
+      "surface": "ירעו",
+      "gloss": "ચરાવે છે"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ઘણાંને"
+    },
+    {
+      "surface": "ואוילים",
+      "gloss": "અને મૂર્ખો"
+    },
+    {
+      "surface": "בחסר",
+      "gloss": "અભાવથી"
+    },
+    {
+      "surface": "לב",
+      "gloss": "હૃદયના"
+    },
+    {
+      "surface": "ימותו",
+      "gloss": "મરશે"
+    }
+  ],
+  "timestamp": "2026-08-21T16:55:21.438201736Z",
+  "model": "glm-5.3"
+}

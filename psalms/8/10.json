@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 8:10",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 8,
+  "translation": "યાહવે, અમારા અદોનાય, તમારું નામ આખી પૃથ્વી પર કેટલું ભવ્ય ⟨છે⟩!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "אדנינו",
+      "gloss": "અમારા અદોનાય"
+    },
+    {
+      "surface": "מה",
+      "gloss": "કેટલું"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "ભવ્ય"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "તમારું નામ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "આખી…પર"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "પૃથ્વી"
+    }
+  ],
+  "timestamp": "2026-08-21T18:55:08.037810542Z",
+  "model": "glm-5.3"
+}

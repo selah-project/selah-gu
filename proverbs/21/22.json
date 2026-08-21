@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 21:22",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 21,
+  "translation": "બળવાનોનાં નગર ઉપર ચઢે છે જ્ઞાની, અને તેના ભરોસાનું બળ ઊતારી નાખે છે.",
+  "tokens": [
+    {
+      "surface": "עיר",
+      "gloss": "નગર"
+    },
+    {
+      "surface": "גברים",
+      "gloss": "બળવાનોનાં"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "ઉપર ચઢે છે"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "જ્ઞાની"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "અને ઊતારી નાખે છે"
+    },
+    {
+      "surface": "עז",
+      "gloss": "બળ"
+    },
+    {
+      "surface": "מבטחה",
+      "gloss": "તેના ભરોસાનું"
+    }
+  ],
+  "timestamp": "2026-08-21T18:59:19.580988701Z",
+  "model": "glm-5.3"
+}

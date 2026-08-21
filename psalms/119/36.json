@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 119:36",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 119,
+  "translation": "મારું હૃદય તારી સાક્ષીઓ તરફ ઝુકાવ, અને અન્યાયી લાભ તરફ નહીં.",
+  "tokens": [
+    {
+      "surface": "הט",
+      "gloss": "ઝુકાવ"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "મારું હૃદય"
+    },
+    {
+      "surface": "אל",
+      "gloss": "તરફ"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "તારી સાક્ષીઓ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "અને…નહીં"
+    },
+    {
+      "surface": "אל",
+      "gloss": "તરફ"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "અન્યાયી લાભ"
+    }
+  ],
+  "timestamp": "2026-08-21T16:42:43.362009075Z",
+  "model": "glm-5.3"
+}

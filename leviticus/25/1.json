@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 25:1",
+  "book": "leviticus",
+  "lang": "gu",
+  "chapter": 25,
+  "translation": "અને યાહવેએ સીનાય પર્વત પર મોશેને કહ્યું, કે,",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "અને…કહ્યું"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "אל",
+      "gloss": "પ્રતિ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "મોશેને"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "પર્વત પર"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "સીનાય"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "કે"
+    }
+  ],
+  "timestamp": "2026-08-21T11:45:44.373825825Z",
+  "model": "glm-5.3"
+}

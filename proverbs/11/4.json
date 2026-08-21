@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 11:4",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 11,
+  "translation": "ક્રોધના દિવસે ધન ઉપયોગી નહીં થાય, પણ નીતિસરતા મૃત્યુમાંથી છોડાવશે.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "יועיל",
+      "gloss": "ઉપયોગી થાય"
+    },
+    {
+      "surface": "הון",
+      "gloss": "ધન"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "દિવસે"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "ક્રોધના"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "પણ નીતિસરતા"
+    },
+    {
+      "surface": "תציל",
+      "gloss": "છોડાવશે"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "મૃત્યુમાંથી"
+    }
+  ],
+  "timestamp": "2026-08-21T16:56:13.636469316Z",
+  "model": "glm-5.3"
+}

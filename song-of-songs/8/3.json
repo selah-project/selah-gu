@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 8:3",
+  "book": "song-of-songs",
+  "lang": "gu",
+  "chapter": 8,
+  "translation": "તેનો ડાબો હાથ ⟨છે⟩ મારા મસ્તક નીચે, અને તેનો જમણો હાથ મને આલિંગે છે.",
+  "tokens": [
+    {
+      "surface": "שמאלו",
+      "gloss": "તેનો ડાબો હાથ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "નીચે"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "મારા મસ્તક"
+    },
+    {
+      "surface": "וימינו",
+      "gloss": "અને તેનો જમણો હાથ"
+    },
+    {
+      "surface": "תחבקני",
+      "gloss": "મને આલિંગે છે"
+    }
+  ],
+  "timestamp": "2026-08-21T17:23:20.663254825Z",
+  "model": "glm-5.3"
+}

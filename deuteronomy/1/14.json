@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 1:14",
+  "book": "deuteronomy",
+  "lang": "gu",
+  "chapter": 1,
+  "translation": "અને તમે મને ⟨את⟩ ઉત્તર આપી કહ્યું: જે કાર્ય તમે કરવા માટે કહ્યું તે સારું છે.",
+  "tokens": [
+    {
+      "surface": "ותענו",
+      "gloss": "અને તમે ઉત્તર આપી"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "મને"
+    },
+    {
+      "surface": "ותאמרו",
+      "gloss": "અને કહ્યું"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "સારું છે"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "જે કાર્ય"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જે"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "તમે કહ્યું"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "કરવા માટે"
+    }
+  ],
+  "timestamp": "2026-08-21T12:13:38.912563860Z",
+  "model": "glm-5.3"
+}

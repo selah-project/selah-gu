@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 8:1",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 8,
+  "translation": "શું જ્ઞાન પોકારતું નથી, અને સમજ પોતાનો અવાજ આપે ⟨છે⟩?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "શું...નથી"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "જ્ઞાન"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "પોકારતું"
+    },
+    {
+      "surface": "ותבונה",
+      "gloss": "અને સમજ"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "આપે"
+    },
+    {
+      "surface": "קולה",
+      "gloss": "પોતાનો અવાજ"
+    }
+  ],
+  "timestamp": "2026-08-21T16:54:31.193525968Z",
+  "model": "glm-5.3"
+}

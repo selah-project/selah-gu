@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 64:8",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 64,
+  "translation": "પણ એલોહીમ તેમના પર તીર મારશે; અચાનક તેમના ઘા થઈ જશે.",
+  "tokens": [
+    {
+      "surface": "וירם",
+      "gloss": "મારશે"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "એલોહીમ"
+    },
+    {
+      "surface": "חץ",
+      "gloss": "તીર"
+    },
+    {
+      "surface": "פתאום",
+      "gloss": "અચાનક"
+    },
+    {
+      "surface": "היו",
+      "gloss": "થઈ જશે"
+    },
+    {
+      "surface": "מכותם",
+      "gloss": "તેમના ઘા"
+    }
+  ],
+  "timestamp": "2026-08-21T16:27:51.264429196Z",
+  "model": "glm-5.3"
+}

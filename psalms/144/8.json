@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 144:8",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 144,
+  "translation": "જેમનું મુખ છળ બોલે છે, અને તેમનો જમણો હાથ જમણો હાથ ⟨છે⟩ જૂઠનો.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "જેમનું"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "મુખ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "બોલે છે"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "છળ"
+    },
+    {
+      "surface": "וימינם",
+      "gloss": "અને તેમનો જમણો હાથ"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "જમણો હાથ"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "જૂઠનો"
+    }
+  ],
+  "timestamp": "2026-08-21T16:50:03.638578864Z",
+  "model": "glm-5.3"
+}

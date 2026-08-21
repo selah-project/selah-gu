@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 99:3",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 99,
+  "translation": "તેઓ તમારા નામની સ્તુતિ કરે — મહાન અને ભયસ્થાનક; પવિત્ર ⟨છે⟩ તે.",
+  "tokens": [
+    {
+      "surface": "יודו",
+      "gloss": "સ્તુતિ કરે"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "તમારા નામની"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "મહાન"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "ભયસ્થાનક"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "પવિત્ર"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "તે"
+    }
+  ],
+  "timestamp": "2026-08-21T16:38:22.020357009Z",
+  "model": "glm-5.3"
+}

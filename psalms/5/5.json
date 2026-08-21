@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 5:5",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 5,
+  "translation": "કેમ કે તમે રશાથી પ્રસન્ન થતા એલ નથી; રા તમારી પાસે વસશે નહીં.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "કેમ કે"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નથી"
+    },
+    {
+      "surface": "אל",
+      "gloss": "એલ"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "પ્રસન્ન થતા"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "રશા"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "તમે"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "יגרך",
+      "gloss": "તમારી પાસે વસશે"
+    },
+    {
+      "surface": "רע",
+      "gloss": "રા"
+    }
+  ],
+  "timestamp": "2026-08-21T16:09:58.932099693Z",
+  "model": "glm-5.3"
+}

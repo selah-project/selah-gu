@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 26:2",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 26,
+  "translation": "જેમ ભટકતી ચકલી, જેમ ઉડતો પારોડો, તેમ કારણ વિનાનો શાપ ઊતરતો નથી.",
+  "tokens": [
+    {
+      "surface": "כצפור",
+      "gloss": "જેમ ચકલી"
+    },
+    {
+      "surface": "לנוד",
+      "gloss": "ભટકવા માટે"
+    },
+    {
+      "surface": "כדרור",
+      "gloss": "જેમ પારોડો"
+    },
+    {
+      "surface": "לעוף",
+      "gloss": "ઉડવા માટે"
+    },
+    {
+      "surface": "כן",
+      "gloss": "તેમ"
+    },
+    {
+      "surface": "קללת",
+      "gloss": "શાપ"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "કારણ વિનાનો"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નથી"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "આવતો"
+    }
+  ],
+  "timestamp": "2026-08-21T17:01:41.353169824Z",
+  "model": "glm-5.3"
+}

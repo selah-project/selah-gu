@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-kings 21:28",
+  "book": "1-kings",
+  "lang": "gu",
+  "chapter": 21,
+  "translation": "અને યાહવેનો શબ્દ એલિયાહુ હતિશ્બી પાસે આવ્યો, કહેતો:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "અને આવ્યો"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "શબ્દ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવેનો"
+    },
+    {
+      "surface": "אל",
+      "gloss": "પાસે"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "એલિયાહુ"
+    },
+    {
+      "surface": "התשבי",
+      "gloss": "હતિશ્બી"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "કહેતો"
+    }
+  ],
+  "timestamp": "2026-08-21T13:52:59.203580786Z",
+  "model": "glm-5.3"
+}

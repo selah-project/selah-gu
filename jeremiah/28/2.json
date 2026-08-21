@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 28:2",
+  "book": "jeremiah",
+  "lang": "gu",
+  "chapter": 28,
+  "translation": "“સૈન્યોનો યાહવે, ઇસ્રાએલનો એલોહીમ આમ કહે છે: મેં બાવેલના રાજાની જૂલમ ⟨את⟩ તોડી નાખી છે.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "આમ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "કહે છે"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "સૈન્યોનો"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "એલોહીમ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ઇસ્રાએલનો"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "કહેતા"
+    },
+    {
+      "surface": "שברתי",
+      "gloss": "મેં તોડી નાખી છે"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "જૂલમ"
+    },
+    {
+      "surface": "על",
+      "gloss": "જૂલમ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "રાજાની"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "બાવેલના"
+    }
+  ],
+  "timestamp": "2026-08-21T18:49:37.698283568Z",
+  "model": "glm-5.3"
+}

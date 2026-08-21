@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "ezra 2:45",
+  "book": "ezra",
+  "lang": "gu",
+  "chapter": 2,
+  "translation": "લવાનાહના પુત્રો, હાગાવાહના પુત્રો, અક્કૂબના પુત્રો,",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "લવાનાહ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "חגבה",
+      "gloss": "હાગાવાહ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "עקוב",
+      "gloss": "અક્કૂબ"
+    }
+  ],
+  "timestamp": "2026-08-21T17:47:39.495595996Z",
+  "model": "glm-5.3"
+}

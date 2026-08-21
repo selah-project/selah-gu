@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 11:39",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 11,
+  "translation": "ત્સેલેક અમ્મોની, નખરાય બેરોતી, ત્સરૂયાહના પુત્ર યોઆવના શસ્ત્ર ધારક.",
+  "tokens": [
+    {
+      "surface": "צלק",
+      "gloss": "ત્સેલેક"
+    },
+    {
+      "surface": "העמוני",
+      "gloss": "અમ્મોની"
+    },
+    {
+      "surface": "נחרי",
+      "gloss": "નખરાય"
+    },
+    {
+      "surface": "הברתי",
+      "gloss": "બેરોતી"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "ધારક"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "શસ્ત્ર"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "યોઆવ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "પુત્ર"
+    },
+    {
+      "surface": "צרויה",
+      "gloss": "ત્સરૂયાહ"
+    }
+  ],
+  "timestamp": "2026-08-21T18:04:27.978266397Z",
+  "model": "glm-5.3"
+}

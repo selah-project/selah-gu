@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 28:6",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 28,
+  "translation": "સાદગીમાં ચાલતો દરિદ્રી, પોતાની રીતોમાં વાંકડા અને ⟨છતાં⟩ ધનિક કરતાં સારો ⟨છે⟩.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "સારો"
+    },
+    {
+      "surface": "רש",
+      "gloss": "દરિદ્રી"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "ચાલતો"
+    },
+    {
+      "surface": "בתמו",
+      "gloss": "સાદગીમાં"
+    },
+    {
+      "surface": "מעקש",
+      "gloss": "વાંકડા"
+    },
+    {
+      "surface": "דרכים",
+      "gloss": "રીતોમાં"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "અને ⟨તે⟩"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "ધનિક"
+    }
+  ],
+  "timestamp": "2026-08-21T17:03:24.731369969Z",
+  "model": "glm-5.3"
+}

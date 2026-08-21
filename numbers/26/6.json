@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 26:6",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 26,
+  "translation": "હેસરોન — હેસરોનીનું કુળ; કર્મી — કર્મીનું કુળ.",
+  "tokens": [
+    {
+      "surface": "לחצרן",
+      "gloss": "હેસરોન"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "કુળ"
+    },
+    {
+      "surface": "החצרוני",
+      "gloss": "હેસરોનીનું"
+    },
+    {
+      "surface": "לכרמי",
+      "gloss": "કર્મી"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "કુળ"
+    },
+    {
+      "surface": "הכרמי",
+      "gloss": "કર્મીનું"
+    }
+  ],
+  "timestamp": "2026-08-21T12:04:01.857508347Z",
+  "model": "glm-5.3"
+}

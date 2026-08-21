@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 6:21",
+  "book": "exodus",
+  "lang": "gu",
+  "chapter": 6,
+  "translation": "અને યિત્સહારના પુત્રો: કોરાહ, નેફેગ અને ઝિખરી.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "અને …ના પુત્રો"
+    },
+    {
+      "surface": "יצהר",
+      "gloss": "યિત્સહાર"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "કોરાહ"
+    },
+    {
+      "surface": "ונפג",
+      "gloss": "નેફેગ"
+    },
+    {
+      "surface": "וזכרי",
+      "gloss": "ઝિખરી"
+    }
+  ],
+  "timestamp": "2026-08-21T11:06:48.888212483Z",
+  "model": "glm-5.3"
+}

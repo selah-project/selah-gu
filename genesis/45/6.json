@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 45:6",
+  "book": "genesis",
+  "lang": "gu",
+  "chapter": 45,
+  "translation": "કેમ કે આ ⟨the⟩ બે વર્ષથી દુષ્કાળ દેશની મધ્યમાં છે, અને હજી પાંચ વર્ષ છે જેમાં ન ખેડાણ થશે ન કાપણી.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "કેમ કે"
+    },
+    {
+      "surface": "זה",
+      "gloss": "આ"
+    },
+    {
+      "surface": "שנתים",
+      "gloss": "બે વર્ષ"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "દુષ્કાળ"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "મધ્યમાં"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "દેશ"
+    },
+    {
+      "surface": "ועוד",
+      "gloss": "અને હજી"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "પાંચ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "વર્ષ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જેમાં"
+    },
+    {
+      "surface": "אין",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "חריש",
+      "gloss": "ખેડાણ"
+    },
+    {
+      "surface": "וקציר",
+      "gloss": "અને કાપણી"
+    }
+  ],
+  "timestamp": "2026-08-21T11:03:23.788626020Z",
+  "model": "glm-5.3"
+}

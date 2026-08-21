@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 10:19",
+  "book": "2-chronicles",
+  "lang": "gu",
+  "chapter": 10,
+  "translation": "અને યિસ્રાએલ આ દિવસ સુધી દાવીદના ઘરાણા સામે બળવો પાડતું રહ્યું.",
+  "tokens": [
+    {
+      "surface": "ויפשעו",
+      "gloss": "બળવો પાડતું રહ્યું"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "યિસ્રાએલ"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "ઘરાણા સામે"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "દાવીદના"
+    },
+    {
+      "surface": "עד",
+      "gloss": "સુધી"
+    },
+    {
+      "surface": "היום",
+      "gloss": "દિવસ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "આ"
+    }
+  ],
+  "timestamp": "2026-08-21T18:18:16.690649691Z",
+  "model": "glm-5.3"
+}

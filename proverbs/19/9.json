@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 19:9",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 19,
+  "translation": "ખોટો સાક્ષી નિષ્કલંક નહીં થાય, અને જૂઠાણાં ફૂંકનાર નાશ પામશે.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "સાક્ષી"
+    },
+    {
+      "surface": "שקרים",
+      "gloss": "ખોટો"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "નિષ્કલંક થાય"
+    },
+    {
+      "surface": "ויפיח",
+      "gloss": "અને ફૂંકનાર"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "જૂઠાણાં"
+    },
+    {
+      "surface": "יאבד",
+      "gloss": "નાશ પામશે"
+    }
+  ],
+  "timestamp": "2026-08-21T16:59:04.482140522Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 6:1",
+  "book": "2-chronicles",
+  "lang": "gu",
+  "chapter": 6,
+  "translation": "ત્યારે શલોમોએ કહ્યું: યાહવેએ કહ્યું કે તે ઘન અંધકારમાં વસવાનો છે.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "ત્યારે"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "કહ્યું"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "શલોમોએ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવેએ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "કહ્યું"
+    },
+    {
+      "surface": "לשכון",
+      "gloss": "વસવાનો છે"
+    },
+    {
+      "surface": "בערפל",
+      "gloss": "ઘન અંધકારમાં"
+    }
+  ],
+  "timestamp": "2026-08-21T18:16:55.425294155Z",
+  "model": "glm-5.3"
+}

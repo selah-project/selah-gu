@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 10:18",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 10,
+  "translation": "અનાથ અને દલિતનો ન્યાય કરવા, કે પૃથ્વીનો મનુષ્ય પછી કદી ધમકાવે નહીં.",
+  "tokens": [
+    {
+      "surface": "לשפט",
+      "gloss": "ન્યાય કરવા"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "અનાથ"
+    },
+    {
+      "surface": "ודך",
+      "gloss": "અને દલિત"
+    },
+    {
+      "surface": "בל",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "પછી કદી"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "વધુ"
+    },
+    {
+      "surface": "לערץ",
+      "gloss": "ધમકાવે"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "મનુષ્ય"
+    },
+    {
+      "surface": "מן",
+      "gloss": "પૃથ્વીનો"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "પૃથ્વી"
+    }
+  ],
+  "timestamp": "2026-08-21T16:11:54.462872731Z",
+  "model": "glm-5.3"
+}

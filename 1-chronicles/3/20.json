@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 3:20",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 3,
+  "translation": "અને હશુબાહ, અને ઓહેલ, અને બરેક્યાહ, અને હસદ્યાહ, યૂશાબ-હેસેદ — પાંચ.",
+  "tokens": [
+    {
+      "surface": "וחשבה",
+      "gloss": "અને હશુબાહ"
+    },
+    {
+      "surface": "ואהל",
+      "gloss": "અને ઓહેલ"
+    },
+    {
+      "surface": "וברכיה",
+      "gloss": "અને બરેક્યાહ"
+    },
+    {
+      "surface": "וחסדיה",
+      "gloss": "અને હસદ્યાહ"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "યૂશાબ"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "હેસેદ"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "પાંચ"
+    }
+  ],
+  "timestamp": "2026-08-21T18:01:16.838562456Z",
+  "model": "glm-5.3"
+}

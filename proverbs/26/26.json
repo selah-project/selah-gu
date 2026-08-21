@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 26:26",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 26,
+  "translation": "છતાં કપટથી ઢંકાયેલી દ્વેષ, ⟨તેની⟩ વાઈ સભામાં પ્રગટ થશે.",
+  "tokens": [
+    {
+      "surface": "תכסה",
+      "gloss": "ઢંકાયેલી"
+    },
+    {
+      "surface": "שנאה",
+      "gloss": "દ્વેષ"
+    },
+    {
+      "surface": "במשאון",
+      "gloss": "કપટથી"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "પ્રગટ થશે"
+    },
+    {
+      "surface": "רעתו",
+      "gloss": "⟨તેની⟩ વાઈ"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "સભામાં"
+    }
+  ],
+  "timestamp": "2026-08-21T17:01:58.795432989Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 33:6",
+  "book": "deuteronomy",
+  "lang": "gu",
+  "chapter": 33,
+  "translation": "રૂબેન જીવે, અને ન મરે; અને તેના માણસો ગણ્યા-ગણાય તેટલા રહે.",
+  "tokens": [
+    {
+      "surface": "יחי",
+      "gloss": "જીવે"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "રૂબેન"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "અને ન"
+    },
+    {
+      "surface": "ימת",
+      "gloss": "મરે"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "અને રહે"
+    },
+    {
+      "surface": "מתיו",
+      "gloss": "તેના માણસો"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "ગણ્યા-ગણાય તેટલા"
+    }
+  ],
+  "timestamp": "2026-08-21T12:31:21.730938868Z",
+  "model": "glm-5.3"
+}

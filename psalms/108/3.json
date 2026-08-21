@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 108:3",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 108,
+  "translation": "જાગ, હે નેવેલ અને કિન્નોર; હું ઊષાને જગાડીશ.",
+  "tokens": [
+    {
+      "surface": "עורה",
+      "gloss": "જાગ"
+    },
+    {
+      "surface": "הנבל",
+      "gloss": "હે નેવેલ"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "અને કિન્નોર"
+    },
+    {
+      "surface": "אעירה",
+      "gloss": "હું જગાડીશ"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "ઊષા"
+    }
+  ],
+  "timestamp": "2026-08-21T16:41:25.273193956Z",
+  "model": "glm-5.3"
+}

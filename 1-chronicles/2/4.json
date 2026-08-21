@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 2:4",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 2,
+  "translation": "અને તેની પુત્રવધૂ તામારે તેને ⟨את⟩ પેરેત્સ અને ⟨את⟩ ઝેરખ જન્મ આપ્યા; યહૂદાના પુત્રો સર્વ પાંચ.",
+  "tokens": [
+    {
+      "surface": "ותמר",
+      "gloss": "અને તામારે"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "તેની પુત્રવધૂ"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "જન્મ આપ્યા"
+    },
+    {
+      "surface": "לו",
+      "gloss": "તેને"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "પેરેત્સ"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "પેરેત્સ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ઝેરખ"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "ઝેરખ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "સર્વ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "યહૂદાના"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "પાંચ"
+    }
+  ],
+  "timestamp": "2026-08-21T18:00:05.989683173Z",
+  "model": "glm-5.3"
+}

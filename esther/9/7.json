@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "esther 9:7",
+  "book": "esther",
+  "lang": "gu",
+  "chapter": 9,
+  "translation": "અને ⟨את⟩ પર્શન્દાતા, અને ⟨את⟩ દલ્ફોન, અને ⟨את⟩ અસ્પાતા.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "પર્શન્દાતા"
+    },
+    {
+      "surface": "פרשנדתא",
+      "gloss": "પર્શન્દાતા"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "દલ્ફોન"
+    },
+    {
+      "surface": "דלפון",
+      "gloss": "દલ્ફોન"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "અસ્પાતા"
+    },
+    {
+      "surface": "אספתא",
+      "gloss": "અસ્પાતા"
+    }
+  ],
+  "timestamp": "2026-08-21T17:35:13.386811112Z",
+  "model": "glm-5.3"
+}

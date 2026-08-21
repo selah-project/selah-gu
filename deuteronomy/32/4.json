@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 32:4",
+  "book": "deuteronomy",
+  "lang": "gu",
+  "chapter": 32,
+  "translation": "ખડક — તેનું કાર્ય સંપૂર્ણ છે; કેમ કે તેનાં બધાં માર્ગો ન્યાય છે; એલ વફાદાર ⟨is⟩ અને અનીતિ વિનાનો; ન્યાયી અને સીધો તે છે.",
+  "tokens": [
+    {
+      "surface": "הצור",
+      "gloss": "ખડક"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "સંપૂર્ણ"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "તેનું કાર્ય"
+    },
+    {
+      "surface": "כי",
+      "gloss": "કેમ કે"
+    },
+    {
+      "surface": "כל",
+      "gloss": "બધાં"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "તેનાં માર્ગો"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ન્યાય"
+    },
+    {
+      "surface": "אל",
+      "gloss": "એલ"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "વફાદાર"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "અને વિના"
+    },
+    {
+      "surface": "עול",
+      "gloss": "અનીતિ"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ન્યાયી"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "અને સીધો"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "તે છે"
+    }
+  ],
+  "timestamp": "2026-08-21T12:31:04.216085330Z",
+  "model": "glm-5.3"
+}

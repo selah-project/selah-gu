@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 27:11",
+  "book": "genesis",
+  "lang": "gu",
+  "chapter": 27,
+  "translation": "અને યાકોવે પોતાની માતા રિબકાને કહ્યું: જુઓ, મારો ભાઈ એસાવ રૂંવાટવાળો માણસ ⟨is⟩, અને હું લીસો માણસ ⟨am⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "અને કહ્યું"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "યાકોબ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ને"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "રિબકા"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "પોતાની માતા"
+    },
+    {
+      "surface": "הן",
+      "gloss": "જુઓ"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "એસાવ"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "મારો ભાઈ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "માણસ"
+    },
+    {
+      "surface": "שער",
+      "gloss": "રૂંવાટવાળો"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "અને હું"
+    },
+    {
+      "surface": "איש",
+      "gloss": "માણસ"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "લીસો"
+    }
+  ],
+  "timestamp": "2026-08-21T10:50:48.174221319Z",
+  "model": "glm-5.3"
+}

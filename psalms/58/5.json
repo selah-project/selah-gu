@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 58:5",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 58,
+  "translation": "તેમની ઝેર સાપની ઝેર જેવી છે; બહેરા પતન સર્પની જેમ, જે ⟨પોતાનું⟩ કાન બંધ કરે છે.",
+  "tokens": [
+    {
+      "surface": "חמת",
+      "gloss": "ઝેર"
+    },
+    {
+      "surface": "למו",
+      "gloss": "તેમની"
+    },
+    {
+      "surface": "כדמות",
+      "gloss": "જેવી છે"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "ઝેર"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "સાપની"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "જેમ"
+    },
+    {
+      "surface": "פתן",
+      "gloss": "પતન સર્પની"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "બહેરા"
+    },
+    {
+      "surface": "יאטם",
+      "gloss": "બંધ કરે છે"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "કાન"
+    }
+  ],
+  "timestamp": "2026-08-21T16:25:33.534162381Z",
+  "model": "glm-5.3"
+}

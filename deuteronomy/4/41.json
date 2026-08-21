@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "deuteronomy 4:41",
+  "book": "deuteronomy",
+  "lang": "gu",
+  "chapter": 4,
+  "translation": "ત્યારે મોશેએ યાર્દેનને પાર સૂર્યોદય તરફ ત્રણ નગરો અલગ પાડ્યાં.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "ત્યારે"
+    },
+    {
+      "surface": "יבדיל",
+      "gloss": "અલગ પાડ્યાં"
+    },
+    {
+      "surface": "משה",
+      "gloss": "મોશેએ"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ત્રણ"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "નગરો"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "પાર"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "યાર્દેનને"
+    },
+    {
+      "surface": "מזרחה",
+      "gloss": "સૂર્યોદય તરફ"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "સૂર્ય"
+    }
+  ],
+  "timestamp": "2026-08-21T12:15:29.373657321Z",
+  "model": "glm-5.3"
+}

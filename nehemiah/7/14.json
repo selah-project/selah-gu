@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "nehemiah 7:14",
+  "book": "nehemiah",
+  "lang": "gu",
+  "chapter": 7,
+  "translation": "ઝક્કાઈનાં પુત્રો: સાતસો સંતાળીસ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "זכי",
+      "gloss": "ઝક્કાઈનાં"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "સાત"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "સો"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "સાઠ"
+    }
+  ],
+  "timestamp": "2026-08-21T17:54:55.269291189Z",
+  "model": "glm-5.3"
+}

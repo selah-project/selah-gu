@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 52:5",
+  "book": "jeremiah",
+  "lang": "gu",
+  "chapter": 52,
+  "translation": "અને શહેર ઘેરાબંધીમાં આવી, રાજા ઝિદકિયાહુના એકાદશમાં વર્ષ સુધી.",
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "અને … આવી"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "શહેર"
+    },
+    {
+      "surface": "במצור",
+      "gloss": "ઘેરાબંધીમાં"
+    },
+    {
+      "surface": "עד",
+      "gloss": "સુધી"
+    },
+    {
+      "surface": "עשתי",
+      "gloss": "એકાદશ"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": ""
+    },
+    {
+      "surface": "שנה",
+      "gloss": "વર્ષ"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "રાજા માટેના"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "ઝિદકિયાહુ"
+    }
+  ],
+  "timestamp": "2026-08-21T15:15:22.030258077Z",
+  "model": "glm-5.3"
+}

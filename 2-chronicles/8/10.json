@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 8:10",
+  "book": "2-chronicles",
+  "lang": "gu",
+  "chapter": 8,
+  "translation": "અને આ રાજા શલોમોના નિયુક્ત અધિકારીઓના સરદારો હતા, બસો પચાસ, જે પ્રજા પર રાજ કરતા.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "અને આ"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "સરદારો"
+    },
+    {
+      "surface": "הנציבים",
+      "gloss": "નિયુક્ત અધિકારીઓ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જે"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "રાજાના"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "શલોમો"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "પચાસ"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "અને બસો"
+    },
+    {
+      "surface": "הרדים",
+      "gloss": "જે રાજ કરતા"
+    },
+    {
+      "surface": "בעם",
+      "gloss": "પ્રજા પર"
+    }
+  ],
+  "timestamp": "2026-08-21T18:18:54.445096832Z",
+  "model": "glm-5.3"
+}

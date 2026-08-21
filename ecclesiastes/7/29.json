@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "ecclesiastes 7:29",
+  "book": "ecclesiastes",
+  "lang": "gu",
+  "chapter": 7,
+  "translation": "જુઓ, ફક્ત આ જ મેં શોધી કાઢ્યું: જે એલોહીમે કર્યો તે ⟨את⟩ માણસને સીધો બનાવ્યો, પણ તેઓએ ઘણી યુક્તિઓ શોધી કાઢી.",
+  "tokens": [
+    {
+      "surface": "לבד",
+      "gloss": "ફક્ત"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "જુઓ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "આ"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "મેં શોધી કાઢ્યું"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જે"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "કર્યો"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "એલોહીમે"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "માણસ"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "માણસને"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "સીધો"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "પણ તેઓએ"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "શોધી કાઢી"
+    },
+    {
+      "surface": "חשבנות",
+      "gloss": "યુક્તિઓ"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ઘણી"
+    }
+  ],
+  "timestamp": "2026-08-21T17:29:52.606344474Z",
+  "model": "glm-5.3"
+}

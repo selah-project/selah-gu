@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 9:13",
+  "book": "deuteronomy",
+  "lang": "gu",
+  "chapter": 9,
+  "translation": "અને યાહવે મને બોલી કહેવા લાગ્યા: મેં ⟨את⟩ આ પ્રજાને જોઈ છે, અને જુઓ, તે કઠણ-કપાળની પ્રજા ⟨is⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "અને કહેવા લાગ્યા"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "મને"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "બોલી"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "મેં જોઈ છે"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "આ પ્રજાને"
+    },
+    {
+      "surface": "העם",
+      "gloss": "આ પ્રજા"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "આ"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "અને જુઓ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "પ્રજા"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "કઠણ"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "કપાળ (ગરદન)"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "તે"
+    }
+  ],
+  "timestamp": "2026-08-21T12:18:32.139890179Z",
+  "model": "glm-5.3"
+}

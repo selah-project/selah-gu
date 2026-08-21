@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 30:16",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 30,
+  "translation": "પણ જો સાંભળ્યા પછી તે ⟨אתם⟩ રદ કરે, તો તે ⟨את⟩ તેનું અકૃત્ય વહન કરશે.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "પણ જો"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "રદ"
+    },
+    {
+      "surface": "יפר",
+      "gloss": "કરે"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "નેડરો\/બંધનો"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "પછી"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "સાંભળ્યા"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "તો તે વહન કરશે"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "તેનું અકૃત્ય"
+    },
+    {
+      "surface": "עונה",
+      "gloss": "તેનું અકૃત્ય"
+    }
+  ],
+  "timestamp": "2026-08-21T12:09:06.216910568Z",
+  "model": "glm-5.3"
+}

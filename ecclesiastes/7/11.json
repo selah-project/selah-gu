@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 7:11",
+  "book": "ecclesiastes",
+  "lang": "gu",
+  "chapter": 7,
+  "translation": "વારસા સાથે ચતુરાઈ સારી ⟨છે⟩, અને સૂર્યને જોનારાઓ માટે તે વધારાનો લાભ ⟨છે⟩.",
+  "tokens": [
+    {
+      "surface": "טובה",
+      "gloss": "સારી"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ચતુરાઈ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "સાથે"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "વારસો"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "અને વધારાનો લાભ"
+    },
+    {
+      "surface": "לראי",
+      "gloss": "જોનારાઓ માટે"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "સૂર્યને"
+    }
+  ],
+  "timestamp": "2026-08-21T19:00:33.838943992Z",
+  "model": "glm-5.3"
+}

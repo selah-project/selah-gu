@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 13:12",
+  "book": "ezekiel",
+  "lang": "gu",
+  "chapter": 13,
+  "translation": "અને તો જુઓ, દીવાલ પડી ગઈ! શું તમને કહેવાશે નહીં: 'તમે જે લીંપણ લગાડી તે ક્યાં છે?'",
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "અને તો જુઓ"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "પડી ગઈ"
+    },
+    {
+      "surface": "הקיר",
+      "gloss": "દીવાલ"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "શું…નહીં"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "કહેવાશે"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "તમને"
+    },
+    {
+      "surface": "איה",
+      "gloss": "ક્યાં છે"
+    },
+    {
+      "surface": "הטיח",
+      "gloss": "લીંપણ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જે"
+    },
+    {
+      "surface": "טחתם",
+      "gloss": "તમે લગાડી"
+    }
+  ],
+  "timestamp": "2026-08-21T15:21:37.630872214Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 1:4",
+  "book": "exodus",
+  "lang": "gu",
+  "chapter": 1,
+  "translation": "દાન અને નફ્તાલી, ગાદ અને આશેર.",
+  "tokens": [
+    {
+      "surface": "דן",
+      "gloss": "દાન"
+    },
+    {
+      "surface": "ונפתלי",
+      "gloss": "અને નફ્તાલી"
+    },
+    {
+      "surface": "גד",
+      "gloss": "ગાદ"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "અને આશેર"
+    }
+  ],
+  "timestamp": "2026-08-21T11:05:28.820448154Z",
+  "model": "glm-5.3"
+}

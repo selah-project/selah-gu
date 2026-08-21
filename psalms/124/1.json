@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 124:1",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 124,
+  "translation": "આરોહણનું ગીત, દાવીદનું. યાહવે આપણા માટે ના હોત તો — ઇસ્રાએલ હવે કહે,",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "ગીત"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "આરોહણનું"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "દાવીદનું"
+    },
+    {
+      "surface": "לולי",
+      "gloss": "ના હોત તો"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "હતા"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "આપણા માટે"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "કહે"
+    },
+    {
+      "surface": "נא",
+      "gloss": "હવે"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ઇસ્રાએલ"
+    }
+  ],
+  "timestamp": "2026-08-21T16:46:35.985070729Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 8:16",
+  "book": "isaiah",
+  "lang": "gu",
+  "chapter": 8,
+  "translation": "સાક્ષી બાંધો, મારા શિષ્યોમાં તોરાહની મહોર મારો.",
+  "tokens": [
+    {
+      "surface": "צור",
+      "gloss": "બાંધો"
+    },
+    {
+      "surface": "תעודה",
+      "gloss": "સાક્ષી"
+    },
+    {
+      "surface": "חתום",
+      "gloss": "મહોર મારો"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "તોરાહ"
+    },
+    {
+      "surface": "בלמדי",
+      "gloss": "મારા શિષ્યોમાં"
+    }
+  ],
+  "timestamp": "2026-08-21T14:14:03.760107577Z",
+  "model": "glm-5.3"
+}

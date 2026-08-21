@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 6:19",
+  "book": "deuteronomy",
+  "lang": "gu",
+  "chapter": 6,
+  "translation": "બધા તારા શત્રુઓને તારા સમક્ષથી હાંકી કાઢવા ⟨את⟩ સર્વ, જેમ યાહવે બોલ્યા છે.",
+  "tokens": [
+    {
+      "surface": "להדף",
+      "gloss": "હાંકી કઢવા"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "સર્વ તારા શત્રુઓ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "સર્વ"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "તારા શત્રુઓને"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "તારા સમક્ષથી"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "જેમ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "બોલ્યા છે"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    }
+  ],
+  "timestamp": "2026-08-21T12:14:43.038995473Z",
+  "model": "glm-5.3"
+}

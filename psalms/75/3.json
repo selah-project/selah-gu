@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 75:3",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 75,
+  "translation": "જ્યારે હું નિયત સમય લઉં, હું જ સારું ન્યાય કરીશ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "જ્યારે\/કે"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "હું લઉં"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "નિયત સમય"
+    },
+    {
+      "surface": "אני",
+      "gloss": "હું જ"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "સારું (સીધું)"
+    },
+    {
+      "surface": "אשפט",
+      "gloss": "ન્યાય કરીશ"
+    }
+  ],
+  "timestamp": "2026-08-21T16:30:59.568071148Z",
+  "model": "glm-5.3"
+}

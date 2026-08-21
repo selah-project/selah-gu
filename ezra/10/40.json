@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "ezra 10:40",
+  "book": "ezra",
+  "lang": "gu",
+  "chapter": 10,
+  "translation": "મખ્નદેબાય, શાશાય, શારાય.",
+  "tokens": [
+    {
+      "surface": "מכנדבי",
+      "gloss": "મખ્નદેબાય"
+    },
+    {
+      "surface": "ששי",
+      "gloss": "શાશાય"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "શારાય"
+    }
+  ],
+  "timestamp": "2026-08-21T17:50:05.335257811Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 38:13",
+  "book": "exodus",
+  "lang": "gu",
+  "chapter": 38,
+  "translation": "અને પૂર્વ દિશાની તરફ, સૂર્યોદય તરફ, પચાસ કરડ હતી.",
+  "tokens": [
+    {
+      "surface": "ולפאת",
+      "gloss": "અને તરફ"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "પૂર્વ દિશાની"
+    },
+    {
+      "surface": "מזרחה",
+      "gloss": "સૂર્યોદય તરફ"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "પચાસ"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "કરડ"
+    }
+  ],
+  "timestamp": "2026-08-21T11:26:59.846598574Z",
+  "model": "glm-5.3"
+}

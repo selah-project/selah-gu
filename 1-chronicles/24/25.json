@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 24:25",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 24,
+  "translation": "મીખાહનો ભાઈ યિશ્શીયાહ; યિશ્શીયાહના પુત્રોમાં ઝેખર્યાહ.",
+  "tokens": [
+    {
+      "surface": "אחי",
+      "gloss": "ભાઈ"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "મીખાહનો"
+    },
+    {
+      "surface": "ישיה",
+      "gloss": "યિશ્શીયાહ"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "પુત્રોમાં"
+    },
+    {
+      "surface": "ישיה",
+      "gloss": "યિશ્શીયાહના"
+    },
+    {
+      "surface": "זכריהו",
+      "gloss": "ઝેખર્યાહ"
+    }
+  ],
+  "timestamp": "2026-08-21T18:11:18.721114119Z",
+  "model": "glm-5.3"
+}

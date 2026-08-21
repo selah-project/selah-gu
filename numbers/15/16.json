@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 15:16",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 15,
+  "translation": "એક જ તોરાહ અને એક જ નિયમ તમારે અને તમારી ⟨את⟩ સાથે રહેતા પરદેશીને માટે ⟨shall be⟩.",
+  "tokens": [
+    {
+      "surface": "תורה",
+      "gloss": "તોરાહ"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "એક જ"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "અને નિયમ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "એક જ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "⟨shall be⟩ રહેશે"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "તમારે"
+    },
+    {
+      "surface": "ולגר",
+      "gloss": "અને પરદેશીને"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "રહેતા પરદેશી"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "તમારી ⟨את⟩ સાથે"
+    }
+  ],
+  "timestamp": "2026-08-21T11:58:41.175063807Z",
+  "model": "glm-5.3"
+}

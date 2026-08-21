@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 30:7",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 30,
+  "translation": "તારી પાસે બે વાત માંગી છે; મરી જાઉં તે પહેલાં મને તે ના નાખતી.",
+  "tokens": [
+    {
+      "surface": "שתים",
+      "gloss": "બે"
+    },
+    {
+      "surface": "שאלתי",
+      "gloss": "વાત માંગી છે"
+    },
+    {
+      "surface": "מאתך",
+      "gloss": "તારી પાસે ⟨את⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ના"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "નાખતી"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "મને તે"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "તે પહેલાં"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "મરી જાઉં"
+    }
+  ],
+  "timestamp": "2026-08-21T17:03:04.458081341Z",
+  "model": "glm-5.3"
+}

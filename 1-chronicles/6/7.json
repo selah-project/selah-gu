@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 6:7",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 6,
+  "translation": "કહાતના પુત્રો: અમ્મીનાદાવ તેનો પુત્ર, કોરખ તેનો પુત્ર, અસ્સીર તેનો પુત્ર.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "કહાતના"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "અમ્મીનાદાવ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "તેનો પુત્ર"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "કોરખ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "તેનો પુત્ર"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "અસ્સીર"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "તેનો પુત્ર"
+    }
+  ],
+  "timestamp": "2026-08-21T18:01:36.722428197Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "amos 5:13",
+  "book": "amos",
+  "lang": "gu",
+  "chapter": 5,
+  "translation": "એટલે તે સમયે સમજદાર ⟨માણસ⟩ મૌન રહે છે, કેમ કે તે દુષ્ટ સમય ⟨છે⟩.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "એટલે"
+    },
+    {
+      "surface": "המשכיל",
+      "gloss": "સમજદાર"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "સમયે"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "તે"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "મૌન રહે છે"
+    },
+    {
+      "surface": "כי",
+      "gloss": "કેમ કે"
+    },
+    {
+      "surface": "עת",
+      "gloss": "સમય"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "દુષ્ટ"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨છે⟩"
+    }
+  ],
+  "timestamp": "2026-08-21T15:54:02.327707405Z",
+  "model": "glm-5.3"
+}

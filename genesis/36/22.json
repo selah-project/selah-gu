@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 36:22",
+  "book": "genesis",
+  "lang": "gu",
+  "chapter": 36,
+  "translation": "લોતાનના પુત્રો હતા હોરી અને હેયમામ; અને લોતાનની બહેન તિમ્ના ⟨હતી⟩.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "હતા"
+    },
+    {
+      "surface": "בני",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "לוטן",
+      "gloss": "લોતાનના"
+    },
+    {
+      "surface": "חרי",
+      "gloss": "હોરી"
+    },
+    {
+      "surface": "והימם",
+      "gloss": "અને હેયમામ"
+    },
+    {
+      "surface": "ואחות",
+      "gloss": "અને બહેન"
+    },
+    {
+      "surface": "לוטן",
+      "gloss": "લોતાનની"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "તિમ્ના"
+    }
+  ],
+  "timestamp": "2026-08-21T10:56:20.061977963Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 9:14",
+  "book": "1-kings",
+  "lang": "gu",
+  "chapter": 9,
+  "translation": "અને હિરામે રાજાને સો અને વીસ કિકાર સોનું મોકલ્યું.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "અને તેણે મોકલ્યું"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "હિરામે"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "રાજાને"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "સો"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "અને વીસ"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "કિકાર"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "સોનું"
+    }
+  ],
+  "timestamp": "2026-08-21T13:43:38.378107708Z",
+  "model": "glm-5.3"
+}

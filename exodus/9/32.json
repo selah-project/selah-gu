@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 9:32",
+  "book": "exodus",
+  "lang": "gu",
+  "chapter": 9,
+  "translation": "પરંતુ ઘઉં અને ખપરૈલ માર ન ખાધાં, કારણ કે તે ⟨are⟩ મોડાં પાકે છે.",
+  "tokens": [
+    {
+      "surface": "והחטה",
+      "gloss": "પરંતુ ઘઉં"
+    },
+    {
+      "surface": "והכסמת",
+      "gloss": "અને ખપરૈલ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "נכו",
+      "gloss": "માર ખાધાં"
+    },
+    {
+      "surface": "כי",
+      "gloss": "કારણ કે"
+    },
+    {
+      "surface": "אפילת",
+      "gloss": "મોડાં પાકે છે"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "⟨તે⟩"
+    }
+  ],
+  "timestamp": "2026-08-21T11:09:35.896789062Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 47:8",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 47,
+  "translation": "કેમ કે સમગ્ર પૃથ્વીનો રાજા એલોહીમ છે; સમજથી ભજન ગાઓ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "કેમ કે"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "રાજા"
+    },
+    {
+      "surface": "כל",
+      "gloss": "સમગ્ર"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "પૃથ્વીનો"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "એલોહીમ"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "ભજન ગાઓ"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "સમજથી"
+    }
+  ],
+  "timestamp": "2026-08-21T16:23:09.227695223Z",
+  "model": "glm-5.3"
+}

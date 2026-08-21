@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 60:13",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 60,
+  "translation": "આપણને સંકટમાંથી સહાય આપ; કેમ કે માનવનો છોડાવવાનો વ્યર્થ છે.",
+  "tokens": [
+    {
+      "surface": "הבה",
+      "gloss": "આપ"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "આપણને"
+    },
+    {
+      "surface": "עזרת",
+      "gloss": "સહાય"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "સંકટમાંથી"
+    },
+    {
+      "surface": "ושוא",
+      "gloss": "અને વ્યર્થ"
+    },
+    {
+      "surface": "תשועת",
+      "gloss": "છોડાવવાનો"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "માનવનો"
+    }
+  ],
+  "timestamp": "2026-08-21T16:26:08.219105282Z",
+  "model": "glm-5.3"
+}

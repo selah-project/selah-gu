@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 3:4",
+  "book": "job",
+  "lang": "gu",
+  "chapter": 3,
+  "translation": "તે દિવસ અંધકાર થાઓ; એલોઆહ ઉપરથી તેની શોધ ન કરે, અને તેના પર પ્રકાશ ચમકે નહીં.",
+  "tokens": [
+    {
+      "surface": "היום",
+      "gloss": "તે દિવસ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "તે"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "થાઓ"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "અંધકાર"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ન"
+    },
+    {
+      "surface": "ידרשהו",
+      "gloss": "શોધ કરે"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "એલોઆહ"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "ઉપરથી"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "અને ન"
+    },
+    {
+      "surface": "תופע",
+      "gloss": "ચમકે"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "તેના પર"
+    },
+    {
+      "surface": "נהרה",
+      "gloss": "પ્રકાશ"
+    }
+  ],
+  "timestamp": "2026-08-21T17:04:37.319238782Z",
+  "model": "glm-5.3"
+}

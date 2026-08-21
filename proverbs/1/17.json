@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 1:17",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 1,
+  "translation": "કેમ કે વ્યર્થ જ જાળી પાથરવામાં આવે છે, દરેક પાંખવાળાની આંખો સામે.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "કેમ કે"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "વ્યર્થ"
+    },
+    {
+      "surface": "מזרה",
+      "gloss": "પાથરવામાં આવે છે"
+    },
+    {
+      "surface": "הרשת",
+      "gloss": "જાળી"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "આંખો સામે"
+    },
+    {
+      "surface": "כל",
+      "gloss": "દરેક"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "…વાળાની"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "પાંખવાળા"
+    }
+  ],
+  "timestamp": "2026-08-21T16:51:06.482832193Z",
+  "model": "glm-5.3"
+}

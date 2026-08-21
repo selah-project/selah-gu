@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "numbers 26:36",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 26,
+  "translation": "અને આ શૂતેલાખના પુત્રો: એરાનને — એરાની કુળ.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "અને આ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "שותלח",
+      "gloss": "શૂતેલાખના"
+    },
+    {
+      "surface": "לערן",
+      "gloss": "એરાનને"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "કુળ"
+    },
+    {
+      "surface": "הערני",
+      "gloss": "એરાની"
+    }
+  ],
+  "timestamp": "2026-08-21T12:05:45.467600971Z",
+  "model": "glm-5.3"
+}

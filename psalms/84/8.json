@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 84:8",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 84,
+  "translation": "તે બળથી બળ સુધી જશે; સીયોનમાં ⟨એ⟩ એલોહીમ પાસે દેખાશે.",
+  "tokens": [
+    {
+      "surface": "ילכו",
+      "gloss": "જશે"
+    },
+    {
+      "surface": "מחיל",
+      "gloss": "બળથી"
+    },
+    {
+      "surface": "אל",
+      "gloss": "સુધી"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "બળ"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "દેખાશે"
+    },
+    {
+      "surface": "אל",
+      "gloss": "પાસે"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "એલોહીમ"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "સીયોનમાં"
+    }
+  ],
+  "timestamp": "2026-08-21T16:35:18.024140242Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 4:12",
+  "book": "ecclesiastes",
+  "lang": "gu",
+  "chapter": 4,
+  "translation": "અને જો એક પરાક્રમી તો બેઉ તેની સામે ઊભા રહેશે; અને ત્રણ-ગરડાનો દોરો ઝટથી તૂટતો નથી.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "અને જો"
+    },
+    {
+      "surface": "יתקפו",
+      "gloss": "પરાક્રમી"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "એક"
+    },
+    {
+      "surface": "השנים",
+      "gloss": "બેઉ"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "ઊભા રહેશે"
+    },
+    {
+      "surface": "נגדו",
+      "gloss": "તેની સામે"
+    },
+    {
+      "surface": "והחוט",
+      "gloss": "અને દોરો"
+    },
+    {
+      "surface": "המשלש",
+      "gloss": "ત્રણ-ગરડાનો"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નથી"
+    },
+    {
+      "surface": "במהרה",
+      "gloss": "ઝટથી"
+    },
+    {
+      "surface": "ינתק",
+      "gloss": "તૂટતો"
+    }
+  ],
+  "timestamp": "2026-08-21T17:28:42.274299124Z",
+  "model": "glm-5.3"
+}

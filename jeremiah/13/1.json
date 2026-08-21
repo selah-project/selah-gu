@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 13:1",
+  "book": "jeremiah",
+  "lang": "gu",
+  "chapter": 13,
+  "translation": "આમ યાહવે મને કહે છે: જા, તારા માટે સણસણનો પટ્ટો ખરીદ, તે તારી કમર પર બાંધ, અને તેને પાણીમાં ન લાવીશ.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "આમ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "કહે છે"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "મને"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "જા"
+    },
+    {
+      "surface": "וקנית",
+      "gloss": "અને ખરીદ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "તારા માટે"
+    },
+    {
+      "surface": "אזור",
+      "gloss": "પટ્ટો"
+    },
+    {
+      "surface": "פשתים",
+      "gloss": "સણસણનો"
+    },
+    {
+      "surface": "ושמתו",
+      "gloss": "અને બાંધ"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "מתניך",
+      "gloss": "તારી કમર"
+    },
+    {
+      "surface": "ובמים",
+      "gloss": "અને પાણીમાં"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "תבאהו",
+      "gloss": "તેને લાવીશ"
+    }
+  ],
+  "timestamp": "2026-08-21T14:52:57.220644387Z",
+  "model": "glm-5.3"
+}

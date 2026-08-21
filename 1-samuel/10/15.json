@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 10:15",
+  "book": "1-samuel",
+  "lang": "gu",
+  "chapter": 10,
+  "translation": "અને શાઉલના કાકાએ કહ્યું, “મને ખબર પાડો ને, શમૂએલે તમને શું કહ્યું?”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "અને…કહ્યું"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "કાકાએ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "શાઉલના"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "ખબર પાડો"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ને (વિનંતી-કણ)"
+    },
+    {
+      "surface": "לי",
+      "gloss": "મને"
+    },
+    {
+      "surface": "מה",
+      "gloss": "શું"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "કહ્યું"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "તમને"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "શમૂએલે"
+    }
+  ],
+  "timestamp": "2026-08-21T13:05:54.971041653Z",
+  "model": "glm-5.3"
+}

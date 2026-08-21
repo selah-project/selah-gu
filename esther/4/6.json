@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 4:6",
+  "book": "esther",
+  "lang": "gu",
+  "chapter": 4,
+  "translation": "અને હતાખ માર્દોખી પાસે નીકળી ગયો — રાજાના દરવાજાની સામેના નગરના ચોક પર.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "નીકળી ગયો"
+    },
+    {
+      "surface": "התך",
+      "gloss": "હતાખ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "પાસે"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "માર્દોખી"
+    },
+    {
+      "surface": "אל",
+      "gloss": "પર"
+    },
+    {
+      "surface": "רחוב",
+      "gloss": "ચોક"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "નગરના"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જે"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "સામે"
+    },
+    {
+      "surface": "שער",
+      "gloss": "દરવાજાની"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "રાજાના"
+    }
+  ],
+  "timestamp": "2026-08-21T17:34:15.423675169Z",
+  "model": "glm-5.3"
+}

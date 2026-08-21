@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 104:9",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 104,
+  "translation": "સીમા તમે મૂકી છે — તે પાર ન થશે; તે પાછા ન ફરશે ⟨કે જેથી⟩ પૃથ્વીને ઢાંકે.",
+  "tokens": [
+    {
+      "surface": "גבול",
+      "gloss": "સીમા"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "તમે મૂકી છે"
+    },
+    {
+      "surface": "בל",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "יעברון",
+      "gloss": "પાર થશે"
+    },
+    {
+      "surface": "בל",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "ישובון",
+      "gloss": "પાછા ફરશે"
+    },
+    {
+      "surface": "לכסות",
+      "gloss": "ઢાંકવા"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "પૃથ્વીને"
+    }
+  ],
+  "timestamp": "2026-08-21T16:38:16.600937017Z",
+  "model": "glm-5.3"
+}

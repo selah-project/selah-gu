@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 4:20",
+  "book": "genesis",
+  "lang": "gu",
+  "chapter": 4,
+  "translation": "અને અદાએ ⟨את⟩ યાવાલને જન્મ આપ્યો; તે જ કૂડામાં વસનારાઓ અને પશુઓ ધરાવનારાઓનો પિતા હતો.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "અને જન્મ આપ્યો"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "અદાએ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "યાવાલને"
+    },
+    {
+      "surface": "יבל",
+      "gloss": "યાવાલને"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "તે જ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "હતો"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "પિતા"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "વસનારાઓ"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "કૂડામાં"
+    },
+    {
+      "surface": "ומקנה",
+      "gloss": "અને પશુઓ"
+    }
+  ],
+  "timestamp": "2026-08-21T10:38:19.928354878Z",
+  "model": "glm-5.3"
+}

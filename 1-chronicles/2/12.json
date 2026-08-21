@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 2:12",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 2,
+  "translation": "અને બોઅઝે ⟨את⟩ ઓવેદને જન્મ આપ્યો, અને ઓવેદે ⟨את⟩ યીશાયને જન્મ આપ્યો.",
+  "tokens": [
+    {
+      "surface": "ובעז",
+      "gloss": "અને બોઅઝે"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "જન્મ આપ્યો"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ઓવેદ"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "ઓવેદને"
+    },
+    {
+      "surface": "ועובד",
+      "gloss": "અને ઓવેદે"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "જન્મ આપ્યો"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "યીશાય"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "યીશાયને"
+    }
+  ],
+  "timestamp": "2026-08-21T17:59:35.278463909Z",
+  "model": "glm-5.3"
+}

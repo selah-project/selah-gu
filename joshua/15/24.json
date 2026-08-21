@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "joshua 15:24",
+  "book": "joshua",
+  "lang": "gu",
+  "chapter": 15,
+  "translation": "ઝીફ, અને તેલેમ, અને બેઅલોત.",
+  "tokens": [
+    {
+      "surface": "זיף",
+      "gloss": "ઝીફ"
+    },
+    {
+      "surface": "וטלם",
+      "gloss": "અને તેલેમ"
+    },
+    {
+      "surface": "ובעלות",
+      "gloss": "અને બેઅલોત"
+    }
+  ],
+  "timestamp": "2026-08-21T12:40:27.932996975Z",
+  "model": "glm-5.3"
+}

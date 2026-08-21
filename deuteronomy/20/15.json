@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 20:15",
+  "book": "deuteronomy",
+  "lang": "gu",
+  "chapter": 20,
+  "translation": "એમ તું તે સર્વ નગરો સાથે કરીશ જે તારાથી ખૂબ જ દૂર છે, જે આ રાષ્ટ્રોનાં નગરો નથી — આ સર્વ.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "એમ"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "તું કરીશ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "તે સર્વ…સાથે"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "નગરો"
+    },
+    {
+      "surface": "הרחקת",
+      "gloss": "દૂર છે"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "તારાથી"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ખૂબ જ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જે"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નથી"
+    },
+    {
+      "surface": "מערי",
+      "gloss": "…નાં નગરો માંથી"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "આ રાષ્ટ્રો"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "આ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "આ સર્વ"
+    }
+  ],
+  "timestamp": "2026-08-21T12:23:48.693937181Z",
+  "model": "glm-5.3"
+}

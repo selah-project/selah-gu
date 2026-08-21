@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 17:4",
+  "book": "genesis",
+  "lang": "gu",
+  "chapter": 17,
+  "translation": "હું — જુઓ, મારો કરાર ⟨את⟩ તારી સાથે છે, અને તું અનેક પ્રજાઓનો પિતા બનીશ.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "હું"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "જુઓ"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "મારો કરાર"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "તારી સાથે"
+    },
+    {
+      "surface": "והיית",
+      "gloss": "અને તું...બનીશ"
+    },
+    {
+      "surface": "לאב",
+      "gloss": "પિતા"
+    },
+    {
+      "surface": "המון",
+      "gloss": "અનેક"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "પ્રજાઓનો"
+    }
+  ],
+  "timestamp": "2026-08-21T10:44:13.028231232Z",
+  "model": "glm-5.3"
+}

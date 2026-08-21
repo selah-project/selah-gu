@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 16:3",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 16,
+  "translation": "તારાં કાર્યો યાહવે પર સોંપ, અને તારાં વિચારો સ્થિર થશે.",
+  "tokens": [
+    {
+      "surface": "גל",
+      "gloss": "સોંપ (ગડગડાવ)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "પર"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "તારાં કાર્યો"
+    },
+    {
+      "surface": "ויכנו",
+      "gloss": "અને સ્થિર થશે"
+    },
+    {
+      "surface": "מחשבתיך",
+      "gloss": "તારાં વિચારો"
+    }
+  ],
+  "timestamp": "2026-08-21T16:58:00.550949754Z",
+  "model": "glm-5.3"
+}

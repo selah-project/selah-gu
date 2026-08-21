@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 1:12",
+  "book": "deuteronomy",
+  "lang": "gu",
+  "chapter": 1,
+  "translation": "હું એકલો કેવી રીતે વહન કરું તમારો ભાર, અને તમારો બોજ, અને તમારાં ઝઘડાં?",
+  "tokens": [
+    {
+      "surface": "איכה",
+      "gloss": "કેવી રીતે"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "વહન કરું"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "એકલો"
+    },
+    {
+      "surface": "טרחכם",
+      "gloss": "તમારો ભાર"
+    },
+    {
+      "surface": "ומשאכם",
+      "gloss": "અને તમારો બોજ"
+    },
+    {
+      "surface": "וריבכם",
+      "gloss": "અને તમારાં ઝઘડાં"
+    }
+  ],
+  "timestamp": "2026-08-21T18:38:20.263691866Z",
+  "model": "glm-5.3"
+}

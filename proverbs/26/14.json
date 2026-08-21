@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 26:14",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 26,
+  "translation": "દરવાજો ⟨તેનાં⟩ કિલ્લીઓ પર ફરે છે, અને આળસુ ⟨તેનાં⟩ પથારી પર ⟨ફરે છે⟩.",
+  "tokens": [
+    {
+      "surface": "הדלת",
+      "gloss": "દરવાજો"
+    },
+    {
+      "surface": "תסוב",
+      "gloss": "ફરે છે"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "צירה",
+      "gloss": "કિલ્લીઓ"
+    },
+    {
+      "surface": "ועצל",
+      "gloss": "અને આળસુ"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "מטתו",
+      "gloss": "તેનાં પથારી"
+    }
+  ],
+  "timestamp": "2026-08-21T17:01:43.620083941Z",
+  "model": "glm-5.3"
+}

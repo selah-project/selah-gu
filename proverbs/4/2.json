@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 4:2",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 4,
+  "translation": "કેમ કે મેં તમને સારું શિક્ષણ આપ્યું છે; મારી તોરાહ છોડશો નહીં.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "કેમ કે"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "શિક્ષણ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "સારું"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "મેં આપ્યું છે"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "તમને"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "મારી તોરાહ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "תעזבו",
+      "gloss": "છોડશો"
+    }
+  ],
+  "timestamp": "2026-08-21T16:51:52.503320618Z",
+  "model": "glm-5.3"
+}

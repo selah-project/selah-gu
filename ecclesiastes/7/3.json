@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 7:3",
+  "book": "ecclesiastes",
+  "lang": "gu",
+  "chapter": 7,
+  "translation": "ખેંચાણ હસવા કરતાં શ્રેષ્ઠ ⟨છે⟩, કેમ કે ચહેરાના ખરાબ ભાવ થકી હૃદય સારું થાય છે.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "શ્રેષ્ઠ"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "ખેંચાણ"
+    },
+    {
+      "surface": "משחק",
+      "gloss": "હસવા કરતાં"
+    },
+    {
+      "surface": "כי",
+      "gloss": "કેમ કે"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "ખરાબ ભાવ થકી"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "ચહેરાના"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "સારું થાય છે"
+    },
+    {
+      "surface": "לב",
+      "gloss": "હૃદય"
+    }
+  ],
+  "timestamp": "2026-08-21T17:30:48.105413053Z",
+  "model": "glm-5.3"
+}

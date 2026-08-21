@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 96:4",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 96,
+  "translation": "કેમ કે યાહવે ⟨છે⟩ મહાન, અને અત્યંત સ્તુત્ય ⟨છે⟩; તે બધા એલોહીમ કરતાં ભયજનક ⟨છે⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "કેમ કે"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "મહાન"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "ומהלל",
+      "gloss": "અને સ્તુત્ય"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "અત્યંત"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "ભયજનક"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "તે"
+    },
+    {
+      "surface": "על",
+      "gloss": "કરતાં"
+    },
+    {
+      "surface": "כל",
+      "gloss": "બધા"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "એલોહીમ"
+    }
+  ],
+  "timestamp": "2026-08-21T16:37:01.973510476Z",
+  "model": "glm-5.3"
+}

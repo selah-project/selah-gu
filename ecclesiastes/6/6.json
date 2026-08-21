@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 6:6",
+  "book": "ecclesiastes",
+  "lang": "gu",
+  "chapter": 6,
+  "translation": "અને જો તે હજાર વર્ષ, બે વખત, જીવે, અને સારું ન જુએ — શું બધા એક જ સ્થાન તરફ નથી જતા?",
+  "tokens": [
+    {
+      "surface": "ואלו",
+      "gloss": "અને જો"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "જીવે"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "હજાર"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "વર્ષ"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "બે વખત"
+    },
+    {
+      "surface": "וטובה",
+      "gloss": "અને સારું"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "જુએ"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "શું... નથી"
+    },
+    {
+      "surface": "אל",
+      "gloss": "તરફ"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "સ્થાન"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "એક જ"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "બધા"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "જતા"
+    }
+  ],
+  "timestamp": "2026-08-21T17:31:34.932920556Z",
+  "model": "glm-5.3"
+}

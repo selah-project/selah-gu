@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 24:3",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 24,
+  "translation": "ચતુરાઈથી ઘર ⟨બંધાય છે⟩, અને સમજથી ⟨તે⟩ સ્થિર થાય છે.",
+  "tokens": [
+    {
+      "surface": "בחכמה",
+      "gloss": "ચતુરાઈથી"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "બંધાય છે"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ઘર"
+    },
+    {
+      "surface": "ובתבונה",
+      "gloss": "અને સમજથી"
+    },
+    {
+      "surface": "יתכונן",
+      "gloss": "સ્થિર થાય છે"
+    }
+  ],
+  "timestamp": "2026-08-21T17:01:15.362992584Z",
+  "model": "glm-5.3"
+}

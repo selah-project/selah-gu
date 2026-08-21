@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 14:30",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 14,
+  "translation": "દેહનું જીવન — આરોગ્યદાયી હૃદય; અને હાડકાંનો સડો — ઈર્ષ્યા.",
+  "tokens": [
+    {
+      "surface": "חיי",
+      "gloss": "જીવન"
+    },
+    {
+      "surface": "בשרים",
+      "gloss": "દેહનું"
+    },
+    {
+      "surface": "לב",
+      "gloss": "હૃદય"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "આરોગ્યદાયી"
+    },
+    {
+      "surface": "ורקב",
+      "gloss": "અને ... સડો"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "હાડકાંનો"
+    },
+    {
+      "surface": "קנאה",
+      "gloss": "ઈર્ષ્યા"
+    }
+  ],
+  "timestamp": "2026-08-21T16:57:02.150757844Z",
+  "model": "glm-5.3"
+}

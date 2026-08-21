@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "job 37:22",
+  "book": "job",
+  "lang": "gu",
+  "chapter": 37,
+  "translation": "ઉત્તરમાંથી સોનેરી તેજ આવે છે; એલોઆહ પર ⟨છે⟩ ભયંકર મહિમા.",
+  "tokens": [
+    {
+      "surface": "מצפון",
+      "gloss": "ઉત્તરમાંથી"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "સોનેરી"
+    },
+    {
+      "surface": "יאתה",
+      "gloss": "આવે છે"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "એલોઆહ"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "ભયંકર"
+    },
+    {
+      "surface": "הוד",
+      "gloss": "મહિમા"
+    }
+  ],
+  "timestamp": "2026-08-21T17:18:42.029169664Z",
+  "model": "glm-5.3"
+}

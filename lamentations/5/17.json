@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "lamentations 5:17",
+  "book": "lamentations",
+  "lang": "gu",
+  "chapter": 5,
+  "translation": "આ માટે અમારું હૃદય દુઃખી થયું ⟨છે⟩; આ બાબતો માટે અમારી આંખો અંધકારમય થઈ ગઈ ⟨છે⟩.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "માટે"
+    },
+    {
+      "surface": "זה",
+      "gloss": "આ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "થયું"
+    },
+    {
+      "surface": "דוה",
+      "gloss": "દુઃખી"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "અમારું હૃદય"
+    },
+    {
+      "surface": "על",
+      "gloss": "માટે"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "આ બાબતો"
+    },
+    {
+      "surface": "חשכו",
+      "gloss": "અંધકારમય થઈ ગઈ"
+    },
+    {
+      "surface": "עינינו",
+      "gloss": "અમારી આંખો"
+    }
+  ],
+  "timestamp": "2026-08-21T17:28:14.224840744Z",
+  "model": "glm-5.3"
+}

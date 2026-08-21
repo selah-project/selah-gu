@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 7:3",
+  "book": "daniel",
+  "lang": "gu",
+  "chapter": 7,
+  "translation": "અને ચાર મહાન પશુઓ સમુદ્રમાંથી ઊપડ્યાં, એક બીજાથી ભિન્ન.",
+  "tokens": [
+    {
+      "surface": "וארבע",
+      "gloss": "અને ચાર"
+    },
+    {
+      "surface": "חיון",
+      "gloss": "પશુઓ"
+    },
+    {
+      "surface": "רברבן",
+      "gloss": "મહાન"
+    },
+    {
+      "surface": "סלקן",
+      "gloss": "ઊપડ્યાં"
+    },
+    {
+      "surface": "מן",
+      "gloss": "…માંથી"
+    },
+    {
+      "surface": "ימא",
+      "gloss": "સમુદ્ર"
+    },
+    {
+      "surface": "שנין",
+      "gloss": "ભિન્ન"
+    },
+    {
+      "surface": "דא",
+      "gloss": "એક"
+    },
+    {
+      "surface": "מן",
+      "gloss": "…થી"
+    },
+    {
+      "surface": "דא",
+      "gloss": "બીજા"
+    }
+  ],
+  "timestamp": "2026-08-21T17:43:05.456459646Z",
+  "model": "glm-5.3"
+}

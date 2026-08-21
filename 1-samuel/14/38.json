@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-samuel 14:38",
+  "book": "1-samuel",
+  "lang": "gu",
+  "chapter": 14,
+  "translation": "અને શાઉલે કહ્યું: લોકોના સરદારો તમામ અહીં આવો, અને જાણો અને જુઓ કે આ પાપ આજે કેમ થયું.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "કહ્યું"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "શાઉલે"
+    },
+    {
+      "surface": "גשו",
+      "gloss": "આવો"
+    },
+    {
+      "surface": "הלם",
+      "gloss": "અહીં"
+    },
+    {
+      "surface": "כל",
+      "gloss": "તમામ"
+    },
+    {
+      "surface": "פנות",
+      "gloss": "સરદારો"
+    },
+    {
+      "surface": "העם",
+      "gloss": "લોકોના"
+    },
+    {
+      "surface": "ודעו",
+      "gloss": "અને જાણો"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "અને જુઓ"
+    },
+    {
+      "surface": "במה",
+      "gloss": "કેમ"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "થયું"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "પાપ"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "આ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "આજે"
+    }
+  ],
+  "timestamp": "2026-08-21T13:10:19.292218584Z",
+  "model": "glm-5.3"
+}

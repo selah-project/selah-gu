@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "jeremiah 5:30",
+  "book": "jeremiah",
+  "lang": "gu",
+  "chapter": 5,
+  "translation": "ભયંકર અને અસહ્ય વસ્તુ દેશમાં ⟨થઈ⟩ છે.",
+  "tokens": [
+    {
+      "surface": "שמה",
+      "gloss": "ભયંકર"
+    },
+    {
+      "surface": "ושערורה",
+      "gloss": "અને અસહ્ય"
+    },
+    {
+      "surface": "נהיתה",
+      "gloss": "⟨થઈ⟩ છે"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "દેશમાં"
+    }
+  ],
+  "timestamp": "2026-08-21T14:46:04.667218348Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 84:2",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 84,
+  "translation": "કેટલાં પ્રિય છે તારાં નિવાસ-ધામ, યાહવે સૈન્યોના!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "કેટલાં"
+    },
+    {
+      "surface": "ידידות",
+      "gloss": "પ્રિય"
+    },
+    {
+      "surface": "משכנותיך",
+      "gloss": "તારાં નિવાસ-ધામ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "સૈન્યોના"
+    }
+  ],
+  "timestamp": "2026-08-21T16:35:24.954765889Z",
+  "model": "glm-5.3"
+}

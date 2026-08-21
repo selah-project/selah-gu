@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 25:15",
+  "book": "genesis",
+  "lang": "gu",
+  "chapter": 25,
+  "translation": "હદદ, અને તેમા, યેતૂર, નાફીશ, અને કેદેમા.",
+  "tokens": [
+    {
+      "surface": "חדד",
+      "gloss": "હદદ"
+    },
+    {
+      "surface": "ותימא",
+      "gloss": "અને તેમા"
+    },
+    {
+      "surface": "יטור",
+      "gloss": "યેતૂર"
+    },
+    {
+      "surface": "נפיש",
+      "gloss": "નાફીશ"
+    },
+    {
+      "surface": "וקדמה",
+      "gloss": "અને કેદેમા"
+    }
+  ],
+  "timestamp": "2026-08-21T10:49:23.485494914Z",
+  "model": "glm-5.3"
+}

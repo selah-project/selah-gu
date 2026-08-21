@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-samuel 6:23",
+  "book": "2-samuel",
+  "lang": "gu",
+  "chapter": 6,
+  "translation": "અને શાઉલની પુત્રી મીખલને તેના મૃત્યુના દિવસ સુધી કોઈ સંતાન ⟨નહીં⟩ થયું.",
+  "tokens": [
+    {
+      "surface": "ולמיכל",
+      "gloss": "અને મીખલને"
+    },
+    {
+      "surface": "בת",
+      "gloss": "પુત્રી"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "શાઉલની"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "היה",
+      "gloss": "થયું"
+    },
+    {
+      "surface": "לה",
+      "gloss": "તેને"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "સંતાન"
+    },
+    {
+      "surface": "עד",
+      "gloss": "સુધી"
+    },
+    {
+      "surface": "יום",
+      "gloss": "દિવસ"
+    },
+    {
+      "surface": "מותה",
+      "gloss": "તેના મૃત્યુના"
+    }
+  ],
+  "timestamp": "2026-08-21T13:21:50.696483176Z",
+  "model": "glm-5.3"
+}

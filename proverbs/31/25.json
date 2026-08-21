@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 31:25",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 31,
+  "translation": "શક્તિ અને તેજ એનું વસ્ત્ર છે, અને તે છેલ્લા દિવસે હસશે.",
+  "tokens": [
+    {
+      "surface": "עז",
+      "gloss": "શક્તિ"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "અને તેજ"
+    },
+    {
+      "surface": "לבושה",
+      "gloss": "એનું વસ્ત્ર છે"
+    },
+    {
+      "surface": "ותשחק",
+      "gloss": "અને તે હસશે"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "દિવસે"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "છેલ્લા"
+    }
+  ],
+  "timestamp": "2026-08-21T17:04:07.070001815Z",
+  "model": "glm-5.3"
+}

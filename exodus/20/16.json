@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 20:16",
+  "book": "exodus",
+  "lang": "gu",
+  "chapter": 20,
+  "translation": "તું પોતાના પડોશી વિરુદ્ધ ખોટી સાક્ષી આપી જવાનો નહિ.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "નહિ"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "સાક્ષી આપે"
+    },
+    {
+      "surface": "ברעך",
+      "gloss": "પોતાના પડોશી વિરુદ્ધ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "સાક્ષી"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ખોટી"
+    }
+  ],
+  "timestamp": "2026-08-21T11:14:15.161167972Z",
+  "model": "glm-5.3"
+}

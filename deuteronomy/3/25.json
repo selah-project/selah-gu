@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 3:25",
+  "book": "deuteronomy",
+  "lang": "gu",
+  "chapter": 3,
+  "translation": "હું પસાર થઉં, હું વિનંતી કરું છું, અને યરદનની પેલે પાર જે ⟨the⟩ સારી ભૂમિ ⟨is⟩ તે ⟨את⟩ જોઉં — એ સારો પર્વત અને લબાનોન.",
+  "tokens": [
+    {
+      "surface": "אעברה",
+      "gloss": "હું પસાર થઉં"
+    },
+    {
+      "surface": "נא",
+      "gloss": "હું વિનંતી કરું છું"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "અને જોઉં"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "સારી ભૂમિ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ભૂમિ"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "સારી"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જે"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "પેલે પાર"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "યરદનની"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "પર્વત"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "સારો"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "એ"
+    },
+    {
+      "surface": "והלבנון",
+      "gloss": "અને લબાનોન"
+    }
+  ],
+  "timestamp": "2026-08-21T12:14:18.015622159Z",
+  "model": "glm-5.3"
+}

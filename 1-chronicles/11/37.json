@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 11:37",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 11,
+  "translation": "ખેત્સરો કર્મેલી, નાઅરાય એઝબાયનો પુત્ર.",
+  "tokens": [
+    {
+      "surface": "חצרו",
+      "gloss": "ખેત્સરો"
+    },
+    {
+      "surface": "הכרמלי",
+      "gloss": "કર્મેલી"
+    },
+    {
+      "surface": "ઠערי",
+      "gloss": "નાઅરાય"
+    },
+    {
+      "surface": "בן",
+      "gloss": "પુત્ર"
+    },
+    {
+      "surface": "אזבי",
+      "gloss": "એઝબાય"
+    }
+  ],
+  "timestamp": "2026-08-21T18:04:27.977898065Z",
+  "model": "glm-5.3"
+}

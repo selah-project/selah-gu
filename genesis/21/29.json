@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "genesis 21:29",
+  "book": "genesis",
+  "lang": "gu",
+  "chapter": 21,
+  "translation": "અને અબીમેલેખે અવ્રાહામને કહ્યું, “આ સાત ડોકિયાં શું ⟨છે⟩, જે તેં અલગ ઊભી રાખી છે?”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "અને…કહ્યું"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "અબીમેલેખે"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ને"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "અવ્રાહામને"
+    },
+    {
+      "surface": "מה",
+      "gloss": "શું"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "આ"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "સાત"
+    },
+    {
+      "surface": "כבשת",
+      "gloss": "ડોકિયાં"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "આ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જે"
+    },
+    {
+      "surface": "הצבת",
+      "gloss": "ઊભી રાખી છે"
+    },
+    {
+      "surface": "לבדנה",
+      "gloss": "અલગ"
+    }
+  ],
+  "timestamp": "2026-08-21T10:46:10.904570821Z",
+  "model": "glm-5.3"
+}

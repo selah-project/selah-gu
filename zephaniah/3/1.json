@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zephaniah 3:1",
+  "book": "zephaniah",
+  "lang": "gu",
+  "chapter": 3,
+  "translation": "હાય, તે બળવાખોર અને મલિન છે, ⟨એ⟩ લૂંટનાર નગર!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "હાય"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "બળવાખોર"
+    },
+    {
+      "surface": "ונגאלה",
+      "gloss": "અને મલિન"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "⟨એ⟩ નગર"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "લૂંટનાર"
+    }
+  ],
+  "timestamp": "2026-08-21T16:02:34.329486653Z",
+  "model": "glm-5.3"
+}

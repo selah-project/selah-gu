@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 139:9",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 139,
+  "translation": "હું પરોઢનાં પાંખો ઉઠાવું, સમુદ્રના છેલ્લા છેડે વસું,",
+  "tokens": [
+    {
+      "surface": "אשא",
+      "gloss": "ઉઠાવું"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "પાંખો"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "પરોઢનાં"
+    },
+    {
+      "surface": "אשכנה",
+      "gloss": "વસું"
+    },
+    {
+      "surface": "באחרית",
+      "gloss": "છેલ્લા છેડે"
+    },
+    {
+      "surface": "ים",
+      "gloss": "સમુદ્રના"
+    }
+  ],
+  "timestamp": "2026-08-21T16:48:11.937114527Z",
+  "model": "glm-5.3"
+}

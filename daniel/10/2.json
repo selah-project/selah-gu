@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "daniel 10:2",
+  "book": "daniel",
+  "lang": "gu",
+  "chapter": 10,
+  "translation": "તે દિવસોમાં હું દાનિયેલ ત્રણ પૂરા અઠવાડિયા — દિવસોના — શોક કરતો હતો.",
+  "tokens": [
+    {
+      "surface": "בימים",
+      "gloss": "દિવસોમાં"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "તે"
+    },
+    {
+      "surface": "אני",
+      "gloss": "હું"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "દાનિયેલ"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "હતો"
+    },
+    {
+      "surface": "מתאבל",
+      "gloss": "શોક કરતો"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "ત્રણ"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "અઠવાડિયા"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "દિવસોના"
+    }
+  ],
+  "timestamp": "2026-08-21T17:43:22.004376927Z",
+  "model": "glm-5.3"
+}

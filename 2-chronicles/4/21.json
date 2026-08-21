@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-chronicles 4:21",
+  "book": "2-chronicles",
+  "lang": "gu",
+  "chapter": 4,
+  "translation": "અને પુષ્પભૂષા, દીવડા અને સંબાળણીઓ — શુદ્ધ સોનાની; તે સંપૂર્ણ સોનું ⟨હતું⟩.",
+  "tokens": [
+    {
+      "surface": "והפרח",
+      "gloss": "અને પુષ્પભૂષા"
+    },
+    {
+      "surface": "והנרות",
+      "gloss": "દીવડા"
+    },
+    {
+      "surface": "והמלקחים",
+      "gloss": "સંબાળણીઓ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "સોનાની"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "તે"
+    },
+    {
+      "surface": "מכלות",
+      "gloss": "સંપૂર્ણ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "સોનું"
+    }
+  ],
+  "timestamp": "2026-08-21T18:15:35.572197418Z",
+  "model": "glm-5.3"
+}

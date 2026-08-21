@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "job 36:22",
+  "book": "job",
+  "lang": "gu",
+  "chapter": 36,
+  "translation": "જુઓ, એલ પોતાના બળથી ઊંચો છે; તેના જેવો કોણ શિક્ષક ⟨છે⟩?",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "જુઓ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "એલ"
+    },
+    {
+      "surface": "ישגיב",
+      "gloss": "ઊંચો છે"
+    },
+    {
+      "surface": "בכחו",
+      "gloss": "પોતાના બળથી"
+    },
+    {
+      "surface": "מי",
+      "gloss": "કોણ"
+    },
+    {
+      "surface": "כמהו",
+      "gloss": "તેના જેવો"
+    },
+    {
+      "surface": "מורה",
+      "gloss": "શિક્ષક"
+    }
+  ],
+  "timestamp": "2026-08-21T17:17:26.681509364Z",
+  "model": "glm-5.3"
+}

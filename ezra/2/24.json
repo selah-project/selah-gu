@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezra 2:24",
+  "book": "ezra",
+  "lang": "gu",
+  "chapter": 2,
+  "translation": "અઝ્માવેતના પુત્રો, ચાલીસ અને બે.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "עזמות",
+      "gloss": "અઝ્માવેત"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "ચાલીસ"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "અને બે"
+    }
+  ],
+  "timestamp": "2026-08-21T17:45:04.012708983Z",
+  "model": "glm-5.3"
+}

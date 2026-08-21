@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 13:6",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 13,
+  "translation": "યહૂદાહના કુળ માટે — કાલેવ, યફુન્નેહનો પુત્ર.",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "કુળ માટે"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "યહૂદાહના"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "કાલેવ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "પુત્ર"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "યફુન્નેહનો"
+    }
+  ],
+  "timestamp": "2026-08-21T11:55:08.564708688Z",
+  "model": "glm-5.3"
+}

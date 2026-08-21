@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 24:11",
+  "book": "deuteronomy",
+  "lang": "gu",
+  "chapter": 24,
+  "translation": "બહાર તું ઊભો રહેશે, અને જે માણસ પર તું ધિરાણ ઉઠાવનાર છે, તે જ ગિરવી બહાર તારી પાસે લાવશે.",
+  "tokens": [
+    {
+      "surface": "בחוץ",
+      "gloss": "બહાર"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "તું ઊભો રહેશે"
+    },
+    {
+      "surface": "והאיש",
+      "gloss": "અને જે માણસ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જે"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "તું"
+    },
+    {
+      "surface": "נשה",
+      "gloss": "ધિરાણ ઉઠાવનાર છે"
+    },
+    {
+      "surface": "בו",
+      "gloss": "તેના પર"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "લાવશે"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "તારી પાસે"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ગિરવી"
+    },
+    {
+      "surface": "העבוט",
+      "gloss": "ગિરવી"
+    },
+    {
+      "surface": "החוצה",
+      "gloss": "બહાર"
+    }
+  ],
+  "timestamp": "2026-08-21T12:25:14.505948695Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 13:10",
+  "book": "1-kings",
+  "lang": "gu",
+  "chapter": 13,
+  "translation": "તે બીજા માર્ગે ચાલ્યો, ને જે માર્ગે તે બેથ-એલમાં આવ્યો હતો તે માર્ગે પાછો ફર્યો નહીં.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "તે ચાલ્યો"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "માર્ગે"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "બીજા"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ને નહીં"
+    },
+    {
+      "surface": "שב",
+      "gloss": "પાછો ફર્યો"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "માર્ગે"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જે"
+    },
+    {
+      "surface": "בא",
+      "gloss": "તે આવ્યો હતો"
+    },
+    {
+      "surface": "בה",
+      "gloss": "તેમાં"
+    },
+    {
+      "surface": "אל",
+      "gloss": "તરફ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "બેથ-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "એલ"
+    }
+  ],
+  "timestamp": "2026-08-21T13:45:32.870605959Z",
+  "model": "glm-5.3"
+}

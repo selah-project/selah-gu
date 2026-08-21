@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 116:9",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 116,
+  "translation": "હું યાહવેના સામે ચાલીશ, જીવંતોના દેશોમાં.",
+  "tokens": [
+    {
+      "surface": "אתהלך",
+      "gloss": "હું ચાલીશ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ના સામે"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "בארצות",
+      "gloss": "દેશોમાં"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "જીવંતોના"
+    }
+  ],
+  "timestamp": "2026-08-21T16:42:41.787087348Z",
+  "model": "glm-5.3"
+}

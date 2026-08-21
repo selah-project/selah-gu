@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 40:12",
+  "book": "ezekiel",
+  "lang": "gu",
+  "chapter": 40,
+  "translation": "અને કોટડીઓની આગળ સીમા — એક હાત, અને એક હાત સીમા તે બાજુ; અને કોટડી છ હાત આ બાજુ અને છ હાત તે બાજુ.",
+  "tokens": [
+    {
+      "surface": "וגבול",
+      "gloss": "અને સીમા"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "આગળ"
+    },
+    {
+      "surface": "התאות",
+      "gloss": "કોટડીઓની"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "એક હાત"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "એક"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "અને એક હાત"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "એક"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "સીમા"
+    },
+    {
+      "surface": "מפה",
+      "gloss": "તે બાજુ"
+    },
+    {
+      "surface": "והתא",
+      "gloss": "અને કોટડી"
+    },
+    {
+      "surface": "שש",
+      "gloss": "છ"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "હાત"
+    },
+    {
+      "surface": "מפו",
+      "gloss": "આ બાજુ"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "અને છ"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "હાત"
+    },
+    {
+      "surface": "מפו",
+      "gloss": "તે બાજુ"
+    }
+  ],
+  "timestamp": "2026-08-21T15:40:00.843758670Z",
+  "model": "glm-5.3"
+}

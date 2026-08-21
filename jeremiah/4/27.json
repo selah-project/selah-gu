@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "jeremiah 4:27",
+  "book": "jeremiah",
+  "lang": "gu",
+  "chapter": 4,
+  "translation": "કેમ કે યાહવે આ પ્રમાણે કહે છે: આખી પૃથ્વી વેરાન થશે, છતાં હું સંપૂર્ણ વિનાશ નહીં કરું.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "કેમ કે"
+    },
+    {
+      "surface": "כה",
+      "gloss": "આ પ્રમાણે"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "કહે છે"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "વેરાન"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "થશે"
+    },
+    {
+      "surface": "כל",
+      "gloss": "આખી"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "પૃથ્વી"
+    },
+    {
+      "surface": "וכלה",
+      "gloss": "સંપૂર્ણ વિનાશ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "કરું"
+    }
+  ],
+  "timestamp": "2026-08-21T14:46:30.323010618Z",
+  "model": "glm-5.3"
+}

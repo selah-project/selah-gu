@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 8:2",
+  "book": "genesis",
+  "lang": "gu",
+  "chapter": 8,
+  "translation": "અને અગાધનાં ઝરણાઓ અને આકાશની વિંડો બંધ થઈ, અને આકાશમાંથી વરસાદ અટકી ગયો.",
+  "tokens": [
+    {
+      "surface": "ויסכרו",
+      "gloss": "બંધ થઈ"
+    },
+    {
+      "surface": "מעינת",
+      "gloss": "ઝરણાઓ"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "અગાધનાં"
+    },
+    {
+      "surface": "וארבת",
+      "gloss": "અને વિંડો"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "આકાશની"
+    },
+    {
+      "surface": "ויכלא",
+      "gloss": "અટકી ગયો"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "વરસાદ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "માંથી"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "આકાશ"
+    }
+  ],
+  "timestamp": "2026-08-21T10:39:37.093976109Z",
+  "model": "glm-5.3"
+}

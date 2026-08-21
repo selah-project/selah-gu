@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "amos 3:3",
+  "book": "amos",
+  "lang": "gu",
+  "chapter": 3,
+  "translation": "શું બે જણ ⟨સાથે⟩ ચાલશે, જો તેઓ મળ્યા ન હોય?",
+  "tokens": [
+    {
+      "surface": "הילכו",
+      "gloss": "શું ચાલશે"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "બે જણ"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "સાથે"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "જો... ન"
+    },
+    {
+      "surface": "אם",
+      "gloss": "જો... ન"
+    },
+    {
+      "surface": "נועדו",
+      "gloss": "મળ્યા ન હોય"
+    }
+  ],
+  "timestamp": "2026-08-21T15:51:45.324782803Z",
+  "model": "glm-5.3"
+}

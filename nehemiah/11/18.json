@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "nehemiah 11:18",
+  "book": "nehemiah",
+  "lang": "gu",
+  "chapter": 11,
+  "translation": "પવિત્ર નગરમાં બધા લેવીયો ⟨હતા⟩ — બસો એંસી ચાર.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "બધા"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "લેવીયો"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "નગરમાં"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "પવિત્ર"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "બસો"
+    },
+    {
+      "surface": "שמנים",
+      "gloss": "એંસી"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "ચાર"
+    }
+  ],
+  "timestamp": "2026-08-21T17:58:23.523714056Z",
+  "model": "glm-5.3"
+}

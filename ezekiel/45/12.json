@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 45:12",
+  "book": "ezekiel",
+  "lang": "gu",
+  "chapter": 45,
+  "translation": "અને શેકેલ વીસ ગેરા થાય; વીસ શેકેલ, પાંચ અને વીસ શેકેલ, દસ અને પાંચ શેકેલ — તમારો મને થાય.",
+  "tokens": [
+    {
+      "surface": "והשקל",
+      "gloss": "અને શેકેલ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "વીસ"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "ગેરા"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "વીસ"
+    },
+    {
+      "surface": "שקלים",
+      "gloss": "શેકેલ"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "પાંચ"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "અને વીસ"
+    },
+    {
+      "surface": "שקלים",
+      "gloss": "શેકેલ"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "દસ"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "અને પાંચ"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "શેકેલ"
+    },
+    {
+      "surface": "המנה",
+      "gloss": "મને"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "થાય"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "તમારા માટે"
+    }
+  ],
+  "timestamp": "2026-08-21T15:43:06.627422654Z",
+  "model": "glm-5.3"
+}

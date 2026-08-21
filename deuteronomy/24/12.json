@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 24:12",
+  "book": "deuteronomy",
+  "lang": "gu",
+  "chapter": 24,
+  "translation": "અને જો તે દરિદ્ર માણસ હોય, તો તું તેની ગિરવી સાથે સૂઈશ નહીં.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "અને જો"
+    },
+    {
+      "surface": "איש",
+      "gloss": "માણસ"
+    },
+    {
+      "surface": "עני",
+      "gloss": "દરિદ્ર"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "તે હોય"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "તું સૂઈશ"
+    },
+    {
+      "surface": "בעבטו",
+      "gloss": "તેની ગિરવી સાથે"
+    }
+  ],
+  "timestamp": "2026-08-21T12:25:14.506099190Z",
+  "model": "glm-5.3"
+}

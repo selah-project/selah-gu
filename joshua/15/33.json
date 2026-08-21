@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "joshua 15:33",
+  "book": "joshua",
+  "lang": "gu",
+  "chapter": 15,
+  "translation": "નીચાણમાં: એશ્તાઓલ, અને ત્સોરઆ, અને અશ્ના,",
+  "tokens": [
+    {
+      "surface": "בשפלה",
+      "gloss": "નીચાણમાં"
+    },
+    {
+      "surface": "אשתאול",
+      "gloss": "એશ્તાઓલ"
+    },
+    {
+      "surface": "וצרעה",
+      "gloss": "અને ત્સોરઆ"
+    },
+    {
+      "surface": "ואשנה",
+      "gloss": "અને અશ્ના"
+    }
+  ],
+  "timestamp": "2026-08-21T12:40:50.137503184Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 7:36",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 7,
+  "translation": "ત્સોફાખના પુત્રો: સુઆખ, અને હર્નેફેર, અને શુઆલ, અને બેરી, અને ઇમ્રા.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "צופח",
+      "gloss": "ત્સોફાખ"
+    },
+    {
+      "surface": "סוח",
+      "gloss": "સુઆખ"
+    },
+    {
+      "surface": "וחרנפר",
+      "gloss": "અને હર્નેફેર"
+    },
+    {
+      "surface": "ושועל",
+      "gloss": "અને શુઆલ"
+    },
+    {
+      "surface": "וברי",
+      "gloss": "અને બેરી"
+    },
+    {
+      "surface": "וימרה",
+      "gloss": "અને ઇમ્રા"
+    }
+  ],
+  "timestamp": "2026-08-21T18:03:06.207672299Z",
+  "model": "glm-5.3"
+}

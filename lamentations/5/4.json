@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "lamentations 5:4",
+  "book": "lamentations",
+  "lang": "gu",
+  "chapter": 5,
+  "translation": "આપણું પાણી ચાંદીમાં પીધું છે, આપણું લાકડું મૂલ્યમાં આવે છે.",
+  "tokens": [
+    {
+      "surface": "מימינו",
+      "gloss": "આપણું પાણી"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "ચાંદીમાં"
+    },
+    {
+      "surface": "שתינו",
+      "gloss": "પીધું છે"
+    },
+    {
+      "surface": "עצינו",
+      "gloss": "આપણું લાકડું"
+    },
+    {
+      "surface": "במחיר",
+      "gloss": "મૂલ્યમાં"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "આવે છે"
+    }
+  ],
+  "timestamp": "2026-08-21T17:28:13.699726876Z",
+  "model": "glm-5.3"
+}

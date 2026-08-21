@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 51:1",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 51,
+  "translation": "સંગીત-દિગ્દર્શક માટે; દાવીદનું સ્તુતિ-ગીત.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "સંગીત-દિગ્દર્શક માટે"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "સ્તુતિ-ગીત"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "દાવીદનું"
+    }
+  ],
+  "timestamp": "2026-08-21T16:24:18.844079060Z",
+  "model": "glm-5.3"
+}

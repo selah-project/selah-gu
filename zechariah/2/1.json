@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 2:1",
+  "book": "zechariah",
+  "lang": "gu",
+  "chapter": 2,
+  "translation": "અને મેં ⟨את⟩ મારી આંખો ઉઠાવી અને જોયું, અને તે જ જુઓ — ચાર શિંગડાં.",
+  "tokens": [
+    {
+      "surface": "ואשא",
+      "gloss": "અને મેં ઉઠાવી"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "મારી આંખો"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "મારી આંખો"
+    },
+    {
+      "surface": "וארא",
+      "gloss": "અને જોયું"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "અને તે જ જુઓ"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "ચાર"
+    },
+    {
+      "surface": "קרנות",
+      "gloss": "શિંગડાં"
+    }
+  ],
+  "timestamp": "2026-08-21T16:05:43.097578156Z",
+  "model": "glm-5.3"
+}

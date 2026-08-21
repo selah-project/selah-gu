@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "daniel 1:21",
+  "book": "daniel",
+  "lang": "gu",
+  "chapter": 1,
+  "translation": "અને દાનિયેલ ⟨ત્યાં⟩ રહ્યો કોરેશ ⟨મહારાજાનાં⟩ પ્રથમ વર્ષ સુધી.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "અને રહ્યો"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "દાનિયેલ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "સુધી"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "વર્ષ"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "પ્રથમ"
+    },
+    {
+      "surface": "לכורש",
+      "gloss": "કોરેશનાં"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "મહારાજાનાં"
+    }
+  ],
+  "timestamp": "2026-08-21T17:34:56.282981897Z",
+  "model": "glm-5.3"
+}

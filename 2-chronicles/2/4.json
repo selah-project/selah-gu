@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 2:4",
+  "book": "2-chronicles",
+  "lang": "gu",
+  "chapter": 2,
+  "translation": "અને જે મકાન હું બાંધું છું તે મોટું છે, કેમ કે આપણા એલોહીમ બધા એલોહીમ કરતાં મોટા છે.",
+  "tokens": [
+    {
+      "surface": "והבית",
+      "gloss": "અને ⟨the⟩ મકાન"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જે"
+    },
+    {
+      "surface": "אני",
+      "gloss": "હું"
+    },
+    {
+      "surface": "בונה",
+      "gloss": "બાંધું છું"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "મોટું છે"
+    },
+    {
+      "surface": "כי",
+      "gloss": "કેમ કે"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "મોટા છે"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "આપણા એલોહીમ"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "બધા કરતાં"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "એલોહીમ"
+    }
+  ],
+  "timestamp": "2026-08-21T18:16:26.317632528Z",
+  "model": "glm-5.3"
+}

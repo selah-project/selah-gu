@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 33:7",
+  "book": "isaiah",
+  "lang": "gu",
+  "chapter": 33,
+  "translation": "જુઓ, તેમના વીરો બહાર ચીસો પાડે છે; શાંતિના દૂતો કડવાશથી રડશે.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "જુઓ"
+    },
+    {
+      "surface": "אראלם",
+      "gloss": "તેમના વીરો"
+    },
+    {
+      "surface": "צעקו",
+      "gloss": "ચીસો પાડે છે"
+    },
+    {
+      "surface": "חצה",
+      "gloss": "બહાર"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "દૂતો"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "શાંતિના"
+    },
+    {
+      "surface": "מר",
+      "gloss": "કડવાશથી"
+    },
+    {
+      "surface": "יבכיון",
+      "gloss": "રડશે"
+    }
+  ],
+  "timestamp": "2026-08-21T14:24:34.816351646Z",
+  "model": "glm-5.3"
+}

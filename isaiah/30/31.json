@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "isaiah 30:31",
+  "book": "isaiah",
+  "lang": "gu",
+  "chapter": 30,
+  "translation": "કેમ કે યાહવેના અવાજથી અશ્શૂર તૂટી પડશે; લાકડીથી તે પ્રહાર કરશે.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "કેમ કે"
+    },
+    {
+      "surface": "מקול",
+      "gloss": "અવાજથી"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવેના"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "તૂટી પડશે"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "અશ્શૂર"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "લાકડીથી"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "પ્રહાર કરશે"
+    }
+  ],
+  "timestamp": "2026-08-21T14:25:40.616397002Z",
+  "model": "glm-5.3"
+}

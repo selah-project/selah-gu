@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "job 38:36",
+  "book": "job",
+  "lang": "gu",
+  "chapter": 38,
+  "translation": "કોણે અંતરંગમાં જ્ઞાન મૂક્યું? અથવા કોણે કૂકડિયાને સમજ આપી?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "કોણે"
+    },
+    {
+      "surface": "שת",
+      "gloss": "મૂક્યું"
+    },
+    {
+      "surface": "בטחות",
+      "gloss": "અંતરંગમાં"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "જ્ઞાન"
+    },
+    {
+      "surface": "או",
+      "gloss": "અથવા"
+    },
+    {
+      "surface": "מי",
+      "gloss": "કોણે"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "આપી"
+    },
+    {
+      "surface": "לשכוי",
+      "gloss": "કૂકડિયાને"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "સમજ"
+    }
+  ],
+  "timestamp": "2026-08-21T17:19:18.979886823Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "song-of-songs 7:11",
+  "book": "song-of-songs",
+  "lang": "gu",
+  "chapter": 7,
+  "translation": "હું મારા પ્રિયતમની છું, અને ⟨છે⟩ તેની તૃષ્ણા મારા પર.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "હું"
+    },
+    {
+      "surface": "לדודי",
+      "gloss": "મારા પ્રિયતમની"
+    },
+    {
+      "surface": "ועלי",
+      "gloss": "અને મારા પર"
+    },
+    {
+      "surface": "תשוקתו",
+      "gloss": "તેની તૃષ્ણા"
+    }
+  ],
+  "timestamp": "2026-08-21T17:23:00.946844973Z",
+  "model": "glm-5.3"
+}

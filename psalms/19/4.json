@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 19:4",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 19,
+  "translation": "કોઈ વચન નથી, કોઈ શબ્દો નથી; તેમનો અવાજ સંભળાતો નથી.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "કોઈ…નથી"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "વચન"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "અને કોઈ…નથી"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "શબ્દો"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "વિના"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "સંભળાતો નથી"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "તેમનો અવાજ"
+    }
+  ],
+  "timestamp": "2026-08-21T16:15:18.788374522Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 1:6",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 1,
+  "translation": "શિમઓન માટે — શલુમીએલ, ત્સુરીશદ્દાયનો પુત્ર।",
+  "tokens": [
+    {
+      "surface": "לשמעון",
+      "gloss": "શિમઓન માટે"
+    },
+    {
+      "surface": "שלמיאל",
+      "gloss": "શલુમીએલ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "પુત્ર"
+    },
+    {
+      "surface": "צורישדי",
+      "gloss": "ત્સુરીશદ્દાયનો"
+    }
+  ],
+  "timestamp": "2026-08-21T11:46:41.847255941Z",
+  "model": "glm-5.3"
+}

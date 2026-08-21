@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 3:2",
+  "book": "ecclesiastes",
+  "lang": "gu",
+  "chapter": 3,
+  "translation": "જન્મ લેવાનો સમય, અને મરવાનો સમય; રોપવાનો સમય, અને રોપેલું ⟨વેરી⟩ નાખવાનો સમય.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "સમય"
+    },
+    {
+      "surface": "ללדת",
+      "gloss": "જન્મ લેવાનો"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "અને મરવાનો સમય"
+    },
+    {
+      "surface": "למות",
+      "gloss": "મરવાનો"
+    },
+    {
+      "surface": "עת",
+      "gloss": "રોપવાનો સમય"
+    },
+    {
+      "surface": "לטעת",
+      "gloss": "રોપવાનો"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "અને નાખવાનો સમય"
+    },
+    {
+      "surface": "לעקור",
+      "gloss": "ઉખેડી નાખવાનો"
+    },
+    {
+      "surface": "נטוע",
+      "gloss": "રોપેલું"
+    }
+  ],
+  "timestamp": "2026-08-21T17:29:15.138707706Z",
+  "model": "glm-5.3"
+}

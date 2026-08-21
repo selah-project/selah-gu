@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 27:3",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 27,
+  "translation": "પેરેસના પુત્રોમાંથી ⟨he was⟩ સૈન્યોના બધા સરદારોનો મુખિયો, પ્રથમ મહિના માટે.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "માંથી"
+    },
+    {
+      "surface": "בני",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "પેરેસ"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "મુખિયો"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "બધા"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "સરદારોનો"
+    },
+    {
+      "surface": "הצבאות",
+      "gloss": "સૈન્યોના"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "મહિના માટે"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "પ્રથમ"
+    }
+  ],
+  "timestamp": "2026-08-21T18:13:36.077554039Z",
+  "model": "glm-5.3"
+}

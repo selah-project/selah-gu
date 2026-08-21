@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 34:10",
+  "book": "deuteronomy",
+  "lang": "gu",
+  "chapter": 34,
+  "translation": "અને ઇસ્રાએલમાં મોશે જેવો કોઈ નબી પછી ઊભો થયો નહીં, જેને યાહવેએ મુખામુખ ઓળખ્યો,",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "અને ... નહીં"
+    },
+    {
+      "surface": "קם",
+      "gloss": "ઊભો થયો"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "નબી"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "પછી"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "ઇસ્રાએલમાં"
+    },
+    {
+      "surface": "כמשה",
+      "gloss": "મોશે જેવો"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જેને"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "ઓળખ્યો"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવેએ"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "મુખ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "સામે"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "મુખ"
+    }
+  ],
+  "timestamp": "2026-08-21T12:32:54.271580110Z",
+  "model": "glm-5.3"
+}

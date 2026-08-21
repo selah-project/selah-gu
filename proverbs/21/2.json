@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 21:2",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 21,
+  "translation": "માણસનો દરેક માર્ગ તેની પોતાની આંખોમાં સાચો ⟨લાગે છે⟩, પણ હૃદયોને તોલનાર યાહવે ⟨છે⟩.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "દરેક"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "માર્ગ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "માણસ"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "સાચો"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "તેની આંખોમાં"
+    },
+    {
+      "surface": "ותכן",
+      "gloss": "પણ તોલનાર"
+    },
+    {
+      "surface": "לבות",
+      "gloss": "હૃદયોને"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    }
+  ],
+  "timestamp": "2026-08-21T16:59:36.073323353Z",
+  "model": "glm-5.3"
+}

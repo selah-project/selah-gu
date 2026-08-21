@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 3:15",
+  "book": "2-chronicles",
+  "lang": "gu",
+  "chapter": 3,
+  "translation": "અને તેણે ઘરના સામે બે સ્તંભો બનાવ્યા, પાંત્રીસ હાત લંબાઈના; અને જે મુગટ તેના મસ્તક પર ⟨હતો⟩ તે પાંચ હાતનો.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "અને તેણે બનાવ્યા"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "સામે"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ઘરના"
+    },
+    {
+      "surface": "עמודים",
+      "gloss": "સ્તંભો"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "બે"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "હાત"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "ત્રીસ"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "અને પાંચ"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "લંબાઈ"
+    },
+    {
+      "surface": "והצפת",
+      "gloss": "અને મુગટ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જે"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "તેના મસ્તક"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "હાત"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "પાંચ"
+    }
+  ],
+  "timestamp": "2026-08-21T18:15:52.539573522Z",
+  "model": "glm-5.3"
+}

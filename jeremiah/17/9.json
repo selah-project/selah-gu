@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 17:9",
+  "book": "jeremiah",
+  "lang": "gu",
+  "chapter": 17,
+  "translation": "કપટી છે ⟨the⟩ હૃદય બધાં કરતાં, અને અસાધ્ય ⟨તે⟩; કોણ તેને જાણી શકે?",
+  "tokens": [
+    {
+      "surface": "עקב",
+      "gloss": "કપટી"
+    },
+    {
+      "surface": "הלב",
+      "gloss": "હૃદય"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "બધાં કરતાં"
+    },
+    {
+      "surface": "ואנש",
+      "gloss": "અને અસાધ્ય"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨તે⟩"
+    },
+    {
+      "surface": "מי",
+      "gloss": "કોણ"
+    },
+    {
+      "surface": "ידענו",
+      "gloss": "તેને જાણી શકે"
+    }
+  ],
+  "timestamp": "2026-08-21T14:52:15.244581751Z",
+  "model": "glm-5.3"
+}

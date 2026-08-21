@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 41:26",
+  "book": "genesis",
+  "lang": "gu",
+  "chapter": 41,
+  "translation": "સાત સારી ગાયો — ⟨તે⟩ સાત વર્ષ છે, અને સાત સારા કણસલા — ⟨તે⟩ સાત વર્ષ છે; સ્વપ્ન એક જ ⟨છે⟩.",
+  "tokens": [
+    {
+      "surface": "שבע",
+      "gloss": "સાત"
+    },
+    {
+      "surface": "פרת",
+      "gloss": "ગાયો"
+    },
+    {
+      "surface": "הטבת",
+      "gloss": "સારી"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "સાત"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "વર્ષ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "તે"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "અને સાત"
+    },
+    {
+      "surface": "השבלים",
+      "gloss": "કણસલા"
+    },
+    {
+      "surface": "הטבת",
+      "gloss": "સારા"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "સાત"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "વર્ષ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "તે"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "સ્વપ્ન"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "એક"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "જ"
+    }
+  ],
+  "timestamp": "2026-08-21T10:59:28.805733529Z",
+  "model": "glm-5.3"
+}

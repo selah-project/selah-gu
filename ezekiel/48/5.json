@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 48:5",
+  "book": "ezekiel",
+  "lang": "gu",
+  "chapter": 48,
+  "translation": "અને મનશ્શેની સીમા પર, પૂર્વ દિશાથી પશ્ચિમ દિશા સુધી, એફ્રાયિમ — એક ⟨ભાગ⟩.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "અને... પર"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "સીમા"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "મનશ્શેની"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "દિશાથી"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "પૂર્વ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "સુધી"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "દિશા"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "પશ્ચિમ"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "એફ્રાયિમ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "એક"
+    }
+  ],
+  "timestamp": "2026-08-21T15:44:21.403245820Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 26:24",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 26,
+  "translation": "અને શેબુએલ ગેર્શોમનો પુત્ર, મોશેનો પુત્ર, ભંડારો પર પ્રમુખ ⟨હતો⟩.",
+  "tokens": [
+    {
+      "surface": "ושבאל",
+      "gloss": "અને શેબુએલ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "પુત્ર"
+    },
+    {
+      "surface": "גרשום",
+      "gloss": "ગેર્શોમનો"
+    },
+    {
+      "surface": "בן",
+      "gloss": "પુત્ર"
+    },
+    {
+      "surface": "משה",
+      "gloss": "મોશેનો"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "પ્રમુખ"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "האצרות",
+      "gloss": "ભંડારો"
+    }
+  ],
+  "timestamp": "2026-08-21T18:13:03.095331748Z",
+  "model": "glm-5.3"
+}

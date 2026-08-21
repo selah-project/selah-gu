@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 4:25",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 4,
+  "translation": "શલ્લૂમ તેનો પુત્ર, મિબ્સામ તેનો પુત્ર, મિશ્મા તેનો પુત્ર.",
+  "tokens": [
+    {
+      "surface": "שלם",
+      "gloss": "શલ્લૂમ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "તેનો પુત્ર"
+    },
+    {
+      "surface": "מבשם",
+      "gloss": "મિબ્સામ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "તેનો પુત્ર"
+    },
+    {
+      "surface": "משמע",
+      "gloss": "મિશ્મા"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "તેનો પુત્ર"
+    }
+  ],
+  "timestamp": "2026-08-21T18:01:12.138061642Z",
+  "model": "glm-5.3"
+}

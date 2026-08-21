@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 22:11",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 22,
+  "translation": "તમારા પર મને ગર્ભથી ફેંક્યો હતો; મારી માતાના ઉદરથી તમે મારા એલ છો.",
+  "tokens": [
+    {
+      "surface": "עליך",
+      "gloss": "તમારા પર"
+    },
+    {
+      "surface": "השלכתי",
+      "gloss": "ફેંક્યો હતો"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "ગર્ભથી"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "ઉદરથી"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "મારી માતાના"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "મારા એલ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "તમે"
+    }
+  ],
+  "timestamp": "2026-08-21T16:14:44.407515806Z",
+  "model": "glm-5.3"
+}

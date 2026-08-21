@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezekiel 41:14",
+  "book": "ezekiel",
+  "lang": "gu",
+  "chapter": 41,
+  "translation": "અને ⟨the⟩ ભવનના આગળના ભાગની ⟨the⟩ પહોળાઈ અને પૂર્વ તરફના વિભાજિત સ્થાનની — સો કોઈટ.",
+  "tokens": [
+    {
+      "surface": "ורחב",
+      "gloss": "અને પહોળાઈ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "આગળનો ભાગ"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ભવન"
+    },
+    {
+      "surface": "והגזרה",
+      "gloss": "અને વિભાજિત સ્થાન"
+    },
+    {
+      "surface": "לקדים",
+      "gloss": "પૂર્વ તરફ"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "સો"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "કોઈટ"
+    }
+  ],
+  "timestamp": "2026-08-21T18:54:21.648377428Z",
+  "model": "glm-5.3"
+}

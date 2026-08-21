@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 28:5",
+  "book": "deuteronomy",
+  "lang": "gu",
+  "chapter": 28,
+  "translation": "ધન્ય છે તારી ટોપલી અને તારું કણક-પાત્ર.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "ધન્ય છે"
+    },
+    {
+      "surface": "טנאך",
+      "gloss": "તારી ટોપલી"
+    },
+    {
+      "surface": "ומשארתך",
+      "gloss": "અને તારું કણક-પાત્ર"
+    }
+  ],
+  "timestamp": "2026-08-21T12:27:52.404779818Z",
+  "model": "glm-5.3"
+}

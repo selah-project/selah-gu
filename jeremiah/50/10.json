@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 50:10",
+  "book": "jeremiah",
+  "lang": "gu",
+  "chapter": 50,
+  "translation": "અને કસદીઓ (કલદી) લૂંટ બનશે; તેને લૂટનારા બધા સંતૃપ્ત થશે, યાહવેના વચન છે.",
+  "tokens": [
+    {
+      "surface": "והיתה",
+      "gloss": "અને તે થશે"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "કસદીઓ"
+    },
+    {
+      "surface": "לשלל",
+      "gloss": "લૂંટ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "બધા"
+    },
+    {
+      "surface": "שלליה",
+      "gloss": "તેને લૂટનારા"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "સંતૃપ્ત થશે"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "વચન છે"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    }
+  ],
+  "timestamp": "2026-08-21T15:12:11.209485440Z",
+  "model": "glm-5.3"
+}

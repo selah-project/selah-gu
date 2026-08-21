@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 6:22",
+  "book": "genesis",
+  "lang": "gu",
+  "chapter": 6,
+  "translation": "અને નૂહે એ બધું કર્યું જેમ એલોહીમે તેને ⟨את⟩ આજ્ઞા આપી હતી; એમ જ તેણે કર્યું.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "અને તેણે કર્યું"
+    },
+    {
+      "surface": "נח",
+      "gloss": "નૂહ"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "જેમ બધું"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જે"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "આજ્ઞા આપી"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "તેને"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "એલોહીમે"
+    },
+    {
+      "surface": "כן",
+      "gloss": "એમ જ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "કર્યું"
+    }
+  ],
+  "timestamp": "2026-08-21T10:39:20.501950886Z",
+  "model": "glm-5.3"
+}

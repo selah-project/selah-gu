@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 9:13",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 9,
+  "translation": "મૂર્ખતાની સ્ત્રી કોલાહળ કરે છે — ⟨એ⟩ પટાયણ છે અને જાણતી નથી કે શું.",
+  "tokens": [
+    {
+      "surface": "אשת",
+      "gloss": "સ્ત્રી"
+    },
+    {
+      "surface": "כסילות",
+      "gloss": "મૂર્ખતાની"
+    },
+    {
+      "surface": "המיה",
+      "gloss": "કોલાહળ કરે છે"
+    },
+    {
+      "surface": "פתיות",
+      "gloss": "પટાયણ"
+    },
+    {
+      "surface": "ובל",
+      "gloss": "અને નહીં"
+    },
+    {
+      "surface": "ידעה",
+      "gloss": "જાણતી"
+    },
+    {
+      "surface": "מה",
+      "gloss": "શું"
+    }
+  ],
+  "timestamp": "2026-08-21T16:54:26.687055589Z",
+  "model": "glm-5.3"
+}

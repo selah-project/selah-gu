@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "leviticus 13:53",
+  "book": "leviticus",
+  "lang": "gu",
+  "chapter": 13,
+  "translation": "અને જો કોહેન જુએ, અને જુઓ, ⟨છતાં⟩ નગ વસ્ત્રમાં કે તાણમાં કે વાણમાં કે ચામડાના કોઈ પણ સાધનમાં ફેલાયો ન હોય,",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "અને જો"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "જુએ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "કોહેન"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "અને જુઓ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નહિ"
+    },
+    {
+      "surface": "פשה",
+      "gloss": "ફેલાયો"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "નગ"
+    },
+    {
+      "surface": "בבגד",
+      "gloss": "વસ્ત્રમાં"
+    },
+    {
+      "surface": "או",
+      "gloss": "કે"
+    },
+    {
+      "surface": "בשתי",
+      "gloss": "તાણમાં"
+    },
+    {
+      "surface": "או",
+      "gloss": "કે"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "વાણમાં"
+    },
+    {
+      "surface": "או",
+      "gloss": "કે"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "કોઈ પણ"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "સાધનમાં"
+    },
+    {
+      "surface": "עור",
+      "gloss": "ચામડાના"
+    }
+  ],
+  "timestamp": "2026-08-21T11:37:38.619356846Z",
+  "model": "glm-5.3"
+}

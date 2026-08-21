@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 14:6",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 14,
+  "translation": "દરિદ્રી ની સલાહને તમે લાજ આપો છો, કેમ કે યાહવે તેનો શરણસ્થાન ⟨છે⟩.",
+  "tokens": [
+    {
+      "surface": "עצת",
+      "gloss": "સલાહને"
+    },
+    {
+      "surface": "עני",
+      "gloss": "દરિદ્રી"
+    },
+    {
+      "surface": "תבישו",
+      "gloss": "લાજ આપો છો"
+    },
+    {
+      "surface": "כי",
+      "gloss": "કેમ કે"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "מחסהו",
+      "gloss": "તેનો શરણસ્થાન"
+    }
+  ],
+  "timestamp": "2026-08-21T16:12:32.159199374Z",
+  "model": "glm-5.3"
+}

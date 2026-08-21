@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 11:12",
+  "book": "genesis",
+  "lang": "gu",
+  "chapter": 11,
+  "translation": "અને અરપકશદ પાંચ અને ત્રીસ વર્ષ જીવ્યો, અને તેણે ⟨את⟩ શેલખને જન્મ આપ્યો.",
+  "tokens": [
+    {
+      "surface": "וארפכשד",
+      "gloss": "અને અરપકશદ"
+    },
+    {
+      "surface": "חי",
+      "gloss": "જીવ્યો"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "પાંચ"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "અને ત્રીસ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "વર્ષ"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "જન્મ આપ્યો"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "શેલખને"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "શેલખ"
+    }
+  ],
+  "timestamp": "2026-08-21T10:41:33.492425100Z",
+  "model": "glm-5.3"
+}

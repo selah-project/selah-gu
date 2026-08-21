@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 39:11",
+  "book": "exodus",
+  "lang": "gu",
+  "chapter": 39,
+  "translation": "અને બીજો હાર: ગાર્નેટ, નીલમણિ અને હીરો।",
+  "tokens": [
+    {
+      "surface": "והטור",
+      "gloss": "અને બીજો હાર"
+    },
+    {
+      "surface": "השני",
+      "gloss": "બીજો"
+    },
+    {
+      "surface": "נפך",
+      "gloss": "ગાર્નેટ"
+    },
+    {
+      "surface": "ספיר",
+      "gloss": "નીલમણિ"
+    },
+    {
+      "surface": "ויהלם",
+      "gloss": "અને હીરો"
+    }
+  ],
+  "timestamp": "2026-08-21T11:28:15.379538761Z",
+  "model": "glm-5.3"
+}

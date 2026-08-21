@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 10:27",
+  "book": "genesis",
+  "lang": "gu",
+  "chapter": 10,
+  "translation": "અને ⟨את⟩ હદોરામ, અને ⟨את⟩ ઉઝાલ, અને ⟨את⟩ દિક્લાહ.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "અને ⟨את⟩",
+      "marks": "હદોરામ"
+    },
+    {
+      "surface": "הדורם",
+      "gloss": "હદોરામ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "અને ⟨את⟩",
+      "marks": "ઉઝાલ"
+    },
+    {
+      "surface": "אוזל",
+      "gloss": "ઉઝાલ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "અને ⟨את⟩",
+      "marks": "દિક્લાહ"
+    },
+    {
+      "surface": "דקלה",
+      "gloss": "દિક્લાહ"
+    }
+  ],
+  "timestamp": "2026-08-21T10:41:47.096827325Z",
+  "model": "glm-5.3"
+}

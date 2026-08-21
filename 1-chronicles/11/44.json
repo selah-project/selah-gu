@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-chronicles 11:44",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 11,
+  "translation": "ઉઝીયા અશ્તરોતી, શામા અને યેઉએલ હોતામ અરોએરીના પુત્રો,",
+  "tokens": [
+    {
+      "surface": "עזיא",
+      "gloss": "ઉઝીયા"
+    },
+    {
+      "surface": "העשתרתי",
+      "gloss": "અશ્તરોતી"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "શામા"
+    },
+    {
+      "surface": "ויעואל",
+      "gloss": "અને યેઉએલ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "חותם",
+      "gloss": "હોતામ"
+    },
+    {
+      "surface": "הערערי",
+      "gloss": "અરોએરી"
+    }
+  ],
+  "timestamp": "2026-08-21T18:04:31.174653181Z",
+  "model": "glm-5.3"
+}

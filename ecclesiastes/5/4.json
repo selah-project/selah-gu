@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 5:4",
+  "book": "ecclesiastes",
+  "lang": "gu",
+  "chapter": 5,
+  "translation": "સારું છે કે તું પ્રતિજ્ઞા ન કરે, કરતાં કે કરે અને પૂરી ન કરે.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "સારું છે"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "કે"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ન"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "તું પ્રતિજ્ઞા કરે"
+    },
+    {
+      "surface": "משתדור",
+      "gloss": "કરતાં કે કરે"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "અને ન"
+    },
+    {
+      "surface": "תשלם",
+      "gloss": "પૂરી કરે"
+    }
+  ],
+  "timestamp": "2026-08-21T17:29:58.416771210Z",
+  "model": "glm-5.3"
+}

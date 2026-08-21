@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 119:6",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 119,
+  "translation": "તો હું શરમિંદા ન થાઉં, જ્યારે હું તમામ તારી આજ્ઞાઓ તરફ જુઉં.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "તો"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ન"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "શરમિંદા થાઉં"
+    },
+    {
+      "surface": "בהביטי",
+      "gloss": "જ્યારે હું...જુઉં"
+    },
+    {
+      "surface": "אל",
+      "gloss": "તરફ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "તમામ"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "તારી આજ્ઞાઓ"
+    }
+  ],
+  "timestamp": "2026-08-21T16:42:51.642707366Z",
+  "model": "glm-5.3"
+}

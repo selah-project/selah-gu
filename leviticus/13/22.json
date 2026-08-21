@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 13:22",
+  "book": "leviticus",
+  "lang": "gu",
+  "chapter": 13,
+  "translation": "અને જો તે ચામડીમાં ખૂબ ફેલાય, તો કોહેન ⟨את⟩ તેને અશુદ્ધ જાહેર કરશે — તે નેગા ⟨છે⟩.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "અને જો"
+    },
+    {
+      "surface": "פשה",
+      "gloss": "ફેલાય"
+    },
+    {
+      "surface": "תפשה",
+      "gloss": "ખૂબ ફેલાય"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "ચામડીમાં"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "અશુદ્ધ જાહેર કરશે"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "કોહેન"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "તેને"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "નેગા"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "તે"
+    }
+  ],
+  "timestamp": "2026-08-21T11:37:35.331233916Z",
+  "model": "glm-5.3"
+}

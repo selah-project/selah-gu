@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "joshua 15:42",
+  "book": "joshua",
+  "lang": "gu",
+  "chapter": 15,
+  "translation": "લિબ્નાહ, અને એતેર, અને અશાન.",
+  "tokens": [
+    {
+      "surface": "לבנה",
+      "gloss": "લિબ્નાહ"
+    },
+    {
+      "surface": "ועתר",
+      "gloss": "અને એતેર"
+    },
+    {
+      "surface": "ועשן",
+      "gloss": "અને અશાન"
+    }
+  ],
+  "timestamp": "2026-08-21T12:40:21.197334202Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 14:1",
+  "book": "zechariah",
+  "lang": "gu",
+  "chapter": 14,
+  "translation": "જુઓ, યાહવે માટે એક દિવસ આવે છે, અને તારો લૂંટેલો માલ તારી વચ્ચે વહેંચાશે.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "જુઓ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "એક દિવસ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "આવે છે"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "યાહવે માટે"
+    },
+    {
+      "surface": "וחלק",
+      "gloss": "અને વહેંચાશે"
+    },
+    {
+      "surface": "שללך",
+      "gloss": "તારો લૂંટેલો માલ"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "તારી વચ્ચે"
+    }
+  ],
+  "timestamp": "2026-08-21T16:08:45.605537963Z",
+  "model": "glm-5.3"
+}

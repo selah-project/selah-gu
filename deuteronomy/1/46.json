@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "deuteronomy 1:46",
+  "book": "deuteronomy",
+  "lang": "gu",
+  "chapter": 1,
+  "translation": "અને તમે કાદેશમાં ઘણા દિવસો રોકાયા, જેટલા દિવસો તમે ત્યાં રહ્યા તેટલા.",
+  "tokens": [
+    {
+      "surface": "ותשבו",
+      "gloss": "અને તમે રોકાયા"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "કાદેશમાં"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "દિવસો"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ઘણા"
+    },
+    {
+      "surface": "כימים",
+      "gloss": "જેટલા દિવસો"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જે"
+    },
+    {
+      "surface": "ישבתם",
+      "gloss": "તમે રહ્યા"
+    }
+  ],
+  "timestamp": "2026-08-21T12:11:37.485294257Z",
+  "model": "glm-5.3"
+}

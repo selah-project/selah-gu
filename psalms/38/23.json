@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 38:23",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 38,
+  "translation": "ઝડપ કરો, મારી મદદ માટે, અદોનાય, મારા તારણના!",
+  "tokens": [
+    {
+      "surface": "חושה",
+      "gloss": "ઝડપ કરો"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "મારી મદદ માટે"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "અદોનાય"
+    },
+    {
+      "surface": "תשועתי",
+      "gloss": "મારા તારણ"
+    }
+  ],
+  "timestamp": "2026-08-21T19:55:13.965933857Z",
+  "model": "glm-5.3"
+}

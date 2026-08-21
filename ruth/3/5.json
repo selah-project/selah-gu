@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ruth 3:5",
+  "book": "ruth",
+  "lang": "gu",
+  "chapter": 3,
+  "translation": "તેણીએ તેને કહ્યું, “તું જે બધું કહેશે તે બધું હું કરીશ.”",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "તેણીએ કહ્યું"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "તેને"
+    },
+    {
+      "surface": "כל",
+      "gloss": "બધું"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જે"
+    },
+    {
+      "surface": "תאמרי",
+      "gloss": "તું કહેશે"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "હું કરીશ"
+    }
+  ],
+  "timestamp": "2026-08-21T17:23:03.538502777Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 4:5",
+  "book": "ecclesiastes",
+  "lang": "gu",
+  "chapter": 4,
+  "translation": "મૂર્ખ ⟨પોતાની⟩ હાથોને વીંટળે છે અને ⟨את⟩ પોતાનું માંસ ખાય છે.",
+  "tokens": [
+    {
+      "surface": "הכסיל",
+      "gloss": "મૂર્ખ"
+    },
+    {
+      "surface": "חבק",
+      "gloss": "વીંટળે છે"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "પોતાની હાથો"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "પોતાની હાથો"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "અને ખાય છે"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "પોતાનું માંસ"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "પોતાનું માંસ"
+    }
+  ],
+  "timestamp": "2026-08-21T17:29:24.839352968Z",
+  "model": "glm-5.3"
+}

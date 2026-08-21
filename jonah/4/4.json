@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jonah 4:4",
+  "book": "jonah",
+  "lang": "gu",
+  "chapter": 4,
+  "translation": "અને યાહવે કહ્યું: શું સારું છે કે તમને ક્રોધ ઊપજ્યો છે?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "અને તેમણે કહ્યું"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "ההיטב",
+      "gloss": "શું સારું છે"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "ક્રોધ ઊપજવો"
+    },
+    {
+      "surface": "לך",
+      "gloss": "તમને"
+    }
+  ],
+  "timestamp": "2026-08-21T15:55:41.061475121Z",
+  "model": "glm-5.3"
+}

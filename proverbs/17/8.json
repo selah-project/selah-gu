@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 17:8",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 17,
+  "translation": "લાંચ એ ⟨તેના⟩ માલિકની આંખોમાં અનુગ્રહનો પથ્થર છે; જ્યાં જ્યાં તે વળે છે ત્યાં તે સફળ થાય છે.",
+  "tokens": [
+    {
+      "surface": "אבן",
+      "gloss": "પથ્થર"
+    },
+    {
+      "surface": "חן",
+      "gloss": "અનુગ્રહનો"
+    },
+    {
+      "surface": "השחד",
+      "gloss": "લાંચ"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "આંખોમાં"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "તેના માલિકની"
+    },
+    {
+      "surface": "אל",
+      "gloss": "તરફ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "દરેક"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જે"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "વળે છે"
+    },
+    {
+      "surface": "ישכיל",
+      "gloss": "સફળ થાય છે"
+    }
+  ],
+  "timestamp": "2026-08-21T16:57:55.576196063Z",
+  "model": "glm-5.3"
+}

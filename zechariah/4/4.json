@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zechariah 4:4",
+  "book": "zechariah",
+  "lang": "gu",
+  "chapter": 4,
+  "translation": "અને મેં જવાબ આપ્યો અને મારી સાથે વાત કરતા દૂતને કહ્યું, “આ શું છે, મારા અદોનાય?”",
+  "tokens": [
+    {
+      "surface": "ואען",
+      "gloss": "અને મેં જવાબ આપ્યો"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "અને કહ્યું"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ને"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "દૂતને"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "વાત કરતા"
+    },
+    {
+      "surface": "בי",
+      "gloss": "મારી સાથે"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "કહેતાં"
+    },
+    {
+      "surface": "מה",
+      "gloss": "શું"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "આ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "મારા અદોનાય"
+    }
+  ],
+  "timestamp": "2026-08-21T16:04:57.059127971Z",
+  "model": "glm-5.3"
+}

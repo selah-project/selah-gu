@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 72:5",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 72,
+  "translation": "તેઓ સૂર્ય સાથે તનો ભય રાખશે, અને ચંદ્રની આગળ, પેઢી પેઢી સુધી.",
+  "tokens": [
+    {
+      "surface": "ייראוך",
+      "gloss": "તેઓ તનો ભય રાખશે"
+    },
+    {
+      "surface": "עם",
+      "gloss": "સાથે"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "સૂર્ય"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "અને …ની આગળ"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "ચંદ્ર"
+    },
+    {
+      "surface": "דור",
+      "gloss": "પેઢી"
+    },
+    {
+      "surface": "דורים",
+      "gloss": "પેઢી સુધી"
+    }
+  ],
+  "timestamp": "2026-08-21T16:29:40.692079493Z",
+  "model": "glm-5.3"
+}

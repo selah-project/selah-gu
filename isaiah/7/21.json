@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 7:21",
+  "book": "isaiah",
+  "lang": "gu",
+  "chapter": 7,
+  "translation": "અને તે દિવસે એક માણસ એક ગાયની વાછરડી અને બે ઘેટાં જીવતાં રાખશે.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "અને થશે"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "દિવસે"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "તે"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "જીવતાં રાખશે"
+    },
+    {
+      "surface": "איש",
+      "gloss": "એક માણસ"
+    },
+    {
+      "surface": "עגלת",
+      "gloss": "વાછરડી"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ગાયની"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "અને બે"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "ઘેટાં"
+    }
+  ],
+  "timestamp": "2026-08-21T14:13:10.823409281Z",
+  "model": "glm-5.3"
+}

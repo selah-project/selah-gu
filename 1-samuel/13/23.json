@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 13:23",
+  "book": "1-samuel",
+  "lang": "gu",
+  "chapter": 13,
+  "translation": "અને પલિશ્તીઓની ચોકી મીખમાસના ઘાટ તરફ નીકળી.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "અને નીકળી"
+    },
+    {
+      "surface": "מצב",
+      "gloss": "ચોકી"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "પલિશ્તીઓની"
+    },
+    {
+      "surface": "אל",
+      "gloss": "તરફ"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "ઘાટ"
+    },
+    {
+      "surface": "מכמש",
+      "gloss": "મીખમાસ"
+    }
+  ],
+  "timestamp": "2026-08-21T13:04:52.128701899Z",
+  "model": "glm-5.3"
+}

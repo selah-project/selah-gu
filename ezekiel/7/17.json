@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezekiel 7:17",
+  "book": "ezekiel",
+  "lang": "gu",
+  "chapter": 7,
+  "translation": "બધાં હાથ શિથિલ થઈ જશે, અને બધાં ઘૂંટણ પાણી થઈ જશે.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "બધાં"
+    },
+    {
+      "surface": "הידים",
+      "gloss": "હાથ"
+    },
+    {
+      "surface": "תרפינה",
+      "gloss": "શિથિલ થશે"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "અને બધાં"
+    },
+    {
+      "surface": "ברכים",
+      "gloss": "ઘૂંટણ"
+    },
+    {
+      "surface": "תלכנה",
+      "gloss": "થઈ જશે"
+    },
+    {
+      "surface": "מים",
+      "gloss": "પાણી"
+    }
+  ],
+  "timestamp": "2026-08-21T15:18:32.939128192Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 2:8",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 2,
+  "translation": "ન્યાયનાં માર્ગો રક્ષવા માટે, અને તેના ભક્તોનો માર્ગ તે રક્ષે છે.",
+  "tokens": [
+    {
+      "surface": "לנצר",
+      "gloss": "રક્ષવા માટે"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "માર્ગો"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ન્યાયનાં"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "અને માર્ગ"
+    },
+    {
+      "surface": "חסידו",
+      "gloss": "તેના ભક્તોનો"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "રક્ષે છે"
+    }
+  ],
+  "timestamp": "2026-08-21T16:51:30.652053836Z",
+  "model": "glm-5.3"
+}

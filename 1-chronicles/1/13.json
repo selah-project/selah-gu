@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 1:13",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 1,
+  "translation": "અને કનાને ⟨את⟩ સીદોન પોતાના પ્રથમજન્મે અને ⟨את⟩ ખેતને જન્મ આપ્યો.",
+  "tokens": [
+    {
+      "surface": "וכנען",
+      "gloss": "અને કનાન"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "જન્મ આપ્યો"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "સીદોન"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "સીદોન"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "પોતાના પ્રથમજન્મે"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ખેત"
+    },
+    {
+      "surface": "חת",
+      "gloss": "ખેત"
+    }
+  ],
+  "timestamp": "2026-08-21T17:59:15.743290820Z",
+  "model": "glm-5.3"
+}

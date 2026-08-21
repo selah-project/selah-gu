@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 2:15",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 2,
+  "translation": "ઓત્સેમ ⟨is⟩ છઠ્ઠો, દાવીદ ⟨is⟩ સાતમો.",
+  "tokens": [
+    {
+      "surface": "אצם",
+      "gloss": "ઓત્સેમ"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "છઠ્ઠો"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "દાવીદ"
+    },
+    {
+      "surface": "השבעי",
+      "gloss": "સાતમો"
+    }
+  ],
+  "timestamp": "2026-08-21T17:59:38.711983114Z",
+  "model": "glm-5.3"
+}

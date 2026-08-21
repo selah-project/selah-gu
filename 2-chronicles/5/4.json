@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 5:4",
+  "book": "2-chronicles",
+  "lang": "gu",
+  "chapter": 5,
+  "translation": "અને યિસ્રાએલના બધા વડીલો આવ્યા, અને લેવીયરે ⟨את⟩ સંદૂક ઉઠાવી.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "અને આવ્યા"
+    },
+    {
+      "surface": "כל",
+      "gloss": "બધા"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "વડીલો"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "યિસ્રાએલના"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "અને ઉઠાવી"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "લેવીયરે"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "સંદૂક"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "સંદૂક"
+    }
+  ],
+  "timestamp": "2026-08-21T18:17:45.962674928Z",
+  "model": "glm-5.3"
+}

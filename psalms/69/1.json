@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 69:1",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 69,
+  "translation": "વાદ્યના નેતા માટે, શોશન્નીમ ઉપર, દાવીદનું.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "વાદ્યના નેતા માટે"
+    },
+    {
+      "surface": "על",
+      "gloss": "ઉપર"
+    },
+    {
+      "surface": "שושנים",
+      "gloss": "શોશન્નીમ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "દાવીદનું"
+    }
+  ],
+  "timestamp": "2026-08-21T16:28:42.248438554Z",
+  "model": "glm-5.3"
+}

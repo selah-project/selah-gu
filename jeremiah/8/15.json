@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 8:15",
+  "book": "jeremiah",
+  "lang": "gu",
+  "chapter": 8,
+  "translation": "શાંતિની રાહ જોઈ, પણ કોઈ ભલું ન આવ્યું; સાજા થવાના સમયની રાહ જોઈ, અને તે જુઓ, ભય છે.",
+  "tokens": [
+    {
+      "surface": "קוה",
+      "gloss": "રાહ જોઈ"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "શાંતિની"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "પણ … નહિ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ભલું"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "સમયની"
+    },
+    {
+      "surface": "מרפה",
+      "gloss": "સાજા થવાના"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "અને તે જુઓ"
+    },
+    {
+      "surface": "בעתה",
+      "gloss": "ભય"
+    }
+  ],
+  "timestamp": "2026-08-21T14:50:34.038175538Z",
+  "model": "glm-5.3"
+}

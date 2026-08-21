@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 33:26",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 33,
+  "translation": "અને તેઓ મખેલોતથી પ્રયાણ કરી, તાખતમાં ડેરા નાખ્યો.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "અને તેઓ પ્રયાણ કરી"
+    },
+    {
+      "surface": "ממקהלת",
+      "gloss": "મખેલોતથી"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "ડેરા નાખ્યો"
+    },
+    {
+      "surface": "בתחת",
+      "gloss": "તાખતમાં"
+    }
+  ],
+  "timestamp": "2026-08-21T12:09:55.253008316Z",
+  "model": "glm-5.3"
+}

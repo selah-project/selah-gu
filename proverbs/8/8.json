@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 8:8",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 8,
+  "translation": "ન્યાયમાં ⟨છે⟩ મારા મુખનાં બધાં વચનો; તેમાં કશું વાંકડું કે ખોટું નથી।",
+  "tokens": [
+    {
+      "surface": "בצדק",
+      "gloss": "ન્યાયમાં"
+    },
+    {
+      "surface": "כל",
+      "gloss": "બધાં"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "વચનો"
+    },
+    {
+      "surface": "פי",
+      "gloss": "મારા મુખનાં"
+    },
+    {
+      "surface": "אין",
+      "gloss": "નથી"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "તેમાં"
+    },
+    {
+      "surface": "נפתל",
+      "gloss": "વાંકડું"
+    },
+    {
+      "surface": "ועקש",
+      "gloss": "કે ખોટું"
+    }
+  ],
+  "timestamp": "2026-08-21T16:53:43.860779833Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 129:5",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 129,
+  "translation": "લજ્જિત થાય અને પાછળ હઠે, તમામ જે ત્સીયોનને દ્વેષ કરે છે.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "લજ્જિત થાય"
+    },
+    {
+      "surface": "ויסגו",
+      "gloss": "અને હઠે"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "પાછળ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "તમામ"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "દ્વેષ કરે છે"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "ત્સીયોન"
+    }
+  ],
+  "timestamp": "2026-08-21T16:46:04.564911057Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "lamentations 5:16",
+  "book": "lamentations",
+  "lang": "gu",
+  "chapter": 5,
+  "translation": "અમારા મસ્તકનો તાજ પડી ગયો; હાય, આપણા પર ખરાબ સમય આવ્યો, કેમ કે અમે પાપ કર્યું.",
+  "tokens": [
+    {
+      "surface": "נפלה",
+      "gloss": "પડી ગયો"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "તાજ"
+    },
+    {
+      "surface": "ראשנו",
+      "gloss": "અમારા મસ્તકનો"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "હાય\/ખરાબ સમય"
+    },
+    {
+      "surface": "נא",
+      "gloss": "આપણા પર (હવે)"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "અમારા પર"
+    },
+    {
+      "surface": "כי",
+      "gloss": "કેમ કે"
+    },
+    {
+      "surface": "חטאנו",
+      "gloss": "પાપ કર્યું"
+    }
+  ],
+  "timestamp": "2026-08-21T17:28:11.751749212Z",
+  "model": "glm-5.3"
+}

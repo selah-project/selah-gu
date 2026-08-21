@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "jeremiah 51:54",
+  "book": "jeremiah",
+  "lang": "gu",
+  "chapter": 51,
+  "translation": "ચીસનો અવાજ બાવેલથી ⟨આવે છે⟩, અને કાશ્દીઓના દેશથી મહાન વિનાશ.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "અવાજ"
+    },
+    {
+      "surface": "זעקה",
+      "gloss": "ચીસ"
+    },
+    {
+      "surface": "מבבל",
+      "gloss": "બાવેલથી"
+    },
+    {
+      "surface": "ושבר",
+      "gloss": "અને વિનાશ"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "મહાન"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "દેશથી"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "કાશ્દીઓના"
+    }
+  ],
+  "timestamp": "2026-08-21T15:15:33.324406529Z",
+  "model": "glm-5.3"
+}

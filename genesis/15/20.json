@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 15:20",
+  "book": "genesis",
+  "lang": "gu",
+  "chapter": 15,
+  "translation": "અને ⟨את⟩ હિત્તી, અને ⟨את⟩ પેરિઝ્ઝી, અને ⟨את⟩ રેફાઈમ —",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "હિત્તી"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "હિત્તી"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "પેરિઝ્ઝી"
+    },
+    {
+      "surface": "הפרזי",
+      "gloss": "પેરિઝ્ઝી"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "રેફાઈમ"
+    },
+    {
+      "surface": "הרפאים",
+      "gloss": "રેફાઈમ"
+    }
+  ],
+  "timestamp": "2026-08-21T10:43:59.930160635Z",
+  "model": "glm-5.3"
+}

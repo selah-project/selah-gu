@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 21:1",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 21,
+  "translation": "સંગીત-નિર્દેશક માટે; દાઉદનો મિઝમોર.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "સંગીત-નિર્દેશક માટે"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "મિઝમોર"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "દાઉદનો"
+    }
+  ],
+  "timestamp": "2026-08-21T16:15:25.787743899Z",
+  "model": "glm-5.3"
+}

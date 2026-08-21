@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "ezra 2:52",
+  "book": "ezra",
+  "lang": "gu",
+  "chapter": 2,
+  "translation": "બત્સ્લૂતના પુત્રો, મેહિદાના પુત્રો, હર્શાના પુત્રો,",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "בצלות",
+      "gloss": "બત્સ્લૂત"
+    },
+    {
+      "surface": "בני",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "מחידא",
+      "gloss": "મેહિદા"
+    },
+    {
+      "surface": "בני",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "חרשא",
+      "gloss": "હર્શા"
+    }
+  ],
+  "timestamp": "2026-08-21T17:47:42.203448329Z",
+  "model": "glm-5.3"
+}

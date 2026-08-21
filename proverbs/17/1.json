@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 17:1",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 17,
+  "translation": "સૂકો તુકડો અને તેમાં શાંતિ ⟨એ⟩ સારું છે, કરડાક ભરેલા ઘર કરતાં — ઝઘડાનાં વધેરાં.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "સારું છે"
+    },
+    {
+      "surface": "פת",
+      "gloss": "તુકડો"
+    },
+    {
+      "surface": "חרבה",
+      "gloss": "સૂકો"
+    },
+    {
+      "surface": "ושלוה",
+      "gloss": "અને શાંતિ"
+    },
+    {
+      "surface": "בה",
+      "gloss": "તેમાં"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "ઘર કરતાં"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "ભરેલા"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "વધેરાં"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "ઝઘડાનાં"
+    }
+  ],
+  "timestamp": "2026-08-21T16:58:00.717612001Z",
+  "model": "glm-5.3"
+}

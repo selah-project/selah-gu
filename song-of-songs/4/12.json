@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 4:12",
+  "book": "song-of-songs",
+  "lang": "gu",
+  "chapter": 4,
+  "translation": "બંધ બગીચો ⟨છે⟩ મારી બહેન કન્યા; બંધ ઝરણું, સીલ કરેલો સ્ત્રોત.",
+  "tokens": [
+    {
+      "surface": "גן",
+      "gloss": "બગીચો"
+    },
+    {
+      "surface": "נעול",
+      "gloss": "બંધ"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "મારી બહેન"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "કન્યા"
+    },
+    {
+      "surface": "גל",
+      "gloss": "ઝરણું"
+    },
+    {
+      "surface": "נעול",
+      "gloss": "બંધ"
+    },
+    {
+      "surface": "מעין",
+      "gloss": "સ્ત્રોત"
+    },
+    {
+      "surface": "חתום",
+      "gloss": "સીલ કરેલો"
+    }
+  ],
+  "timestamp": "2026-08-21T17:20:52.119459300Z",
+  "model": "glm-5.3"
+}

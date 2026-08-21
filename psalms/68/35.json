@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 68:35",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 68,
+  "translation": "એલોહીમને બળ આપો; ઇસ્રાએલ પર ⟨છે⟩ તેની મહિમા, અને વાદળોમાં તેનું બળ.",
+  "tokens": [
+    {
+      "surface": "תנו",
+      "gloss": "આપો"
+    },
+    {
+      "surface": "עז",
+      "gloss": "બળ"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "એલોહીમને"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ઇસ્રાએલ"
+    },
+    {
+      "surface": "גאותו",
+      "gloss": "તેની મહિમા"
+    },
+    {
+      "surface": "ועזו",
+      "gloss": "અને તેનું બળ"
+    },
+    {
+      "surface": "בשחקים",
+      "gloss": "વાદળોમાં"
+    }
+  ],
+  "timestamp": "2026-08-21T16:28:39.830863641Z",
+  "model": "glm-5.3"
+}

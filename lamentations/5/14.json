@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "lamentations 5:14",
+  "book": "lamentations",
+  "lang": "gu",
+  "chapter": 5,
+  "translation": "વડીલોએ ⟨એ⟩ દરવાજેથી વિરામ લીધો, યુવકોએ પોતાના સંગીતથી.",
+  "tokens": [
+    {
+      "surface": "זקנים",
+      "gloss": "વડીલોએ"
+    },
+    {
+      "surface": "משער",
+      "gloss": "દરવાજેથી"
+    },
+    {
+      "surface": "שבתו",
+      "gloss": "વિરામ લીધો"
+    },
+    {
+      "surface": "בחורים",
+      "gloss": "યુવકોએ"
+    },
+    {
+      "surface": "מנגינתם",
+      "gloss": "પોતાના સંગીતથી"
+    }
+  ],
+  "timestamp": "2026-08-21T17:28:11.751432963Z",
+  "model": "glm-5.3"
+}

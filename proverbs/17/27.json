@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 17:27",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 17,
+  "translation": "પોતાના શબ્દો રોકનાર જ્ઞાન ધરાવે છે, અને શાંત મનવાળો ⟨એ⟩ સમજણવાળો માણસ છે.",
+  "tokens": [
+    {
+      "surface": "חושך",
+      "gloss": "રોકનાર"
+    },
+    {
+      "surface": "אמריו",
+      "gloss": "પોતાના શબ્દો"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "જાણનાર"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "જ્ઞાન"
+    },
+    {
+      "surface": "וקר",
+      "gloss": "અને શાંત\/ઠંડું"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "મન"
+    },
+    {
+      "surface": "איש",
+      "gloss": "માણસ"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "સમજણ"
+    }
+  ],
+  "timestamp": "2026-08-21T16:58:08.530581376Z",
+  "model": "glm-5.3"
+}

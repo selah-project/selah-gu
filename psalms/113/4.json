@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 113:4",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 113,
+  "translation": "યાહવે બધા પ્રજાઓ કરતાં ઊંચો છે, આકાશો કરતાં પણ ⟨તેનો⟩ તેજ ઊંચો છે.",
+  "tokens": [
+    {
+      "surface": "רם",
+      "gloss": "ઊંચો છે"
+    },
+    {
+      "surface": "על",
+      "gloss": "કરતાં"
+    },
+    {
+      "surface": "כל",
+      "gloss": "બધા"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "પ્રજાઓ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "על",
+      "gloss": "કરતાં"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "આકાશો"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "તેનો તેજ"
+    }
+  ],
+  "timestamp": "2026-08-21T16:41:19.665827271Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "nehemiah 10:15",
+  "book": "nehemiah",
+  "lang": "gu",
+  "chapter": 10,
+  "translation": "પ્રજાના મુખિયા: પરોશ, પાહત-મોઆબ, એલામ, ઝાત્તુ, બાની,",
+  "tokens": [
+    {
+      "surface": "ראשי",
+      "gloss": "મુખિયા"
+    },
+    {
+      "surface": "העם",
+      "gloss": "પ્રજાના"
+    },
+    {
+      "surface": "פרעש",
+      "gloss": "પરોશ"
+    },
+    {
+      "surface": "פחת",
+      "gloss": "પાહત"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "મોઆબ"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "એલામ"
+    },
+    {
+      "surface": "זתוא",
+      "gloss": "ઝાત્તુ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "בાની"
+    }
+  ],
+  "timestamp": "2026-08-21T17:56:52.886792751Z",
+  "model": "glm-5.3"
+}

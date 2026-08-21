@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 14:18",
+  "book": "isaiah",
+  "lang": "gu",
+  "chapter": 14,
+  "translation": "રાષ્ટ્રોના બધા રાજાઓ, તે બધા, માન સાથે સૂએ છે, દરેક ⟨is⟩ પોતાના ઘરમાં.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "બધા"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "રાજાઓ"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "રાષ્ટ્રોના"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "તે બધા"
+    },
+    {
+      "surface": "שכבו",
+      "gloss": "સૂએ છે"
+    },
+    {
+      "surface": "בכבוד",
+      "gloss": "માન સાથે"
+    },
+    {
+      "surface": "איש",
+      "gloss": "દરેક"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "પોતાના ઘરમાં"
+    }
+  ],
+  "timestamp": "2026-08-21T14:16:44.556572064Z",
+  "model": "glm-5.3"
+}

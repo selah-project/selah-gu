@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 11:6",
+  "book": "2-chronicles",
+  "lang": "gu",
+  "chapter": 11,
+  "translation": "અને તેણે ⟨את⟩ બેથ-લેખેમ અને ⟨את⟩ એતામ અને ⟨את⟩ તેકોઆ બાંધ્યાં.",
+  "tokens": [
+    {
+      "surface": "וי׬ן",
+      "gloss": "અને તેણે બાંધ્યાં"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "બેથ-લેખેમ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "બેથ-"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "-લેખેમ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "એતામ"
+    },
+    {
+      "surface": "עיטם",
+      "gloss": "એતામ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "તેકોઆ"
+    },
+    {
+      "surface": "תקוע",
+      "gloss": "તેકોઆ"
+    }
+  ],
+  "timestamp": "2026-08-21T18:18:08.612323790Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 27:2",
+  "book": "1-samuel",
+  "lang": "gu",
+  "chapter": 27,
+  "translation": "અને દાવિદ ઊઠ્યો, અને તે ⟨is⟩ તેની સાથેના છ સો પુરુષો સાથે ત્યાં પહોંચ્યો — ગતના રાજા માઓકના પુત્ર અખીશ પાસે.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "ઊઠ્યો"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "દાવિદ"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "પસાર થયો"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "તે"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "અને છ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "સો"
+    },
+    {
+      "surface": "איש",
+      "gloss": "પુરુષો"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જે"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "તેની સાથે"
+    },
+    {
+      "surface": "אל",
+      "gloss": "પાસે"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "અખીશ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "પુત્ર"
+    },
+    {
+      "surface": "מעוך",
+      "gloss": "માઓકના"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "રાજા"
+    },
+    {
+      "surface": "גת",
+      "gloss": "ગતના"
+    }
+  ],
+  "timestamp": "2026-08-21T13:17:30.927399337Z",
+  "model": "glm-5.3"
+}

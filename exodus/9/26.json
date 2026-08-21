@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 9:26",
+  "book": "exodus",
+  "lang": "gu",
+  "chapter": 9,
+  "translation": "ફક્ત ગોશેનની ભૂમિમાં, જ્યાં ઇસ્રાએલના પુત્રો ⟨હતા⟩, ત્યાં કરડ ⟨નહોતી⟩.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "ફક્ત"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ભૂમિમાં"
+    },
+    {
+      "surface": "גשן",
+      "gloss": "ગોશેન"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જ્યાં"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ત્યાં"
+    },
+    {
+      "surface": "בני",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ઇસ્રાએલ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નહોતી"
+    },
+    {
+      "surface": "היה",
+      "gloss": "હતી"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "કરડ"
+    }
+  ],
+  "timestamp": "2026-08-21T11:09:49.751740228Z",
+  "model": "glm-5.3"
+}

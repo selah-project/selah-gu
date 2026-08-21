@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jonah 3:2",
+  "book": "jonah",
+  "lang": "gu",
+  "chapter": 3,
+  "translation": "“ઊઠ, નીનવે ⟨ના⟩ મહાન નગર પાસે જા, અને તેને ⟨את⟩ ⟨તે⟩ ઘોષણા પહોંચાડ જે હું તને કહું છું.”",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "ઊઠ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "જા"
+    },
+    {
+      "surface": "אל",
+      "gloss": "પાસે"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "નીનવે"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "નગર"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "મહાન"
+    },
+    {
+      "surface": "וקרא",
+      "gloss": "અને પહોંચાડ"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "તેને"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ઘોષણા"
+    },
+    {
+      "surface": "הקריאה",
+      "gloss": "ઘોષણા"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જે"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "હું"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "કહું છું"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "તને"
+    }
+  ],
+  "timestamp": "2026-08-21T15:55:03.067287287Z",
+  "model": "glm-5.3"
+}

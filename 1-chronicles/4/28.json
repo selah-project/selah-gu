@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 4:28",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 4,
+  "translation": "અને તેઓ બેએર-શેવા, મોલાદા અને હાત્સર-શૂઆલમાં વસ્યા.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "અને તેઓ વસ્યા"
+    },
+    {
+      "surface": "בבאר",
+      "gloss": "બેએર-માં"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "શેવા"
+    },
+    {
+      "surface": "ומולדה",
+      "gloss": "અને મોલાદા"
+    },
+    {
+      "surface": "וחצר",
+      "gloss": "અને હાત્સર-"
+    },
+    {
+      "surface": "שועל",
+      "gloss": "શૂઆલ"
+    }
+  ],
+  "timestamp": "2026-08-21T18:01:12.138696496Z",
+  "model": "glm-5.3"
+}

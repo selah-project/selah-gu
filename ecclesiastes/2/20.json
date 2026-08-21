@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 2:20",
+  "book": "ecclesiastes",
+  "lang": "gu",
+  "chapter": 2,
+  "translation": "અને હું ફરી વળ્યો, હું મારા હૃદયને નિરાશ કરવા લાગ્યો, સૂર્યની તળે જે બધી મહેનત મેં કરી તેના વિશે.",
+  "tokens": [
+    {
+      "surface": "וסבותי",
+      "gloss": "અને હું ફરી વળ્યો"
+    },
+    {
+      "surface": "אני",
+      "gloss": "હું"
+    },
+    {
+      "surface": "ליאש",
+      "gloss": "નિરાશ કરવા"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "મારા હૃદયને"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "મારા હૃદયને"
+    },
+    {
+      "surface": "על",
+      "gloss": "વિશે"
+    },
+    {
+      "surface": "כל",
+      "gloss": "બધી"
+    },
+    {
+      "surface": "העמל",
+      "gloss": "મહેનત"
+    },
+    {
+      "surface": "שעמלתי",
+      "gloss": "જે મેં કરી"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "તળે"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "સૂર્યની"
+    }
+  ],
+  "timestamp": "2026-08-21T17:29:37.141305212Z",
+  "model": "glm-5.3"
+}

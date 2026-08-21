@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 30:11",
+  "book": "deuteronomy",
+  "lang": "gu",
+  "chapter": 30,
+  "translation": "કેમ કે આ આજ્ઞા, જે હું આજે તને આપું છું, તારા માટે અદ્ભુત ⟨નથી⟩, અને તે દૂર ⟨નથી⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "કેમ કે"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "આ આજ્ઞા"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "આ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જે"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "હું"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "તને આપું છું"
+    },
+    {
+      "surface": "היום",
+      "gloss": "આજે"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નથી"
+    },
+    {
+      "surface": "נפלאת",
+      "gloss": "અદ્ભુત"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "તે"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "તારા માટે\/તારાથી"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "અને નથી"
+    },
+    {
+      "surface": "רחקה",
+      "gloss": "દૂર"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "તે"
+    }
+  ],
+  "timestamp": "2026-08-21T12:28:21.801219760Z",
+  "model": "glm-5.3"
+}

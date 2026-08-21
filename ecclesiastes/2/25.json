@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ecclesiastes 2:25",
+  "book": "ecclesiastes",
+  "lang": "gu",
+  "chapter": 2,
+  "translation": "કેમ કે મારા ⟨સિવાય⟩ કોણ ખાઈ શકે, અને કોણ ⟨તેનો⟩ આનંદ માણી શકે?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "કેમ કે"
+    },
+    {
+      "surface": "מי",
+      "gloss": "કોણ"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ખાઈ શકે"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "અને કોણ"
+    },
+    {
+      "surface": "יחוש",
+      "gloss": "માણી શકે"
+    },
+    {
+      "surface": "חוץ",
+      "gloss": "સિવાય"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "મારા"
+    }
+  ],
+  "timestamp": "2026-08-21T17:28:44.347772773Z",
+  "model": "glm-5.3"
+}

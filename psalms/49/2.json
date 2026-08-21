@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 49:2",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 49,
+  "translation": "સાંભળો આ વાત, બધા પ્રજાઓ; કાન ધ્યાન દો, બધા ⟨જે⟩ નશ્વર-જગતમાં વસનારા.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "સાંભળો"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "આ વાત"
+    },
+    {
+      "surface": "כל",
+      "gloss": "બધા"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "પ્રજાઓ"
+    },
+    {
+      "surface": "האזינו",
+      "gloss": "કાન ધ્યાન દો"
+    },
+    {
+      "surface": "כל",
+      "gloss": "બધા"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "વસનારા"
+    },
+    {
+      "surface": "חלד",
+      "gloss": "નશ્વર-જગતમાં"
+    }
+  ],
+  "timestamp": "2026-08-21T16:23:28.618976134Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 26:2",
+  "book": "exodus",
+  "lang": "gu",
+  "chapter": 26,
+  "translation": "એક પડદાની લંબાઈ અઠ્ઠાવીસ હાથ હશે, અને એક પડદાની પહોળાઈ ચાર હાથ; બધા પડદા માટે એક જ માપ.",
+  "tokens": [
+    {
+      "surface": "ארך",
+      "gloss": "લંબાઈ"
+    },
+    {
+      "surface": "היריעה",
+      "gloss": "પડદાની"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "એક"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "અઠ્ઠા"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "અને વીસ"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "હાથ"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "અને પહોળાઈ"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "ચાર"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "હાથ"
+    },
+    {
+      "surface": "היריעה",
+      "gloss": "પડદાની"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "એક"
+    },
+    {
+      "surface": "מדה",
+      "gloss": "માપ"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "એક"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "બધા માટે"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "પડદા"
+    }
+  ],
+  "timestamp": "2026-08-21T11:20:45.997633676Z",
+  "model": "glm-5.3"
+}

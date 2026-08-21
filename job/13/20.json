@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 13:20",
+  "book": "job",
+  "lang": "gu",
+  "chapter": 13,
+  "translation": "ફક્ત બે વાત મારી સાથે ન કરજે; પછી હું તારા સામેથી છુપાઈશ નહીં.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "ફક્ત"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "બે વાત"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ન"
+    },
+    {
+      "surface": "תעש",
+      "gloss": "કરજે"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "મારી સાથે"
+    },
+    {
+      "surface": "אז",
+      "gloss": "પછી"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "તારા સામેથી"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "છુપાઈશ"
+    }
+  ],
+  "timestamp": "2026-08-21T17:08:58.025568580Z",
+  "model": "glm-5.3"
+}

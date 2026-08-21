@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 20:17",
+  "book": "job",
+  "lang": "gu",
+  "chapter": 20,
+  "translation": "તે નદીઓની ધારાઓ નહીં જુએ, મધ અને ઘીનાં ઝરણાં.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "જુએ"
+    },
+    {
+      "surface": "בפלגות",
+      "gloss": "ધારાઓ"
+    },
+    {
+      "surface": "נהרי",
+      "gloss": "નદીઓની"
+    },
+    {
+      "surface": "נחלי",
+      "gloss": "ઝરણાં"
+    },
+    {
+      "surface": "דבש",
+      "gloss": "મધ"
+    },
+    {
+      "surface": "וחמאה",
+      "gloss": "અને ઘીનાં"
+    }
+  ],
+  "timestamp": "2026-08-21T17:11:55.402124009Z",
+  "model": "glm-5.3"
+}

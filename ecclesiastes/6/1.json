@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 6:1",
+  "book": "ecclesiastes",
+  "lang": "gu",
+  "chapter": 6,
+  "translation": "એક દુષ્ટતા છે જે મેં સૂર્યની નીચે જોઈ, અને તે માનવ પર ભારે છે.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "છે"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "દુષ્ટતા"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જે"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "મેં જોઈ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "નીચે"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "સૂર્યની"
+    },
+    {
+      "surface": "ורבה",
+      "gloss": "અને ભારે"
+    },
+    {
+      "surface": "היא",
+      "gloss": "તે"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "માનવ"
+    }
+  ],
+  "timestamp": "2026-08-21T17:31:01.293551904Z",
+  "model": "glm-5.3"
+}

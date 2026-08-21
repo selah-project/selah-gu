@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 39:17",
+  "book": "exodus",
+  "lang": "gu",
+  "chapter": 39,
+  "translation": "અને તેઓએ બે સોનાની વણેલી સાંકડો બે વંઠીઓ પર મૂકી — છાતી-પટ્ટાનાં બે છેડા પર.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "અને તેઓએ મૂકી"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "બે"
+    },
+    {
+      "surface": "העבתת",
+      "gloss": "વણેલી સાંકડો"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "સોનાની"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "બે"
+    },
+    {
+      "surface": "הטבעת",
+      "gloss": "વંઠીઓ"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "છેડા"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "છાતી-પટ્ટાનાં"
+    }
+  ],
+  "timestamp": "2026-08-21T11:29:10.540807879Z",
+  "model": "glm-5.3"
+}

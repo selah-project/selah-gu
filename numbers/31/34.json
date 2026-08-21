@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "numbers 31:34",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 31,
+  "translation": "અને ગધેડા એક હજાર અને સાઠ હજાર — કુલ એકષટ હજાર.",
+  "tokens": [
+    {
+      "surface": "וחמרים",
+      "gloss": "અને ગધેડા"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "એક"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "અને સાઠ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "હજાર"
+    }
+  ],
+  "timestamp": "2026-08-21T18:37:25.253034596Z",
+  "model": "glm-5.3"
+}

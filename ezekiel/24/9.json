@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 24:9",
+  "book": "ezekiel",
+  "lang": "gu",
+  "chapter": 24,
+  "translation": "તેથી અદોનાય યાહવે આ પ્રમાણે કહે છે: હાય, લોહીની નગરી! પણ હું પણ લાકડાની ઢગલી મોટી કરીશ.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "તેથી"
+    },
+    {
+      "surface": "כה",
+      "gloss": "આ પ્રમાણે"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "કહે છે"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "અદોનાય"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "હાય"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "નગરી"
+    },
+    {
+      "surface": "הדמים",
+      "gloss": "લોહીની"
+    },
+    {
+      "surface": "גם",
+      "gloss": "પણ પણ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "હું"
+    },
+    {
+      "surface": "אגדיל",
+      "gloss": "મોટી કરીશ"
+    },
+    {
+      "surface": "המדורה",
+      "gloss": "લાકડાની ઢગલી"
+    }
+  ],
+  "timestamp": "2026-08-21T18:51:49.513361697Z",
+  "model": "glm-5.3"
+}

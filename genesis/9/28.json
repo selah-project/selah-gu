@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 9:28",
+  "book": "genesis",
+  "lang": "gu",
+  "chapter": 9,
+  "translation": "અને મહાપ્રલય પછી નોઆહે ત્રણસો પચાસ વર્ષ જીવ્યું.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "અને જીવ્યો"
+    },
+    {
+      "surface": "נח",
+      "gloss": "નોઆહે"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "પછી"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "મહાપ્રલય"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ત્રણ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "સો"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "વર્ષ"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "અને પચાસ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "વર્ષ"
+    }
+  ],
+  "timestamp": "2026-08-21T10:40:23.930508560Z",
+  "model": "glm-5.3"
+}

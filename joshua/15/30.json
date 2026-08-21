@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "joshua 15:30",
+  "book": "joshua",
+  "lang": "gu",
+  "chapter": 15,
+  "translation": "અને એલ્તોલાદ, અને કેસીલ, અને હોર્માહ.",
+  "tokens": [
+    {
+      "surface": "ואלתולד",
+      "gloss": "અને એલ્તોલાદ"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "અને કેસીલ"
+    },
+    {
+      "surface": "וחרמה",
+      "gloss": "અને હોર્માહ"
+    }
+  ],
+  "timestamp": "2026-08-21T12:40:28.384574227Z",
+  "model": "glm-5.3"
+}

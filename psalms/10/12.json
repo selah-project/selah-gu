@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 10:12",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 10,
+  "translation": "ઊઠ, હે યાહવે! હે એલ, તારો હાથ ઊંચો કર; દીનોને ભૂલી નહીં.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "ઊઠ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "אל",
+      "gloss": "એલ"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "ઊંચો કર"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "તારો હાથ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "ભૂલી"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "દીનોને"
+    }
+  ],
+  "timestamp": "2026-08-21T16:12:13.488066863Z",
+  "model": "glm-5.3"
+}

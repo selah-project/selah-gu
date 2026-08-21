@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 25:11",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 25,
+  "translation": "ચાંદીના ખાનાઓમાં સોનાના સફરજનો જેવો ⟨છે⟩ એ શબ્દ, જે ⟨એના⟩ સમયે બોલાયો ⟨છે⟩.",
+  "tokens": [
+    {
+      "surface": "תפוחי",
+      "gloss": "સફરજનો"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "સોનાના"
+    },
+    {
+      "surface": "במשכיות",
+      "gloss": "ખાનાઓમાં"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ચાંદીના"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "શબ્દ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "બોલાયો ⟨છે⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨એના⟩"
+    },
+    {
+      "surface": "אפניו",
+      "gloss": "સમયે"
+    }
+  ],
+  "timestamp": "2026-08-21T17:00:27.603601106Z",
+  "model": "glm-5.3"
+}

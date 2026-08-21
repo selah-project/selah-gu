@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "numbers 31:45",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 31,
+  "translation": "અને ગધેડાઓ ત્રીસ હજાર અને પાંચસો,",
+  "tokens": [
+    {
+      "surface": "וחמרים",
+      "gloss": "અને ગધેડાઓ"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "ત્રીસ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "હજાર"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "અને પાંચ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "સો"
+    }
+  ],
+  "timestamp": "2026-08-21T12:07:46.692201639Z",
+  "model": "glm-5.3"
+}

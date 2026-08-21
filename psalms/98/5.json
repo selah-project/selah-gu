@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 98:5",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 98,
+  "translation": "યાહવેને કિન્નોર વડે ઝમીરો; કિન્નોર વડે અને ગીતના અવાજ સાથે.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "ઝમીરો"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "યાહવેને"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "કિન્નોર વડે"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "કિન્નોર વડે"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "અને અવાજ"
+    },
+    {
+      "surface": "זמרה",
+      "gloss": "ગીત"
+    }
+  ],
+  "timestamp": "2026-08-21T16:37:54.449330838Z",
+  "model": "glm-5.3"
+}

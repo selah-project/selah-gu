@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 15:9",
+  "book": "2-samuel",
+  "lang": "gu",
+  "chapter": 15,
+  "translation": "અને રાજાએ તેને કહ્યું, “શાંતિથી જા.” અને ⟨તે⟩ ઊઠ્યો અને ખેબરોન ગયો.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "અને કહ્યું"
+    },
+    {
+      "surface": "לו",
+      "gloss": "તેને"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "રાજાએ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "જા"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "શાંતિથી"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "અને ઊઠ્યો"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "અને ગયો"
+    },
+    {
+      "surface": "חברונה",
+      "gloss": "ખેબરોન"
+    }
+  ],
+  "timestamp": "2026-08-21T13:27:54.210289355Z",
+  "model": "glm-5.3"
+}

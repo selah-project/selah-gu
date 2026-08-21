@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 27:23",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 27,
+  "translation": "ખૂબ જાણ, તારાં ઘેટાંનાં મોં; તારું હૃદય ટોળાઓ પર રાખ.",
+  "tokens": [
+    {
+      "surface": "ידע",
+      "gloss": "ખૂબ જાણ"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "તું જાણે"
+    },
+    {
+      "surface": "પני",
+      "gloss": "…નાં મોં"
+    },
+    {
+      "surface": "צאנך",
+      "gloss": "તારાં ઘેટાં"
+    },
+    {
+      "surface": "שית",
+      "gloss": "રાખ"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "તારું હૃદય"
+    },
+    {
+      "surface": "לעדרים",
+      "gloss": "ટોળાઓ પર"
+    }
+  ],
+  "timestamp": "2026-08-21T17:02:30.842417717Z",
+  "model": "glm-5.3"
+}

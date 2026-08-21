@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "nehemiah 11:10",
+  "book": "nehemiah",
+  "lang": "gu",
+  "chapter": 11,
+  "translation": "કોહેનોમાંથી: યદાયા પુત્ર યોયારીબ, યાખીન.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "માંથી"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "કોહેનો"
+    },
+    {
+      "surface": "ידעיה",
+      "gloss": "યદાયા"
+    },
+    {
+      "surface": "בן",
+      "gloss": "પુત્ર"
+    },
+    {
+      "surface": "יויריב",
+      "gloss": "યોયારીબ"
+    },
+    {
+      "surface": "יכין",
+      "gloss": "યાખીન"
+    }
+  ],
+  "timestamp": "2026-08-21T17:57:54.857031158Z",
+  "model": "glm-5.3"
+}

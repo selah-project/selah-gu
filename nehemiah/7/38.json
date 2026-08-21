@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "nehemiah 7:38",
+  "book": "nehemiah",
+  "lang": "gu",
+  "chapter": 7,
+  "translation": "સનાહના પુત્રો — ત્રણ હજાર નવસો ત્રીસ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "סנאה",
+      "gloss": "સનાહ"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "ત્રણ"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "હજાર"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "નવ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "સો"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "અને ત્રીસ"
+    }
+  ],
+  "timestamp": "2026-08-21T17:55:14.168568211Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 10:1",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 10,
+  "translation": "શલોમોના મિશલી — ડાહ્યો પુત્ર પિતાને આનંદ આપે છે, પણ મૂર્ખ પુત્ર ⟨છે⟩ તેની માતાનો દુઃખ.",
+  "tokens": [
+    {
+      "surface": "משלי",
+      "gloss": "મિશલી"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "શલોમોના"
+    },
+    {
+      "surface": "בן",
+      "gloss": "પુત્ર"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "ડાહ્યો"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "આનંદ આપે છે"
+    },
+    {
+      "surface": "אב",
+      "gloss": "પિતાને"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "પણ પુત્ર"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "મૂર્ખ"
+    },
+    {
+      "surface": "תוגת",
+      "gloss": "દુઃખ"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "તેની માતાનો"
+    }
+  ],
+  "timestamp": "2026-08-21T16:54:49.747466129Z",
+  "model": "glm-5.3"
+}

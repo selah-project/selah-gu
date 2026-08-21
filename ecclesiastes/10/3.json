@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 10:3",
+  "book": "ecclesiastes",
+  "lang": "gu",
+  "chapter": 10,
+  "translation": "અને પણ જ્યારે મૂર્ખ ⟨તે⟩ માર્ગ પર ચાલે છે, તેનું હૃદય ખૂટી જાય છે, અને તે બધાને ⟨કહી⟩ દે છે કે તે મૂર્ખ છે.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "અને પણ"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "માર્ગ પર"
+    },
+    {
+      "surface": "כשהסכל",
+      "gloss": "મૂર્ખ જેમ"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ચાલે છે"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "તેનું હૃદય"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "ખૂટી જાય છે"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "અને તે કહે છે"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "બધાને"
+    },
+    {
+      "surface": "סכל",
+      "gloss": "મૂર્ખ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "તે"
+    }
+  ],
+  "timestamp": "2026-08-21T17:30:49.969220108Z",
+  "model": "glm-5.3"
+}

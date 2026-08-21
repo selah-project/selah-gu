@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 10:23",
+  "book": "genesis",
+  "lang": "gu",
+  "chapter": 10,
+  "translation": "અને અરામનાં પુત્રો: ઊત્સ, હૂલ, ગેતેર અને મશ.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "અને …નાં પુત્રો"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "અરામ"
+    },
+    {
+      "surface": "עוץ",
+      "gloss": "ઊત્સ"
+    },
+    {
+      "surface": "וחול",
+      "gloss": "અને હૂલ"
+    },
+    {
+      "surface": "וגתר",
+      "gloss": "ગેતેર"
+    },
+    {
+      "surface": "ומש",
+      "gloss": "અને મશ"
+    }
+  ],
+  "timestamp": "2026-08-21T10:41:24.488849204Z",
+  "model": "glm-5.3"
+}

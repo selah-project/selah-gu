@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 12:13",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 12,
+  "translation": "યોહાનાન આઠમો, એલઝાબાદ નવમો.",
+  "tokens": [
+    {
+      "surface": "יוחנן",
+      "gloss": "યોહાનાન"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "આઠમો"
+    },
+    {
+      "surface": "אלזבד",
+      "gloss": "એલઝાબાદ"
+    },
+    {
+      "surface": "התשיעי",
+      "gloss": "નવમો"
+    }
+  ],
+  "timestamp": "2026-08-21T18:07:28.490005251Z",
+  "model": "glm-5.3"
+}

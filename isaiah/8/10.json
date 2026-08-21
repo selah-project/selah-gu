@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 8:10",
+  "book": "isaiah",
+  "lang": "gu",
+  "chapter": 8,
+  "translation": "કારણ કે ⟨the⟩ એલ આપણી સાથે છે — યુક્તિ કરો અને ⟨the⟩ તૂટી જશે; વચન બોલો અને ⟨the⟩ ઊભું નહીં રહે.",
+  "tokens": [
+    {
+      "surface": "עצו",
+      "gloss": "યુક્તિ કરો"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "યુક્તિ"
+    },
+    {
+      "surface": "ותפר",
+      "gloss": "અને તૂટી જશે"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "વચન બોલો"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "વચન"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "અને નહીં"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "ઊભું રહે"
+    },
+    {
+      "surface": "כי",
+      "gloss": "કારણ કે"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "આપણી સાથે"
+    },
+    {
+      "surface": "אל",
+      "gloss": "એલ"
+    }
+  ],
+  "timestamp": "2026-08-21T14:13:57.179420193Z",
+  "model": "glm-5.3"
+}

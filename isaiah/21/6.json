@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 21:6",
+  "book": "isaiah",
+  "lang": "gu",
+  "chapter": 21,
+  "translation": "કેમ કે આ પ્રમાણે મને અદોનાયે કહ્યું: “જા, પહેરેદારને ઊભો કર; જે ⟨તે⟩ દેખે તે જાહેર કરે.”",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "કેમ કે"
+    },
+    {
+      "surface": "כה",
+      "gloss": "આ પ્રમાણે"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "કહ્યું"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "મને"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "અદોનાયે"
+    },
+    {
+      "surface": "לך",
+      "gloss": "જા"
+    },
+    {
+      "surface": "העמד",
+      "gloss": "ઊભો કર"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "પહેરેદારને"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જે"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "દેખે"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "જાહેર કરે"
+    }
+  ],
+  "timestamp": "2026-08-21T14:20:09.629858219Z",
+  "model": "glm-5.3"
+}

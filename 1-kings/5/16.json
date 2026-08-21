@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 5:16",
+  "book": "1-kings",
+  "lang": "gu",
+  "chapter": 5,
+  "translation": "અને શલોમોએ હિરામ પાસે સંદેશ મોકલ્યો:",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "અને…મોકલ્યો"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "શલોમોએ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "પાસે"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "હિરામ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "કહેતા"
+    }
+  ],
+  "timestamp": "2026-08-21T13:39:09.312813530Z",
+  "model": "glm-5.3"
+}

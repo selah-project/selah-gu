@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 14:5",
+  "book": "deuteronomy",
+  "lang": "gu",
+  "chapter": 14,
+  "translation": "હરણ, અને ઝરખડ, અને યાહમુર, અને જંગલી બકરો, અને દીશોન, અને જંગલી બળદ, અને ઝામર.",
+  "tokens": [
+    {
+      "surface": "איל",
+      "gloss": "હરણ"
+    },
+    {
+      "surface": "וצבי",
+      "gloss": "અને ઝરખડ"
+    },
+    {
+      "surface": "ויחמור",
+      "gloss": "અને યાહમુર"
+    },
+    {
+      "surface": "ואקו",
+      "gloss": "અને જંગલી બકરો"
+    },
+    {
+      "surface": "ודישן",
+      "gloss": "અને દીશોન"
+    },
+    {
+      "surface": "ותאו",
+      "gloss": "અને જંગલી બળદ"
+    },
+    {
+      "surface": "וזמר",
+      "gloss": "અને ઝામર"
+    }
+  ],
+  "timestamp": "2026-08-21T12:21:22.817764962Z",
+  "model": "glm-5.3"
+}

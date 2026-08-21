@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 113:8",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 113,
+  "translation": "તેને સરદારો સાથે, તેના લોકોના સરદારો સાથે બેસાડવા ⟨માટે⟩ —",
+  "tokens": [
+    {
+      "surface": "להושיבי",
+      "gloss": "બેસાડવા માટે"
+    },
+    {
+      "surface": "עם",
+      "gloss": "સાથે"
+    },
+    {
+      "surface": "נדיבים",
+      "gloss": "સરદારો"
+    },
+    {
+      "surface": "עם",
+      "gloss": "સાથે"
+    },
+    {
+      "surface": "נדיבי",
+      "gloss": "સરદારો"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "તેના લોકોના"
+    }
+  ],
+  "timestamp": "2026-08-21T16:41:39.325646889Z",
+  "model": "glm-5.3"
+}

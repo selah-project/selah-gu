@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "ezra 2:66",
+  "book": "ezra",
+  "lang": "gu",
+  "chapter": 2,
+  "translation": "તેમના ઘોડા સાતસો છત્રીસ; તેમના ખચ્ચર બસો પિત્તાળીસ.",
+  "tokens": [
+    {
+      "surface": "סוסיהם",
+      "gloss": "તેમના ઘોડા"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "સાત"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "સો"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "ત્રીસ"
+    },
+    {
+      "surface": "וששה",
+      "gloss": "અને છ"
+    },
+    {
+      "surface": "פרדיהם",
+      "gloss": "તેમના ખચ્ચર"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "બસો"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "ચાલીસ"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "અને પાંચ"
+    }
+  ],
+  "timestamp": "2026-08-21T17:47:40.178891790Z",
+  "model": "glm-5.3"
+}

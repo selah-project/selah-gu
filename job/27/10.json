@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 27:10",
+  "book": "job",
+  "lang": "gu",
+  "chapter": 27,
+  "translation": "શું તે શદ્દાયમાં આનંદ કરશે? શું તે બધા સમયે એલોઆહને પાકડશે?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "શું"
+    },
+    {
+      "surface": "על",
+      "gloss": "માં"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "શદ્દાય"
+    },
+    {
+      "surface": "יתענג",
+      "gloss": "આનંદ કરશે"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "પાકડશે"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "એલોઆહ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "બધા"
+    },
+    {
+      "surface": "עת",
+      "gloss": "સમયે"
+    }
+  ],
+  "timestamp": "2026-08-21T17:13:40.754409723Z",
+  "model": "glm-5.3"
+}

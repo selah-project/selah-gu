@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "leviticus 14:44",
+  "book": "leviticus",
+  "lang": "gu",
+  "chapter": 14,
+  "translation": "તો યાજક આવે અને જુએ, અને જુઓ, માર ઘરમાં ફેલાયો છે — તે ઘરમાં કડવી કુષ્ઠ છે; તે અશુદ્ધ છે.",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "તો આવે"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "યાજક"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "અને જુએ"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "અને જુઓ"
+    },
+    {
+      "surface": "פשה",
+      "gloss": "ફેલાયો છે"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "માર"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "ઘરમાં"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "કુષ્ઠ"
+    },
+    {
+      "surface": "ממארת",
+      "gloss": "કડવી"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "છે"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "ઘરમાં"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "અશુદ્ધ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "તે"
+    }
+  ],
+  "timestamp": "2026-08-21T11:37:39.437789265Z",
+  "model": "glm-5.3"
+}

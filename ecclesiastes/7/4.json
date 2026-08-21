@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 7:4",
+  "book": "ecclesiastes",
+  "lang": "gu",
+  "chapter": 7,
+  "translation": "જ્ઞાનીઓનું હૃદય શોક-ગૃહમાં ⟨રહે છે⟩, અને મૂર્ખોનું હૃદય આનંદના ઘરમાં ⟨રહે છે⟩.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "હૃદય"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "જ્ઞાનીઓનું"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "ગૃહમાં"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "શોક"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "અને હૃદય"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "મૂર્ખોનું"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "ઘરમાં"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "આનંદ"
+    }
+  ],
+  "timestamp": "2026-08-21T17:30:48.105549159Z",
+  "model": "glm-5.3"
+}

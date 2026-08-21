@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 28:7",
+  "book": "jeremiah",
+  "lang": "gu",
+  "chapter": 28,
+  "translation": "તોય હવે મારી વિનંતી એ ⟨the⟩ વાણી સાંભળ જે હું તારા કાનોમાં અને બધા પ્રજાના કાનોમાં બોલું છું.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "તોય"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "સાંભળ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "મારી વિનંતી હવે"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "વાણી"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "આ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જે"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "હું"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "બોલું છું"
+    },
+    {
+      "surface": "באזניך",
+      "gloss": "તારા કાનોમાં"
+    },
+    {
+      "surface": "ובאזני",
+      "gloss": "અને કાનોમાં"
+    },
+    {
+      "surface": "כל",
+      "gloss": "બધા"
+    },
+    {
+      "surface": "העם",
+      "gloss": "પ્રજાના"
+    }
+  ],
+  "timestamp": "2026-08-21T15:02:20.117559578Z",
+  "model": "glm-5.3"
+}

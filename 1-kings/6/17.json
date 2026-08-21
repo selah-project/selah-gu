@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 6:17",
+  "book": "1-kings",
+  "lang": "gu",
+  "chapter": 6,
+  "translation": "અને ચાલીસ હાથનું ⟨હતું⟩ ⟨the⟩ ઘર — તે એ હેખાલ, તેની આગળનો ભાગ.",
+  "tokens": [
+    {
+      "surface": "וארבעים",
+      "gloss": "અને ચાલીસ"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "હાથ (કરણ-માપ)"
+    },
+    {
+      "surface": "היה",
+      "gloss": "હતું"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ઘર"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "તે એ"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "હેખાલ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "તેની આગળનો ભાગ"
+    }
+  ],
+  "timestamp": "2026-08-21T13:39:22.366327304Z",
+  "model": "glm-5.3"
+}

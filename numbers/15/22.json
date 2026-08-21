@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 15:22",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 15,
+  "translation": "અને જો તમે ભૂલી જાઓ અને ⟨את⟩ આ બધી આજ્ઞાઓ ન કરો, જે યાહવેએ મોશેને કહી છે,",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "અને જો"
+    },
+    {
+      "surface": "תשגו",
+      "gloss": "તમે ભૂલી જાઓ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "અને ન"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "કરો"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "આ બધી આજ્ઞાઓ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "બધી"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "આજ્ઞાઓ"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "આ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જે"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "કહી છે"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવેએ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ને"
+    },
+    {
+      "surface": "משה",
+      "gloss": "મોશે"
+    }
+  ],
+  "timestamp": "2026-08-21T11:59:54.766134485Z",
+  "model": "glm-5.3"
+}

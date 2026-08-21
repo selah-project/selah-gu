@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 3:8",
+  "book": "ecclesiastes",
+  "lang": "gu",
+  "chapter": 3,
+  "translation": "પ્રેમ કરવાનો સમય, અને દ્વેષ કરવાનો સમય; યુદ્ધનો સમય, અને શાંતિનો સમય.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "સમય"
+    },
+    {
+      "surface": "לאהב",
+      "gloss": "પ્રેમ કરવાનો"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "અને સમય"
+    },
+    {
+      "surface": "לשנא",
+      "gloss": "દ્વેષ કરવાનો"
+    },
+    {
+      "surface": "עת",
+      "gloss": "સમય"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "યુદ્ધનો"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "અને સમય"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "શાંતિનો"
+    }
+  ],
+  "timestamp": "2026-08-21T17:28:34.481110112Z",
+  "model": "glm-5.3"
+}

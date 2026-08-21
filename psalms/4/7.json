@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 4:7",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 4,
+  "translation": "ઘણા કહે છે, “આપણને સારું કોણ બતાવશે?” યાહવે, તમારા ચહેરાનો પ્રકાશ આપણા પર ઊઠાવો.",
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "ઘણા"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "કહે છે"
+    },
+    {
+      "surface": "מי",
+      "gloss": "કોણ"
+    },
+    {
+      "surface": "יראנו",
+      "gloss": "બતાવશે"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "સારું"
+    },
+    {
+      "surface": "נסה",
+      "gloss": "ઊઠાવો"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "આપણા પર"
+    },
+    {
+      "surface": "אור",
+      "gloss": "પ્રકાશ"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "તમારા ચહેરાનો"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    }
+  ],
+  "timestamp": "2026-08-21T16:10:05.168506582Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 1:2",
+  "book": "exodus",
+  "lang": "gu",
+  "chapter": 1,
+  "translation": "રૂબેન, શિમઓન, લેવી અને યહૂદા.",
+  "tokens": [
+    {
+      "surface": "ראובן",
+      "gloss": "રૂબેન"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "શિમઓન"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "લેવી"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "અને યહૂદા"
+    }
+  ],
+  "timestamp": "2026-08-21T11:05:28.820140553Z",
+  "model": "glm-5.3"
+}

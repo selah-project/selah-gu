@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "proverbs 6:29",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 6,
+  "translation": "તેમ જ પડોશીની પત્ની પાસે જનાર નિર્દોષ ન રહે — તેને સ્પર્શતા કોઈ પણ અદણમાં ન છૂટે.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "તેમ જ"
+    },
+    {
+      "surface": "הבא",
+      "gloss": "જનાર"
+    },
+    {
+      "surface": "אל",
+      "gloss": "પાસે"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "પત્ની"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "પડોશીની"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ન"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "નિર્દોષ રહે \/ છૂટે"
+    },
+    {
+      "surface": "כל",
+      "gloss": "કોઈ પણ"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "સ્પર્શતા"
+    },
+    {
+      "surface": "בה",
+      "gloss": "તેને"
+    }
+  ],
+  "timestamp": "2026-08-21T16:54:25.064972710Z",
+  "model": "glm-5.3"
+}

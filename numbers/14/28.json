@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "numbers 14:28",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 14,
+  "translation": "તેમને કહો: હું જીવંત છું, યાહવેનો નિર્દેશ — તમે જે મારા કાને બોલ્યા તેમ જ હું તમારી સાથે કરીશ.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "કહો"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "તેમને"
+    },
+    {
+      "surface": "חי",
+      "gloss": "જીવંત"
+    },
+    {
+      "surface": "אני",
+      "gloss": "હું"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "નિર્દેશ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવેનો"
+    },
+    {
+      "surface": "אם",
+      "gloss": "જો"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "તેમ જ"
+    },
+    {
+      "surface": "דברתם",
+      "gloss": "તમે બોલ્યા"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "મારા કાને"
+    },
+    {
+      "surface": "כן",
+      "gloss": "તેમ"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "કરીશ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "તમારી સાથે"
+    }
+  ],
+  "timestamp": "2026-08-21T11:55:47.802212956Z",
+  "model": "glm-5.3"
+}

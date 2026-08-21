@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "nehemiah 7:56",
+  "book": "nehemiah",
+  "lang": "gu",
+  "chapter": 7,
+  "translation": "નેત્સિયાખનાં પુત્રો, હતીફાનાં પુત્રો।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "נציח",
+      "gloss": "નેત્સિયાખ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "חטיפא",
+      "gloss": "હતીફા"
+    }
+  ],
+  "timestamp": "2026-08-21T17:55:12.568544581Z",
+  "model": "glm-5.3"
+}

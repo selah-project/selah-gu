@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 29:4",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 29,
+  "translation": "યાહવેનો સ્વર બળથી ⟨છે⟩; યાહવેનો સ્વર વૈભવથી ⟨છે⟩.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "સ્વર"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવેનો"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "બળથી"
+    },
+    {
+      "surface": "קול",
+      "gloss": "સ્વર"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવેનો"
+    },
+    {
+      "surface": "בהדר",
+      "gloss": "વૈભવથી"
+    }
+  ],
+  "timestamp": "2026-08-21T16:17:20.555397287Z",
+  "model": "glm-5.3"
+}

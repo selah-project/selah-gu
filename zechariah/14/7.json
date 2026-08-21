@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "zechariah 14:7",
+  "book": "zechariah",
+  "lang": "gu",
+  "chapter": 14,
+  "translation": "અને એક દિવસ થશે — તે યાહવેને જાણીતો હશે; ન ⟨તે⟩ દિવસ અને ન રાત્રિ; અને સાંજના સમયે પ્રકાશ થશે.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "અને થશે"
+    },
+    {
+      "surface": "יום",
+      "gloss": "દિવસ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "એક"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "તે"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "જાણીતો હશે"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "યાહવેને"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ન"
+    },
+    {
+      "surface": "יום",
+      "gloss": "દિવસ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "અને ન"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "રાત્રિ"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "અને થશે"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "સમયે"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "સાંજના"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "થશે"
+    },
+    {
+      "surface": "אור",
+      "gloss": "પ્રકાશ"
+    }
+  ],
+  "timestamp": "2026-08-21T16:08:26.731508337Z",
+  "model": "glm-5.3"
+}

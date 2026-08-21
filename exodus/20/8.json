@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 20:8",
+  "book": "exodus",
+  "lang": "gu",
+  "chapter": 20,
+  "translation": "શાબ્બાતના દિવસને ⟨את⟩ યાદ રાખ, તેને પવિત્ર કરવા.",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "યાદ રાખ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "શાબ્બાતના દિવસને"
+    },
+    {
+      "surface": "יום",
+      "gloss": "દિવસને"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "શાબ્બાતના"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "તેને પવિત્ર કરવા"
+    }
+  ],
+  "timestamp": "2026-08-21T11:14:46.556438985Z",
+  "model": "glm-5.3"
+}

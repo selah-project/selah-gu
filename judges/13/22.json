@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "judges 13:22",
+  "book": "judges",
+  "lang": "gu",
+  "chapter": 13,
+  "translation": "મનોખે પોતાની પત્નીને કહ્યું: મરવાનો જ છીએ, કારણ કે એલોહીમને જોયો છે.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "કહ્યું"
+    },
+    {
+      "surface": "מנוח",
+      "gloss": "મનોખે"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ને"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "પોતાની પત્ની"
+    },
+    {
+      "surface": "מות",
+      "gloss": "મરવાનો"
+    },
+    {
+      "surface": "נמות",
+      "gloss": "છીએ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "કારણ કે"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "એલોહીમ"
+    },
+    {
+      "surface": "ראינו",
+      "gloss": "જોયો છે"
+    }
+  ],
+  "timestamp": "2026-08-21T12:54:41.332293959Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 26:7",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 26,
+  "translation": "લંગાનાં પગ લટકે છે, અને મૂર્ખોના મુખમાં દૃષ્ટાંત ⟨છે⟩.",
+  "tokens": [
+    {
+      "surface": "דליו",
+      "gloss": "લટકે છે"
+    },
+    {
+      "surface": "שקים",
+      "gloss": "પગ"
+    },
+    {
+      "surface": "מפסח",
+      "gloss": "લંગાનાં"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "અને દૃષ્ટાંત"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "મુખમાં"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "મૂર્ખોના"
+    }
+  ],
+  "timestamp": "2026-08-21T17:01:56.538458399Z",
+  "model": "glm-5.3"
+}

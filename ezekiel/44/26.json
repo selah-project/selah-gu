@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "ezekiel 44:26",
+  "book": "ezekiel",
+  "lang": "gu",
+  "chapter": 44,
+  "translation": "અને તેની શુદ્ધિ પછી તેના માટે સાત દિવસ ગણાશે.",
+  "tokens": [
+    {
+      "surface": "ואחרי",
+      "gloss": "અને… પછી"
+    },
+    {
+      "surface": "טהרתו",
+      "gloss": "તેની શુદ્ધિ"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "સાત"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "દિવસ"
+    },
+    {
+      "surface": "יספרו",
+      "gloss": "ગણાશે"
+    },
+    {
+      "surface": "לו",
+      "gloss": "તેના માટે"
+    }
+  ],
+  "timestamp": "2026-08-21T15:42:15.260172183Z",
+  "model": "glm-5.3"
+}

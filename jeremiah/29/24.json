@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 29:24",
+  "book": "jeremiah",
+  "lang": "gu",
+  "chapter": 29,
+  "translation": "અને શમઅયાહ નહલામી વિષે તું કહેશે, કહેતા:",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "અને…વિષે"
+    },
+    {
+      "surface": "שמעיהו",
+      "gloss": "શમઅયાહ"
+    },
+    {
+      "surface": "הנחלמי",
+      "gloss": "નહલામી"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "તું કહેશે"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "કહેતા"
+    }
+  ],
+  "timestamp": "2026-08-21T15:01:16.846713212Z",
+  "model": "glm-5.3"
+}

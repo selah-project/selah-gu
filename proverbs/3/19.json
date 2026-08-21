@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 3:19",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 3,
+  "translation": "યાહવેએ જ્ઞાનથી પૃથ્વીનો પાયો નાખ્યો; સમજણથી આકાશને સ્થિર કર્યું.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "જ્ઞાનથી"
+    },
+    {
+      "surface": "יסד",
+      "gloss": "પાયો નાખ્યો"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "પૃથ્વીનો"
+    },
+    {
+      "surface": "כונן",
+      "gloss": "સ્થિર કર્યું"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "આકાશને"
+    },
+    {
+      "surface": "בתבונה",
+      "gloss": "સમજણથી"
+    }
+  ],
+  "timestamp": "2026-08-21T16:52:22.407166091Z",
+  "model": "glm-5.3"
+}

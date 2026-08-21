@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 7:30",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 7,
+  "translation": "ચોથા દિવસે રૂબેનનાં પુત્રોનો નાયક એલિત્સૂર, શ્દેયૂરનો પુત્ર.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "દિવસે"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "ચોથા"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "નાયક"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "પુત્રોનો"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "રૂબેન"
+    },
+    {
+      "surface": "אליצור",
+      "gloss": "એલિત્સૂર"
+    },
+    {
+      "surface": "בן",
+      "gloss": "પુત્ર"
+    },
+    {
+      "surface": "שדיאור",
+      "gloss": "શ્દેયૂર"
+    }
+  ],
+  "timestamp": "2026-08-21T11:51:53.698828456Z",
+  "model": "glm-5.3"
+}

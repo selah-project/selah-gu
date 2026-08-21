@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 138:5",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 138,
+  "translation": "અને તે યાહવેના માર્ગો વિશે ગાશ; કેમ કે યાહવેનો તેજ મહાન છે.",
+  "tokens": [
+    {
+      "surface": "וישירו",
+      "gloss": "અને તે ગાશ"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "માર્ગો વિશે"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવેના"
+    },
+    {
+      "surface": "כי",
+      "gloss": "કેમ કે"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "મહાન છે"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "તેજ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવેનો"
+    }
+  ],
+  "timestamp": "2026-08-21T16:48:20.204784469Z",
+  "model": "glm-5.3"
+}

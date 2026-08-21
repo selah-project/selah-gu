@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "amos 5:9",
+  "book": "amos",
+  "lang": "gu",
+  "chapter": 5,
+  "translation": "જે બળવાન પર વિનાશને ચમકાવે છે, અને કિલ્લા પર વિનાશ આવશે.",
+  "tokens": [
+    {
+      "surface": "המבליג",
+      "gloss": "જે ચમકાવે છે"
+    },
+    {
+      "surface": "שד",
+      "gloss": "વિનાશ"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "עז",
+      "gloss": "બળવાન"
+    },
+    {
+      "surface": "ושד",
+      "gloss": "અને વિનાશ"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "કિલ્લા"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "આવશે"
+    }
+  ],
+  "timestamp": "2026-08-21T15:53:14.185892406Z",
+  "model": "glm-5.3"
+}

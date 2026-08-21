@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 4:9",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 4,
+  "translation": "તે તારા મસ્તકને અનુગ્રહનો હાર આપશે; તેજસ્વિતાનો તાજ તે તને સોંપશે.",
+  "tokens": [
+    {
+      "surface": "תתן",
+      "gloss": "તે આપશે"
+    },
+    {
+      "surface": "לראשך",
+      "gloss": "તારા મસ્તકને"
+    },
+    {
+      "surface": "לוית",
+      "gloss": "હાર"
+    },
+    {
+      "surface": "חן",
+      "gloss": "અનુગ્રહનો"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "તાજ"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "તેજસ્વિતાનો"
+    },
+    {
+      "surface": "תמגנך",
+      "gloss": "તે તને સોંપશે"
+    }
+  ],
+  "timestamp": "2026-08-21T16:51:38.987444414Z",
+  "model": "glm-5.3"
+}

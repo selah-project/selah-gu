@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 62:12",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 62,
+  "translation": "એક વાર એલોહીમે બોલ્યા; બે વાર આ મેં સાંભળ્યું — કે શક્તિ એલોહીમને છે.",
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "એક વાર"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "બોલ્યા"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "એલોહીમે"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "બે વાર"
+    },
+    {
+      "surface": "זו",
+      "gloss": "આ"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "મેં સાંભળ્યું"
+    },
+    {
+      "surface": "כי",
+      "gloss": "કે"
+    },
+    {
+      "surface": "עז",
+      "gloss": "શક્તિ"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "એલોહીમને"
+    }
+  ],
+  "timestamp": "2026-08-21T16:26:52.005114464Z",
+  "model": "glm-5.3"
+}

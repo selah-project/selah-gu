@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 12:8",
+  "book": "deuteronomy",
+  "lang": "gu",
+  "chapter": 12,
+  "translation": "તમે એ બધું નહિ કરો જે આપણે આજે અહીં કરીએ છીએ — દરેક પુરુષ પોતાની આંખોમાં જે સાચું લાગે તે.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "નહિ"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "તમે કરો"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "એ બધું જેટલું"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જે"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "આપણે"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "કરીએ છીએ"
+    },
+    {
+      "surface": "פה",
+      "gloss": "અહીં"
+    },
+    {
+      "surface": "היום",
+      "gloss": "આજે"
+    },
+    {
+      "surface": "איש",
+      "gloss": "દરેક પુરુષ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "જે કંઈ"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "સાચું"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "પોતાની આંખોમાં"
+    }
+  ],
+  "timestamp": "2026-08-21T12:20:25.449561991Z",
+  "model": "glm-5.3"
+}

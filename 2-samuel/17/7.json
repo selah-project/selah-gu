@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 17:7",
+  "book": "2-samuel",
+  "lang": "gu",
+  "chapter": 17,
+  "translation": "અને હુસ઼ાયે અબશાલોમને કહ્યું: “આ વખતે અખીતોફેલે જે સલાહ આપી છે તે સારી નથી.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "અને કહ્યું"
+    },
+    {
+      "surface": "חושי",
+      "gloss": "હુસ઼ાયે"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ને"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "અબશ׾લોમ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નથી"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "સારી"
+    },
+    {
+      "surface": "העצה",
+      "gloss": "સલાહ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જે"
+    },
+    {
+      "surface": "יעץ",
+      "gloss": "આપી છે"
+    },
+    {
+      "surface": "אחיתפל",
+      "gloss": "અખીતોફેલે"
+    },
+    {
+      "surface": "בפעם",
+      "gloss": "વખતે"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "આ"
+    }
+  ],
+  "timestamp": "2026-08-21T13:27:45.251306283Z",
+  "model": "glm-5.3"
+}

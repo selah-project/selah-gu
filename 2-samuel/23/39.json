@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "2-samuel 23:39",
+  "book": "2-samuel",
+  "lang": "gu",
+  "chapter": 23,
+  "translation": "ઊરિયા ⟨the⟩ હિત્તી — કુલ ત્રીસ અને સાત.",
+  "tokens": [
+    {
+      "surface": "אוריה",
+      "gloss": "ઊરિયા"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "હિત્તી"
+    },
+    {
+      "surface": "כל",
+      "gloss": "કુલ"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "ત્રીસ"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "અને સાત"
+    }
+  ],
+  "timestamp": "2026-08-21T13:33:52.573530997Z",
+  "model": "glm-5.3"
+}

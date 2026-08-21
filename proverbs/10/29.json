@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "proverbs 10:29",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 10,
+  "translation": "The way of Yahveh is a stronghold for the upright; but for the workers of iniquity it is a cause of destruction.",
+  "tokens": [
+    {
+      "surface": "מעוז",
+      "gloss": "a stronghold"
+    },
+    {
+      "surface": "לתם",
+      "gloss": "for the upright"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "the way"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "of Yahveh"
+    },
+    {
+      "surface": "ומחתה",
+      "gloss": "and a cause of destruction"
+    },
+    {
+      "surface": "לפעלי",
+      "gloss": "for the workers of"
+    },
+    {
+      "surface": "און",
+      "gloss": "iniquity"
+    }
+  ],
+  "timestamp": "2026-08-21T16:54:42.195211271Z",
+  "model": "glm-5.3"
+}

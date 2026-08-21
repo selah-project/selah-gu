@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "ezra 2:29",
+  "book": "ezra",
+  "lang": "gu",
+  "chapter": 2,
+  "translation": "નેબોનાં પુત્રો, બાવન.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "נבו",
+      "gloss": "નેબો"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "પચાસ"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "અને બે"
+    }
+  ],
+  "timestamp": "2026-08-21T17:45:26.357691411Z",
+  "model": "glm-5.3"
+}

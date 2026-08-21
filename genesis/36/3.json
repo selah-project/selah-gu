@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 36:3",
+  "book": "genesis",
+  "lang": "gu",
+  "chapter": 36,
+  "translation": "અને ⟨את⟩ બાસેમત, યિશ્માએલની દીકરી, નબાયોતની બહેન.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "અને ⟨את⟩",
+      "marks": "બાસેમત"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "બાસેમત"
+    },
+    {
+      "surface": "בת",
+      "gloss": "દીકરી"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "યિશ્માએલની"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "બહેન"
+    },
+    {
+      "surface": "נביות",
+      "gloss": "નબાયોતની"
+    }
+  ],
+  "timestamp": "2026-08-21T10:55:45.702884339Z",
+  "model": "glm-5.3"
+}

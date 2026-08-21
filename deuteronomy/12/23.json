@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 12:23",
+  "book": "deuteronomy",
+  "lang": "gu",
+  "chapter": 12,
+  "translation": "માત્ર આને મક્કમતાથી ધ્યાન રાખો કે લોહી ન ખાવું, કારણ કે લોહી એ જ જીવ છે, અને તમે માંસ સાથે જીવ ન ખાશો.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "માત્ર"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "મક્કમતાથી ધ્યાન રાખો"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "ન કરવા"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ખાવું"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "લોહી"
+    },
+    {
+      "surface": "כי",
+      "gloss": "કારણ કે"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "લોહી"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "એ જ"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "જીવ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "અને નહીં"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "તમે ખાશો"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "જીવ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "સાથે"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "માંસ"
+    }
+  ],
+  "timestamp": "2026-08-21T12:19:51.014088685Z",
+  "model": "glm-5.3"
+}

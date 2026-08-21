@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 24:12",
+  "book": "leviticus",
+  "lang": "gu",
+  "chapter": 24,
+  "translation": "અને તેઓએ તેને કેદમાં મૂક્યો, યાહવેના મુખે તેમને સ્પષ્ટ કરવા ⟨માટે⟩.",
+  "tokens": [
+    {
+      "surface": "ויניחהו",
+      "gloss": "અને તેઓએ તેને મૂક્યો"
+    },
+    {
+      "surface": "במשמר",
+      "gloss": "કેદમાં"
+    },
+    {
+      "surface": "לפרש",
+      "gloss": "સ્પષ્ટ કરવા"
+    },
+    {
+      "surface": "להם",
+      "gloss": "તેમને"
+    },
+    {
+      "surface": "על",
+      "gloss": "થી"
+    },
+    {
+      "surface": "פי",
+      "gloss": "મુખે"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવેના"
+    }
+  ],
+  "timestamp": "2026-08-21T11:45:08.798956643Z",
+  "model": "glm-5.3"
+}

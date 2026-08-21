@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 13:10",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 13,
+  "translation": "ઝવૂલૂનના કુળ માટે — ગદ્દીએલ, સોદીનો પુત્ર.",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "કુળ માટે"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "ઝવૂલૂન"
+    },
+    {
+      "surface": "גדיאל",
+      "gloss": "ગદ્દીએલ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "પુત્ર"
+    },
+    {
+      "surface": "סודי",
+      "gloss": "સોદી"
+    }
+  ],
+  "timestamp": "2026-08-21T11:55:04.925611124Z",
+  "model": "glm-5.3"
+}

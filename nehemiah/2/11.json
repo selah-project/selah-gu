@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nehemiah 2:11",
+  "book": "nehemiah",
+  "lang": "gu",
+  "chapter": 2,
+  "translation": "અને હું યરૂશાલાયિમ (યરૂશાલેમ) પાસે આવ્યો, અને હું ત્યાં ત્રણ દિવસ રહ્યો.",
+  "tokens": [
+    {
+      "surface": "ואבוא",
+      "gloss": "અને હું આવ્યો"
+    },
+    {
+      "surface": "אל",
+      "gloss": "પાસે"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "યરૂશાલાયિમ"
+    },
+    {
+      "surface": "ואהי",
+      "gloss": "અને હું રહ્યો"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ત્યાં"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "દિવસ"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "ત્રણ"
+    }
+  ],
+  "timestamp": "2026-08-21T17:53:53.230127350Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "lamentations 5:7",
+  "book": "lamentations",
+  "lang": "gu",
+  "chapter": 5,
+  "translation": "અમારા પિતરોએ પાપ કર્યું અને ⟨તેઓ⟩ નથી; અમે — તેમનાં અધર્મો અમે વહન કર્યાં.",
+  "tokens": [
+    {
+      "surface": "אבתינו",
+      "gloss": "અમારા પિતરોએ"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "પાપ કર્યું"
+    },
+    {
+      "surface": "אינם",
+      "gloss": "નથી"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "અમે"
+    },
+    {
+      "surface": "עונתיהם",
+      "gloss": "તેમનાં અધર્મો"
+    },
+    {
+      "surface": "סבלנו",
+      "gloss": "વહન કર્યાં"
+    }
+  ],
+  "timestamp": "2026-08-21T17:28:14.831728271Z",
+  "model": "glm-5.3"
+}

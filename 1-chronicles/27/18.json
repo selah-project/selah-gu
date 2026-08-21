@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 27:18",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 27,
+  "translation": "યહૂદા પર એલીહૂ, દાવીદના ભાઈઓમાંનો; યિસ્સાખર પર ઓમરી મીખાએલનો પુત્ર.",
+  "tokens": [
+    {
+      "surface": "ליהודה",
+      "gloss": "યહૂદા પર"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "એલીહૂ"
+    },
+    {
+      "surface": "מאחי",
+      "gloss": "ભાઈઓમાંનો"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "દાવીદના"
+    },
+    {
+      "surface": "ליששכר",
+      "gloss": "યિસ્સાખર પર"
+    },
+    {
+      "surface": "עמרי",
+      "gloss": "ઓમરી"
+    },
+    {
+      "surface": "בן",
+      "gloss": "પુત્ર"
+    },
+    {
+      "surface": "מיכאל",
+      "gloss": "મીખાએલનો"
+    }
+  ],
+  "timestamp": "2026-08-21T18:13:07.174510217Z",
+  "model": "glm-5.3"
+}

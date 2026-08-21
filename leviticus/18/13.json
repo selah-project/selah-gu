@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 18:13",
+  "book": "leviticus",
+  "lang": "gu",
+  "chapter": 18,
+  "translation": "તારી માતાની બહેનની નગ્નતા તું ઉઘાડીશ નહિ; કેમ કે તે તારી માતાનું માંસ ⟨છે⟩.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "નગ્નતા"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "બહેન"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "તારી માતાની"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નહિ"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "તું ઉઘાડીશ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "કેમ કે"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "માંસ"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "તારી માતાનું"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "તે"
+    }
+  ],
+  "timestamp": "2026-08-21T11:39:55.074319143Z",
+  "model": "glm-5.3"
+}

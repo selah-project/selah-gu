@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 25:32",
+  "book": "genesis",
+  "lang": "gu",
+  "chapter": 25,
+  "translation": "અને એસાવે કહ્યું: જુઓ, હું તો મરવાને જઈ રહ્યો છું, તો મારે માટે આ જેઠાણીનો હક ⟨શું⟩?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "કહ્યું"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "એસાવે"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "જુઓ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "હું"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "જઈ રહ્યો છું"
+    },
+    {
+      "surface": "למות",
+      "gloss": "મરવાને"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "તો શા માટે"
+    },
+    {
+      "surface": "זה",
+      "gloss": "આ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "મારે માટે"
+    },
+    {
+      "surface": "בכרה",
+      "gloss": "જેઠાણીનો હક"
+    }
+  ],
+  "timestamp": "2026-08-21T10:48:33.578665058Z",
+  "model": "glm-5.3"
+}

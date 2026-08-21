@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 23:7",
+  "book": "deuteronomy",
+  "lang": "gu",
+  "chapter": 23,
+  "translation": "તું તેમની શાંતિ અને તેમનું હિત ન શોધીશ, તારા સર્વ દિવસો સદાકાળ માટે.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "નહિ"
+    },
+    {
+      "surface": "תדרש",
+      "gloss": "તું શોધીશ"
+    },
+    {
+      "surface": "שלמם",
+      "gloss": "તેમની શાંતિ"
+    },
+    {
+      "surface": "וטבתם",
+      "gloss": "અને તેમનું હિત"
+    },
+    {
+      "surface": "כל",
+      "gloss": "સર્વ"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "તારા દિવસો"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "સદાકાળ માટે"
+    }
+  ],
+  "timestamp": "2026-08-21T12:25:27.206528182Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 30:24",
+  "book": "genesis",
+  "lang": "gu",
+  "chapter": 30,
+  "translation": "અને તેણીએ ⟨את⟩ તેનું નામ યોસેફ રાખ્યું, કહીને: યાહવે મને બીજો પુત્ર ઉમેરશે.",
+  "tokens": [
+    {
+      "surface": "ותקרא",
+      "gloss": "અને તેણીએ…રાખ્યું"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "તેનું નામ"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "તેનું નામ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "યોસેફ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "કહીને"
+    },
+    {
+      "surface": "יסף",
+      "gloss": "ઉમેરશે"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "לי",
+      "gloss": "મને"
+    },
+    {
+      "surface": "בן",
+      "gloss": "પુત્ર"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "બીજો"
+    }
+  ],
+  "timestamp": "2026-08-21T10:51:50.004218477Z",
+  "model": "glm-5.3"
+}

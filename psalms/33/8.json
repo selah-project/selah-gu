@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 33:8",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 33,
+  "translation": "યાહવેથી સારી પૃથ્વી ડરે, તેનાથી તેબેલના બધા વતનીઓ ભયભીત રહે.",
+  "tokens": [
+    {
+      "surface": "ייראו",
+      "gloss": "ડરે"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "યાહવેથી"
+    },
+    {
+      "surface": "כל",
+      "gloss": "સારી"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "પૃથ્વી"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "તેનાથી"
+    },
+    {
+      "surface": "יגורו",
+      "gloss": "ભયભીત રહે"
+    },
+    {
+      "surface": "כל",
+      "gloss": "બધા"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "વતનીઓ"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "તેબેલના"
+    }
+  ],
+  "timestamp": "2026-08-21T16:18:34.573317311Z",
+  "model": "glm-5.3"
+}

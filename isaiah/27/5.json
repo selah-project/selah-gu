@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 27:5",
+  "book": "isaiah",
+  "lang": "gu",
+  "chapter": 27,
+  "translation": "અથવા જે કોઈ મારો કિલ્લો પકડે તે મારી સાથે શાંતિ કરે; શાંતિ તે મારી સાથે કરે.",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "અથવા"
+    },
+    {
+      "surface": "יחזק",
+      "gloss": "પકડે"
+    },
+    {
+      "surface": "במעוזי",
+      "gloss": "મારો કિલ્લો"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "કરે"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "શાંતિ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "મારી સાથે"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "શાંતિ"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "કરે"
+    },
+    {
+      "surface": "לי",
+      "gloss": "મારી સાથે"
+    }
+  ],
+  "timestamp": "2026-08-21T18:47:09.875874701Z",
+  "model": "glm-5.3"
+}

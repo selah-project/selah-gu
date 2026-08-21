@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 26:27",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 26,
+  "translation": "જે ખાડો ખોળે ⟨તે⟩ ⟨તેનામાં⟩ પડશે, અને જે પથ્થર ડગલાય ⟨તે⟩ ⟨તેની⟩ ઉપર પાછો વળશે.",
+  "tokens": [
+    {
+      "surface": "כרה",
+      "gloss": "ખોળે"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "ખાડો"
+    },
+    {
+      "surface": "בה",
+      "gloss": "⟨તેનામાં⟩"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "પડશે"
+    },
+    {
+      "surface": "וגלל",
+      "gloss": "ડગલાય"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "પથ્થર"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "⟨તેની⟩ ઉપર"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "પાછો વળશે"
+    }
+  ],
+  "timestamp": "2026-08-21T17:01:58.795609375Z",
+  "model": "glm-5.3"
+}

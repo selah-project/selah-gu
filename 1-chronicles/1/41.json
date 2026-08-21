@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 1:41",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 1,
+  "translation": "અનાહનાં પુત્રો: દિશોન; અને દિશોનનાં પુત્રો: હમરાન, એશ્બાન, યિતરાન અને કેરાન.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "અનાહ"
+    },
+    {
+      "surface": "דישון",
+      "gloss": "દિશોન"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "અને પુત્રો"
+    },
+    {
+      "surface": "דישון",
+      "gloss": "દિશોનનાં"
+    },
+    {
+      "surface": "חמרן",
+      "gloss": "હમરાન"
+    },
+    {
+      "surface": "ואשבן",
+      "gloss": "એશ્બાન"
+    },
+    {
+      "surface": "ויתרן",
+      "gloss": "યિતરાન"
+    },
+    {
+      "surface": "וכרן",
+      "gloss": "કેરાન"
+    }
+  ],
+  "timestamp": "2026-08-21T17:59:29.145656034Z",
+  "model": "glm-5.3"
+}

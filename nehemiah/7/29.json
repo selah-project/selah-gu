@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "nehemiah 7:29",
+  "book": "nehemiah",
+  "lang": "gu",
+  "chapter": 7,
+  "translation": "કિર્યત-યારિમ, કેફીરા અને બેરોતના માણસો — સાતસો તેતાળીસ.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "માણસો"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "કિર્યત"
+    },
+    {
+      "surface": "יערים",
+      "gloss": "યારિમ"
+    },
+    {
+      "surface": "כפירה",
+      "gloss": "કેફીરા"
+    },
+    {
+      "surface": "ובארות",
+      "gloss": "અને બેરોત"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "સાત"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "સો"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "તેતાળીસ"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "…ત્રણ (ત્રણપંચાળીસ પૂર્ણ)"
+    }
+  ],
+  "timestamp": "2026-08-21T17:55:12.454884927Z",
+  "model": "glm-5.3"
+}

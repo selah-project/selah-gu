@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 16:19",
+  "book": "exodus",
+  "lang": "gu",
+  "chapter": 16,
+  "translation": "અને મોશેએ તેઓને કહ્યું: “કોઈ પણ માણસ તેનાથી કંઈ વધારે સવાર સુધી રાખે નહીં.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "અને કહ્યું"
+    },
+    {
+      "surface": "משה",
+      "gloss": "મોશેએ"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "તેઓને"
+    },
+    {
+      "surface": "איש",
+      "gloss": "કોઈ પણ માણસ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "יותר",
+      "gloss": "વધારે રાખે"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "તેનાથી"
+    },
+    {
+      "surface": "עד",
+      "gloss": "સુધી"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "સવાર"
+    }
+  ],
+  "timestamp": "2026-08-21T18:35:14.155338317Z",
+  "model": "glm-5.3"
+}

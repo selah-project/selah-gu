@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "numbers 33:53",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 33,
+  "translation": "અને તમે ⟨את⟩ ⟨the⟩ દેશનો કબજો લેશો અને તેમાં વસશો, કારણ કે હું તમને ⟨את⟩ ⟨the⟩ દેશ કબજે કરવા માટે આપ્યો છે.",
+  "tokens": [
+    {
+      "surface": "והורשתם",
+      "gloss": "તમે કબજો લેશો"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "દેશ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "દેશ"
+    },
+    {
+      "surface": "וישבתם",
+      "gloss": "અને તમે વસશો"
+    },
+    {
+      "surface": "בה",
+      "gloss": "તેમાં"
+    },
+    {
+      "surface": "כי",
+      "gloss": "કારણ કે"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "તમને"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "હું આપ્યો છું"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "દેશ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "દેશ"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "કબજે કરવા માટે"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "તેનો"
+    }
+  ],
+  "timestamp": "2026-08-21T12:11:19.256460337Z",
+  "model": "glm-5.3"
+}

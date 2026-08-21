@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 132:3",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 132,
+  "translation": "શું હું મારા ઘરના ડેરામાં જાઉં, શું હું મારા પથારાના પલંગ પર ચઢું —",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "શું"
+    },
+    {
+      "surface": "אבא",
+      "gloss": "હું જાઉં"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "ડેરામાં"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "મારા ઘરના"
+    },
+    {
+      "surface": "אם",
+      "gloss": "શું"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "હું ચઢું"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "ערש",
+      "gloss": "પલંગ"
+    },
+    {
+      "surface": "יצועי",
+      "gloss": "મારા પથારાના"
+    }
+  ],
+  "timestamp": "2026-08-21T16:46:26.520505994Z",
+  "model": "glm-5.3"
+}

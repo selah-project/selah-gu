@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "joshua 19:28",
+  "book": "joshua",
+  "lang": "gu",
+  "chapter": 19,
+  "translation": "અને એબરોન, અને રખોબ, અને ખમ્મોન, અને કાના — મહાન સિદોન સુધી.",
+  "tokens": [
+    {
+      "surface": "ועברן",
+      "gloss": "અને એબરોન"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "અને રખોબ"
+    },
+    {
+      "surface": "וחמון",
+      "gloss": "અને ખમ્મોન"
+    },
+    {
+      "surface": "וקנה",
+      "gloss": "અને કાના"
+    },
+    {
+      "surface": "עד",
+      "gloss": "સુધી"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "સિદોન"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "મહાન"
+    }
+  ],
+  "timestamp": "2026-08-21T12:42:25.226179893Z",
+  "model": "glm-5.3"
+}

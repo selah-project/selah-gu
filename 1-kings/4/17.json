@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 4:17",
+  "book": "1-kings",
+  "lang": "gu",
+  "chapter": 4,
+  "translation": "યહોશાફાત પારૂખનો પુત્ર ઇસ્સાખરમાં ⟨હતો⟩.",
+  "tokens": [
+    {
+      "surface": "יהושפט",
+      "gloss": "યહોશાફાત"
+    },
+    {
+      "surface": "בן",
+      "gloss": "પુત્ર"
+    },
+    {
+      "surface": "פרוח",
+      "gloss": "પારૂખ"
+    },
+    {
+      "surface": "ביששכר",
+      "gloss": "ઇસ્સાખરમાં"
+    }
+  ],
+  "timestamp": "2026-08-21T13:38:31.995702092Z",
+  "model": "glm-5.3"
+}

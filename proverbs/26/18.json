@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 26:18",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 26,
+  "translation": "જેમ દિખાવો કરનાર પાગલ — અંગારા, તીર અને મૃત્યુ ફેંકે છે,",
+  "tokens": [
+    {
+      "surface": "כמתלהלה",
+      "gloss": "જેમ દિખાવો કરનાર પાગલ"
+    },
+    {
+      "surface": "הירה",
+      "gloss": "ફેંકે છે"
+    },
+    {
+      "surface": "זקים",
+      "gloss": "અંગારા"
+    },
+    {
+      "surface": "חצים",
+      "gloss": "તીર"
+    },
+    {
+      "surface": "ומות",
+      "gloss": "અને મૃત્યુ"
+    }
+  ],
+  "timestamp": "2026-08-21T17:01:58.105855536Z",
+  "model": "glm-5.3"
+}

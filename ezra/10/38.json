@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "ezra 10:38",
+  "book": "ezra",
+  "lang": "gu",
+  "chapter": 10,
+  "translation": "અને બાની, અને બિન્નુઈ, શિમી.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "અને બાની"
+    },
+    {
+      "surface": "ובנוי",
+      "gloss": "અને બિન્નુઈ"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "શિમી"
+    }
+  ],
+  "timestamp": "2026-08-21T17:50:05.335055294Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "song-of-songs 2:11",
+  "book": "song-of-songs",
+  "lang": "gu",
+  "chapter": 2,
+  "translation": "કેમ કે જુઓ, વરસાદ-ઋતુ પસાર થઈ ગઈ ⟨છે⟩, વરસાદ આગળ વહી ગયો ⟨છે⟩, તે ચાલ્યો ગયો ⟨છે⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "કેમ કે"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "જુઓ"
+    },
+    {
+      "surface": "הסתו",
+      "gloss": "વરસાદ-ઋતુ"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "પસાર થઈ ગઈ ⟨છે⟩"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "વરસાદ"
+    },
+    {
+      "surface": "חלף",
+      "gloss": "આગળ વહી ગયો ⟨છે⟩"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ચાલ્યો ગયો ⟨છે⟩"
+    },
+    {
+      "surface": "לו",
+      "gloss": "પોતાની તરફ"
+    }
+  ],
+  "timestamp": "2026-08-21T17:21:00.012817501Z",
+  "model": "glm-5.3"
+}

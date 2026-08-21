@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 83:11",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 83,
+  "translation": "જે એન-દોર પાસે નષ્ટ થયા; તેઓ જમીન માટે ખાદ બન્યા.",
+  "tokens": [
+    {
+      "surface": "נשמדו",
+      "gloss": "નષ્ટ થયા"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "…પાસે"
+    },
+    {
+      "surface": "דאר",
+      "gloss": "એન-દોર"
+    },
+    {
+      "surface": "היו",
+      "gloss": "બન્યા"
+    },
+    {
+      "surface": "דמן",
+      "gloss": "ખાદ"
+    },
+    {
+      "surface": "לאדמה",
+      "gloss": "જમીન માટે"
+    }
+  ],
+  "timestamp": "2026-08-21T16:32:25.890156379Z",
+  "model": "glm-5.3"
+}

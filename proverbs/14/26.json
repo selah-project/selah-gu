@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 14:26",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 14,
+  "translation": "યાહવેના ભયમાં ⟨છે⟩ બળનો ભરોસો, અને તેનાં બાળકો માટે ⟨તે⟩ શરણ થશે.",
+  "tokens": [
+    {
+      "surface": "ביראת",
+      "gloss": "ના ભયમાં"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "מבטח",
+      "gloss": "ભરોસો"
+    },
+    {
+      "surface": "עז",
+      "gloss": "બળનો"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "અને તેનાં બાળકો માટે"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "થશે"
+    },
+    {
+      "surface": "מחסה",
+      "gloss": "શરણ"
+    }
+  ],
+  "timestamp": "2026-08-21T16:56:53.209900570Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "nehemiah 10:26",
+  "book": "nehemiah",
+  "lang": "gu",
+  "chapter": 10,
+  "translation": "રેખૂમ, ખશબ્ના, માઅસેયાહ.",
+  "tokens": [
+    {
+      "surface": "רחום",
+      "gloss": "રેખૂમ"
+    },
+    {
+      "surface": "חשבנה",
+      "gloss": "ખશબ્ના"
+    },
+    {
+      "surface": "מעשיה",
+      "gloss": "માઅસેયાહ"
+    }
+  ],
+  "timestamp": "2026-08-21T19:01:19.298504533Z",
+  "model": "glm-5.3"
+}

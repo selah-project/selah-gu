@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 109:9",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 109,
+  "translation": "તેના પુત્રો અનાથ થાય, અને તેની પત્ની વિધવા થાય.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "થાય"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "તેના પુત્રો"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "અનાથ"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "અને તેની પત્ની"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "વિધવા"
+    }
+  ],
+  "timestamp": "2026-08-21T16:42:07.721964415Z",
+  "model": "glm-5.3"
+}

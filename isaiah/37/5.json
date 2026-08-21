@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 37:5",
+  "book": "isaiah",
+  "lang": "gu",
+  "chapter": 37,
+  "translation": "અને રાજા હિઝકિયાહુના સેવકો યશાયાહુ પાસે આવ્યા.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "અને આવ્યા"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "સેવકો"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "રાજા"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "હિઝકિયાહુ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "પાસે"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "યશાયાહુ"
+    }
+  ],
+  "timestamp": "2026-08-21T14:29:33.148812423Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 22:1",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 22,
+  "translation": "સંચાલક માટે, “પ્રભાતની હરણી” પર — દાવિદનો મિઝમોર.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "સંચાલક માટે"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "אילת",
+      "gloss": "હરણી"
+    },
+    {
+      "surface": "השחר",
+      "gloss": "પ્રભાતની"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "મિઝમોર"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "દાવિદનો"
+    }
+  ],
+  "timestamp": "2026-08-21T16:15:13.511730709Z",
+  "model": "glm-5.3"
+}

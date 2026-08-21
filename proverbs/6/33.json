@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "proverbs 6:33",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 6,
+  "translation": "ઈજા અને અપમાન ⟨તેને⟩ મળશે, અને તેની નિંદા કદી ભૂંસાશે નહીં.",
+  "tokens": [
+    {
+      "surface": "נגע",
+      "gloss": "ઈજા"
+    },
+    {
+      "surface": "וקלון",
+      "gloss": "અને અપમાન"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "મળશે"
+    },
+    {
+      "surface": "וחרפתו",
+      "gloss": "અને તેની નિંદા"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "תמחה",
+      "gloss": "ભૂંસાશે"
+    }
+  ],
+  "timestamp": "2026-08-21T16:53:16.764200959Z",
+  "model": "glm-5.3"
+}

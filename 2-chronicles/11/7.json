@@ -1,0 +1,44 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 11:7",
+  "book": "2-chronicles",
+  "lang": "gu",
+  "chapter": 11,
+  "translation": "અને ⟨את⟩ બેથ-ત્સૂર, અને ⟨את⟩ શોખો, અને ⟨את⟩ અદુલ્લામ.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "બેથ-ત્સૂર"
+    },
+    {
+      "surface": "בית",
+      "gloss": "બેથ-"
+    },
+    {
+      "surface": "צור",
+      "gloss": "-ત્સૂર"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "શોખો"
+    },
+    {
+      "surface": "שוכו",
+      "gloss": "શોખો"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "અદુલ્લામ"
+    },
+    {
+      "surface": "עדלם",
+      "gloss": "અદુલ્લામ"
+    }
+  ],
+  "timestamp": "2026-08-21T18:18:08.612445107Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 28:25",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 28,
+  "translation": "અને સાતમાં દિવસે તમારા માટે પવિત્ર સભા હશે; કોઈપણ સેવા-કાર્યનું કામ ન કરશો.",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "અને…દિવસે"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "સાતમાં"
+    },
+    {
+      "surface": "מקרא",
+      "gloss": "સભા"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "પવિત્ર"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "હશે"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "તમારા માટે"
+    },
+    {
+      "surface": "כל",
+      "gloss": "કોઈપણ"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "કામ"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "સેવા-કાર્યનું"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ન"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "કરશો"
+    }
+  ],
+  "timestamp": "2026-08-21T12:06:16.367959148Z",
+  "model": "glm-5.3"
+}

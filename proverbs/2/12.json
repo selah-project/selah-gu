@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 2:12",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 2,
+  "translation": "તને દુષ્ટ માર્ગથી અને વિકૃત વાતો બોલતા માણસથી બચાવવા —",
+  "tokens": [
+    {
+      "surface": "להצילך",
+      "gloss": "તને બચાવવા"
+    },
+    {
+      "surface": "מדרך",
+      "gloss": "માર્ગથી"
+    },
+    {
+      "surface": "רע",
+      "gloss": "દુષ્ટ"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "માણસથી"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "બોલતા"
+    },
+    {
+      "surface": "תהפכות",
+      "gloss": "વિકૃત વાતો"
+    }
+  ],
+  "timestamp": "2026-08-21T16:51:14.133426931Z",
+  "model": "glm-5.3"
+}

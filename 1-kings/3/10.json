@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 3:10",
+  "book": "1-kings",
+  "lang": "gu",
+  "chapter": 3,
+  "translation": "અને ⟨the⟩ વાત અદોનાયની દૃષ્ટિમાં સારી લાગી, કારણ કે શલોમોએ ⟨את⟩ આ વાત માંગી હતી.",
+  "tokens": [
+    {
+      "surface": "וייטב",
+      "gloss": "અને સારી લાગી"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "વાત"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "દૃષ્ટિમાં"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "અદોનાય"
+    },
+    {
+      "surface": "כי",
+      "gloss": "કારણ કે"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "માંગી હતી"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "શલોમોએ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "આ વાત"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "વાત"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "આ"
+    }
+  ],
+  "timestamp": "2026-08-21T13:37:12.858628870Z",
+  "model": "glm-5.3"
+}

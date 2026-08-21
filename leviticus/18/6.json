@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 18:6",
+  "book": "leviticus",
+  "lang": "gu",
+  "chapter": 18,
+  "translation": "કોઈ પણ માણસ પોતાના શરીરના કોઈ પણ સગાની નજીક નગ્નતા ઉઘાડવા ન આવશો; હું યા׹વે છું.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "કોઈ પણ માણસ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "(માણસ)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "પાસે"
+    },
+    {
+      "surface": "כל",
+      "gloss": "કોઈ પણ"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "સગા"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "પોતાના શરીરના"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ન"
+    },
+    {
+      "surface": "תקרבו",
+      "gloss": "આવશો"
+    },
+    {
+      "surface": "לגלות",
+      "gloss": "ઉઘાડવા"
+    },
+    {
+      "surface": "ערוה",
+      "gloss": "નગ્નતા"
+    },
+    {
+      "surface": "אני",
+      "gloss": "હું"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    }
+  ],
+  "timestamp": "2026-08-21T11:39:23.896366453Z",
+  "model": "glm-5.3"
+}

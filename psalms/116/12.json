@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 116:12",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 116,
+  "translation": "હું યાહવેને શું પરત આપીશ, મારા પર તેની બધી જ ભેટોના બદલે?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "શું"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "હું પરત આપીશ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "યાહવેને"
+    },
+    {
+      "surface": "כל",
+      "gloss": "બધી જ"
+    },
+    {
+      "surface": "תגמולוהי",
+      "gloss": "તેની ભેટો"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "મારા પર"
+    }
+  ],
+  "timestamp": "2026-08-21T16:42:41.787616845Z",
+  "model": "glm-5.3"
+}

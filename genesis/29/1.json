@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 29:1",
+  "book": "genesis",
+  "lang": "gu",
+  "chapter": 29,
+  "translation": "અને યાકોવે ⟨તેનાં⟩ પગ ઉઠાવ્યાં અને પૂર્વના પુત્રોના દેશ તરફ ચાલ્યો ગયો.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "ઉઠાવ્યાં"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "યાકોવે"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "પગ"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ચાલ્યો ગયો"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "દેશ તરફ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "પુત્રોના"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "પૂર્વના"
+    }
+  ],
+  "timestamp": "2026-08-21T10:52:12.366524495Z",
+  "model": "glm-5.3"
+}

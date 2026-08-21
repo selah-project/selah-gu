@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 13:8",
+  "book": "job",
+  "lang": "gu",
+  "chapter": 13,
+  "translation": "તેનો ચહેરો ઉઠાવશો? અથવા એલ માટે ઝઘડશો?",
+  "tokens": [
+    {
+      "surface": "הפניו",
+      "gloss": "તેનો ચહેરો"
+    },
+    {
+      "surface": "תשאון",
+      "gloss": "ઉઠાવશો"
+    },
+    {
+      "surface": "אם",
+      "gloss": "અથવા"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "એલ માટે"
+    },
+    {
+      "surface": "תריבון",
+      "gloss": "ઝઘડશો"
+    }
+  ],
+  "timestamp": "2026-08-21T17:08:29.848983936Z",
+  "model": "glm-5.3"
+}

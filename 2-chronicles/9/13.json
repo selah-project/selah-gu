@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-chronicles 9:13",
+  "book": "2-chronicles",
+  "lang": "gu",
+  "chapter": 9,
+  "translation": "અને એક વર્ષમાં શલોમોહ પાસે આવેલા સોનાનું વજન છ સો છાસઠ છ સોનાની કિકાર થયું.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "અને થયું"
+    },
+    {
+      "surface": "משקל",
+      "gloss": "વજન"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "સોનાનું"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જે"
+    },
+    {
+      "surface": "בא",
+      "gloss": "આવેલું"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "શલોમોહ પાસે"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "વર્ષમાં"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "એક"
+    },
+    {
+      "surface": "שש",
+      "gloss": "છ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "સો"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "અને સાઠ"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "અને છ"
+    },
+    {
+      "surface": "ככרי",
+      "gloss": "કિકાર"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "સોનાની"
+    }
+  ],
+  "timestamp": "2026-08-21T18:18:51.551042547Z",
+  "model": "glm-5.3"
+}

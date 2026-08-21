@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "lamentations 3:45",
+  "book": "lamentations",
+  "lang": "gu",
+  "chapter": 3,
+  "translation": "ફેંટ અને તિરસ્કાર તમે અમને પ્રજાઓના મધ્યમાં બનાવ્યા છે.",
+  "tokens": [
+    {
+      "surface": "סחי",
+      "gloss": "ફેંટ"
+    },
+    {
+      "surface": "ומאוס",
+      "gloss": "અને તિરસ્કાર"
+    },
+    {
+      "surface": "תשימנו",
+      "gloss": "તમે અમને બનાવ્યા છે"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "મધ્યમાં"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "પ્રજાઓના"
+    }
+  ],
+  "timestamp": "2026-08-21T17:26:09.037363065Z",
+  "model": "glm-5.3"
+}

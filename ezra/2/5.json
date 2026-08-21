@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezra 2:5",
+  "book": "ezra",
+  "lang": "gu",
+  "chapter": 2,
+  "translation": "અરાખનાં પુત્રો, સાતસો પાંચ અને સિત્તેર.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "અરાખ"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "સાત"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "સો"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "પાંચ"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "અને સિત્તેર"
+    }
+  ],
+  "timestamp": "2026-08-21T17:45:22.157118520Z",
+  "model": "glm-5.3"
+}

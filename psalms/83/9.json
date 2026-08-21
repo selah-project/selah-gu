@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 83:9",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 83,
+  "translation": "અશ્શૂર પણ તેઓ સાથે જોડાયું; તેઓ લોતનાં પુત્રો માટે ભુજા બન્યાં. સેલા.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "પણ"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "અશ્શૂર"
+    },
+    {
+      "surface": "נלוה",
+      "gloss": "જોડાયું"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "તેઓ સાથે"
+    },
+    {
+      "surface": "היו",
+      "gloss": "બન્યાં"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "ભુજા"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "પુત્રો માટે"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "લોતનાં"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "સેલા"
+    }
+  ],
+  "timestamp": "2026-08-21T16:32:25.889732229Z",
+  "model": "glm-5.3"
+}

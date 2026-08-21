@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 40:12",
+  "book": "genesis",
+  "lang": "gu",
+  "chapter": 40,
+  "translation": "અને યોસેફે તેને કહ્યું: આ તેની સમજૂતી છે — ત્રણ ડાળખાં એ ત્રણ દિવસ ⟨છે⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "અને કહ્યું"
+    },
+    {
+      "surface": "לו",
+      "gloss": "તેને"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "યોસેફે"
+    },
+    {
+      "surface": "זה",
+      "gloss": "આ"
+    },
+    {
+      "surface": "פתרנו",
+      "gloss": "તેની સમજૂતી"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "ત્રણ"
+    },
+    {
+      "surface": "השרגים",
+      "gloss": "ડાળખાં"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "ત્રણ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "દિવસ"
+    },
+    {
+      "surface": "הם",
+      "gloss": "એ ⟨છે⟩"
+    }
+  ],
+  "timestamp": "2026-08-21T10:58:13.146163330Z",
+  "model": "glm-5.3"
+}

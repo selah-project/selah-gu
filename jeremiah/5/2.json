@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 5:2",
+  "book": "jeremiah",
+  "lang": "gu",
+  "chapter": 5,
+  "translation": "અને જો તેઓ કહે, “યાહવે જીવંત છે”, તો પણ ખરેખર તેઓ ખોટી સોગંદ ખાય છે.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "અને જો"
+    },
+    {
+      "surface": "חי",
+      "gloss": "જીવંત"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "તેઓ કહે"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "ખરેખર"
+    },
+    {
+      "surface": "לשקר",
+      "gloss": "ખોટી રીતે"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "તેઓ સોગંદ ખાય છે"
+    }
+  ],
+  "timestamp": "2026-08-21T18:48:51.422057511Z",
+  "model": "glm-5.3"
+}

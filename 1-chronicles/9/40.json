@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 9:40",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 9,
+  "translation": "અને યહોનાતનનો પુત્ર મેરીબ-બાલ; અને મેરી-બાલે ⟨את⟩ મીખાને જન્મ આપ્યો.",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "અને … પુત્ર"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "યહોનાતનનો"
+    },
+    {
+      "surface": "מריב",
+      "gloss": "મેરીબ-"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "બાલ"
+    },
+    {
+      "surface": "ומרי",
+      "gloss": "અને મેરી-"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "બાલે"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "જન્મ આપ્યો"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "મીખા"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "મીખાને"
+    }
+  ],
+  "timestamp": "2026-08-21T18:04:38.992753608Z",
+  "model": "glm-5.3"
+}

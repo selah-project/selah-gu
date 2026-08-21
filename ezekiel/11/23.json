@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 11:23",
+  "book": "ezekiel",
+  "lang": "gu",
+  "chapter": 11,
+  "translation": "અને યાહવેનો તેજ નગરના મધ્યમાંથી ઉપર ચઢ્યો, અને તે પર્વત પર ઊભો રહ્યો જે નગરની પૂર્વમાં છે.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "અને ચઢ્યો"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "તેજ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવેનો"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "…થી ઉપર"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "મધ્ય"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "નગરના"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "અને ઊભો રહ્યો"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "પર્વત"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જે"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "પૂર્વમાં"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "નગરની"
+    }
+  ],
+  "timestamp": "2026-08-21T15:20:55.233238537Z",
+  "model": "glm-5.3"
+}

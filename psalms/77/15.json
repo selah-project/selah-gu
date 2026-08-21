@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 77:15",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 77,
+  "translation": "તું એ ⟨the⟩ એલ છે ⟨જે⟩ ચમત્કાર કરનાર; તેં પ્રજાઓ વચ્ચે પોતાનું બળ જાણ કર્યું.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "તું"
+    },
+    {
+      "surface": "האל",
+      "gloss": "એ ⟨the⟩ એલ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "કરનાર"
+    },
+    {
+      "surface": "פלא",
+      "gloss": "ચમત્કાર"
+    },
+    {
+      "surface": "הודעת",
+      "gloss": "જાણ કર્યું"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "પ્રજાઓ વચ્ચે"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "પોતાનું બળ"
+    }
+  ],
+  "timestamp": "2026-08-21T16:30:37.236411766Z",
+  "model": "glm-5.3"
+}

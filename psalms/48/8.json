@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 48:8",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 48,
+  "translation": "પૂર્વીય વાયુથી તમે તરશીશનાં જહાજો તોડી નાખ્યાં.",
+  "tokens": [
+    {
+      "surface": "ברוח",
+      "gloss": "વાયુથી"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "પૂર્વીય"
+    },
+    {
+      "surface": "תשבר",
+      "gloss": "તમે તોડી નાખ્યાં"
+    },
+    {
+      "surface": "אניות",
+      "gloss": "જહાજો"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "તરશીશનાં"
+    }
+  ],
+  "timestamp": "2026-08-21T16:22:58.256418171Z",
+  "model": "glm-5.3"
+}

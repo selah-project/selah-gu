@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "nehemiah 12:6",
+  "book": "nehemiah",
+  "lang": "gu",
+  "chapter": 12,
+  "translation": "શેમઆયાહ, યોયારીબ, યદઆયાહ;",
+  "tokens": [
+    {
+      "surface": "שמעיה",
+      "gloss": "શેમઆયાહ"
+    },
+    {
+      "surface": "ויויריב",
+      "gloss": "અને યોયારીબ"
+    },
+    {
+      "surface": "ידעיה",
+      "gloss": "યદઆયાહ"
+    }
+  ],
+  "timestamp": "2026-08-21T17:57:56.879706631Z",
+  "model": "glm-5.3"
+}

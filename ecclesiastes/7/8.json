@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 7:8",
+  "book": "ecclesiastes",
+  "lang": "gu",
+  "chapter": 7,
+  "translation": "સારું છે ⟨the⟩ વસ્તુનો અંત તેના પ્રારંભ કરતાં; સારું છે ધીરજવાળો આત્મા ઉદ્દંત આત્મા કરતાં.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "સારું છે"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "અંત"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "વસ્તુનો"
+    },
+    {
+      "surface": "מראשיתו",
+      "gloss": "તેના પ્રારંભ કરતાં"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "સારું છે"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "ધીરજવાળો"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "આત્મા"
+    },
+    {
+      "surface": "מגבה",
+      "gloss": "ઉદ્દંત કરતાં"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "આત્મા"
+    }
+  ],
+  "timestamp": "2026-08-21T19:00:14.152412062Z",
+  "model": "glm-5.3"
+}

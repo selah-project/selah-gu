@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 25:30",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 25,
+  "translation": "ત્રીસમું મહાઝીયોતને; ⟨તેના⟩ પુત્રો અને ⟨તેના⟩ ભાઈઓ — બાર.",
+  "tokens": [
+    {
+      "surface": "לשלשה",
+      "gloss": "ત્રીસમું"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": ""
+    },
+    {
+      "surface": "למחזיאות",
+      "gloss": "મહાઝીયોતને"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "અને ભાઈઓ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "બાર (બે)"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "(દસ)"
+    }
+  ],
+  "timestamp": "2026-08-21T18:11:31.595725489Z",
+  "model": "glm-5.3"
+}

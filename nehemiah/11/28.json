@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "nehemiah 11:28",
+  "book": "nehemiah",
+  "lang": "gu",
+  "chapter": 11,
+  "translation": "અને ઝિક્લાગ, મેખોના અને તેની પુત્રીઓમાં.",
+  "tokens": [
+    {
+      "surface": "ובצקלג",
+      "gloss": "ઝિક્લાગમાં"
+    },
+    {
+      "surface": "ובמכנה",
+      "gloss": "મેખોનામાં"
+    },
+    {
+      "surface": "ובבנתיה",
+      "gloss": "અને તેની પુત્રીઓમાં"
+    }
+  ],
+  "timestamp": "2026-08-21T17:56:54.625579932Z",
+  "model": "glm-5.3"
+}

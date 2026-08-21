@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 21:9",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 21,
+  "translation": "છતના ખૂણા પર રહેવું ભલું છે, કંકાસ કરતી સ્ત્રી અને સાંઠગાંઠવાળા ઘર ⟨કરતાં⟩.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ભલું છે"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "રહેવું"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "פנת",
+      "gloss": "ખૂણા"
+    },
+    {
+      "surface": "גג",
+      "gloss": "છત"
+    },
+    {
+      "surface": "מאשת",
+      "gloss": "સ્ત્રી કરતાં"
+    },
+    {
+      "surface": "מדינים",
+      "gloss": "કંકાસ કરતી"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "અને ઘર"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "સાંઠગાંઠવાળા"
+    }
+  ],
+  "timestamp": "2026-08-21T16:58:38.138238216Z",
+  "model": "glm-5.3"
+}

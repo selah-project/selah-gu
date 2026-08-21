@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 30:19",
+  "book": "genesis",
+  "lang": "gu",
+  "chapter": 30,
+  "translation": "અને લેઆહ ફરી ગર્ભવતી થઈ, અને યાકોબ માટે છઠ્ઠો પુત્ર જન્મ્યો.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "ગર્ભવતી થઈ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ફરી"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "લેઆહ"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "જન્મ આપ્યો"
+    },
+    {
+      "surface": "בן",
+      "gloss": "પુત્ર"
+    },
+    {
+      "surface": "ששי",
+      "gloss": "છઠ્ઠો"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "યાકોબ માટે"
+    }
+  ],
+  "timestamp": "2026-08-21T10:52:17.205489085Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 30:5",
+  "book": "jeremiah",
+  "lang": "gu",
+  "chapter": 30,
+  "translation": "કારણ કે આ પ્રમાણે યાહવે કહે છે: ધ્રૂજારીનો અવાજ અમે સાંભળ્યો ⟨છે⟩ — ભય, અને શાંતિ નથી.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "કારણ કે"
+    },
+    {
+      "surface": "כה",
+      "gloss": "આ પ્રમાણે"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "કહે છે"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "קול",
+      "gloss": "અવાજ"
+    },
+    {
+      "surface": "חרדה",
+      "gloss": "ધ્રૂજારીનો"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "અમે સાંભળ્યો"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "ભય"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "અને... નથી"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "શાંતિ"
+    }
+  ],
+  "timestamp": "2026-08-21T15:01:47.522213571Z",
+  "model": "glm-5.3"
+}

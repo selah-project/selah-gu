@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 10:7",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 10,
+  "translation": "ધર્મીનું સ્મરણ આશીર્વાદ માટે ⟨છે⟩, પણ દુષ્ટોનું નામ સડશે.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "સ્મરણ"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ધર્મીનું"
+    },
+    {
+      "surface": "לברכה",
+      "gloss": "આશીર્વાદ માટે"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "પણ … નામ"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "દુષ્ટોનું"
+    },
+    {
+      "surface": "ירקב",
+      "gloss": "સડશે"
+    }
+  ],
+  "timestamp": "2026-08-21T16:54:48.670179398Z",
+  "model": "glm-5.3"
+}

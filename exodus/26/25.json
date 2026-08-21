@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 26:25",
+  "book": "exodus",
+  "lang": "gu",
+  "chapter": 26,
+  "translation": "અને તેઓ આઠ તકતીઓ થશે, અને તેમના પાયા ચાંદીના — સોળ પાયા; એક તકતીની નીચે બે પાયા, અને એક તકતીની નીચે બે પાયા.",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "અને તેઓ થશે"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "આઠ"
+    },
+    {
+      "surface": "קרשים",
+      "gloss": "તકતીઓ"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "અને તેમના પાયા"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ચાંદી"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "છ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "-સોળ"
+    },
+    {
+      "surface": "אדנים",
+      "gloss": "પાયા"
+    },
+    {
+      "surface": "שני",
+      "gloss": "બે"
+    },
+    {
+      "surface": "אדנים",
+      "gloss": "પાયા"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "નીચે"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "તકતી"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "એક"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "અને બે"
+    },
+    {
+      "surface": "אדנים",
+      "gloss": "પાયા"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "નીચે"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "તકતી"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "એક"
+    }
+  ],
+  "timestamp": "2026-08-21T11:19:48.855395236Z",
+  "model": "glm-5.3"
+}

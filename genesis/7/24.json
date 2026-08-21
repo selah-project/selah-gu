@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 7:24",
+  "book": "genesis",
+  "lang": "gu",
+  "chapter": 7,
+  "translation": "અને પાણીઓ પૃથ્વી પર પચાસ અને સો દિવસ પ્રબળ રહ્યાં.",
+  "tokens": [
+    {
+      "surface": "ויגברו",
+      "gloss": "પ્રબળ રહ્યાં"
+    },
+    {
+      "surface": "המים",
+      "gloss": "પાણીઓ"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "પૃથ્વી"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "પચાસ"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "અને સો"
+    },
+    {
+      "surface": "יום",
+      "gloss": "દિવસ"
+    }
+  ],
+  "timestamp": "2026-08-21T10:39:18.720266233Z",
+  "model": "glm-5.3"
+}

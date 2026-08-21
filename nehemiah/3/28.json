@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "nehemiah 3:28",
+  "book": "nehemiah",
+  "lang": "gu",
+  "chapter": 3,
+  "translation": "ઘોડાના દરવાજાથી ઉપર યાજકોએ મજબૂત કર્યું, દરેક ⟨પોતાના⟩ ઘરની સામે.",
+  "tokens": [
+    {
+      "surface": "מעל",
+      "gloss": "ઉપર"
+    },
+    {
+      "surface": "שער",
+      "gloss": "દરવાજાથી"
+    },
+    {
+      "surface": "הסוסים",
+      "gloss": "ઘોડાના"
+    },
+    {
+      "surface": "החזיקו",
+      "gloss": "મજબૂત કર્યું"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "યાજકોએ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "દરેક"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "સામે"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "પોતાના ઘરની"
+    }
+  ],
+  "timestamp": "2026-08-21T17:53:22.195469782Z",
+  "model": "glm-5.3"
+}

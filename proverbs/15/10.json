@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 15:10",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 15,
+  "translation": "માર્ગ છોડનાર માટે શિક્ષણ દુઃખદાયી ⟨છે⟩; ઠપકો દ્વેષ કરનાર મરી જશે.",
+  "tokens": [
+    {
+      "surface": "מוסר",
+      "gloss": "શિક્ષણ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "દુઃખદાયી"
+    },
+    {
+      "surface": "לעזב",
+      "gloss": "છોડનાર માટે"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "માર્ગ"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "દ્વેષ કરનાર"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "ઠપકો"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "મરી જશે"
+    }
+  ],
+  "timestamp": "2026-08-21T16:57:17.973775731Z",
+  "model": "glm-5.3"
+}

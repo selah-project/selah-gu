@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 2:11",
+  "book": "deuteronomy",
+  "lang": "gu",
+  "chapter": 2,
+  "translation": "રફાઈમ ગણાય છે તેઓ પણ, અનાકીઓની જેમ; અને મોઆબીઓ તેમને એમીમ કહે ⟨છે⟩.",
+  "tokens": [
+    {
+      "surface": "רפאים",
+      "gloss": "રફાઈમ"
+    },
+    {
+      "surface": "יחשבו",
+      "gloss": "ગણાય છે"
+    },
+    {
+      "surface": "אף",
+      "gloss": "પણ"
+    },
+    {
+      "surface": "הם",
+      "gloss": "તેઓ"
+    },
+    {
+      "surface": "כענקים",
+      "gloss": "અનાકીઓની જેમ"
+    },
+    {
+      "surface": "והמאבים",
+      "gloss": "અને મોઆબીઓ"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "કહે છે"
+    },
+    {
+      "surface": "להם",
+      "gloss": "તેમને"
+    },
+    {
+      "surface": "אמים",
+      "gloss": "એમીમ"
+    }
+  ],
+  "timestamp": "2026-08-21T12:12:20.103703486Z",
+  "model": "glm-5.3"
+}

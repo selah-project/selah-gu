@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 8:13",
+  "book": "ecclesiastes",
+  "lang": "gu",
+  "chapter": 8,
+  "translation": "અને ભલું દુષ્ટને નહિ થાય, અને છાયા સમાન ⟨તે⟩ પોતાનાં દિવસો લંબાણી શકશે નહિ, કેમ કે તે એલોહીમના સામે ભય રાખતો નથી.",
+  "tokens": [
+    {
+      "surface": "וטוב",
+      "gloss": "અને ભલું"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નહિ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "થાય"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": "દુષ્ટને"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "અને નહિ"
+    },
+    {
+      "surface": "יאריך",
+      "gloss": "લંબાણી શકશે"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "દિવસો"
+    },
+    {
+      "surface": "כצל",
+      "gloss": "છાયા સમાન"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "કેમ કે"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "નથી"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "ભય રાખતો"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "ના સામે"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "એલોહીમ"
+    }
+  ],
+  "timestamp": "2026-08-21T17:32:23.236177448Z",
+  "model": "glm-5.3"
+}

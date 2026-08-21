@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezra 2:7",
+  "book": "ezra",
+  "lang": "gu",
+  "chapter": 2,
+  "translation": "એલામનાં પુત્રો, એક હજાર બસો ચાર અને પચાસ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "એલામ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "હજાર"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "બસો"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "પચાસ"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "અને ચાર"
+    }
+  ],
+  "timestamp": "2026-08-21T17:45:22.157610383Z",
+  "model": "glm-5.3"
+}

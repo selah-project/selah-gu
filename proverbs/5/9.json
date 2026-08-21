@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 5:9",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 5,
+  "translation": "નહીં તો તું તારો તેજ અન્યને આપી દે, અને તારાં વર્ષો ક્રૂરને.",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "નહીં તો"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "તું આપી દે"
+    },
+    {
+      "surface": "לאחרים",
+      "gloss": "અન્યને"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "તારો તેજ"
+    },
+    {
+      "surface": "ושנתיך",
+      "gloss": "અને તારાં વર્ષો"
+    },
+    {
+      "surface": "לאכזרי",
+      "gloss": "ક્રૂરને"
+    }
+  ],
+  "timestamp": "2026-08-21T16:52:03.578418621Z",
+  "model": "glm-5.3"
+}

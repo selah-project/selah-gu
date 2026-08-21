@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 28:10",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 28,
+  "translation": "જું, હવે, કે યાહવેએ પવિત્ર સ્થાન માટે ભવન બાંધવા તને પસંદ કર્યો છે; મજબૂત રહે અને કર.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "જું"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "હવે"
+    },
+    {
+      "surface": "כי",
+      "gloss": "કે"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવેએ"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "પસંદ કર્યો છે"
+    },
+    {
+      "surface": "בך",
+      "gloss": "તને"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "બાંધવા"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ભવન"
+    },
+    {
+      "surface": "למקדש",
+      "gloss": "પવિત્ર સ્થાન માટે"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "મજબૂત રહે"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "અને કર"
+    }
+  ],
+  "timestamp": "2026-08-21T18:14:28.796757656Z",
+  "model": "glm-5.3"
+}

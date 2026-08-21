@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-chronicles 17:18",
+  "book": "2-chronicles",
+  "lang": "gu",
+  "chapter": 17,
+  "translation": "અને તેના હાથ પર યહોઝાબાદ, અને તેની સાથે સો અને એંસી હજાર યુદ્ધ-સન્નદ્ધ સૈનિકો.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "અને …ના પર"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "તેના હાથ"
+    },
+    {
+      "surface": "יהוזבד",
+      "gloss": "યહોઝાબાદ"
+    },
+    {
+      "surface": "ועמו",
+      "gloss": "અને તેની સાથે"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "સો"
+    },
+    {
+      "surface": "ושמונים",
+      "gloss": "અને એંસી"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "હજાર"
+    },
+    {
+      "surface": "חלוצי",
+      "gloss": "સન્નદ્ધ"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "યુદ્ધ"
+    }
+  ],
+  "timestamp": "2026-08-21T18:20:46.641849693Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 1:2",
+  "book": "job",
+  "lang": "gu",
+  "chapter": 1,
+  "translation": "અને તેને સાત પુત્રો અને ત્રણ પુત્રીઓ જન્મ્યાં.",
+  "tokens": [
+    {
+      "surface": "ויולדו",
+      "gloss": "જન્મ્યાં"
+    },
+    {
+      "surface": "לו",
+      "gloss": "તેને"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "સાત"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "ושלוש",
+      "gloss": "અને ત્રણ"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "પુત્રીઓ"
+    }
+  ],
+  "timestamp": "2026-08-21T18:59:29.769272641Z",
+  "model": "glm-5.3"
+}

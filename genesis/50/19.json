@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 50:19",
+  "book": "genesis",
+  "lang": "gu",
+  "chapter": 50,
+  "translation": "અને યોસેફે તેમને કહ્યું, “ડરશો નહીં; કેમ કે હું એલોહીમના સ્થાને તો નથી ⟨જ નહીં⟩।”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "અને કહ્યું"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "તેમને"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "યોસેફે"
+    },
+    {
+      "surface": "אל",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "ડરશો"
+    },
+    {
+      "surface": "כי",
+      "gloss": "કેમ કે"
+    },
+    {
+      "surface": "התחת",
+      "gloss": "ના સ્થાને"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "એલોહીમના"
+    },
+    {
+      "surface": "אני",
+      "gloss": "હું"
+    }
+  ],
+  "timestamp": "2026-08-21T11:06:02.682908583Z",
+  "model": "glm-5.3"
+}

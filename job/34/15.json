@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 34:15",
+  "book": "job",
+  "lang": "gu",
+  "chapter": 34,
+  "translation": "તો સઘળું માંસ એકસાથે મૃત્યુ પામે, અને માણસ ધૂળ પર પાછો વળે.",
+  "tokens": [
+    {
+      "surface": "יגוע",
+      "gloss": "મૃત્યુ પામે"
+    },
+    {
+      "surface": "כל",
+      "gloss": "સઘળું"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "માંસ"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "એકસાથે"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "અને માણસ"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "ધૂળ"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "પાછો વળે"
+    }
+  ],
+  "timestamp": "2026-08-21T17:17:48.519509024Z",
+  "model": "glm-5.3"
+}

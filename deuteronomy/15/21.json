@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 15:21",
+  "book": "deuteronomy",
+  "lang": "gu",
+  "chapter": 15,
+  "translation": "અને જો તેમાં ખામી હોય — પંગુ કે આંધળું, કોઈ પણ દુષ્ટ ખામી — તો તું તેને તારા દેવ યાહવેને બલિ તરીકે ન કાપીશ.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "અને જો"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "હોય"
+    },
+    {
+      "surface": "בו",
+      "gloss": "તેમાં"
+    },
+    {
+      "surface": "מום",
+      "gloss": "ખામી"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "પંગુ"
+    },
+    {
+      "surface": "או",
+      "gloss": "કે"
+    },
+    {
+      "surface": "עור",
+      "gloss": "આંધળું"
+    },
+    {
+      "surface": "כל",
+      "gloss": "કોઈ પણ"
+    },
+    {
+      "surface": "מום",
+      "gloss": "ખામી"
+    },
+    {
+      "surface": "רע",
+      "gloss": "દુષ્ટ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "תזבחנו",
+      "gloss": "તેને કાપીશ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "યાહવેને"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "તારા દેવ"
+    }
+  ],
+  "timestamp": "2026-08-21T12:19:29.689523359Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 81:10",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 81,
+  "translation": "તારી વચ્ચે પરદેશી એલ ન રહે, અને પરદેશી એલને તું દંડવત ન કરીશ.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ન"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "રહે"
+    },
+    {
+      "surface": "בך",
+      "gloss": "તારી વચ્ચે"
+    },
+    {
+      "surface": "אל",
+      "gloss": "એલ"
+    },
+    {
+      "surface": "זר",
+      "gloss": "પરદેશી"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "અને ન"
+    },
+    {
+      "surface": "תשתחוה",
+      "gloss": "દંડવત કરીશ"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "એલને"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "પરદેશી"
+    }
+  ],
+  "timestamp": "2026-08-21T16:32:15.615840032Z",
+  "model": "glm-5.3"
+}

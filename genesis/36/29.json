@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "genesis 36:29",
+  "book": "genesis",
+  "lang": "gu",
+  "chapter": 36,
+  "translation": "આ હતા હોરીઓના સરદારો: સરદાર લોતાન, સરદાર શોબાલ, સરદાર ત્સિબઓન, સરદાર અનાહ.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "આ હતા"
+    },
+    {
+      "surface": "אלופי",
+      "gloss": "સરદારો"
+    },
+    {
+      "surface": "החרי",
+      "gloss": "હોરીઓના"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "સરદાર"
+    },
+    {
+      "surface": "לוטן",
+      "gloss": "લોતાન"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "સરદાર"
+    },
+    {
+      "surface": "שובל",
+      "gloss": "શોબાલ"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "સરદાર"
+    },
+    {
+      "surface": "צבעון",
+      "gloss": "ત્સિબઓન"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "સરદાર"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "અનાહ"
+    }
+  ],
+  "timestamp": "2026-08-21T10:56:03.949396559Z",
+  "model": "glm-5.3"
+}

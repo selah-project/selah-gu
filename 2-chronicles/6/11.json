@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 6:11",
+  "book": "2-chronicles",
+  "lang": "gu",
+  "chapter": 6,
+  "translation": "અને મેં ત્યાં ⟨את⟩ સંદુક મૂકી, જેમાં યાહવેની બ્રિત છે, જે તેણે યિસ્રાએલના પુત્રો સાથે કરી હતી.",
+  "tokens": [
+    {
+      "surface": "ואשים",
+      "gloss": "અને મેં મૂકી"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ત્યાં"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "સંદુક"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "સંદુક"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જેમાં"
+    },
+    {
+      "surface": "שם",
+      "gloss": "છે ત્યાં"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "બ્રિત"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવેની"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જે"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "કરી હતી"
+    },
+    {
+      "surface": "עם",
+      "gloss": "સાથે"
+    },
+    {
+      "surface": "בני",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "યિસ્રાએલના"
+    }
+  ],
+  "timestamp": "2026-08-21T18:16:24.133254790Z",
+  "model": "glm-5.3"
+}

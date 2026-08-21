@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "nehemiah 7:28",
+  "book": "nehemiah",
+  "lang": "gu",
+  "chapter": 7,
+  "translation": "બેથ-અઝમાવેતના માણસો ચાલીસ બે.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "માણસો"
+    },
+    {
+      "surface": "בית",
+      "gloss": "બેથ-"
+    },
+    {
+      "surface": "עזמות",
+      "gloss": "અઝમાવેત"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "ચાલીસ"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "બે"
+    }
+  ],
+  "timestamp": "2026-08-21T17:54:59.316779742Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 105:11",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 105,
+  "translation": "કહેતા: “તને હું ⟨את⟩ કનાન દેશ આપીશ, તમારી વિરાસતનો દોર।”",
+  "tokens": [
+    {
+      "surface": "לאמר",
+      "gloss": "કહેતા"
+    },
+    {
+      "surface": "לך",
+      "gloss": "તને"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "હું આપીશ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "કનાન દેશ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "દેશ"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "કનાન"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "દોર"
+    },
+    {
+      "surface": "נחלתכם",
+      "gloss": "તમારી વિરાસત"
+    }
+  ],
+  "timestamp": "2026-08-21T16:39:32.345313336Z",
+  "model": "glm-5.3"
+}

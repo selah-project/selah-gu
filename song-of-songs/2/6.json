@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "song-of-songs 2:6",
+  "book": "song-of-songs",
+  "lang": "gu",
+  "chapter": 2,
+  "translation": "તેનો ડાબો હાથ મારા મસ્તક નીચે ⟨છે⟩, અને તેનો જમણો હાથ મને ભેટે છે.",
+  "tokens": [
+    {
+      "surface": "שמאלו",
+      "gloss": "તેનો ડાબો હાથ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "નીચે"
+    },
+    {
+      "surface": "לראשי",
+      "gloss": "મારા મસ્તક"
+    },
+    {
+      "surface": "וימינו",
+      "gloss": "અને તેનો જમણો હાથ"
+    },
+    {
+      "surface": "תחבקני",
+      "gloss": "મને ભેટે છે"
+    }
+  ],
+  "timestamp": "2026-08-21T17:21:44.329221638Z",
+  "model": "glm-5.3"
+}

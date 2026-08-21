@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 13:2",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 13,
+  "translation": "પોતાના મુખના ફળથી માણસ સારું ખાય છે, પણ વિશ્વાસઘાતીઓની નફશ — હિંસા.",
+  "tokens": [
+    {
+      "surface": "מפרי",
+      "gloss": "ફળથી"
+    },
+    {
+      "surface": "פי",
+      "gloss": "મુખના"
+    },
+    {
+      "surface": "איש",
+      "gloss": "માણસ"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ખાય છે"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "સારું"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "પણ નફશ"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "વિશ્વાસઘાતીઓની"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "હિંસા"
+    }
+  ],
+  "timestamp": "2026-08-21T16:55:54.988043623Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 3:22",
+  "book": "deuteronomy",
+  "lang": "gu",
+  "chapter": 3,
+  "translation": "તેઓનો ડર નહીં માંગો, કારણ કે યાહવે તમારા એલોહીમ ⟨is⟩ તે જે તમારા માટે યુદ્ધ કરે છે.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "תיראום",
+      "gloss": "ડર માંગો"
+    },
+    {
+      "surface": "כי",
+      "gloss": "કારણ કે"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "તમારા એલોહીમ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "તે જ"
+    },
+    {
+      "surface": "הנלחם",
+      "gloss": "યુદ્ધ કરનાર"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "તમારા માટે"
+    }
+  ],
+  "timestamp": "2026-08-21T12:13:29.615190698Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 7:14",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 7,
+  "translation": "“મારી પાસે શાંતિ-ભેટો ⟨are⟩; આજે હું મારા વ્રતો ચૂકવ્યાં છે.",
+  "tokens": [
+    {
+      "surface": "זבחי",
+      "gloss": "ભેટો"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "શાંતિ-"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "મારી પાસે"
+    },
+    {
+      "surface": "היום",
+      "gloss": "આજે"
+    },
+    {
+      "surface": "שלמתי",
+      "gloss": "ચૂકવ્યાં છે"
+    },
+    {
+      "surface": "נדרי",
+      "gloss": "મારા વ્રતો"
+    }
+  ],
+  "timestamp": "2026-08-21T16:54:00.829687766Z",
+  "model": "glm-5.3"
+}

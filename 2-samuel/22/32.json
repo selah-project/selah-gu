@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-samuel 22:32",
+  "book": "2-samuel",
+  "lang": "gu",
+  "chapter": 22,
+  "translation": "કેમ કે યાહવે સિવાય કોણ એલ છે? અને આપણા એલોહીમ સિવાય કોણ શિલા છે?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "કેમ કે"
+    },
+    {
+      "surface": "מי",
+      "gloss": "કોણ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "એલ"
+    },
+    {
+      "surface": "מבלעדי",
+      "gloss": "સિવાય"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "અને કોણ"
+    },
+    {
+      "surface": "צור",
+      "gloss": "શિલા"
+    },
+    {
+      "surface": "מבלעדי",
+      "gloss": "સિવાય"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "આપણા એલોહીમ"
+    }
+  ],
+  "timestamp": "2026-08-21T13:33:34.442117786Z",
+  "model": "glm-5.3"
+}

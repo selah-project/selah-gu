@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "proverbs 16:33",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 16,
+  "translation": "હોયમાં ગોરળ ⟨את⟩ નાખવામાં આવે છે, પણ તેનો આખો ચુકાદો યાહવે પાસેથી છે.",
+  "tokens": [
+    {
+      "surface": "בחיק",
+      "gloss": "હોયમાં"
+    },
+    {
+      "surface": "יוטל",
+      "gloss": "નાખવામાં આવે છે"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ગોરળ"
+    },
+    {
+      "surface": "הגורל",
+      "gloss": "ગોરળ"
+    },
+    {
+      "surface": "ומיהוה",
+      "gloss": "પણ યાહવે પાસેથી"
+    },
+    {
+      "surface": "כל",
+      "gloss": "આખો"
+    },
+    {
+      "surface": "משפטו",
+      "gloss": "તેનો ચુકાદો"
+    }
+  ],
+  "timestamp": "2026-08-21T18:57:43.539179896Z",
+  "model": "glm-5.3"
+}

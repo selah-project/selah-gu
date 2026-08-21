@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 75:7",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 75,
+  "translation": "કેમ કે ઊંચાણ નથી આવતું ન તો પૂર્વથી, ન પશ્ચિમથી, ન પણ પહાડોના મરુસ્થળથી.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "કેમ કે"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નથી"
+    },
+    {
+      "surface": "ממוצא",
+      "gloss": "પૂર્વથી"
+    },
+    {
+      "surface": "וממערב",
+      "gloss": "ન પશ્ચિમથી"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ન પણ"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "મરુસ્થળથી"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "પહાડોના"
+    }
+  ],
+  "timestamp": "2026-08-21T16:30:37.731667925Z",
+  "model": "glm-5.3"
+}

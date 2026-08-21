@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 25:20",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 25,
+  "translation": "ઠંડા દિવસે વસ્ત્ર ઉતારનાર, અને સોડા પર સારડી — જે દુઃખી હૃદય પર ગીત ગાય છે એવો ⟨જ⟩ ⟨છે⟩.",
+  "tokens": [
+    {
+      "surface": "מעדה",
+      "gloss": "ઉતારનાર"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "વસ્ત્ર"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "દિવસે"
+    },
+    {
+      "surface": "קרה",
+      "gloss": "ઠંડા"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "સારડી"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "נתר",
+      "gloss": "સોડા"
+    },
+    {
+      "surface": "ושר",
+      "gloss": "અને જે ગાય છે"
+    },
+    {
+      "surface": "בשרים",
+      "gloss": "ગીત"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "לב",
+      "gloss": "હૃદય"
+    },
+    {
+      "surface": "רע",
+      "gloss": "દુઃખી"
+    }
+  ],
+  "timestamp": "2026-08-21T17:01:16.639143054Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "lamentations 5:9",
+  "book": "lamentations",
+  "lang": "gu",
+  "chapter": 5,
+  "translation": "આપણા પ્રાણના જોખમે આપણે ⟨આપણું⟩ અન્ન લાવીએ છીએ, મરુસ્થલની તલવારના મુખથી.",
+  "tokens": [
+    {
+      "surface": "בנפשנו",
+      "gloss": "આપણા પ્રાણના જોખમે"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "લાવીએ છીએ"
+    },
+    {
+      "surface": "לחמנו",
+      "gloss": "અન્ન"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ના મુખથી"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "તલવારની"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "મરુસ્થલની"
+    }
+  ],
+  "timestamp": "2026-08-21T17:28:24.437962007Z",
+  "model": "glm-5.3"
+}

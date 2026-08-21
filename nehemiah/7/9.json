@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "nehemiah 7:9",
+  "book": "nehemiah",
+  "lang": "gu",
+  "chapter": 7,
+  "translation": "શેફાત્યાના પુત્રો — ત્રણસો બોતર અને બે.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "שפטיה",
+      "gloss": "શેફાત્યાના"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ત્રણ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "સો"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "બોતર"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "અને બે"
+    }
+  ],
+  "timestamp": "2026-08-21T17:53:01.444703103Z",
+  "model": "glm-5.3"
+}

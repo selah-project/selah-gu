@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "nahum 1:9",
+  "book": "nahum",
+  "lang": "gu",
+  "chapter": 1,
+  "translation": "યાહવેની સામે તમે શું ઘડો છો? તે સંપૂર્ણ અંત કરશે; સંકટ બીજી વાર ઊઠશે નહીં.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "શું"
+    },
+    {
+      "surface": "תחשבון",
+      "gloss": "તમે ઘડો છો"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ની સામે"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "સંપૂર્ણ અંત"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "તે"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "કરશે"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "ઊઠશે"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "બીજી વાર"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "સંકટ"
+    }
+  ],
+  "timestamp": "2026-08-21T15:57:57.366843467Z",
+  "model": "glm-5.3"
+}

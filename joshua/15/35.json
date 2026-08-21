@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "joshua 15:35",
+  "book": "joshua",
+  "lang": "gu",
+  "chapter": 15,
+  "translation": "યાર્મૂત, અને અદુલ્લામ, સોખો, અને અઝેકા,",
+  "tokens": [
+    {
+      "surface": "ירמות",
+      "gloss": "યાર્મૂત"
+    },
+    {
+      "surface": "ועדלם",
+      "gloss": "અને અદુલ્લામ"
+    },
+    {
+      "surface": "שוכה",
+      "gloss": "સોખો"
+    },
+    {
+      "surface": "ועזקה",
+      "gloss": "અને અઝેકા"
+    }
+  ],
+  "timestamp": "2026-08-21T12:40:50.137882247Z",
+  "model": "glm-5.3"
+}

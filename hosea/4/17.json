@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "hosea 4:17",
+  "book": "hosea",
+  "lang": "gu",
+  "chapter": 4,
+  "translation": "મૂર્તિઓ સાથે જોડાયેલો ⟨છે⟩ એફ્રાયિમ; તેને જવા દો.",
+  "tokens": [
+    {
+      "surface": "חבור",
+      "gloss": "જોડાયેલો"
+    },
+    {
+      "surface": "עצבים",
+      "gloss": "મૂર્તિઓ સાથે"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "એફ્રાયિમ"
+    },
+    {
+      "surface": "הנח",
+      "gloss": "જવા દો"
+    },
+    {
+      "surface": "לו",
+      "gloss": "તેને"
+    }
+  ],
+  "timestamp": "2026-08-21T15:44:51.044817478Z",
+  "model": "glm-5.3"
+}

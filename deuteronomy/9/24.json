@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 9:24",
+  "book": "deuteronomy",
+  "lang": "gu",
+  "chapter": 9,
+  "translation": "તમે યાહવે સાથે બળવાખોર રહ્યા, જે દિવસથી મેં તમને ⟨את⟩ ઓળખ્યા.",
+  "tokens": [
+    {
+      "surface": "ממרים",
+      "gloss": "બળવાખોર"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "તમે રહ્યા"
+    },
+    {
+      "surface": "עם",
+      "gloss": "સાથે"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "જે દિવસથી"
+    },
+    {
+      "surface": "דעתי",
+      "gloss": "મેં ઓળખ્યા"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ તમને",
+      "marks": "તમે"
+    }
+  ],
+  "timestamp": "2026-08-21T12:17:12.707647363Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nehemiah 12:2",
+  "book": "nehemiah",
+  "lang": "gu",
+  "chapter": 12,
+  "translation": "અમર્યાહ, મલ્લૂખ, ખત્તૂશ.",
+  "tokens": [
+    {
+      "surface": "אמריה",
+      "gloss": "અમર્યાહ"
+    },
+    {
+      "surface": "מלוך",
+      "gloss": "મલ્લૂખ"
+    },
+    {
+      "surface": "חטוש",
+      "gloss": "ખત્તૂશ"
+    }
+  ],
+  "timestamp": "2026-08-21T17:57:31.453960173Z",
+  "model": "glm-5.3"
+}

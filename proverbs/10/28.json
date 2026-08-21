@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 10:28",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 10,
+  "translation": "ન્યાયીઓની આશા ⟨છે⟩ આનંદ, અને દુષ્ટોની અપેક્ષા નષ્ટ થશે.",
+  "tokens": [
+    {
+      "surface": "תוחלת",
+      "gloss": "આશા"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "ન્યાયીઓની"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "આનંદ"
+    },
+    {
+      "surface": "ותקות",
+      "gloss": "અને અપેક્ષા"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "દુષ્ટોની"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "નષ્ટ થશે"
+    }
+  ],
+  "timestamp": "2026-08-21T16:55:01.682346088Z",
+  "model": "glm-5.3"
+}

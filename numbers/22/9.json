@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 22:9",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 22,
+  "translation": "અને એલોહીમ બિલામ પાસે આવ્યા અને કહ્યું: આ ⟨તે⟩ માણસો કોણ છે જે તારી સાથે છે?",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "આવ્યા"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "એલોહીમ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "પાસે"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "બિલામ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "અને કહ્યું"
+    },
+    {
+      "surface": "מי",
+      "gloss": "કોણ"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "માણસો"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "આ"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "તારી સાથે"
+    }
+  ],
+  "timestamp": "2026-08-21T12:02:21.499970839Z",
+  "model": "glm-5.3"
+}

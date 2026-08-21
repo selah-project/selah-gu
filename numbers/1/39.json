@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "numbers 1:39",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 1,
+  "translation": "તેમની ગણતરી, દાનના કુળ માટે, બે અને સાઠ હજાર અને સાત સો.",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "તેમની ગણતરી"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "કુળ માટે"
+    },
+    {
+      "surface": "דן",
+      "gloss": "દાન"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "બે"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "અને સાઠ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "હજાર"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "અને સાત"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "સો"
+    }
+  ],
+  "timestamp": "2026-08-21T11:47:18.426250629Z",
+  "model": "glm-5.3"
+}

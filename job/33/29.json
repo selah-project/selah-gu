@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "job 33:29",
+  "book": "job",
+  "lang": "gu",
+  "chapter": 33,
+  "translation": "જુઓ, આ બધું એલ કરે છે — બે વાર, ત્રણ વાર, મનુષ્ય સાથે.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "જુઓ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "બધું"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "આ"
+    },
+    {
+      "surface": "יפעל",
+      "gloss": "કરે છે"
+    },
+    {
+      "surface": "אל",
+      "gloss": "એલ"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "બે વાર"
+    },
+    {
+      "surface": "שלוש",
+      "gloss": "ત્રણ વાર"
+    },
+    {
+      "surface": "עם",
+      "gloss": "સાથે"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "મનુષ્ય"
+    }
+  ],
+  "timestamp": "2026-08-21T17:16:55.666051355Z",
+  "model": "glm-5.3"
+}

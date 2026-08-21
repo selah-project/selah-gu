@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 3:21",
+  "book": "isaiah",
+  "lang": "gu",
+  "chapter": 3,
+  "translation": "ઘંટડાઓ અને નાસિકાનાં ઘરેણાં,",
+  "tokens": [
+    {
+      "surface": "הטבעות",
+      "gloss": "ઘંટડાઓ"
+    },
+    {
+      "surface": "ונזמי",
+      "gloss": "અને ઘરેણાં"
+    },
+    {
+      "surface": "האף",
+      "gloss": "નાસિકાનાં"
+    }
+  ],
+  "timestamp": "2026-08-21T14:13:02.541217274Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 4:14",
+  "book": "1-kings",
+  "lang": "gu",
+  "chapter": 4,
+  "translation": "અહીનદાબ ઇદ્દોનો પુત્ર માખાનાઇમમાં ⟨હતો⟩.",
+  "tokens": [
+    {
+      "surface": "אחינדב",
+      "gloss": "અહીનદાબ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "પુત્ર"
+    },
+    {
+      "surface": "עדא",
+      "gloss": "ઇદ્દો"
+    },
+    {
+      "surface": "מחנימה",
+      "gloss": "માખાનાઇમમાં"
+    }
+  ],
+  "timestamp": "2026-08-21T13:36:28.287322377Z",
+  "model": "glm-5.3"
+}

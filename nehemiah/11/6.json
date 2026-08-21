@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "nehemiah 11:6",
+  "book": "nehemiah",
+  "lang": "gu",
+  "chapter": 11,
+  "translation": "પેરેત્સના બધા પુત્રો, જે યરૂશાલાયિમમાં વસતા હતા, ચાર સો અઠસટ હિંમતવાન પુરુષો હતા.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "બધા"
+    },
+    {
+      "surface": "בני",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "પેરેત્સ"
+    },
+    {
+      "surface": "הישבים",
+      "gloss": "વસતા હતા"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "યરૂશાલાયિમમાં"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "ચાર"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "સો"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "અઠસટ"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "અને આઠ"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "પુરુષો"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "હિંમતવાન"
+    }
+  ],
+  "timestamp": "2026-08-21T19:01:28.403922930Z",
+  "model": "glm-5.3"
+}

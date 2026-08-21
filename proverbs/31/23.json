@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 31:23",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 31,
+  "translation": "તેનો પતિ દરવાજાઓ પર જાણીતો ⟨છે⟩, જ્યારે તે દેશના વડીલો સાથે બેસે છે.",
+  "tokens": [
+    {
+      "surface": "נודע",
+      "gloss": "જાણીતો"
+    },
+    {
+      "surface": "בשערים",
+      "gloss": "દરવાજાઓ પર"
+    },
+    {
+      "surface": "בעלה",
+      "gloss": "તેનો પતિ"
+    },
+    {
+      "surface": "בשבתו",
+      "gloss": "જ્યારે તે બેસે છે"
+    },
+    {
+      "surface": "עם",
+      "gloss": "સાથે"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "વડીલો"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "દેશના"
+    }
+  ],
+  "timestamp": "2026-08-21T17:04:09.401615466Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "nehemiah 10:14",
+  "book": "nehemiah",
+  "lang": "gu",
+  "chapter": 10,
+  "translation": "હોદિયાહ, બાની, બેનિનુ;",
+  "tokens": [
+    {
+      "surface": "הודיה",
+      "gloss": "હોદિયાહ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "בાની"
+    },
+    {
+      "surface": "בנינו",
+      "gloss": "બેનિનુ"
+    }
+  ],
+  "timestamp": "2026-08-21T17:56:52.886679359Z",
+  "model": "glm-5.3"
+}

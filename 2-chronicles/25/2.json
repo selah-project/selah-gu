@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 25:2",
+  "book": "2-chronicles",
+  "lang": "gu",
+  "chapter": 25,
+  "translation": "અને તેણે યાહવેની આંખોમાં જે સીધું છે તે કર્યું, પરંતુ સંપૂર્ણ હૃદયથી નહીં.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "અને તેણે કર્યું"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "જે સીધું છે"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "ની આંખોમાં"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "רק",
+      "gloss": "પરંતુ માત્ર"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "בלבב",
+      "gloss": "હૃદયથી"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "સંપૂર્ણ"
+    }
+  ],
+  "timestamp": "2026-08-21T18:27:11.606579907Z",
+  "model": "glm-5.3"
+}

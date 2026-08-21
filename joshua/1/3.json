@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 1:3",
+  "book": "joshua",
+  "lang": "gu",
+  "chapter": 1,
+  "translation": "જે સ્થાન પર તમારા પગના તળિયા પગ મૂકશે, તે સ્થાન હું તમને આપ્યું છે, જેમ મેં મોશેને કહ્યું છે.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "દરેક"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "સ્થાન"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જે"
+    },
+    {
+      "surface": "תדרך",
+      "gloss": "તમે પગ મૂકશો"
+    },
+    {
+      "surface": "כף",
+      "gloss": "તળિયો"
+    },
+    {
+      "surface": "רגלכם",
+      "gloss": "તમારા પગના"
+    },
+    {
+      "surface": "בו",
+      "gloss": "તેમાં"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "તમને"
+    },
+    {
+      "surface": "נתתיו",
+      "gloss": "મેં તે આપ્યું"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "જેમ"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "મેં કહ્યું"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ને"
+    },
+    {
+      "surface": "משה",
+      "gloss": "મોશે"
+    }
+  ],
+  "timestamp": "2026-08-21T12:34:35.513517150Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "jeremiah 49:31",
+  "book": "jeremiah",
+  "lang": "gu",
+  "chapter": 49,
+  "translation": "ઊઠો, ચઢો એ શાંત પ્રજા પર જે નિશ્ચિંતતાથી વસે છે, યાહવેનો નિર્દેશ; તેને ન દરવાજા છે ન કિવાડ, તેઓ એકલા વસે છે.",
+  "tokens": [
+    {
+      "surface": "קומו",
+      "gloss": "ઊઠો"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "ચઢો"
+    },
+    {
+      "surface": "אל",
+      "gloss": "પર"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "પ્રજા"
+    },
+    {
+      "surface": "שליו",
+      "gloss": "શાંત"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "વસે છે"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "નિશ્ચિંતતાથી"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "નિર્દેશ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ન"
+    },
+    {
+      "surface": "דלתים",
+      "gloss": "દરવાજા"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "અને ન"
+    },
+    {
+      "surface": "בריח",
+      "gloss": "કિવાડ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "તેને"
+    },
+    {
+      "surface": "בדד",
+      "gloss": "એકલા"
+    },
+    {
+      "surface": "ישכנו",
+      "gloss": "વસે છે"
+    }
+  ],
+  "timestamp": "2026-08-21T15:14:15.324100747Z",
+  "model": "glm-5.3"
+}

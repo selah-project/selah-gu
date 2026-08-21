@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 87:3",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 87,
+  "translation": "તારા વિશે મહાન વાતો કહેવાય છે, હે એલોહીમના નગર. સેલા.",
+  "tokens": [
+    {
+      "surface": "נכבדות",
+      "gloss": "મહાન વાતો"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "કહેવાય છે"
+    },
+    {
+      "surface": "בך",
+      "gloss": "તારા વિશે"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "નગર"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "એલોહીમના"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "સેલા"
+    }
+  ],
+  "timestamp": "2026-08-21T16:34:52.986873826Z",
+  "model": "glm-5.3"
+}

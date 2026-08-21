@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "lamentations 5:19",
+  "book": "lamentations",
+  "lang": "gu",
+  "chapter": 5,
+  "translation": "તું, હે યાહવે, સદાકાળ વિરાજે છે; તારું સિંહાસન પેઢી પર પેઢી ⟨ટકે છે⟩.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "તું"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "સદાકાળ"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "વિરાજે છે"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "તારું સિંહાસન"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "પેઢી પર"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "પેઢી"
+    }
+  ],
+  "timestamp": "2026-08-21T17:28:14.225154648Z",
+  "model": "glm-5.3"
+}

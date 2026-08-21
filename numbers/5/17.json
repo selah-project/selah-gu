@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 5:17",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 5,
+  "translation": "અને યાજક માટલાના પાત્રમાં પવિત્ર જળ લેશે, અને મિશકાનના ફરશ પર જે ધૂળ હોય તેમાંથી યાજક લઈને જળમાં નાખશે.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "અને લેશે"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "યાજક"
+    },
+    {
+      "surface": "מים",
+      "gloss": "જળ"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "પવિત્ર"
+    },
+    {
+      "surface": "בכלי",
+      "gloss": "પાત્રમાં"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "માટલાના"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "અને તેમાંથી"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "ધૂળ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જે"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "હોય"
+    },
+    {
+      "surface": "בקרקע",
+      "gloss": "ફરશ પર"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "મિશકાનના"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "લઈને"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "યાજક"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "અને નાખશે"
+    },
+    {
+      "surface": "אל",
+      "gloss": "માં"
+    },
+    {
+      "surface": "המים",
+      "gloss": "જળ"
+    }
+  ],
+  "timestamp": "2026-08-21T11:52:38.755157287Z",
+  "model": "glm-5.3"
+}

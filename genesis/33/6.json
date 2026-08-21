@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 33:6",
+  "book": "genesis",
+  "lang": "gu",
+  "chapter": 33,
+  "translation": "પછી દાસીઓ — ⟨the⟩ એ ⟨they⟩ અને ⟨their⟩ બાળકો — નજીક આવી, અને તેઓએ પ્રણામ કર્યું.",
+  "tokens": [
+    {
+      "surface": "ותגשן",
+      "gloss": "નજીક આવી"
+    },
+    {
+      "surface": "השפחות",
+      "gloss": "દાસીઓ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "⟨they⟩ સ્વયં"
+    },
+    {
+      "surface": "וילדיהן",
+      "gloss": "અને તેમનાં બાળકો"
+    },
+    {
+      "surface": "ותשתחוין",
+      "gloss": "પ્રણામ કર્યું"
+    }
+  ],
+  "timestamp": "2026-08-21T10:52:53.205548152Z",
+  "model": "glm-5.3"
+}

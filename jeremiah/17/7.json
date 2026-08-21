@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 17:7",
+  "book": "jeremiah",
+  "lang": "gu",
+  "chapter": 17,
+  "translation": "ધન્ય છે ⟨એ⟩ માણસ કે જે યાહવેમાં ભરોસો રાખે છે, અને યાહવે ⟨એનો⟩ ભરોસો છે.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "ધન્ય"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "⟨એ⟩ માણસ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "કે જે"
+    },
+    {
+      "surface": "יבטח",
+      "gloss": "ભરોસો રાખે છે"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "યાહવેમાં"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "અને છે"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "מבטחו",
+      "gloss": "⟨એનો⟩ ભરોસો"
+    }
+  ],
+  "timestamp": "2026-08-21T14:53:37.780044049Z",
+  "model": "glm-5.3"
+}

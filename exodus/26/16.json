@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 26:16",
+  "book": "exodus",
+  "lang": "gu",
+  "chapter": 26,
+  "translation": "દસ હાથ એક તક્તાની લંબાઈ, અને એક હાથ અને અડધો હાથ એક તક્તાની પહોળાઈ.",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "દસ"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "હાથ"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "લંબાઈ"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "એક તક્તાની"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "અને એક હાથ"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "અને અડધો"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "હાથ"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "પહોળાઈ"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "એક તક્તાની"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "એક"
+    }
+  ],
+  "timestamp": "2026-08-21T11:20:42.897426113Z",
+  "model": "glm-5.3"
+}

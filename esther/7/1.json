@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 7:1",
+  "book": "esther",
+  "lang": "gu",
+  "chapter": 7,
+  "translation": "અને રાજા અને હામાન રાણી એસ્તેર સાથે પીવા માટે આવ્યા.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "અને આવ્યા"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "રાજા"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "અને હામાન"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "પીવા માટે"
+    },
+    {
+      "surface": "עם",
+      "gloss": "સાથે"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "એસ્તેર"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "રાણી"
+    }
+  ],
+  "timestamp": "2026-08-21T17:35:28.590637570Z",
+  "model": "glm-5.3"
+}

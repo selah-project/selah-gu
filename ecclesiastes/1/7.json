@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 1:7",
+  "book": "ecclesiastes",
+  "lang": "gu",
+  "chapter": 1,
+  "translation": "બધી નદીઓ સમુદ્ર તરફ વહે છે, અને સમુદ્ર ભરાતો નથી; નદીઓ જ્યાં વહેતી જાય છે તે સ્થાન તરફ ત્યાં તેઓ ફરી વહેવા પાછી ફરે છે.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "બધી"
+    },
+    {
+      "surface": "הנחלים",
+      "gloss": "નદીઓ"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "વહેતી જાય છે"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…તરફ"
+    },
+    {
+      "surface": "הים",
+      "gloss": "સમુદ્ર"
+    },
+    {
+      "surface": "והים",
+      "gloss": "અને સમુદ્ર"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "નથી"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "ભરાતો"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…તરફ"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "સ્થાન"
+    },
+    {
+      "surface": "שהנחלים",
+      "gloss": "જે નદીઓ"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "વહેતી જાય છે"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ત્યાં"
+    },
+    {
+      "surface": "הם",
+      "gloss": "તેઓ"
+    },
+    {
+      "surface": "שבים",
+      "gloss": "પાછી ફરે છે"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "ફરી વહેવા"
+    }
+  ],
+  "timestamp": "2026-08-21T17:29:35.014607538Z",
+  "model": "glm-5.3"
+}

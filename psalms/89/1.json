@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 89:1",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 89,
+  "translation": "શિક્ષાપ્રદ કવિતા, એતાન એઝરાહીની.",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "શિક્ષાપ્રદ કવિતા"
+    },
+    {
+      "surface": "לאיתן",
+      "gloss": "એતાનની"
+    },
+    {
+      "surface": "האזרחי",
+      "gloss": "એઝરાહી"
+    }
+  ],
+  "timestamp": "2026-08-21T16:34:51.413971406Z",
+  "model": "glm-5.3"
+}

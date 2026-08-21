@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "1-kings 8:60",
+  "book": "1-kings",
+  "lang": "gu",
+  "chapter": 8,
+  "translation": "જેથી પૃથ્વીનાં સર્વ પ્રજાઓ જાણે કે યાહવે ⟨જ⟩ ⟨તે⟩ એલોહીમ છે, બીજો કોઈ નથી.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "જેથી"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "જાણે"
+    },
+    {
+      "surface": "כל",
+      "gloss": "સર્વ"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "પ્રજાઓ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "પૃથ્વીનાં"
+    },
+    {
+      "surface": "כי",
+      "gloss": "કે"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨જ⟩ ⟨તે⟩"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "એલોહીમ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "નથી"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "બીજો કોઈ"
+    }
+  ],
+  "timestamp": "2026-08-21T13:41:24.522832625Z",
+  "model": "glm-5.3"
+}

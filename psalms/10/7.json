@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 10:7",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 10,
+  "translation": "તેનું મુખ શાપ અને છળ અને કપટથી ભરેલું છે; તેની જીભની નીચે કષ્ટ અને અનીતિ ⟨છે⟩.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "શાપ"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "તેનું મુખ"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "ભરેલું છે"
+    },
+    {
+      "surface": "ומרמות",
+      "gloss": "અને છળ"
+    },
+    {
+      "surface": "ותך",
+      "gloss": "અને કપટ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "નીચે"
+    },
+    {
+      "surface": "לשונו",
+      "gloss": "તેની જીભ"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "કષ્ટ"
+    },
+    {
+      "surface": "ואון",
+      "gloss": "અને અનીતિ"
+    }
+  ],
+  "timestamp": "2026-08-21T18:55:32.077447540Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 14:5",
+  "book": "isaiah",
+  "lang": "gu",
+  "chapter": 14,
+  "translation": "યાહવેએ દુષ્ટોની લાકડી તૂટી નાખી છે, શાસકોનું રાજદંડ.",
+  "tokens": [
+    {
+      "surface": "שבר",
+      "gloss": "તૂટી નાખી છે"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવેએ"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "લાકડી"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "દુષ્ટોની"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "રાજદંડ"
+    },
+    {
+      "surface": "משלים",
+      "gloss": "શાસકોનું"
+    }
+  ],
+  "timestamp": "2026-08-21T14:15:59.447501660Z",
+  "model": "glm-5.3"
+}

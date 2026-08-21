@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 2:8",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 2,
+  "translation": "અને તેનું સૈન્ય અને તેના ગણાયેલા — સાત અને પચાસ હજાર અને ચારસો ⟨are⟩.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "અને તેનું સૈન્ય"
+    },
+    {
+      "surface": "ופקדיו",
+      "gloss": "અને તેના ગણાયેલા"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "સાત"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "અને પચાસ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "હજાર"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "અને ચાર"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "સો"
+    }
+  ],
+  "timestamp": "2026-08-21T11:49:05.334920194Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 103:9",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 103,
+  "translation": "સદા માટે તે વિવાદ નહિ કરે, અને સર્વદા તે ક્રોધ નહિ રાખે.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "નહિ"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "સદા માટે"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "વિવાદ કરે"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "અને નહિ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "સર્વદા"
+    },
+    {
+      "surface": "יטור",
+      "gloss": "ક્રોધ રાખે"
+    }
+  ],
+  "timestamp": "2026-08-21T16:37:42.075966374Z",
+  "model": "glm-5.3"
+}

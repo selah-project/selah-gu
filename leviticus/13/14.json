@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 13:14",
+  "book": "leviticus",
+  "lang": "gu",
+  "chapter": 13,
+  "translation": "પણ જે દિવસે તેમાં જીવંત માંસ દેખાય, તે અશુદ્ધ થશે.",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "પણ જે દિવસે"
+    },
+    {
+      "surface": "הראות",
+      "gloss": "દેખાય"
+    },
+    {
+      "surface": "בו",
+      "gloss": "તેમાં"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "માંસ"
+    },
+    {
+      "surface": "חי",
+      "gloss": "જીવંત"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "અશુદ્ધ થશે"
+    }
+  ],
+  "timestamp": "2026-08-21T11:36:28.106775085Z",
+  "model": "glm-5.3"
+}

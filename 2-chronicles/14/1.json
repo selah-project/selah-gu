@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 14:1",
+  "book": "2-chronicles",
+  "lang": "gu",
+  "chapter": 14,
+  "translation": "અને આસાએ પોતાના એલોહીમ યાહવેની આંખોમાં ⟨જે⟩ સારું અને સીધું ⟨તે⟩ કર્યું.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "અને કર્યું"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "આસાએ"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "સારું"
+    },
+    {
+      "surface": "והישר",
+      "gloss": "અને સીધું"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "આંખોમાં"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવેની"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "પોતાના એલોહીમ"
+    }
+  ],
+  "timestamp": "2026-08-21T18:21:22.257128805Z",
+  "model": "glm-5.3"
+}

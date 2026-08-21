@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "esther 1:9",
+  "book": "esther",
+  "lang": "gu",
+  "chapter": 1,
+  "translation": "પણ વશ્તી રાણીએ સ્ત્રીઓ માટે રાજા અખશ્વેરોશના રાજભવનમાં મિજબાની કરી.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "પણ"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "વશ્તી"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "રાણી"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "કરી"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "મિજબાની"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "સ્ત્રીઓ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ભવનમાં"
+    },
+    {
+      "surface": "המלכות",
+      "gloss": "રાજ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જે"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "રાજાના"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "અખશ્વેરોશ"
+    }
+  ],
+  "timestamp": "2026-08-21T17:32:58.818961848Z",
+  "model": "glm-5.3"
+}

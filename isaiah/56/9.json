@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 56:9",
+  "book": "isaiah",
+  "lang": "gu",
+  "chapter": 56,
+  "translation": "ખેતરનાં સર્વ પશુઓ, ખાવા માટે આવો, જંગલનાં સર્વ પશુઓ.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "સર્વ"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "પશુઓ"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "ખેતરનાં"
+    },
+    {
+      "surface": "אתיו",
+      "gloss": "આવો"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "ખાવા માટે"
+    },
+    {
+      "surface": "כל",
+      "gloss": "સર્વ"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "પશુઓ"
+    },
+    {
+      "surface": "ביער",
+      "gloss": "જંગલનાં"
+    }
+  ],
+  "timestamp": "2026-08-21T14:37:13.279625130Z",
+  "model": "glm-5.3"
+}

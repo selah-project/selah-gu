@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ecclesiastes 7:19",
+  "book": "ecclesiastes",
+  "lang": "gu",
+  "chapter": 7,
+  "translation": "ચતુરાઈ ચતુર માણસને બળ આપે છે — નગરમાં હોય તેવા દસ શાસકો કરતાં વધુ.",
+  "tokens": [
+    {
+      "surface": "החכמה",
+      "gloss": "ચતુરાઈ"
+    },
+    {
+      "surface": "תעז",
+      "gloss": "બળ આપે છે"
+    },
+    {
+      "surface": "לחכם",
+      "gloss": "ચતુર માણસને"
+    },
+    {
+      "surface": "מעשרה",
+      "gloss": "દસ કરતાં"
+    },
+    {
+      "surface": "שליטים",
+      "gloss": "શાસકો"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "તેવા"
+    },
+    {
+      "surface": "היו",
+      "gloss": "હોય"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "નગરમાં"
+    }
+  ],
+  "timestamp": "2026-08-21T17:31:01.719308597Z",
+  "model": "glm-5.3"
+}

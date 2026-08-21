@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 35:1",
+  "book": "job",
+  "lang": "gu",
+  "chapter": 35,
+  "translation": "અને એલીહૂ ઉત્તર આપીને બોલ્યો:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "ઉત્તર આપીને"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "એલીહૂ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "બોલ્યો"
+    }
+  ],
+  "timestamp": "2026-08-21T17:16:38.093970579Z",
+  "model": "glm-5.3"
+}

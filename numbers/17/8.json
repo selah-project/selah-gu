@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 17:8",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 17,
+  "translation": "અને મોશે અને અહરોન મુલાકાતના મંડપના મુખ પર આવ્યા.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "આવ્યા"
+    },
+    {
+      "surface": "משה",
+      "gloss": "મોશે"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "અને અહરોન"
+    },
+    {
+      "surface": "אל",
+      "gloss": "પર"
+    },
+    {
+      "surface": "פני",
+      "gloss": "મુખ"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "મંડપ"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "મુલાકાતના"
+    }
+  ],
+  "timestamp": "2026-08-21T11:58:48.263315446Z",
+  "model": "glm-5.3"
+}

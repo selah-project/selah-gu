@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 8:18",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 8,
+  "translation": "અને યિશમરાય, અને યિઝલિયાહ, અને યોબાબ — ⟨આ⟩ એલપાલના પુત્રો ⟨હતા⟩.",
+  "tokens": [
+    {
+      "surface": "וישמרי",
+      "gloss": "અને યિશમરાય"
+    },
+    {
+      "surface": "ויזליאה",
+      "gloss": "અને યિઝલિયાહ"
+    },
+    {
+      "surface": "ויובב",
+      "gloss": "અને યોબાબ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "אלפעל",
+      "gloss": "એલપાલ"
+    }
+  ],
+  "timestamp": "2026-08-21T18:02:37.393515304Z",
+  "model": "glm-5.3"
+}

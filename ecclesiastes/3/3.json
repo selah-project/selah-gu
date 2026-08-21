@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 3:3",
+  "book": "ecclesiastes",
+  "lang": "gu",
+  "chapter": 3,
+  "translation": "મારી નાખવાનો સમય, અને મટાડવાનો સમય; તોડી પાડવાનો સમય, અને બાંધવાનો સમય.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "સમય"
+    },
+    {
+      "surface": "להרוג",
+      "gloss": "મારી નાખવાનો"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "અને સમય"
+    },
+    {
+      "surface": "לרפוא",
+      "gloss": "મટાડવાનો"
+    },
+    {
+      "surface": "עת",
+      "gloss": "સમય"
+    },
+    {
+      "surface": "לפרוץ",
+      "gloss": "તોડી પાડવાનો"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "અને સમય"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "બાંધવાનો"
+    }
+  ],
+  "timestamp": "2026-08-21T17:29:15.138845005Z",
+  "model": "glm-5.3"
+}

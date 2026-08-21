@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 6:21",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 6,
+  "translation": "તેમને સદા તારા હૃદય પર બાંધ, તેમને તારા ગળા પર લટકાવ.",
+  "tokens": [
+    {
+      "surface": "קשרם",
+      "gloss": "તેમને બાંધ"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "તારા હૃદય"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "સદા"
+    },
+    {
+      "surface": "ענדם",
+      "gloss": "તેમને લટકાવ"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "גרגרתך",
+      "gloss": "તારા ગળા"
+    }
+  ],
+  "timestamp": "2026-08-21T16:53:59.202254961Z",
+  "model": "glm-5.3"
+}

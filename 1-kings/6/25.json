@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 6:25",
+  "book": "1-kings",
+  "lang": "gu",
+  "chapter": 6,
+  "translation": "અને બીજો કરુબ દસ હાથ હતો — બંને કરુબો માટે એક માપ અને એક આકાર ⟨હતું⟩.",
+  "tokens": [
+    {
+      "surface": "ועשר",
+      "gloss": "અને દસ"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "હાથ (અંગુલ-માપ)"
+    },
+    {
+      "surface": "הכרוב",
+      "gloss": "કરુબ"
+    },
+    {
+      "surface": "השני",
+      "gloss": "બીજો"
+    },
+    {
+      "surface": "מדה",
+      "gloss": "માપ"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "એક"
+    },
+    {
+      "surface": "וקצב",
+      "gloss": "અને આકાર"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "એક"
+    },
+    {
+      "surface": "לשני",
+      "gloss": "બંને માટે"
+    },
+    {
+      "surface": "הכרבים",
+      "gloss": "કરુબો"
+    }
+  ],
+  "timestamp": "2026-08-21T13:39:48.885626382Z",
+  "model": "glm-5.3"
+}

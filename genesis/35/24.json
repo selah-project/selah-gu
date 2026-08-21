@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 35:24",
+  "book": "genesis",
+  "lang": "gu",
+  "chapter": 35,
+  "translation": "રાહેલના પુત્રો: યોસેફ અને બિન્યામિન.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "રાહેલના"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "યોસેફ"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "બિન્યામિન"
+    }
+  ],
+  "timestamp": "2026-08-21T10:55:57.626048042Z",
+  "model": "glm-5.3"
+}

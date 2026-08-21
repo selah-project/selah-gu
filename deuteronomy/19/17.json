@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 19:17",
+  "book": "deuteronomy",
+  "lang": "gu",
+  "chapter": 19,
+  "translation": "તો જે બે પુરુષોને વચ્ચે ઝઘટો છે તે બંને યાહવેની સામે ઊભા રહે, તે દિવસોમાં જે હોય તે કોહેનો અને શોફ્તીઓની સામે.",
+  "tokens": [
+    {
+      "surface": "ועמדו",
+      "gloss": "ઊભા રહે"
+    },
+    {
+      "surface": "שני",
+      "gloss": "બે"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "પુરુષો"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જે"
+    },
+    {
+      "surface": "להם",
+      "gloss": "તેમની વચ્ચે"
+    },
+    {
+      "surface": "הריב",
+      "gloss": "ઝઘટો"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "સામે"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "સામે"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "કોહેનો"
+    },
+    {
+      "surface": "והשפטים",
+      "gloss": "અને શોફ્તીઓ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જે"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "હોય"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "દિવસોમાં"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "તે"
+    }
+  ],
+  "timestamp": "2026-08-21T12:22:29.130543344Z",
+  "model": "glm-5.3"
+}

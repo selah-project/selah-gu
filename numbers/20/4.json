@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 20:4",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 20,
+  "translation": "અને તમે યાહવેની સભાને ⟨את⟩ આ જંગલમાં કેમ લાવ્યાં, કે ત્યાં આપણે અને આપણાં પશુઓ મરીએ?",
+  "tokens": [
+    {
+      "surface": "ולמה",
+      "gloss": "અને... કેમ"
+    },
+    {
+      "surface": "הבאתם",
+      "gloss": "લાવ્યાં"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "સભાને"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "સભા"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "אל",
+      "gloss": "માં"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "જંગલમાં"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "આ"
+    },
+    {
+      "surface": "למות",
+      "gloss": "મરીએ... કે"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ત્યાં"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "આપણે"
+    },
+    {
+      "surface": "ובעירנו",
+      "gloss": "અને આપણાં પશુઓ"
+    }
+  ],
+  "timestamp": "2026-08-21T12:02:19.475500723Z",
+  "model": "glm-5.3"
+}

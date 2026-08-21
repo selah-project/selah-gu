@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 34:6",
+  "book": "deuteronomy",
+  "lang": "gu",
+  "chapter": 34,
+  "translation": "અને તેણે ⟨את⟩ તેને ખીણમાં દફન કર્યો, મોઆવની ભૂમિમાં, બેથ-પ્યોરની સામે; અને આ દિવસ સુધી કોઈ માણસ ⟨את⟩ તેની કબર જાણતો નથી.",
+  "tokens": [
+    {
+      "surface": "ויקבר",
+      "gloss": "દફન કર્યો"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "તેને"
+    },
+    {
+      "surface": "בגי",
+      "gloss": "ખીણમાં"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ભૂમિમાં"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "મોઆવની"
+    },
+    {
+      "surface": "מול",
+      "gloss": "સામે"
+    },
+    {
+      "surface": "בית",
+      "gloss": "બેથ"
+    },
+    {
+      "surface": "פעור",
+      "gloss": "પ્યોર"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "અને...નહીં"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "જાણતો"
+    },
+    {
+      "surface": "איש",
+      "gloss": "કોઈ માણસ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "તેની કબર"
+    },
+    {
+      "surface": "קברתו",
+      "gloss": "તેની કબર"
+    },
+    {
+      "surface": "עד",
+      "gloss": "સુધી"
+    },
+    {
+      "surface": "היום",
+      "gloss": "આ દિવસ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "આ"
+    }
+  ],
+  "timestamp": "2026-08-21T12:31:36.267544232Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 72:11",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 72,
+  "translation": "અને બધા રાજાઓ તેને દંડવત કરશે; બધાં રાષ્ટ્રો તેની સેવા કરશે.",
+  "tokens": [
+    {
+      "surface": "וישתחוו",
+      "gloss": "અને દંડવત કરશે"
+    },
+    {
+      "surface": "לו",
+      "gloss": "તેને"
+    },
+    {
+      "surface": "כל",
+      "gloss": "બધા"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "રાજાઓ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "બધાં"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "રાષ્ટ્રો"
+    },
+    {
+      "surface": "יעבדוהו",
+      "gloss": "તેની સેવા કરશે"
+    }
+  ],
+  "timestamp": "2026-08-21T16:29:06.612455837Z",
+  "model": "glm-5.3"
+}

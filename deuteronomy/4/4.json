@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 4:4",
+  "book": "deuteronomy",
+  "lang": "gu",
+  "chapter": 4,
+  "translation": "અને તમે, જે યાહવે તમારા એલોહીમમાં ચાંટેલા છો, તમે બધા આજે જીવિત છો.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "અને તમે"
+    },
+    {
+      "surface": "הדבקים",
+      "gloss": "ચાંટેલા છો"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "યાહવેમાં"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "તમારા એલોહીમ"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "જીવિત છો"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "તમે બધા"
+    },
+    {
+      "surface": "היום",
+      "gloss": "આજે"
+    }
+  ],
+  "timestamp": "2026-08-21T12:15:47.996380970Z",
+  "model": "glm-5.3"
+}

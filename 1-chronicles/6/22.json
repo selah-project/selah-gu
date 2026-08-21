@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 6:22",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 6,
+  "translation": "તાખતનો પુત્ર, અસ્સીરનો પુત્ર, એબ્યાસાફનો પુત્ર, કોરાખનો પુત્ર.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "પુત્ર"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "તાખત"
+    },
+    {
+      "surface": "בן",
+      "gloss": "પુત્ર"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "અસ્સીર"
+    },
+    {
+      "surface": "בן",
+      "gloss": "પુત્ર"
+    },
+    {
+      "surface": "אביסף",
+      "gloss": "એબ્યાસાફ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "પુત્ર"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "કોરાખ"
+    }
+  ],
+  "timestamp": "2026-08-21T18:03:05.966891431Z",
+  "model": "glm-5.3"
+}

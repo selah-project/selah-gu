@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 3:9",
+  "book": "deuteronomy",
+  "lang": "gu",
+  "chapter": 3,
+  "translation": "સીદોનીઓ તેને શિર્યોન કહે છે — લેબાનોનનો ⟨હરમોન⟩; અને અમોરીઓ તેને શનીર કહે છે;",
+  "tokens": [
+    {
+      "surface": "צידנים",
+      "gloss": "સીદોનીઓ"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "કહે છે"
+    },
+    {
+      "surface": "לחרמון",
+      "gloss": "⟨હરમોન⟩ને"
+    },
+    {
+      "surface": "שרין",
+      "gloss": "શિર્યોન"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "અને અમોરીઓ"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "કહે છે"
+    },
+    {
+      "surface": "לו",
+      "gloss": "તેને"
+    },
+    {
+      "surface": "שניר",
+      "gloss": "શનીર"
+    }
+  ],
+  "timestamp": "2026-08-21T12:13:16.015759009Z",
+  "model": "glm-5.3"
+}

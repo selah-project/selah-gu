@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 30:12",
+  "book": "jeremiah",
+  "lang": "gu",
+  "chapter": 30,
+  "translation": "કેમ કે આ પ્રમાણે યાહવે કહે છે: તારો ભંગાણ અસાધ્ય ⟨છે⟩, તારો ઘા ભારે ⟨છે⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "કેમ કે"
+    },
+    {
+      "surface": "כה",
+      "gloss": "આ પ્રમાણે"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "કહે છે"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "અસાધ્ય"
+    },
+    {
+      "surface": "לשברך",
+      "gloss": "તારો ભંગાણ"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "ભારે"
+    },
+    {
+      "surface": "מכתך",
+      "gloss": "તારો ઘા"
+    }
+  ],
+  "timestamp": "2026-08-21T15:00:47.141910425Z",
+  "model": "glm-5.3"
+}

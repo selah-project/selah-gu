@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 48:3",
+  "book": "ezekiel",
+  "lang": "gu",
+  "chapter": 48,
+  "translation": "અને આશેરની સીમા પર, પૂર્વની દિશાથી અને પશ્ચિમની દિશા સુધી — નફ્તાલી, એક (ભાગ).",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "અને પર"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "સીમા"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "આશેરની"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "દિશાથી"
+    },
+    {
+      "surface": "קדימה",
+      "gloss": "પૂર્વની"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "અને સુધી"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "દિશા"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "પશ્ચિમની"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "નફ્તાલી"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "એક (ભાગ)"
+    }
+  ],
+  "timestamp": "2026-08-21T15:44:33.154977907Z",
+  "model": "glm-5.3"
+}

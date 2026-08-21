@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "numbers 31:46",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 31,
+  "translation": "અને માનવ-પ્રાણો સોળ હજાર;",
+  "tokens": [
+    {
+      "surface": "ונפש",
+      "gloss": "અને પ્રાણો"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "માનવ"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "છ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "…સોળ (-સાતમાં ભાગ)"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "હજાર"
+    }
+  ],
+  "timestamp": "2026-08-21T12:07:46.692398674Z",
+  "model": "glm-5.3"
+}

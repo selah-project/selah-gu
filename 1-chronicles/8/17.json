@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 8:17",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 8,
+  "translation": "અને ઝબદ્યાહ, અને મશુલ્લામ, અને હિઝકી, અને હાબેર —",
+  "tokens": [
+    {
+      "surface": "וזבדיה",
+      "gloss": "અને ઝબદ્યાહ"
+    },
+    {
+      "surface": "ומשלם",
+      "gloss": "અને મશુલ્લામ"
+    },
+    {
+      "surface": "וחזקי",
+      "gloss": "અને હિઝકી"
+    },
+    {
+      "surface": "וחבר",
+      "gloss": "અને હાબેર"
+    }
+  ],
+  "timestamp": "2026-08-21T18:02:37.393221037Z",
+  "model": "glm-5.3"
+}

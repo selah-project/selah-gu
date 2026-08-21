@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 24:13",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 24,
+  "translation": "તેરણાં લખપ્પા માટે, ચૌદાં યિશબેઆવ માટે।",
+  "tokens": [
+    {
+      "surface": "לחפה",
+      "gloss": "લખપ્પા માટે"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "ત્રણ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "-ણાં (દસ)"
+    },
+    {
+      "surface": "לישבאב",
+      "gloss": "યિશબેઆવ માટે"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "ચાર"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "-દાં (દસ)"
+    }
+  ],
+  "timestamp": "2026-08-21T18:11:02.193412128Z",
+  "model": "glm-5.3"
+}

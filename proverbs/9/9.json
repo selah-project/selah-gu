@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 9:9",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 9,
+  "translation": "જ્ઞાનીને આપ, અને ⟨તે⟩ વધુ જ્ઞાની થશે; ન્યાયીને જણાવ, અને ⟨તે⟩ વિદ્યામાં વધશે.",
+  "tokens": [
+    {
+      "surface": "תן",
+      "gloss": "આપ"
+    },
+    {
+      "surface": "לחכם",
+      "gloss": "જ્ઞાનીને"
+    },
+    {
+      "surface": "ויחכם",
+      "gloss": "અને જ્ઞાની થશે"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "વધુ"
+    },
+    {
+      "surface": "הודע",
+      "gloss": "જણાવ"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "ન્યાયીને"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "અને વધશે"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "વિદ્યામાં"
+    }
+  ],
+  "timestamp": "2026-08-21T16:53:37.829130979Z",
+  "model": "glm-5.3"
+}

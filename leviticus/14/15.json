@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 14:15",
+  "book": "leviticus",
+  "lang": "gu",
+  "chapter": 14,
+  "translation": "અને કોહેન લોગ તેલમાંથી લઈને, કોહેનની ડાબા હાથની હથેળી પર રેડશે.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "અને...લઈને"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "કોહેન"
+    },
+    {
+      "surface": "מלג",
+      "gloss": "લોગ"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "તેલ"
+    },
+    {
+      "surface": "ויצק",
+      "gloss": "રેડશે"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "כף",
+      "gloss": "હથેળી"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "કોહેનની"
+    },
+    {
+      "surface": "השמאלית",
+      "gloss": "ડાબા હાથની"
+    }
+  ],
+  "timestamp": "2026-08-21T18:36:20.455337927Z",
+  "model": "glm-5.3"
+}

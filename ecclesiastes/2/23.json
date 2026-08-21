@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ecclesiastes 2:23",
+  "book": "ecclesiastes",
+  "lang": "gu",
+  "chapter": 2,
+  "translation": "કેમ કે તેના બધા દિવસો દુઃખો છે અને તેનો વ્યવસાય ક્રોધ છે; રાત્રે પણ તેનું હૃદય આરામ પામતું નથી — આ પણ હેબેલ છે.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "કેમ કે"
+    },
+    {
+      "surface": "כל",
+      "gloss": "બધા"
+    },
+    {
+      "surface": "ઙיו",
+      "gloss": "",
+      "notes": "placeholder"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "તેના દિવસો"
+    },
+    {
+      "surface": "מכאבים",
+      "gloss": "દુઃખો છે"
+    },
+    {
+      "surface": "וכעס",
+      "gloss": "અને ક્રોધ"
+    },
+    {
+      "surface": "ענינו",
+      "gloss": "તેનો વ્યવસાય"
+    },
+    {
+      "surface": "גם",
+      "gloss": "પણ"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "રાત્રે"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નથી"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "આરામ પામતું (સૂતું)"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "તેનું હૃદય"
+    },
+    {
+      "surface": "גם",
+      "gloss": "પણ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "આ"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "હેબેલ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "છે"
+    }
+  ],
+  "timestamp": "2026-08-21T17:29:33.667313173Z",
+  "model": "glm-5.3"
+}

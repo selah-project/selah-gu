@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 18:4",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 18,
+  "translation": "માણસના મુખના શબ્દો ઊંડા પાણી છે; જ્ઞાનનો ઝરણો વહેતી નદી છે.",
+  "tokens": [
+    {
+      "surface": "מים",
+      "gloss": "પાણી"
+    },
+    {
+      "surface": "עמקים",
+      "gloss": "ઊંડા"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "શબ્દો"
+    },
+    {
+      "surface": "פי",
+      "gloss": "મુખના"
+    },
+    {
+      "surface": "איש",
+      "gloss": "માણસ"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "વહેતી નદી"
+    },
+    {
+      "surface": "נבע",
+      "gloss": "વહેતી\/ઝરતી"
+    },
+    {
+      "surface": "מקור",
+      "gloss": "ઝરણો"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "જ્ઞાન"
+    }
+  ],
+  "timestamp": "2026-08-21T16:58:27.778287106Z",
+  "model": "glm-5.3"
+}

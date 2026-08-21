@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 28:10",
+  "book": "deuteronomy",
+  "lang": "gu",
+  "chapter": 28,
+  "translation": "અને ⟨the⟩ પૃથ્વીનાં બધાં પ્રજા-સમૂહો જોશે કે યાહવેનું નામ તારા પર બોલાયેલું છે, અને તારાથી ભયભીત થશે.",
+  "tokens": [
+    {
+      "surface": "וראו",
+      "gloss": "અને જોશે"
+    },
+    {
+      "surface": "כל",
+      "gloss": "બધાં"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "પ્રજા-સમૂહો"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "પૃથ્વીનાં"
+    },
+    {
+      "surface": "כי",
+      "gloss": "કે"
+    },
+    {
+      "surface": "שם",
+      "gloss": "નામ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવેનું"
+    },
+    {
+      "surface": "נקרא",
+      "gloss": "બોલાયેલું છે"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "તારા પર"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "અને ભયભીત થશે"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "તારાથી"
+    }
+  ],
+  "timestamp": "2026-08-21T12:28:03.523558872Z",
+  "model": "glm-5.3"
+}

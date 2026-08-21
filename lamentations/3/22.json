@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "lamentations 3:22",
+  "book": "lamentations",
+  "lang": "gu",
+  "chapter": 3,
+  "translation": "યાહવેના હેસેદ (કરુણા-પ્રેમ) કે અમે સંપૂર્ણ નાશ પામ્યા નથી, કે તેની કરુણાઓ સમાપ્ત નથી થઈ.",
+  "tokens": [
+    {
+      "surface": "חסדי",
+      "gloss": "હેસેદ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવેના"
+    },
+    {
+      "surface": "כי",
+      "gloss": "કે"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નથી"
+    },
+    {
+      "surface": "תמנו",
+      "gloss": "અમે સંપૂર્ણ નાશ પામ્યા"
+    },
+    {
+      "surface": "כי",
+      "gloss": "કે"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નથી"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "સમાપ્ત થઈ"
+    },
+    {
+      "surface": "רחמיו",
+      "gloss": "તેની કરુણાઓ"
+    }
+  ],
+  "timestamp": "2026-08-21T17:26:04.268789705Z",
+  "model": "glm-5.3"
+}

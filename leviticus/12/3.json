@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 12:3",
+  "book": "leviticus",
+  "lang": "gu",
+  "chapter": 12,
+  "translation": "અને આઠમા દિવસે તેની માંસલીના ચામડાનું સુન્નત થશે.",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "અને …દિવસે"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "આઠમા"
+    },
+    {
+      "surface": "ימול",
+      "gloss": "સુન્નત થશે"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "માંસલીના"
+    },
+    {
+      "surface": "ערלתו",
+      "gloss": "ચામડાનું"
+    }
+  ],
+  "timestamp": "2026-08-21T11:34:55.414568026Z",
+  "model": "glm-5.3"
+}

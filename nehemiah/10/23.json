@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "nehemiah 10:23",
+  "book": "nehemiah",
+  "lang": "gu",
+  "chapter": 10,
+  "translation": "પેલત્યા, ખાનાન, અનાયા.",
+  "tokens": [
+    {
+      "surface": "פלטיה",
+      "gloss": "પેલત્યા"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "ખાનાન"
+    },
+    {
+      "surface": "עניה",
+      "gloss": "અનાયા"
+    }
+  ],
+  "timestamp": "2026-08-21T17:56:36.672936745Z",
+  "model": "glm-5.3"
+}

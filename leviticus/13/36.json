@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "leviticus 13:36",
+  "book": "leviticus",
+  "lang": "gu",
+  "chapter": 13,
+  "translation": "અને યાજક તેને જોશે, અને જુઓ, ચાઠો ચામડીમાં ફેલાયો છે — યાજક પીળા વાળ ⟨માટે⟩ શોધશે નહીં; તે અશુદ્ધ છે.",
+  "tokens": [
+    {
+      "surface": "וראהו",
+      "gloss": "અને તેને જોશે"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "યાજક"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "અને જુઓ"
+    },
+    {
+      "surface": "פשה",
+      "gloss": "ફેલાયો"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "ચાઠો"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "ચામડીમાં"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "יבקר",
+      "gloss": "શોધશે"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "યાજક"
+    },
+    {
+      "surface": "לשער",
+      "gloss": "વાળ માટે"
+    },
+    {
+      "surface": "הצהב",
+      "gloss": "પીળા"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "અશુદ્ધ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "તે"
+    }
+  ],
+  "timestamp": "2026-08-21T11:36:32.078672358Z",
+  "model": "glm-5.3"
+}

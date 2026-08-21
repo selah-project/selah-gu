@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 7:7",
+  "book": "ezekiel",
+  "lang": "gu",
+  "chapter": 7,
+  "translation": "આવી રહ્યો છે પ્રભાત તારી પર, હે ⟨the⟩ પૃથ્વીના વતની; આવી ગયો છે ⟨the⟩ સમય, નજીક છે ⟨the⟩ દિવસ — ખળખળાટ, અને નહીં પર્વતોનો જયઘોષ.",
+  "tokens": [
+    {
+      "surface": "באה",
+      "gloss": "આવી રહ્યો છે"
+    },
+    {
+      "surface": "הצפירה",
+      "gloss": "પ્રભાત"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "તારી પર"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "વતની"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨the⟩ પૃથ્વી"
+    },
+    {
+      "surface": "בא",
+      "gloss": "આવી ગયો છે"
+    },
+    {
+      "surface": "העת",
+      "gloss": "⟨the⟩ સમય"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "નજીક છે"
+    },
+    {
+      "surface": "היום",
+      "gloss": "⟨the⟩ દિવસ"
+    },
+    {
+      "surface": "מהומה",
+      "gloss": "ખળખળાટ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "અને નહીં"
+    },
+    {
+      "surface": "הד",
+      "gloss": "જયઘોષ"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "પર્વતોનો"
+    }
+  ],
+  "timestamp": "2026-08-21T15:18:40.539168109Z",
+  "model": "glm-5.3"
+}

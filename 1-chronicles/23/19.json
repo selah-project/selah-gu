@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-chronicles 23:19",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 23,
+  "translation": "ખેવરોનના પુત્રો — યેરિયાહ ⟨the⟩ પ્રથમ, અમર્યાહ ⟨the⟩ બીજો, યાહાઝીએલ ⟨the⟩ ત્રીજો, અને યેકમઆમ ⟨the⟩ ચોથો.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "ખેવરોનના"
+    },
+    {
+      "surface": "יריהו",
+      "gloss": "યેરિયાહ"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "પ્રથમ"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "અમર્યાહ"
+    },
+    {
+      "surface": "השני",
+      "gloss": "બીજો"
+    },
+    {
+      "surface": "יחזיאל",
+      "gloss": "યાહાઝીએલ"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "ત્રીજો"
+    },
+    {
+      "surface": "ויקמעם",
+      "gloss": "અને... યેકમઆમ"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "ચોથો"
+    }
+  ],
+  "timestamp": "2026-08-21T18:11:24.215243577Z",
+  "model": "glm-5.3"
+}

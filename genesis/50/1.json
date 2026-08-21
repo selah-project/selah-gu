@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 50:1",
+  "book": "genesis",
+  "lang": "gu",
+  "chapter": 50,
+  "translation": "અને યોસેફ ⟨તેનાં⟩ પિતાના ચહેરા પર પડ્યો, અને તેના પર રડ્યો, અને તેને ચુંબન કર્યું.",
+  "tokens": [
+    {
+      "surface": "ויפל",
+      "gloss": "પડ્યો"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "યોસેફ"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ચહેરા"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "પિતાના"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "રડ્યો"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "તેના પર"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "ચુંબન કર્યું"
+    },
+    {
+      "surface": "לו",
+      "gloss": "તેને"
+    }
+  ],
+  "timestamp": "2026-08-21T11:05:58.647254607Z",
+  "model": "glm-5.3"
+}

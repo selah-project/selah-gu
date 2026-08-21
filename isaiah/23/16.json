@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 23:16",
+  "book": "isaiah",
+  "lang": "gu",
+  "chapter": 23,
+  "translation": "વીણા લે, ભૂલાઈ ગયેલી વેશ્યા, નગરની ફરતે ફર; સરસ વગાડ, ગીત વધારે ગા, જેથી તું યાદ રહે.",
+  "tokens": [
+    {
+      "surface": "קחי",
+      "gloss": "લે"
+    },
+    {
+      "surface": "כנור",
+      "gloss": "વીણા"
+    },
+    {
+      "surface": "סבי",
+      "gloss": "ફર"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "નગરની ફરતે"
+    },
+    {
+      "surface": "זונה",
+      "gloss": "વેશ્યા"
+    },
+    {
+      "surface": "נשכחה",
+      "gloss": "ભૂલાઈ ગયેલી"
+    },
+    {
+      "surface": "היטיבי",
+      "gloss": "સરસ"
+    },
+    {
+      "surface": "נגן",
+      "gloss": "વગાડ"
+    },
+    {
+      "surface": "הרבי",
+      "gloss": "વધારે"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "ગીત"
+    },
+    {
+      "surface": "למען",
+      "gloss": "જેથી"
+    },
+    {
+      "surface": "תזכרי",
+      "gloss": "યાદ રહે"
+    }
+  ],
+  "timestamp": "2026-08-21T14:22:26.196310650Z",
+  "model": "glm-5.3"
+}

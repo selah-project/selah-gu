@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 18:16",
+  "book": "leviticus",
+  "lang": "gu",
+  "chapter": 18,
+  "translation": "તારા ભાઈની પત્નીની નગ્નતા તું ઉઘાડીશ નહિ; તે તારા ભાઈની નગ્નતા ⟨છે⟩.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "નગ્નતા"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "પત્ની"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "તારા ભાઈની"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નહિ"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "તું ઉઘાડીશ"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "નગ્નતા"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "તારા ભાઈની"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "તે"
+    }
+  ],
+  "timestamp": "2026-08-21T11:39:55.074869587Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 130:4",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 130,
+  "translation": "કેમ કે તારી પાસે ક્ષમા ⟨છે⟩, જેથી તું ભયભીત કરાય.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "કેમ કે"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "તારી પાસે"
+    },
+    {
+      "surface": "הסליחה",
+      "gloss": "ક્ષમા"
+    },
+    {
+      "surface": "למען",
+      "gloss": "જેથી"
+    },
+    {
+      "surface": "תורא",
+      "gloss": "તું ભયભીત કરાય"
+    }
+  ],
+  "timestamp": "2026-08-21T16:46:15.370902166Z",
+  "model": "glm-5.3"
+}

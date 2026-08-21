@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "leviticus 14:57",
+  "book": "leviticus",
+  "lang": "gu",
+  "chapter": 14,
+  "translation": "શીખવવા — અશુદ્ધ ⟨હોવાના⟩ દિવસે અને શુદ્ધ ⟨હોવાના⟩ દિવસે; આ જ ⟨છે⟩ સારાણાની તોરત।",
+  "tokens": [
+    {
+      "surface": "להורת",
+      "gloss": "શીખવવા"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "દિવસે"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "અશુદ્ધ"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "અને દિવસે"
+    },
+    {
+      "surface": "הטהר",
+      "gloss": "શુદ્ધ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "આ જ"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "તોરત"
+    },
+    {
+      "surface": "הצרעת",
+      "gloss": "સારાણાની"
+    }
+  ],
+  "timestamp": "2026-08-21T11:35:59.661091354Z",
+  "model": "glm-5.3"
+}

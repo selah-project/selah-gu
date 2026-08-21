@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "numbers 15:34",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 15,
+  "translation": "અને તેઓએ તેને કેદમાં મૂક્યો, કારણ કે તેની સાથે શું કરવું તે સ્પષ્ટ કરાયું નહોતું.",
+  "tokens": [
+    {
+      "surface": "ויניחו",
+      "gloss": "મૂક્યો"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "તેને"
+    },
+    {
+      "surface": "במשמר",
+      "gloss": "કેદમાં"
+    },
+    {
+      "surface": "כי",
+      "gloss": "કારણ કે"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નહોતું"
+    },
+    {
+      "surface": "פרש",
+      "gloss": "સ્પષ્ટ કરાયું"
+    },
+    {
+      "surface": "מה",
+      "gloss": "શું"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "કરવું"
+    },
+    {
+      "surface": "לו",
+      "gloss": "તેની સાથે"
+    }
+  ],
+  "timestamp": "2026-08-21T11:58:26.658006525Z",
+  "model": "glm-5.3"
+}

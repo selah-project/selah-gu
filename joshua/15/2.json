@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 15:2",
+  "book": "joshua",
+  "lang": "gu",
+  "chapter": 15,
+  "translation": "અને તેમની દક્ષિણની સીમા ⟨હતી⟩ મીઠા સમુદ્રના છેડે થી, તે ખાડીથી જે દક્ષિણ તરફ ફરે છે.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "અને તે હતી"
+    },
+    {
+      "surface": "להם",
+      "gloss": "તેમની"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "સીમા"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "દક્ષિણની"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "છેડે"
+    },
+    {
+      "surface": "ים",
+      "gloss": "સમુદ્ર"
+    },
+    {
+      "surface": "המלח",
+      "gloss": "મીઠા"
+    },
+    {
+      "surface": "מן",
+      "gloss": "થી"
+    },
+    {
+      "surface": "הלשן",
+      "gloss": "ખાડી"
+    },
+    {
+      "surface": "הפנה",
+      "gloss": "જે ફરે છે"
+    },
+    {
+      "surface": "נגבה",
+      "gloss": "દક્ષિણ તરફ"
+    }
+  ],
+  "timestamp": "2026-08-21T12:39:57.847921890Z",
+  "model": "glm-5.3"
+}

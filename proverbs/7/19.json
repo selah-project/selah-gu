@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 7:19",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 7,
+  "translation": "કેમ કે ⟨મારો⟩ પતિ પોતાના ઘરમાં નથી; તે દૂરના માર્ગે ચાલી ગયો છે.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "કેમ કે"
+    },
+    {
+      "surface": "אין",
+      "gloss": "નથી"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "⟨મારો⟩ પતિ"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "પોતાના ઘરમાં"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ચાલી ગયો છે"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "માર્ગે"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "દૂરના"
+    }
+  ],
+  "timestamp": "2026-08-21T16:54:11.582262130Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 4:2",
+  "book": "ecclesiastes",
+  "lang": "gu",
+  "chapter": 4,
+  "translation": "અને હું સ્તુતિ કરું છું ⟨את⟩ મૃતકોને, કે જે પહેલેથી મરી ગયા છે, જીવંતો કરતાં, કે જે હજી સુધી જીવતા છે.",
+  "tokens": [
+    {
+      "surface": "ושבח",
+      "gloss": "અને હું સ્તુતિ કરું છું"
+    },
+    {
+      "surface": "אני",
+      "gloss": "હું"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "મૃતકો"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "મૃતકોને"
+    },
+    {
+      "surface": "שכבר",
+      "gloss": "કે જે પહેલેથી"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "મરી ગયા છે"
+    },
+    {
+      "surface": "מן",
+      "gloss": "કરતાં"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "જીવંતો"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "કે જે"
+    },
+    {
+      "surface": "המה",
+      "gloss": "તે"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "જીવતા"
+    },
+    {
+      "surface": "עדנה",
+      "gloss": "હજી સુધી"
+    }
+  ],
+  "timestamp": "2026-08-21T17:29:52.426168970Z",
+  "model": "glm-5.3"
+}

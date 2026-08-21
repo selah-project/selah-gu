@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 28:3",
+  "book": "deuteronomy",
+  "lang": "gu",
+  "chapter": 28,
+  "translation": "ધન્ય છો તમે નગરમાં, અને ધન્ય છો તમે ખેતરમાં.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "ધન્ય"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "તમે"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "નગરમાં"
+    },
+    {
+      "surface": "וברוך",
+      "gloss": "અને ધન્ય"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "તમે"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "ખેતરમાં"
+    }
+  ],
+  "timestamp": "2026-08-21T12:28:05.407694143Z",
+  "model": "glm-5.3"
+}

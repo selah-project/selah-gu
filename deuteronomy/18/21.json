@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 18:21",
+  "book": "deuteronomy",
+  "lang": "gu",
+  "chapter": 18,
+  "translation": "અને જો તું તારા હૃદયમાં કહેશે, કે આપણે કેવી રીતે જાણશું ⟨את⟩ ⟨the⟩ વચન, જે યાહવેએ બોલ્યું નથી?",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "અને જો"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "તું કહેશે"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "તારા હૃદયમાં"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "કેવી રીતે"
+    },
+    {
+      "surface": "נדע",
+      "gloss": "આપણે જાણશું"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "⟨the⟩ વચન"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "⟨the⟩ વચન"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જે"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નથી"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "બોલ્યું"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવેએ"
+    }
+  ],
+  "timestamp": "2026-08-21T12:22:15.952705219Z",
+  "model": "glm-5.3"
+}

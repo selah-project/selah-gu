@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 72:20",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 72,
+  "translation": "પૂરી થઈ છે દાવીદની, યિશાઈના પુત્રની, પ્રાર્થનાઓ.",
+  "tokens": [
+    {
+      "surface": "כלו",
+      "gloss": "પૂરી થઈ છે"
+    },
+    {
+      "surface": "תפלות",
+      "gloss": "પ્રાર્થનાઓ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "દાવીદની"
+    },
+    {
+      "surface": "בן",
+      "gloss": "પુત્રની"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "યિશાઈના"
+    }
+  ],
+  "timestamp": "2026-08-21T16:29:38.379179527Z",
+  "model": "glm-5.3"
+}

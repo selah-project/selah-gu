@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 11:3",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 11,
+  "translation": "કારણ કે પાયા તોડી નાખવામાં આવે ⟨છે⟩ — તો સદાચારીએ શું કરવું?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "કારણ કે"
+    },
+    {
+      "surface": "השתות",
+      "gloss": "પાયા"
+    },
+    {
+      "surface": "יהרסון",
+      "gloss": "તોડી નાખવામાં આવે"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "સદાચારી"
+    },
+    {
+      "surface": "מה",
+      "gloss": "શું"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "કરવું"
+    }
+  ],
+  "timestamp": "2026-08-21T16:13:26.527946077Z",
+  "model": "glm-5.3"
+}

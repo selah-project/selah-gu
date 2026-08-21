@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 63:11",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 63,
+  "translation": "તલવારના હાથે તેઓને ઢાળી દેવાશે; તેઓ શિયાળોનો હિસ્સો બનશે.",
+  "tokens": [
+    {
+      "surface": "יגירהו",
+      "gloss": "તેઓને ઢાળી દેવાશે"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "હાથે"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "તલવારના"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "હિસ્સો"
+    },
+    {
+      "surface": "שעלים",
+      "gloss": "શિયાળોનો"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "બનશે"
+    }
+  ],
+  "timestamp": "2026-08-21T16:26:36.530443158Z",
+  "model": "glm-5.3"
+}

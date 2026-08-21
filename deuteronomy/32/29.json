@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "deuteronomy 32:29",
+  "book": "deuteronomy",
+  "lang": "gu",
+  "chapter": 32,
+  "translation": "હા, જો તેઓ જ્ઞાની હોત, તો તેઓ આ સમજી શકત, તો તેઓ પોતાના અંતને સમજાત.",
+  "tokens": [
+    {
+      "surface": "לו",
+      "gloss": "હા, જો"
+    },
+    {
+      "surface": "חכמו",
+      "gloss": "જ્ઞાની હોત"
+    },
+    {
+      "surface": "ישכילו",
+      "gloss": "સમજી શકત"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "આ"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "સમજાત"
+    },
+    {
+      "surface": "לאחריתם",
+      "gloss": "પોતાના અંતને"
+    }
+  ],
+  "timestamp": "2026-08-21T12:30:37.558269407Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 10:9",
+  "book": "deuteronomy",
+  "lang": "gu",
+  "chapter": 10,
+  "translation": "તેથી લેવીને તેના ભાઈઓ સાથે કોઈ ભાગ કે વિરાસત ન હતી; યાહવે ⟨he⟩ જ તેની વિરાસત છે, જેમ યાહવે તારા એલોહીમે તેને કહ્યું.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "તેથી"
+    },
+    {
+      "surface": "כן",
+      "gloss": "તેથી"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ન"
+    },
+    {
+      "surface": "היה",
+      "gloss": "હતી"
+    },
+    {
+      "surface": "ללוי",
+      "gloss": "લેવીને"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "ભાગ"
+    },
+    {
+      "surface": "ונחלה",
+      "gloss": "અને વિરાસત"
+    },
+    {
+      "surface": "עם",
+      "gloss": "સાથે"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "તેના ભાઈઓ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨he⟩ જ"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "તેની વિરાસત"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "જેમ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "કહ્યું"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "તારા એલોહીમે"
+    },
+    {
+      "surface": "לו",
+      "gloss": "તેને"
+    }
+  ],
+  "timestamp": "2026-08-21T12:17:17.173960322Z",
+  "model": "glm-5.3"
+}

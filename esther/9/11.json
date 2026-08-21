@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "esther 9:11",
+  "book": "esther",
+  "lang": "gu",
+  "chapter": 9,
+  "translation": "તે જ દિવસે શૂશન કિલ્લામાં માર્યા ગયેલાઓની સંખ્યા રાજા સમક્ષ આવી.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "તે દિવસે"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "તે જ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "આવી"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "સંખ્યા"
+    },
+    {
+      "surface": "ההרוגים",
+      "gloss": "માર્યા ગયેલાઓની"
+    },
+    {
+      "surface": "בשושן",
+      "gloss": "શૂશનમાં"
+    },
+    {
+      "surface": "הבירה",
+      "gloss": "કિલ્લા"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "સમક્ષ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "રાજા"
+    }
+  ],
+  "timestamp": "2026-08-21T17:35:22.195171243Z",
+  "model": "glm-5.3"
+}

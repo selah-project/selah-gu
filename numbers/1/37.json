@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "numbers 1:37",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 1,
+  "translation": "તેમની ગણતરી, બિન્યામિનના કુળ માટે, પાંચ અને ત્રીસ હજાર અને ચાર સો.",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "તેમની ગણતરી"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "કુળ માટે"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "બિન્યામિન"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "પાંચ"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "અને ત્રીસ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "હજાર"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "અને ચાર"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "સો"
+    }
+  ],
+  "timestamp": "2026-08-21T11:47:18.425856388Z",
+  "model": "glm-5.3"
+}

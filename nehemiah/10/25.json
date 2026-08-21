@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "nehemiah 10:25",
+  "book": "nehemiah",
+  "lang": "gu",
+  "chapter": 10,
+  "translation": "હલ્લોખેશ, પિલ્ખા, શોવેક.",
+  "tokens": [
+    {
+      "surface": "הלוחש",
+      "gloss": "હલ્લોખેશ"
+    },
+    {
+      "surface": "פלחא",
+      "gloss": "પિલ્ખા"
+    },
+    {
+      "surface": "שובק",
+      "gloss": "શોવેક"
+    }
+  ],
+  "timestamp": "2026-08-21T19:01:19.298293069Z",
+  "model": "glm-5.3"
+}

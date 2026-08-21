@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 18:32",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 18,
+  "translation": "કેમ કે કોણ છે એલોઆહ સિવાય યાહવે? અને કોણ છે શિલા સિવાય આપણા એલોહીમ?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "કેમ કે"
+    },
+    {
+      "surface": "מי",
+      "gloss": "કોણ"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "એલોઆહ"
+    },
+    {
+      "surface": "מבלעדי",
+      "gloss": "સિવાય"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "અને કોણ"
+    },
+    {
+      "surface": "צור",
+      "gloss": "શિલા"
+    },
+    {
+      "surface": "זולתי",
+      "gloss": "સિવાય"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "આપણા એલોહીમ"
+    }
+  ],
+  "timestamp": "2026-08-21T18:55:46.621363133Z",
+  "model": "glm-5.3"
+}

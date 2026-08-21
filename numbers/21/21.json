@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 21:21",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 21,
+  "translation": "અને ઇસ્રાએલે એમોરીઓના રાજા સીહોન પાસે દૂતો મોકલ્યા, કહેતા:",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "અને મોકલ્યા"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ઇસ્રાએલે"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "દૂતો"
+    },
+    {
+      "surface": "אל",
+      "gloss": "પાસે"
+    },
+    {
+      "surface": "סיחן",
+      "gloss": "સીહોન"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "રાજા"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "એમોરીઓના"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "કહેતા"
+    }
+  ],
+  "timestamp": "2026-08-21T12:02:27.904382456Z",
+  "model": "glm-5.3"
+}

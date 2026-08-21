@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "joshua 12:24",
+  "book": "joshua",
+  "lang": "gu",
+  "chapter": 12,
+  "translation": "તિર્ત્સાહના રાજાનું એક; બધા રાજાઓ એકત્રિસ.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "રાજા"
+    },
+    {
+      "surface": "תרצה",
+      "gloss": "તિર્ત્સાહ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "એક"
+    },
+    {
+      "surface": "כל",
+      "gloss": "બધા"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "રાજાઓ"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "ત્રીસ"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "અને એક"
+    }
+  ],
+  "timestamp": "2026-08-21T12:38:17.120547851Z",
+  "model": "glm-5.3"
+}

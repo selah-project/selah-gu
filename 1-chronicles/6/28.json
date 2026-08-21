@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 6:28",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 6,
+  "translation": "યાખતનો પુત્ર, ગેરેશોમનો પુત્ર, લેવીનો પુત્ર.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "પુત્ર"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "યાખત"
+    },
+    {
+      "surface": "בן",
+      "gloss": "પુત્ર"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "ગેરેશોમ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "પુત્ર"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "લેવી"
+    }
+  ],
+  "timestamp": "2026-08-21T18:03:11.549099621Z",
+  "model": "glm-5.3"
+}

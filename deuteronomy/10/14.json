@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 10:14",
+  "book": "deuteronomy",
+  "lang": "gu",
+  "chapter": 10,
+  "translation": "જુઓ, યાહવે તમારા એલોહીમનાં છે ⟨the⟩ આકાશ અને આકાશોનાં આકાશ, ⟨the⟩ પૃથ્વી અને બધું જે તેમાં છે.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "જુઓ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "યાહવેનાં છે"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "તમારા એલોહીમ"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "આકાશ"
+    },
+    {
+      "surface": "ושמי",
+      "gloss": "અને આકાશોનાં"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "આકાશ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "પૃથ્વી"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "અને બધું"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જે"
+    },
+    {
+      "surface": "בה",
+      "gloss": "તેમાં છે"
+    }
+  ],
+  "timestamp": "2026-08-21T12:17:00.144065726Z",
+  "model": "glm-5.3"
+}

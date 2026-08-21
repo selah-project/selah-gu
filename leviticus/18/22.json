@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 18:22",
+  "book": "leviticus",
+  "lang": "gu",
+  "chapter": 18,
+  "translation": "અને ⟨את⟩ પુરુષ સાથે સ્ત્રીના મિથુનની જેમ તું ન સૂતો; તે તો ઘૃણાસ્પદ ⟨છે⟩.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "અને ⟨את⟩"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "પુરુષ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "તું સૂતો"
+    },
+    {
+      "surface": "משכבי",
+      "gloss": "મિથુનની જેમ"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "સ્ત્રીના"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "ઘૃણાસ્પદ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "તે તો"
+    }
+  ],
+  "timestamp": "2026-08-21T11:39:48.478182938Z",
+  "model": "glm-5.3"
+}

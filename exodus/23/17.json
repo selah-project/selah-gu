@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 23:17",
+  "book": "exodus",
+  "lang": "gu",
+  "chapter": 23,
+  "translation": "વર્ષમાં ત્રણ વાર તારા બધા પુરુષો અદનાથ યાહવેના ચહેરા સમક્ષ દેખા દેશે.",
+  "tokens": [
+    {
+      "surface": "שלש",
+      "gloss": "ત્રણ"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "વાર"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "વર્ષમાં"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "દેખા દેશે"
+    },
+    {
+      "surface": "כל",
+      "gloss": "બધા"
+    },
+    {
+      "surface": "זכורך",
+      "gloss": "તારા પુરુષો"
+    },
+    {
+      "surface": "אל",
+      "gloss": "સમક્ષ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ચહેરા"
+    },
+    {
+      "surface": "האדן",
+      "gloss": "અદનાથ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    }
+  ],
+  "timestamp": "2026-08-21T11:18:23.378995249Z",
+  "model": "glm-5.3"
+}

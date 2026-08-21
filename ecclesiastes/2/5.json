@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 2:5",
+  "book": "ecclesiastes",
+  "lang": "gu",
+  "chapter": 2,
+  "translation": "મેં મારા માટે બગીચાઓ અને ફળ-વાડિયાઓ બનાવ્યાં, અને મેં તેમાં દરેક ફળનાં વૃક્ષો રોપ્યાં.",
+  "tokens": [
+    {
+      "surface": "עשיתי",
+      "gloss": "બનાવ્યાં"
+    },
+    {
+      "surface": "לי",
+      "gloss": "મારા માટે"
+    },
+    {
+      "surface": "גנות",
+      "gloss": "બગીચાઓ"
+    },
+    {
+      "surface": "ופרדסים",
+      "gloss": "અને ફળ-વાડિયાઓ"
+    },
+    {
+      "surface": "ונטעתי",
+      "gloss": "અને મેં રોપ્યાં"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "તેમાં"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "વૃક્ષો"
+    },
+    {
+      "surface": "כל",
+      "gloss": "દરેક"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "ફળનાં"
+    }
+  ],
+  "timestamp": "2026-08-21T17:29:06.184452519Z",
+  "model": "glm-5.3"
+}

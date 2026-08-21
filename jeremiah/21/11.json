@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 21:11",
+  "book": "jeremiah",
+  "lang": "gu",
+  "chapter": 21,
+  "translation": "અને યહૂદાના રાજાના ઘરને — યાહવેનો વચન સાંભળો:",
+  "tokens": [
+    {
+      "surface": "ולבית",
+      "gloss": "અને ઘરને"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "રાજા"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "યહૂદા"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "સાંભળો"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "વચન"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    }
+  ],
+  "timestamp": "2026-08-21T14:54:31.741101224Z",
+  "model": "glm-5.3"
+}

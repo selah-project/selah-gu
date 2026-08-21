@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 42:18",
+  "book": "isaiah",
+  "lang": "gu",
+  "chapter": 42,
+  "translation": "બહેરાઓ, સાંભળો; અને આંધળાઓ, જુઓ — જોઈ શકવા માટે!",
+  "tokens": [
+    {
+      "surface": "החרשים",
+      "gloss": "બહેરાઓ"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "સાંભળો"
+    },
+    {
+      "surface": "והעורים",
+      "gloss": "અને આંધળાઓ"
+    },
+    {
+      "surface": "הביטו",
+      "gloss": "જુઓ"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "જોઈ શકવા માટે"
+    }
+  ],
+  "timestamp": "2026-08-21T14:32:26.283911266Z",
+  "model": "glm-5.3"
+}

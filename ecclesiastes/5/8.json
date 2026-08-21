@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 5:8",
+  "book": "ecclesiastes",
+  "lang": "gu",
+  "chapter": 5,
+  "translation": "અને પૃથ્વીનો લાભ દરેકમાં ⟨છે⟩ — ⟨એ⟩ કિંમત એ છે કે ખેતરને માટે રાજા સેવા કરે છે.",
+  "tokens": [
+    {
+      "surface": "ויתרון",
+      "gloss": "અને લાભ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "પૃથ્વીનો"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "દરેકમાં"
+    },
+    {
+      "surface": "היא",
+      "gloss": "એ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "રાજા"
+    },
+    {
+      "surface": "לשדה",
+      "gloss": "ખેતરને માટે"
+    },
+    {
+      "surface": "נעבד",
+      "gloss": "સેવા કરે છે"
+    }
+  ],
+  "timestamp": "2026-08-21T17:31:15.695761448Z",
+  "model": "glm-5.3"
+}

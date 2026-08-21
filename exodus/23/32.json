@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 23:32",
+  "book": "exodus",
+  "lang": "gu",
+  "chapter": 23,
+  "translation": "તું તેમની સાથે અને તેમના એલોહીમ સાથે કરાર ન કરીશ.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "תכרથ",
+      "gloss": "તું કરાર કરીશ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "તેમની સાથે"
+    },
+    {
+      "surface": "ולאלהיהם",
+      "gloss": "અને તેમના એલોહીમ સાથે"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "કરાર"
+    }
+  ],
+  "timestamp": "2026-08-21T11:19:08.174947803Z",
+  "model": "glm-5.3"
+}

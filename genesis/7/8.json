@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 7:8",
+  "book": "genesis",
+  "lang": "gu",
+  "chapter": 7,
+  "translation": "શુદ્ધ પશુઓમાંથી અને એ પશુઓમાંથી જે શુદ્ધ નથી, અને પક્ષીઓમાંથી, અને બધું જ જે જમીન પર સરકે છે.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "…માંથી"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "પશુઓ"
+    },
+    {
+      "surface": "הטהורה",
+      "gloss": "શુદ્ધ"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "અને…માંથી"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "પશુઓ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જે"
+    },
+    {
+      "surface": "איננה",
+      "gloss": "નથી"
+    },
+    {
+      "surface": "טהרה",
+      "gloss": "શુદ્ધ"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "અને…માંથી"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "પક્ષીઓ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "અને બધું જ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જે"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "સરકે છે"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "જમીન"
+    }
+  ],
+  "timestamp": "2026-08-21T10:39:55.233106702Z",
+  "model": "glm-5.3"
+}

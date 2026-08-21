@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 5:9",
+  "book": "genesis",
+  "lang": "gu",
+  "chapter": 5,
+  "translation": "અને એનોશ નેંવું વર્ષ જીવ્યો, અને ⟨את⟩ કેનાનને જન્મ આપ્યો.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "જીવ્યો"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "એનોશ"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "નેંવું"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "વર્ષ"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "જન્મ આપ્યો"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "કેનાન"
+    },
+    {
+      "surface": "קינן",
+      "gloss": "કેનાન"
+    }
+  ],
+  "timestamp": "2026-08-21T10:37:45.098863929Z",
+  "model": "glm-5.3"
+}

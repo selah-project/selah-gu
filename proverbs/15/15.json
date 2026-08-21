@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 15:15",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 15,
+  "translation": "દરિદ્રીના બધા દિવસો ખરાબ છે, પણ સારા હૃદયવાળા માટે સતત મિજબાન છે.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "બધા"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "દિવસો"
+    },
+    {
+      "surface": "עני",
+      "gloss": "દરિદ્રીના"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "ખરાબ"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "પણ સારા"
+    },
+    {
+      "surface": "לב",
+      "gloss": "હૃદયવાળા"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "મિજબાન"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "સતત"
+    }
+  ],
+  "timestamp": "2026-08-21T16:57:32.296014643Z",
+  "model": "glm-5.3"
+}

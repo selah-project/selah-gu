@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 75:6",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 75,
+  "translation": "તમારું શિંગડું આકાશ સામે ઊંચું ન કરો; કઠણ ગરદનથી બોલો નહીં.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ન"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "ઊંચું કરો"
+    },
+    {
+      "surface": "למרום",
+      "gloss": "આકાશ સામે"
+    },
+    {
+      "surface": "קרנכם",
+      "gloss": "તમારું શિંગડું"
+    },
+    {
+      "surface": "תדברו",
+      "gloss": "બોલો"
+    },
+    {
+      "surface": "בצואר",
+      "gloss": "ગરદનથી"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "કઠણ"
+    }
+  ],
+  "timestamp": "2026-08-21T16:30:37.731520035Z",
+  "model": "glm-5.3"
+}

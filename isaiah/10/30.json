@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "isaiah 10:30",
+  "book": "isaiah",
+  "lang": "gu",
+  "chapter": 10,
+  "translation": "તારો અવાજ બૂમ તારી, ગલ્લીમની દીકરી; કાન ધર, લાયશા; દીન અનાથોત.",
+  "tokens": [
+    {
+      "surface": "צהלי",
+      "gloss": "બૂમ તારી"
+    },
+    {
+      "surface": "קולך",
+      "gloss": "તારો અવાજ"
+    },
+    {
+      "surface": "בת",
+      "gloss": "દીકરી"
+    },
+    {
+      "surface": "גלים",
+      "gloss": "ગલ્લીમની"
+    },
+    {
+      "surface": "הקשיבי",
+      "gloss": "કાન ધર"
+    },
+    {
+      "surface": "לישה",
+      "gloss": "લાયશા"
+    },
+    {
+      "surface": "עניה",
+      "gloss": "દીન"
+    },
+    {
+      "surface": "ענתות",
+      "gloss": "અનાથોત"
+    }
+  ],
+  "timestamp": "2026-08-21T14:16:11.627607142Z",
+  "model": "glm-5.3"
+}

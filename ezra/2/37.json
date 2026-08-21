@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "ezra 2:37",
+  "book": "ezra",
+  "lang": "gu",
+  "chapter": 2,
+  "translation": "ઇમ્મેરનાં પુત્રો — એક હજાર બાવન.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ઇમ્મેર"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "એક હજાર"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "પચાસ"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "અને બે"
+    }
+  ],
+  "timestamp": "2026-08-21T17:45:25.684363195Z",
+  "model": "glm-5.3"
+}

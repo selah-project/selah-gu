@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "nehemiah 7:49",
+  "book": "nehemiah",
+  "lang": "gu",
+  "chapter": 7,
+  "translation": "હનાનનાં પુત્રો, ગિદ્દેલનાં પુત્રો, ગાહરનાં પુત્રો,",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "હનાન"
+    },
+    {
+      "surface": "בני",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "ગિદ્દેલ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "גחר",
+      "gloss": "ગાહર"
+    }
+  ],
+  "timestamp": "2026-08-21T17:55:09.829010172Z",
+  "model": "glm-5.3"
+}

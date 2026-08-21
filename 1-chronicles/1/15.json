@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 1:15",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 1,
+  "translation": "અને ⟨את⟩ હિવ્વી, અને ⟨את⟩ અર્કી, અને ⟨את⟩ સીની.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "હિવ્વી"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "હિવ્વી"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "અર્કી"
+    },
+    {
+      "surface": "הערקי",
+      "gloss": "અર્કી"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "સીની"
+    },
+    {
+      "surface": "הסיני",
+      "gloss": "સીની"
+    }
+  ],
+  "timestamp": "2026-08-21T17:59:15.743786040Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 62,
+  "ref": "nehemiah 7:62",
+  "book": "nehemiah",
+  "lang": "gu",
+  "chapter": 7,
+  "translation": "દેલાયાના પુત્રો, તોબીયાના પુત્રો, નેકોદાના પુત્રો — છ સો બેચાલીસ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "דליה",
+      "gloss": "દેલાયાના"
+    },
+    {
+      "surface": "בני",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "טוביה",
+      "gloss": "તોબીયાના"
+    },
+    {
+      "surface": "בני",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "נקודא",
+      "gloss": "નેકોદાના"
+    },
+    {
+      "surface": "שש",
+      "gloss": "છ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "સો"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "અને ચાલીસ"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "અને બે"
+    }
+  ],
+  "timestamp": "2026-08-21T17:55:46.999180626Z",
+  "model": "glm-5.3"
+}

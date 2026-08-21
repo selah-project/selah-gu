@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 2:3",
+  "book": "deuteronomy",
+  "lang": "gu",
+  "chapter": 2,
+  "translation": "તમારા માટે ઘણું થયું — ⟨את⟩ આ પર્વતની આસપાસ ફરવાનું; તમે પોતાને ઉત્તર તરફ વાળો.",
+  "tokens": [
+    {
+      "surface": "רב",
+      "gloss": "ઘણું"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "તમારા માટે"
+    },
+    {
+      "surface": "סב",
+      "gloss": "ફરવાનું"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "આ પર્વત"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "આ પર્વત"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "આ"
+    },
+    {
+      "surface": "פנו",
+      "gloss": "વાળો"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "પોતાને"
+    },
+    {
+      "surface": "צפנה",
+      "gloss": "ઉત્તર તરફ"
+    }
+  ],
+  "timestamp": "2026-08-21T12:12:29.299096050Z",
+  "model": "glm-5.3"
+}

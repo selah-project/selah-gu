@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 3:26",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 3,
+  "translation": "કેમ કે યાહવે તારો ભરોસો રહેશે, અને તારો પગ પકડાઈ જવાથી રક્ષશે.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "કેમ કે"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "રહેશે"
+    },
+    {
+      "surface": "בכסלך",
+      "gloss": "તારો ભરોસો"
+    },
+    {
+      "surface": "ושמר",
+      "gloss": "અને…રક્ષશે"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "તારો પગ"
+    },
+    {
+      "surface": "מלכד",
+      "gloss": "પકડાઈ જવાથી"
+    }
+  ],
+  "timestamp": "2026-08-21T16:52:21.780483453Z",
+  "model": "glm-5.3"
+}

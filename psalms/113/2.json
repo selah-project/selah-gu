@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 113:2",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 113,
+  "translation": "યાહવેનું નામ ધન્ય થાઓ, આપથી અને સદા સુધી.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "થાઓ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "નામ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવેનું"
+    },
+    {
+      "surface": "מברך",
+      "gloss": "ધન્ય"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "આપથી"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "અને સુધી"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "સદા"
+    }
+  ],
+  "timestamp": "2026-08-21T16:41:19.665567482Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 6:24",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 6,
+  "translation": "યાહવે તને આશીર્વાદ આપે અને તને રક્ષણ કરે;",
+  "tokens": [
+    {
+      "surface": "יברכך",
+      "gloss": "તને આશીર્વાદ આપે"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "וישמרך",
+      "gloss": "અને તને રક્ષણ કરે"
+    }
+  ],
+  "timestamp": "2026-08-21T11:50:50.220291553Z",
+  "model": "glm-5.3"
+}

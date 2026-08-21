@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 25:14",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 25,
+  "translation": "વાદળો અને પવન, અને વરસાદ નથી — એવો ⟨છે⟩ માણસ જે ખોટી ભેટથી ડંફાશ કરે છે.",
+  "tokens": [
+    {
+      "surface": "נשיאים",
+      "gloss": "વાદળો"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "અને પવન"
+    },
+    {
+      "surface": "וגשם",
+      "gloss": "અને વરસાદ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "નથી"
+    },
+    {
+      "surface": "איש",
+      "gloss": "માણસ"
+    },
+    {
+      "surface": "מתהלל",
+      "gloss": "ડંફાશ કરે છે"
+    },
+    {
+      "surface": "במתת",
+      "gloss": "ભેટથી"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ખોટી"
+    }
+  ],
+  "timestamp": "2026-08-21T17:01:29.711058684Z",
+  "model": "glm-5.3"
+}

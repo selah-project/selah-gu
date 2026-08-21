@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 8:26",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 8,
+  "translation": "અને શમશરાય, અને શહર્યાહ, અને અતલ્યાહ —",
+  "tokens": [
+    {
+      "surface": "ושמשרי",
+      "gloss": "અને શમશરાય"
+    },
+    {
+      "surface": "ושחריה",
+      "gloss": "અને શહર્યાહ"
+    },
+    {
+      "surface": "ועתליה",
+      "gloss": "અને અતલ્યાહ"
+    }
+  ],
+  "timestamp": "2026-08-21T18:02:41.873322158Z",
+  "model": "glm-5.3"
+}

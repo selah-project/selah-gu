@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 8:3",
+  "book": "hosea",
+  "lang": "gu",
+  "chapter": 8,
+  "translation": "ઇસ્રાએલે ભલાઈ ત્યજી છે; દુશ્મન ⟨તેનો⟩ પીછો કરશે.",
+  "tokens": [
+    {
+      "surface": "זנח",
+      "gloss": "ત્યજી છે"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ઇસ્રાએલે"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ભલાઈ"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "દુશ્મન"
+    },
+    {
+      "surface": "ירדפו",
+      "gloss": "પીછો કરશે"
+    }
+  ],
+  "timestamp": "2026-08-21T15:48:13.992761512Z",
+  "model": "glm-5.3"
+}

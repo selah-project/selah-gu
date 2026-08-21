@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 27:12",
+  "book": "job",
+  "lang": "gu",
+  "chapter": 27,
+  "translation": "જુઓ, તમે બધા ⟨એ⟩ જોયું છે; તો પછી શા માટે આ સાવ વ્યર્થ બનો છો?",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "જુઓ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "તમે"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "બધા"
+    },
+    {
+      "surface": "חזיתם",
+      "gloss": "જોયું છે"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "તો પછી શા માટે"
+    },
+    {
+      "surface": "זה",
+      "gloss": "આ"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "વ્યર્થ"
+    },
+    {
+      "surface": "תהבלו",
+      "gloss": "બનો છો"
+    }
+  ],
+  "timestamp": "2026-08-21T17:13:40.754687637Z",
+  "model": "glm-5.3"
+}

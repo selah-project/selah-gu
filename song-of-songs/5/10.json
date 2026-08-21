@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "song-of-songs 5:10",
+  "book": "song-of-songs",
+  "lang": "gu",
+  "chapter": 5,
+  "translation": "મારો પ્રિય ⟨છે⟩ તેજસ્વી અને લાલ, દસ હજારમાં ચમકીતો।",
+  "tokens": [
+    {
+      "surface": "דודי",
+      "gloss": "મારો પ્રિય"
+    },
+    {
+      "surface": "צח",
+      "gloss": "તેજસ્વી"
+    },
+    {
+      "surface": "ואדום",
+      "gloss": "અને લાલ"
+    },
+    {
+      "surface": "דגול",
+      "gloss": "ચમકીતો"
+    },
+    {
+      "surface": "מרבבה",
+      "gloss": "દસ હજારમાં"
+    }
+  ],
+  "timestamp": "2026-08-21T18:59:58.582782580Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "leviticus 11:41",
+  "book": "leviticus",
+  "lang": "gu",
+  "chapter": 11,
+  "translation": "અને જે કંઈ પૃથ્વી પર ઘૂમસે છે તે સર્વ રસ્કી છે, તે ખાવું નહીં.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "અને જે કંઈ"
+    },
+    {
+      "surface": "השרץ",
+      "gloss": "ઘૂમસનાર પ્રાણી"
+    },
+    {
+      "surface": "השרץ",
+      "gloss": "ઘૂમસે છે"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "પૃથ્વી"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "રસ્કી"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "તે ⟨છે⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ખાવું"
+    }
+  ],
+  "timestamp": "2026-08-21T18:36:26.615373594Z",
+  "model": "glm-5.3"
+}

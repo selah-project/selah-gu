@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 16:25",
+  "book": "leviticus",
+  "lang": "gu",
+  "chapter": 16,
+  "translation": "અને પાપાચરણની ચરબીને ⟨את⟩ તે યજ્ઞવેદી પર ધૂપ બનાવશે.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "પાપાચરણની ચરબીને"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "ચરબી"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "પાપાચરણની"
+    },
+    {
+      "surface": "יקטיר",
+      "gloss": "ધૂપ બનાવશે"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "યજ્ઞવેદી પર"
+    }
+  ],
+  "timestamp": "2026-08-21T11:40:45.411579037Z",
+  "model": "glm-5.3"
+}

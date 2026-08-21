@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-samuel 20:39",
+  "book": "1-samuel",
+  "lang": "gu",
+  "chapter": 20,
+  "translation": "પણ છોકરાએ કંઈ જાણ્યું નહીં; ફક્ત યહોનાતાન અને દાવિદે ⟨את⟩ ⟨the⟩ વાત જાણી હતી.",
+  "tokens": [
+    {
+      "surface": "והנער",
+      "gloss": "પણ છોકરાએ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "જાણ્યું"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "કંઈ"
+    },
+    {
+      "surface": "אך",
+      "gloss": "ફક્ત"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "યહોનાતાન"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "અને દાવિદે"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "જાણી હતી"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "વાત"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "વાત"
+    }
+  ],
+  "timestamp": "2026-08-21T13:13:30.260564562Z",
+  "model": "glm-5.3"
+}

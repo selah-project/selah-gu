@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 15:22",
+  "book": "joshua",
+  "lang": "gu",
+  "chapter": 15,
+  "translation": "અને કીનાહ, અને દિમોનાહ, અને અદઅદાહ.",
+  "tokens": [
+    {
+      "surface": "וקינה",
+      "gloss": "અને કીનાહ"
+    },
+    {
+      "surface": "ודימונה",
+      "gloss": "અને દિમોનાહ"
+    },
+    {
+      "surface": "ועדעדה",
+      "gloss": "અને અદઅદાહ"
+    }
+  ],
+  "timestamp": "2026-08-21T12:40:27.932730272Z",
+  "model": "glm-5.3"
+}

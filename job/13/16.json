@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 13:16",
+  "book": "job",
+  "lang": "gu",
+  "chapter": 13,
+  "translation": "તે જ મારા માટે મુક્તિ થશે, કારણ કે દંભી તેની સામે આવી શકશે નહીં.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "તે જ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "તે"
+    },
+    {
+      "surface": "לי",
+      "gloss": "મારા માટે"
+    },
+    {
+      "surface": "לישועה",
+      "gloss": "મુક્તિ થશે"
+    },
+    {
+      "surface": "כי",
+      "gloss": "કારણ કે"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "તેની સામે"
+    },
+    {
+      "surface": "חנף",
+      "gloss": "દંભી"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "આવી શકશે"
+    }
+  ],
+  "timestamp": "2026-08-21T17:08:53.796431195Z",
+  "model": "glm-5.3"
+}

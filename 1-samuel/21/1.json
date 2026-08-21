@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 21:1",
+  "book": "1-samuel",
+  "lang": "gu",
+  "chapter": 21,
+  "translation": "અને ⟨તેણે⟩ ઊઠીને જતો રહ્યો, અને યહોનાતાન ⟨પોતાની⟩ નગરીમાં આવ્યો.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "ઊઠ્યો"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ગયો"
+    },
+    {
+      "surface": "ויהונתן",
+      "gloss": "યહોનાતાન"
+    },
+    {
+      "surface": "בא",
+      "gloss": "આવ્યો"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "નગરીમાં"
+    }
+  ],
+  "timestamp": "2026-08-21T13:13:31.509004885Z",
+  "model": "glm-5.3"
+}

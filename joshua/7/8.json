@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 7:8",
+  "book": "joshua",
+  "lang": "gu",
+  "chapter": 7,
+  "translation": "અદોનાય, ઇસ્રાએલે પોતાના શત્રુઓ સામે પીઠ ફેરવી ત્યારબાદ હું શું કહું?",
+  "tokens": [
+    {
+      "surface": "בי",
+      "gloss": "હે"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "અદોનાય"
+    },
+    {
+      "surface": "מה",
+      "gloss": "શું"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "કહું"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ત્યારબાદ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "કે"
+    },
+    {
+      "surface": "הפך",
+      "gloss": "ફેરવી"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ઇસ્રાએલે"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "પીઠ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "સામે"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "પોતાના શત્રુઓ"
+    }
+  ],
+  "timestamp": "2026-08-21T12:37:57.702804761Z",
+  "model": "glm-5.3"
+}

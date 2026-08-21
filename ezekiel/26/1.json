@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 26:1",
+  "book": "ezekiel",
+  "lang": "gu",
+  "chapter": 26,
+  "translation": "અને એકાદશમાં વર્ષે, માસના પ્રથમ દિવસે, યાહવેનો વચન મારી પાસે આવ્યું, કહેતું:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "અને થયું"
+    },
+    {
+      "surface": "בעשתי",
+      "gloss": "એકાદશમાં"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "દસ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "વર્ષે"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "પ્રથમ (દિવસે)"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "માસના"
+    },
+    {
+      "surface": "היה",
+      "gloss": "આવ્યું"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "વચન"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવેનો"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "મારી પાસે"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "કહેતું"
+    }
+  ],
+  "timestamp": "2026-08-21T15:30:54.208022552Z",
+  "model": "glm-5.3"
+}

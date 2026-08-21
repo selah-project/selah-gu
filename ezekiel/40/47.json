@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "ezekiel 40:47",
+  "book": "ezekiel",
+  "lang": "gu",
+  "chapter": 40,
+  "translation": "અને તેણે ⟨את⟩ આંગણાને માપ્યું — લંબાઈ સો હાથ અને પહોળાઈ સો હાથ, ચોરસ; અને વેદી ઘરની સામે ⟨is⟩.",
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "તેણે માપ્યું"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "આંગણાને"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "આંગણાને"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "લંબાઈ"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "સો"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "હાથ"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "અને પહોળાઈ"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "સો"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "હાથ"
+    },
+    {
+      "surface": "מרבעת",
+      "gloss": "ચોરસ"
+    },
+    {
+      "surface": "והמזבח",
+      "gloss": "અને વેદી"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "સામે"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ઘરની"
+    }
+  ],
+  "timestamp": "2026-08-21T15:40:30.916330161Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 37:1",
+  "book": "genesis",
+  "lang": "gu",
+  "chapter": 37,
+  "translation": "અને યાકોબ પોતાના પિતાના પરદેશવાસના દેશમાં, કનાન દેશમાં વસ્યો.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "અને વસ્યો"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "યાકોબ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "દેશમાં"
+    },
+    {
+      "surface": "מגורי",
+      "gloss": "પરદેશવાસના"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "પોતાના પિતાના"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "દેશમાં"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "કનાન"
+    }
+  ],
+  "timestamp": "2026-08-21T10:57:41.689701964Z",
+  "model": "glm-5.3"
+}

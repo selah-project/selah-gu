@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ecclesiastes 7:22",
+  "book": "ecclesiastes",
+  "lang": "gu",
+  "chapter": 7,
+  "translation": "કેમ કે ઘણી વાર તારું હૃદય પોતે જાણે છે કે તું પણ ⟨את⟩ અન્યોને શાપ આપ્યો છે.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "કેમ કે"
+    },
+    {
+      "surface": "גם",
+      "gloss": "પણ"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "વારો"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "ઘણી"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "જાણે છે"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "તારું હૃદય"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "કે"
+    },
+    {
+      "surface": "גם",
+      "gloss": "પણ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "શાપ આપ્યો"
+    },
+    {
+      "surface": "קללת",
+      "gloss": "શાપ આપ્યો"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "અન્યોને"
+    }
+  ],
+  "timestamp": "2026-08-21T17:30:26.892017046Z",
+  "model": "glm-5.3"
+}

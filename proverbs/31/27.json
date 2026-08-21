@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 31:27",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 31,
+  "translation": "તે પોતાના ઘરના માર્ગોને ધ્યાનથી જુએ છે, અને આળસનો ખોરાક ખાતી નથી.",
+  "tokens": [
+    {
+      "surface": "צופיה",
+      "gloss": "તે ધ્યાનથી જુએ છે"
+    },
+    {
+      "surface": "הליכות",
+      "gloss": "માર્ગોને"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "પોતાના ઘરના"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "અને ખોરાક"
+    },
+    {
+      "surface": "עצלות",
+      "gloss": "આળસનો"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નથી"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "ખાતી"
+    }
+  ],
+  "timestamp": "2026-08-21T17:04:07.070299087Z",
+  "model": "glm-5.3"
+}

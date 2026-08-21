@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 5:12",
+  "book": "exodus",
+  "lang": "gu",
+  "chapter": 5,
+  "translation": "અને લોકો સમગ્ર મિત્સરાયિમ દેશમાં તણખા માટે કડવા ભેગા કરવા વિખરાઈ ગયા.",
+  "tokens": [
+    {
+      "surface": "ויפץ",
+      "gloss": "વિખરાઈ ગયા"
+    },
+    {
+      "surface": "העם",
+      "gloss": "લોકો"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "સમગ્ર"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "દેશમાં"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "મિત્સરાયિમ"
+    },
+    {
+      "surface": "לקשש",
+      "gloss": "ભેગા કરવા"
+    },
+    {
+      "surface": "קש",
+      "gloss": "કડવા"
+    },
+    {
+      "surface": "לתבן",
+      "gloss": "તણખા માટે"
+    }
+  ],
+  "timestamp": "2026-08-21T11:07:06.793080435Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "nehemiah 10:17",
+  "book": "nehemiah",
+  "lang": "gu",
+  "chapter": 10,
+  "translation": "અદોનિયા, બિગવાય, અદીન,",
+  "tokens": [
+    {
+      "surface": "אדניה",
+      "gloss": "અદોનિયા"
+    },
+    {
+      "surface": "בגוי",
+      "gloss": "બિગવાય"
+    },
+    {
+      "surface": "עדין",
+      "gloss": "અદીન"
+    }
+  ],
+  "timestamp": "2026-08-21T17:56:40.539056612Z",
+  "model": "glm-5.3"
+}

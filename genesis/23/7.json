@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 23:7",
+  "book": "genesis",
+  "lang": "gu",
+  "chapter": 23,
+  "translation": "અને અવ્રાહામ ઊઠ્યો, અને દેશના લોકોને — ખેતના પુત્રોને — પ્રણામ કર્યો.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "ઊઠ્યો"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "અવ્રાહામ"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "પ્રણામ કર્યો"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "લોકોને"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "દેશના"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "પુત્રોને"
+    },
+    {
+      "surface": "חת",
+      "gloss": "ખેતના"
+    }
+  ],
+  "timestamp": "2026-08-21T10:47:22.396422954Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 3:11",
+  "book": "leviticus",
+  "lang": "gu",
+  "chapter": 3,
+  "translation": "અને ⟨the⟩ પુરોહિત તેને ⟨the⟩ યજ્ઞવેદી પર ધુમાડશે — યાહવે માટે અગ્નિ-ભેટનું ભોજન.",
+  "tokens": [
+    {
+      "surface": "והקטירו",
+      "gloss": "ધુમાડશે"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "પુરોહિત"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "યજ્ઞવેદી પર"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ભોજન"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "અગ્નિ-ભેટનું"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "યાહવે માટે"
+    }
+  ],
+  "timestamp": "2026-08-21T11:29:35.367799896Z",
+  "model": "glm-5.3"
+}

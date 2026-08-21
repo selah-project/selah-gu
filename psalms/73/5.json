@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 73:5",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 73,
+  "translation": "નશ્વર મનુષ્યના દુઃખમાં તેઓ નથી, અને માનવ સાથે તેઓ પીડિત થતા નથી.",
+  "tokens": [
+    {
+      "surface": "בעמל",
+      "gloss": "દુઃખમાં"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "નશ્વર મનુષ્ય"
+    },
+    {
+      "surface": "אינמו",
+      "gloss": "તેઓ નથી"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "અને સાથે"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "માનવ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "ינגעו",
+      "gloss": "પીડિત થાય"
+    }
+  ],
+  "timestamp": "2026-08-21T16:30:06.345691076Z",
+  "model": "glm-5.3"
+}

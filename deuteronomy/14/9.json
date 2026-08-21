@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 14:9",
+  "book": "deuteronomy",
+  "lang": "gu",
+  "chapter": 14,
+  "translation": "⟨את⟩ આ તમે ખાશો, જે કંઈ પાણીમાં છે તે સર્વમાંથી; જેને પખડ અને ભીંગડી છે તે સર્વ તમે ખાશો.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "આ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "આ"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "તમે ખાશો"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "સર્વમાંથી"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જે કંઈ"
+    },
+    {
+      "surface": "במים",
+      "gloss": "પાણીમાં"
+    },
+    {
+      "surface": "כל",
+      "gloss": "સર્વ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જે"
+    },
+    {
+      "surface": "לו",
+      "gloss": "જેને છે"
+    },
+    {
+      "surface": "סנפיר",
+      "gloss": "પખડ"
+    },
+    {
+      "surface": "וקשקשת",
+      "gloss": "અને ભીંગડી"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "તમે ખાશો"
+    }
+  ],
+  "timestamp": "2026-08-21T12:19:38.037178575Z",
+  "model": "glm-5.3"
+}

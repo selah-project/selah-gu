@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "nehemiah 10:18",
+  "book": "nehemiah",
+  "lang": "gu",
+  "chapter": 10,
+  "translation": "આતેર, ખિઝકિયા, અઝ્ઝુર,",
+  "tokens": [
+    {
+      "surface": "אטר",
+      "gloss": "આતેર"
+    },
+    {
+      "surface": "חזקיה",
+      "gloss": "ખિઝકિયા"
+    },
+    {
+      "surface": "עזור",
+      "gloss": "અઝ્ઝુર"
+    }
+  ],
+  "timestamp": "2026-08-21T17:56:40.539241314Z",
+  "model": "glm-5.3"
+}

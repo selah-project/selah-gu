@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 16:20",
+  "book": "jeremiah",
+  "lang": "gu",
+  "chapter": 16,
+  "translation": "શું માણસ પોતાના માટે એલોહીમ બનાવશે? અને તે એલોહીમ નથી!",
+  "tokens": [
+    {
+      "surface": "היעשה",
+      "gloss": "શું બનાવશે"
+    },
+    {
+      "surface": "לו",
+      "gloss": "પોતાના માટે"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "માણસ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "એલોહીમ"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "અને તે"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નથી"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "એલોહીમ"
+    }
+  ],
+  "timestamp": "2026-08-21T14:52:57.304718750Z",
+  "model": "glm-5.3"
+}

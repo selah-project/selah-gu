@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 40:23",
+  "book": "exodus",
+  "lang": "gu",
+  "chapter": 40,
+  "translation": "અને તેણે તેની પર યાહવેની સામે રોટલીની હાર ગોઠવી — જેમ યાહવેએ ⟨את⟩ મૂશાને આજ્ઞા કરી.",
+  "tokens": [
+    {
+      "surface": "ויערך",
+      "gloss": "ગોઠવી"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "તેની પર"
+    },
+    {
+      "surface": "ערך",
+      "gloss": "હાર"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "રોટલીની"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "સામે"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવેની"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "જેમ"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "આજ્ઞા કરી"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવેએ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "મૂશા"
+    },
+    {
+      "surface": "משה",
+      "gloss": "મૂશા"
+    }
+  ],
+  "timestamp": "2026-08-21T11:29:12.358558169Z",
+  "model": "glm-5.3"
+}

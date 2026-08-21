@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 121:7",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 121,
+  "translation": "યાહવે તને સર્વ દુષ્ટતાથી રખશે; ⟨એ⟩ તારી ⟨નફશને⟩ રખશે.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "ישמרך",
+      "gloss": "તને રખશે"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "સર્વ...થી"
+    },
+    {
+      "surface": "רע",
+      "gloss": "દુષ્ટતા"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "રખશે"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "તારી નફશ"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "તારી નફશ"
+    }
+  ],
+  "timestamp": "2026-08-21T16:45:51.765375891Z",
+  "model": "glm-5.3"
+}

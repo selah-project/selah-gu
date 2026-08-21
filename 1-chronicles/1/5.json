@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 1:5",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 1,
+  "translation": "યાફેતના પુત્રો: ગોમેર, માગોગ, માદાય, યાવાન, તૂબલ, મેશેખ અને તીરાસ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "યાફેત"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "ગોમેર"
+    },
+    {
+      "surface": "ומגוג",
+      "gloss": "માગોગ"
+    },
+    {
+      "surface": "ומדי",
+      "gloss": "માદાય"
+    },
+    {
+      "surface": "ויון",
+      "gloss": "યાવાન"
+    },
+    {
+      "surface": "ותבל",
+      "gloss": "તૂબલ"
+    },
+    {
+      "surface": "ומשך",
+      "gloss": "מেશேખ"
+    },
+    {
+      "surface": "ותירס",
+      "gloss": "તીરાસ"
+    }
+  ],
+  "timestamp": "2026-08-21T17:59:16.854636567Z",
+  "model": "glm-5.3"
+}

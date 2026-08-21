@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 36:28",
+  "book": "genesis",
+  "lang": "gu",
+  "chapter": 36,
+  "translation": "આ છે દિશાનનાં પુત્રો: ઉત્સ અને અરાન.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "આ છે"
+    },
+    {
+      "surface": "בני",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "דישן",
+      "gloss": "દિશાનનાં"
+    },
+    {
+      "surface": "עוץ",
+      "gloss": "ઉત્સ"
+    },
+    {
+      "surface": "וארן",
+      "gloss": "અને અરાન"
+    }
+  ],
+  "timestamp": "2026-08-21T10:56:35.290573502Z",
+  "model": "glm-5.3"
+}

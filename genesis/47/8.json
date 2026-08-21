@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 47:8",
+  "book": "genesis",
+  "lang": "gu",
+  "chapter": 47,
+  "translation": "અને ફારોએ યાકોવને કહ્યું: તારા જીવનનાં વર્ષોનાં દિવસો કેટલાં છે?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "અને કહ્યું"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ફારોએ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "પાસે"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "યાકોવને"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "કેટલાં"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "દિવસો"
+    },
+    {
+      "surface": "שני",
+      "gloss": "વર્ષોનાં"
+    },
+    {
+      "surface": "חייך",
+      "gloss": "તારા જીવનનાં"
+    }
+  ],
+  "timestamp": "2026-08-21T11:03:54.528016938Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 7:24",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 7,
+  "translation": "ત્રીજા દિવસે ઝવૂલૂનનાં પુત્રોનો નસીબ — એલિઆબ પુત્ર ખેલોન.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "દિવસે"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "ત્રીજા"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "નસીબ"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "પુત્રોનો"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "ઝવૂલૂન"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "એલિઆબ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "પુત્ર"
+    },
+    {
+      "surface": "חלן",
+      "gloss": "ખેલોન"
+    }
+  ],
+  "timestamp": "2026-08-21T11:52:03.174896972Z",
+  "model": "glm-5.3"
+}

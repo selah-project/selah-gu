@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "lamentations 3:37",
+  "book": "lamentations",
+  "lang": "gu",
+  "chapter": 3,
+  "translation": "આ કોણ છે જેણે કહ્યું અને તે થયું, જ્યારે અદોનાયે તેની આજ્ઞા કરી નથી?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "કોણ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "આ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "કહ્યું"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "અને તે થયું"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "અદોનાયે"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નથી"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "આજ્ઞા કરી"
+    }
+  ],
+  "timestamp": "2026-08-21T17:25:37.884958471Z",
+  "model": "glm-5.3"
+}

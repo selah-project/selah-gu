@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 37:19",
+  "book": "genesis",
+  "lang": "gu",
+  "chapter": 37,
+  "translation": "અને તેઓ એકબીજાને કહેવા લાગ્યા, “જુઓ, ⟨the⟩ સ્વપ્નોનો માલિક એ આવી રહ્યો છે!”",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "અને કહેવા લાગ્યા"
+    },
+    {
+      "surface": "איש",
+      "gloss": "એક"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ને"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "પોતાના ભાઈને"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "જુઓ"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "માલિક"
+    },
+    {
+      "surface": "החלמות",
+      "gloss": "સ્વપ્નોનો"
+    },
+    {
+      "surface": "הלזה",
+      "gloss": "એ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "આવી રહ્યો છે"
+    }
+  ],
+  "timestamp": "2026-08-21T10:57:29.672965989Z",
+  "model": "glm-5.3"
+}

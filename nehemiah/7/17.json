@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "nehemiah 7:17",
+  "book": "nehemiah",
+  "lang": "gu",
+  "chapter": 7,
+  "translation": "અઝગદનાં પુત્રો — બે હજાર ત્રણસો વીસ અને બે.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "עזגד",
+      "gloss": "અઝગદ"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "બે હજાર"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ત્રણ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "સો"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "વીસ"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "અને બે"
+    }
+  ],
+  "timestamp": "2026-08-21T17:54:54.721000428Z",
+  "model": "glm-5.3"
+}

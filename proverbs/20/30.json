@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 20:30",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 20,
+  "translation": "જખમનાં ચકતા દુષ્ટતાને ઘસી કાઢે છે, અને માર ⟨reach⟩ પેટનાં અંદરનાં કોઠારાં.",
+  "tokens": [
+    {
+      "surface": "חברות",
+      "gloss": "ચકતા"
+    },
+    {
+      "surface": "פצע",
+      "gloss": "જખમનાં"
+    },
+    {
+      "surface": "תמריק",
+      "gloss": "ઘસી કાઢે છે"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "દુષ્ટતાને"
+    },
+    {
+      "surface": "ומכות",
+      "gloss": "અને માર"
+    },
+    {
+      "surface": "חדרי",
+      "gloss": "અંદરનાં કોઠારાં"
+    },
+    {
+      "surface": "בטן",
+      "gloss": "પેટનાં"
+    }
+  ],
+  "timestamp": "2026-08-21T16:58:24.067514112Z",
+  "model": "glm-5.3"
+}

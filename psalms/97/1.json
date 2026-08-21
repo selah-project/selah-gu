@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 97:1",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 97,
+  "translation": "યાહવે રાજ્ય કરે છે — પૃથ્વી આનંદ કરે, અનેક ટાપુઓ ઉલ્લાસ કરે.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "રાજ્ય કરે છે"
+    },
+    {
+      "surface": "תגל",
+      "gloss": "આનંદ કરે"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "પૃથ્વી"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "ઉલ્લાસ કરે"
+    },
+    {
+      "surface": "איים",
+      "gloss": "ટાપુઓ"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "અનેક"
+    }
+  ],
+  "timestamp": "2026-08-21T16:37:09.190914338Z",
+  "model": "glm-5.3"
+}

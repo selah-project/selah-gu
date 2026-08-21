@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "jeremiah 5:18",
+  "book": "jeremiah",
+  "lang": "gu",
+  "chapter": 5,
+  "translation": "છતાં પણ એ દિવસોમાં — યાહવેનો નિર્દેશ — હું તમારો ⟨את⟩ સંપૂર્ણ અંત નહીં કરું.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "છતાં પણ"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "દિવસોમાં"
+    },
+    {
+      "surface": "ההמה",
+      "gloss": "એ"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "નિર્દેશ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "હું કરું"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "તમારો"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "સંપૂર્ણ અંત"
+    }
+  ],
+  "timestamp": "2026-08-21T14:47:18.259128960Z",
+  "model": "glm-5.3"
+}

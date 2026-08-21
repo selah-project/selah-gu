@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 2:1",
+  "book": "ecclesiastes",
+  "lang": "gu",
+  "chapter": 2,
+  "translation": "મેં મારા હૃદયમાં કહ્યું: ચાલ, હવે હું તને આનંદથી પરખીશ અને ભલાઈમાં જોઈશ; અને જુઓ, પણ ⟨એ⟩ પણ હવેલ ⟨છે⟩.",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "મેં કહ્યું"
+    },
+    {
+      "surface": "אני",
+      "gloss": "હું"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "મારા હૃદયમાં"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "ચાલ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "હવે"
+    },
+    {
+      "surface": "אנסכה",
+      "gloss": "હું પરખીશ"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "આનંદથી"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "અને જોઈશ"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "ભલાઈમાં"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "અને જુઓ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "પણ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨એ⟩"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "હવેલ"
+    }
+  ],
+  "timestamp": "2026-08-21T17:29:41.401771908Z",
+  "model": "glm-5.3"
+}

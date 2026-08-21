@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 4:18",
+  "book": "deuteronomy",
+  "lang": "gu",
+  "chapter": 4,
+  "translation": "જમીન પર સરકનાર કોઈપણ જીવનાં સ્વરૂપની, પૃથ્વી નીચેના પાણીમાં રહેતી કોઈપણ માછલીનાં સ્વરૂપની,",
+  "tokens": [
+    {
+      "surface": "תבנית",
+      "gloss": "સ્વરૂપની"
+    },
+    {
+      "surface": "כל",
+      "gloss": "કોઈપણ"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "સરકનાર જીવ"
+    },
+    {
+      "surface": "באדמה",
+      "gloss": "જમીન પર"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "સ્વરૂપની"
+    },
+    {
+      "surface": "כל",
+      "gloss": "કોઈપણ"
+    },
+    {
+      "surface": "דגה",
+      "gloss": "માછલીનાં"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જે"
+    },
+    {
+      "surface": "במים",
+      "gloss": "પાણીમાં રહેતી"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "નીચે"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "પૃથ્વી"
+    }
+  ],
+  "timestamp": "2026-08-21T12:16:17.293848640Z",
+  "model": "glm-5.3"
+}

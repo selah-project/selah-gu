@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 31:1",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 31,
+  "translation": "લેમુએલ રાજાનાં વચનો, ⟨એ⟩ ભાર જે તેની માતાએ તેને શિખામણ આપી.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "વચનો"
+    },
+    {
+      "surface": "למואל",
+      "gloss": "લેમુએલ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "રાજાનાં"
+    },
+    {
+      "surface": "משא",
+      "gloss": "ભાર"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જે"
+    },
+    {
+      "surface": "יסרתו",
+      "gloss": "તેને શિખામણ આપી"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "તેની માતાએ"
+    }
+  ],
+  "timestamp": "2026-08-21T17:04:08.518626930Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 6:9",
+  "book": "deuteronomy",
+  "lang": "gu",
+  "chapter": 6,
+  "translation": "અને તું તેમને તારા ઘરના દરવાજાના થંભાઓ પર અને તારા દરવાજાઓ પર લખીશ.",
+  "tokens": [
+    {
+      "surface": "וכתבתם",
+      "gloss": "અને તું લખીશ"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "מזוזת",
+      "gloss": "દરવાજાના થંભાઓ"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "તારા ઘરના"
+    },
+    {
+      "surface": "ובשעריך",
+      "gloss": "અને તારા દરવાજાઓ પર"
+    }
+  ],
+  "timestamp": "2026-08-21T12:15:21.785848266Z",
+  "model": "glm-5.3"
+}

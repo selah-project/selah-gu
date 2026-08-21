@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 18:9",
+  "book": "deuteronomy",
+  "lang": "gu",
+  "chapter": 18,
+  "translation": "જ્યારે તું એ દેશમાં આવે છે જે યાહવે તારો એલોહીમ તને આપે છે, તો તું એ પ્રજાઓની ઘૃણાસ્પદ બાબતોની જેમ કરવા શીખીશ નહીં.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "જ્યારે"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "તું"
+    },
+    {
+      "surface": "בא",
+      "gloss": "આવે છે"
+    },
+    {
+      "surface": "אל",
+      "gloss": "માં"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "એ દેશ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જે"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "તારો એલોહીમ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "આપે છે"
+    },
+    {
+      "surface": "לך",
+      "gloss": "તને"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "תלמד",
+      "gloss": "શીખીશ"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "કરવા"
+    },
+    {
+      "surface": "כתועבת",
+      "gloss": "ઘૃણાસ્પદ બાબતોની જેમ"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "એ પ્રજાઓની"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "એ"
+    }
+  ],
+  "timestamp": "2026-08-21T12:22:42.038200558Z",
+  "model": "glm-5.3"
+}

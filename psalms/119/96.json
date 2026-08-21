@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 96,
+  "ref": "psalms 119:96",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 119,
+  "translation": "દરેક પરિપૂર્ણતાનો અંત મેં જોયો છે; તારી આજ્ઞા તો અત્યંત વિશાળ છે.",
+  "tokens": [
+    {
+      "surface": "לכל",
+      "gloss": "દરેક"
+    },
+    {
+      "surface": "תכלה",
+      "gloss": "પરિપૂર્ણતા"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "મેં જોયો છે"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "અંત"
+    },
+    {
+      "surface": "רחבה",
+      "gloss": "વિશાળ"
+    },
+    {
+      "surface": "מצותך",
+      "gloss": "તારી આજ્ઞા"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "અત્યંત"
+    }
+  ],
+  "timestamp": "2026-08-21T16:44:21.117020809Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 21:27",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 21,
+  "translation": "અને યાહવેએ દૂતને કહ્યું, અને તેણે ⟨પોતાની⟩ તલવાર મ્યાનમાં પાછી મૂકી.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "કહ્યું"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવેએ"
+    },
+    {
+      "surface": "למלאך",
+      "gloss": "દૂતને"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "પાછી મૂકી"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "તેની તલવાર"
+    },
+    {
+      "surface": "אל",
+      "gloss": "માં"
+    },
+    {
+      "surface": "נדנה",
+      "gloss": "તેની મ્યાન"
+    }
+  ],
+  "timestamp": "2026-08-21T18:09:01.803079806Z",
+  "model": "glm-5.3"
+}

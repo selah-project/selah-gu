@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "numbers 26:53",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 26,
+  "translation": "આ સૌની વચ્ચે ⟨the⟩ ભૂમિ વારસા રૂપે વહેંચાશે, નામોની સંખ્યા પ્રમાણે.",
+  "tokens": [
+    {
+      "surface": "לאלה",
+      "gloss": "આ સૌની વચ્ચે"
+    },
+    {
+      "surface": "תחלק",
+      "gloss": "વહેંચાશે"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ભૂમિ"
+    },
+    {
+      "surface": "בנחלה",
+      "gloss": "વારસા રૂપે"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "સંખ્યા પ્રમાણે"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "નામોની"
+    }
+  ],
+  "timestamp": "2026-08-21T12:05:48.741045421Z",
+  "model": "glm-5.3"
+}

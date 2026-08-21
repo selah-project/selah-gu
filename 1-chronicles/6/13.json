@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 6:13",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 6,
+  "translation": "અને શમુએલના પુત્રો: ⟨પહેલો⟩ વશ્ની અને અબીયા.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "અને…ના પુત્રો"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "શમુએલ"
+    },
+    {
+      "surface": "הבכר",
+      "gloss": "પહેલો (પહેલોત)"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "વશ્ની"
+    },
+    {
+      "surface": "ואביה",
+      "gloss": "અને અબીયા"
+    }
+  ],
+  "timestamp": "2026-08-21T18:02:49.946516935Z",
+  "model": "glm-5.3"
+}

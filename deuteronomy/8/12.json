@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 8:12",
+  "book": "deuteronomy",
+  "lang": "gu",
+  "chapter": 8,
+  "translation": "કે જોઈએ તું ખાશે અને સંતોષશે, અને સારાં ઘરો બાંધીશ અને તેમાં વસશે.",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "કે જોઈએ"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "તું ખાશે"
+    },
+    {
+      "surface": "ושבעת",
+      "gloss": "અને સંતોષશે"
+    },
+    {
+      "surface": "ובתים",
+      "gloss": "અને ઘરો"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "સારાં"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "બાંધીશ"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "અને વસશે"
+    }
+  ],
+  "timestamp": "2026-08-21T12:16:52.296384144Z",
+  "model": "glm-5.3"
+}

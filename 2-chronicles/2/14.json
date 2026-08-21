@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 2:14",
+  "book": "2-chronicles",
+  "lang": "gu",
+  "chapter": 2,
+  "translation": "અને હવે ઘઉં અને જવ, તેલ અને દારૂ, જે મારા માલિકે કહ્યું, તે તે પોતાના દાસોને મોકલે.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "અને હવે"
+    },
+    {
+      "surface": "החטים",
+      "gloss": "ઘઉં"
+    },
+    {
+      "surface": "והשערים",
+      "gloss": "અને જવ"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "તેલ"
+    },
+    {
+      "surface": "והיין",
+      "gloss": "અને દારૂ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જે"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "કહ્યું"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "મારા માલિકે"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "તે મોકલે"
+    },
+    {
+      "surface": "לעבדיו",
+      "gloss": "પોતાના દાસોને"
+    }
+  ],
+  "timestamp": "2026-08-21T18:17:01.998462632Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 12:13",
+  "book": "ecclesiastes",
+  "lang": "gu",
+  "chapter": 12,
+  "translation": "વાતનો અંત — બધું સંભળાઈ ગયું: એલોહીમને ડરો અને ⟨את⟩ તેની આજ્ઞાઓ પાળો, કારણ કે આ જ ⟨the⟩ માનવનું સમગ્ર ⟨is⟩.",
+  "tokens": [
+    {
+      "surface": "סוף",
+      "gloss": "અંત"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "વાતનો"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "બધું"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "સંભળાઈ ગયું"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "એલોહીમ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "એલોહીમને"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "ડરો"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "તેની આજ્ઞાઓ"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "તેની આજ્ઞાઓ"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "પાળો"
+    },
+    {
+      "surface": "כי",
+      "gloss": "કારણ કે"
+    },
+    {
+      "surface": "זה",
+      "gloss": "આ જ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "સમગ્ર"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "માનવનું"
+    }
+  ],
+  "timestamp": "2026-08-21T17:32:10.511024417Z",
+  "model": "glm-5.3"
+}

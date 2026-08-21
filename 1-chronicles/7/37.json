@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 7:37",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 7,
+  "translation": "બેત્સેર, અને હોદ, અને શમ્મા, અને શિલ્શા, અને યિત્રાન, અને બેરા.",
+  "tokens": [
+    {
+      "surface": "בצר",
+      "gloss": "બેત્સેર"
+    },
+    {
+      "surface": "והוד",
+      "gloss": "અને હોદ"
+    },
+    {
+      "surface": "ושמא",
+      "gloss": "અને શમ્મા"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "અને શિલ્શા"
+    },
+    {
+      "surface": "ויתרן",
+      "gloss": "અને યિત્રાન"
+    },
+    {
+      "surface": "ובארא",
+      "gloss": "અને બેરા"
+    }
+  ],
+  "timestamp": "2026-08-21T18:03:18.013086132Z",
+  "model": "glm-5.3"
+}

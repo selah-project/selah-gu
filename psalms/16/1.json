@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 16:1",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 16,
+  "translation": "મીખ્તામ, દાવૂદનો. મને રક્ષણ આપ, એલ, કારણ કે મેં તારામાં શરણ લીધી ⟨છે⟩.",
+  "tokens": [
+    {
+      "surface": "מכתם",
+      "gloss": "મીખ્તામ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "દાવૂદનો"
+    },
+    {
+      "surface": "שמרני",
+      "gloss": "મને રક્ષણ આપ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "એલ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "કારણ કે"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "શરણ લીધી"
+    },
+    {
+      "surface": "בך",
+      "gloss": "તારામાં"
+    }
+  ],
+  "timestamp": "2026-08-21T16:13:21.611840901Z",
+  "model": "glm-5.3"
+}

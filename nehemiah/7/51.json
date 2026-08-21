@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "nehemiah 7:51",
+  "book": "nehemiah",
+  "lang": "gu",
+  "chapter": 7,
+  "translation": "ગઝ્ઝામનાં પુત્રો, ઉઝ્ઝાનાં પુત્રો, પાસેખનાં પુત્રો,",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "גזם",
+      "gloss": "ગઝ્ઝામ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "עזא",
+      "gloss": "ઉઝ્ઝા"
+    },
+    {
+      "surface": "בני",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "પાસેખ"
+    }
+  ],
+  "timestamp": "2026-08-21T17:55:09.829375217Z",
+  "model": "glm-5.3"
+}

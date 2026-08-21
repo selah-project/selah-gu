@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "numbers 31:53",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 31,
+  "translation": "કેમ કે સૈનિકોના માણસોએ લૂંટી લીધું, દરેક માણસે ⟨તેની⟩ માટે.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "માણસોના"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "સૈનિકો"
+    },
+    {
+      "surface": "בזזו",
+      "gloss": "લૂંટી લીધું"
+    },
+    {
+      "surface": "איש",
+      "gloss": "દરેક માણસે"
+    },
+    {
+      "surface": "לו",
+      "gloss": "તેની માટે"
+    }
+  ],
+  "timestamp": "2026-08-21T12:07:30.030538331Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 66:15",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 66,
+  "translation": "ચરબીયુક્ત દહનાર્પણો તને ધૂપ સાથે ચઢાવીશ, મેડાઓ સાથે; બળદો બકરા સાથે કરીશ. સેલા.",
+  "tokens": [
+    {
+      "surface": "עלות",
+      "gloss": "દહનાર્પણો"
+    },
+    {
+      "surface": "מחים",
+      "gloss": "ચરબીયુક્ત"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "ચઢાવીશ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "તને"
+    },
+    {
+      "surface": "עם",
+      "gloss": "સાથે"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "ધૂપ"
+    },
+    {
+      "surface": "אילים",
+      "gloss": "મેડાઓ સાથે"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "કરીશ"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "બળદો"
+    },
+    {
+      "surface": "עם",
+      "gloss": "સાથે"
+    },
+    {
+      "surface": "עתודים",
+      "gloss": "બકરા"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "સેલા"
+    }
+  ],
+  "timestamp": "2026-08-21T16:27:30.158863031Z",
+  "model": "glm-5.3"
+}

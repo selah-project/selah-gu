@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 108:1",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 108,
+  "translation": "ગીત, મિઝમોર, દાવીદનું.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "ગીત"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "મિઝમોર (વાદ્ય-સાથનું સ્તોત્ર)"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "દાવીદનું"
+    }
+  ],
+  "timestamp": "2026-08-21T16:41:25.272906082Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "zechariah 11:15",
+  "book": "zechariah",
+  "lang": "gu",
+  "chapter": 11,
+  "translation": "અને યાહવે મને કહે છે: “ફરી તારી પાસે મૂર્ખ રખડાં-પાળનારનાં ઓજાર લે.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "અને કહે છે"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "મને"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ફરી"
+    },
+    {
+      "surface": "קח",
+      "gloss": "લે"
+    },
+    {
+      "surface": "לך",
+      "gloss": "તારી પાસે"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "ઓજાર"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "રખડાં-પાળનારનાં"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "મૂર્ખ"
+    }
+  ],
+  "timestamp": "2026-08-21T16:07:09.970096455Z",
+  "model": "glm-5.3"
+}

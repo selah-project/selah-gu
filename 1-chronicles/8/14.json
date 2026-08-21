@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 8:14",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 8,
+  "translation": "અને અખ્યો, અને શશાક, અને યરેમોત.",
+  "tokens": [
+    {
+      "surface": "ואחיו",
+      "gloss": "અને અખ્યો"
+    },
+    {
+      "surface": "ששק",
+      "gloss": "શશાક"
+    },
+    {
+      "surface": "וירמות",
+      "gloss": "અને યરેમોત"
+    }
+  ],
+  "timestamp": "2026-08-21T18:03:32.779840027Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 115:4",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 115,
+  "translation": "તેમના મૂર્તિઓ ચાંદી અને સોનાની ⟨છે⟩, માનવ-હાથના કાર્ય.",
+  "tokens": [
+    {
+      "surface": "עצביהם",
+      "gloss": "તેમના મૂર્તિઓ"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ચાંદી"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "અને સોનું"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "કાર્ય"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "હાથના"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "માનવ"
+    }
+  ],
+  "timestamp": "2026-08-21T16:40:54.838758914Z",
+  "model": "glm-5.3"
+}

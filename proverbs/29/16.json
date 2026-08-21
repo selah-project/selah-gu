@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 29:16",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 29,
+  "translation": "દુષ્ટોના વધવાથી અપરાધ વધે છે; પણ ન્યાયી લોકો તેમના પતનને જોશે.",
+  "tokens": [
+    {
+      "surface": "ברבות",
+      "gloss": "વધવાથી"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "દુષ્ટોના"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "વધે છે"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "અપરાધ"
+    },
+    {
+      "surface": "וצדיקים",
+      "gloss": "પણ ન્યાયી લોકો"
+    },
+    {
+      "surface": "במפלתם",
+      "gloss": "તેમના પતનને"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "જોશે"
+    }
+  ],
+  "timestamp": "2026-08-21T17:02:54.163278018Z",
+  "model": "glm-5.3"
+}

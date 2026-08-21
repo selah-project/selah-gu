@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 14:5",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 14,
+  "translation": "ત્યારે મોશે અને અહરોન ઇસ્રાએલના પુત્રોની સભાના સમગ્ર પરિષદ સમક્ષ પોતાના મુખ પર પડી ગયા.",
+  "tokens": [
+    {
+      "surface": "ויפל",
+      "gloss": "પડી ગયા"
+    },
+    {
+      "surface": "משה",
+      "gloss": "મોશે"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "અને અહરોન"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "પોતાના મુખ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "સમક્ષ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "સમગ્ર"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "પરિષદ"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "સભા"
+    },
+    {
+      "surface": "בני",
+      "gloss": "પુત્રોની"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ઇસ્રાએલ"
+    }
+  ],
+  "timestamp": "2026-08-21T11:56:24.707118248Z",
+  "model": "glm-5.3"
+}

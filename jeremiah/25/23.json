@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 25:23",
+  "book": "jeremiah",
+  "lang": "gu",
+  "chapter": 25,
+  "translation": "અને દેદાનને, અને તેમાને, અને બૂઝને, અને પાર્શ્વ કાપનારા સર્વને.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "અને ⟨את⟩",
+      "marks": "દેદાન"
+    },
+    {
+      "surface": "דדן",
+      "gloss": "દેદાન"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "અને ⟨את⟩",
+      "marks": "તેમા"
+    },
+    {
+      "surface": "תימא",
+      "gloss": "તેમા"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "અને ⟨את⟩",
+      "marks": "બૂઝ"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "બૂઝ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "અને ⟨את⟩",
+      "marks": "પાર્શ્વ કાપનારા સર્વ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "સર્વ"
+    },
+    {
+      "surface": "קצוצי",
+      "gloss": "કાપનારા"
+    },
+    {
+      "surface": "פאה",
+      "gloss": "પાર્શ્વ"
+    }
+  ],
+  "timestamp": "2026-08-21T14:57:08.095916520Z",
+  "model": "glm-5.3"
+}

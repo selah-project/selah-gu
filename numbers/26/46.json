@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "numbers 26:46",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 26,
+  "translation": "અને આશેરની પુત્રીનું નામ સેરાખ ⟨હતું⟩.",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "અને નામ"
+    },
+    {
+      "surface": "בת",
+      "gloss": "પુત્રી"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "આશેર"
+    },
+    {
+      "surface": "שרח",
+      "gloss": "સેરાખ"
+    }
+  ],
+  "timestamp": "2026-08-21T12:05:40.075093134Z",
+  "model": "glm-5.3"
+}

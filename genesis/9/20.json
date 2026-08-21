@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 9:20",
+  "book": "genesis",
+  "lang": "gu",
+  "chapter": 9,
+  "translation": "અને નોખા — જમીનનો માણસ — તેણે દ્રાક્ષાવાડી રોપી અને શરૂ કરી.",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "અને શરૂ કરી"
+    },
+    {
+      "surface": "נח",
+      "gloss": "નોખા"
+    },
+    {
+      "surface": "איש",
+      "gloss": "માણસ"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "જમીનનો"
+    },
+    {
+      "surface": "ויטע",
+      "gloss": "તેણે રોપી"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "દ્રાક્ષાવાડી"
+    }
+  ],
+  "timestamp": "2026-08-21T10:39:40.395695323Z",
+  "model": "glm-5.3"
+}

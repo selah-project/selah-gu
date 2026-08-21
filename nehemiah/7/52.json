@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "nehemiah 7:52",
+  "book": "nehemiah",
+  "lang": "gu",
+  "chapter": 7,
+  "translation": "બેસાયનાં પુત્રો, મઆુનિમનાં પુત્રો, નફુશેસિમનાં પુત્રો,",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "בסי",
+      "gloss": "બેસાય"
+    },
+    {
+      "surface": "בני",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "מעונים",
+      "gloss": "મઆુનિમ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "נפושסים",
+      "gloss": "નફુશેસિમ"
+    }
+  ],
+  "timestamp": "2026-08-21T17:55:09.829523537Z",
+  "model": "glm-5.3"
+}

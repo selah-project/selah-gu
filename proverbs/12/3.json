@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 12:3",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 12,
+  "translation": "દુષ્ટતાથી માણસ સ્થિર થતો નથી, અને ન્યાયીઓનું મૂળ કદી ડોલતું નથી.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "નથી"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "સ્થિર થતો"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "માણસ"
+    },
+    {
+      "surface": "ברשע",
+      "gloss": "દુષ્ટતાથી"
+    },
+    {
+      "surface": "ושרש",
+      "gloss": "અને મૂળ"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "ન્યાયીઓનું"
+    },
+    {
+      "surface": "בל",
+      "gloss": "કદી"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "ડોલતું નથી"
+    }
+  ],
+  "timestamp": "2026-08-21T16:55:41.963074634Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 4:5",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 4,
+  "translation": "ખરીદી લો ચતુરાઈ, ખરીદી લો સમજ; ભૂલશો નહીં, અને મારા મુખનાં વચનોથી વળી જશો નહીં.",
+  "tokens": [
+    {
+      "surface": "קנה",
+      "gloss": "ખરીદી લો"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ચતુરાઈ"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "ખરીદી લો"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "સમજ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "ભૂલશો"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "અને નહીં"
+    },
+    {
+      "surface": "תט",
+      "gloss": "વળી જશો"
+    },
+    {
+      "surface": "מאמרי",
+      "gloss": "વચનોથી"
+    },
+    {
+      "surface": "פי",
+      "gloss": "મારા મુખનાં"
+    }
+  ],
+  "timestamp": "2026-08-21T16:51:59.551738024Z",
+  "model": "glm-5.3"
+}

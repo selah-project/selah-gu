@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 24:20",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 24,
+  "translation": "કેમ કે દુષ્ટ માટે અંત રહેશે નહીં; દુરાચારીઓનો દીવો ઓલવાઈ જશે.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "કેમ કે"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "રહેશે"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "અંત"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "દુષ્ટ માટે"
+    },
+    {
+      "surface": "נר",
+      "gloss": "દીવો"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "દુરાચારીઓનો"
+    },
+    {
+      "surface": "ידעך",
+      "gloss": "ઓલવાઈ જશે"
+    }
+  ],
+  "timestamp": "2026-08-21T17:00:34.440008280Z",
+  "model": "glm-5.3"
+}

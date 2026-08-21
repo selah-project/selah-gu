@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 18:7",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 18,
+  "translation": "અને દાવિદે હદદેઝેરના સેવકો પર હતાં તે ⟨સોના⟩ ઢાલ ⟨את⟩ લીધાં, અને તેને યરૂશાલાયિમ લઈ ગયો.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "લીધાં"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "દાવિદે"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ઢાલ"
+    },
+    {
+      "surface": "שלטי",
+      "gloss": "ઢાલ"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "સોના"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જે"
+    },
+    {
+      "surface": "היו",
+      "gloss": "હતાં"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "સેવકો"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "હદદેઝેરના"
+    },
+    {
+      "surface": "ויביאם",
+      "gloss": "લઈ ગયો"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "યરૂશાલાયિમ"
+    }
+  ],
+  "timestamp": "2026-08-21T18:10:14.245025693Z",
+  "model": "glm-5.3"
+}

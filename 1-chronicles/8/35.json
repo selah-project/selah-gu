@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 8:35",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 8,
+  "translation": "અને મીખાના પુત્રો ⟨હતા⟩: પીથોન, અને મેલેખ, અને તઆરેઆ, અને આખાઝ.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "અને પુત્રો"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "મીખા"
+    },
+    {
+      "surface": "פיתון",
+      "gloss": "પીથોન"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "અને મેલેખ"
+    },
+    {
+      "surface": "ותארע",
+      "gloss": "અને તઆરેઆ"
+    },
+    {
+      "surface": "ואחז",
+      "gloss": "અને આખાઝ"
+    }
+  ],
+  "timestamp": "2026-08-21T18:05:50.239205301Z",
+  "model": "glm-5.3"
+}

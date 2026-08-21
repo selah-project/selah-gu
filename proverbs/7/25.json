@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 7:25",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 7,
+  "translation": "તેની માર્ગો તરફ તારું હૃદય ઢળે નહીં, તેની પગથિયાઓમાં ભટકે નહીં.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "ישט",
+      "gloss": "ઢળે"
+    },
+    {
+      "surface": "אל",
+      "gloss": "તરફ"
+    },
+    {
+      "surface": "דרכיה",
+      "gloss": "તેની માર્ગો"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "તારું હૃદય"
+    },
+    {
+      "surface": "אל",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "תתע",
+      "gloss": "ભટકે"
+    },
+    {
+      "surface": "בנתיבותיה",
+      "gloss": "તેની પગથિયાઓમાં"
+    }
+  ],
+  "timestamp": "2026-08-21T16:53:17.114042347Z",
+  "model": "glm-5.3"
+}

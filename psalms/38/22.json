@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 38:22",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 38,
+  "translation": "મને છોડી ન દે, યાહવે; મારા એલોહી, મારાથી દૂર ન થઈશ.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ન"
+    },
+    {
+      "surface": "תעזבני",
+      "gloss": "મને છોડી દે"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "મારા એલોહી"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ન"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "દૂર ન થઈશ"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "મારાથી"
+    }
+  ],
+  "timestamp": "2026-08-21T16:20:11.420224573Z",
+  "model": "glm-5.3"
+}

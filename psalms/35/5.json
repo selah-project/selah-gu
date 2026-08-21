@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 35:5",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 35,
+  "translation": "તે પવન સામેના તણખા જેવા થાય, અને યાહવેનો દૂત ⟨તેમને⟩ ધકેલી દે.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "થાય"
+    },
+    {
+      "surface": "כמץ",
+      "gloss": "તણખા જેવા"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "સામે"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "પવન"
+    },
+    {
+      "surface": "ומלאך",
+      "gloss": "અને દૂત"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવેનો"
+    },
+    {
+      "surface": "דוחה",
+      "gloss": "ધકેલી દે"
+    }
+  ],
+  "timestamp": "2026-08-21T16:19:21.308711457Z",
+  "model": "glm-5.3"
+}

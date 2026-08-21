@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 9:10",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 9,
+  "translation": "જ્ઞાનનો આરંભ યાહવેનો ભય ⟨છે⟩, અને પવિત્રોનું જ્ઞાન સમજ ⟨છે⟩.",
+  "tokens": [
+    {
+      "surface": "תחלת",
+      "gloss": "આરંભ"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "જ્ઞાન"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "ભય"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "અને જ્ઞાન"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "પવિત્રોનું"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "સમજ"
+    }
+  ],
+  "timestamp": "2026-08-21T16:53:37.829360228Z",
+  "model": "glm-5.3"
+}

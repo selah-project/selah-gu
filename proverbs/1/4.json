@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 1:4",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 1,
+  "translation": "ભોળાઓને ચતુરાઈ આપવા માટે, તરુણને જ્ઞાન અને વિવેક આપવા માટે.",
+  "tokens": [
+    {
+      "surface": "לתת",
+      "gloss": "આપવા માટે"
+    },
+    {
+      "surface": "לפתאים",
+      "gloss": "ભોળાઓને"
+    },
+    {
+      "surface": "ערמה",
+      "gloss": "ચતુરાઈ"
+    },
+    {
+      "surface": "לנער",
+      "gloss": "તરુણને"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "જ્ઞાન"
+    },
+    {
+      "surface": "ומזמה",
+      "gloss": "અને વિવેક"
+    }
+  ],
+  "timestamp": "2026-08-21T16:50:52.493316897Z",
+  "model": "glm-5.3"
+}

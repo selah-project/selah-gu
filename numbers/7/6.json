@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 7:6",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 7,
+  "translation": "અને મોશેએ ⟨את⟩ ગાડીઓ અને ⟨את⟩ ઢોર લીધાં, અને તે લેવીઓને આપ્યાં.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "અને લીધાં"
+    },
+    {
+      "surface": "משה",
+      "gloss": "મોશેએ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ગાડીઓ"
+    },
+    {
+      "surface": "העגלת",
+      "gloss": "ગાડીઓ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "અને ⟨את⟩",
+      "marks": "ઢોર"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "ઢોર"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "અને આપ્યાં"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "તે ⟨את⟩",
+      "marks": "લેવીઓ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ને"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "લેવીઓ"
+    }
+  ],
+  "timestamp": "2026-08-21T11:51:45.700550032Z",
+  "model": "glm-5.3"
+}

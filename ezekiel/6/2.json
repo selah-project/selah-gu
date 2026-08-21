@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 6:2",
+  "book": "ezekiel",
+  "lang": "gu",
+  "chapter": 6,
+  "translation": "માનવના પુત્ર, તારું મુખ યિસ્રાએલના પર્વતો તરફ દોર અને તેની સામે પ્રબોધ કર;",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "પુત્ર"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "માનવના"
+    },
+    {
+      "surface": "שים",
+      "gloss": "દોર"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "તારું મુખ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "તરફ"
+    },
+    {
+      "surface": "הרי",
+      "gloss": "પર્વતો"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "યિસ્રાએલના"
+    },
+    {
+      "surface": "והנבא",
+      "gloss": "અને પ્રબોધ કર"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "તેની સામે"
+    }
+  ],
+  "timestamp": "2026-08-21T15:19:05.420731384Z",
+  "model": "glm-5.3"
+}

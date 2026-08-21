@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joshua 1:1",
+  "book": "joshua",
+  "lang": "gu",
+  "chapter": 1,
+  "translation": "અને યાહવેના દાસ મોશેના મૃત્યુ પછી તે થયું કે યાહવેએ મોશેના સેવક યહોશુઆ, નૂનના પુત્રને કહ્યું:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "અને તે થયું"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "પછી"
+    },
+    {
+      "surface": "מות",
+      "gloss": "મૃત્યુ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "મોશે"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "દાસ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "અને કહ્યું"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવેએ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ને"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "યહોશુઆ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "પુત્ર"
+    },
+    {
+      "surface": "נון",
+      "gloss": "નૂન"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "સેવક"
+    },
+    {
+      "surface": "משה",
+      "gloss": "મોશેના"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "કહેતા"
+    }
+  ],
+  "timestamp": "2026-08-21T12:34:35.513087387Z",
+  "model": "glm-5.3"
+}

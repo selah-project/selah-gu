@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 25:15",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 25,
+  "translation": "મારી આંખો સદા યાહવે તરફ છે, કારણ કે ⟨એ⟩ જ જાળમાંથી મારા પગ બહાર કાઢશે.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "મારી આંખો"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "સદા"
+    },
+    {
+      "surface": "אל",
+      "gloss": "તરફ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "כי",
+      "gloss": "કારણ કે"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨એ⟩ જ"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "બહાર કાઢશે"
+    },
+    {
+      "surface": "מרשת",
+      "gloss": "જાળમાંથી"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "મારા પગ"
+    }
+  ],
+  "timestamp": "2026-08-21T16:16:24.692360905Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 6:16",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 6,
+  "translation": "આ છ વસ્તુઓ યાહવે ધિક્કારે છે, અને સાત તેના પ્રાણને ધિક્કારપાત્ર ⟨છે⟩.",
+  "tokens": [
+    {
+      "surface": "שש",
+      "gloss": "છ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "આ"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "ધિક્કારે છે"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "અને સાત"
+    },
+    {
+      "surface": "תועבות",
+      "gloss": "ધિક્કારપાત્ર વસ્તુઓ"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "તેના પ્રાણને"
+    }
+  ],
+  "timestamp": "2026-08-21T16:53:52.525923115Z",
+  "model": "glm-5.3"
+}

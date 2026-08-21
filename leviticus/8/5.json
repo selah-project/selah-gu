@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 8:5",
+  "book": "leviticus",
+  "lang": "gu",
+  "chapter": 8,
+  "translation": "અને મોશેએ સભાને કહ્યું, “આ ⟨is⟩ તે વચન જે યાહવેએ કરવાની આજ્ઞા આપી ⟨has⟩.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "અને કહ્યું"
+    },
+    {
+      "surface": "משה",
+      "gloss": "મોશેએ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ને"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "સભા"
+    },
+    {
+      "surface": "זה",
+      "gloss": "આ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "વચન"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જે"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "આજ્ઞા આપી"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવેએ"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "કરવાની"
+    }
+  ],
+  "timestamp": "2026-08-21T11:34:08.958237105Z",
+  "model": "glm-5.3"
+}

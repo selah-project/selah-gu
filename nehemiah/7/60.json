@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "nehemiah 7:60",
+  "book": "nehemiah",
+  "lang": "gu",
+  "chapter": 7,
+  "translation": "બધા નતીનીઓ અને શલોમોનના દાસોના પુત્રો ⟨એટલે⟩ ત્રણ સો બિંનેવું અને બે.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "બધા"
+    },
+    {
+      "surface": "הנתינים",
+      "gloss": "નતીનીઓ"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "અને પુત્રો"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "દાસોના"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "શલોમોના"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ત્રણ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "સો"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "બિંનેવું"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "અને બે"
+    }
+  ],
+  "timestamp": "2026-08-21T17:55:19.944191573Z",
+  "model": "glm-5.3"
+}

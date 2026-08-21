@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 27:8",
+  "book": "deuteronomy",
+  "lang": "gu",
+  "chapter": 27,
+  "translation": "અને તમે ⟨את⟩ ⟨the⟩ પથ્થરો પર આ તોરાહનાં બધાં જ વચનો સ્પષ્ટપણે કોતરીને લખશો.",
+  "tokens": [
+    {
+      "surface": "וכתבת",
+      "gloss": "અને લખશો"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "પથ્થરો"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "બધાં વચનો"
+    },
+    {
+      "surface": "כל",
+      "gloss": "બધાં"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "વચનો"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "આ તોરાહનાં"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "આ"
+    },
+    {
+      "surface": "באר",
+      "gloss": "કોતરીને સ્પષ્ટ કરીને"
+    },
+    {
+      "surface": "היטב",
+      "gloss": "સ્પષ્ટપણે"
+    }
+  ],
+  "timestamp": "2026-08-21T12:26:04.983258687Z",
+  "model": "glm-5.3"
+}

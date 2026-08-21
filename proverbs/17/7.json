@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 17:7",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 17,
+  "translation": "મૂર્ખ માટે ઉત્તમ વાણી શોભે છે નહીં; તો ઉદાર માટે ખોટી વાણી કેમ શોભે!",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "શોભે છે"
+    },
+    {
+      "surface": "לנבל",
+      "gloss": "મૂર્ખ માટે"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "વાણી"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "ઉત્તમ"
+    },
+    {
+      "surface": "אף",
+      "gloss": "તો"
+    },
+    {
+      "surface": "כי",
+      "gloss": "કેમ"
+    },
+    {
+      "surface": "לנדיב",
+      "gloss": "ઉદાર માટે"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "વાણી"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ખોટી"
+    }
+  ],
+  "timestamp": "2026-08-21T16:57:55.576054085Z",
+  "model": "glm-5.3"
+}

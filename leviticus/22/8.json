@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 22:8",
+  "book": "leviticus",
+  "lang": "gu",
+  "chapter": 22,
+  "translation": "મૃત પ્રાણી કે શિકારીએ ફાડેલું તે ⟨તે⟩ ખાશે નહીં, તેનાથી અશુદ્ધ થવા; હું યાહવે છું.",
+  "tokens": [
+    {
+      "surface": "נבלה",
+      "gloss": "મૃત પ્રાણી"
+    },
+    {
+      "surface": "וטרפה",
+      "gloss": "કે શિકારીએ ફાડેલું"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ખાશે"
+    },
+    {
+      "surface": "לטמאה",
+      "gloss": "અશુદ્ધ થવા"
+    },
+    {
+      "surface": "בה",
+      "gloss": "તેનાથી"
+    },
+    {
+      "surface": "אני",
+      "gloss": "હું"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    }
+  ],
+  "timestamp": "2026-08-21T11:41:57.361938179Z",
+  "model": "glm-5.3"
+}

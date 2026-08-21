@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "numbers 7:52",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 7,
+  "translation": "બકરાઓમાંનો એક ખસી, પાપાર્પણ માટે.",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "ખસી"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "બકરાઓમાંનો"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "એક"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "પાપાર્પણ માટે"
+    }
+  ],
+  "timestamp": "2026-08-21T11:52:40.763311840Z",
+  "model": "glm-5.3"
+}

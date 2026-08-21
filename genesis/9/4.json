@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 9:4",
+  "book": "genesis",
+  "lang": "gu",
+  "chapter": 9,
+  "translation": "પરંતુ માંસ — તેના પ્રાણ ⟨સાથે⟩, તેનું લોહી — તમે ખાશો નહીં.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "પરંતુ \/ માત્ર"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "માંસ"
+    },
+    {
+      "surface": "בנפשו",
+      "gloss": "તેના પ્રાણ સાથે"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "તેનું લોહી"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "તમે ખાશો"
+    }
+  ],
+  "timestamp": "2026-08-21T10:40:53.284916551Z",
+  "model": "glm-5.3"
+}

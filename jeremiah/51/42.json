@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "jeremiah 51:42",
+  "book": "jeremiah",
+  "lang": "gu",
+  "chapter": 51,
+  "translation": "બબીલ પર ચઢ્યું ⟨સમુદ્ર⟩; ⟨તેના⟩ મોટા મોજાંથી ⟨તે⟩ ઢંકાઈ ગઈ.",
+  "tokens": [
+    {
+      "surface": "עלה",
+      "gloss": "ચઢ્યું"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "બબીલ"
+    },
+    {
+      "surface": "הים",
+      "gloss": "સમુદ્ર"
+    },
+    {
+      "surface": "בהמון",
+      "gloss": "મોટા મોજાંથી"
+    },
+    {
+      "surface": "גליו",
+      "gloss": "તેના મોજાં"
+    },
+    {
+      "surface": "נכסתה",
+      "gloss": "ઢંકાઈ ગઈ"
+    }
+  ],
+  "timestamp": "2026-08-21T15:14:58.482185189Z",
+  "model": "glm-5.3"
+}

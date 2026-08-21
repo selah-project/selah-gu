@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 2:12",
+  "book": "2-chronicles",
+  "lang": "gu",
+  "chapter": 2,
+  "translation": "અને હવે મેં સમજ જાણનારો એક જ્ઞાનવાન માણસ મોકલ્યો છે — મારા પિતા હૂરામને.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "અને હવે"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "મેં મોકલ્યો છે"
+    },
+    {
+      "surface": "איש",
+      "gloss": "માણસ"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "જ્ઞાનવાન"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "જાણનારો"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "સમજ"
+    },
+    {
+      "surface": "לחורם",
+      "gloss": "હૂરામને"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "મારા પિતા"
+    }
+  ],
+  "timestamp": "2026-08-21T18:16:46.933262411Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 7:15",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 7,
+  "translation": "“તેથી હું તને મળવા બહાર આવી; તારો ચહેરો શોધવા અને હું તને શોધી લીધો.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "તેથી…માટે"
+    },
+    {
+      "surface": "כן",
+      "gloss": "તેથી"
+    },
+    {
+      "surface": "יצאתי",
+      "gloss": "બહાર આવી"
+    },
+    {
+      "surface": "לקראתך",
+      "gloss": "તને મળવા"
+    },
+    {
+      "surface": "לשחר",
+      "gloss": "શોધવા"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "તારો ચહેરો"
+    },
+    {
+      "surface": "ואמצאך",
+      "gloss": "અને તને શોધી લીધો"
+    }
+  ],
+  "timestamp": "2026-08-21T16:54:00.829835034Z",
+  "model": "glm-5.3"
+}

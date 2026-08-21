@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 4:1",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 4,
+  "translation": "યહૂદાનાં પુત્રો: પેરેત્સ, ખેત્સરોન, વકર્મી, વખૂર અને વશોબાલ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "યહૂદાનાં"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "પેરેત્સ"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "ખેત્સરોન"
+    },
+    {
+      "surface": "וכרמי",
+      "gloss": "વકર્મી"
+    },
+    {
+      "surface": "וחור",
+      "gloss": "વખૂર"
+    },
+    {
+      "surface": "ושובל",
+      "gloss": "વશોબાલ"
+    }
+  ],
+  "timestamp": "2026-08-21T18:02:13.576273159Z",
+  "model": "glm-5.3"
+}

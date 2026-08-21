@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-samuel 23:27",
+  "book": "2-samuel",
+  "lang": "gu",
+  "chapter": 23,
+  "translation": "અબિએઝેર ⟨હઅનાતોતી⟩, મેબુન્નાઇ ⟨હચુશાતી⟩,",
+  "tokens": [
+    {
+      "surface": "אביעזר",
+      "gloss": "અબિએઝેર"
+    },
+    {
+      "surface": "הענתתי",
+      "gloss": "હઅનાતોતી"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "મેબુન્નાઇ"
+    },
+    {
+      "surface": "החשתי",
+      "gloss": "હચુશાતી"
+    }
+  ],
+  "timestamp": "2026-08-21T13:34:00.147331438Z",
+  "model": "glm-5.3"
+}

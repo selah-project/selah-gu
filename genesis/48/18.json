@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 48:18",
+  "book": "genesis",
+  "lang": "gu",
+  "chapter": 48,
+  "translation": "અને યોસેફે પોતાના પિતાને કહ્યું: એમ નહીં, મારા પિતા, કેમ કે આ ⟨છોકરો⟩ જેઠ છે; તારી જમણી હથેલી ⟨તેનાં⟩ માથે મૂક.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "કહ્યું"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "યોસેફે"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ને"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "પિતાને"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "כן",
+      "gloss": "એમ"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "મારા પિતા"
+    },
+    {
+      "surface": "כי",
+      "gloss": "કેમ કે"
+    },
+    {
+      "surface": "זה",
+      "gloss": "આ"
+    },
+    {
+      "surface": "הבכר",
+      "gloss": "જેઠ છે"
+    },
+    {
+      "surface": "שים",
+      "gloss": "મૂક"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "તારી જમણી હથેલી"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "માથે"
+    }
+  ],
+  "timestamp": "2026-08-21T11:04:36.916598381Z",
+  "model": "glm-5.3"
+}

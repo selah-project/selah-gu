@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 18:21",
+  "book": "job",
+  "lang": "gu",
+  "chapter": 18,
+  "translation": "ખરેખર, આ જ દુષ્ટનાં નિવાસસ્થાનો છે, અને આ જ એનું સ્થાન છે જે એલને ઓળખતો નથી.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "ખરેખર"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "આ"
+    },
+    {
+      "surface": "משכנות",
+      "gloss": "નિવાસસ્થાનો"
+    },
+    {
+      "surface": "עול",
+      "gloss": "દુષ્ટનાં"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "અને આ"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "સ્થાન"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ઓળખતો"
+    },
+    {
+      "surface": "אל",
+      "gloss": "એલ"
+    }
+  ],
+  "timestamp": "2026-08-21T17:10:52.555309128Z",
+  "model": "glm-5.3"
+}

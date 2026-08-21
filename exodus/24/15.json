@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 24:15",
+  "book": "exodus",
+  "lang": "gu",
+  "chapter": 24,
+  "translation": "અને મોશે પર્વત પર ચઢ્યો, અને વાદળે ⟨את⟩ પર્વતને ઢાંકી લીધો.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "ચઢ્યો"
+    },
+    {
+      "surface": "משה",
+      "gloss": "મોશે"
+    },
+    {
+      "surface": "אל",
+      "gloss": "પર"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "પર્વત"
+    },
+    {
+      "surface": "ויכס",
+      "gloss": "ઢાંકી લીધો"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "વાદળે"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "પર્વતને"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "પર્વત"
+    }
+  ],
+  "timestamp": "2026-08-21T18:34:52.350729694Z",
+  "model": "glm-5.3"
+}

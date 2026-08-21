@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 6:12",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 6,
+  "translation": "બેકાર માણસ, અન્યાયનો પુરુષ — એ વક્ર મુખથી ચાલે છે;",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "માણસ"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "બેકાર"
+    },
+    {
+      "surface": "איש",
+      "gloss": "પુરુષ"
+    },
+    {
+      "surface": "און",
+      "gloss": "અન્યાયનો"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "ચાલે છે"
+    },
+    {
+      "surface": "עקשות",
+      "gloss": "વક્ર"
+    },
+    {
+      "surface": "פה",
+      "gloss": "મુખથી"
+    }
+  ],
+  "timestamp": "2026-08-21T16:53:30.106181971Z",
+  "model": "glm-5.3"
+}

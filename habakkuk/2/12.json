@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "habakkuk 2:12",
+  "book": "habakkuk",
+  "lang": "gu",
+  "chapter": 2,
+  "translation": "હાય, જે લોહીથી નગર બાંધે છે, અને અન્યાયથી નગર સ્થાપે છે!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "હાય"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "બાંધે છે"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "નગર"
+    },
+    {
+      "surface": "בדמים",
+      "gloss": "લોહીથી"
+    },
+    {
+      "surface": "וכונן",
+      "gloss": "અને … સ્થાપે છે"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "નગર"
+    },
+    {
+      "surface": "בעולה",
+      "gloss": "અન્યાયથી"
+    }
+  ],
+  "timestamp": "2026-08-21T15:58:36.868914053Z",
+  "model": "glm-5.3"
+}

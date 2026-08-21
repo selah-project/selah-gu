@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 1:14",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 1,
+  "translation": "",
+  "tokens": [
+    {
+      "surface": "גורלך",
+      "gloss": "તારું ગોરળું"
+    },
+    {
+      "surface": "תפיל",
+      "gloss": "પડ દે"
+    },
+    {
+      "surface": "בתוכנו",
+      "gloss": "આપણી વચ્ચે"
+    },
+    {
+      "surface": "כיס",
+      "gloss": "થેલું"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "એક જ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "⟨હોશે⟩"
+    },
+    {
+      "surface": "לכלנו",
+      "gloss": "આપણા બધાનું"
+    }
+  ],
+  "timestamp": "2026-08-21T16:50:51.323215306Z",
+  "model": "glm-5.3"
+}

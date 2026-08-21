@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "obadiah 1:2",
+  "book": "obadiah",
+  "lang": "gu",
+  "chapter": 1,
+  "translation": "જુઓ, હું તને રાષ્ટ્રોમાં નાનો કરી છું; તું અત્યંત તિરસ્કૃત છે.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "જુઓ"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "નાનો"
+    },
+    {
+      "surface": "נתתיך",
+      "gloss": "કરી છું"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "રાષ્ટ્રોમાં"
+    },
+    {
+      "surface": "בזוי",
+      "gloss": "તિરસ્કૃત"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "તું"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "અત્યંત"
+    }
+  ],
+  "timestamp": "2026-08-21T15:54:30.564896322Z",
+  "model": "glm-5.3"
+}

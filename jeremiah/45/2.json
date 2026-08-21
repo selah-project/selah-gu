@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 45:2",
+  "book": "jeremiah",
+  "lang": "gu",
+  "chapter": 45,
+  "translation": "“આમ કહે છે યાહવે, ઇસ્રાએલના એલોહીમ, તારા વિષે, હે બારૂખ:",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "આમ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "કહે છે"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "એલોહીમ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ઇસ્રાએલના"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "તારા વિષે"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "બારૂખ"
+    }
+  ],
+  "timestamp": "2026-08-21T15:10:12.256797172Z",
+  "model": "glm-5.3"
+}

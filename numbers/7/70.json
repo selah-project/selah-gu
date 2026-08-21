@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 70,
+  "ref": "numbers 7:70",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 7,
+  "translation": "એક બકરો, પાપ-ભેટ માટે.",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "બકરો"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "બકરીઓનો (કેટલાક)"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "એક"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "પાપ-ભેટ માટે"
+    }
+  ],
+  "timestamp": "2026-08-21T11:53:20.784093321Z",
+  "model": "glm-5.3"
+}

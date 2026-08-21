@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 24:23",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 24,
+  "translation": "આ પણ જ્ઞાનીઓ માટે ⟨છે⟩: ચુકાદામાં ચહેરા ઓળખવો સારું નથી.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "પણ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "આ"
+    },
+    {
+      "surface": "לחכמים",
+      "gloss": "જ્ઞાનીઓ માટે"
+    },
+    {
+      "surface": "הכר",
+      "gloss": "ઓળખવો"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "ચહેરા"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "ચુકાદામાં"
+    },
+    {
+      "surface": "בל",
+      "gloss": "નથી"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "સારું"
+    }
+  ],
+  "timestamp": "2026-08-21T17:00:59.830162739Z",
+  "model": "glm-5.3"
+}

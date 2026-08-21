@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 4:11",
+  "book": "ezekiel",
+  "lang": "gu",
+  "chapter": 4,
+  "translation": "અને પાણી તું માપ પ્રમાણે પીશ — હીનનો છઠ્ઠો ભાગ; સમયથી સમય સુધી તું પીશ.",
+  "tokens": [
+    {
+      "surface": "ומים",
+      "gloss": "અને પાણી"
+    },
+    {
+      "surface": "במשורה",
+      "gloss": "માપ પ્રમાણે"
+    },
+    {
+      "surface": "תשתה",
+      "gloss": "તું પીશ"
+    },
+    {
+      "surface": "ששית",
+      "gloss": "છઠ્ઠો ભાગ"
+    },
+    {
+      "surface": "ההין",
+      "gloss": "હીનનો"
+    },
+    {
+      "surface": "מעת",
+      "gloss": "સમયથી"
+    },
+    {
+      "surface": "עד",
+      "gloss": "સુધી"
+    },
+    {
+      "surface": "עת",
+      "gloss": "સમય"
+    },
+    {
+      "surface": "תשתה",
+      "gloss": "તું પીશ"
+    }
+  ],
+  "timestamp": "2026-08-21T15:18:02.687558982Z",
+  "model": "glm-5.3"
+}

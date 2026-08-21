@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "nehemiah 5:19",
+  "book": "nehemiah",
+  "lang": "gu",
+  "chapter": 5,
+  "translation": "મારા એલોહીમે, ભલાઈ માટે મને યાદ કરો, જે કંઈ મેં આ પ્રજા માટે કર્યું છે તે બધું.",
+  "tokens": [
+    {
+      "surface": "זכרה",
+      "gloss": "યાદ કરો"
+    },
+    {
+      "surface": "לי",
+      "gloss": "મને"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "મારા એલોહીમ"
+    },
+    {
+      "surface": "לטובה",
+      "gloss": "ભલાઈ માટે"
+    },
+    {
+      "surface": "כל",
+      "gloss": "બધું"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જે"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "મેં કર્યું"
+    },
+    {
+      "surface": "על",
+      "gloss": "માટે"
+    },
+    {
+      "surface": "העם",
+      "gloss": "પ્રજા"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "આ"
+    }
+  ],
+  "timestamp": "2026-08-21T17:52:45.453981603Z",
+  "model": "glm-5.3"
+}

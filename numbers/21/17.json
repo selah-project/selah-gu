@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 21:17",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 21,
+  "translation": "ત્યારે ઇસ્રાએલે ⟨את⟩ આ ગીત ગાયું: “કૂવા, ઊપર ઊઠ; તેને જવાબ આપો।”",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "ત્યારે"
+    },
+    {
+      "surface": "ישיר",
+      "gloss": "ગાયું"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ઇસ્રાએલે"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "આ ગીત"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "ગીત"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "આ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ઊપર ઊઠ"
+    },
+    {
+      "surface": "באר",
+      "gloss": "કૂવા"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "જવાબ આપો"
+    },
+    {
+      "surface": "לה",
+      "gloss": "તેને"
+    }
+  ],
+  "timestamp": "2026-08-21T12:00:41.848195850Z",
+  "model": "glm-5.3"
+}

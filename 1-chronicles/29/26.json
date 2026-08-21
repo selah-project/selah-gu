@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 29:26",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 29,
+  "translation": "અને દાવીદ, યિશાઈનો પુત્ર, સમગ્ર ઇસ્રાએલ પર રાજ્ય કરતો હતો.",
+  "tokens": [
+    {
+      "surface": "ודויד",
+      "gloss": "અને દાવીદ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "પુત્ર"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "યિશાઈનો"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "રાજ્ય કરતો હતો"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "כל",
+      "gloss": "સમગ્ર"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ઇસ્રાએલ"
+    }
+  ],
+  "timestamp": "2026-08-21T18:13:33.463871299Z",
+  "model": "glm-5.3"
+}

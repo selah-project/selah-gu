@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 49:25",
+  "book": "jeremiah",
+  "lang": "gu",
+  "chapter": 49,
+  "translation": "કેવી રીતે નહિ છોડી દેવાયું પ્રશંસાનું નગર, મારા આનંદનું નગર!",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "કેવી રીતે"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નહિ"
+    },
+    {
+      "surface": "עזבה",
+      "gloss": "છોડી દેવાયું"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "નગર"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "પ્રશંસા"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "નગર"
+    },
+    {
+      "surface": "משושי",
+      "gloss": "મારા આનંદનું"
+    }
+  ],
+  "timestamp": "2026-08-21T15:12:40.275147754Z",
+  "model": "glm-5.3"
+}

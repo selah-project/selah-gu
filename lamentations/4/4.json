@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "lamentations 4:4",
+  "book": "lamentations",
+  "lang": "gu",
+  "chapter": 4,
+  "translation": "દૂધ પીતા બાળકની જીભ તરસથી તેના તાલુમાં ચોંટી ગઈ છે; નાના બાળકો રોટલી માંગે છે, પણ તેમને તોડી આપનાર કોઈ નથી.",
+  "tokens": [
+    {
+      "surface": "דבק",
+      "gloss": "ચોંટી ગઈ છે"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "જીભ"
+    },
+    {
+      "surface": "יונק",
+      "gloss": "દૂધ પીતા બાળકની"
+    },
+    {
+      "surface": "אל",
+      "gloss": "માં"
+    },
+    {
+      "surface": "חכו",
+      "gloss": "તેના તાલુ"
+    },
+    {
+      "surface": "בצמא",
+      "gloss": "તરસથી"
+    },
+    {
+      "surface": "עוללים",
+      "gloss": "નાના બાળકો"
+    },
+    {
+      "surface": "שאלו",
+      "gloss": "માંગે છે"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "રોટલી"
+    },
+    {
+      "surface": "פרש",
+      "gloss": "તોડી આપનાર"
+    },
+    {
+      "surface": "אין",
+      "gloss": "નથી"
+    },
+    {
+      "surface": "להם",
+      "gloss": "તેમને"
+    }
+  ],
+  "timestamp": "2026-08-21T17:26:42.427165040Z",
+  "model": "glm-5.3"
+}

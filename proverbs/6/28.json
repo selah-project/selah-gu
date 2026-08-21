@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 6:28",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 6,
+  "translation": "કે શું કોઈ માણસ અંગારા પર ચાલે છે, અને તેના પગ સળગે છે નહીં?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "કે શું"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "ચાલે છે"
+    },
+    {
+      "surface": "איש",
+      "gloss": "માણસ"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "הגחלים",
+      "gloss": "અંગારા"
+    },
+    {
+      "surface": "ורגליו",
+      "gloss": "અને તેના પગ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "תכוינה",
+      "gloss": "સળગે"
+    }
+  ],
+  "timestamp": "2026-08-21T16:54:15.179258232Z",
+  "model": "glm-5.3"
+}

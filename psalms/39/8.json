@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 39:8",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 39,
+  "translation": "અને હવે, હે અદોનાય, હું શું રાહ જુઉં? મારી આશા તો તમારામાં જ છે.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "અને હવે"
+    },
+    {
+      "surface": "מה",
+      "gloss": "શું"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "હું રાહ જુઉં"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "અદોનાય"
+    },
+    {
+      "surface": "תוחלתי",
+      "gloss": "મારી આશા"
+    },
+    {
+      "surface": "לך",
+      "gloss": "તમારામાં"
+    },
+    {
+      "surface": "היא",
+      "gloss": "તો છે"
+    }
+  ],
+  "timestamp": "2026-08-21T16:21:24.076369999Z",
+  "model": "glm-5.3"
+}

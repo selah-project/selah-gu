@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "jeremiah 18:19",
+  "book": "jeremiah",
+  "lang": "gu",
+  "chapter": 18,
+  "translation": "યાહવે, ધ્યાન આપો મારા તરફ, અને સાંભળો મારા વિરોધીઓના અવાજને.",
+  "tokens": [
+    {
+      "surface": "הקשיבה",
+      "gloss": "ધ્યાન આપો"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "મારા તરફ"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "અને સાંભળો"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "અવાજને"
+    },
+    {
+      "surface": "יריבי",
+      "gloss": "મારા વિરોધીઓના"
+    }
+  ],
+  "timestamp": "2026-08-21T14:54:35.234637084Z",
+  "model": "glm-5.3"
+}

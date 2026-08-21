@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 21:11",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 21,
+  "translation": "અને ગાદ દાવિદ પાસે આવ્યો અને તેને કહ્યું: આ પ્રમાણે યાહવે કહે છે — તારા માટે સ્વીકાર:",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "અને આવ્યો"
+    },
+    {
+      "surface": "גד",
+      "gloss": "ગાદ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "પાસે"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "દાવિદ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "અને કહ્યું"
+    },
+    {
+      "surface": "לו",
+      "gloss": "તેને"
+    },
+    {
+      "surface": "כה",
+      "gloss": "આ પ્રમાણે"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "કહે છે"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "קבל",
+      "gloss": "સ્વીકાર"
+    },
+    {
+      "surface": "לך",
+      "gloss": "તારા માટે"
+    }
+  ],
+  "timestamp": "2026-08-21T18:10:27.581413402Z",
+  "model": "glm-5.3"
+}

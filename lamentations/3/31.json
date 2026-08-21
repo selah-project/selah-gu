@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "lamentations 3:31",
+  "book": "lamentations",
+  "lang": "gu",
+  "chapter": 3,
+  "translation": "કેમ કે અદોનાય સદાકાળ ત્યજતો નથી.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "કેમ કે"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નથી"
+    },
+    {
+      "surface": "יזנח",
+      "gloss": "ત્યજતો"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "સદાકાળ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "અદોનાય"
+    }
+  ],
+  "timestamp": "2026-08-21T17:25:32.744010831Z",
+  "model": "glm-5.3"
+}

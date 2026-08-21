@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 162,
+  "ref": "psalms 119:162",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 119,
+  "translation": "હું તારા વચન પર આનંદિત છું, માનો જેમ કોઈ પ્રચંડ લૂંટ શોધનાર.",
+  "tokens": [
+    {
+      "surface": "שש",
+      "gloss": "આનંદિત છું"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "હું"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "તારા વચન"
+    },
+    {
+      "surface": "כמוצא",
+      "gloss": "માનો જેમ કોઈ શોધનાર"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "લૂંટ"
+    },
+    {
+      "surface": "רב",
+      "gloss": "પ્રચંડ"
+    }
+  ],
+  "timestamp": "2026-08-21T16:44:41.024926552Z",
+  "model": "glm-5.3"
+}

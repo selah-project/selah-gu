@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "song-of-songs 4:13",
+  "book": "song-of-songs",
+  "lang": "gu",
+  "chapter": 4,
+  "translation": "તારાં કાંઠલા દાડમનો બગીચો ⟨છે⟩, ઉત્તમ ફળો સાથે; મહેંદી સાથે, નર્દ સાથે.",
+  "tokens": [
+    {
+      "surface": "שלחיך",
+      "gloss": "તારાં કાંઠલા"
+    },
+    {
+      "surface": "פרדס",
+      "gloss": "બગીચો"
+    },
+    {
+      "surface": "רמונים",
+      "gloss": "દાડમનો"
+    },
+    {
+      "surface": "עם",
+      "gloss": "સાથે"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "ફળો"
+    },
+    {
+      "surface": "מגדים",
+      "gloss": "ઉત્તમ"
+    },
+    {
+      "surface": "כפרים",
+      "gloss": "મહેંદી"
+    },
+    {
+      "surface": "עם",
+      "gloss": "સાથે"
+    },
+    {
+      "surface": "נרדים",
+      "gloss": "નર્દ"
+    }
+  ],
+  "timestamp": "2026-08-21T17:21:08.665677214Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 36:21",
+  "book": "job",
+  "lang": "gu",
+  "chapter": 36,
+  "translation": "સાવધાન રહે, અધર્મ તરફ વળતો નહીં, કેમ કે આ તેં દુઃખ કરતાં પસંદ કર્યું છે.",
+  "tokens": [
+    {
+      "surface": "השמר",
+      "gloss": "સાવધાન રહે"
+    },
+    {
+      "surface": "אל",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "תפן",
+      "gloss": "વળતો"
+    },
+    {
+      "surface": "אל",
+      "gloss": "તરફ"
+    },
+    {
+      "surface": "און",
+      "gloss": "અધર્મ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "કેમ કે"
+    },
+    {
+      "surface": "על",
+      "gloss": "ને"
+    },
+    {
+      "surface": "זה",
+      "gloss": "આ"
+    },
+    {
+      "surface": "בחרת",
+      "gloss": "તેં પસંદ કર્યું"
+    },
+    {
+      "surface": "מעני",
+      "gloss": "દુઃખ કરતાં"
+    }
+  ],
+  "timestamp": "2026-08-21T17:17:26.681221792Z",
+  "model": "glm-5.3"
+}

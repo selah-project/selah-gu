@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 67,
+  "ref": "ezra 2:67",
+  "book": "ezra",
+  "lang": "gu",
+  "chapter": 2,
+  "translation": "તેમના ઊંટ ચારસો પાંત્રીસ; ગધેડા છ હજાર સાતસો વીસ.",
+  "tokens": [
+    {
+      "surface": "גמליהם",
+      "gloss": "તેમના ઊંટ"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "ચાર"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "સો"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "ત્રીસ"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "અને પાંચ"
+    },
+    {
+      "surface": "חמרים",
+      "gloss": "ગધેડા"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "છ"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "હજાર"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "સાત"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "સો"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "અને વીસ"
+    }
+  ],
+  "timestamp": "2026-08-21T17:47:40.179048227Z",
+  "model": "glm-5.3"
+}

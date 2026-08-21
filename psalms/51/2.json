@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 51:2",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 51,
+  "translation": "જ્યારે નાતાન પ્રવાદી તેની પાસે આવ્યો — જ્યારે તે બથ-શેબા (બથશેબા) પાસે ગયો ત્યારે.",
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "જ્યારે…આવ્યો"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "તેની પાસે"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "નાતાન"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "પ્રવાદી"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "જ્યારે"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ગયો"
+    },
+    {
+      "surface": "אל",
+      "gloss": "પાસે"
+    },
+    {
+      "surface": "בת",
+      "gloss": "બથ-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "શેબા"
+    }
+  ],
+  "timestamp": "2026-08-21T16:24:18.844320644Z",
+  "model": "glm-5.3"
+}

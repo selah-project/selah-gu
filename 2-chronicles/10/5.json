@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 10:5",
+  "book": "2-chronicles",
+  "lang": "gu",
+  "chapter": 10,
+  "translation": "અને તેણે તેઓને કહ્યું, “હજી ત્રણ દિવસ, પછી મારી પાસે પાછા આવો.” અને પ્રજા ગઈ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "અને તેણે કહ્યું"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "તેઓને"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "હજી"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "ત્રણ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "દિવસ"
+    },
+    {
+      "surface": "ושובו",
+      "gloss": "પાછા આવો"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "મારી પાસે"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "અને ગઈ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "પ્રજા"
+    }
+  ],
+  "timestamp": "2026-08-21T18:20:12.777877409Z",
+  "model": "glm-5.3"
+}

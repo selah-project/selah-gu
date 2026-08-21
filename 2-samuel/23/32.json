@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-samuel 23:32",
+  "book": "2-samuel",
+  "lang": "gu",
+  "chapter": 23,
+  "translation": "એલ્યાહબા શાઅલ્બોની; યાશેનનાં પુત્રો — યહોનાતાન,",
+  "tokens": [
+    {
+      "surface": "אליחבא",
+      "gloss": "એલ્યાહબા"
+    },
+    {
+      "surface": "השעלבני",
+      "gloss": "શાઅલ્બોની"
+    },
+    {
+      "surface": "בני",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "ישן",
+      "gloss": "યાશેન"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "યહોનાતાન"
+    }
+  ],
+  "timestamp": "2026-08-21T13:34:08.447009939Z",
+  "model": "glm-5.3"
+}

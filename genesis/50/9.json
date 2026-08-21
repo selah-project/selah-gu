@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 50:9",
+  "book": "genesis",
+  "lang": "gu",
+  "chapter": 50,
+  "translation": "અને તેની સાથે ઊપડ્યાં પણ રથ, પણ ઘોડસવાર; અને તે મંડળ ⟨હતું⟩ અત્યંત ભારે (વિશાળ)।",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "ઊપડ્યાં"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "તેની સાથે"
+    },
+    {
+      "surface": "גם",
+      "gloss": "પણ"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "રથ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "પણ"
+    },
+    {
+      "surface": "פרשים",
+      "gloss": "ઘોડસવાર"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "અને તે હતું"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "મંડળ"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "ભારે (વિશાળ)"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "અત્યંત"
+    }
+  ],
+  "timestamp": "2026-08-21T11:05:56.533430557Z",
+  "model": "glm-5.3"
+}

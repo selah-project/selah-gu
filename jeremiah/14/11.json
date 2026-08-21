@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 14:11",
+  "book": "jeremiah",
+  "lang": "gu",
+  "chapter": 14,
+  "translation": "અને યાહવેએ મને કહ્યું: આ ⟨the⟩ પ્રજા માટે — તેમના ભલા માટે — પ્રાર્થના ન કર.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "અને ... કહ્યું"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવેએ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "મને"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ન કર"
+    },
+    {
+      "surface": "תתפלל",
+      "gloss": "પ્રાર્થના"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "માટે"
+    },
+    {
+      "surface": "העם",
+      "gloss": "પ્રજા"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "આ"
+    },
+    {
+      "surface": "לטובה",
+      "gloss": "ભલા માટે"
+    }
+  ],
+  "timestamp": "2026-08-21T14:51:43.102146284Z",
+  "model": "glm-5.3"
+}

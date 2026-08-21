@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 8:5",
+  "book": "ecclesiastes",
+  "lang": "gu",
+  "chapter": 8,
+  "translation": "આજ્ઞા પાળનાર કોઈ દુષ્ટ વાત જાણશે નહીં, અને સમય અને ન્યાયને જ્ઞાનીનું હૃદય જાણે છે.",
+  "tokens": [
+    {
+      "surface": "שומר",
+      "gloss": "પાળનાર"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "આજ્ઞા"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "જાણશે"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "વાત"
+    },
+    {
+      "surface": "רע",
+      "gloss": "દુષ્ટ"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "અને સમય"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "અને ન્યાય"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "જાણે છે"
+    },
+    {
+      "surface": "לב",
+      "gloss": "હૃદય"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "જ્ઞાનીનું"
+    }
+  ],
+  "timestamp": "2026-08-21T17:31:41.993280738Z",
+  "model": "glm-5.3"
+}

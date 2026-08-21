@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 139,
+  "ref": "psalms 119:139",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 119,
+  "translation": "My zeal has consumed me, because my enemies have forgotten your words.",
+  "tokens": [
+    {
+      "surface": "צמתתני",
+      "gloss": "મને બાળી નાખી છે"
+    },
+    {
+      "surface": "קנאתי",
+      "gloss": "મારી કર્તવ્યનિષ્ઠાએ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "કારણ કે"
+    },
+    {
+      "surface": "שכחו",
+      "gloss": "ભૂલી ગયા છે"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "તારાં વચનોને"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "મારા શત્રુઓએ"
+    }
+  ],
+  "timestamp": "2026-08-21T18:58:14.047979056Z",
+  "model": "glm-5.3"
+}

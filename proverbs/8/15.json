@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 8:15",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 8,
+  "translation": "મારા દ્વારા રાજાઓ રાજ્ય કરે છે, અને પ્રમુખો ન્યાય ઘડે છે.",
+  "tokens": [
+    {
+      "surface": "בי",
+      "gloss": "મારા દ્વારા"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "રાજાઓ"
+    },
+    {
+      "surface": "ימלכו",
+      "gloss": "રાજ્ય કરે છે"
+    },
+    {
+      "surface": "ורוזנים",
+      "gloss": "અને પ્રમુખો"
+    },
+    {
+      "surface": "יחקקו",
+      "gloss": "ઘડે છે"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ન્યાય"
+    }
+  ],
+  "timestamp": "2026-08-21T18:57:37.623539953Z",
+  "model": "glm-5.3"
+}

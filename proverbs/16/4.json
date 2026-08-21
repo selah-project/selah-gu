@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 16:4",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 16,
+  "translation": "યાહવેએ દરેક વસ્તુ પોતાના હેતુ માટે કરી, હા, દુષ્ટને પણ દુષ્ટતાના દિવસ માટે.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "દરેક"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "કરી"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવેએ"
+    },
+    {
+      "surface": "למענהו",
+      "gloss": "પોતાના હેતુ માટે"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "હા, પણ"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "દુષ્ટને"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "દિવસ માટે"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "દુષ્ટતાના"
+    }
+  ],
+  "timestamp": "2026-08-21T16:58:00.551076342Z",
+  "model": "glm-5.3"
+}

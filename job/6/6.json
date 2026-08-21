@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 6:6",
+  "book": "job",
+  "lang": "gu",
+  "chapter": 6,
+  "translation": "શું ફીકી વસ્તુ મીઠ વિના ખાઈ શકાય? શું છોતરાના રસમાં કંઈ સ્વાદ હોય છે?",
+  "tokens": [
+    {
+      "surface": "היאכל",
+      "gloss": "ખાઈ શકાય"
+    },
+    {
+      "surface": "תפל",
+      "gloss": "ફીકી વસ્તુ"
+    },
+    {
+      "surface": "מבלי",
+      "gloss": "વિના"
+    },
+    {
+      "surface": "מלח",
+      "gloss": "મીઠ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "શું"
+    },
+    {
+      "surface": "יש",
+      "gloss": "હોય છે"
+    },
+    {
+      "surface": "טעם",
+      "gloss": "સ્વાદ"
+    },
+    {
+      "surface": "בריר",
+      "gloss": "રસ"
+    },
+    {
+      "surface": "חלמות",
+      "gloss": "છોતરાના"
+    }
+  ],
+  "timestamp": "2026-08-21T17:06:05.775897152Z",
+  "model": "glm-5.3"
+}

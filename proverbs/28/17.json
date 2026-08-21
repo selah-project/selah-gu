@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 28:17",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 28,
+  "translation": "જે માણસ કોઈ પ્રાણીના લોહીથી દબાયેલો છે તે ખાડા સુધી ભાગશે; કોઈ તેને ટેકો ન આપે.",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "માણસ"
+    },
+    {
+      "surface": "עשק",
+      "gloss": "દબાયેલો"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "લોહીથી"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "પ્રાણીના"
+    },
+    {
+      "surface": "עד",
+      "gloss": "સુધી"
+    },
+    {
+      "surface": "בור",
+      "gloss": "ખાડા"
+    },
+    {
+      "surface": "ינוס",
+      "gloss": "ભાગશે"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ન આપે"
+    },
+    {
+      "surface": "יתמכו",
+      "gloss": "ટેકો"
+    },
+    {
+      "surface": "בו",
+      "gloss": "તેને"
+    }
+  ],
+  "timestamp": "2026-08-21T17:03:24.004777201Z",
+  "model": "glm-5.3"
+}

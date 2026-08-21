@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 50:12",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 50,
+  "translation": "હું ભૂખ્યો થાઉં તો તને નહીં કહું, કેમ કે પૃથ્વી અને તેની પરિપૂર્ણતા મારી ⟨છે⟩.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "તો"
+    },
+    {
+      "surface": "ארעב",
+      "gloss": "હું ભૂખ્યો થાઉં"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "કહું"
+    },
+    {
+      "surface": "לך",
+      "gloss": "તને"
+    },
+    {
+      "surface": "כי",
+      "gloss": "કેમ કે"
+    },
+    {
+      "surface": "לי",
+      "gloss": "મારી"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "પૃથ્વી"
+    },
+    {
+      "surface": "ומלאה",
+      "gloss": "અને તેની પરિપૂર્ણતા"
+    }
+  ],
+  "timestamp": "2026-08-21T16:22:36.162050912Z",
+  "model": "glm-5.3"
+}

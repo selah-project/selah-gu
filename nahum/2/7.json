@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "nahum 2:7",
+  "book": "nahum",
+  "lang": "gu",
+  "chapter": 2,
+  "translation": "નદીઓના દરવાજા ખૂલી ગયા, અને મહેલ ⟨ઓગળી⟩ ગયો.",
+  "tokens": [
+    {
+      "surface": "שערי",
+      "gloss": "દરવાજા"
+    },
+    {
+      "surface": "הנהרות",
+      "gloss": "નદીઓના"
+    },
+    {
+      "surface": "נפתחו",
+      "gloss": "ખૂલી ગયા"
+    },
+    {
+      "surface": "וההיכל",
+      "gloss": "અને મહેલ"
+    },
+    {
+      "surface": "נמוג",
+      "gloss": "ઓગળી ગયો"
+    }
+  ],
+  "timestamp": "2026-08-21T15:58:05.374593236Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "song-of-songs 7:7",
+  "book": "song-of-songs",
+  "lang": "gu",
+  "chapter": 7,
+  "translation": "કેટલી સુંદર અને કેટલી મનોહર છે તે, હે પ્રેમ, આનંદોમાં!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "કેટલી"
+    },
+    {
+      "surface": "יפית",
+      "gloss": "સુંદર"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "અને કેટલી"
+    },
+    {
+      "surface": "נעמת",
+      "gloss": "મનોહર"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "હે પ્રેમ"
+    },
+    {
+      "surface": "בתענוגים",
+      "gloss": "આનંદોમાં"
+    }
+  ],
+  "timestamp": "2026-08-21T17:22:54.655401207Z",
+  "model": "glm-5.3"
+}

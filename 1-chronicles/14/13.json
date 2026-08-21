@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 14:13",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 14,
+  "translation": "અને પલિશ્તીઓ ફરી ઉમેરાયા, અને તેઓ ખીણમાં પ્રસર્યા.",
+  "tokens": [
+    {
+      "surface": "ויסיפו",
+      "gloss": "ફરી ઉમેરાયા"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ફરી"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "પલિશ્તીઓ"
+    },
+    {
+      "surface": "ויפשטו",
+      "gloss": "પ્રસર્યા"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "ખીણમાં"
+    }
+  ],
+  "timestamp": "2026-08-21T19:01:32.594414351Z",
+  "model": "glm-5.3"
+}

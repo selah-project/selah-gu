@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "daniel 4:25",
+  "book": "daniel",
+  "lang": "gu",
+  "chapter": 4,
+  "translation": "આ બધું નબૂખદનેસ્સર રાજા પર ⟨આવ્યું⟩.",
+  "tokens": [
+    {
+      "surface": "כלא",
+      "gloss": "આ બધું"
+    },
+    {
+      "surface": "מטא",
+      "gloss": "⟨આવ્યું⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "נבוכדנצר",
+      "gloss": "નબૂખદનેસ્સર"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "રાજા"
+    }
+  ],
+  "timestamp": "2026-08-21T17:39:31.355993614Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 24:10",
+  "book": "deuteronomy",
+  "lang": "gu",
+  "chapter": 24,
+  "translation": "જ્યારે તું તારા પડોશીને કંઈપણ ધિરાણ આપે, તો તું તેના ઘરમાં તેની ગિરવી લેવા દાખલ ન થઈશ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "જ્યારે"
+    },
+    {
+      "surface": "תשה",
+      "gloss": "ધિરાણ આપે"
+    },
+    {
+      "surface": "ברעך",
+      "gloss": "તારા પડોશીને"
+    },
+    {
+      "surface": "משאת",
+      "gloss": "ધિરાણ"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "કંઈપણ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ન"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "દાખલ થઈશ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "માં"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "તેના ઘરમાં"
+    },
+    {
+      "surface": "לעבט",
+      "gloss": "લેવા"
+    },
+    {
+      "surface": "עבטו",
+      "gloss": "તેની ગિરવી"
+    }
+  ],
+  "timestamp": "2026-08-21T12:25:14.505749374Z",
+  "model": "glm-5.3"
+}

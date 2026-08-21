@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "zechariah 2:11",
+  "book": "zechariah",
+  "lang": "gu",
+  "chapter": 2,
+  "translation": "હા, ત્સિયોન, ભાગી જા, બાબેલની પુત્રી સાથે વસનારી.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "હા"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "ત્સિયોન"
+    },
+    {
+      "surface": "המלטי",
+      "gloss": "ભાગી જા"
+    },
+    {
+      "surface": "יושבת",
+      "gloss": "વસનારી"
+    },
+    {
+      "surface": "בת",
+      "gloss": "પુત્રી"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "બાબેલ"
+    }
+  ],
+  "timestamp": "2026-08-21T16:04:07.238541653Z",
+  "model": "glm-5.3"
+}

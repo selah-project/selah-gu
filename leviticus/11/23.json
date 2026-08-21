@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 11:23",
+  "book": "leviticus",
+  "lang": "gu",
+  "chapter": 11,
+  "translation": "પણ સર્વ પંખી-સમૂહમાંથી જે ચાર પગ ધરાવે, તે તમારા માટે ઘૃણાસ્પદ છે.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "પણ સર્વ"
+    },
+    {
+      "surface": "שרץ",
+      "gloss": "પંખી-સમૂહ"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "ઉડનારાં"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જે"
+    },
+    {
+      "surface": "לו",
+      "gloss": "તેને"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "ચાર"
+    },
+    {
+      "surface": "רגלים",
+      "gloss": "પગ"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "ઘૃણાસ્પદ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "તે"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "તમારા માટે"
+    }
+  ],
+  "timestamp": "2026-08-21T11:33:41.080143884Z",
+  "model": "glm-5.3"
+}

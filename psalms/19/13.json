@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 19:13",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 19,
+  "translation": "ભૂલોને કોણ સમજે? છૂપાં પાપોથી મને નિષ્કલંક કર.",
+  "tokens": [
+    {
+      "surface": "שגיאות",
+      "gloss": "ભૂલોને"
+    },
+    {
+      "surface": "מי",
+      "gloss": "કોણ"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "સમજે"
+    },
+    {
+      "surface": "מנסתרות",
+      "gloss": "છૂપાં પાપોથી"
+    },
+    {
+      "surface": "נקני",
+      "gloss": "મને નિષ્કલંક કર"
+    }
+  ],
+  "timestamp": "2026-08-21T16:14:09.544218051Z",
+  "model": "glm-5.3"
+}

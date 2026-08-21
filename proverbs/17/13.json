@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 17:13",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 17,
+  "translation": "જે સારાના બદલા ખરાબી પરત કરે છે — ખરાબી તેના ઘરમાંથી જતી રહેતી નથી.",
+  "tokens": [
+    {
+      "surface": "משיב",
+      "gloss": "પરત કરે છે"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ખરાબી"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "બદલા"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "સારાના"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નથી"
+    },
+    {
+      "surface": "תמיש",
+      "gloss": "જતી રહેતી"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ખરાબી"
+    },
+    {
+      "surface": "מביתו",
+      "gloss": "તેના ઘરમાંથી"
+    }
+  ],
+  "timestamp": "2026-08-21T16:57:59.629976702Z",
+  "model": "glm-5.3"
+}

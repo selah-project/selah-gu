@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 7:4",
+  "book": "joshua",
+  "lang": "gu",
+  "chapter": 7,
+  "translation": "અને પ્રજામાંથી આશરે ત્રણ હજાર માણસો ત્યાં ઊપડ્યા, અને તેઓ હાયના માણસો સામે નાસી ગયા.",
+  "tokens": [
+    {
+      "surface": "ויעלו",
+      "gloss": "ઊપડ્યા"
+    },
+    {
+      "surface": "מן",
+      "gloss": "માંથી"
+    },
+    {
+      "surface": "העם",
+      "gloss": "પ્રજા"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ત્યાં"
+    },
+    {
+      "surface": "כשלשת",
+      "gloss": "આશરે ત્રણ"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "હજાર"
+    },
+    {
+      "surface": "איש",
+      "gloss": "માણસો"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "નાસી ગયા"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "સામે"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "માણસો"
+    },
+    {
+      "surface": "העי",
+      "gloss": "હાયના"
+    }
+  ],
+  "timestamp": "2026-08-21T12:37:46.032498690Z",
+  "model": "glm-5.3"
+}

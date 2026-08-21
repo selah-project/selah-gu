@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 113:3",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 113,
+  "translation": "સૂર્યના ઉદય થી તેના અસ્ત સુધી યાહવેનું નામ સ્તુત્ય છે.",
+  "tokens": [
+    {
+      "surface": "ממזרח",
+      "gloss": "ઉદય થી"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "સૂર્યના"
+    },
+    {
+      "surface": "עד",
+      "gloss": "સુધી"
+    },
+    {
+      "surface": "מבואו",
+      "gloss": "તેના અસ્ત"
+    },
+    {
+      "surface": "מהלל",
+      "gloss": "સ્તુત્ય છે"
+    },
+    {
+      "surface": "שם",
+      "gloss": "નામ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવેનું"
+    }
+  ],
+  "timestamp": "2026-08-21T16:41:19.665726975Z",
+  "model": "glm-5.3"
+}

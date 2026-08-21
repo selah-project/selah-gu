@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 6:14",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 6,
+  "translation": "મરારીના પુત્રો: મહલી, તેનો પુત્ર લીબ્ની, તેનો પુત્ર શિમી, તેનો પુત્ર ઉઝ્ઝા.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "…ના પુત્રો"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "મરારી"
+    },
+    {
+      "surface": "מחלי",
+      "gloss": "મહલી"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "લીબ્ની"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "તેનો પુત્ર"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "શિમી"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "તેનો પુત્ર"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "ઉઝ્ઝા"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "તેનો પુત્ર"
+    }
+  ],
+  "timestamp": "2026-08-21T18:02:49.946746434Z",
+  "model": "glm-5.3"
+}

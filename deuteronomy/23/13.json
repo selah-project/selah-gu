@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 23:13",
+  "book": "deuteronomy",
+  "lang": "gu",
+  "chapter": 23,
+  "translation": "અને તારી પાસે છાવણીની બહાર એક સ્થાન હોય, અને તું ત્યાં બહાર જાય.",
+  "tokens": [
+    {
+      "surface": "ויד",
+      "gloss": "અને સ્થાન"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "હોય"
+    },
+    {
+      "surface": "לך",
+      "gloss": "તારી પાસે"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "બહાર"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "છાવણીની"
+    },
+    {
+      "surface": "ויצאת",
+      "gloss": "અને તું જાય"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ત્યાં"
+    },
+    {
+      "surface": "חוץ",
+      "gloss": "બહાર"
+    }
+  ],
+  "timestamp": "2026-08-21T12:25:18.725564920Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 129:3",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 129,
+  "translation": "ખેડૂતોએ મારી પીઠ પર ખેડ્યું, તેમણે પોતાની તલાવણો લંબાવી.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "גבי",
+      "gloss": "મારી પીઠ"
+    },
+    {
+      "surface": "חרשו",
+      "gloss": "ખેડ્યું"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "ખેડૂતોએ"
+    },
+    {
+      "surface": "האריכו",
+      "gloss": "લંબાવી"
+    },
+    {
+      "surface": "למענותם",
+      "gloss": "પોતાની તલાવણો"
+    }
+  ],
+  "timestamp": "2026-08-21T16:46:13.694739226Z",
+  "model": "glm-5.3"
+}

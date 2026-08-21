@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "numbers 7:46",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 7,
+  "translation": "એક વાછરડું-બકરું પાપવિષે હોમવાને;",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "વાછરડું-બકરું"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "બકરાંનું"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "એક"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "પાપવિષે હોમવાને"
+    }
+  ],
+  "timestamp": "2026-08-21T11:52:16.824147102Z",
+  "model": "glm-5.3"
+}

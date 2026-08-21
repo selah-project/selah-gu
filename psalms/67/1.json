@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 67:1",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 67,
+  "translation": "વાદ્ય-સંચાલક માટે, તંતુવાદ્યો સાથે; મઝમોર, ગીત.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "વાદ્ય-સંચાલક માટે"
+    },
+    {
+      "surface": "בנגינת",
+      "gloss": "તંતુવાદ્યો સાથે"
+    },
+    {
+      "surface": "מזמૹר",
+      "gloss": "મઝમોર"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "ગીત"
+    }
+  ],
+  "timestamp": "2026-08-21T18:56:33.134461770Z",
+  "model": "glm-5.3"
+}

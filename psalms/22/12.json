@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 22:12",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 22,
+  "translation": "મારાથી દૂર ન જાઓ, કારણ કે સંકટ પાસે છે, કારણ કે મદદકર્તા કોઈ નથી.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ન"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "દૂર જાઓ"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "મારાથી"
+    },
+    {
+      "surface": "כי",
+      "gloss": "કારણ કે"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "સંકટ"
+    },
+    {
+      "surface": "קרובה",
+      "gloss": "પાસે છે"
+    },
+    {
+      "surface": "כי",
+      "gloss": "કારણ કે"
+    },
+    {
+      "surface": "אין",
+      "gloss": "કોઈ નથી"
+    },
+    {
+      "surface": "עוזר",
+      "gloss": "મદદકર્તા"
+    }
+  ],
+  "timestamp": "2026-08-21T16:14:44.407638997Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 119:29",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 119,
+  "translation": "ખોટો માર્ગ મારાથી દૂર કર, અને તારી તોરાહ વડે મને કૃપા કર.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "માર્ગ"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ખોટો"
+    },
+    {
+      "surface": "הסר",
+      "gloss": "દૂર કર"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "મારાથી"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "અને તારી તોરાહ વડે"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "મને કૃપા કર"
+    }
+  ],
+  "timestamp": "2026-08-21T16:43:07.985040390Z",
+  "model": "glm-5.3"
+}

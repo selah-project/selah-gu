@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 14:15",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 14,
+  "translation": "ભોળો દરેક વાત માને છે, પણ ચતુર ⟨એ⟩ પોતાના કદમ પ્રત્યે સમજ રાખે છે.",
+  "tokens": [
+    {
+      "surface": "פתי",
+      "gloss": "ભોળો"
+    },
+    {
+      "surface": "יאמין",
+      "gloss": "માને છે"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "દરેક"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "વાત"
+    },
+    {
+      "surface": "וערום",
+      "gloss": "પણ ચતુર"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "સમજ રાખે છે"
+    },
+    {
+      "surface": "לאשרו",
+      "gloss": "પોતાના કદમ પ્રત્યે"
+    }
+  ],
+  "timestamp": "2026-08-21T16:56:27.959981643Z",
+  "model": "glm-5.3"
+}

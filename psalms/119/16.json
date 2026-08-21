@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 119:16",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 119,
+  "translation": "તારા હુક્કોમાં હું રમીશ, તારો વચન હું નહીં ભૂલું.",
+  "tokens": [
+    {
+      "surface": "בחקתיך",
+      "gloss": "તારા હુક્કોમાં"
+    },
+    {
+      "surface": "אשתעשע",
+      "gloss": "હું રમીશ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "אשכח",
+      "gloss": "હું ભૂલું"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "તારો વચન"
+    }
+  ],
+  "timestamp": "2026-08-21T16:43:01.300417451Z",
+  "model": "glm-5.3"
+}

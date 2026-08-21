@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 27:16",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 27,
+  "translation": "યાહવે, સર્વ માંસની આત્માઓનો એલોહીમ, સભા પર એક પુરુષને નિયુક્ત કરો,",
+  "tokens": [
+    {
+      "surface": "יפקד",
+      "gloss": "નિયુક્ત કરો"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "એલોહીમ"
+    },
+    {
+      "surface": "הרוחת",
+      "gloss": "આત્માઓનો"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "સર્વ"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "માંસની"
+    },
+    {
+      "surface": "איש",
+      "gloss": "એક પુરુષને"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "સભા"
+    }
+  ],
+  "timestamp": "2026-08-21T12:06:53.197880353Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 14:24",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 14,
+  "translation": "જ્ઞાનીઓનો તાજ ⟨એમનું⟩ ધન ⟨છે⟩; મૂર્ખોની મૂર્ખાઈ મૂર્ખાઈ જ ⟨રહે છે⟩.",
+  "tokens": [
+    {
+      "surface": "עטרת",
+      "gloss": "તાજ"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "જ્ઞાનીઓનો"
+    },
+    {
+      "surface": "עשרם",
+      "gloss": "તેમનું ધન"
+    },
+    {
+      "surface": "אולת",
+      "gloss": "મૂર્ખાઈ"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "મૂર્ખોની"
+    },
+    {
+      "surface": "אולת",
+      "gloss": "મૂર્ખાઈ"
+    }
+  ],
+  "timestamp": "2026-08-21T16:57:08.109165887Z",
+  "model": "glm-5.3"
+}

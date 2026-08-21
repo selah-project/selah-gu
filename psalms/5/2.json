@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 5:2",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 5,
+  "translation": "યાહવે, મારાં વચનો કાન લગાડી સાંભળ; મારી ઘૂમણ સમજ.",
+  "tokens": [
+    {
+      "surface": "אמרי",
+      "gloss": "મારાં વચનો"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "કાન લગાડી સાંભળ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "સમજ"
+    },
+    {
+      "surface": "הגיגי",
+      "gloss": "મારી ઘૂમણ"
+    }
+  ],
+  "timestamp": "2026-08-21T16:10:34.225664482Z",
+  "model": "glm-5.3"
+}

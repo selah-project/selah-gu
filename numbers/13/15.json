@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 13:15",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 13,
+  "translation": "ગાદના કુળનો — ગેઊએલ, માખીનો પુત્ર.",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "કુળનો"
+    },
+    {
+      "surface": "גד",
+      "gloss": "ગાદના"
+    },
+    {
+      "surface": "גאואל",
+      "gloss": "ગેઊએલ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "પુત્ર"
+    },
+    {
+      "surface": "מכי",
+      "gloss": "માખીનો"
+    }
+  ],
+  "timestamp": "2026-08-21T11:55:16.636648428Z",
+  "model": "glm-5.3"
+}

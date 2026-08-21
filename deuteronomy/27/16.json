@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 27:16",
+  "book": "deuteronomy",
+  "lang": "gu",
+  "chapter": 27,
+  "translation": "શાપિત ⟨છે⟩ ⟨તે⟩ જે ⟨પોતાના⟩ પિતા કે માતાનો હલકો ગણે; અને આખી પ્રજા કહેશે: આમેન.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "શાપિત"
+    },
+    {
+      "surface": "מקלה",
+      "gloss": "હલકો ગણે"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "પિતા"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "અને માતાનો"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "અને કહેશે"
+    },
+    {
+      "surface": "כל",
+      "gloss": "આખી"
+    },
+    {
+      "surface": "העם",
+      "gloss": "પ્રજા"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "આમેન"
+    }
+  ],
+  "timestamp": "2026-08-21T12:26:24.756059615Z",
+  "model": "glm-5.3"
+}

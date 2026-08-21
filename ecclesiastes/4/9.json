@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 4:9",
+  "book": "ecclesiastes",
+  "lang": "gu",
+  "chapter": 4,
+  "translation": "સારા છે ⟨ક⟩ બેઉ એકલા કરતાં, કે જેમને પોતાના શ્રમમાં સારું વળતર છે.",
+  "tokens": [
+    {
+      "surface": "טובים",
+      "gloss": "સારા છે"
+    },
+    {
+      "surface": "השנים",
+      "gloss": "બેઉ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "કરતાં"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "એકલા"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "કે જેમને"
+    },
+    {
+      "surface": "יש",
+      "gloss": "છે"
+    },
+    {
+      "surface": "להם",
+      "gloss": "પોતાને"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "વળતર"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "સારું"
+    },
+    {
+      "surface": "בעמלם",
+      "gloss": "પોતાના શ્રમમાં"
+    }
+  ],
+  "timestamp": "2026-08-21T17:28:42.273696054Z",
+  "model": "glm-5.3"
+}

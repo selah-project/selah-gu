@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 22:11",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 22,
+  "translation": "શુદ્ધ હૃદયનો પ્રેમ કરનાર — તેના હોઠની કૃપાને લીધે — રાજા ⟨તેનો⟩ મિત્ર હોય છે.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "પ્રેમ કરનાર"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "શુદ્ધ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "હૃદયનો"
+    },
+    {
+      "surface": "חן",
+      "gloss": "કૃપા"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "તેના હોઠની"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "તેનો મિત્ર"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "રાજા"
+    }
+  ],
+  "timestamp": "2026-08-21T18:59:08.868801406Z",
+  "model": "glm-5.3"
+}

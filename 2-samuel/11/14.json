@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 11:14",
+  "book": "2-samuel",
+  "lang": "gu",
+  "chapter": 11,
+  "translation": "અને સવારે થયું, અને દાવિદે યોઆબને એક પત્ર લખ્યો અને ઉરિયાના હાથે મોકલ્યો.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "થયું"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "સવારે"
+    },
+    {
+      "surface": "ויכתב",
+      "gloss": "લખ્યો"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "દાવિદે"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "પત્ર"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ને"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "યોઆબને"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "મોકલ્યો"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "હાથે"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "ઉરિયાના"
+    }
+  ],
+  "timestamp": "2026-08-21T13:25:49.120904285Z",
+  "model": "glm-5.3"
+}

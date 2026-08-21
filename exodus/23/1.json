@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 23:1",
+  "book": "exodus",
+  "lang": "gu",
+  "chapter": 23,
+  "translation": "તું ખોટી સાક્ષી નહીં ઉઠાવે; દુષ્ટ સાથે તારો હાથ નાખીને હિંસાનો સાક્ષી નહીં થાય.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "ઉઠાવે"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "સાક્ષી-વાત"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "ખોટી"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ના"
+    },
+    {
+      "surface": "תשת",
+      "gloss": "નાખીને"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "તારો હાથ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "સાથે"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "દુષ્ટ"
+    },
+    {
+      "surface": "להית",
+      "gloss": "થાય"
+    },
+    {
+      "surface": "עד",
+      "gloss": "સાક્ષી"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "હિંસાનો"
+    }
+  ],
+  "timestamp": "2026-08-21T11:18:40.112781345Z",
+  "model": "glm-5.3"
+}

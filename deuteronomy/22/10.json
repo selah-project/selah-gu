@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 22:10",
+  "book": "deuteronomy",
+  "lang": "gu",
+  "chapter": 22,
+  "translation": "તું બળદ અને ગધેડાને સાથે જોડીને હળ નહીં ખેડીશ.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "હળ ખેડીશ"
+    },
+    {
+      "surface": "בשור",
+      "gloss": "બળદને"
+    },
+    {
+      "surface": "ובחמר",
+      "gloss": "અને ગધેડાને"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "સાથે"
+    }
+  ],
+  "timestamp": "2026-08-21T12:22:20.337494751Z",
+  "model": "glm-5.3"
+}

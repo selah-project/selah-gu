@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 4:12",
+  "book": "exodus",
+  "lang": "gu",
+  "chapter": 4,
+  "translation": "અને હવે જા, અને હું તારા મુખ સાથે હોઈશ, અને તમને તે શીખવીશ જે તું બોલશે.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "અને હવે"
+    },
+    {
+      "surface": "לך",
+      "gloss": "જા"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "અને હું"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "હોઈશ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "સાથે"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "તારા મુખ"
+    },
+    {
+      "surface": "והוריתיך",
+      "gloss": "અને શીખવીશ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જે"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "બોલશે"
+    }
+  ],
+  "timestamp": "2026-08-21T11:08:34.374798326Z",
+  "model": "glm-5.3"
+}

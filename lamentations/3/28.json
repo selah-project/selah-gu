@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "lamentations 3:28",
+  "book": "lamentations",
+  "lang": "gu",
+  "chapter": 3,
+  "translation": "⟨તે⟩ એકલો બેસે અને મૌન રાખે, કારણ કે ⟨તેણે⟩ ⟨તેના⟩ પર ⟨તે⟩ ઉઠાવ્યું ⟨છે⟩.",
+  "tokens": [
+    {
+      "surface": "ישב",
+      "gloss": "બેસે"
+    },
+    {
+      "surface": "בדד",
+      "gloss": "એકલો"
+    },
+    {
+      "surface": "וידם",
+      "gloss": "અને મૌન રાખે"
+    },
+    {
+      "surface": "כי",
+      "gloss": "કારણ કે"
+    },
+    {
+      "surface": "נטל",
+      "gloss": "ઉઠાવ્યું"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "તેના પર"
+    }
+  ],
+  "timestamp": "2026-08-21T17:25:35.360782917Z",
+  "model": "glm-5.3"
+}

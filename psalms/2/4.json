@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 2:4",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 2,
+  "translation": "આકાશમાં વિરાજમાન હસશે; અદોનાય તેમનો ટહુકો કરશે.",
+  "tokens": [
+    {
+      "surface": "יושב",
+      "gloss": "વિરાજમાન"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "આકાશમાં"
+    },
+    {
+      "surface": "ישחק",
+      "gloss": "હસશે"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "અદોનાય"
+    },
+    {
+      "surface": "ילעג",
+      "gloss": "ટહુકો કરશે"
+    },
+    {
+      "surface": "למו",
+      "gloss": "તેમનો"
+    }
+  ],
+  "timestamp": "2026-08-21T16:09:39.781382222Z",
+  "model": "glm-5.3"
+}

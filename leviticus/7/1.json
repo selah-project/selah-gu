@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 7:1",
+  "book": "leviticus",
+  "lang": "gu",
+  "chapter": 7,
+  "translation": "અને આ ⟨છે⟩ અશામ-ભેગાની તોરત; તે કોદેશ કોદશીમ ⟨છે⟩.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "અને આ"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "તોરત"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "અશામ-ભેગાની"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "કોદેશ"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "કોદશીમ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "તે"
+    }
+  ],
+  "timestamp": "2026-08-21T11:32:06.986710287Z",
+  "model": "glm-5.3"
+}

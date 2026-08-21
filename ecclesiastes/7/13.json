@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 7:13",
+  "book": "ecclesiastes",
+  "lang": "gu",
+  "chapter": 7,
+  "translation": "એલોહીમનું કાર્ય જુઓ, કેમ કે જેને ⟨એ⟩ણે વાંકું કર્યું છે તે ⟨את⟩ કોણ સીધું કરી શકે?",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "જુઓ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "કાર્ય"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "કાર્ય"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "એલોહીમનું"
+    },
+    {
+      "surface": "כי",
+      "gloss": "કેમ કે"
+    },
+    {
+      "surface": "מי",
+      "gloss": "કોણ"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "શકે"
+    },
+    {
+      "surface": "לתקן",
+      "gloss": "સીધું કરી"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "જે"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જે"
+    },
+    {
+      "surface": "עותו",
+      "gloss": "વાંકું કર્યું છે"
+    }
+  ],
+  "timestamp": "2026-08-21T17:30:48.792605116Z",
+  "model": "glm-5.3"
+}

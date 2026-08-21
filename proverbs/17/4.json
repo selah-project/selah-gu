@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 17:4",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 17,
+  "translation": "દુષ્ટ કરનાર અધર્મના હોઠ પર કાન ધરે છે, જૂઠાણું વિનાશની જીભ પર સાંભળે છે.",
+  "tokens": [
+    {
+      "surface": "מרע",
+      "gloss": "દુષ્ટ કરનાર"
+    },
+    {
+      "surface": "מקשיב",
+      "gloss": "કાન ધરે છે"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "હોઠ"
+    },
+    {
+      "surface": "און",
+      "gloss": "અધર્મના"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "જૂઠાણું"
+    },
+    {
+      "surface": "מזין",
+      "gloss": "સાંભળે છે"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "જીભ"
+    },
+    {
+      "surface": "הות",
+      "gloss": "વિનાશની"
+    }
+  ],
+  "timestamp": "2026-08-21T16:58:00.718097852Z",
+  "model": "glm-5.3"
+}

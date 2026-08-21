@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "numbers 31:39",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 31,
+  "translation": "અને ગધેડા ૩૦,૫૦૦, જેમાંથી તેમનો મકસ યાહવે માટે ⟨હતો⟩ ૬૧.",
+  "tokens": [
+    {
+      "surface": "וחמרים",
+      "gloss": "અને ગધેડા"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "૩૦"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "હજાર"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "૫"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "સો"
+    },
+    {
+      "surface": "ומכסם",
+      "gloss": "અને તેમનો મકસ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "યાહવે માટે"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "૧"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "૬૦"
+    }
+  ],
+  "timestamp": "2026-08-21T12:07:42.161707749Z",
+  "model": "glm-5.3"
+}

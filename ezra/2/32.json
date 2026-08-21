@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "ezra 2:32",
+  "book": "ezra",
+  "lang": "gu",
+  "chapter": 2,
+  "translation": "હારીમનાં પુત્રો, ત્રણસો વીસ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "હારીમ"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ત્રણ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "સો"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "અને વીસ"
+    }
+  ],
+  "timestamp": "2026-08-21T17:45:26.358160449Z",
+  "model": "glm-5.3"
+}

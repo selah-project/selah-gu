@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 13:15",
+  "book": "1-kings",
+  "lang": "gu",
+  "chapter": 13,
+  "translation": "તેણે તેને કહ્યું, “મારી સાથે ⟨את⟩ ઘર તરફ આવો અને ભોજન ખાઓ.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "તેણે કહ્યું"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "તેને"
+    },
+    {
+      "surface": "לך",
+      "gloss": "આવો"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ મારી સાથે"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "ઘર તરફ"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "અને ખાઓ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ભોજન"
+    }
+  ],
+  "timestamp": "2026-08-21T13:45:18.433550140Z",
+  "model": "glm-5.3"
+}

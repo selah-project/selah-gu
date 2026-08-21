@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 8:26",
+  "book": "exodus",
+  "lang": "gu",
+  "chapter": 8,
+  "translation": "અને મોશે ફારો પાસેથી બહાર ગયો, અને યાહવેને પ્રાર્થના કરી.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "અને બહાર ગયો"
+    },
+    {
+      "surface": "משה",
+      "gloss": "મોશે"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "પાસેથી"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ફારો"
+    },
+    {
+      "surface": "ויעתר",
+      "gloss": "અને પ્રાર્થના કરી"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ને"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    }
+  ],
+  "timestamp": "2026-08-21T11:10:31.307726314Z",
+  "model": "glm-5.3"
+}

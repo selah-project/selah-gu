@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 24:21",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 24,
+  "translation": "હે મારા પુત્ર, યાહવે અને રાજાનું ભય રાખ, અને ફેરફાર કરનારા સાથે ભળતો નહીં.",
+  "tokens": [
+    {
+      "surface": "ירא",
+      "gloss": "ભય રાખ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "યાહવે"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "בני",
+      "gloss": "હે મારા પુત્ર"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "અને રાજા"
+    },
+    {
+      "surface": "עם",
+      "gloss": "સાથે"
+    },
+    {
+      "surface": "שונים",
+      "gloss": "ફેરફાર કરનારા"
+    },
+    {
+      "surface": "אל",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "תתערב",
+      "gloss": "ભળતો"
+    }
+  ],
+  "timestamp": "2026-08-21T17:00:59.829804377Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 9:25",
+  "book": "genesis",
+  "lang": "gu",
+  "chapter": 9,
+  "translation": "અને તેણે કહ્યું: શાપિત છે કનાન; તે ⟨તેનાં⟩ ભાઈઓનો દાસોનો દાસ થશે.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "અને તેણે કહ્યું"
+    },
+    {
+      "surface": "ארור",
+      "gloss": "શાપિત છે"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "કનાન"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "દાસ"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "દાસોનો"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "થશે"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "તેનાં ભાઈઓનો"
+    }
+  ],
+  "timestamp": "2026-08-21T10:40:23.929795392Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 33:3",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 33,
+  "translation": "તેમને નવું ગીત ગાઓ; વાદનમાં નિપુણતા બતાવો, ઘોષણા-ધ્વનિ સાથે.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "ગાઓ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "તેમને"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "ગીત"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "નવું"
+    },
+    {
+      "surface": "היטיבו",
+      "gloss": "નિપુણતા બતાવો"
+    },
+    {
+      "surface": "נגן",
+      "gloss": "વાદનમાં"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "ઘોષણા-ધ્વનિ સાથે"
+    }
+  ],
+  "timestamp": "2026-08-21T16:19:24.159688607Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 118:3",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 118,
+  "translation": "અહરોનનું ઘર કહે, હે ⟨મારા⟩, કે સદાકાળ સુધી ⟨ચાલે છે⟩ તેનો હેસેદ.",
+  "tokens": [
+    {
+      "surface": "יאמרו",
+      "gloss": "કહે"
+    },
+    {
+      "surface": "נא",
+      "gloss": "હે ⟨મારા⟩"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ઘર"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "અહરોનનું"
+    },
+    {
+      "surface": "כי",
+      "gloss": "કે"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "સદાકાળ સુધી"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "તેનો હેસેદ"
+    }
+  ],
+  "timestamp": "2026-08-21T16:43:05.793086568Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 31:8",
+  "book": "job",
+  "lang": "gu",
+  "chapter": 31,
+  "translation": "તો હું વાવું અને બીજો ખાય, અને મારા પાક ઉખડી જાય.",
+  "tokens": [
+    {
+      "surface": "אזרעה",
+      "gloss": "વાવું"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "બીજો"
+    },
+    {
+      "surface": "יאછל",
+      "gloss": "ખાય"
+    },
+    {
+      "surface": "וצאצאי",
+      "gloss": "પાક"
+    },
+    {
+      "surface": "ישרשו",
+      "gloss": "ઉખડી જાય"
+    }
+  ],
+  "timestamp": "2026-08-21T17:15:14.131618716Z",
+  "model": "glm-5.3"
+}

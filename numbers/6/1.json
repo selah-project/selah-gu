@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 6:1",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 6,
+  "translation": "અને યાહવે મોશે સાથે વાત કર્યા, કહેવા લાગ્યા:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "અને વાત કર્યા"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "אל",
+      "gloss": "સાથે"
+    },
+    {
+      "surface": "משה",
+      "gloss": "મોશે"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "કહેવા લાગ્યા"
+    }
+  ],
+  "timestamp": "2026-08-21T11:52:53.763461832Z",
+  "model": "glm-5.3"
+}

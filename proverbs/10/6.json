@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 10:6",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 10,
+  "translation": "આશીર્વાદો ધર્મીના મસ્તક પર ⟨છે⟩, પણ દુષ્ટોનું મુખ હિંસાને ઢાંકે છે.",
+  "tokens": [
+    {
+      "surface": "ברכות",
+      "gloss": "આશીર્વાદો"
+    },
+    {
+      "surface": "לראש",
+      "gloss": "મસ્તક પર"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ધર્મીના"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "પણ … મુખ"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "દુષ્ટોનું"
+    },
+    {
+      "surface": "יכסה",
+      "gloss": "ઢાંકે છે"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "હિંસાને"
+    }
+  ],
+  "timestamp": "2026-08-21T16:54:48.670063511Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "jeremiah 31:26",
+  "book": "jeremiah",
+  "lang": "gu",
+  "chapter": 31,
+  "translation": "આના કારણે હું જાગ્યો, અને જોયું; અને મારી ઊંઘ મને મીઠી લાગી.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "આના કારણે"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "આ"
+    },
+    {
+      "surface": "הקיצתי",
+      "gloss": "હું જાગ્યો"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "અને જોયું"
+    },
+    {
+      "surface": "ושנתי",
+      "gloss": "અને મારી ઊંઘ"
+    },
+    {
+      "surface": "ערבה",
+      "gloss": "મીઠી લાગી"
+    },
+    {
+      "surface": "לי",
+      "gloss": "મને"
+    }
+  ],
+  "timestamp": "2026-08-21T15:00:16.704660771Z",
+  "model": "glm-5.3"
+}

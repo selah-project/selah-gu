@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 26:9",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 26,
+  "translation": "અને મેશેલેમ્યાહુને પુત્રો અને ભાઈઓ ⟨હતા⟩ — શૂરવીર પુત્રો, અઢાર।",
+  "tokens": [
+    {
+      "surface": "ולמשלמיהו",
+      "gloss": "અને મેશેલેમ્યાહુને"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "ואחים",
+      "gloss": "અને ભાઈઓ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "શૂરવીર"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "અઢાર"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "(દસ સાથે)"
+    }
+  ],
+  "timestamp": "2026-08-21T18:11:41.473568380Z",
+  "model": "glm-5.3"
+}

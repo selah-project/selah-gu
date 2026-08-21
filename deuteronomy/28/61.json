@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 61,
+  "ref": "deuteronomy 28:61",
+  "book": "deuteronomy",
+  "lang": "gu",
+  "chapter": 28,
+  "translation": "પણ દરેક માંદગી અને દરેક માર, જે આ તોરાહના પુસ્તકમાં લખેલ નથી, તે યાહવે તારા પર ચઢાવશે, જ્યાં સુધી તારો સંપૂર્ણ નાશ ન થાય.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "પણ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "દરેક"
+    },
+    {
+      "surface": "חלי",
+      "gloss": "માંદગી"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "અને દરેક"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "માર"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જે"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નથી"
+    },
+    {
+      "surface": "כתוב",
+      "gloss": "લખેલ"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "પુસ્તકમાં"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "તોરાહના"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "આ"
+    },
+    {
+      "surface": "יעלם",
+      "gloss": "ચઢાવશે"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "તારા પર"
+    },
+    {
+      "surface": "עד",
+      "gloss": "જ્યાં સુધી"
+    },
+    {
+      "surface": "השמדך",
+      "gloss": "તારો સંપૂર્ણ નાશ"
+    }
+  ],
+  "timestamp": "2026-08-21T12:29:54.472119737Z",
+  "model": "glm-5.3"
+}

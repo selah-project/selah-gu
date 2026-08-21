@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezekiel 24:19",
+  "book": "ezekiel",
+  "lang": "gu",
+  "chapter": 24,
+  "translation": "અને પ્રજાએ મને કહ્યું, શું તું અમને નહીં જણાવે કે આ બધું અમારા માટે શું છે, જે તું કરી રહ્યો છે?",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "અને કહ્યું"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "મને"
+    },
+    {
+      "surface": "העם",
+      "gloss": "પ્રજાએ"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "શું... નહીં"
+    },
+    {
+      "surface": "תגיד",
+      "gloss": "જણાવે"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "અમને"
+    },
+    {
+      "surface": "מה",
+      "gloss": "શું"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "આ બધું"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "અમારા માટે"
+    },
+    {
+      "surface": "כי",
+      "gloss": "જે"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "તું"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "કરી રહ્યો છે"
+    }
+  ],
+  "timestamp": "2026-08-21T15:30:20.230098904Z",
+  "model": "glm-5.3"
+}

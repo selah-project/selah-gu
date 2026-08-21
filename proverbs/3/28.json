@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 3:28",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 3,
+  "translation": "તારા પડોશીને કહેતો નહીં કે “જા, પાછો આવ, અને કાલ આપીશ”, જ્યારે તારી પાસે ⟨את⟩ હોય.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "કહેતો"
+    },
+    {
+      "surface": "לרעיך",
+      "gloss": "તારા પડોશીને"
+    },
+    {
+      "surface": "לך",
+      "gloss": "જા"
+    },
+    {
+      "surface": "ושוב",
+      "gloss": "અને…પાછો આવ"
+    },
+    {
+      "surface": "ומחר",
+      "gloss": "અને…કાલ"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "આપીશ"
+    },
+    {
+      "surface": "ויש",
+      "gloss": "અને…હોય"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ તારી પાસે"
+    }
+  ],
+  "timestamp": "2026-08-21T16:52:21.780878536Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 55:8",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 55,
+  "translation": "જુઓ, હું દૂર ભટકી જાઉં, જંગલમાં રાત ગાળું. સેલા.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "જુઓ"
+    },
+    {
+      "surface": "ארחיק",
+      "gloss": "દૂર"
+    },
+    {
+      "surface": "נדד",
+      "gloss": "ભટકી જાઉં"
+    },
+    {
+      "surface": "אלין",
+      "gloss": "રાત ગાળું"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "જંગલમાં"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "સેલા"
+    }
+  ],
+  "timestamp": "2026-08-21T16:24:04.288881106Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "numbers 33:27",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 33,
+  "translation": "અને તેઓ તાખતથી પ્રયાણ કરી, તરાખમાં ડેરા નાખ્યો.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "અને તેઓ પ્રયાણ કરી"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "તાખતથી"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "ડેરા નાખ્યો"
+    },
+    {
+      "surface": "בתרח",
+      "gloss": "તરાખમાં"
+    }
+  ],
+  "timestamp": "2026-08-21T12:09:55.253138954Z",
+  "model": "glm-5.3"
+}

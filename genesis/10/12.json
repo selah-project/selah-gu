@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 10:12",
+  "book": "genesis",
+  "lang": "gu",
+  "chapter": 10,
+  "translation": "અને ⟨את⟩ રેસેન — નીનવે અને કલાખ વચ્ચે; તે ⟨છે⟩ ⟨મહાન⟩ શહેર.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "રેસેન"
+    },
+    {
+      "surface": "רסן",
+      "gloss": "રેસેન"
+    },
+    {
+      "surface": "בין",
+      "gloss": "વચ્ચે"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "નીનવે"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "અને"
+    },
+    {
+      "surface": "כלח",
+      "gloss": "કલાખ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "તે"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "શહેર"
+    },
+    {
+      "surface": "הגדלה",
+      "gloss": "મહાન"
+    }
+  ],
+  "timestamp": "2026-08-21T10:41:38.416683131Z",
+  "model": "glm-5.3"
+}

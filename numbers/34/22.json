@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 34:22",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 34,
+  "translation": "અને દાનનાં પુત્રોના કુળ માટે નાગરિક-પ્રમુખ બુક્કી યોગ્લીનો પુત્ર.",
+  "tokens": [
+    {
+      "surface": "ולמטה",
+      "gloss": "અને…કુળ માટે"
+    },
+    {
+      "surface": "בני",
+      "gloss": "પુત્રોનાં"
+    },
+    {
+      "surface": "דן",
+      "gloss": "દાન"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "નાગરિક-પ્રમુખ"
+    },
+    {
+      "surface": "בקי",
+      "gloss": "બુક્કી"
+    },
+    {
+      "surface": "בן",
+      "gloss": "પુત્ર"
+    },
+    {
+      "surface": "יגלי",
+      "gloss": "યોગ્લી"
+    }
+  ],
+  "timestamp": "2026-08-21T12:10:04.092181697Z",
+  "model": "glm-5.3"
+}

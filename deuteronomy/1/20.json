@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 1:20",
+  "book": "deuteronomy",
+  "lang": "gu",
+  "chapter": 1,
+  "translation": "અને હું તમને કહ્યું: તમે અમોરીના પર્વત સુધી આવી પહોંચ્યા છો, જે યાહવે અમારા એલોહીમ અમને આપે છે.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "અને હું કહ્યું"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "તમને"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "તમે આવી પહોંચ્યા છો"
+    },
+    {
+      "surface": "עד",
+      "gloss": "સુધી"
+    },
+    {
+      "surface": "הר",
+      "gloss": "પર્વત"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "અમોરીના"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જે"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "અમારા એલોહીમ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "આપે છે"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "અમને"
+    }
+  ],
+  "timestamp": "2026-08-21T12:13:50.625114260Z",
+  "model": "glm-5.3"
+}

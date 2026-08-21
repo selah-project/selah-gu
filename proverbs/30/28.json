@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 30:28",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 30,
+  "translation": "ગેક્કો હાથોથી પકડી શકાય ⟨છે⟩, છતાં તે રાજાના મહેલોમાં ⟨રહે છે⟩.",
+  "tokens": [
+    {
+      "surface": "שממית",
+      "gloss": "ગેક્કો"
+    },
+    {
+      "surface": "בידים",
+      "gloss": "હાથોથી"
+    },
+    {
+      "surface": "תתפש",
+      "gloss": "પકડી શકાય"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "છતાં તે"
+    },
+    {
+      "surface": "בהיכלי",
+      "gloss": "મહેલોમાં"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "રાજાના"
+    }
+  ],
+  "timestamp": "2026-08-21T18:58:54.415747593Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "nehemiah 10:4",
+  "book": "nehemiah",
+  "lang": "gu",
+  "chapter": 10,
+  "translation": "પાશહુર, અમર્યાહ, મલ્કીયાહ.",
+  "tokens": [
+    {
+      "surface": "פשחור",
+      "gloss": "પાશહુર"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "અમર્યાહ"
+    },
+    {
+      "surface": "מלכיה",
+      "gloss": "મલ્કીયાહ"
+    }
+  ],
+  "timestamp": "2026-08-21T17:55:38.166060715Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 16:12",
+  "book": "deuteronomy",
+  "lang": "gu",
+  "chapter": 16,
+  "translation": "અને તું યાદ રાખીશ કે તું મિત્સરાયિમમાં દાસ હતો; અને તું ⟨את⟩ આ વિધાનો જાળવીને પાળીશ.",
+  "tokens": [
+    {
+      "surface": "וזכרת",
+      "gloss": "અને તું યાદ રાખીશ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "કે"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "દાસ"
+    },
+    {
+      "surface": "היית",
+      "gloss": "હતો"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "મિત્સરાયિમમાં"
+    },
+    {
+      "surface": "ושמרת",
+      "gloss": "અને તું જાળવીશ"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "અને પાળીશ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "આ વિધાનો"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "આ વિધાનો"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "આ"
+    }
+  ],
+  "timestamp": "2026-08-21T12:20:11.406668698Z",
+  "model": "glm-5.3"
+}

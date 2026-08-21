@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 18:28",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 18,
+  "translation": "કેમ કે તમે દીન પ્રજાને મુક્ત કરો છો, અને ઉંચી આંખોને તમે નીચી કરો છો.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "કેમ કે"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "તમે"
+    },
+    {
+      "surface": "עם",
+      "gloss": "પ્રજા"
+    },
+    {
+      "surface": "עני",
+      "gloss": "દીન"
+    },
+    {
+      "surface": "תושיע",
+      "gloss": "મુક્ત કરો છો"
+    },
+    {
+      "surface": "ועינים",
+      "gloss": "અને આંખો"
+    },
+    {
+      "surface": "רמות",
+      "gloss": "ઉંચી"
+    },
+    {
+      "surface": "תשפיל",
+      "gloss": "નીચી કરો છો"
+    }
+  ],
+  "timestamp": "2026-08-21T16:14:48.173291572Z",
+  "model": "glm-5.3"
+}

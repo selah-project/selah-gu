@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 10:11",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 10,
+  "translation": "જીવનનો ઝરો છે સદાચારીનું મુખ, અને દુષ્ટોનું મુખ હિંસા ઢાંકે છે.",
+  "tokens": [
+    {
+      "surface": "מקור",
+      "gloss": "ઝરો"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "જીવનનો"
+    },
+    {
+      "surface": "פי",
+      "gloss": "મુખ"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "સદાચારીનું"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "અને મુખ"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "દુષ્ટોનું"
+    },
+    {
+      "surface": "יכסה",
+      "gloss": "ઢાંકે છે"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "હિંસા"
+    }
+  ],
+  "timestamp": "2026-08-21T16:54:42.653029471Z",
+  "model": "glm-5.3"
+}

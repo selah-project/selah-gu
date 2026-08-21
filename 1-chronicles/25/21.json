@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 25:21",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 25,
+  "translation": "ચૌદમાં મત્તિત્યાહુ, ⟨તેનાં⟩ પુત્રો અને ⟨તેનાં⟩ ભાઈઓ — બાર જણ.",
+  "tokens": [
+    {
+      "surface": "לארבעה",
+      "gloss": "ચૌદમાં"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ચૌદમાં"
+    },
+    {
+      "surface": "מתתיהו",
+      "gloss": "મત્તિત્યાહુ"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "અને ભાઈઓ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "બાર"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "બાર"
+    }
+  ],
+  "timestamp": "2026-08-21T18:11:02.230461816Z",
+  "model": "glm-5.3"
+}

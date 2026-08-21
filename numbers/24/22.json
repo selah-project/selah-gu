@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 24:22",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 24,
+  "translation": "કારણ કે જો કાયિન બાળી નાખવામાં આવશે — ક્યાં સુધી? — અશ્શુર તને કેદ કરી લઈ જશે.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "કારણ કે"
+    },
+    {
+      "surface": "אם",
+      "gloss": "જો"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "થશે"
+    },
+    {
+      "surface": "לבער",
+      "gloss": "બાળી નાખવામાં"
+    },
+    {
+      "surface": "קין",
+      "gloss": "કાયિન"
+    },
+    {
+      "surface": "עד",
+      "gloss": "સુધી"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ક્યાં"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "અશ્શુર"
+    },
+    {
+      "surface": "תשבך",
+      "gloss": "તને કેદ કરશે"
+    }
+  ],
+  "timestamp": "2026-08-21T12:03:43.087738024Z",
+  "model": "glm-5.3"
+}

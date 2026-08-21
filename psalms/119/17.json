@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 119:17",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 119,
+  "translation": "તારા દાસ પ્રત્યે ઉપકાર કર, હું જીવીશ અને તારો વચન પાળીશ.",
+  "tokens": [
+    {
+      "surface": "גמל",
+      "gloss": "ઉપકાર કર"
+    },
+    {
+      "surface": "על",
+      "gloss": "પ્રત્યે"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "તારા દાસ"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "હું જીવીશ"
+    },
+    {
+      "surface": "ואשמרה",
+      "gloss": "અને પાળીશ"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "તારો વચન"
+    }
+  ],
+  "timestamp": "2026-08-21T18:57:54.732317686Z",
+  "model": "glm-5.3"
+}

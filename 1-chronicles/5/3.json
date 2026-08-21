@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 5:3",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 5,
+  "translation": "રઆૂબેનના પુત્રો — ઇસ્રાએલના જેઠા: હાનોખ, અને ફલ્લૂ, હત્સરોન અને કર્મી.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "રઆૂબેનના"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "જેઠા"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ઇસ્રાએલના"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "હાનોખ"
+    },
+    {
+      "surface": "ופלוא",
+      "gloss": "અને ફલ્લૂ"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "હત્સરોન"
+    },
+    {
+      "surface": "וכרמי",
+      "gloss": "અને કર્મી"
+    }
+  ],
+  "timestamp": "2026-08-21T18:01:53.528898202Z",
+  "model": "glm-5.3"
+}

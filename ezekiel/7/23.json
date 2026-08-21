@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 7:23",
+  "book": "ezekiel",
+  "lang": "gu",
+  "chapter": 7,
+  "translation": "સાંકળ બનાવ, કેમ કે પૃથ્વી લોહીના વિધાનથી ભરેલી છે અને નગર હિંસાથી ભરેલું છે.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "બનાવ"
+    },
+    {
+      "surface": "הרתוק",
+      "gloss": "સાંકળ"
+    },
+    {
+      "surface": "છי",
+      "gloss": "કેમ કે"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "પૃથ્વી"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "ભરેલી છે"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "વિધાન"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "લોહીના"
+    },
+    {
+      "surface": "והעיר",
+      "gloss": "અને નગર"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "ભરેલું છે"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "હિંસાથી"
+    }
+  ],
+  "timestamp": "2026-08-21T15:17:54.331781044Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 7:26",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 7,
+  "translation": "લાદાન ⟨તેનો⟩ પુત્ર, અમ્મીહૂદ ⟨તેનો⟩ પુત્ર, એલીશામા ⟨તેનો⟩ પુત્ર.",
+  "tokens": [
+    {
+      "surface": "לעדן",
+      "gloss": "લાદાન"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "તેનો પુત્ર"
+    },
+    {
+      "surface": "עמיהוד",
+      "gloss": "અમ્મીહૂદ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "તેનો પુત્ર"
+    },
+    {
+      "surface": "אלישמע",
+      "gloss": "એલીશામા"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "તેનો પુત્ર"
+    }
+  ],
+  "timestamp": "2026-08-21T18:03:25.958747477Z",
+  "model": "glm-5.3"
+}

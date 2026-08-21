@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 36:14",
+  "book": "isaiah",
+  "lang": "gu",
+  "chapter": 36,
+  "translation": "આ પ્રમાણે રાજા કહે છે: હિઝકિયા તમને છેતરે નહિ, કારણ કે તે તમને ⟨את⟩ બચાવવા સમર્થ નહિ થાય.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "આ પ્રમાણે"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "કહે છે"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "રાજા"
+    },
+    {
+      "surface": "אל",
+      "gloss": "નહિ"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "છેતરે"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "તમને"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "હિઝકિયા"
+    },
+    {
+      "surface": "כי",
+      "gloss": "કારણ કે"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નહિ"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "સમર્થ થાય"
+    },
+    {
+      "surface": "להציל",
+      "gloss": "બચાવવા"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "તમને"
+    }
+  ],
+  "timestamp": "2026-08-21T14:30:43.851773581Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 9:1",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 9,
+  "translation": "જ્ઞાને ⟨את⟩ પોતાનું ઘર બાંધ્યું, ⟨את⟩ પોતાના સ્તંભો કોતર્યા — સાત.",
+  "tokens": [
+    {
+      "surface": "חכמות",
+      "gloss": "જ્ઞાન"
+    },
+    {
+      "surface": "בנתה",
+      "gloss": "બાંધ્યું"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "પોતાનું ઘર"
+    },
+    {
+      "surface": "חצבה",
+      "gloss": "કોતર્યા"
+    },
+    {
+      "surface": "עמודיה",
+      "gloss": "પોતાના સ્તંભો"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "સાત"
+    }
+  ],
+  "timestamp": "2026-08-21T16:54:39.965559283Z",
+  "model": "glm-5.3"
+}

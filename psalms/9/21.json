@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 9:21",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 9,
+  "translation": "યાહવે, તેઓ પર ભય મૂકો; જાતિઓ જાણે કે ⟨તેઓ⟩ માત્ર મરણશીલ માનવો છે. સેલા.",
+  "tokens": [
+    {
+      "surface": "שיתה",
+      "gloss": "મૂકો"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "מורה",
+      "gloss": "ભય"
+    },
+    {
+      "surface": "להם",
+      "gloss": "તેઓ પર"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "જાણે"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "જાતિઓ"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "મરણશીલ માનવો"
+    },
+    {
+      "surface": "המה",
+      "gloss": "⟨તેઓ⟩ છે"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "સેલા"
+    }
+  ],
+  "timestamp": "2026-08-21T18:55:06.034333569Z",
+  "model": "glm-5.3"
+}

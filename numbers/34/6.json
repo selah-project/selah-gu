@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 34:6",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 34,
+  "translation": "અને પશ્ચિમની સીમા તમારા માટે મહાન સમુદ્ર થશે; ⟨તે⟩ ⟨છે⟩ તમારા માટે પશ્ચિમની સીમા.",
+  "tokens": [
+    {
+      "surface": "וגבול",
+      "gloss": "અને સીમા"
+    },
+    {
+      "surface": "ים",
+      "gloss": "પશ્ચિમ"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "થશે"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "તમારા માટે"
+    },
+    {
+      "surface": "הים",
+      "gloss": "સમુદ્ર"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "મહાન"
+    },
+    {
+      "surface": "וגבול",
+      "gloss": "અને સીમા"
+    },
+    {
+      "surface": "זה",
+      "gloss": "⟨તે⟩"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "છે"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "તમારા માટે"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "સીમા"
+    },
+    {
+      "surface": "ים",
+      "gloss": "પશ્ચિમ"
+    }
+  ],
+  "timestamp": "2026-08-21T12:10:16.865519161Z",
+  "model": "glm-5.3"
+}

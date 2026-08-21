@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 24:14",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 24,
+  "translation": "પંદરમાં બિલ્ગા માટે, સોળમાં ઇમ્મેર માટે।",
+  "tokens": [
+    {
+      "surface": "לבלגה",
+      "gloss": "બિલ્ગા માટે"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "પાંચ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "-દરમાં (દસ)"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ઇમ્મેર માટે"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "છ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "-ળમાં (દસ)"
+    }
+  ],
+  "timestamp": "2026-08-21T18:11:02.193660223Z",
+  "model": "glm-5.3"
+}

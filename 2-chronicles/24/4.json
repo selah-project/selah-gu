@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 24:4",
+  "book": "2-chronicles",
+  "lang": "gu",
+  "chapter": 24,
+  "translation": "અને પછી એ બન્યું, યોઆશના હૃદય પર ⟨તે⟩ આવ્યું કે યાહવેના ગૃહને ⟨את⟩ નવું કરવું.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "અને બન્યું"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "પછી"
+    },
+    {
+      "surface": "כן",
+      "gloss": "એ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨તે⟩ આવ્યું"
+    },
+    {
+      "surface": "עם",
+      "gloss": "સાથે"
+    },
+    {
+      "surface": "לב",
+      "gloss": "હૃદય"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "યોઆશના"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "નવું કરવું"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "યાહવેના ગૃહને"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ગૃહ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવેના"
+    }
+  ],
+  "timestamp": "2026-08-21T18:24:40.958385118Z",
+  "model": "glm-5.3"
+}

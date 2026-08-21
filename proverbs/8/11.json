@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 8:11",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 8,
+  "translation": "કારણ કે ચતુરાઈ ચકમકો કરતાં સારી ⟨છે⟩, અને બધી ઇચ્છિત વસ્તુઓ તેની સાથે સરખી નથી.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "કારણ કે"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "સારી"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ચતુરાઈ"
+    },
+    {
+      "surface": "מפנינים",
+      "gloss": "ચકમકો કરતાં"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "અને બધી"
+    },
+    {
+      "surface": "חפצים",
+      "gloss": "ઇચ્છિત વસ્તુઓ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "ישוו",
+      "gloss": "સરખી"
+    },
+    {
+      "surface": "בה",
+      "gloss": "તેની સાથે"
+    }
+  ],
+  "timestamp": "2026-08-21T16:53:34.085053097Z",
+  "model": "glm-5.3"
+}

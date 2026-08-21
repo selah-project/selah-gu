@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 23:24",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 23,
+  "translation": "ન્યાયીનો પિતા અત્યંત આનંદ કરશે; જ્ઞાનીને જન્મ આપનાર તેમાં આનંદિત થશે.",
+  "tokens": [
+    {
+      "surface": "גול",
+      "gloss": "અત્યંત આનંદ"
+    },
+    {
+      "surface": "יגול",
+      "gloss": "કરશે"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "પિતા"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ન્યાયીનો"
+    },
+    {
+      "surface": "יולד",
+      "gloss": "જન્મ આપનાર"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "જ્ઞાનીને"
+    },
+    {
+      "surface": "וישמח",
+      "gloss": "અને આનંદિત થશે"
+    },
+    {
+      "surface": "בו",
+      "gloss": "તેમાં"
+    }
+  ],
+  "timestamp": "2026-08-21T17:00:21.111488781Z",
+  "model": "glm-5.3"
+}

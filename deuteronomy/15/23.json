@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 15:23",
+  "book": "deuteronomy",
+  "lang": "gu",
+  "chapter": 15,
+  "translation": "ફક્ત ⟨את⟩ તેનું લોહી ન ખાઈશ; ⟨તેને⟩ પૃથ્વી પર પાણીની જેમ રેડી દેશ.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "ફક્ત"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "તેનું લોહી"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "તેનું લોહી"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "ખાઈશ"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "પૃથ્વી"
+    },
+    {
+      "surface": "תשפכנו",
+      "gloss": "રેડી દેશ"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "પાણીની જેમ"
+    }
+  ],
+  "timestamp": "2026-08-21T12:19:29.690060735Z",
+  "model": "glm-5.3"
+}

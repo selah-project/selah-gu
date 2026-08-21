@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 27:4",
+  "book": "leviticus",
+  "lang": "gu",
+  "chapter": 27,
+  "translation": "અને જો ⟨તે⟩ સ્ત્રી હોય, તો તારું મૂલ્યાંકન ત્રીસ શેકેલ ⟨થાય⟩.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "અને જો"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "સ્ત્રી"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "તે"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "તો…થાય"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "તારું મૂલ્યાંકન"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "ત્રીસ"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "શેકેલ"
+    }
+  ],
+  "timestamp": "2026-08-21T11:48:15.502179581Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 10:18",
+  "book": "ecclesiastes",
+  "lang": "gu",
+  "chapter": 10,
+  "translation": "આળસથી છત નીચું આવે છે, અને હાથોની નિષ્ક્રિયતાથી ઘર ટપકે છે.",
+  "tokens": [
+    {
+      "surface": "בעצלתים",
+      "gloss": "આળસથી"
+    },
+    {
+      "surface": "ימך",
+      "gloss": "નીચું આવે છે"
+    },
+    {
+      "surface": "המקרה",
+      "gloss": "છત"
+    },
+    {
+      "surface": "ובשפלות",
+      "gloss": "અને નિષ્ક્રિયતાથી"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "હાથોની"
+    },
+    {
+      "surface": "ידלף",
+      "gloss": "ટપકે છે"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ઘર"
+    }
+  ],
+  "timestamp": "2026-08-21T17:30:43.156330741Z",
+  "model": "glm-5.3"
+}

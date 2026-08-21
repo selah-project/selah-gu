@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "exodus 39:36",
+  "book": "exodus",
+  "lang": "gu",
+  "chapter": 39,
+  "translation": "⟨את⟩ ટેબલ, ⟨את⟩ તેનાં બધાં સાધનો, અને ⟨את⟩ સામેનો લોટ.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ટેબલ"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "ટેબલ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "બધાં સાધનો"
+    },
+    {
+      "surface": "כל",
+      "gloss": "બધાં"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "તેનાં સાધનો"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "અને ⟨את⟩",
+      "marks": "લોટ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "લોટ"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "સામેનો"
+    }
+  ],
+  "timestamp": "2026-08-21T11:28:52.483109894Z",
+  "model": "glm-5.3"
+}

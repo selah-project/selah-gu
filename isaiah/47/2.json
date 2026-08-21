@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 47:2",
+  "book": "isaiah",
+  "lang": "gu",
+  "chapter": 47,
+  "translation": "જાતે લો, અને પીસ, લોટ; પડકાર, તારો ઘૂઘટ; ઉતાર, તારી પાયતળા; ઝાંખી કર, તારો પગ; નદીઓ પાર કર.",
+  "tokens": [
+    {
+      "surface": "קחי",
+      "gloss": "લો"
+    },
+    {
+      "surface": "רחים",
+      "gloss": "જાત"
+    },
+    {
+      "surface": "וטחני",
+      "gloss": "અને પીસ"
+    },
+    {
+      "surface": "קמח",
+      "gloss": "લોટ"
+    },
+    {
+      "surface": "גלי",
+      "gloss": "પડકાર"
+    },
+    {
+      "surface": "צמתך",
+      "gloss": "તારો ઘૂઘટ"
+    },
+    {
+      "surface": "חשפי",
+      "gloss": "ઉતાર"
+    },
+    {
+      "surface": "שבל",
+      "gloss": "પાયતળા"
+    },
+    {
+      "surface": "גלי",
+      "gloss": "ઝાંખી કર"
+    },
+    {
+      "surface": "שוק",
+      "gloss": "પગ"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "પાર કર"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "નદીઓ"
+    }
+  ],
+  "timestamp": "2026-08-21T14:35:27.454739370Z",
+  "model": "glm-5.3"
+}

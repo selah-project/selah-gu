@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 16:27",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 16,
+  "translation": "નિષ્ઠુણ માણસ દુષ્ટતા ખોદે છે, અને તેના હોઠ પર બળતી આગ જેવું ⟨છે⟩.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "માણસ"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "નિષ્ઠુણ"
+    },
+    {
+      "surface": "כרה",
+      "gloss": "ખોદે છે"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "દુષ્ટતા"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "અને પર"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "તેના હોઠ"
+    },
+    {
+      "surface": "כאש",
+      "gloss": "આગ જેવું"
+    },
+    {
+      "surface": "צרבת",
+      "gloss": "બળતી"
+    }
+  ],
+  "timestamp": "2026-08-21T16:57:31.065418828Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 44:5",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 44,
+  "translation": "તું જ ⟨છે⟩ મારો રાજા, હે એલોહીમ; યાકોબનાં મુક્તિદાન આજ્ઞા કર.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "તું"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "જ"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "મારો રાજા"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "એલોહીમ"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "આજ્ઞા કર"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "મુક્તિદાન"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "યાકોબનાં"
+    }
+  ],
+  "timestamp": "2026-08-21T16:21:14.768876104Z",
+  "model": "glm-5.3"
+}

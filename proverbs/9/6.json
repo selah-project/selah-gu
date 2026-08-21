@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 9:6",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 9,
+  "translation": "છોડો ⟨તમે⟩ સાદાપણું અને જીવો; અને સમજણના માર્ગે ચાલો.",
+  "tokens": [
+    {
+      "surface": "עזבו",
+      "gloss": "છોડો"
+    },
+    {
+      "surface": "פתאים",
+      "gloss": "સાદાપણું"
+    },
+    {
+      "surface": "וחיו",
+      "gloss": "અને જીવો"
+    },
+    {
+      "surface": "ואשרו",
+      "gloss": "અને ચાલો"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "માર્ગે"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "સમજણ"
+    }
+  ],
+  "timestamp": "2026-08-21T16:54:35.243356931Z",
+  "model": "glm-5.3"
+}

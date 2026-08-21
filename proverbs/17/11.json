@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 17:11",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 17,
+  "translation": "બળવાખોર જ કુંભાગ્ય શોધે છે, અને તેની વિરુદ્ધ ક્રૂર દૂત મોકલાશે.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "જ"
+    },
+    {
+      "surface": "מרי",
+      "gloss": "બળવાખોર"
+    },
+    {
+      "surface": "יבקש",
+      "gloss": "શોધે છે"
+    },
+    {
+      "surface": "רע",
+      "gloss": "કુંભાગ્ય"
+    },
+    {
+      "surface": "ומלאך",
+      "gloss": "અને દૂત"
+    },
+    {
+      "surface": "אכזרי",
+      "gloss": "ક્રૂર"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "મોકલાશે"
+    },
+    {
+      "surface": "בו",
+      "gloss": "તેની વિરુદ્ધ"
+    }
+  ],
+  "timestamp": "2026-08-21T16:57:02.575245125Z",
+  "model": "glm-5.3"
+}

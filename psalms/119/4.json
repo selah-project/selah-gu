@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 119:4",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 119,
+  "translation": "તમે આજ્ઞા કરી છે કે તમારાં પિક્કુદીમ અત્યંત જાળવીએ.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "તમે"
+    },
+    {
+      "surface": "צויתה",
+      "gloss": "આજ્ઞા કરી છે"
+    },
+    {
+      "surface": "פקדיך",
+      "gloss": "તમારાં પિક્કુદીમ"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "જાળવીએ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "અત્યંત"
+    }
+  ],
+  "timestamp": "2026-08-21T16:43:29.796904240Z",
+  "model": "glm-5.3"
+}

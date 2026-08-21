@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "amos 5:1",
+  "book": "amos",
+  "lang": "gu",
+  "chapter": 5,
+  "translation": "સાંભળો ⟨את⟩ આ વચન જે હું તમારા પર ઊઠાવી રહ્યો છું — વિલાપ ⟨છે⟩, ઇસ્રાએલના ઘર પર।",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "સાંભળો"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "આ વચન"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "વચન"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "આ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જે"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "હું"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "ઊઠાવી રહ્યો છું"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "તમારા પર"
+    },
+    {
+      "surface": "קינה",
+      "gloss": "વિલાપ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ઘર"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ઇસ્રાએલ"
+    }
+  ],
+  "timestamp": "2026-08-21T15:54:03.478526735Z",
+  "model": "glm-5.3"
+}

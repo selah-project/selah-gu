@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 8:18",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 8,
+  "translation": "ધન અને માન મારી ⟨את⟩ સાથે છે; અઢળક સંપત્તિ અને સદ્‌ધર્મ.",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "ધન"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "અને માન"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ સાથે",
+      "marks": "મારી"
+    },
+    {
+      "surface": "הון",
+      "gloss": "સંપત્તિ"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "અઢળક"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "અને સદ્‌ધર્મ"
+    }
+  ],
+  "timestamp": "2026-08-21T16:54:35.394844035Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 35:5",
+  "book": "isaiah",
+  "lang": "gu",
+  "chapter": 35,
+  "translation": "ત્યારે આંધળાની આંખો ખૂલશે અને બહેરાના કાન ખૂલશે.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "ત્યારે"
+    },
+    {
+      "surface": "תפקחנה",
+      "gloss": "ખૂલશે"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "આંખો"
+    },
+    {
+      "surface": "עורים",
+      "gloss": "આંધળાની"
+    },
+    {
+      "surface": "ואזני",
+      "gloss": "અને બહેરાના કાન"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "બહેરાના"
+    },
+    {
+      "surface": "תפתחנה",
+      "gloss": "ખૂલશે"
+    }
+  ],
+  "timestamp": "2026-08-21T14:29:22.328204179Z",
+  "model": "glm-5.3"
+}

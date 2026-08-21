@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 3:24",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 3,
+  "translation": "અને ગેરશોનીઓના પિતૃ-ગૃહનો નાયક એલ્યાસાફ, લાએલનો પુત્ર, ⟨હશે⟩.",
+  "tokens": [
+    {
+      "surface": "ונשיא",
+      "gloss": "અને નાયક"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ગૃહનો"
+    },
+    {
+      "surface": "אב",
+      "gloss": "પિતૃ-"
+    },
+    {
+      "surface": "לגרשני",
+      "gloss": "ગેરશોનીઓના"
+    },
+    {
+      "surface": "אליסף",
+      "gloss": "એલ્યાસાફ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "પુત્ર"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "લાએલનો"
+    }
+  ],
+  "timestamp": "2026-08-21T11:49:20.510453376Z",
+  "model": "glm-5.3"
+}

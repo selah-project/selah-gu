@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 24:6",
+  "book": "leviticus",
+  "lang": "gu",
+  "chapter": 24,
+  "translation": "અને તું તેમને ⟨את⟩ બે હારમાં મૂકીશ — હાર એકે છ — શુદ્ધ મેજ પર, યાહવેની સમક્ષ.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "અને તું મૂકીશ"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "તેમને (રોટલીઓ)"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "બે"
+    },
+    {
+      "surface": "מערכות",
+      "gloss": "હારમાં"
+    },
+    {
+      "surface": "שש",
+      "gloss": "છ"
+    },
+    {
+      "surface": "המערכת",
+      "gloss": "હાર એકે"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "મેજ"
+    },
+    {
+      "surface": "הטהר",
+      "gloss": "શુદ્ધ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "સમક્ષ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    }
+  ],
+  "timestamp": "2026-08-21T11:44:46.082622947Z",
+  "model": "glm-5.3"
+}

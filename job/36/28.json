@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "job 36:28",
+  "book": "job",
+  "lang": "gu",
+  "chapter": 36,
+  "translation": "જેને વાદળો વહાવે છે, તે માનવો પર પુષ્કળ ટપકે છે.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "જેને"
+    },
+    {
+      "surface": "יזלו",
+      "gloss": "વહાવે છે"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "વાદળો"
+    },
+    {
+      "surface": "ירעפו",
+      "gloss": "ટપકે છે"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "પર"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "માનવો"
+    },
+    {
+      "surface": "רב",
+      "gloss": "પુષ્કળ"
+    }
+  ],
+  "timestamp": "2026-08-21T17:17:59.113958658Z",
+  "model": "glm-5.3"
+}

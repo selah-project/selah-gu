@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 1:5",
+  "book": "deuteronomy",
+  "lang": "gu",
+  "chapter": 1,
+  "translation": "યર્દનને પારથી, મોઆબની ભૂમિમાં, મોશેએ ⟨את⟩ આ તોરાહ સમજાવવાનું શરૂ કર્યું, કહેતા:",
+  "tokens": [
+    {
+      "surface": "בעבר",
+      "gloss": "પારથી"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "યર્દનને"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ભૂમિમાં"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "મોઆબની"
+    },
+    {
+      "surface": "הואיל",
+      "gloss": "શરૂ કર્યું"
+    },
+    {
+      "surface": "משה",
+      "gloss": "મોશેએ"
+    },
+    {
+      "surface": "באר",
+      "gloss": "સમજાવવાનું"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "આ તોરાહ"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "તોરાહ"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "આ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "કહેતા"
+    }
+  ],
+  "timestamp": "2026-08-21T18:37:47.596102305Z",
+  "model": "glm-5.3"
+}

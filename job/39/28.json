@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "job 39:28",
+  "book": "job",
+  "lang": "gu",
+  "chapter": 39,
+  "translation": "ખડક પર તે વસે છે અને રોકાય છે, ખડકના દાઢ પર અને કિલ્લે પર.",
+  "tokens": [
+    {
+      "surface": "סלע",
+      "gloss": "ખડક"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "તે વસે છે"
+    },
+    {
+      "surface": "ויתלנן",
+      "gloss": "અને રોકાય છે"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "שן",
+      "gloss": "દાઢ"
+    },
+    {
+      "surface": "סלע",
+      "gloss": "ખડકના"
+    },
+    {
+      "surface": "ומצודה",
+      "gloss": "અને કિલ્લે"
+    }
+  ],
+  "timestamp": "2026-08-21T17:18:39.575300684Z",
+  "model": "glm-5.3"
+}

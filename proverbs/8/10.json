@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 8:10",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 8,
+  "translation": "મારો શિક્ષણ લો, અને ચાંદી ⟨નહીં⟩, અને જ્ઞાન પસંદ કરેલ સોના કરતાં.",
+  "tokens": [
+    {
+      "surface": "קחו",
+      "gloss": "લો"
+    },
+    {
+      "surface": "מוסרי",
+      "gloss": "મારો શિક્ષણ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "અને નહીં"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ચાંદી"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "અને જ્ઞાન"
+    },
+    {
+      "surface": "מחרוץ",
+      "gloss": "સોના કરતાં"
+    },
+    {
+      "surface": "נבחר",
+      "gloss": "પસંદ કરેલ"
+    }
+  ],
+  "timestamp": "2026-08-21T16:53:34.084904166Z",
+  "model": "glm-5.3"
+}

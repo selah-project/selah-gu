@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 23:12",
+  "book": "genesis",
+  "lang": "gu",
+  "chapter": 23,
+  "translation": "અને અવ્રાહામે દેશના લોક સમક્ષ પ્રણામ કર્યું.",
+  "tokens": [
+    {
+      "surface": "וישתחו",
+      "gloss": "અને પ્રણામ કર્યું"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "અવ્રાહામે"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "સમક્ષ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "લોક"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "દેશના"
+    }
+  ],
+  "timestamp": "2026-08-21T10:46:44.626615041Z",
+  "model": "glm-5.3"
+}

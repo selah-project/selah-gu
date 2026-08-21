@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "genesis 24:66",
+  "book": "genesis",
+  "lang": "gu",
+  "chapter": 24,
+  "translation": "અને સેવકે યિત્સખાકને ⟨את⟩ બધી જ વાતો વર્ણવી જે તેણે કરી હતી.",
+  "tokens": [
+    {
+      "surface": "ויספר",
+      "gloss": "અને વર્ણવી"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "સેવકે"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "યિત્સખાકને"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "બધી જ વાતો"
+    },
+    {
+      "surface": "כל",
+      "gloss": "બધી જ"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "વાતો"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જે"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "કરી હતી"
+    }
+  ],
+  "timestamp": "2026-08-21T10:48:30.050887043Z",
+  "model": "glm-5.3"
+}

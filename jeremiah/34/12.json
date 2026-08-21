@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 34:12",
+  "book": "jeremiah",
+  "lang": "gu",
+  "chapter": 34,
+  "translation": "અને યાહવેનો વચન યિર્મેયાહુ પાસે ⟨את⟩ યાહવે પાસેથી આવ્યું, કહેતું:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "અને આવ્યું (થયું)"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "વચન"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવેનો"
+    },
+    {
+      "surface": "אל",
+      "gloss": "પાસે"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "યિર્મેયાહુ"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ પાસેથી"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "કહેતું"
+    }
+  ],
+  "timestamp": "2026-08-21T15:03:59.096229544Z",
+  "model": "glm-5.3"
+}

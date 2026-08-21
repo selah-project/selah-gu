@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 49:3",
+  "book": "isaiah",
+  "lang": "gu",
+  "chapter": 49,
+  "translation": "અને ⟨તેણે⟩ મને કહ્યું: તું મારો સેવક છે, ઇસ્રાએલ, જેમાં હું શોભીશ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "કહ્યું"
+    },
+    {
+      "surface": "לי",
+      "gloss": "મને"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "મારો સેવક"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "તું"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ઇસ્રાએલ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જેમાં"
+    },
+    {
+      "surface": "בך",
+      "gloss": "તને"
+    },
+    {
+      "surface": "אתפאר",
+      "gloss": "શોભીશ"
+    }
+  ],
+  "timestamp": "2026-08-21T14:36:01.318114280Z",
+  "model": "glm-5.3"
+}

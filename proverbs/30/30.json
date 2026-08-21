@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 30:30",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 30,
+  "translation": "સિંહ — પશુઓમાં બળવાન — અને કોઈના મુખ તરફથી પાછું વળતું નથી.",
+  "tokens": [
+    {
+      "surface": "ליש",
+      "gloss": "સિંહ"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "બળવાન"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "પશુઓમાં"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "અને નથી"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "પાછું વળતું"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "…ના મુખ તરફથી"
+    },
+    {
+      "surface": "כל",
+      "gloss": "કોઈ"
+    }
+  ],
+  "timestamp": "2026-08-21T19:55:56.137995978Z",
+  "model": "glm-5.3"
+}

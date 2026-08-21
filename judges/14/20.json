@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 14:20",
+  "book": "judges",
+  "lang": "gu",
+  "chapter": 14,
+  "translation": "અને શિમશોનની પત્ની તેના સાથીને ⟨મળી⟩, જે ⟨મિત્ર⟩ હતો તેને.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "થઈ"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "પત્ની"
+    },
+    {
+      "surface": "שמשון",
+      "gloss": "શિમશોનની"
+    },
+    {
+      "surface": "למרעהו",
+      "gloss": "તેના સાથીને"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જે"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "મિત્ર (સાથી)"
+    },
+    {
+      "surface": "לו",
+      "gloss": "તેને"
+    }
+  ],
+  "timestamp": "2026-08-21T12:56:08.607064700Z",
+  "model": "glm-5.3"
+}

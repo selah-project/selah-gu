@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 116:11",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 116,
+  "translation": "મેં મારી ઘાબરાટમાં કહ્યું: દરેક માણસ જૂઠો ⟨is⟩.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "મેં"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "કહ્યું"
+    },
+    {
+      "surface": "בחפזי",
+      "gloss": "મારી ઘાબરાટમાં"
+    },
+    {
+      "surface": "כל",
+      "gloss": "દરેક"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "માણસ"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "જૂઠો ⟨is⟩"
+    }
+  ],
+  "timestamp": "2026-08-21T16:42:41.787449357Z",
+  "model": "glm-5.3"
+}

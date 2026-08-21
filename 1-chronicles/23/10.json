@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 23:10",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 23,
+  "translation": "અને શિમીના પુત્રો: યાહત, ઝીના, વયાઉશ અને બેરીયા; આ ⟨એ⟩ શિમીના પુત્રો હતા — ચાર.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "અને…પુત્રો"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "શિમીના"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "યાહત"
+    },
+    {
+      "surface": "זינא",
+      "gloss": "ઝીના"
+    },
+    {
+      "surface": "ויעוש",
+      "gloss": "વયાઉશ"
+    },
+    {
+      "surface": "ובריעה",
+      "gloss": "બેરીયા"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "આ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "શિમીના"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "ચાર"
+    }
+  ],
+  "timestamp": "2026-08-21T18:11:11.716877002Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 7:3",
+  "book": "genesis",
+  "lang": "gu",
+  "chapter": 7,
+  "translation": "પણ આકાશનાં પક્ષીઓમાંથી સાત-સાત, નર અને માદા, આખી પૃથ્વીના તાણા પર બીજ જીવિત રાખવા માટે.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "પણ"
+    },
+    {
+      "surface": "מעוף",
+      "gloss": "માંથી પક્ષીઓ"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "આકાશનાં"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "સાત"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "સાત"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "નર"
+    },
+    {
+      "surface": "ונקבה",
+      "gloss": "અને માદા"
+    },
+    {
+      "surface": "לחיות",
+      "gloss": "જીવિત રાખવા માટે"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "બીજ"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "פני",
+      "gloss": "તાણા"
+    },
+    {
+      "surface": "כל",
+      "gloss": "આખી"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "પૃથ્વીના"
+    }
+  ],
+  "timestamp": "2026-08-21T10:41:05.758348886Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 46:9",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 46,
+  "translation": "આવો, યાહવેનાં કાર્યો જુઓ, જેમણે પૃથ્વી પર ઉજ્જડ કર્યાં છે.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "આવો"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "જુઓ"
+    },
+    {
+      "surface": "מפעלות",
+      "gloss": "કાર્યો"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવેનાં"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જેમણે"
+    },
+    {
+      "surface": "שם",
+      "gloss": "કર્યાં છે"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "ઉજ્જડ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "પૃથ્વી પર"
+    }
+  ],
+  "timestamp": "2026-08-21T16:23:07.189702071Z",
+  "model": "glm-5.3"
+}

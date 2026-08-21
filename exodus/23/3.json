@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 23:3",
+  "book": "exodus",
+  "lang": "gu",
+  "chapter": 23,
+  "translation": "અને દરિદ્રને તેના વાદ-વિવાદમાં પક્ષ નહીં લે.",
+  "tokens": [
+    {
+      "surface": "ודל",
+      "gloss": "અને દરિદ્રને"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "תהדר",
+      "gloss": "પક્ષ લે\/માન આપે"
+    },
+    {
+      "surface": "בריבו",
+      "gloss": "તેના વાદ-વિવાદમાં"
+    }
+  ],
+  "timestamp": "2026-08-21T11:18:40.113207910Z",
+  "model": "glm-5.3"
+}

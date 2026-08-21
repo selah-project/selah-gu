@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joshua 10:9",
+  "book": "joshua",
+  "lang": "gu",
+  "chapter": 10,
+  "translation": "અને યહોશુઆ અચાનક તેમની પાસે આવ્યો — આખી રાત તે ગિલ્ગાલથી ઊપર ચઢ્યો હતો.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "અને આવ્યો"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "તેમની પાસે"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "યહોશુઆ"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "અચાનક"
+    },
+    {
+      "surface": "כל",
+      "gloss": "આખી"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "રાત"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "ઊપર ચઢ્યો હતો"
+    },
+    {
+      "surface": "מן",
+      "gloss": "થી"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "ગિલ્ગાલ"
+    }
+  ],
+  "timestamp": "2026-08-21T12:36:37.066027948Z",
+  "model": "glm-5.3"
+}

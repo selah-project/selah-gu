@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 1:7",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 1,
+  "translation": "અને યાવાનના પુત્રો: એલીશાહ, તર્શીશાહ, કિત્તીઓ અને રોદાનીઓ.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "અને …ના પુત્રો"
+    },
+    {
+      "surface": "יון",
+      "gloss": "યાવાન"
+    },
+    {
+      "surface": "אלישה",
+      "gloss": "એલીશાહ"
+    },
+    {
+      "surface": "ותרשישה",
+      "gloss": "તર્શીશાહ"
+    },
+    {
+      "surface": "כתים",
+      "gloss": "કિત્તીઓ"
+    },
+    {
+      "surface": "ורודנים",
+      "gloss": "રોદાનીઓ"
+    }
+  ],
+  "timestamp": "2026-08-21T17:59:16.855040528Z",
+  "model": "glm-5.3"
+}

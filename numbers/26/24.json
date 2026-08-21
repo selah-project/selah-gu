@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 26:24",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 26,
+  "translation": "યાશુવના, યાશુવી કુટુંબ; શિમરોનના, શિમરોની કુટુંબ.",
+  "tokens": [
+    {
+      "surface": "לישוב",
+      "gloss": "યાશુવના"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "કુટુંબ"
+    },
+    {
+      "surface": "הישובי",
+      "gloss": "યાશુવી"
+    },
+    {
+      "surface": "לשמרן",
+      "gloss": "શિમરોનના"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "કુટુંબ"
+    },
+    {
+      "surface": "השמרני",
+      "gloss": "શિમરોની"
+    }
+  ],
+  "timestamp": "2026-08-21T12:03:09.611479003Z",
+  "model": "glm-5.3"
+}

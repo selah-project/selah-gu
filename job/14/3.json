@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 14:3",
+  "book": "job",
+  "lang": "gu",
+  "chapter": 14,
+  "translation": "તેમ છતાં આના પર તમે આંખ ખોલો છો, અને ⟨את⟩ મને તમારી સાથે ન્યાયમાં લાવો છો?",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "તેમ છતાં"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "זה",
+      "gloss": "આના"
+    },
+    {
+      "surface": "פקחת",
+      "gloss": "ખોલો છો"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "આંખ"
+    },
+    {
+      "surface": "ואתי",
+      "gloss": "⟨את⟩",
+      "marks": "મને"
+    },
+    {
+      "surface": "תביא",
+      "gloss": "લાવો છો"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "ન્યાયમાં"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "તમારી સાથે"
+    }
+  ],
+  "timestamp": "2026-08-21T17:08:59.949471612Z",
+  "model": "glm-5.3"
+}

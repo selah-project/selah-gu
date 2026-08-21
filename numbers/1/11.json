@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 1:11",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 1,
+  "translation": "બિન્યામીન પ્રતિ — અબીદાન, ગિદ્દોનીનો પુત્ર.",
+  "tokens": [
+    {
+      "surface": "לבנימן",
+      "gloss": "બિન્યામીન પ્રતિ"
+    },
+    {
+      "surface": "אבידן",
+      "gloss": "અબીદાન"
+    },
+    {
+      "surface": "בן",
+      "gloss": "પુત્ર"
+    },
+    {
+      "surface": "גדעני",
+      "gloss": "ગિદ્દોનીનો"
+    }
+  ],
+  "timestamp": "2026-08-21T11:46:32.409914646Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 30:20",
+  "book": "ezekiel",
+  "lang": "gu",
+  "chapter": 30,
+  "translation": "અને એકદશમાં વર્ષે, પ્રથમ માસમાં, માસના સાતમા દિવસે યાહવેનો વચન મારા પાસે આવ્યો, કહેતા:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "અને આવ્યું થયું"
+    },
+    {
+      "surface": "באחת",
+      "gloss": "એક"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "દશ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "વર્ષે"
+    },
+    {
+      "surface": "בראשון",
+      "gloss": "પ્રથમ"
+    },
+    {
+      "surface": "છ",
+      "gloss": ""
+    },
+    {
+      "surface": "בשבעה",
+      "gloss": "સાતમા"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "માસના"
+    },
+    {
+      "surface": "היה",
+      "gloss": "આવ્યો"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "વચન"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવેનો"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "મારા પાસે"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "કહેતા"
+    }
+  ],
+  "timestamp": "2026-08-21T15:32:41.708711764Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 50:5",
+  "book": "isaiah",
+  "lang": "gu",
+  "chapter": 50,
+  "translation": "અદોનાય યાહવેએ મારું કાન ખોલ્યું, અને હું બળવાખોર ન થયો, પાછળ હટીને ન ગયો.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "અદોનાય"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ખોલ્યું"
+    },
+    {
+      "surface": "לי",
+      "gloss": "મારું"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "કાન"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "અને હું"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ન"
+    },
+    {
+      "surface": "מריתי",
+      "gloss": "બળવાખોર થયો"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "પાછળ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ન"
+    },
+    {
+      "surface": "נסוגתי",
+      "gloss": "હટીને ગયો"
+    }
+  ],
+  "timestamp": "2026-08-21T14:37:39.847413068Z",
+  "model": "glm-5.3"
+}

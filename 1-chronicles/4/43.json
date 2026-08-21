@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-chronicles 4:43",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 4,
+  "translation": "અને તેમણે ⟨את⟩ અમાલેકના બચેલા શેષને માર્યા, અને આજના દિવસ સુધી ત્યાં વસ્યા.",
+  "tokens": [
+    {
+      "surface": "ויכו",
+      "gloss": "માર્યા"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "બચેલા શેષ"
+    },
+    {
+      "surface": "שארית",
+      "gloss": "બચેલા શેષ"
+    },
+    {
+      "surface": "היפלטה",
+      "gloss": "જે બચ્યા હતા"
+    },
+    {
+      "surface": "לעמלק",
+      "gloss": "અમાલેકના"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "વસ્યા"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ત્યાં"
+    },
+    {
+      "surface": "עד",
+      "gloss": "સુધી"
+    },
+    {
+      "surface": "היום",
+      "gloss": "આજના દિવસ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "આ"
+    }
+  ],
+  "timestamp": "2026-08-21T18:01:47.106461495Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 10:5",
+  "book": "ecclesiastes",
+  "lang": "gu",
+  "chapter": 10,
+  "translation": "એક દુર્ઘટના મેં સૂર્યની તળે જોઈ છે — જેમ શાસકના સામેથી નીકળેલી ભૂલ તેમ.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "છે"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "દુર્ઘટના"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "મેં જોઈ છે"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "તળે"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "સૂર્યની"
+    },
+    {
+      "surface": "כשגגה",
+      "gloss": "જેમ ભૂલ"
+    },
+    {
+      "surface": "שיצא",
+      "gloss": "જે નીકળે છે"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "સામેથી"
+    },
+    {
+      "surface": "השליט",
+      "gloss": "શાસકના"
+    }
+  ],
+  "timestamp": "2026-08-21T19:00:11.430209955Z",
+  "model": "glm-5.3"
+}

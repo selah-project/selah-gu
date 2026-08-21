@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 44:21",
+  "book": "ezekiel",
+  "lang": "gu",
+  "chapter": 44,
+  "translation": "અને દારૂ ન પીશે કોઈ પણ કોહેન, જ્યારે તેઓ આંતરિક પ્રાંગણમાં આવે.",
+  "tokens": [
+    {
+      "surface": "ויין",
+      "gloss": "અને દારૂ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ન"
+    },
+    {
+      "surface": "ישתו",
+      "gloss": "પીશે"
+    },
+    {
+      "surface": "כל",
+      "gloss": "કોઈ પણ"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "કોહેન"
+    },
+    {
+      "surface": "בבואם",
+      "gloss": "જ્યારે તેઓ આવે"
+    },
+    {
+      "surface": "אל",
+      "gloss": "માં"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "પ્રાંગણ"
+    },
+    {
+      "surface": "הפנימית",
+      "gloss": "આંતરિક"
+    }
+  ],
+  "timestamp": "2026-08-21T15:42:34.933791544Z",
+  "model": "glm-5.3"
+}

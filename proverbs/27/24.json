@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 27:24",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 27,
+  "translation": "કેમ કે ધન સદાં માટે નથી, અને મુગટ પેઢી પર પેઢી નથી રહેતું.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "કેમ કે"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નથી"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "સદાં માટે"
+    },
+    {
+      "surface": "חסן",
+      "gloss": "ધન"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "અને નહિ"
+    },
+    {
+      "surface": "נזר",
+      "gloss": "મુગટ"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "પેઢી પર"
+    },
+    {
+      "surface": "דור",
+      "gloss": "પેઢી"
+    }
+  ],
+  "timestamp": "2026-08-21T17:02:30.842562401Z",
+  "model": "glm-5.3"
+}

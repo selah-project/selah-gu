@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 3:20",
+  "book": "2-kings",
+  "lang": "gu",
+  "chapter": 3,
+  "translation": "અને સવારે, માનતા-ભેટ ⟨the⟩ ચઢાવવાના સમયે, ⟨behold⟩ પાણી એદોમના માર્ગથી આવ્યાં, અને ⟨the⟩ દેશ ⟨את⟩ પાણીથી ભરાઈ ગયો.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "અને થયું"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "સવારે"
+    },
+    {
+      "surface": "כעלות",
+      "gloss": "ચઢાવવાના સમયે"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "માનતા-ભેટ"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "અને ⟨behold⟩"
+    },
+    {
+      "surface": "מים",
+      "gloss": "પાણી"
+    },
+    {
+      "surface": "באים",
+      "gloss": "આવ્યાં"
+    },
+    {
+      "surface": "מדרך",
+      "gloss": "માર્ગથી"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "એદોમ"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "અને ભરાઈ ગયો"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "દેશ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "પાણી"
+    },
+    {
+      "surface": "המים",
+      "gloss": "પાણી"
+    }
+  ],
+  "timestamp": "2026-08-21T13:55:16.189734709Z",
+  "model": "glm-5.3"
+}

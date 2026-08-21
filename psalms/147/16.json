@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 147:16",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 147,
+  "translation": "તે ઊન જેવો બરફ આપે છે; રાખ જેવો હિમપાત વિખેરે છે.",
+  "tokens": [
+    {
+      "surface": "הנתן",
+      "gloss": "તે આપે છે"
+    },
+    {
+      "surface": "שלג",
+      "gloss": "બરફ"
+    },
+    {
+      "surface": "כצמר",
+      "gloss": "ઊન જેવો"
+    },
+    {
+      "surface": "כפור",
+      "gloss": "હિમપાત"
+    },
+    {
+      "surface": "כאפר",
+      "gloss": "રાખ જેવો"
+    },
+    {
+      "surface": "יפזר",
+      "gloss": "વિખેરે છે"
+    }
+  ],
+  "timestamp": "2026-08-21T16:50:31.532171953Z",
+  "model": "glm-5.3"
+}

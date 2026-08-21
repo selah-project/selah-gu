@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 17:15",
+  "book": "2-chronicles",
+  "lang": "gu",
+  "chapter": 17,
+  "translation": "અને તેના હાથ પર યહોહાનાન ⟨એ⟩ સરદાર, અને તેની સાથે બસો અને એંસી હજાર.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "અને પર"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "તેના હાથ"
+    },
+    {
+      "surface": "יהוחנן",
+      "gloss": "યહોહાનાન"
+    },
+    {
+      "surface": "השר",
+      "gloss": "⟨એ⟩ સરદાર"
+    },
+    {
+      "surface": "ועמו",
+      "gloss": "અને તેની સાથે"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "બસો"
+    },
+    {
+      "surface": "ושמונים",
+      "gloss": "અને એંસી"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "હજાર"
+    }
+  ],
+  "timestamp": "2026-08-21T18:21:05.056472710Z",
+  "model": "glm-5.3"
+}

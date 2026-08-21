@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 49:1",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 49,
+  "translation": "મહેતા માટે; કોરખના પુત્રો માટે; એક મિઝમોર.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "મહેતા માટે"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "પુત્રો માટે"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "કોરખના"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "એક મિઝમોર"
+    }
+  ],
+  "timestamp": "2026-08-21T16:23:28.618763488Z",
+  "model": "glm-5.3"
+}

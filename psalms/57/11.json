@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 57:11",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 57,
+  "translation": "કેમ કે આકાશો સુધી તમારો હેસેદ મોટો છે, અને વાદળો સુધી તમારી સત્યતા.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "કેમ કે"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "મોટો"
+    },
+    {
+      "surface": "עד",
+      "gloss": "સુધી"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "આકાશો"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "તમારો હેસેદ"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "અને…સુધી"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "વાદળો"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "તમારી સત્યતા"
+    }
+  ],
+  "timestamp": "2026-08-21T16:24:27.792482437Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 9:4",
+  "book": "ecclesiastes",
+  "lang": "gu",
+  "chapter": 9,
+  "translation": "કેમ કે જે સર્વ જીવંતો સાથે જોડાયેલો છે તેને આશા છે; કેમ કે જીવંત કૂતરો મૃત સિંહ કરતાં સારો છે.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "કેમ કે"
+    },
+    {
+      "surface": "מי",
+      "gloss": "જે"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "કે જે"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "જોડાયેલો છે"
+    },
+    {
+      "surface": "אל",
+      "gloss": "સાથે"
+    },
+    {
+      "surface": "כל",
+      "gloss": "સર્વ"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "જીવંતો"
+    },
+    {
+      "surface": "יש",
+      "gloss": "છે"
+    },
+    {
+      "surface": "בטחון",
+      "gloss": "આશા"
+    },
+    {
+      "surface": "כי",
+      "gloss": "કેમ કે"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "કૂતરા માટે"
+    },
+    {
+      "surface": "חי",
+      "gloss": "જીવંત"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "તે"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "સારો"
+    },
+    {
+      "surface": "מן",
+      "gloss": "કરતાં"
+    },
+    {
+      "surface": "האריה",
+      "gloss": "સિંહ"
+    },
+    {
+      "surface": "המת",
+      "gloss": "મૃત"
+    }
+  ],
+  "timestamp": "2026-08-21T17:32:27.648874832Z",
+  "model": "glm-5.3"
+}

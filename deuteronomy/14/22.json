@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 14:22",
+  "book": "deuteronomy",
+  "lang": "gu",
+  "chapter": 14,
+  "translation": "દશાંશ દશાંશ કરો — ⟨את⟩ તમારા બીજની સારી ઉપજનો, ખેતરમાંથી નીકળતી, વર્ષ વર્ષ.",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "દશાંશ"
+    },
+    {
+      "surface": "תעשר",
+      "gloss": "દશાંશ કરો"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "તમારા બીજની સારી ઉપજનો"
+    },
+    {
+      "surface": "כל",
+      "gloss": "સારી"
+    },
+    {
+      "surface": "תבואת",
+      "gloss": "ઉપજનો"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "તમારા બીજની"
+    },
+    {
+      "surface": "היצא",
+      "gloss": "નીકળતી"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ખેતરમાંથી"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "વર્ષ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "વર્ષ"
+    }
+  ],
+  "timestamp": "2026-08-21T12:20:33.992328468Z",
+  "model": "glm-5.3"
+}

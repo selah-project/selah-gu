@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 28:15",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 28,
+  "translation": "ગર્જતો સિંહ અને દૌડતો રીંછ — દરિદ્ર પ્રજા પર શાસન કરતો દુષ્ટ ⟨એવો જ છે⟩.",
+  "tokens": [
+    {
+      "surface": "ארי",
+      "gloss": "સિંહ"
+    },
+    {
+      "surface": "נהם",
+      "gloss": "ગર્જતો"
+    },
+    {
+      "surface": "ודב",
+      "gloss": "અને રીંછ"
+    },
+    {
+      "surface": "שוקק",
+      "gloss": "દૌડતો"
+    },
+    {
+      "surface": "משל",
+      "gloss": "શાસન કરતો"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "દુષ્ટ"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "עם",
+      "gloss": "પ્રજા"
+    },
+    {
+      "surface": "דל",
+      "gloss": "દરિદ્ર"
+    }
+  ],
+  "timestamp": "2026-08-21T17:02:59.413010580Z",
+  "model": "glm-5.3"
+}

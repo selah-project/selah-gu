@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 32:20",
+  "book": "isaiah",
+  "lang": "gu",
+  "chapter": 32,
+  "translation": "હે બધા પાણી પર વાવનારા, ઢોર અને ગધેડાનું પગ મોકલનારા — તમે ધન્ય છો!",
+  "tokens": [
+    {
+      "surface": "אשריכם",
+      "gloss": "તમે ધન્ય છો"
+    },
+    {
+      "surface": "זרעי",
+      "gloss": "વાવનારા"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "כל",
+      "gloss": "બધા"
+    },
+    {
+      "surface": "מים",
+      "gloss": "પાણી"
+    },
+    {
+      "surface": "משלחי",
+      "gloss": "મોકલનારા"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "પગ"
+    },
+    {
+      "surface": "השור",
+      "gloss": "ઢોરના"
+    },
+    {
+      "surface": "והחמור",
+      "gloss": "અને ગધેડાના"
+    }
+  ],
+  "timestamp": "2026-08-21T14:24:14.081819758Z",
+  "model": "glm-5.3"
+}

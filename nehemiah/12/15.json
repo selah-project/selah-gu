@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "nehemiah 12:15",
+  "book": "nehemiah",
+  "lang": "gu",
+  "chapter": 12,
+  "translation": "ચારીમના માટે અદના; મરાયોતના માટે ચેલ્કાઈ.",
+  "tokens": [
+    {
+      "surface": "לחרם",
+      "gloss": "ચારીમના માટે"
+    },
+    {
+      "surface": "עדנא",
+      "gloss": "અદના"
+    },
+    {
+      "surface": "למריות",
+      "gloss": "મરાયોતના માટે"
+    },
+    {
+      "surface": "חלקי",
+      "gloss": "ચેલ્કાઈ"
+    }
+  ],
+  "timestamp": "2026-08-21T17:56:54.076323409Z",
+  "model": "glm-5.3"
+}

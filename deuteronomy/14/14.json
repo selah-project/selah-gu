@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 14:14",
+  "book": "deuteronomy",
+  "lang": "gu",
+  "chapter": 14,
+  "translation": "અને ⟨את⟩ દરેક કાગડો તેના પ્રકાર પ્રમાણે.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "દરેક કાગડો"
+    },
+    {
+      "surface": "כל",
+      "gloss": "દરેક"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "કાગડો"
+    },
+    {
+      "surface": "למינו",
+      "gloss": "તેના પ્રકાર પ્રમાણે"
+    }
+  ],
+  "timestamp": "2026-08-21T12:19:46.002793879Z",
+  "model": "glm-5.3"
+}

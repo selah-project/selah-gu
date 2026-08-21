@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "daniel 5:22",
+  "book": "daniel",
+  "lang": "gu",
+  "chapter": 5,
+  "translation": "અને તેનો પુત્ર તું, બેલશાત્સર, આ બધું જાણીને પણ તેં પોતાનું હૃદય નમાવ્યું નહીં.",
+  "tokens": [
+    {
+      "surface": "ואנתה",
+      "gloss": "અને તું"
+    },
+    {
+      "surface": "ברה",
+      "gloss": "પુત્ર"
+    },
+    {
+      "surface": "בלשאצר",
+      "gloss": "બેલશાત્સર"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "השפלת",
+      "gloss": "નમાવ્યું"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "તારું હૃદય"
+    },
+    {
+      "surface": "כל",
+      "gloss": "આ"
+    },
+    {
+      "surface": "קבל",
+      "gloss": "કારણે કે"
+    },
+    {
+      "surface": "די",
+      "gloss": "⟨એ⟩ કે"
+    },
+    {
+      "surface": "כל",
+      "gloss": "બધું"
+    },
+    {
+      "surface": "דנה",
+      "gloss": "આ"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "જાણ્યું"
+    }
+  ],
+  "timestamp": "2026-08-21T17:39:46.343423896Z",
+  "model": "glm-5.3"
+}

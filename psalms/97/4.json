@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 97:4",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 97,
+  "translation": "⟨તેની⟩ વીજળીઓ પ્રકાશ્યાં; પૃથ્વીએ જોઈ, અને ધરતી કંપી ઊઠી.",
+  "tokens": [
+    {
+      "surface": "האירו",
+      "gloss": "પ્રકાશ્યાં"
+    },
+    {
+      "surface": "ברקיו",
+      "gloss": "⟨તેની⟩ વીજળીઓ"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "પૃથ્વી"
+    },
+    {
+      "surface": "ראתה",
+      "gloss": "જોઈ"
+    },
+    {
+      "surface": "ותחל",
+      "gloss": "અને કંપી ઊઠી"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ધરતી"
+    }
+  ],
+  "timestamp": "2026-08-21T16:37:09.191380862Z",
+  "model": "glm-5.3"
+}

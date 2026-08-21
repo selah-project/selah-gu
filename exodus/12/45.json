@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "exodus 12:45",
+  "book": "exodus",
+  "lang": "gu",
+  "chapter": 12,
+  "translation": "આવાસ-કરનાર અને વેતને રહેનાર તેનું ભોજન ન કરે.",
+  "tokens": [
+    {
+      "surface": "תושב",
+      "gloss": "આવાસ-કરનાર"
+    },
+    {
+      "surface": "ושכיר",
+      "gloss": "અને વેતને રહેનાર"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ન"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ભોજન કરે"
+    },
+    {
+      "surface": "בו",
+      "gloss": "તેનું"
+    }
+  ],
+  "timestamp": "2026-08-21T11:12:01.323419593Z",
+  "model": "glm-5.3"
+}

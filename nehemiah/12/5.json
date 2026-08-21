@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "nehemiah 12:5",
+  "book": "nehemiah",
+  "lang": "gu",
+  "chapter": 12,
+  "translation": "મીયામીન, મઆદ્યાહ, બિલ્ગાહ;",
+  "tokens": [
+    {
+      "surface": "מימין",
+      "gloss": "મીયામીન"
+    },
+    {
+      "surface": "מעדיה",
+      "gloss": "મઆદ્યાહ"
+    },
+    {
+      "surface": "בלגה",
+      "gloss": "બિલ્ગાહ"
+    }
+  ],
+  "timestamp": "2026-08-21T17:57:56.879511479Z",
+  "model": "glm-5.3"
+}

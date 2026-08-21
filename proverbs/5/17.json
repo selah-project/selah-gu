@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 5:17",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 5,
+  "translation": "તે તારી પાસે તારી એકલી માટે જ રહે, અને પરાયાઓ ⟨את⟩ તારી સાથે ન હોય.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "રહે"
+    },
+    {
+      "surface": "לך",
+      "gloss": "તારી પાસે"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "તારી એકલી માટે જ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "અને ન"
+    },
+    {
+      "surface": "לזרים",
+      "gloss": "પરાયાઓ"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ તારી સાથે",
+      "marks": "તારી સાથે"
+    }
+  ],
+  "timestamp": "2026-08-21T16:52:37.000919541Z",
+  "model": "glm-5.3"
+}

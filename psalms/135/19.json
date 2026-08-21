@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 135:19",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 135,
+  "translation": "ઇસ્રાએલના ઘરાણા, યાહવેને ધન્ય કહો; અહરોનના ઘરાણા, યાહવેને ધન્ય કહો.",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "ઘરાણા"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ઇસ્રાએલના"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "ધન્ય કહો"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "યાહવે"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ઘરાણા"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "અહરોનના"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "ધન્ય કહો"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "યાહવે"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    }
+  ],
+  "timestamp": "2026-08-21T16:47:11.577678372Z",
+  "model": "glm-5.3"
+}

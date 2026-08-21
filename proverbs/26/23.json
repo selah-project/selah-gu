@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 26:23",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 26,
+  "translation": "ટાળીના ચાંદીના ગોળ સાથે મઢેલી ચાંદી જેવી ⟨એ⟩ — બળતી હોઠ અને દુષ્ટ હૃદય.",
+  "tokens": [
+    {
+      "surface": "כסף",
+      "gloss": "ચાંદી"
+    },
+    {
+      "surface": "סיגים",
+      "gloss": "ગોળ"
+    },
+    {
+      "surface": "מצפה",
+      "gloss": "મઢેલી"
+    },
+    {
+      "surface": "על",
+      "gloss": "સાથે...ઉપર"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "ટાળી"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "હોઠ"
+    },
+    {
+      "surface": "דלקים",
+      "gloss": "બળતી"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "અને હૃદય"
+    },
+    {
+      "surface": "רע",
+      "gloss": "દુષ્ટ"
+    }
+  ],
+  "timestamp": "2026-08-21T17:02:06.128264999Z",
+  "model": "glm-5.3"
+}

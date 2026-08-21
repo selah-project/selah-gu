@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "proverbs 24:33",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 24,
+  "translation": "થોડી ઊંઘ, થોડી મરડ-ઊંઘ, થોડો હાથ વળગાવવા — સૂવા માટે.",
+  "tokens": [
+    {
+      "surface": "מעט",
+      "gloss": "થોડી"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "ઊંઘ"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "થોડી"
+    },
+    {
+      "surface": "תנומות",
+      "gloss": "મરડ-ઊંઘ"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "થોડો"
+    },
+    {
+      "surface": "חבק",
+      "gloss": "વળગાવવા"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "હાથ"
+    },
+    {
+      "surface": "לשכב",
+      "gloss": "સૂવા માટે"
+    }
+  ],
+  "timestamp": "2026-08-21T17:00:04.569848400Z",
+  "model": "glm-5.3"
+}

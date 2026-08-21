@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "leviticus 14:53",
+  "book": "leviticus",
+  "lang": "gu",
+  "chapter": 14,
+  "translation": "અને ⟨את⟩ જીવંત પક્ષીને નગરની બહાર, ખેતરના સામે, છોડી દેશે; અને ઘર વતી પ્રાયશ્ચિત કરશે, અને તે શુદ્ધ થશે.",
+  "tokens": [
+    {
+      "surface": "ושלח",
+      "gloss": "છોડી દેશે"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "જીવંત પક્ષી"
+    },
+    {
+      "surface": "הצפר",
+      "gloss": "પક્ષી"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "જીવંત"
+    },
+    {
+      "surface": "אל",
+      "gloss": "તરફ"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "બહાર"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "નગરની"
+    },
+    {
+      "surface": "אל",
+      "gloss": "સામે"
+    },
+    {
+      "surface": "פני",
+      "gloss": "સામે"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ખેતર"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "પ્રાયશ્ચિત કરશે"
+    },
+    {
+      "surface": "על",
+      "gloss": "વતી"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ઘર"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "શુદ્ધ થશે"
+    }
+  ],
+  "timestamp": "2026-08-21T11:37:09.428945857Z",
+  "model": "glm-5.3"
+}

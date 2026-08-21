@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 71:14",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 71,
+  "translation": "પણ હું સદા આશા રાખીશ, અને તમારી બધી સ્તુતિ ઉપર વધુ ઉમેરીશ.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "પણ હું"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "સદા"
+    },
+    {
+      "surface": "איחל",
+      "gloss": "આશા રાખીશ"
+    },
+    {
+      "surface": "והוספתי",
+      "gloss": "અને ઉમેરીશ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ઉપર"
+    },
+    {
+      "surface": "כל",
+      "gloss": "બધી"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "તમારી સ્તુતિ"
+    }
+  ],
+  "timestamp": "2026-08-21T16:29:24.935836136Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zechariah 6:4",
+  "book": "zechariah",
+  "lang": "gu",
+  "chapter": 6,
+  "translation": "અને હું જવાબ આપીને મારામાં બોલતા મલાકને પૂછ્યું: “આ શું છે, મારા અદોનાય?”",
+  "tokens": [
+    {
+      "surface": "ואען",
+      "gloss": "અને હું જવાબ આપીને"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "કહ્યું"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ને"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "મલાક"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "બોલતા"
+    },
+    {
+      "surface": "בי",
+      "gloss": "મારામાં"
+    },
+    {
+      "surface": "מה",
+      "gloss": "શું"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "આ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "અદોનાય"
+    }
+  ],
+  "timestamp": "2026-08-21T16:03:56.830181474Z",
+  "model": "glm-5.3"
+}

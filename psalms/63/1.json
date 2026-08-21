@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 63:1",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 63,
+  "translation": "દાવિદનો મઝમૂર, જ્યારે તે યહૂદાહના જંગલમાં હતો.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "મઝમૂર"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "દાવિદનો"
+    },
+    {
+      "surface": "בהיותו",
+      "gloss": "જ્યારે તે હતો"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "જંગલમાં"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "યહૂદાહના"
+    }
+  ],
+  "timestamp": "2026-08-21T16:27:38.896775880Z",
+  "model": "glm-5.3"
+}

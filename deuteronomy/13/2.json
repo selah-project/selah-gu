@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 13:2",
+  "book": "deuteronomy",
+  "lang": "gu",
+  "chapter": 13,
+  "translation": "જ્યારે તમારી વચ્ચે કોઈ નબી કે સ્વપ્ન-દ્રષ્ટા ઊઠે, અને તમને કોઈ ચિહ્ન કે અદ્ભુત કાર્ય આપે,",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "જ્યારે"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "ઊઠે"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "તમારી વચ્ચે"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "નબી"
+    },
+    {
+      "surface": "או",
+      "gloss": "કે"
+    },
+    {
+      "surface": "חלם",
+      "gloss": "સ્વપ્ન-દ્રષ્ટા"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "સ્વપ્ન"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "અને આપે"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "તમને"
+    },
+    {
+      "surface": "אות",
+      "gloss": "ચિહ્ન"
+    },
+    {
+      "surface": "או",
+      "gloss": "કે"
+    },
+    {
+      "surface": "מופת",
+      "gloss": "અદ્ભુત કાર્ય"
+    }
+  ],
+  "timestamp": "2026-08-21T12:21:18.366624797Z",
+  "model": "glm-5.3"
+}

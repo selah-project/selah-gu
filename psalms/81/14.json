@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 81:14",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 81,
+  "translation": "કાશ! મારી પ્રજા મને સાંભળતી, યિસ્રાએલ મારા માર્ગોમાં ચાલતો!",
+  "tokens": [
+    {
+      "surface": "לו",
+      "gloss": "કાશ!"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "મારી પ્રજા"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "સાંભળતી"
+    },
+    {
+      "surface": "לי",
+      "gloss": "મને"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "યિસ્રાએલ"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "મારા માર્ગોમાં"
+    },
+    {
+      "surface": "יהלכו",
+      "gloss": "ચાલતો"
+    }
+  ],
+  "timestamp": "2026-08-21T16:32:55.016540967Z",
+  "model": "glm-5.3"
+}

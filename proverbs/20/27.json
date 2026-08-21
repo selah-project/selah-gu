@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 20:27",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 20,
+  "translation": "યાહવેનો દીવો માણસનો શ્વાસ ⟨છે⟩, જે પેટના બધા ખંડોને શોધે છે.",
+  "tokens": [
+    {
+      "surface": "נר",
+      "gloss": "દીવો"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવેનો"
+    },
+    {
+      "surface": "נשמת",
+      "gloss": "શ્વાસ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "માણસનો"
+    },
+    {
+      "surface": "חפש",
+      "gloss": "શોધે છે"
+    },
+    {
+      "surface": "כל",
+      "gloss": "બધા"
+    },
+    {
+      "surface": "חדרי",
+      "gloss": "ખંડોને"
+    },
+    {
+      "surface": "בטן",
+      "gloss": "પેટના"
+    }
+  ],
+  "timestamp": "2026-08-21T16:58:51.524148016Z",
+  "model": "glm-5.3"
+}

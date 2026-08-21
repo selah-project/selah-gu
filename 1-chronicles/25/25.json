@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 25:25",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 25,
+  "translation": "અઢારમો હનાનીને, તેના પુત્રો અને તેના ભાઈઓ — બારઃ",
+  "tokens": [
+    {
+      "surface": "לשמונה",
+      "gloss": "અઢારમો"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "(-મો)"
+    },
+    {
+      "surface": "לחנני",
+      "gloss": "હનાનીને"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "તેના પુત્રો"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "અને તેના ભાઈઓ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "બાર"
+    },
+    {
+      "surface": "עשר",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-21T18:11:10.581534040Z",
+  "model": "glm-5.3"
+}

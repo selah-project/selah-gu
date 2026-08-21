@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joshua 20:1",
+  "book": "joshua",
+  "lang": "gu",
+  "chapter": 20,
+  "translation": "અને યાહવેએ યહોશુઆને કહ્યું કે,",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "અને…કહ્યું"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવેએ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ને"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "યહોશુઆ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "કે"
+    }
+  ],
+  "timestamp": "2026-08-21T12:43:16.596327374Z",
+  "model": "glm-5.3"
+}

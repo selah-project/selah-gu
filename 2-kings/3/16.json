@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 3:16",
+  "book": "2-kings",
+  "lang": "gu",
+  "chapter": 3,
+  "translation": "અને તેણે કહ્યું, યાહવે એમ કહે છે: આ નદીખાતમાં ખાડા પર ખાડા કરો.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "અને તેણે કહ્યું"
+    },
+    {
+      "surface": "כה",
+      "gloss": "એમ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "કહે છે"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "કરો"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "આ નદીખાતમાં"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "આ"
+    },
+    {
+      "surface": "גבים",
+      "gloss": "ખાડા"
+    },
+    {
+      "surface": "גבים",
+      "gloss": "ખાડા"
+    }
+  ],
+  "timestamp": "2026-08-21T13:53:58.927225807Z",
+  "model": "glm-5.3"
+}

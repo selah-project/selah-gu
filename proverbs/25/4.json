@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 25:4",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 25,
+  "translation": "ચાંદીમાંથી ધાતુકચરો દૂર કર, અને શુદ્ધ કરનાર માટે પાત્ર નીકળશે.",
+  "tokens": [
+    {
+      "surface": "הגו",
+      "gloss": "દૂર કર"
+    },
+    {
+      "surface": "סיגים",
+      "gloss": "ધાતુકચરો"
+    },
+    {
+      "surface": "מכסף",
+      "gloss": "ચાંદીમાંથી"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "અને નીકળશે"
+    },
+    {
+      "surface": "לצרף",
+      "gloss": "શુદ્ધ કરનાર માટે"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "પાત્ર"
+    }
+  ],
+  "timestamp": "2026-08-21T17:01:45.703933801Z",
+  "model": "glm-5.3"
+}

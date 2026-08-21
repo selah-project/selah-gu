@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 3:20",
+  "book": "genesis",
+  "lang": "gu",
+  "chapter": 3,
+  "translation": "અને માણસે પોતાની પત્નીનું નામ હવ્વાહ રાખ્યું, કારણ કે તે બધા જીવતાની માતા હતી.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "અને માણસે નામ રાખ્યું"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "માણસે"
+    },
+    {
+      "surface": "שם",
+      "gloss": "નામ"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "પોતાની પત્નીનું"
+    },
+    {
+      "surface": "חוה",
+      "gloss": "હવ્વાહ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "કારણ કે"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "તે"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "હતી"
+    },
+    {
+      "surface": "אם",
+      "gloss": "માતા"
+    },
+    {
+      "surface": "כל",
+      "gloss": "બધા"
+    },
+    {
+      "surface": "חי",
+      "gloss": "જીવતાની"
+    }
+  ],
+  "timestamp": "2026-08-21T10:38:27.255123745Z",
+  "model": "glm-5.3"
+}

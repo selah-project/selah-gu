@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 148:12",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 148,
+  "translation": "યુવકો અને તેમ જ કુમારિકાઓ, વૃદ્ધો સાથે બાળકો.",
+  "tokens": [
+    {
+      "surface": "בחורים",
+      "gloss": "યુવકો"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "અને તેમ જ"
+    },
+    {
+      "surface": "בתולות",
+      "gloss": "કુમારિકાઓ"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "વૃદ્ધો"
+    },
+    {
+      "surface": "עם",
+      "gloss": "સાથે"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "બાળકો"
+    }
+  ],
+  "timestamp": "2026-08-21T16:49:41.337935595Z",
+  "model": "glm-5.3"
+}

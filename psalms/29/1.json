@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 29:1",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 29,
+  "translation": "દાવીદનો મિઝમોર. એલના પુત્રો, યાહવેને આપો; યાહવેને મહિમા અને બળ આપો.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "મિઝમોર"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "દાવીદનો"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "આપો"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "યાહવેને"
+    },
+    {
+      "surface": "בני",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "אלים",
+      "gloss": "એલના"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "આપો"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "યા׹વેને"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "મહિમા"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "અને બળ"
+    }
+  ],
+  "timestamp": "2026-08-21T16:17:20.554897087Z",
+  "model": "glm-5.3"
+}

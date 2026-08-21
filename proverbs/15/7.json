@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 15:7",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 15,
+  "translation": "જ્ઞાનીઓના હોઠ જ્ઞાન વહેંચે છે, પણ મૂર્ખોનું હૃદય એવું ⟨નથી⟩.",
+  "tokens": [
+    {
+      "surface": "שפתי",
+      "gloss": "હોઠ"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "જ્ઞાનીઓના"
+    },
+    {
+      "surface": "יזרו",
+      "gloss": "વહેંચે છે"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "જ્ઞાન"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "પણ હૃદય"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "મૂર્ખોનું"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નથી"
+    },
+    {
+      "surface": "כן",
+      "gloss": "એવું"
+    }
+  ],
+  "timestamp": "2026-08-21T16:57:00.263686923Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 27:9",
+  "book": "job",
+  "lang": "gu",
+  "chapter": 27,
+  "translation": "શું એલ તેનો પોકાર સાંભળશે, જ્યારે સંકટ તેના પર આવશે?",
+  "tokens": [
+    {
+      "surface": "הצעקתו",
+      "gloss": "તેનો પોકાર"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "સાંભળશે"
+    },
+    {
+      "surface": "אל",
+      "gloss": "એલ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "જ્યારે"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "આવશે"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "તેના પર"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "સંકટ"
+    }
+  ],
+  "timestamp": "2026-08-21T17:13:40.754177989Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 119:19",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 119,
+  "translation": "પરદેશી છું હું ⟨આ> પૃથ્વીમાં; મારાથી તારી આજ્ઞાઓ છુપાવી નહીં.",
+  "tokens": [
+    {
+      "surface": "גר",
+      "gloss": "પરદેશી"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "હું"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "પૃથ્વીમાં"
+    },
+    {
+      "surface": "אל",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "છુપાવી"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "મારાથી"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "તારી આજ્ઞાઓ"
+    }
+  ],
+  "timestamp": "2026-08-21T18:57:37.278460364Z",
+  "model": "glm-5.3"
+}

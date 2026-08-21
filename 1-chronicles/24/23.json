@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 24:23",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 24,
+  "translation": "અને યરીયાહુના પુત્રો: અમર્યાહુ ⟨the⟩ બીજો, યખઝીએલ ⟨the⟩ ત્રીજો, યિકામામ ⟨the⟩ ચોથો.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "અને પુત્રો"
+    },
+    {
+      "surface": "יריהו",
+      "gloss": "યરીયાહુના"
+    },
+    {
+      "surface": "אמריהו",
+      "gloss": "અમર્યાહુ"
+    },
+    {
+      "surface": "השני",
+      "gloss": "બીજો"
+    },
+    {
+      "surface": "יחזיאל",
+      "gloss": "યખઝીએલ"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "ત્રીજો"
+    },
+    {
+      "surface": "יקמעם",
+      "gloss": "યિકામામ"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "ચોથો"
+    }
+  ],
+  "timestamp": "2026-08-21T18:10:46.911815747Z",
+  "model": "glm-5.3"
+}

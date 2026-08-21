@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 13:9",
+  "book": "leviticus",
+  "lang": "gu",
+  "chapter": 13,
+  "translation": "જ્યારે માણસમાં કોઢનો ચાંઠો હોય, ત્યારે તેને પૂજારી પાસે લાવવામાં આવે.",
+  "tokens": [
+    {
+      "surface": "נגע",
+      "gloss": "ચાંઠો"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "કોઢનો"
+    },
+    {
+      "surface": "כי",
+      "gloss": "જ્યારે"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "હોય"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "માણસમાં"
+    },
+    {
+      "surface": "והובא",
+      "gloss": "લાવવામાં આવે"
+    },
+    {
+      "surface": "אל",
+      "gloss": "પાસે"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "પૂજારી"
+    }
+  ],
+  "timestamp": "2026-08-21T11:36:39.739554385Z",
+  "model": "glm-5.3"
+}

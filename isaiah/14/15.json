@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 14:15",
+  "book": "isaiah",
+  "lang": "gu",
+  "chapter": 14,
+  "translation": "તો પણ તું શેઓલમાં, ખાડાની છેવાડાઓમાં નીચે ઉતારવામાં આવશે.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "તો પણ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "માં"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "શેઓલમાં"
+    },
+    {
+      "surface": "תורד",
+      "gloss": "તું ઉતારવામાં આવશે"
+    },
+    {
+      "surface": "אל",
+      "gloss": "માં"
+    },
+    {
+      "surface": "ירכתי",
+      "gloss": "છેવાડાઓમાં"
+    },
+    {
+      "surface": "בור",
+      "gloss": "ખાડાની"
+    }
+  ],
+  "timestamp": "2026-08-21T14:16:29.733804817Z",
+  "model": "glm-5.3"
+}

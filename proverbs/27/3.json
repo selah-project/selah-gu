@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 27:3",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 27,
+  "translation": "પથ્થરનું ભાર, અને રેતીનું વહન; પણ મૂર્ખનો ક્રોધ બંને કરતાં ભારે ⟨છે⟩.",
+  "tokens": [
+    {
+      "surface": "כבד",
+      "gloss": "ભાર"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "પથ્થરનું"
+    },
+    {
+      "surface": "ונטל",
+      "gloss": "અને વહન"
+    },
+    {
+      "surface": "החול",
+      "gloss": "રેતીનું"
+    },
+    {
+      "surface": "וכעס",
+      "gloss": "પણ ક્રોધ"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "મૂર્ખનો"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "ભારે"
+    },
+    {
+      "surface": "משניהם",
+      "gloss": "બંને કરતાં"
+    }
+  ],
+  "timestamp": "2026-08-21T17:02:30.485346174Z",
+  "model": "glm-5.3"
+}

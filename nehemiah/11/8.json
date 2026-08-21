@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "nehemiah 11:8",
+  "book": "nehemiah",
+  "lang": "gu",
+  "chapter": 11,
+  "translation": "અને તેની પાછળ ગબ્બાય, સલ્લાય — નવસો વીસ અને આઠ।",
+  "tokens": [
+    {
+      "surface": "ואחריו",
+      "gloss": "અને તેની પાછળ"
+    },
+    {
+      "surface": "גבי",
+      "gloss": "ગબ્બાય"
+    },
+    {
+      "surface": "סלי",
+      "gloss": "સલ્લાય"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "નવસો"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "સો"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "વીસ"
+    },
+    {
+      "surface": "וושמנה",
+      "gloss": "અને આઠ"
+    }
+  ],
+  "timestamp": "2026-08-21T19:01:20.042388477Z",
+  "model": "glm-5.3"
+}

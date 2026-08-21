@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 2:20",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 2,
+  "translation": "જેથી તું સારા લોકોના માર્ગે ચાલે અને ન્યાયીઓના પંથ પાળે.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "જેથી"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "તું ચાલે"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "માર્ગે"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "સારા લોકોના"
+    },
+    {
+      "surface": "וארחות",
+      "gloss": "અને...પંથ"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "ન્યાયીઓના"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "પાળે"
+    }
+  ],
+  "timestamp": "2026-08-21T16:52:02.571482081Z",
+  "model": "glm-5.3"
+}

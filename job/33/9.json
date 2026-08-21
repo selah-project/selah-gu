@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 33:9",
+  "book": "job",
+  "lang": "gu",
+  "chapter": 33,
+  "translation": "શુદ્ધ છું ⟨હું⟩, અપરાધ વિના; નિષ્કલંક છું ⟨હું⟩, અને મારામાં દોષ નથી.",
+  "tokens": [
+    {
+      "surface": "זך",
+      "gloss": "શુદ્ધ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "છું હું"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "વિના"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "અપરાધ"
+    },
+    {
+      "surface": "חף",
+      "gloss": "નિષ્કલંક"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "છું હું"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "અને નથી"
+    },
+    {
+      "surface": "עון",
+      "gloss": "દોષ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "મારામાં"
+    }
+  ],
+  "timestamp": "2026-08-21T17:15:23.829833727Z",
+  "model": "glm-5.3"
+}

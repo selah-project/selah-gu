@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 1:30",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 1,
+  "translation": "મિશ્મા, અને દુમા, માસા, હદાદ, અને તેમા.",
+  "tokens": [
+    {
+      "surface": "משמע",
+      "gloss": "મિશ્મા"
+    },
+    {
+      "surface": "ודומה",
+      "gloss": "અને દુમા"
+    },
+    {
+      "surface": "משא",
+      "gloss": "માસા"
+    },
+    {
+      "surface": "חדד",
+      "gloss": "હદાદ"
+    },
+    {
+      "surface": "ותימא",
+      "gloss": "અને તેમા"
+    }
+  ],
+  "timestamp": "2026-08-21T17:59:06.866620440Z",
+  "model": "glm-5.3"
+}

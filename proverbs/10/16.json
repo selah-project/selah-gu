@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 10:16",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 10,
+  "translation": "ન્યાયીનું કાર્ય જીવન તરફ ⟨છે⟩; દુષ્ટની આવક પાપ તરફ ⟨છે⟩.",
+  "tokens": [
+    {
+      "surface": "פעלת",
+      "gloss": "કાર્ય"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ન્યાયીનું"
+    },
+    {
+      "surface": "לחיים",
+      "gloss": "જીવન તરફ"
+    },
+    {
+      "surface": "תבואת",
+      "gloss": "આવક"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "દુષ્ટની"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "પાપ તરફ"
+    }
+  ],
+  "timestamp": "2026-08-21T16:55:29.415928855Z",
+  "model": "glm-5.3"
+}

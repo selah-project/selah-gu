@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 14:21",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 14,
+  "translation": "તેમ છતાં, હું જીવંત છું, અને યાહવેનો તેજ (મહિમા) આખી ⟨את⟩ પૃથ્વી ભરી દેશે.",
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "તેમ છતાં"
+    },
+    {
+      "surface": "חי",
+      "gloss": "જીવંત"
+    },
+    {
+      "surface": "אני",
+      "gloss": "હું"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "અને ભરાશે"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "તેજ (મહિમા)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવેનો"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "આખી પૃથ્વી"
+    },
+    {
+      "surface": "כל",
+      "gloss": "આખી"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "પૃથ્વી"
+    }
+  ],
+  "timestamp": "2026-08-21T11:57:12.978218351Z",
+  "model": "glm-5.3"
+}

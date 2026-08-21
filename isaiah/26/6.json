@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 26:6",
+  "book": "isaiah",
+  "lang": "gu",
+  "chapter": 26,
+  "translation": "પગ તેને કચડશે — દીન લોકોના પગ, નબળાઓના પગલાં.",
+  "tokens": [
+    {
+      "surface": "תרמסנה",
+      "gloss": "તેને કચડશે"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "પગ"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "પગ"
+    },
+    {
+      "surface": "עני",
+      "gloss": "દીન લોકોના"
+    },
+    {
+      "surface": "פעמי",
+      "gloss": "પગલાં"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "નબળાઓના"
+    }
+  ],
+  "timestamp": "2026-08-21T14:21:51.629600003Z",
+  "model": "glm-5.3"
+}

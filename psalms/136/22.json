@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 136:22",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 136,
+  "translation": "વિરાસત — તેના સેવક ઇસ્રાએલને; કે સદા માટે ⟨છે⟩ તેનો હેસેદ.",
+  "tokens": [
+    {
+      "surface": "נחלה",
+      "gloss": "વિરાસત"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "ઇસ્રાએલને"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "તેના સેવક"
+    },
+    {
+      "surface": "כי",
+      "gloss": "કે"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "સદા માટે"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "તેનો હેસેદ"
+    }
+  ],
+  "timestamp": "2026-08-21T18:58:02.805093669Z",
+  "model": "glm-5.3"
+}

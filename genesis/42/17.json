@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 42:17",
+  "book": "genesis",
+  "lang": "gu",
+  "chapter": 42,
+  "translation": "અને તેણે તેમને ⟨את⟩ કેદમાં ત્રણ દિવસ માટે મૂક્યા.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "તેણે મૂક્યા"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "તેમને"
+    },
+    {
+      "surface": "אל",
+      "gloss": "માં"
+    },
+    {
+      "surface": "משמר",
+      "gloss": "કેદ"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "ત્રણ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "દિવસ"
+    }
+  ],
+  "timestamp": "2026-08-21T11:00:35.835412484Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 24:9",
+  "book": "isaiah",
+  "lang": "gu",
+  "chapter": 24,
+  "translation": "ગીત સાથે તેઓ દારૂ નહિં પીએ; મદ્યપાન કરનારાઓને માટે મદિરા કડવી થઈ જશે.",
+  "tokens": [
+    {
+      "surface": "בשיר",
+      "gloss": "ગીત સાથે"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નહિં"
+    },
+    {
+      "surface": "ישתו",
+      "gloss": "તેઓ પીએ"
+    },
+    {
+      "surface": "יין",
+      "gloss": "દારૂ"
+    },
+    {
+      "surface": "ימר",
+      "gloss": "કડવી થશે"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "મદિરા"
+    },
+    {
+      "surface": "לשתיו",
+      "gloss": "પીનારાઓ માટે"
+    }
+  ],
+  "timestamp": "2026-08-21T14:22:15.219353865Z",
+  "model": "glm-5.3"
+}

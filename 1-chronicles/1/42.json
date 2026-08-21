@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-chronicles 1:42",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 1,
+  "translation": "એત્સેરનાં પુત્રો: બિલ્હાન, ઝાવાન અને યાકાન; દિશોનનાં પુત્રો: ઉત્સ અને અરાન.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "אצר",
+      "gloss": "એત્સેરનાં"
+    },
+    {
+      "surface": "בלהן",
+      "gloss": "બિલ્હાન"
+    },
+    {
+      "surface": "וזעון",
+      "gloss": "ઝાવાન"
+    },
+    {
+      "surface": "יעקן",
+      "gloss": "યાકાન"
+    },
+    {
+      "surface": "בני",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "דישון",
+      "gloss": "દિશોનનાં"
+    },
+    {
+      "surface": "עוץ",
+      "gloss": "ઉત્સ"
+    },
+    {
+      "surface": "וארן",
+      "gloss": "અરાન"
+    }
+  ],
+  "timestamp": "2026-08-21T17:59:29.145883851Z",
+  "model": "glm-5.3"
+}

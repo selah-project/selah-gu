@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 14:5",
+  "book": "leviticus",
+  "lang": "gu",
+  "chapter": 14,
+  "translation": "અને કોહેન આદેશ આપશે, અને ⟨את⟩ એક પંખીને માટીના પાત્રમાં, જીવંત પાણી ઉપર વધેરશે.",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "આદેશ આપશે"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "કોહેન"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "વધેરશે"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "એક પંખી"
+    },
+    {
+      "surface": "הצפור",
+      "gloss": "પંખી"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "એક"
+    },
+    {
+      "surface": "אל",
+      "gloss": "માં"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "પાત્ર"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "માટીના"
+    },
+    {
+      "surface": "על",
+      "gloss": "ઉપર"
+    },
+    {
+      "surface": "מים",
+      "gloss": "પાણી"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "જીવંત"
+    }
+  ],
+  "timestamp": "2026-08-21T11:38:36.488781772Z",
+  "model": "glm-5.3"
+}

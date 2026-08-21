@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 2:37",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 2,
+  "translation": "અને ઝાબાદે ⟨את⟩ એફ્લાલને જન્મ આપ્યો, અને એફ્લાલે ⟨את⟩ ઓવેદને જન્મ આપ્યો.",
+  "tokens": [
+    {
+      "surface": "וזבד",
+      "gloss": "અને ઝાબાદ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "જન્મ આપ્યો"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "એફ્લાલ"
+    },
+    {
+      "surface": "אפלל",
+      "gloss": "એફ્લાલ"
+    },
+    {
+      "surface": "ואפלל",
+      "gloss": "અને એફ્લાલ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "જન્મ આપ્યો"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ઓવેદ"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "ઓવેદ"
+    }
+  ],
+  "timestamp": "2026-08-21T17:59:24.624511804Z",
+  "model": "glm-5.3"
+}

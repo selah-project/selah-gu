@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 71:8",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 71,
+  "translation": "મારું મુખ તારી સ્તુતિથી ભરાય, આખો દિવસ તારા તેજથી.",
+  "tokens": [
+    {
+      "surface": "ימלא",
+      "gloss": "ભરાય"
+    },
+    {
+      "surface": "פי",
+      "gloss": "મારું મુખ"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "તારી સ્તુતિથી"
+    },
+    {
+      "surface": "כל",
+      "gloss": "આખો"
+    },
+    {
+      "surface": "היום",
+      "gloss": "દિવસ"
+    },
+    {
+      "surface": "תפארתך",
+      "gloss": "તારા તેજથી"
+    }
+  ],
+  "timestamp": "2026-08-21T16:28:54.772733393Z",
+  "model": "glm-5.3"
+}

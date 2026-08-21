@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 25:19",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 25,
+  "translation": "અને મહામારી પછી ⟨એમ⟩ થયું —",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "અને થયું"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "પછી"
+    },
+    {
+      "surface": "המגפה",
+      "gloss": "મહામારી"
+    }
+  ],
+  "timestamp": "2026-08-21T12:03:21.436714251Z",
+  "model": "glm-5.3"
+}

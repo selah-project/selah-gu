@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 14:10",
+  "book": "deuteronomy",
+  "lang": "gu",
+  "chapter": 14,
+  "translation": "અને જેને પખડ અને ભીંગડી નથી તે સર્વ તમે ન ખાશો; તે તમારા માટે અશુદ્ધ ⟨છે⟩.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "અને સર્વ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જે"
+    },
+    {
+      "surface": "אין",
+      "gloss": "નથી"
+    },
+    {
+      "surface": "לו",
+      "gloss": "જેને"
+    },
+    {
+      "surface": "סנפיר",
+      "gloss": "પખડ"
+    },
+    {
+      "surface": "וקשקשת",
+      "gloss": "અને ભીંગડી"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ન"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "તમે ખાશો"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "અશુદ્ધ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "તે"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "તમારા માટે"
+    }
+  ],
+  "timestamp": "2026-08-21T12:19:38.037411964Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "joshua 15:34",
+  "book": "joshua",
+  "lang": "gu",
+  "chapter": 15,
+  "translation": "અને ત્સાનોઆ, અને એન-ગન્નિમ, તાપ્પુઆ, અને હા-એનામ,",
+  "tokens": [
+    {
+      "surface": "וזנוח",
+      "gloss": "અને ત્સાનોઆ"
+    },
+    {
+      "surface": "ועין",
+      "gloss": "અને એન"
+    },
+    {
+      "surface": "גנים",
+      "gloss": "ગન્નિમ"
+    },
+    {
+      "surface": "תפוח",
+      "gloss": "તાપ્પુઆ"
+    },
+    {
+      "surface": "והעינם",
+      "gloss": "અને હા-એનામ"
+    }
+  ],
+  "timestamp": "2026-08-21T12:40:50.137747703Z",
+  "model": "glm-5.3"
+}

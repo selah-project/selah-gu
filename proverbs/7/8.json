@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 7:8",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 7,
+  "translation": "બજારમાં પસાર થતો, તેના ખૂણા પાસે, અને તેના ઘરના માર્ગે તે ડગલાં ભરતો.",
+  "tokens": [
+    {
+      "surface": "עבר",
+      "gloss": "પસાર થતો"
+    },
+    {
+      "surface": "בשוק",
+      "gloss": "બજારમાં"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "પાસે"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "તેના ખૂણા"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "અને માર્ગે"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "તેના ઘરના"
+    },
+    {
+      "surface": "יצעד",
+      "gloss": "તે ડગલાં ભરતો"
+    }
+  ],
+  "timestamp": "2026-08-21T16:53:17.713474221Z",
+  "model": "glm-5.3"
+}

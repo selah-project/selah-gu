@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "numbers 31:37",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 31,
+  "translation": "અને ઘેટાંમાંથી યાહવેનો મકસ (ખંડ) ⟨હતો⟩ — ૬૭૫.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "અને થયું"
+    },
+    {
+      "surface": "המכס",
+      "gloss": "મકસ (ખંડ)"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "યાહવે માટે"
+    },
+    {
+      "surface": "מן",
+      "gloss": "માંથી"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "ઘેટાં"
+    },
+    {
+      "surface": "שש",
+      "gloss": "૬"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "સો"
+    },
+    {
+      "surface": "ગמש",
+      "gloss": "૫"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "૭૦"
+    }
+  ],
+  "timestamp": "2026-08-21T12:07:42.161286615Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 43:11",
+  "book": "isaiah",
+  "lang": "gu",
+  "chapter": 43,
+  "translation": "હું, હું જ યાહવે છું, અને મારા સિવાય કોઈ મુક્તિદાતા નથી.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "હું"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "હું જ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "અને નથી"
+    },
+    {
+      "surface": "מבלעדי",
+      "gloss": "મારા સિવાય"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "મુક્તિદાતા"
+    }
+  ],
+  "timestamp": "2026-08-21T14:31:41.288006605Z",
+  "model": "glm-5.3"
+}

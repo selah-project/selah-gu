@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "nehemiah 3:22",
+  "book": "nehemiah",
+  "lang": "gu",
+  "chapter": 3,
+  "translation": "અને તેની પછી યાજકો, મૈદાનના માણસો, મજબૂત કરે છે.",
+  "tokens": [
+    {
+      "surface": "ואחריו",
+      "gloss": "અને તેની પછી"
+    },
+    {
+      "surface": "החזיקו",
+      "gloss": "મજબૂત કરે છે"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "યાજકો"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "માણસો"
+    },
+    {
+      "surface": "הככר",
+      "gloss": "મૈદાનના"
+    }
+  ],
+  "timestamp": "2026-08-21T17:52:45.413711567Z",
+  "model": "glm-5.3"
+}

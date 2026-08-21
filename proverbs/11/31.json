@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "proverbs 11:31",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 11,
+  "translation": "જુઓ, ન્યાયી પૃથ્વી પર પોતાનું ફળ પામે છે — તો દુષ્ટ અને પાપી તો કેટલું વધુ!",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "જુઓ"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ન્યાયી"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "પૃથ્વી પર"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "પોતાનું ફળ પામે છે"
+    },
+    {
+      "surface": "אף",
+      "gloss": "તો … કેટલું વધુ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "પણ"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "દુષ્ટ"
+    },
+    {
+      "surface": "וחוטא",
+      "gloss": "અને પાપી"
+    }
+  ],
+  "timestamp": "2026-08-21T16:56:03.455655347Z",
+  "model": "glm-5.3"
+}

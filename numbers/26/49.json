@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "numbers 26:49",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 26,
+  "translation": "લિયેત્સેરના — યિત્સરી કુળ; લિશિલ્લેમના — શિલ્લેમી કુળ.",
+  "tokens": [
+    {
+      "surface": "ליצר",
+      "gloss": "લિયેત્સેરના"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "કુળ"
+    },
+    {
+      "surface": "היצרי",
+      "gloss": "યિત્સરી"
+    },
+    {
+      "surface": "לשלם",
+      "gloss": "લિશિલ્લેમના"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "કુળ"
+    },
+    {
+      "surface": "השלמי",
+      "gloss": "શિલ્લેમી"
+    }
+  ],
+  "timestamp": "2026-08-21T12:05:39.213772195Z",
+  "model": "glm-5.3"
+}

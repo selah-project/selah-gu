@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 22:1",
+  "book": "1-kings",
+  "lang": "gu",
+  "chapter": 22,
+  "translation": "અને તેઓ ત્રણ વર્ષ રહ્યા, અરામ અને યિસ્રાએલ વચ્ચે કોઈ યુદ્ધ વિના.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "અને તેઓ રહ્યા"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ત્રણ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "વર્ષ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "વિના"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "યુદ્ધ"
+    },
+    {
+      "surface": "בין",
+      "gloss": "વચ્ચે"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "અરામ"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "અને"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "યિસ્રાએલ"
+    }
+  ],
+  "timestamp": "2026-08-21T18:44:18.649302757Z",
+  "model": "glm-5.3"
+}

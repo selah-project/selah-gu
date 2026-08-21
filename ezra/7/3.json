@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezra 7:3",
+  "book": "ezra",
+  "lang": "gu",
+  "chapter": 7,
+  "translation": "અમર્યાનો પુત્ર, અઝરાયાનો પુત્ર, મરાયોતનો પુત્ર,",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "પુત્ર"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "અમર્યા"
+    },
+    {
+      "surface": "בן",
+      "gloss": "પુત્ર"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "અઝરાયા"
+    },
+    {
+      "surface": "בן",
+      "gloss": "પુત્ર"
+    },
+    {
+      "surface": "מריות",
+      "gloss": "મરાયોત"
+    }
+  ],
+  "timestamp": "2026-08-21T17:48:56.504958882Z",
+  "model": "glm-5.3"
+}

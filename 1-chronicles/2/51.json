@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "1-chronicles 2:51",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 2,
+  "translation": "સલમા, બેત-લેખેમનો પિતા; ખારેફ, બેત-ગાદેરનો પિતા.",
+  "tokens": [
+    {
+      "surface": "שלמא",
+      "gloss": "સલમા"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "પિતા"
+    },
+    {
+      "surface": "בית",
+      "gloss": "બેત"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "લેખેમનો"
+    },
+    {
+      "surface": "חרף",
+      "gloss": "ખારેફ"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "પિતા"
+    },
+    {
+      "surface": "בית",
+      "gloss": "બેત"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "ગાદેરનો"
+    }
+  ],
+  "timestamp": "2026-08-21T17:59:39.598964342Z",
+  "model": "glm-5.3"
+}

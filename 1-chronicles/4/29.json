@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-chronicles 4:29",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 4,
+  "translation": "અને બિલ્હામાં, અને એત્સેમમાં, અને તોલાદમાં,",
+  "tokens": [
+    {
+      "surface": "ובבלהה",
+      "gloss": "અને બિલ્હામાં"
+    },
+    {
+      "surface": "ובעצם",
+      "gloss": "અને એત્સેમમાં"
+    },
+    {
+      "surface": "ובתולד",
+      "gloss": "અને તોલાદમાં"
+    }
+  ],
+  "timestamp": "2026-08-21T18:01:10.741962715Z",
+  "model": "glm-5.3"
+}

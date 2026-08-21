@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 32:9",
+  "book": "exodus",
+  "lang": "gu",
+  "chapter": 32,
+  "translation": "અને યાહવેએ મોશેને કહ્યું: મેં ⟨את⟩ આ પ્રજાને જોઈ, અને તે તો જુઓ, કઠણ-ડોકાંવાળી પ્રજા ⟨છે⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "અને કહ્યું"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ને તરફ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "મોશે"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "મેં જોઈ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "આ પ્રજા"
+    },
+    {
+      "surface": "העם",
+      "gloss": "પ્રજા"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "આ"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "અને તે તો જુઓ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "પ્રજા"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "કઠણ"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "ડોકાં"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "તે"
+    }
+  ],
+  "timestamp": "2026-08-21T18:34:44.721554412Z",
+  "model": "glm-5.3"
+}

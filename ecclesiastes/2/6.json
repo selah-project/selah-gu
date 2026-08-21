@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 2:6",
+  "book": "ecclesiastes",
+  "lang": "gu",
+  "chapter": 2,
+  "translation": "મેં મારા માટે પાણીનાં તળાવો બનાવ્યાં, તેમનાથી વૃક્ષો ઉગાડતા જંગલને પાણી પાવા માટે.",
+  "tokens": [
+    {
+      "surface": "עשיתי",
+      "gloss": "બનાવ્યાં"
+    },
+    {
+      "surface": "לי",
+      "gloss": "મારા માટે"
+    },
+    {
+      "surface": "ברכות",
+      "gloss": "તળાવો"
+    },
+    {
+      "surface": "מים",
+      "gloss": "પાણીનાં"
+    },
+    {
+      "surface": "להשקות",
+      "gloss": "પાણી પાવા માટે"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "તેમનાથી"
+    },
+    {
+      "surface": "יער",
+      "gloss": "જંગલને"
+    },
+    {
+      "surface": "צומח",
+      "gloss": "ઉગાડતા"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "વૃક્ષો"
+    }
+  ],
+  "timestamp": "2026-08-21T17:29:06.184659394Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 2:36",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 2,
+  "translation": "અને અત્તાયે ⟨את⟩ નાતાનને જન્મ આપ્યો, અને નાતાને ⟨את⟩ ઝાબાદને જન્મ આપ્યો.",
+  "tokens": [
+    {
+      "surface": "ועתי",
+      "gloss": "અને અત્તાયે"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "જન્મ આપ્યો"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "નાતાન"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "નાતાન"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "અને નાતાને"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "જન્મ આપ્યો"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ઝાબાદ"
+    },
+    {
+      "surface": "זבד",
+      "gloss": "ઝાબાદ"
+    }
+  ],
+  "timestamp": "2026-08-21T17:59:44.652070554Z",
+  "model": "glm-5.3"
+}

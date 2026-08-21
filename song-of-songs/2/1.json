@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "song-of-songs 2:1",
+  "book": "song-of-songs",
+  "lang": "gu",
+  "chapter": 2,
+  "translation": "હું શારોનનો ગુલાબ ⟨છું⟩, ખીણોનું કમળ ⟨છું⟩.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "હું"
+    },
+    {
+      "surface": "חבצלת",
+      "gloss": "ગુલાબ"
+    },
+    {
+      "surface": "השרון",
+      "gloss": "શારોનનો"
+    },
+    {
+      "surface": "שושנת",
+      "gloss": "કમળ"
+    },
+    {
+      "surface": "העמקים",
+      "gloss": "ખીણોનું"
+    }
+  ],
+  "timestamp": "2026-08-21T17:21:27.983209864Z",
+  "model": "glm-5.3"
+}

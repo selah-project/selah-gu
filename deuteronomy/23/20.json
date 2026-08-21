@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 23:20",
+  "book": "deuteronomy",
+  "lang": "gu",
+  "chapter": 23,
+  "translation": "તું તારા ભાઈને વ્યાજ પર ધિરીશ નહીં — ચાંદીનું વ્યાજ, અન્નનું વ્યાજ, જે કંઈ વ્યાજ પર ધિરાય તેનું વ્યાજ.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "תשיך",
+      "gloss": "તું ધિરીશ"
+    },
+    {
+      "surface": "לאחיך",
+      "gloss": "તારા ભાઈને"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "વ્યાજ"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ચાંદીનું"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "વ્યાજ"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "અન્નનું"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "વ્યાજ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "જે કંઈ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "વસ્તુ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જે"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "વ્યાજ પર ધિરાય"
+    }
+  ],
+  "timestamp": "2026-08-21T12:26:05.450696150Z",
+  "model": "glm-5.3"
+}

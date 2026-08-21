@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezekiel 3:16",
+  "book": "ezekiel",
+  "lang": "gu",
+  "chapter": 3,
+  "translation": "અને સાત દિવસના અંતે યાહવેનો વચન મારી પાસે આવ્યું, કહેતું:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "અને ઘટ્યું"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "અંતે"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "સાત"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "દિવસના"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "થયું"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "વચન"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવેનો"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "મારી પાસે"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "કહેતું"
+    }
+  ],
+  "timestamp": "2026-08-21T15:18:32.771392129Z",
+  "model": "glm-5.3"
+}

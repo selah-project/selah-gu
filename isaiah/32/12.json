@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 32:12",
+  "book": "isaiah",
+  "lang": "gu",
+  "chapter": 32,
+  "translation": "છાતી પર વિલાપ કરવાનું થશે — મનોહર ખેતરો પર, ફળદાયી દ્રાક્ષવેલ પર.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "שדים",
+      "gloss": "છાતી"
+    },
+    {
+      "surface": "ספדים",
+      "gloss": "વિલાપ કરવાનું થશે"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "ખેતરો"
+    },
+    {
+      "surface": "חמד",
+      "gloss": "મનોહર"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "גפן",
+      "gloss": "દ્રાક્ષવેલ"
+    },
+    {
+      "surface": "פריה",
+      "gloss": "ફળદાયી"
+    }
+  ],
+  "timestamp": "2026-08-21T14:24:00.448543753Z",
+  "model": "glm-5.3"
+}

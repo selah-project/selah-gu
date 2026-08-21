@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "job 34:35",
+  "book": "job",
+  "lang": "gu",
+  "chapter": 34,
+  "translation": "ઇયોવ જ્ઞાન વિના બોલે છે, અને તેનાં વચનો સમજ વિના છે.",
+  "tokens": [
+    {
+      "surface": "איוב",
+      "gloss": "ઇયોવ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "વિના"
+    },
+    {
+      "surface": "בדעת",
+      "gloss": "જ્ઞાન"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "બોલે છે"
+    },
+    {
+      "surface": "ודבריו",
+      "gloss": "અને તેનાં વચનો"
+    },
+    {
+      "surface": "לא",
+      "gloss": "વિના"
+    },
+    {
+      "surface": "בהשכיל",
+      "gloss": "સમજ"
+    }
+  ],
+  "timestamp": "2026-08-21T17:18:13.341149429Z",
+  "model": "glm-5.3"
+}

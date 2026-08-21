@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 28:16",
+  "book": "2-chronicles",
+  "lang": "gu",
+  "chapter": 28,
+  "translation": "તે સમયે રાજા અખાઝે અશ્શૂરના રાજાઓ પાસે પોતાને મદદ માટે સંદેશ મોકલ્યો।",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "સમયે"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "તે"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "સંદેશ મોકલ્યો"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "રાજા"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "અખાઝે"
+    },
+    {
+      "surface": "על",
+      "gloss": "પાસે"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "રાજાઓ"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "અશ્શૂરના"
+    },
+    {
+      "surface": "לעזר",
+      "gloss": "મદદ માટે"
+    },
+    {
+      "surface": "לו",
+      "gloss": "પોતાને"
+    }
+  ],
+  "timestamp": "2026-08-21T18:27:29.033552937Z",
+  "model": "glm-5.3"
+}

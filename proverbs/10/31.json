@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "proverbs 10:31",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 10,
+  "translation": "The mouth of the righteous sprouts wisdom; but the tongue of perversity shall be cut off.",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "the mouth of"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "the righteous"
+    },
+    {
+      "surface": "ינוב",
+      "gloss": "sprouts"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "wisdom"
+    },
+    {
+      "surface": "ולשון",
+      "gloss": "and the tongue of"
+    },
+    {
+      "surface": "תהפכות",
+      "gloss": "perversity"
+    },
+    {
+      "surface": "תכרת",
+      "gloss": "shall be cut off"
+    }
+  ],
+  "timestamp": "2026-08-21T16:54:42.195597648Z",
+  "model": "glm-5.3"
+}

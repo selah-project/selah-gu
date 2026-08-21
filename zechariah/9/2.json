@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zechariah 9:2",
+  "book": "zechariah",
+  "lang": "gu",
+  "chapter": 9,
+  "translation": "અને હમાત પણ તેની સાથે સીમા બંધશે; ત્સોર અને સિદોન — કેમ કે ⟨તે⟩ અત્યંત જ્ઞાની ⟨છે⟩.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "અને ... પણ"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "હમાત"
+    },
+    {
+      "surface": "תגבל",
+      "gloss": "સીમા બંધશે"
+    },
+    {
+      "surface": "בה",
+      "gloss": "તેની સાથે"
+    },
+    {
+      "surface": "צר",
+      "gloss": "ત્સોર"
+    },
+    {
+      "surface": "וצידון",
+      "gloss": "અને સિદોન"
+    },
+    {
+      "surface": "כי",
+      "gloss": "કેમ કે"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "જ્ઞાની"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "અત્યંત"
+    }
+  ],
+  "timestamp": "2026-08-21T16:05:42.763672133Z",
+  "model": "glm-5.3"
+}

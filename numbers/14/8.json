@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 14:8",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 14,
+  "translation": "જો યાહવે આપણામાં પ્રસન્ન હોય, તો ⟨he⟩ આપણને આ દેશમાં લાવશે અને તેને આપણને આપશે — દૂધ અને મધથી વહેતો દેશ.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "જો"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "પ્રસન્ન હોય"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "આપણામાં"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "והביא",
+      "gloss": "અને લાવશે"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ આપણને",
+      "marks": "આપણને"
+    },
+    {
+      "surface": "אל",
+      "gloss": "માં"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "દેશ"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "આ"
+    },
+    {
+      "surface": "ונתנה",
+      "gloss": "અને તે આપશે"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "આપણને"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "દેશ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જે"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "તે"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "વહેતો"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "દૂધ"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "અને મધ"
+    }
+  ],
+  "timestamp": "2026-08-21T11:56:24.707699054Z",
+  "model": "glm-5.3"
+}

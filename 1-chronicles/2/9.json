@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 2:9",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 2,
+  "translation": "અને ખેત્સરોનના પુત્રો, જે તેને જન્મ્યા હતા: ⟨את⟩ યરખમ્એલ, અને ⟨את⟩ રામ, અને ⟨את⟩ ખલુબાય.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "અને પુત્રો"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "ખેત્સરોનના"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જે"
+    },
+    {
+      "surface": "נולד",
+      "gloss": "જન્મ્યા હતા"
+    },
+    {
+      "surface": "לו",
+      "gloss": "તેને"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "યરખમ્એલ"
+    },
+    {
+      "surface": "ירחמאל",
+      "gloss": "યરખમ્એલ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "અને ⟨את⟩",
+      "marks": "રામ"
+    },
+    {
+      "surface": "רם",
+      "gloss": "રામ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "અને ⟨את⟩",
+      "marks": "ખલુબાય"
+    },
+    {
+      "surface": "כלובי",
+      "gloss": "ખલુબાય"
+    }
+  ],
+  "timestamp": "2026-08-21T17:59:35.278013547Z",
+  "model": "glm-5.3"
+}

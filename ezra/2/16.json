@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezra 2:16",
+  "book": "ezra",
+  "lang": "gu",
+  "chapter": 2,
+  "translation": "આતેરનાં પુત્રો, હિઝકિયાનાં — નેંચાસી અને આઠ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "אטר",
+      "gloss": "આતેરનાં"
+    },
+    {
+      "surface": "ליחזקיה",
+      "gloss": "હિઝકિયાનાં"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "નેંચાસી"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "અને આઠ"
+    }
+  ],
+  "timestamp": "2026-08-21T17:45:08.807838973Z",
+  "model": "glm-5.3"
+}

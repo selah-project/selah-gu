@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 28:10",
+  "book": "genesis",
+  "lang": "gu",
+  "chapter": 28,
+  "translation": "અને યાકોવ બેર-શેવાથી નીકળ્યો, અને ખારાન તરફ ચાલ્યો.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "અને નીકળ્યો"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "યાકોવ"
+    },
+    {
+      "surface": "מבאר",
+      "gloss": "બેર-થી"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "શેવા"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "અને ચાલ્યો"
+    },
+    {
+      "surface": "חרנה",
+      "gloss": "ખારાન તરફ"
+    }
+  ],
+  "timestamp": "2026-08-21T10:51:41.899547719Z",
+  "model": "glm-5.3"
+}

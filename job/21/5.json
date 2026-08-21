@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 21:5",
+  "book": "job",
+  "lang": "gu",
+  "chapter": 21,
+  "translation": "મારી તરફ ફંટાઓ અને દંગ રહી જાઓ, અને મોં પર હાથ મૂકો.",
+  "tokens": [
+    {
+      "surface": "פנו",
+      "gloss": "ફંટાઓ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "મારી તરફ"
+    },
+    {
+      "surface": "והשמו",
+      "gloss": "અને દંગ રહી જાઓ"
+    },
+    {
+      "surface": "ושימו",
+      "gloss": "અને મૂકો"
+    },
+    {
+      "surface": "יד",
+      "gloss": "હાથ"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "פה",
+      "gloss": "મોં"
+    }
+  ],
+  "timestamp": "2026-08-21T17:11:23.787465723Z",
+  "model": "glm-5.3"
+}

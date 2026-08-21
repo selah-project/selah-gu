@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 22:12",
+  "book": "deuteronomy",
+  "lang": "gu",
+  "chapter": 22,
+  "translation": "તું પોતાના માટે ગોટલાઓ બનાવીશ, પોતાના આવરણની ચાર કિનારીઓ પર, જેથી તું તેનાથી ઢંકાય છે.",
+  "tokens": [
+    {
+      "surface": "גדלים",
+      "gloss": "ગોટલાઓ"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "બનાવીશ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "પોતાના માટે"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "ચાર"
+    },
+    {
+      "surface": "כנפות",
+      "gloss": "કિનારીઓ"
+    },
+    {
+      "surface": "כסותך",
+      "gloss": "પોતાના આવરણની"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જેથી"
+    },
+    {
+      "surface": "תכסה",
+      "gloss": "ઢંકાય છે"
+    },
+    {
+      "surface": "בה",
+      "gloss": "તેનાથી"
+    }
+  ],
+  "timestamp": "2026-08-21T12:22:20.337796874Z",
+  "model": "glm-5.3"
+}

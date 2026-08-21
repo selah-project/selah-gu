@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "judges 6:23",
+  "book": "judges",
+  "lang": "gu",
+  "chapter": 6,
+  "translation": "પણ યાહવેએ તેને કહ્યું: “તારા માટે શાંતિ ⟨is⟩; ડરશો નહીં, તું મરશે નહીં.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "અને કહ્યું"
+    },
+    {
+      "surface": "לו",
+      "gloss": "તેને"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવેએ"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "શાંતિ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "તારા માટે"
+    },
+    {
+      "surface": "אל",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "ડરશો"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "તું મરશે"
+    }
+  ],
+  "timestamp": "2026-08-21T12:48:13.899317019Z",
+  "model": "glm-5.3"
+}

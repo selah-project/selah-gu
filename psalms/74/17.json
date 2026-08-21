@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 74:17",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 74,
+  "translation": "તેં પૃથ્વીની બધી સીમાઓ સ્થિર કરી છે; ઉનાળો અને શિયાળો તેં ઘડ્યાં છે.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "તેં"
+    },
+    {
+      "surface": "הצבת",
+      "gloss": "સ્થિર કરી છે"
+    },
+    {
+      "surface": "כל",
+      "gloss": "બધી"
+    },
+    {
+      "surface": "גבולות",
+      "gloss": "સીમાઓ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "પૃથ્વીની"
+    },
+    {
+      "surface": "קיץ",
+      "gloss": "ઉનાળો"
+    },
+    {
+      "surface": "וחרף",
+      "gloss": "અને શિયાળો"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "તેં"
+    },
+    {
+      "surface": "יצרתם",
+      "gloss": "ઘડ્યાં છે"
+    }
+  ],
+  "timestamp": "2026-08-21T16:31:13.112553313Z",
+  "model": "glm-5.3"
+}

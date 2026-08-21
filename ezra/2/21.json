@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezra 2:21",
+  "book": "ezra",
+  "lang": "gu",
+  "chapter": 2,
+  "translation": "બેથ-લેખેમના પુત્રો, સો વીસ અને ત્રણ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "בית",
+      "gloss": "બેથ-"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "લેખેમ"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "સો"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "વીસ"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "અને ત્રણ"
+    }
+  ],
+  "timestamp": "2026-08-21T17:45:04.011596144Z",
+  "model": "glm-5.3"
+}

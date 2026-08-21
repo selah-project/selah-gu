@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 16:20",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 16,
+  "translation": "અને તેઓ રાષ્ટ્રથી રાષ્ટ્ર સુધી, અને એક રાજ્યથી બીજી પ્રજા સુધી ફરતા રહ્યા.",
+  "tokens": [
+    {
+      "surface": "ויתהלכו",
+      "gloss": "અને ફરતા રહ્યા"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "રાષ્ટ્રથી"
+    },
+    {
+      "surface": "אל",
+      "gloss": "સુધી"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "રાષ્ટ્ર"
+    },
+    {
+      "surface": "ומממלכה",
+      "gloss": "અને એક રાજ્યથી"
+    },
+    {
+      "surface": "אל",
+      "gloss": "સુધી"
+    },
+    {
+      "surface": "עם",
+      "gloss": "પ્રજા"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "બીજી"
+    }
+  ],
+  "timestamp": "2026-08-21T18:06:31.896136476Z",
+  "model": "glm-5.3"
+}

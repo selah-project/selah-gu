@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "ezra 2:33",
+  "book": "ezra",
+  "lang": "gu",
+  "chapter": 2,
+  "translation": "લોદ (લોદ), ખાદીદ (ખાદીદ) અને ઓનોના પુત્રો — સાતસો પચ્ચીસ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "לד",
+      "gloss": "લોદ (લોદ)"
+    },
+    {
+      "surface": "חדיד",
+      "gloss": "ખાદીદ (ખાદીદ)"
+    },
+    {
+      "surface": "ואונו",
+      "gloss": "અને ઓનો"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "સાત"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "સો"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "વીસ"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "અને પાંચ"
+    }
+  ],
+  "timestamp": "2026-08-21T17:45:24.312999550Z",
+  "model": "glm-5.3"
+}

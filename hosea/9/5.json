@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 9:5",
+  "book": "hosea",
+  "lang": "gu",
+  "chapter": 9,
+  "translation": "શું કરશો તમે નિયુક્ત-સમયના દિવસે, અને યાહવેના પર્વના દિવસે?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "શું"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "કરશો તમે"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "દિવસે"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "નિયુક્ત-સમયના"
+    },
+    {
+      "surface": "וליום",
+      "gloss": "અને…દિવસે"
+    },
+    {
+      "surface": "חג",
+      "gloss": "પર્વના"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવેના"
+    }
+  ],
+  "timestamp": "2026-08-21T15:49:20.754534318Z",
+  "model": "glm-5.3"
+}

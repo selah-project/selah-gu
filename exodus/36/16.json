@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 36:16",
+  "book": "exodus",
+  "lang": "gu",
+  "chapter": 36,
+  "translation": "અને તેણે ⟨את⟩ પાંચ પડદા અલગ જોડ્યા, અને ⟨את⟩ છ પડદા અલગ જોડ્યા.",
+  "tokens": [
+    {
+      "surface": "ויחבר",
+      "gloss": "અને તેણે જોડ્યા"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "પાંચ પડદા"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "પાંચ"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "પડદા"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "અલગ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "અને ⟨את⟩",
+      "marks": "છ પડદા"
+    },
+    {
+      "surface": "שש",
+      "gloss": "છ"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "પડદા"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "અલગ"
+    }
+  ],
+  "timestamp": "2026-08-21T18:35:23.131569855Z",
+  "model": "glm-5.3"
+}

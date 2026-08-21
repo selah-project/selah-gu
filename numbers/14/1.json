@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 14:1",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 14,
+  "translation": "અને આખી સભાએ ⟨את⟩ પોતાના અવાજ ઉઠાવ્યો અને રડ્યા, ⟨the⟩ પ્રજાએ તે રાત્રે રડ્યા.",
+  "tokens": [
+    {
+      "surface": "ותשא",
+      "gloss": "ઉઠાવ્યો"
+    },
+    {
+      "surface": "כל",
+      "gloss": "આખી"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "સભાએ"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "અને આપ્યો"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "પોતાના અવાજ"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "પોતાના અવાજ"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "અને રડ્યા"
+    },
+    {
+      "surface": "העם",
+      "gloss": "પ્રજાએ"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "રાત્રે"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "તે"
+    }
+  ],
+  "timestamp": "2026-08-21T11:56:22.906876343Z",
+  "model": "glm-5.3"
+}

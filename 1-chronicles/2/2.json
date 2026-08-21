@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 2:2",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 2,
+  "translation": "દાન, યોસેફ અને બિન્યામીન, નફતાલી, ગાદ અને આશેર.",
+  "tokens": [
+    {
+      "surface": "דן",
+      "gloss": "દાન"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "યોસેફ"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "અને બિન્યામીન"
+    },
+    {
+      "surface": "નפתלי",
+      "gloss": "નફતાલી"
+    },
+    {
+      "surface": "גד",
+      "gloss": "ગાદ"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "અને આશેર"
+    }
+  ],
+  "timestamp": "2026-08-21T18:00:05.989357194Z",
+  "model": "glm-5.3"
+}

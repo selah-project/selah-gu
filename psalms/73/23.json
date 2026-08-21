@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 73:23",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 73,
+  "translation": "પરંતુ હું સદા તારી સાથે છું; તેં મારો જમણો હાથ પકડી રાખ્યો.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "પરંતુ હું"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "સદા"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "તારી સાથે"
+    },
+    {
+      "surface": "אחזת",
+      "gloss": "તેં... પકડી રાખ્યો"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "હાથનો"
+    },
+    {
+      "surface": "ימיני",
+      "gloss": "જમણો"
+    }
+  ],
+  "timestamp": "2026-08-21T16:30:07.056580199Z",
+  "model": "glm-5.3"
+}

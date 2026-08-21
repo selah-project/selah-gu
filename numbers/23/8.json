@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 23:8",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 23,
+  "translation": "શું હું શાપ આપું? એલે શાપ નથી આપ્યો. અને શું હું ધિક્કારું? યાહવે ધિક્કાર્યો નથી.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "શું"
+    },
+    {
+      "surface": "אקב",
+      "gloss": "હું શાપ આપું"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નથી"
+    },
+    {
+      "surface": "קבה",
+      "gloss": "શાપ આપ્યો"
+    },
+    {
+      "surface": "אל",
+      "gloss": "એલે"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "અને શું"
+    },
+    {
+      "surface": "אזעם",
+      "gloss": "હું ધિક્કારું"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નથી"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "ધિક્કાર્યો"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    }
+  ],
+  "timestamp": "2026-08-21T12:04:27.344455392Z",
+  "model": "glm-5.3"
+}

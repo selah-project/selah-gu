@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 14:17",
+  "book": "deuteronomy",
+  "lang": "gu",
+  "chapter": 14,
+  "translation": "અને કાતરી, અને ⟨את⟩ રાખોડી-ગિદળ, અને ⟨את⟩ પાણી-કાગડો.",
+  "tokens": [
+    {
+      "surface": "והקאת",
+      "gloss": "અને કાતરી"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "રાખોડી-ગિદળ"
+    },
+    {
+      "surface": "הרחמה",
+      "gloss": "રાખોડી-ગિદળ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "પાણી-કાગડો"
+    },
+    {
+      "surface": "השלך",
+      "gloss": "પાણી-કાગડો"
+    }
+  ],
+  "timestamp": "2026-08-21T12:19:35.020281978Z",
+  "model": "glm-5.3"
+}

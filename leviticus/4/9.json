@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 4:9",
+  "book": "leviticus",
+  "lang": "gu",
+  "chapter": 4,
+  "translation": "અને ⟨את⟩ બે વૃક્ક, અને ⟨את⟩ ચરબી જે તેના પર ⟨is⟩, જે કમરના ભાગો પર ⟨is⟩, અને ⟨את⟩ યકૃત ઉપરની કળી — વૃક્ક સાથે તે દૂર કરશે.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "બે વૃક્ક"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "બે"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "વૃક્ક"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ચરબી"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "ચરબી"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જે"
+    },
+    {
+      "surface": "עליהן",
+      "gloss": "તેના પર"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જે"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "הכסלים",
+      "gloss": "કમરના ભાગો"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "યકૃત ઉપરની કળી"
+    },
+    {
+      "surface": "היתרת",
+      "gloss": "યકૃત ઉપરની કળી"
+    },
+    {
+      "surface": "על",
+      "gloss": "ઉપર"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "યકૃત"
+    },
+    {
+      "surface": "על",
+      "gloss": "સાથે"
+    },
+    {
+      "surface": "הכליות",
+      "gloss": "વૃક્ક"
+    },
+    {
+      "surface": "יסירנה",
+      "gloss": "તે દૂર કરશે"
+    }
+  ],
+  "timestamp": "2026-08-21T11:31:37.454186952Z",
+  "model": "glm-5.3"
+}

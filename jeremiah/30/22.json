@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 30:22",
+  "book": "jeremiah",
+  "lang": "gu",
+  "chapter": 30,
+  "translation": "અને તમે મારા માટે પ્રજા બનશો, અને હું તમારા માટે એલોહીમ બનીશ.",
+  "tokens": [
+    {
+      "surface": "והייתם",
+      "gloss": "અને તમે બનશો"
+    },
+    {
+      "surface": "לי",
+      "gloss": "મારા માટે"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "પ્રજા"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "અને હું"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "બનીશ \/ હું હોઈશ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "તમારા માટે"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "એલોહીમ"
+    }
+  ],
+  "timestamp": "2026-08-21T15:00:27.267385705Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 20:22",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 20,
+  "translation": "તું ન કહે, “હું દુષ્ટતાનું વળતર આપીશ”; યાહવેની રાહ જું, અને તે તને બચાવશે.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ન"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "તું કહે"
+    },
+    {
+      "surface": "אשלמה",
+      "gloss": "હું વળતર આપીશ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "દુષ્ટતાનું"
+    },
+    {
+      "surface": "קוה",
+      "gloss": "રાહ જું"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "યાહવેની"
+    },
+    {
+      "surface": "וישע",
+      "gloss": "અને તે બચાવશે"
+    },
+    {
+      "surface": "לך",
+      "gloss": "તને"
+    }
+  ],
+  "timestamp": "2026-08-21T16:59:53.518202399Z",
+  "model": "glm-5.3"
+}

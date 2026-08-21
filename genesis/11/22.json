@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 11:22",
+  "book": "genesis",
+  "lang": "gu",
+  "chapter": 11,
+  "translation": "અને સેરુગ ત્રીસ વર્ષ જીવ્યો, અને ⟨את⟩ નાહોરને જન્મ આપ્યો.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "જીવ્યો"
+    },
+    {
+      "surface": "שרוג",
+      "gloss": "સેરુગ"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "ત્રીસ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "વર્ષ"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "જન્મ આપ્યો"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "નાહોર"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "નાહોર"
+    }
+  ],
+  "timestamp": "2026-08-21T10:41:25.381482059Z",
+  "model": "glm-5.3"
+}

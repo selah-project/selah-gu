@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 10:1",
+  "book": "2-chronicles",
+  "lang": "gu",
+  "chapter": 10,
+  "translation": "અને રખબામ શખેમ ગયો, કારણ કે શખેમમાં સમગ્ર ઇસ્રાએલ તેને રાજા બનાવવા માટે આવ્યું હતું.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ગયો"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "રખબામ"
+    },
+    {
+      "surface": "שכמה",
+      "gloss": "શખેમમાં"
+    },
+    {
+      "surface": "כי",
+      "gloss": "કારણ કે"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "શખેમ"
+    },
+    {
+      "surface": "באו",
+      "gloss": "આવ્યું હતું"
+    },
+    {
+      "surface": "כל",
+      "gloss": "સમગ્ર"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ઇસ્રાએલ"
+    },
+    {
+      "surface": "להמליך",
+      "gloss": "રાજા બનાવવા માટે"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "તેને"
+    }
+  ],
+  "timestamp": "2026-08-21T18:19:48.598077561Z",
+  "model": "glm-5.3"
+}

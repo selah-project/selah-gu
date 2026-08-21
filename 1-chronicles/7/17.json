@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 7:17",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 7,
+  "translation": "અને ઉલામના પુત્રો ⟨હતાં⟩ બેદાન. આ ⟨તે⟩ ગિલઆદના પુત્રો ⟨હતાં⟩ — માખીરનો પુત્ર, મનશ્શેહનો પુત્ર.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "અને પુત્રો"
+    },
+    {
+      "surface": "אולם",
+      "gloss": "ઉલામ"
+    },
+    {
+      "surface": "בדן",
+      "gloss": "બેદાન"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "આ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "ગિલઆદ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "પુત્ર"
+    },
+    {
+      "surface": "מכיר",
+      "gloss": "માખીર"
+    },
+    {
+      "surface": "בן",
+      "gloss": "પુત્ર"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "મનશ્શેહ"
+    }
+  ],
+  "timestamp": "2026-08-21T18:03:39.278362172Z",
+  "model": "glm-5.3"
+}

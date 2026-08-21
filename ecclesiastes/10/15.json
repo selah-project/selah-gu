@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 10:15",
+  "book": "ecclesiastes",
+  "lang": "gu",
+  "chapter": 10,
+  "translation": "મૂર્ખોનો પરિશ્રમ તેમને થકાવી દે છે — તે નગર તરફ જવાનો રસ્તો પણ જાણતો નથી.",
+  "tokens": [
+    {
+      "surface": "עמל",
+      "gloss": "પરિશ્રમ"
+    },
+    {
+      "surface": "הכסילים",
+      "gloss": "મૂર્ખોનો"
+    },
+    {
+      "surface": "תיגענו",
+      "gloss": "તેમને થકાવી દે છે"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "કે"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નથી"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "જાણતો"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "જવાનો"
+    },
+    {
+      "surface": "אל",
+      "gloss": "તરફ"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "નગર"
+    }
+  ],
+  "timestamp": "2026-08-21T17:30:18.486161902Z",
+  "model": "glm-5.3"
+}

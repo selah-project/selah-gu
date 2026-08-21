@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 13:4",
+  "book": "exodus",
+  "lang": "gu",
+  "chapter": 13,
+  "translation": "આજે તમે નીકળી રહ્યા છો, અબીવ (અવીવ) માસમાં.",
+  "tokens": [
+    {
+      "surface": "היום",
+      "gloss": "આજે"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "તમે"
+    },
+    {
+      "surface": "יצאים",
+      "gloss": "નીકળી રહ્યા છો"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "માસમાં"
+    },
+    {
+      "surface": "האביב",
+      "gloss": "અબીવ"
+    }
+  ],
+  "timestamp": "2026-08-21T11:12:28.236043434Z",
+  "model": "glm-5.3"
+}

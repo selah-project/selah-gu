@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 23:18",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 23,
+  "translation": "યિત્સહારના પુત્રો — શેલોમિત ⟨the⟩ પ્રથમ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "יצהר",
+      "gloss": "યિત્સહારના"
+    },
+    {
+      "surface": "שלמית",
+      "gloss": "શેલોમિત"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "પ્રથમ"
+    }
+  ],
+  "timestamp": "2026-08-21T18:11:24.215104885Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 27:26",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 27,
+  "translation": "અને ખેતરના કામ પર — જમીનની ખેતી માટે — ઢઝરી પુત્ર કેલૂબ હતો.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "અને … પર"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "કરનારા"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "કામના"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ખેતરના"
+    },
+    {
+      "surface": "לעבדת",
+      "gloss": "ખેતી માટે"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "જમીનની"
+    },
+    {
+      "surface": "עזרי",
+      "gloss": "ઢઝરી"
+    },
+    {
+      "surface": "בן",
+      "gloss": "પુત્ર"
+    },
+    {
+      "surface": "כלוב",
+      "gloss": "કેલૂબ"
+    }
+  ],
+  "timestamp": "2026-08-21T18:13:11.365148840Z",
+  "model": "glm-5.3"
+}

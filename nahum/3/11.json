@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nahum 3:11",
+  "book": "nahum",
+  "lang": "gu",
+  "chapter": 3,
+  "translation": "તું પણ પીધી જઈશ, તું છુપી બનીશ; તું પણ શત્રુને કારણે માયો શોધીશ.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "તું પણ"
+    },
+    {
+      "surface": "את",
+      "gloss": "તું"
+    },
+    {
+      "surface": "תשכרי",
+      "gloss": "પીધી જઈશ"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "બનીશ"
+    },
+    {
+      "surface": "נעלמה",
+      "gloss": "છુપી"
+    },
+    {
+      "surface": "גם",
+      "gloss": "તું પણ"
+    },
+    {
+      "surface": "את",
+      "gloss": "તું"
+    },
+    {
+      "surface": "תבקשי",
+      "gloss": "શોધીશ"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "માયો"
+    },
+    {
+      "surface": "מאויב",
+      "gloss": "શત્રુને કારણે"
+    }
+  ],
+  "timestamp": "2026-08-21T15:58:38.041467495Z",
+  "model": "glm-5.3"
+}

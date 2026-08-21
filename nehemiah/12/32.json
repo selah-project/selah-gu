@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "nehemiah 12:32",
+  "book": "nehemiah",
+  "lang": "gu",
+  "chapter": 12,
+  "translation": "અને તેમની પાછળ હોશાયા અને યહૂદાના સરદારોનો અડધો ભાગ ગયો.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ગયો"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "તેમની પાછળ"
+    },
+    {
+      "surface": "הושעיה",
+      "gloss": "હોશાયા"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "અને અડધો ભાગ"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "સરદારોનો"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "યહૂદાના"
+    }
+  ],
+  "timestamp": "2026-08-21T17:58:01.939380142Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 49:21",
+  "book": "genesis",
+  "lang": "gu",
+  "chapter": 49,
+  "translation": "નફ્તાલી મુક્ત કરેલી હરિણી ⟨છે⟩ — ⟨તે⟩ સુંદર વચનો આપે છે.",
+  "tokens": [
+    {
+      "surface": "נפתלי",
+      "gloss": "નફ્તાલી"
+    },
+    {
+      "surface": "אילה",
+      "gloss": "હરિણી"
+    },
+    {
+      "surface": "שלחה",
+      "gloss": "મુક્ત કરેલી"
+    },
+    {
+      "surface": "הנתן",
+      "gloss": "આપે છે"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "વચનો"
+    },
+    {
+      "surface": "שפר",
+      "gloss": "સુંદર"
+    }
+  ],
+  "timestamp": "2026-08-21T11:04:59.262125442Z",
+  "model": "glm-5.3"
+}

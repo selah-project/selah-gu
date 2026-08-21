@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 33:10",
+  "book": "isaiah",
+  "lang": "gu",
+  "chapter": 33,
+  "translation": "“હવે હું ઊઠીશ,” યાહવે કહે છે, “હવે હું ઉચ્ચ થઈશ, હવે હું ઊંચે ઉઠીશ.”",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "હવે"
+    },
+    {
+      "surface": "אקום",
+      "gloss": "ઊઠીશ"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "કહે છે"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "હવે"
+    },
+    {
+      "surface": "ארומם",
+      "gloss": "ઉચ્ચ થઈશ"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "હવે"
+    },
+    {
+      "surface": "אנשא",
+      "gloss": "ઊંચે ઉઠીશ"
+    }
+  ],
+  "timestamp": "2026-08-21T14:24:16.722770986Z",
+  "model": "glm-5.3"
+}

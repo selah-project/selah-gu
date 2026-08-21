@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 24:8",
+  "book": "2-chronicles",
+  "lang": "gu",
+  "chapter": 24,
+  "translation": "અને રાજાએ આદેશ આપ્યો, અને તેમણે એક પેટી બનાવી, અને તેને યાહવેના ગૃહના દરવાજે બહાર મૂકી.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "અને આદેશ આપ્યો"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "રાજાએ"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "અને બનાવી"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "પેટી"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "એક"
+    },
+    {
+      "surface": "ויתנהו",
+      "gloss": "અને મૂકી"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "દરવાજે"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ગૃહના"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવેના"
+    },
+    {
+      "surface": "חוצה",
+      "gloss": "બહાર"
+    }
+  ],
+  "timestamp": "2026-08-21T18:25:12.006471925Z",
+  "model": "glm-5.3"
+}

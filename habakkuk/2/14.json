@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "habakkuk 2:14",
+  "book": "habakkuk",
+  "lang": "gu",
+  "chapter": 2,
+  "translation": "કેમ કે પૃથ્વી યાહવેના તેજનાં ⟨את⟩ જ્ઞાનથી ભરાઈ જશે, જેમ જળ સમુદ્ર ઉપર ઢાંકે છે.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "કેમ કે"
+    },
+    {
+      "surface": "תמלא",
+      "gloss": "ભરાઈ જશે"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "પૃથ્વી"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "જ્ઞાનથી"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "યાહવેના તેજને"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "તેજ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવેના"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "જેમ જળ"
+    },
+    {
+      "surface": "יכסו",
+      "gloss": "ઢાંકે છે"
+    },
+    {
+      "surface": "על",
+      "gloss": "ઉપર"
+    },
+    {
+      "surface": "ים",
+      "gloss": "સમુદ્ર"
+    }
+  ],
+  "timestamp": "2026-08-21T15:59:46.878422879Z",
+  "model": "glm-5.3"
+}

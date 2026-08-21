@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-chronicles 11:45",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 11,
+  "translation": "યેદિયાએલ શિમરીનો પુત્ર, અને યોહા તેનો ભાઈ, હતિયે",
+  "tokens": [
+    {
+      "surface": "ידיעאל",
+      "gloss": "યેદિયાએલ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "પુત્ર"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "શિમરી"
+    },
+    {
+      "surface": "ויחא",
+      "gloss": "અને યોહા"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "તેનો ભાઈ"
+    },
+    {
+      "surface": "התיצי",
+      "gloss": "હતિયે"
+    }
+  ],
+  "timestamp": "2026-08-21T18:04:43.970389122Z",
+  "model": "glm-5.3"
+}

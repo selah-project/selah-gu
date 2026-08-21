@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "ezra 2:47",
+  "book": "ezra",
+  "lang": "gu",
+  "chapter": 2,
+  "translation": "ગિદ્દેલના પુત્રો, ગાહરના પુત્રો, રેઆયાહના પુત્રો,",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "ગિદ્દેલ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "גחר",
+      "gloss": "ગાહર"
+    },
+    {
+      "surface": "בני",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "ראיה",
+      "gloss": "રેઆયાહ"
+    }
+  ],
+  "timestamp": "2026-08-21T17:47:39.495967884Z",
+  "model": "glm-5.3"
+}

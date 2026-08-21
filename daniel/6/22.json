@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "daniel 6:22",
+  "book": "daniel",
+  "lang": "gu",
+  "chapter": 6,
+  "translation": "ત્યારે દાનિયેલે રાજા સાથે વાત કરી: હે રાજા, સદા જીવો!",
+  "tokens": [
+    {
+      "surface": "אדין",
+      "gloss": "ત્યારે"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "દાનિયેલે"
+    },
+    {
+      "surface": "עם",
+      "gloss": "સાથે"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "રાજા"
+    },
+    {
+      "surface": "מלל",
+      "gloss": "વાત કરી"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "હે રાજા"
+    },
+    {
+      "surface": "לעלמין",
+      "gloss": "સદા"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "જીવો"
+    }
+  ],
+  "timestamp": "2026-08-21T19:02:12.606361011Z",
+  "model": "glm-5.3"
+}

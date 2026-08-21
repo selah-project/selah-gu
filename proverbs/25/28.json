@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 25:28",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 25,
+  "translation": "દીવાલ વિનાનું તૂટેલું નગર — જે માણસના પ્રાણ પર કોઈ અંકુશ નથી.",
+  "tokens": [
+    {
+      "surface": "עיר",
+      "gloss": "નગર"
+    },
+    {
+      "surface": "פרוצה",
+      "gloss": "તૂટેલું"
+    },
+    {
+      "surface": "אין",
+      "gloss": "વિના"
+    },
+    {
+      "surface": "חומה",
+      "gloss": "દીવાલ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "માણસ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જે"
+    },
+    {
+      "surface": "אין",
+      "gloss": "નથી"
+    },
+    {
+      "surface": "מעצר",
+      "gloss": "અંકુશ"
+    },
+    {
+      "surface": "לרוחו",
+      "gloss": "પોતાના પ્રાણ પર"
+    }
+  ],
+  "timestamp": "2026-08-21T17:01:38.685492746Z",
+  "model": "glm-5.3"
+}

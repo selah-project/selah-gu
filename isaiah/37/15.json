@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 37:15",
+  "book": "isaiah",
+  "lang": "gu",
+  "chapter": 37,
+  "translation": "અને હિઝકિયાહુ યાહવે પાસે પ્રાર્થના કરી, કહેતા:",
+  "tokens": [
+    {
+      "surface": "ויתפלל",
+      "gloss": "અને પ્રાર્થના કરી"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "હિઝકિયાહુ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "પાસે"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "કહેતા"
+    }
+  ],
+  "timestamp": "2026-08-21T14:29:49.381548052Z",
+  "model": "glm-5.3"
+}

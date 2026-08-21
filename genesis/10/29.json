@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "genesis 10:29",
+  "book": "genesis",
+  "lang": "gu",
+  "chapter": 10,
+  "translation": "અને ⟨את⟩ ઓફીર, અને ⟨את⟩ ખવીલા, અને ⟨את⟩ યોવાવ; આ બધા યોક્તાના પુત્રો હતા.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "અને ⟨את⟩",
+      "marks": "ઓફીર"
+    },
+    {
+      "surface": "אופר",
+      "gloss": "ઓફીર"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "અને ⟨את⟩",
+      "marks": "ખવીલા"
+    },
+    {
+      "surface": "חוילה",
+      "gloss": "ખવીલા"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "અને ⟨את⟩",
+      "marks": "યોવાવ"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "યોવાવ"
+    },
+    {
+      "surface": "છל",
+      "gloss": "બધા"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "આ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "יקטן",
+      "gloss": "યોક્તાના"
+    }
+  ],
+  "timestamp": "2026-08-21T10:41:33.023209907Z",
+  "model": "glm-5.3"
+}

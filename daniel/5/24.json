@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "daniel 5:24",
+  "book": "daniel",
+  "lang": "gu",
+  "chapter": 5,
+  "translation": "ત્યારે તેમની સામેથી હાથનો પંજો મોકલાયો, અને આ લેખણ લખાયું.",
+  "tokens": [
+    {
+      "surface": "באדין",
+      "gloss": "ત્યારે"
+    },
+    {
+      "surface": "מן",
+      "gloss": "માંથી"
+    },
+    {
+      "surface": "קדמוהי",
+      "gloss": "તેમની સામે"
+    },
+    {
+      "surface": "שליח",
+      "gloss": "મોકલાયો"
+    },
+    {
+      "surface": "פסא",
+      "gloss": "હાથનો પંજો"
+    },
+    {
+      "surface": "די",
+      "gloss": "⟨એ⟩ કે"
+    },
+    {
+      "surface": "ידא",
+      "gloss": "હાથ"
+    },
+    {
+      "surface": "וכתבא",
+      "gloss": "અને આ લેખણ"
+    },
+    {
+      "surface": "דנה",
+      "gloss": "આ"
+    },
+    {
+      "surface": "רשים",
+      "gloss": "લખાયું"
+    }
+  ],
+  "timestamp": "2026-08-21T17:39:46.343817427Z",
+  "model": "glm-5.3"
+}

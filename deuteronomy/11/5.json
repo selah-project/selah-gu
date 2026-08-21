@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 11:5",
+  "book": "deuteronomy",
+  "lang": "gu",
+  "chapter": 11,
+  "translation": "અને જે ⟨તેણે⟩ તમારા માટે જંગલમાં કર્યું, તમારા આવવા સુધી ⟨સુધી⟩ આ ⟨the⟩ સ્થાન ⟨સુધી⟩;",
+  "tokens": [
+    {
+      "surface": "ואשר",
+      "gloss": "અને જે"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "કર્યું"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "તમારા માટે"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "જંગલમાં"
+    },
+    {
+      "surface": "עד",
+      "gloss": "સુધી"
+    },
+    {
+      "surface": "באכם",
+      "gloss": "તમારા આવવા"
+    },
+    {
+      "surface": "עד",
+      "gloss": "⟨સુધી⟩"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "સ્થાન"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "આ"
+    }
+  ],
+  "timestamp": "2026-08-21T12:19:00.234450553Z",
+  "model": "glm-5.3"
+}

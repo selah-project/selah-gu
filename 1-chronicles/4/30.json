@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 4:30",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 4,
+  "translation": "અને બેથુએલમાં, અને ખોર્મામાં, અને ત્સિક્લાગમાં,",
+  "tokens": [
+    {
+      "surface": "ובבתואל",
+      "gloss": "અને બેથુએલમાં"
+    },
+    {
+      "surface": "ובחרמה",
+      "gloss": "અને ખોર્મામાં"
+    },
+    {
+      "surface": "ובציקלג",
+      "gloss": "અને ત્સિક્લાગમાં"
+    }
+  ],
+  "timestamp": "2026-08-21T18:01:10.742173347Z",
+  "model": "glm-5.3"
+}

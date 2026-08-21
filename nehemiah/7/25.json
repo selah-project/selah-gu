@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "nehemiah 7:25",
+  "book": "nehemiah",
+  "lang": "gu",
+  "chapter": 7,
+  "translation": "ગિબઆોનના પુત્રો પંચાણું પાંચ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "ગિબઆોનના"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "પંચાણું"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "પાંચ"
+    }
+  ],
+  "timestamp": "2026-08-21T17:54:59.316342936Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "genesis 24:34",
+  "book": "genesis",
+  "lang": "gu",
+  "chapter": 24,
+  "translation": "અને તેણે કહ્યું: હું અવ્રાહામનો દાસ છું.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "તેણે કહ્યું"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "દાસ"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "અવ્રાહામ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "હું"
+    }
+  ],
+  "timestamp": "2026-08-21T10:48:31.484047476Z",
+  "model": "glm-5.3"
+}

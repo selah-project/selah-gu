@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 13:2",
+  "book": "job",
+  "lang": "gu",
+  "chapter": 13,
+  "translation": "તમે જે જાણો છો તે હું પણ જાણું છું; હું તમારાથી ઓછો નથી.",
+  "tokens": [
+    {
+      "surface": "כדעתכם",
+      "gloss": "તમે જે જાણો છો તેટલું"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "હું જાણું છું"
+    },
+    {
+      "surface": "גם",
+      "gloss": "પણ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "હું"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નથી"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "ઓછો"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "હું"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "તમારાથી"
+    }
+  ],
+  "timestamp": "2026-08-21T17:08:55.684179795Z",
+  "model": "glm-5.3"
+}

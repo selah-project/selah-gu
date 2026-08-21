@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 34:7",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 34,
+  "translation": "અને ⟨આ⟩ તમારા માટે ઉત્તરની સીમા થશે: મહાન સમુદ્રથી તમે હોર પર્વતનો ચિહ્ન કરશો;",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "અને ⟨આ⟩"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "થશે"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "તમારા માટે"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "સીમા"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "ઉત્તર"
+    },
+    {
+      "surface": "מן",
+      "gloss": "થી"
+    },
+    {
+      "surface": "הים",
+      "gloss": "સમુદ્ર"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "મહાન"
+    },
+    {
+      "surface": "תתאו",
+      "gloss": "ચિહ્ન કરશો"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "તમે"
+    },
+    {
+      "surface": "הר",
+      "gloss": "હોર"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "પર્વત"
+    }
+  ],
+  "timestamp": "2026-08-21T12:10:16.865687964Z",
+  "model": "glm-5.3"
+}

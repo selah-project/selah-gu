@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 50:4",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 50,
+  "translation": "તે ઉપરથી આકાશોને અને પૃથ્વીને પોકારશે, પોતાના પ્રજાનો ન્યાય કરવા।",
+  "tokens": [
+    {
+      "surface": "יקרא",
+      "gloss": "પોકારશે"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ને"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "આકાશો"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ઉપરથી"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "અને...ને"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "પૃથ્વી"
+    },
+    {
+      "surface": "לדין",
+      "gloss": "ન્યાય કરવા"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "પોતાના પ્રજાનો"
+    }
+  ],
+  "timestamp": "2026-08-21T16:23:42.072513086Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 9:4",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 9,
+  "translation": "અને મૂશાએ પેસખ કરવાની આજ્ઞા આપવા ઇસ્રાએલના પુત્રો સાથે વાત કરી.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "અને…વાત કરી"
+    },
+    {
+      "surface": "משה",
+      "gloss": "મૂશાએ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "સાથે"
+    },
+    {
+      "surface": "בני",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ઇસ્રાએલના"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "કરવાની"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "પેસખ"
+    }
+  ],
+  "timestamp": "2026-08-21T11:55:11.994268282Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "lamentations 3:14",
+  "book": "lamentations",
+  "lang": "gu",
+  "chapter": 3,
+  "translation": "હું મારી સમગ્ર પ્રજા માટે હાસ્ય બન્યો ⟨છું⟩, સમગ્ર દિવસ તેમનું ⟨જ⟩ વાદ્યસંગીત.",
+  "tokens": [
+    {
+      "surface": "הייתי",
+      "gloss": "હું બન્યો"
+    },
+    {
+      "surface": "שחק",
+      "gloss": "હાસ્ય"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "માટે સમગ્ર"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "મારી પ્રજા"
+    },
+    {
+      "surface": "נגינתם",
+      "gloss": "તેમનું વાદ્યસંગીત"
+    },
+    {
+      "surface": "כל",
+      "gloss": "સમગ્ર"
+    },
+    {
+      "surface": "היום",
+      "gloss": "દિવસ"
+    }
+  ],
+  "timestamp": "2026-08-21T17:26:06.809434264Z",
+  "model": "glm-5.3"
+}

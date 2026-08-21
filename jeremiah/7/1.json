@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 7:1",
+  "book": "jeremiah",
+  "lang": "gu",
+  "chapter": 7,
+  "translation": "જે વચન યિર્મેયાહુ પાસે યાહવેની પાસેથિ ⟨את⟩ આવ્યું, કહેવા માટે:",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "જે વચન"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જે"
+    },
+    {
+      "surface": "היה",
+      "gloss": "આવ્યું"
+    },
+    {
+      "surface": "אל",
+      "gloss": "પાસે"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "યિર્મેયાહુ"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ પાસેથી"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "કહેવા માટે"
+    }
+  ],
+  "timestamp": "2026-08-21T14:48:06.926792199Z",
+  "model": "glm-5.3"
+}

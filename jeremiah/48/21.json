@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 48:21",
+  "book": "jeremiah",
+  "lang": "gu",
+  "chapter": 48,
+  "translation": "અને ન્યાય મૈદાનના દેશ પર આવ્યો છે — ખોલોન પર, યહાત્સાહ પર અને મોફાઆત પર,",
+  "tokens": [
+    {
+      "surface": "ומשפט",
+      "gloss": "અને ન્યાય"
+    },
+    {
+      "surface": "בא",
+      "gloss": "આવ્યો છે"
+    },
+    {
+      "surface": "אל",
+      "gloss": "પર"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "દેશ"
+    },
+    {
+      "surface": "המישר",
+      "gloss": "મૈદાનના"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—પર"
+    },
+    {
+      "surface": "חלון",
+      "gloss": "ખોલોન"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "અને —પર"
+    },
+    {
+      "surface": "יהצה",
+      "gloss": "યહાત્સાહ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "અને —પર"
+    },
+    {
+      "surface": "מופעת",
+      "gloss": "મોફાઆત"
+    }
+  ],
+  "timestamp": "2026-08-21T15:11:32.574952228Z",
+  "model": "glm-5.3"
+}

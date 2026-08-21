@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 1:9",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 1,
+  "translation": "ઝવૂલૂન પ્રતિ — એલિઆબ, ખેલોનનો પુત્ર.",
+  "tokens": [
+    {
+      "surface": "לזבולן",
+      "gloss": "ઝવૂલૂન પ્રતિ"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "એલિઆબ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "પુત્ર"
+    },
+    {
+      "surface": "חלן",
+      "gloss": "ખેલોનનો"
+    }
+  ],
+  "timestamp": "2026-08-21T11:46:32.409283423Z",
+  "model": "glm-5.3"
+}

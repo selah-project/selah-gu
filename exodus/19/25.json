@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 19:25",
+  "book": "exodus",
+  "lang": "gu",
+  "chapter": 19,
+  "translation": "અને મોશે પ્રજા પાસે ઊતરી આવ્યો, અને તેમને કહ્યું.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "ઊતરી આવ્યો"
+    },
+    {
+      "surface": "משה",
+      "gloss": "મોશે"
+    },
+    {
+      "surface": "אל",
+      "gloss": "પાસે"
+    },
+    {
+      "surface": "העם",
+      "gloss": "પ્રજા"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "કહ્યું"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "તેમને"
+    }
+  ],
+  "timestamp": "2026-08-21T11:14:01.300477879Z",
+  "model": "glm-5.3"
+}

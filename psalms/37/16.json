@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 37:16",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 37,
+  "translation": "ન્યાયીનું થોડું ઘણા દુષ્ટોના વિપુલ ધન કરતાં સારું છે.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "સારું છે"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "થોડું"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "ન્યાયીનું"
+    },
+    {
+      "surface": "מהמון",
+      "gloss": "કરતાં ધન"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "દુષ્ટોના"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "વિપુલ\/ઘણા"
+    }
+  ],
+  "timestamp": "2026-08-21T16:19:50.777702381Z",
+  "model": "glm-5.3"
+}

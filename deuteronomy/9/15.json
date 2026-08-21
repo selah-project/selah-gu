@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 9:15",
+  "book": "deuteronomy",
+  "lang": "gu",
+  "chapter": 9,
+  "translation": "તો હું ફર્યો અને પર્વતથી નીચે ઉતર્યો, અને પર્વત અગ્નિથી બળી રહ્યો ⟨was⟩, અને કરારના બે પટ્ટિકા મારા બંને હાથ પર ⟨were⟩.",
+  "tokens": [
+    {
+      "surface": "ואפן",
+      "gloss": "અને હું ફર્યો"
+    },
+    {
+      "surface": "וארד",
+      "gloss": "અને ઉતર્યો"
+    },
+    {
+      "surface": "מן",
+      "gloss": "થી"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "પર્વત"
+    },
+    {
+      "surface": "וההר",
+      "gloss": "અને પર્વત"
+    },
+    {
+      "surface": "בער",
+      "gloss": "બળી રહ્યો"
+    },
+    {
+      "surface": "באש",
+      "gloss": "અગ્નિથી"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "અને બે"
+    },
+    {
+      "surface": "לחת",
+      "gloss": "પટ્ટિકા"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "કરારના"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "બંને"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "મારા હાથ"
+    }
+  ],
+  "timestamp": "2026-08-21T12:18:32.140363899Z",
+  "model": "glm-5.3"
+}

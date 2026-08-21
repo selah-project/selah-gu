@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 7:5",
+  "book": "ecclesiastes",
+  "lang": "gu",
+  "chapter": 7,
+  "translation": "જ્ઞાનીની ઠપકો સાંભળવી સારું છે, કરતાં મૂર્ખોનું ગીત સાંભળતો માણસ.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "સારું છે"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "સાંભળવું"
+    },
+    {
+      "surface": "גערת",
+      "gloss": "ઠપકો"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "જ્ઞાનીની"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "કરતાં માણસ"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "સાંભળતો"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "ગીત"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "મૂર્ખોનું"
+    }
+  ],
+  "timestamp": "2026-08-21T19:00:49.879154470Z",
+  "model": "glm-5.3"
+}

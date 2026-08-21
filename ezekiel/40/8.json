@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 40:8",
+  "book": "ezekiel",
+  "lang": "gu",
+  "chapter": 40,
+  "translation": "અને તેણે ⟨את⟩ દરવાજાના આંગણને ભવન તરફથી માપ્યું — એક સળંગ.",
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "અને તેણે માપ્યું"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "દરવાજાના આંગણને"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "આંગણ"
+    },
+    {
+      "surface": "השער",
+      "gloss": "દરવાજાના"
+    },
+    {
+      "surface": "מהבית",
+      "gloss": "ભવન તરફથી"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "એક સળંગ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "એક"
+    }
+  ],
+  "timestamp": "2026-08-21T15:41:07.797604170Z",
+  "model": "glm-5.3"
+}

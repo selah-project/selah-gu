@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 1:26",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 1,
+  "translation": "તો પણ હું તમારી આપત્તિમાં હસીશ; તમારો ભય આવશે ત્યારે હું ઉપહાસ કરીશ.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "તો પણ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "હું"
+    },
+    {
+      "surface": "באידכם",
+      "gloss": "તમારી આપત્તિમાં"
+    },
+    {
+      "surface": "אשחק",
+      "gloss": "હસીશ"
+    },
+    {
+      "surface": "אלעג",
+      "gloss": "ઉપહાસ કરીશ"
+    },
+    {
+      "surface": "בבא",
+      "gloss": "આવશે ત્યારે"
+    },
+    {
+      "surface": "פחדכם",
+      "gloss": "તમારો ભય"
+    }
+  ],
+  "timestamp": "2026-08-21T16:51:40.379718454Z",
+  "model": "glm-5.3"
+}

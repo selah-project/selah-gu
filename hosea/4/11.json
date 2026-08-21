@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "hosea 4:11",
+  "book": "hosea",
+  "lang": "gu",
+  "chapter": 4,
+  "translation": "વ્યભિચાર અને દારૂ અને અંગૂરાનો રસ હૃદયને તાકી લે છે.",
+  "tokens": [
+    {
+      "surface": "זנות",
+      "gloss": "વ્યભિચાર"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "અને દારૂ"
+    },
+    {
+      "surface": "ותירוש",
+      "gloss": "અને અંગૂરાનો રસ"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "તાકી લે છે"
+    },
+    {
+      "surface": "לב",
+      "gloss": "હૃદયને"
+    }
+  ],
+  "timestamp": "2026-08-21T15:45:06.411805320Z",
+  "model": "glm-5.3"
+}

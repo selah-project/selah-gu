@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 10:15",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 10,
+  "translation": "ધનિકનું ધન ⟨તેનો⟩ બળવાન કિલ્લો ⟨છે⟩; દરિદ્રોનો નાશ તેમની ગરીબી ⟨છે⟩.",
+  "tokens": [
+    {
+      "surface": "הון",
+      "gloss": "ધન"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "ધનિકનું"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "કિલ્લો"
+    },
+    {
+      "surface": "עזו",
+      "gloss": "બળવાન (તેનો)"
+    },
+    {
+      "surface": "מחתת",
+      "gloss": "નાશ"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "દરિદ્રોનો"
+    },
+    {
+      "surface": "רישם",
+      "gloss": "ગરીબી"
+    }
+  ],
+  "timestamp": "2026-08-21T16:55:29.415816375Z",
+  "model": "glm-5.3"
+}

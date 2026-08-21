@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 35:3",
+  "book": "isaiah",
+  "lang": "gu",
+  "chapter": 35,
+  "translation": "મજબૂત કરો નબળા હાથ, અને લાંચકડતા ઘૂંટણ સ્થિર કરો.",
+  "tokens": [
+    {
+      "surface": "חזקו",
+      "gloss": "મજબૂત કરો"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "હાથ"
+    },
+    {
+      "surface": "רפות",
+      "gloss": "નબળા"
+    },
+    {
+      "surface": "וברכים",
+      "gloss": "અને ઘૂંટણ"
+    },
+    {
+      "surface": "כשלות",
+      "gloss": "લાંચકડતા"
+    },
+    {
+      "surface": "אמצו",
+      "gloss": "સ્થિર કરો"
+    }
+  ],
+  "timestamp": "2026-08-21T14:28:46.176388609Z",
+  "model": "glm-5.3"
+}

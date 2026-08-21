@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 22:21",
+  "book": "exodus",
+  "lang": "gu",
+  "chapter": 22,
+  "translation": "કોઈ વિધવા કે અનાથને તમે દુઃખ ન આપશો.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "કોઈ"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "વિધવા"
+    },
+    {
+      "surface": "ויתום",
+      "gloss": "કે અનાથને"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ન"
+    },
+    {
+      "surface": "תענון",
+      "gloss": "દુઃખ આપશો"
+    }
+  ],
+  "timestamp": "2026-08-21T11:17:56.541167509Z",
+  "model": "glm-5.3"
+}

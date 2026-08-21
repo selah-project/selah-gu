@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 12:9",
+  "book": "job",
+  "lang": "gu",
+  "chapter": 12,
+  "translation": "આ બધાંમાં કોણ જાણતું નથી કે યાહવેના હાથે જ આ કર્યું છે?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "કોણ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નથી"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "જાણતું"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "બધાંમાં"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "આ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "કે"
+    },
+    {
+      "surface": "יד",
+      "gloss": "હાથ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "કર્યું"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "આ"
+    }
+  ],
+  "timestamp": "2026-08-21T17:07:55.944401876Z",
+  "model": "glm-5.3"
+}

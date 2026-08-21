@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 23:14",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 23,
+  "translation": "તમે લાકડીથી તેને મારશો, અને તેનો પ્રાણ શેઓલમાંથી છોડાવશો.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "તમે"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "લાકડીથી"
+    },
+    {
+      "surface": "תכנו",
+      "gloss": "તેને મારશો"
+    },
+    {
+      "surface": "ונפשו",
+      "gloss": "અને તેનો પ્રાણ"
+    },
+    {
+      "surface": "משאול",
+      "gloss": "શેઓલમાંથી"
+    },
+    {
+      "surface": "תציל",
+      "gloss": "છોડાવશો"
+    }
+  ],
+  "timestamp": "2026-08-21T17:00:25.796579654Z",
+  "model": "glm-5.3"
+}

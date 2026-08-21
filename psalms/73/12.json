@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 73:12",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 73,
+  "translation": "જુઓ, આ ⟨છે⟩ દુષ્ટ લોકો, અને સદા સુખી રહેનારા સંપત્તિ મેળવે છે.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "જુઓ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "આ"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "દુષ્ટ લોકો"
+    },
+    {
+      "surface": "ושלוי",
+      "gloss": "અને સદા સુખી રહેનારા"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "સદા"
+    },
+    {
+      "surface": "השגו",
+      "gloss": "મેળવે છે"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "સંપત્તિ"
+    }
+  ],
+  "timestamp": "2026-08-21T16:30:10.018389990Z",
+  "model": "glm-5.3"
+}

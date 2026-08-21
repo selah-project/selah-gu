@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 28:16",
+  "book": "exodus",
+  "lang": "gu",
+  "chapter": 28,
+  "translation": "ચોરસ હશે ⟨તે⟩, બેવડું; એક વિત તેની લંબાઈ અને એક વિત તેની પહોળાઈ.",
+  "tokens": [
+    {
+      "surface": "רבוע",
+      "gloss": "ચોરસ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "હશે"
+    },
+    {
+      "surface": "כפול",
+      "gloss": "બેવડું"
+    },
+    {
+      "surface": "זרת",
+      "gloss": "એક વિત"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "તેની લંબાઈ"
+    },
+    {
+      "surface": "וזרת",
+      "gloss": "અને એક વિત"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "તેની પહોળાઈ"
+    }
+  ],
+  "timestamp": "2026-08-21T11:21:15.336021066Z",
+  "model": "glm-5.3"
+}

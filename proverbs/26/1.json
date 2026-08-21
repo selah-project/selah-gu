@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 26:1",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 26,
+  "translation": "જેમ ઉનાળામાં બરફ અને કાપણીમાં વરસાદ, તેમ મૂર્ખને માન શોભતું નથી.",
+  "tokens": [
+    {
+      "surface": "כשלג",
+      "gloss": "જેમ બરફ"
+    },
+    {
+      "surface": "בקיץ",
+      "gloss": "ઉનાળામાં"
+    },
+    {
+      "surface": "וכמטר",
+      "gloss": "અને જેમ વરસાદ"
+    },
+    {
+      "surface": "בקציר",
+      "gloss": "કાપણીમાં"
+    },
+    {
+      "surface": "כן",
+      "gloss": "તેમ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નથી"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "શોભતું"
+    },
+    {
+      "surface": "לכסיל",
+      "gloss": "મૂર્ખને"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "માન"
+    }
+  ],
+  "timestamp": "2026-08-21T17:01:41.352973189Z",
+  "model": "glm-5.3"
+}

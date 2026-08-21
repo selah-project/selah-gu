@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 11:19",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 11,
+  "translation": "એક દિવસ તમે ખાશો નહીં, નહીં બે દિવસ, નહીં પાંચ દિવસ, નહીં દસ દિવસ, નહીં વીસ દિવસ.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "יום",
+      "gloss": "દિવસ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "એક"
+    },
+    {
+      "surface": "תאכלון",
+      "gloss": "તમે ખાશો"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "יומים",
+      "gloss": "બે દિવસ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "પાંચ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "દિવસ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "દસ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "દિવસ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "વીસ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "દિવસ"
+    }
+  ],
+  "timestamp": "2026-08-21T11:57:57.180282249Z",
+  "model": "glm-5.3"
+}

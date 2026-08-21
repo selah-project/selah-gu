@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 1:14",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 1,
+  "translation": "અને ⟨את⟩ યબૂસી, અને ⟨את⟩ એમોરી, અને ⟨את⟩ ગિર્ગાશી.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "યબૂસી"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "યબૂસી"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "એમોરી"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "એમોરી"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ગિર્ગાશી"
+    },
+    {
+      "surface": "הגרגשי",
+      "gloss": "ગિર્ગાશી"
+    }
+  ],
+  "timestamp": "2026-08-21T17:59:15.743578644Z",
+  "model": "glm-5.3"
+}

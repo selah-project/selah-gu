@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "numbers 21:31",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 21,
+  "translation": "અને ઇસ્રાએલ અમોરીના દેશમાં વસ્યું.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "અને વસ્યું"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ઇસ્રાએલ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "દેશમાં"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "અમોરીના"
+    }
+  ],
+  "timestamp": "2026-08-21T12:01:53.427654612Z",
+  "model": "glm-5.3"
+}

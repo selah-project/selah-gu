@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 3:15",
+  "book": "ecclesiastes",
+  "lang": "gu",
+  "chapter": 3,
+  "translation": "જે હતું તે પહેલેથી હતું, અને જે થવાનું છે તે પહેલેથી થયું છે; અને એલોહીમ ⟨את⟩ દોડી ગયેલાને શોધે છે.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "જે"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "હતું"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "પહેલેથી"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "તે…હતું"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "અને જે"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "થવાનું છે"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "પહેલેથી"
+    },
+    {
+      "surface": "היה",
+      "gloss": "થયું છે"
+    },
+    {
+      "surface": "והאלהים",
+      "gloss": "અને એલોહીમ"
+    },
+    {
+      "surface": "יבקש",
+      "gloss": "શોધે છે"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "દોડી ગયેલાને"
+    },
+    {
+      "surface": "נרדף",
+      "gloss": "દોડી ગયેલા"
+    }
+  ],
+  "timestamp": "2026-08-21T17:29:01.016853166Z",
+  "model": "glm-5.3"
+}

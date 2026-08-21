@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 4:25",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 4,
+  "translation": "તારી આંખો સામે જોવા દઈએ; તારી પલકો તારી સામે સીધી રાખે.",
+  "tokens": [
+    {
+      "surface": "עיניך",
+      "gloss": "તારી આંખો"
+    },
+    {
+      "surface": "לנכח",
+      "gloss": "સામે"
+    },
+    {
+      "surface": "יביטו",
+      "gloss": "જોવા દઈએ"
+    },
+    {
+      "surface": "ועפעפיך",
+      "gloss": "અને તારી પલકો"
+    },
+    {
+      "surface": "יישרו",
+      "gloss": "સીધી રાખે"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "તારી સામે"
+    }
+  ],
+  "timestamp": "2026-08-21T16:51:33.279312040Z",
+  "model": "glm-5.3"
+}

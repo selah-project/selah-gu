@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 92:7",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 92,
+  "translation": "એક પશુ-બુદ્ધિ માણસ ⟨જાણતો⟩ નથી, અને એક મૂર્ખ ⟨સમજતો⟩ નથી ⟨את⟩ આ વાત.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "એક માણસ"
+    },
+    {
+      "surface": "בער",
+      "gloss": "પશુ-બુદ્ધિ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નથી"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "જાણતો"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "અને એક મૂર્ખ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નથી"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "સમજતો"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "આ વાત"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "આ"
+    }
+  ],
+  "timestamp": "2026-08-21T16:36:28.918904665Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 11:7",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 11,
+  "translation": "અને દાવીદ કિલ્લામાં રહેવા લાગ્યો; તેથી તેને દાવીદનું નગર કહેવાયું.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "અને રહેવા લાગ્યો"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "દાવીદ"
+    },
+    {
+      "surface": "במצד",
+      "gloss": "કિલ્લામાં"
+    },
+    {
+      "surface": "על",
+      "gloss": "તેથી"
+    },
+    {
+      "surface": "כן",
+      "gloss": "તેથી"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "કહેવાયું"
+    },
+    {
+      "surface": "לו",
+      "gloss": "તેને"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "નગર"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "દાવીદનું"
+    }
+  ],
+  "timestamp": "2026-08-21T18:04:42.554980886Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 5:30",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 5,
+  "translation": "એલઆઝારે ⟨את⟩ પિનહાસને જન્મ આપ્યો; પિનહાસે ⟨את⟩ અબિશુઆને જન્મ આપ્યો.",
+  "tokens": [
+    {
+      "surface": "אלעזר",
+      "gloss": "એલઆઝાર"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "જન્મ આપ્યો"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "પિનહાસ"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "પિનહાસ"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "પિનહાસ"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "જન્મ આપ્યો"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "અબિશુઆ"
+    },
+    {
+      "surface": "אבישוע",
+      "gloss": "અબિશુઆ"
+    }
+  ],
+  "timestamp": "2026-08-21T18:01:57.919969075Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 5:5",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 5,
+  "translation": "મીખાહ તેનો પુત્ર, રઆયાહ તેનો પુત્ર, બાલ તેનો પુત્ર.",
+  "tokens": [
+    {
+      "surface": "מיכה",
+      "gloss": "મીખાહ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "તેનો પુત્ર"
+    },
+    {
+      "surface": "ראיה",
+      "gloss": "રઆયાહ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "તેનો પુત્ર"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "બાલ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "તેનો પુત્ર"
+    }
+  ],
+  "timestamp": "2026-08-21T18:01:54.842985368Z",
+  "model": "glm-5.3"
+}

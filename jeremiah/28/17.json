@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 28:17",
+  "book": "jeremiah",
+  "lang": "gu",
+  "chapter": 28,
+  "translation": "અને હનન્યાહ નબી તે જ વર્ષે, સાતમા મહિનામાં મરી ગયો.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "મરી ગયો"
+    },
+    {
+      "surface": "חנניה",
+      "gloss": "હનન્યાહ"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "નબી"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "તે જ વર્ષે"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "તે"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "મહિનામાં"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "સાતમા"
+    }
+  ],
+  "timestamp": "2026-08-21T14:59:28.405158214Z",
+  "model": "glm-5.3"
+}

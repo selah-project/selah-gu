@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 124:2",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 124,
+  "translation": "યાહવે આપણા માટે ના હોત તો, જ્યારે માનવો આપણી વિરુદ્ધ ઊઠ્યા હોત,",
+  "tokens": [
+    {
+      "surface": "לולי",
+      "gloss": "ના હોત તો"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "હતા"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "આપણા માટે"
+    },
+    {
+      "surface": "בקום",
+      "gloss": "ઊઠ્યા હોત તો"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "આપણી વિરુદ્ધ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "માનવો"
+    }
+  ],
+  "timestamp": "2026-08-21T16:46:35.985349504Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "deuteronomy 32:28",
+  "book": "deuteronomy",
+  "lang": "gu",
+  "chapter": 32,
+  "translation": "કેમ કે તેઓ સલાહ વિહોણો રાષ્ટ્ર ⟨છે⟩, અને તેમાં કોઈ સમજ ⟨નથી⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "કેમ કે"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "રાષ્ટ્ર"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "વિહોણો"
+    },
+    {
+      "surface": "עצות",
+      "gloss": "સલાહ"
+    },
+    {
+      "surface": "המה",
+      "gloss": "તેઓ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "અને...નથી"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "તેમાં"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "સમજ"
+    }
+  ],
+  "timestamp": "2026-08-21T12:30:07.703964399Z",
+  "model": "glm-5.3"
+}

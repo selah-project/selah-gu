@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 10:20",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 10,
+  "translation": "અને ગાદનાં પુત્રોના કુળના સૈન્ય પર એલ્યાસાફ દેયુએલનો પુત્ર ⟨હતો⟩.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "અને પર"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "સૈન્ય"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "કુળ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "גד",
+      "gloss": "ગાદ"
+    },
+    {
+      "surface": "אליסף",
+      "gloss": "એલ્યાસાફ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "પુત્ર"
+    },
+    {
+      "surface": "דעואל",
+      "gloss": "દેયુએલ"
+    }
+  ],
+  "timestamp": "2026-08-21T11:54:16.121817002Z",
+  "model": "glm-5.3"
+}

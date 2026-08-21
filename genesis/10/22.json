@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 10:22",
+  "book": "genesis",
+  "lang": "gu",
+  "chapter": 10,
+  "translation": "શેમનાં પુત્રો: એલામ, અશ્શૂર, અર્પખશદ, લૂદ અને અરામ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "שם",
+      "gloss": "શેમનાં"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "એલામ"
+    },
+    {
+      "surface": "ואשור",
+      "gloss": "અને અશ્શૂર"
+    },
+    {
+      "surface": "וארפכשד",
+      "gloss": "અર્પખશદ"
+    },
+    {
+      "surface": "ולוד",
+      "gloss": "અને લૂદ"
+    },
+    {
+      "surface": "וארם",
+      "gloss": "અને અરામ"
+    }
+  ],
+  "timestamp": "2026-08-21T10:41:24.488630024Z",
+  "model": "glm-5.3"
+}

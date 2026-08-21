@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezra 2:9",
+  "book": "ezra",
+  "lang": "gu",
+  "chapter": 2,
+  "translation": "ઝાક્કાઈના પુત્રો, સાતસો સાઠ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "זכי",
+      "gloss": "ઝાક્કાઈ"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "સાત"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "સો"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "અને સાઠ"
+    }
+  ],
+  "timestamp": "2026-08-21T17:45:14.508354012Z",
+  "model": "glm-5.3"
+}

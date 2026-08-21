@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 24:2",
+  "book": "deuteronomy",
+  "lang": "gu",
+  "chapter": 24,
+  "translation": "અને તે તેના ઘરમાંથી નીકળે, અને જાય, અને બીજા પુરુષની થઈ જાય.",
+  "tokens": [
+    {
+      "surface": "ויצאה",
+      "gloss": "અને તે નીકળે"
+    },
+    {
+      "surface": "מביתו",
+      "gloss": "તેના ઘરમાંથી"
+    },
+    {
+      "surface": "והלכה",
+      "gloss": "અને જાય"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "અને થઈ જાય"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "બીજા પુરુષની"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "બીજા"
+    }
+  ],
+  "timestamp": "2026-08-21T12:26:41.234328775Z",
+  "model": "glm-5.3"
+}

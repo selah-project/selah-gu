@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 40:7",
+  "book": "isaiah",
+  "lang": "gu",
+  "chapter": 40,
+  "translation": "ઘાસ સુકાઈ જાય છે, ફૂલ મરી જાય છે, કારણ કે યાહવેનો પવન તેમાં ફૂંકે છે; ખરેખર, પ્રજા ⟨તો⟩ ઘાસ જ છે.",
+  "tokens": [
+    {
+      "surface": "יבש",
+      "gloss": "સુકાઈ જાય છે"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "ઘાસ"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "મરી જાય છે"
+    },
+    {
+      "surface": "ציץ",
+      "gloss": "ફૂલ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "કારણ કે"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "પવન"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવેનો"
+    },
+    {
+      "surface": "נשבה",
+      "gloss": "ફૂંકે છે"
+    },
+    {
+      "surface": "בו",
+      "gloss": "તેમાં"
+    },
+    {
+      "surface": "אכן",
+      "gloss": "ખરેખર"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "ઘાસ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "પ્રજા"
+    }
+  ],
+  "timestamp": "2026-08-21T14:31:17.842573743Z",
+  "model": "glm-5.3"
+}

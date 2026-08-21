@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 12:16",
+  "book": "deuteronomy",
+  "lang": "gu",
+  "chapter": 12,
+  "translation": "ફક્ત ⟨the⟩ લોહી ન ખાઓ; ⟨the⟩ પૃથ્વી પર તેને પાણી જેમ રેડી દેશો.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "ફક્ત"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "⟨the⟩ લોહી"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ન"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ખાઓ"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨the⟩ પૃથ્વી"
+    },
+    {
+      "surface": "תשפכנו",
+      "gloss": "તેને રેડી દેશો"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "પાણી જેમ"
+    }
+  ],
+  "timestamp": "2026-08-21T18:38:39.337993776Z",
+  "model": "glm-5.3"
+}

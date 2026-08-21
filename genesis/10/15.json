@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 10:15",
+  "book": "genesis",
+  "lang": "gu",
+  "chapter": 10,
+  "translation": "અને કનાને ⟨את⟩ પોતાના પ્રથમજન્મે સીદોનને અને ⟨את⟩ ખેતને જન્મ આપ્યો.",
+  "tokens": [
+    {
+      "surface": "וכנען",
+      "gloss": "અને કનાને"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "જન્મ આપ્યો"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "સીદોન"
+    },
+    {
+      "surface": "צידן",
+      "gloss": "સીદોન"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "પોતાના પ્રથમજન્મે"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ખેત"
+    },
+    {
+      "surface": "חת",
+      "gloss": "ખેત"
+    }
+  ],
+  "timestamp": "2026-08-21T10:42:46.143524168Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "nehemiah 12:16",
+  "book": "nehemiah",
+  "lang": "gu",
+  "chapter": 12,
+  "translation": "ઇદ્દોના માટે ઝખર્યાહ; ગિન્નેથોનના માટે મશુલ્લામ.",
+  "tokens": [
+    {
+      "surface": "לעדיא",
+      "gloss": "ઇદ્દોના માટે"
+    },
+    {
+      "surface": "זכריה",
+      "gloss": "ઝખર્યાહ"
+    },
+    {
+      "surface": "לגנתון",
+      "gloss": "ગિન્નેથોનના માટે"
+    },
+    {
+      "surface": "משלם",
+      "gloss": "મશુલ્લામ"
+    }
+  ],
+  "timestamp": "2026-08-21T17:56:54.076433104Z",
+  "model": "glm-5.3"
+}

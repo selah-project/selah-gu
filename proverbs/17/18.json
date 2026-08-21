@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 17:18",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 17,
+  "translation": "હૃદય વિહોણો માણસ હાથ ટપકાવે છે, પોતાના મિત્રની સામે જામીન બને છે.",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "માણસ"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "વિહોણો"
+    },
+    {
+      "surface": "לב",
+      "gloss": "હૃદય"
+    },
+    {
+      "surface": "תוקע",
+      "gloss": "ટપકાવે છે"
+    },
+    {
+      "surface": "כף",
+      "gloss": "હાથ (હથેળી)"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "જામીન બને છે"
+    },
+    {
+      "surface": "ערבה",
+      "gloss": "જામીનપણું"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "સામે"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "પોતાના મિત્ર"
+    }
+  ],
+  "timestamp": "2026-08-21T16:57:09.478815669Z",
+  "model": "glm-5.3"
+}

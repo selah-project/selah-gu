@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 28:12",
+  "book": "job",
+  "lang": "gu",
+  "chapter": 28,
+  "translation": "પણ જ્ઞાન ક્યાંથી મળે? અને સમજણનું સ્થાન ક્યાં ⟨છે⟩?",
+  "tokens": [
+    {
+      "surface": "והחכמה",
+      "gloss": "પણ જ્ઞાન"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "ક્યાંથી"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "મળે"
+    },
+    {
+      "surface": "ואי",
+      "gloss": "અને ક્યાં"
+    },
+    {
+      "surface": "זה",
+      "gloss": "⟨આ⟩"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "સ્થાન"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "સમજણનું"
+    }
+  ],
+  "timestamp": "2026-08-21T17:13:39.383478017Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 21:4",
+  "book": "1-samuel",
+  "lang": "gu",
+  "chapter": 21,
+  "translation": "અને હવે તારા હાથ નીચે શું છે? પાંચ રોટલી મારા હાથમાં આપ, અથવા જે મળે તે.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "અને હવે"
+    },
+    {
+      "surface": "מה",
+      "gloss": "શું"
+    },
+    {
+      "surface": "יש",
+      "gloss": "છે"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "નીચે"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "તારા હાથ"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "પાંચ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "રોટલી"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "આપ"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "મારા હાથમાં"
+    },
+    {
+      "surface": "או",
+      "gloss": "અથવા"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "જે મળે તે"
+    }
+  ],
+  "timestamp": "2026-08-21T13:13:31.509882752Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-kings 10:28",
+  "book": "2-kings",
+  "lang": "gu",
+  "chapter": 10,
+  "translation": "આમ યહૂએ બાલને ⟨את⟩ ઇસ્રાએલમાંથી નાબૂદ કર્યો.",
+  "tokens": [
+    {
+      "surface": "וישמד",
+      "gloss": "નાબૂદ કર્યો"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "યહૂએ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "બાલને"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "બાલને"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "ઇસ્રાએલમાંથી"
+    }
+  ],
+  "timestamp": "2026-08-21T13:58:21.438855099Z",
+  "model": "glm-5.3"
+}

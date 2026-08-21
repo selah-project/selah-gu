@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-kings 2:43",
+  "book": "1-kings",
+  "lang": "gu",
+  "chapter": 2,
+  "translation": "અને તો કેમ તેં યાહવેની સોગંદ અને ⟨את⟩ આજ્ઞા, જે મેં તને આપી હતી, તે નહોતી રાખી?",
+  "tokens": [
+    {
+      "surface": "ומדוע",
+      "gloss": "અને તો કેમ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નહોતી"
+    },
+    {
+      "surface": "שמרת",
+      "gloss": "રાખી"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "સોગંદ"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "સોગંદ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવેની"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "આજ્ઞા"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "આજ્ઞા"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જે"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "મેં આપી હતી"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "તને"
+    }
+  ],
+  "timestamp": "2026-08-21T13:37:33.541019840Z",
+  "model": "glm-5.3"
+}

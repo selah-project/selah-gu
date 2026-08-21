@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 25:16",
+  "book": "exodus",
+  "lang": "gu",
+  "chapter": 25,
+  "translation": "અને તું સંદૂકમાં ⟨את⟩ સાક્ષ્ય મૂકીશ જે હું તને આપીશ.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "અને તું મૂકીશ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "માં"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "સંદૂક"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "સાક્ષ્ય"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "સાક્ષ્ય"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જે"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "હું આપીશ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "તને"
+    }
+  ],
+  "timestamp": "2026-08-21T11:19:35.446314409Z",
+  "model": "glm-5.3"
+}

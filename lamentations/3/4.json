@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "lamentations 3:4",
+  "book": "lamentations",
+  "lang": "gu",
+  "chapter": 3,
+  "translation": "તેણે મારું માંસ અને મારી ત્વચા જીર્ણ કરી નાખી; તેણે મારા હાડકાં તોડી નાખ્યાં.",
+  "tokens": [
+    {
+      "surface": "בלה",
+      "gloss": "જીર્ણ કરી નાખી"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "મારું માંસ"
+    },
+    {
+      "surface": "ועורי",
+      "gloss": "અને મારી ત્વચા"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "તોડી નાખ્યાં"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "મારા હાડકાં"
+    }
+  ],
+  "timestamp": "2026-08-21T17:25:31.076936498Z",
+  "model": "glm-5.3"
+}

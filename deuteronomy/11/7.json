@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 11:7",
+  "book": "deuteronomy",
+  "lang": "gu",
+  "chapter": 11,
+  "translation": "કેમ કે તમારી આંખોએ ⟨את⟩ યાહવેના તમામ મહાન કાર્ય ⟨the⟩ જોયાં જે ⟨તેણે⟩ કર્યાં;",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "કેમ કે"
+    },
+    {
+      "surface": "עיניכם",
+      "gloss": "તમારી આંખોએ"
+    },
+    {
+      "surface": "הראת",
+      "gloss": "જોયાં"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "યાહવેના તમામ મહાન કાર્ય"
+    },
+    {
+      "surface": "כל",
+      "gloss": "તમામ"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "કાર્ય"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવેના"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "મહાન"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જે"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "કર્યાં"
+    }
+  ],
+  "timestamp": "2026-08-21T12:19:00.234926137Z",
+  "model": "glm-5.3"
+}

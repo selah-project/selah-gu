@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "lamentations 3:50",
+  "book": "lamentations",
+  "lang": "gu",
+  "chapter": 3,
+  "translation": "યાહવે આકાશમાંથી ઝાંખીને જુએ ⟨ત્યાં સુધી⟩.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "⟨ત્યાં સુધી⟩"
+    },
+    {
+      "surface": "ישקיף",
+      "gloss": "ઝાંખીને"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "જુએ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "આકાશમાંથી"
+    }
+  ],
+  "timestamp": "2026-08-21T17:25:39.271223416Z",
+  "model": "glm-5.3"
+}

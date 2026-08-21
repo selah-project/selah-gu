@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 7:26",
+  "book": "leviticus",
+  "lang": "gu",
+  "chapter": 7,
+  "translation": "અને તમારાં બધાં વસવાટસ્થાનોમાં પક્ષી કે પશુનું — કોઈ પણ લોહી તમે ન ખાશો.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "અને કોઈ પણ"
+    },
+    {
+      "surface": "דם",
+      "gloss": "લોહી"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ન"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ખાશો"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "બધાં…માં"
+    },
+    {
+      "surface": "מושבתיכם",
+      "gloss": "તમારાં વસવાટસ્થાનો"
+    },
+    {
+      "surface": "לעוף",
+      "gloss": "પક્ષીનું"
+    },
+    {
+      "surface": "ולבהמה",
+      "gloss": "કે પશુનું"
+    }
+  ],
+  "timestamp": "2026-08-21T11:32:30.427992206Z",
+  "model": "glm-5.3"
+}

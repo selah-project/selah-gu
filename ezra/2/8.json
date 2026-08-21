@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezra 2:8",
+  "book": "ezra",
+  "lang": "gu",
+  "chapter": 2,
+  "translation": "ઝત્તૂનાં પુત્રો, નવસો ચાલીસ અને પાંચ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "זתוא",
+      "gloss": "ઝત્તૂ"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "નવ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "સો"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "અને ચાલીસ"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "અને પાંચ"
+    }
+  ],
+  "timestamp": "2026-08-21T17:45:22.157819793Z",
+  "model": "glm-5.3"
+}

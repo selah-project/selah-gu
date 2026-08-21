@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 70:4",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 70,
+  "translation": "તેઓ પાછા ફરે, તેમની શરમના ⟨કારણે⟩ — જે કહે છે, “આહા, આહા.”",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "તેઓ પાછા ફરે"
+    },
+    {
+      "surface": "על",
+      "gloss": "ના ⟨કારણે⟩"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "⟨ફળમાં⟩"
+    },
+    {
+      "surface": "בשתם",
+      "gloss": "તેમની શરમ"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "જે કહે છે"
+    },
+    {
+      "surface": "האח",
+      "gloss": "આહા"
+    },
+    {
+      "surface": "האח",
+      "gloss": "આહા"
+    }
+  ],
+  "timestamp": "2026-08-21T16:28:46.415462115Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 92:9",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 92,
+  "translation": "પણ તું, હે યાહવે, સદાકાળ ઊંચે ⟨છે⟩.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "પણ તું"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "ઊંચે"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "સદાકાળ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    }
+  ],
+  "timestamp": "2026-08-21T16:37:15.458063957Z",
+  "model": "glm-5.3"
+}

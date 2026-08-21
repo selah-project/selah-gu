@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 121:5",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 121,
+  "translation": "યાહવે તારો રખોડ ⟨છે⟩, યાહવે તારો પડછાયો ⟨છે⟩ તારા જમણા હાથ પર.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "שמרך",
+      "gloss": "તારો રખોડ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "צלך",
+      "gloss": "તારો પડછાયો"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "יד",
+      "gloss": "હાથ"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "તારા જમણા"
+    }
+  ],
+  "timestamp": "2026-08-21T16:45:51.765088959Z",
+  "model": "glm-5.3"
+}

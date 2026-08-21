@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "haggai 1:3",
+  "book": "haggai",
+  "lang": "gu",
+  "chapter": 1,
+  "translation": "અને યાહવેનું વચન નબી હગ્ગાઈના હાથે આ રીતે આવ્યું:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "અને … થયું"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "વચન"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવેનું"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "હાથે"
+    },
+    {
+      "surface": "חגי",
+      "gloss": "હગ્ગાઈ"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "નબી"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "આ રીતે કહેતા"
+    }
+  ],
+  "timestamp": "2026-08-21T16:03:22.772037647Z",
+  "model": "glm-5.3"
+}

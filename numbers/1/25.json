@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 1:25",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 1,
+  "translation": "તેમની ગણતરી-પાત્રો ગાદના કુળ માટે: પાંચ અને ચાલીસ હજાર અને છ સો અને પચાસ.",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "તેમની ગણતરી-પાત્રો"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "કુળ માટે"
+    },
+    {
+      "surface": "גד",
+      "gloss": "ગાદ"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "પાંચ"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "અને ચાલીસ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "હજાર"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "અને છ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "સો"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "અને પચાસ"
+    }
+  ],
+  "timestamp": "2026-08-21T11:47:42.667944175Z",
+  "model": "glm-5.3"
+}

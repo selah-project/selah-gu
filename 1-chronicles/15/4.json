@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 15:4",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 15,
+  "translation": "અને દાવીદે અહરોનના પુત્રોને ⟨את⟩ અને લેવીયોને ⟨את⟩ ભેગા કર્યા.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "અને ભેગા કર્યા"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "દાવીદે"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "અહરોનના પુત્રોને"
+    },
+    {
+      "surface": "בני",
+      "gloss": "પુત્રોને"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "અહરોનના"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "લેવીયોને"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "લેવીયોને"
+    }
+  ],
+  "timestamp": "2026-08-21T18:07:55.833755085Z",
+  "model": "glm-5.3"
+}

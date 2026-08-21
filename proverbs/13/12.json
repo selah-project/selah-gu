@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 13:12",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 13,
+  "translation": "લંબાયેલી આશા હૃદયને માંદું કરે છે, અને આવતી કામના જીવનનું વૃક્ષ ⟨is⟩.",
+  "tokens": [
+    {
+      "surface": "תוחלת",
+      "gloss": "આશા"
+    },
+    {
+      "surface": "ממשכה",
+      "gloss": "લંબાયેલી"
+    },
+    {
+      "surface": "מחלה",
+      "gloss": "માંદું કરે છે"
+    },
+    {
+      "surface": "לב",
+      "gloss": "હૃદયને"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "અને વૃક્ષ"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "જીવનનું"
+    },
+    {
+      "surface": "תאוה",
+      "gloss": "કામના"
+    },
+    {
+      "surface": "באה",
+      "gloss": "આવતી"
+    }
+  ],
+  "timestamp": "2026-08-21T16:55:05.454555516Z",
+  "model": "glm-5.3"
+}

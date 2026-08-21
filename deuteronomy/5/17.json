@@ -1,0 +1,21 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 5:17",
+  "book": "deuteronomy",
+  "lang": "gu",
+  "chapter": 5,
+  "translation": "તું ખૂન નહિ કરે.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "નહિ"
+    },
+    {
+      "surface": "תרצח",
+      "gloss": "તું ખૂન કરે"
+    }
+  ],
+  "timestamp": "2026-08-21T12:14:06.962040263Z",
+  "model": "glm-5.3"
+}

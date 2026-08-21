@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "1-chronicles 2:47",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 2,
+  "translation": "અને યહ્દાયના પુત્રો ⟨હતા⟩: રેગેમ, યોતામ, ગેશાન, પેલેત, એય્ફા અને શાઅફ.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "અને…પુત્રો"
+    },
+    {
+      "surface": "יהדי",
+      "gloss": "યહ્દાયના"
+    },
+    {
+      "surface": "רגם",
+      "gloss": "રેગેમ"
+    },
+    {
+      "surface": "ויותם",
+      "gloss": "યોતામ"
+    },
+    {
+      "surface": "וגישן",
+      "gloss": "ગેશાન"
+    },
+    {
+      "surface": "ופלט",
+      "gloss": "પેલેત"
+    },
+    {
+      "surface": "ועיפה",
+      "gloss": "એય્ફા"
+    },
+    {
+      "surface": "ושעף",
+      "gloss": "શાઅફ"
+    }
+  ],
+  "timestamp": "2026-08-21T17:59:42.551695082Z",
+  "model": "glm-5.3"
+}

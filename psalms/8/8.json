@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 8:8",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 8,
+  "translation": "ઘેટાં અને ઢોર, તે બધાં, અને પણ ખેતરનાં પશુઓ.",
+  "tokens": [
+    {
+      "surface": "צנה",
+      "gloss": "ઘેટાં"
+    },
+    {
+      "surface": "ואלפים",
+      "gloss": "અને ઢોર"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "તે બધાં"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "અને પણ"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "પશુઓ"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "ખેતરનાં"
+    }
+  ],
+  "timestamp": "2026-08-21T16:12:03.983505162Z",
+  "model": "glm-5.3"
+}

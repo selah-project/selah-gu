@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 10:20",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 10,
+  "translation": "ચૂંટેલું ચાંદી છે ન્યાયીની જીભ; દુષ્ટોનું હૃદય ⟨તો⟩ તુચ્છ છે.",
+  "tokens": [
+    {
+      "surface": "כסף",
+      "gloss": "ચાંદી"
+    },
+    {
+      "surface": "נבחר",
+      "gloss": "ચૂંટેલું"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "જીભ"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ન્યાયીની"
+    },
+    {
+      "surface": "לב",
+      "gloss": "હૃદય"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "દુષ્ટોનું"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "તુચ્છ છે"
+    }
+  ],
+  "timestamp": "2026-08-21T16:55:01.920729719Z",
+  "model": "glm-5.3"
+}

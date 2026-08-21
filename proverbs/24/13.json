@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 24:13",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 24,
+  "translation": "મારા પુત્ર, મધ ખા, કેમ કે તે સારું છે; અને મધનું ટીપું તારા તાલુ પર મીઠું છે.",
+  "tokens": [
+    {
+      "surface": "אכל",
+      "gloss": "ખા"
+    },
+    {
+      "surface": "בני",
+      "gloss": "મારા પુત્ર"
+    },
+    {
+      "surface": "דבש",
+      "gloss": "મધ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "કેમ કે"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "સારું"
+    },
+    {
+      "surface": "ונפת",
+      "gloss": "અને મધનું ટીપું"
+    },
+    {
+      "surface": "מתוק",
+      "gloss": "મીઠું"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "חכך",
+      "gloss": "તારા તાલુ"
+    }
+  ],
+  "timestamp": "2026-08-21T17:01:10.657792870Z",
+  "model": "glm-5.3"
+}

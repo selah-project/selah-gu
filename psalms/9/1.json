@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 9:1",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 9,
+  "translation": "મહેલા-નાયક માટે, “અલમોત લાબેન” પર; દાવીદનો મઝમોર.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "મહેલા-નાયક માટે"
+    },
+    {
+      "surface": "עלמות",
+      "gloss": "અલમોત"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "લાબેન"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "મઝમોર"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "દાવીદનો"
+    }
+  ],
+  "timestamp": "2026-08-21T16:12:59.360336582Z",
+  "model": "glm-5.3"
+}

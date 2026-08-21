@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 30:21",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 30,
+  "translation": "ત્રણના નીચે પૃથ્વી ધ્રૂજે છે, અને ચારના નીચે તે સહન કરી ⟨ન⟩ શકે:",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "નીચે"
+    },
+    {
+      "surface": "שלוש",
+      "gloss": "ત્રણ"
+    },
+    {
+      "surface": "רגזה",
+      "gloss": "ધ્રૂજે છે"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "પૃથ્વી"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "અને નીચે"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "ચાર"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "તે શકે"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "સહન કરવું"
+    }
+  ],
+  "timestamp": "2026-08-21T17:02:10.268638820Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 18:15",
+  "book": "2-chronicles",
+  "lang": "gu",
+  "chapter": 18,
+  "translation": "ત્યારે રાજાએ તેને કહ્યું, કેટલી ય વાર હું તને સમજાવું કે મારી સાથે યાહવેના નામમાં ફક્ત સત્ય જ બોલતો નથી?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "કહ્યું"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "તેને"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "રાજાએ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "સુધી"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "કેટલી ય"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "વાર"
+    },
+    {
+      "surface": "אני",
+      "gloss": "હું"
+    },
+    {
+      "surface": "משביעך",
+      "gloss": "તને સમજાવું"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "કે"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નથી"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "બોલતો"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "મારી સાથે"
+    },
+    {
+      "surface": "רק",
+      "gloss": "ફક્ત"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "સત્ય"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "નામમાં"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    }
+  ],
+  "timestamp": "2026-08-21T18:22:47.430011334Z",
+  "model": "glm-5.3"
+}

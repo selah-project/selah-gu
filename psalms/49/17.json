@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 49:17",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 49,
+  "translation": "જ્યારે કોઈ માણસ ધનવાન થાય ત્યારે ડરશો નહીં, જ્યારે તેના ઘરનો વૈભવ વધે ત્યારે ⟨પણ નહીં⟩।",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "ડરશો"
+    },
+    {
+      "surface": "כי",
+      "gloss": "જ્યારે"
+    },
+    {
+      "surface": "יעשר",
+      "gloss": "ધનવાન થાય"
+    },
+    {
+      "surface": "איש",
+      "gloss": "માણસ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "જ્યારે"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "વધે"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "વૈભવ"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "તેના ઘરનો"
+    }
+  ],
+  "timestamp": "2026-08-21T16:23:06.668442592Z",
+  "model": "glm-5.3"
+}

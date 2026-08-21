@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 10:4",
+  "book": "genesis",
+  "lang": "gu",
+  "chapter": 10,
+  "translation": "અને યાવાનના પુત્રો: એલીશાહ, તર્શીશ, કિત્તીમ અને દોદાનીમ.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "અને પુત્રો"
+    },
+    {
+      "surface": "יון",
+      "gloss": "યાવાનના"
+    },
+    {
+      "surface": "אלישה",
+      "gloss": "એલીશાહ"
+    },
+    {
+      "surface": "ותרשיש",
+      "gloss": "અને તર્શીશ"
+    },
+    {
+      "surface": "כתים",
+      "gloss": "કિત્તીમ"
+    },
+    {
+      "surface": "ודדנים",
+      "gloss": "અને દોદાનીમ"
+    }
+  ],
+  "timestamp": "2026-08-21T10:39:24.895145545Z",
+  "model": "glm-5.3"
+}

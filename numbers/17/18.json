@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 17:18",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 17,
+  "translation": "અને લેવીની લાકડી પર તું અહરોનનું ⟨את⟩ નામ લખીશ, કેમ કે તેમના પિતૃ-ગૃહોના વડા માટે એક જ લાકડી હશે.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "અને ⟨את⟩",
+      "marks": "નામ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "નામ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "અહરોનનું"
+    },
+    {
+      "surface": "תכתב",
+      "gloss": "તું લખીશ"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "લાકડી"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "લેવીની"
+    },
+    {
+      "surface": "כי",
+      "gloss": "કેમ કે"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "લાકડી"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "એક જ"
+    },
+    {
+      "surface": "לראש",
+      "gloss": "વડા માટે"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ગૃહ"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "તેમના પિતૃઓના"
+    }
+  ],
+  "timestamp": "2026-08-21T11:59:21.183919120Z",
+  "model": "glm-5.3"
+}

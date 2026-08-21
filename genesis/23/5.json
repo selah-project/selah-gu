@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 23:5",
+  "book": "genesis",
+  "lang": "gu",
+  "chapter": 23,
+  "translation": "અને ખેતના પુત્રોએ અવ્રાહામને ⟨את⟩ ઉત્તર આપ્યું, તેને કહેતા:",
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "ઉત્તર આપ્યું"
+    },
+    {
+      "surface": "בני",
+      "gloss": "પુત્રોએ"
+    },
+    {
+      "surface": "חת",
+      "gloss": "ખેતના"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "અવ્રાહામને"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "અવ્રાહામ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "કહેતા"
+    },
+    {
+      "surface": "לו",
+      "gloss": "તેને"
+    }
+  ],
+  "timestamp": "2026-08-21T10:47:22.395981740Z",
+  "model": "glm-5.3"
+}

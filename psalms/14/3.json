@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 14:3",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 14,
+  "translation": "બધા વળી ગયા, સાથે મળીને તે ભ્રષ્ટ થયા; સારું કરનાર કોઈ નથી, એક પણ નહીં.",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "બધા"
+    },
+    {
+      "surface": "סר",
+      "gloss": "વળી ગયા"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "સાથે મળીને"
+    },
+    {
+      "surface": "נאלחו",
+      "gloss": "ભ્રષ્ટ થયા"
+    },
+    {
+      "surface": "אין",
+      "gloss": "નથી"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "કરનાર"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "સારું"
+    },
+    {
+      "surface": "אין",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "גם",
+      "gloss": "પણ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "એક"
+    }
+  ],
+  "timestamp": "2026-08-21T18:55:31.098087101Z",
+  "model": "glm-5.3"
+}

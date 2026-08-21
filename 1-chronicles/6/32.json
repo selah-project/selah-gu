@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 6:32",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 6,
+  "translation": "મહલીનો પુત્ર, મૂશીનો પુત્ર, મરારીનો પુત્ર, લેવીનો પુત્ર.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "પુત્ર"
+    },
+    {
+      "surface": "מחלי",
+      "gloss": "મહલીનો"
+    },
+    {
+      "surface": "בן",
+      "gloss": "પુત્ર"
+    },
+    {
+      "surface": "מושי",
+      "gloss": "મૂશીનો"
+    },
+    {
+      "surface": "בן",
+      "gloss": "પુત્ર"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "મરારીનો"
+    },
+    {
+      "surface": "בן",
+      "gloss": "પુત્ર"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "લેવીનો"
+    }
+  ],
+  "timestamp": "2026-08-21T18:03:00.198922475Z",
+  "model": "glm-5.3"
+}

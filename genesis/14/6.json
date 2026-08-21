@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 14:6",
+  "book": "genesis",
+  "lang": "gu",
+  "chapter": 14,
+  "translation": "અને તેમના પર્વત સેઈરમાં ⟨את⟩ હોરીઓને, જે મરુભૂમિની બાજુએ છે તે એલ-પારાન સુધી.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "હોરીઓ"
+    },
+    {
+      "surface": "החרי",
+      "gloss": "હોરીઓ"
+    },
+    {
+      "surface": "בהררם",
+      "gloss": "તેમના પર્વતમાં"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "સેઈર"
+    },
+    {
+      "surface": "עד",
+      "gloss": "સુધી"
+    },
+    {
+      "surface": "איל",
+      "gloss": "એલ-"
+    },
+    {
+      "surface": "פארן",
+      "gloss": "પારાન"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જે"
+    },
+    {
+      "surface": "על",
+      "gloss": "બાજુમાં"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "મરુભૂમિ"
+    }
+  ],
+  "timestamp": "2026-08-21T10:43:21.098949300Z",
+  "model": "glm-5.3"
+}

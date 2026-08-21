@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 11:19",
+  "book": "2-chronicles",
+  "lang": "gu",
+  "chapter": 11,
+  "translation": "અને તેણીએ તેને પુત્રો જન્મ્યા — ⟨את⟩ યિએશને, ⟨את⟩ શમર્યાને અને ⟨את⟩ ઝાહામને.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "અને તેણીએ જન્મ્યા"
+    },
+    {
+      "surface": "לו",
+      "gloss": "તેને"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "યિએશને"
+    },
+    {
+      "surface": "יעוש",
+      "gloss": "યિએશ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "શમર્યાને"
+    },
+    {
+      "surface": "שמריה",
+      "gloss": "શમર્યા"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ઝાહામને"
+    },
+    {
+      "surface": "זהם",
+      "gloss": "ઝાહામ"
+    }
+  ],
+  "timestamp": "2026-08-21T18:18:20.087683289Z",
+  "model": "glm-5.3"
+}

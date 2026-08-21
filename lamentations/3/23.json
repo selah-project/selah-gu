@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "lamentations 3:23",
+  "book": "lamentations",
+  "lang": "gu",
+  "chapter": 3,
+  "translation": "તે પ્રત્યેક પ્રભાતે નવાં ⟨છે⟩; મહાન ⟨છે⟩ તારી વિશ્વાસનિષ્ઠા.",
+  "tokens": [
+    {
+      "surface": "חדשים",
+      "gloss": "નવાં"
+    },
+    {
+      "surface": "לבקרים",
+      "gloss": "પ્રત્યેક પ્રભાતે"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "મહાન"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "તારી વિશ્વાસનિષ્ઠા"
+    }
+  ],
+  "timestamp": "2026-08-21T17:26:04.268933466Z",
+  "model": "glm-5.3"
+}

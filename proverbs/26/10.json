@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 26:10",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 26,
+  "translation": "મહાન ⟨is⟩ બધાનો ઘડનાર, અને ⟨he⟩ મૂર્ખને વળતર આપે છે અને પસાર થનારાઓને વળતર આપે છે।",
+  "tokens": [
+    {
+      "surface": "רב",
+      "gloss": "મહાન"
+    },
+    {
+      "surface": "מחולל",
+      "gloss": "ઘડનાર"
+    },
+    {
+      "surface": "כל",
+      "gloss": "બધાનો"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "અને વળતર આપે છે"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "મૂર્ખને"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "અને વળતર આપે છે"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "પસાર થનારાઓને"
+    }
+  ],
+  "timestamp": "2026-08-21T17:01:40.000270174Z",
+  "model": "glm-5.3"
+}

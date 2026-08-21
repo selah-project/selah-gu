@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 119:24",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 119,
+  "translation": "હા, તમારી સાક્ષીઓ મારા આનંદ છે, મારા મંત્રીઓ છે.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "હા, પણ"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "તમારી સાક્ષીઓ"
+    },
+    {
+      "surface": "שעשעי",
+      "gloss": "મારા આનંદ"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "મારા (લોકો)"
+    },
+    {
+      "surface": "עצתי",
+      "gloss": "મંત્રણાના"
+    }
+  ],
+  "timestamp": "2026-08-21T16:43:53.722817489Z",
+  "model": "glm-5.3"
+}

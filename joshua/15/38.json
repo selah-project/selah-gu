@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "joshua 15:38",
+  "book": "joshua",
+  "lang": "gu",
+  "chapter": 15,
+  "translation": "અને દિલઆન અને હમીત્સપે અને યોક્તેએલ,",
+  "tokens": [
+    {
+      "surface": "ודלען",
+      "gloss": "અને દિલઆન"
+    },
+    {
+      "surface": "והמצפה",
+      "gloss": "અને હમીત્સપે"
+    },
+    {
+      "surface": "ויקתאל",
+      "gloss": "અને યોક્તેએલ"
+    }
+  ],
+  "timestamp": "2026-08-21T12:40:31.270091355Z",
+  "model": "glm-5.3"
+}

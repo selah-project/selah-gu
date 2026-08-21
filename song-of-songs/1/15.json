@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "song-of-songs 1:15",
+  "book": "song-of-songs",
+  "lang": "gu",
+  "chapter": 1,
+  "translation": "જુઓ, તું સુંદર ⟨છે⟩, મારી પ્રિયે; જુઓ, તું સુંદર ⟨છે⟩; તારી આંખો કાબૂતર ⟨છે⟩.",
+  "tokens": [
+    {
+      "surface": "הנך",
+      "gloss": "જુઓ, તું"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "સુંદર"
+    },
+    {
+      "surface": "רעיתי",
+      "gloss": "મારી પ્રિયે"
+    },
+    {
+      "surface": "הנך",
+      "gloss": "જુઓ, તું"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "સુંદર"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "તારી આંખો"
+    },
+    {
+      "surface": "יונים",
+      "gloss": "કાબૂતર"
+    }
+  ],
+  "timestamp": "2026-08-21T17:20:26.591325403Z",
+  "model": "glm-5.3"
+}

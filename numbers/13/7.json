@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 13:7",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 13,
+  "translation": "યિસાસ્કારના કુળ માટે — યિગાલ, યોસેફનો પુત્ર.",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "કુળ માટે"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "યિસાસ્કારના"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "યિગાલ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "પુત્ર"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "યોસેફનો"
+    }
+  ],
+  "timestamp": "2026-08-21T11:55:08.564834644Z",
+  "model": "glm-5.3"
+}

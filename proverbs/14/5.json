@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 14:5",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 14,
+  "translation": "વિશ્વાસપાત્ર સાક્ષી જૂઠ નહીં બોલે, અને જૂઠા સાક્ષી જૂઠ ફૂંકે છે.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "સાક્ષી"
+    },
+    {
+      "surface": "אמונים",
+      "gloss": "વિશ્વાસપાત્ર"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "יכזב",
+      "gloss": "જૂઠ બોલે"
+    },
+    {
+      "surface": "ויפיח",
+      "gloss": "અને ફૂંકે છે"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "જૂઠ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "સાક્ષી"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "જૂઠા"
+    }
+  ],
+  "timestamp": "2026-08-21T16:56:25.567734349Z",
+  "model": "glm-5.3"
+}

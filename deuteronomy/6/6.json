@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 6:6",
+  "book": "deuteronomy",
+  "lang": "gu",
+  "chapter": 6,
+  "translation": "અને આ વાણીઓ, જે હું આજે તને આજ્ઞા કરું છું, તે તારા હૃદય પર રહેશે.",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "અને…રહેશે"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "આ વાણીઓ"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "આ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જે"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "હું"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "તને આજ્ઞા કરું છું"
+    },
+    {
+      "surface": "היום",
+      "gloss": "આજે"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "તારા હૃદય"
+    }
+  ],
+  "timestamp": "2026-08-21T12:14:34.338636798Z",
+  "model": "glm-5.3"
+}

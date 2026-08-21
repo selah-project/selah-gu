@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 12:14",
+  "book": "ecclesiastes",
+  "lang": "gu",
+  "chapter": 12,
+  "translation": "કારણ કે એલોહીમ ⟨את⟩ દરેક કૃત્યને ન્યાયમાં લાવશે, દરેક છુપાયેલી વસ્તુ પર — સારું હોય કે ખરાબ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "કારણ કે"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "દરેક કૃત્ય"
+    },
+    {
+      "surface": "כל",
+      "gloss": "દરેક"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "કૃત્યને"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "એલોહીમ"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "લાવશે"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "ન્યાયમાં"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "כל",
+      "gloss": "દરેક"
+    },
+    {
+      "surface": "נעלם",
+      "gloss": "છુપાયેલી વસ્તુ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "હોય કે"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "સારું"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "કે"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ખરાબ"
+    }
+  ],
+  "timestamp": "2026-08-21T17:32:10.511326277Z",
+  "model": "glm-5.3"
+}

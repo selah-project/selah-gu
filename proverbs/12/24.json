@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 12:24",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 12,
+  "translation": "કાર્યશીલોનો હાથ શાસન કરશે, પણ આળસુ કપાત ભોગવશે.",
+  "tokens": [
+    {
+      "surface": "יד",
+      "gloss": "હાથ"
+    },
+    {
+      "surface": "חרוצים",
+      "gloss": "કાર્યશીલોનો"
+    },
+    {
+      "surface": "תמשול",
+      "gloss": "શાસન કરશે"
+    },
+    {
+      "surface": "ורמיה",
+      "gloss": "પણ આળસુ"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "થશે"
+    },
+    {
+      "surface": "למס",
+      "gloss": "કપાત ભોગવશે"
+    }
+  ],
+  "timestamp": "2026-08-21T16:55:01.154455907Z",
+  "model": "glm-5.3"
+}

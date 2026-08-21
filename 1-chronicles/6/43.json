@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-chronicles 6:43",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 6,
+  "translation": "અને ⟨את⟩ ખિલેન અને ⟨את⟩ તેના મેદાનો, ⟨את⟩ દેબીર અને ⟨את⟩ તેના મેદાનો.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ખિલેન"
+    },
+    {
+      "surface": "חילז",
+      "gloss": "ખિલેન"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "તેના મેદાનો"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "તેના મેદાનો"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "દેબીર"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "દેબીર"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "તેના મેદાનો"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "તેના મેદાનો"
+    }
+  ],
+  "timestamp": "2026-08-21T18:03:11.305860187Z",
+  "model": "glm-5.3"
+}

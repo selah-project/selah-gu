@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 40:1",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 40,
+  "translation": "સંગીત-નિર્દેશક માટે; દાવીદનો મિઝમોર.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "સંગીત-નિર્દેશક માટે"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "દાવીદનો"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "મિઝમોર"
+    }
+  ],
+  "timestamp": "2026-08-21T16:21:13.258752267Z",
+  "model": "glm-5.3"
+}

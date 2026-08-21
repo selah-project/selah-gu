@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "lamentations 5:10",
+  "book": "lamentations",
+  "lang": "gu",
+  "chapter": 5,
+  "translation": "આપણી ચામડી તંદૂરની જેમ કંડારાઈ ગઈ ⟨છે⟩, ભૂખની તીવ્ર લપેટના મુખથી.",
+  "tokens": [
+    {
+      "surface": "עורנו",
+      "gloss": "આપણી ચામડી"
+    },
+    {
+      "surface": "כתנור",
+      "gloss": "તંદૂરની જેમ"
+    },
+    {
+      "surface": "נכמרו",
+      "gloss": "કંડારાઈ ગઈ"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ના મુખથી"
+    },
+    {
+      "surface": "זלעפות",
+      "gloss": "તીવ્ર લપેટ"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "ભૂખની"
+    }
+  ],
+  "timestamp": "2026-08-21T17:28:24.438173782Z",
+  "model": "glm-5.3"
+}

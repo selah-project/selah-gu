@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "nehemiah 10:27",
+  "book": "nehemiah",
+  "lang": "gu",
+  "chapter": 10,
+  "translation": "અને અહીયા, હાનાન, અનાન.",
+  "tokens": [
+    {
+      "surface": "ואחיה",
+      "gloss": "અને અહીયા"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "હાનાન"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "અનાન"
+    }
+  ],
+  "timestamp": "2026-08-21T19:01:19.935605085Z",
+  "model": "glm-5.3"
+}

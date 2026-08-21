@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 5:31",
+  "book": "genesis",
+  "lang": "gu",
+  "chapter": 5,
+  "translation": "અને લેમેખના બધા દિવસો સાત અને સિત્તેર વર્ષ અને સાતસો વર્ષ થયા, અને તે મર્યો.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "અને થયા"
+    },
+    {
+      "surface": "כל",
+      "gloss": "બધા"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "દિવસો"
+    },
+    {
+      "surface": "למך",
+      "gloss": "લેમેખના"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "સાત"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "અને સિત્તેર"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "વર્ષ"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "અને સાત"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "સો"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "વર્ષ"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "અને તે મર્યો"
+    }
+  ],
+  "timestamp": "2026-08-21T10:39:05.528468568Z",
+  "model": "glm-5.3"
+}

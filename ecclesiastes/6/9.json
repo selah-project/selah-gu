@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 6:9",
+  "book": "ecclesiastes",
+  "lang": "gu",
+  "chapter": 6,
+  "translation": "આંખોનો દેખાવ જીવના ભટકવા કરતાં સારો ⟨છે⟩; આ પણ વ્યર્થતા ⟨છે⟩ અને પવનનું ચરણ ⟨છે⟩.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "સારો"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "દેખાવ"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "આંખોનો"
+    },
+    {
+      "surface": "מהלך",
+      "gloss": "ભટકવા"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "જીવના"
+    },
+    {
+      "surface": "גם",
+      "gloss": "પણ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "આ"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "વ્યર્થતા"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "અને … ચરણ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "પવનનું"
+    }
+  ],
+  "timestamp": "2026-08-21T19:00:23.690820098Z",
+  "model": "glm-5.3"
+}

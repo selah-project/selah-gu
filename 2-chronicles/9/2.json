@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 9:2",
+  "book": "2-chronicles",
+  "lang": "gu",
+  "chapter": 9,
+  "translation": "અને શલોમોએ તેણીને ⟨את⟩ તેનાં બધાં વચનો જણાવ્યાં, અને શલોમોથી કોઈ વાત છુપી ન રહી જે તેણે તેણીને ન જણાવી.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "અને જણાવ્યું"
+    },
+    {
+      "surface": "לה",
+      "gloss": "તેણીને"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "શલોમોએ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "બધાં વચનો"
+    },
+    {
+      "surface": "כל",
+      "gloss": "બધાં"
+    },
+    {
+      "surface": "דבריה",
+      "gloss": "તેનાં વચનો"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "અને નહીં"
+    },
+    {
+      "surface": "נעלם",
+      "gloss": "છુપી રહી"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "કોઈ વાત"
+    },
+    {
+      "surface": "משלמה",
+      "gloss": "શલોમોથી"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જે"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "જણાવી"
+    },
+    {
+      "surface": "לה",
+      "gloss": "તેણીને"
+    }
+  ],
+  "timestamp": "2026-08-21T18:20:24.873010837Z",
+  "model": "glm-5.3"
+}

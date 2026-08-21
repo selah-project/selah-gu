@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "zechariah 4:13",
+  "book": "zechariah",
+  "lang": "gu",
+  "chapter": 4,
+  "translation": "અને તેણે મને કહ્યું, કે શું તું ખબર નથી કે આ શું છે? તો મેં કહ્યું, ના, મારા અદોનાય.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "અને તેણે કહ્યું"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "મને"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "કે"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "શું નથી"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "તું ખબર"
+    },
+    {
+      "surface": "מה",
+      "gloss": "શું"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "આ"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "તો મેં કહ્યું"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ના"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "મારા અદોનાય"
+    }
+  ],
+  "timestamp": "2026-08-21T16:03:28.472572946Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "numbers 32:34",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 32,
+  "translation": "અને ગાદનાં પુત્રોએ ⟨את⟩ દીબોન અને ⟨את⟩ અતારોત અને ⟨את⟩ અરોએર બાંધ્યાં.",
+  "tokens": [
+    {
+      "surface": "ויבנו",
+      "gloss": "અને બાંધ્યાં"
+    },
+    {
+      "surface": "בני",
+      "gloss": "પુત્રોએ"
+    },
+    {
+      "surface": "גד",
+      "gloss": "ગાદનાં"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "દીબોન"
+    },
+    {
+      "surface": "דיבן",
+      "gloss": "દીબોન"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "અને ⟨את⟩",
+      "marks": "અતારોત"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "અતારોત"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "અને ⟨את⟩",
+      "marks": "અરોએર"
+    },
+    {
+      "surface": "ערער",
+      "gloss": "અરોએર"
+    }
+  ],
+  "timestamp": "2026-08-21T12:08:50.041879939Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 13:11",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 13,
+  "translation": "યોસેફના કુળ માટે — મનશ્શેહના કુળ માટે — ગદ્દી, સૂસીનો પુત્ર.",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "કુળ માટે"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "યોસેફ"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "કુળ માટે"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "મનશ્શેહ"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "ગદ્દી"
+    },
+    {
+      "surface": "בן",
+      "gloss": "પુત્ર"
+    },
+    {
+      "surface": "סוסי",
+      "gloss": "સૂસી"
+    }
+  ],
+  "timestamp": "2026-08-21T11:55:04.925743393Z",
+  "model": "glm-5.3"
+}

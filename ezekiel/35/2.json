@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 35:2",
+  "book": "ezekiel",
+  "lang": "gu",
+  "chapter": 35,
+  "translation": "માનવપુત્ર, તારું મુખ સેઇર (શેઇર) પર્વત સામે દોર અને તેની વિરુદ્ધ ભવિષ્યવાણી કર.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "પુત્ર"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "માનવ"
+    },
+    {
+      "surface": "שים",
+      "gloss": "દોર"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "તારું મુખ"
+    },
+    {
+      "surface": "על",
+      "gloss": "સામે"
+    },
+    {
+      "surface": "הר",
+      "gloss": "પર્વત"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "સેઇર"
+    },
+    {
+      "surface": "והנבא",
+      "gloss": "અને ભવિષ્યવાણી કર"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "તેની વિરુદ્ધ"
+    }
+  ],
+  "timestamp": "2026-08-21T15:37:12.802967187Z",
+  "model": "glm-5.3"
+}

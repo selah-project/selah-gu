@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "joshua 12:19",
+  "book": "joshua",
+  "lang": "gu",
+  "chapter": 12,
+  "translation": "માદોનનો રાજા એક; ખાત્સોરનો રાજા એક;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "રાજા"
+    },
+    {
+      "surface": "מדון",
+      "gloss": "માદોનનો"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "એક"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "રાજા"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "ખાત્સોરનો"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "એક"
+    }
+  ],
+  "timestamp": "2026-08-21T12:38:12.501344529Z",
+  "model": "glm-5.3"
+}

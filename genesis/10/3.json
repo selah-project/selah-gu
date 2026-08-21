@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 10:3",
+  "book": "genesis",
+  "lang": "gu",
+  "chapter": 10,
+  "translation": "અને ગોમેરના પુત્રો: અશ્કેનાઝ, રીફત અને તોગર્માહ.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "અને પુત્રો"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "ગોમેરના"
+    },
+    {
+      "surface": "אשכנז",
+      "gloss": "અશ્કેનાઝ"
+    },
+    {
+      "surface": "וריפת",
+      "gloss": "અને રીફત"
+    },
+    {
+      "surface": "ותגרמה",
+      "gloss": "અને તોગર્માહ"
+    }
+  ],
+  "timestamp": "2026-08-21T10:39:24.894922568Z",
+  "model": "glm-5.3"
+}

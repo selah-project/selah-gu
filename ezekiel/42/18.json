@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezekiel 42:18",
+  "book": "ezekiel",
+  "lang": "gu",
+  "chapter": 42,
+  "translation": "દક્ષિણ દિશા ⟨את⟩ ⟨તેણે⟩ માપી — પાંચસો કાઠિયા, માપના કાઠિયાથી.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "દક્ષિણ દિશા"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "દિશા"
+    },
+    {
+      "surface": "הדרום",
+      "gloss": "દક્ષિણ"
+    },
+    {
+      "surface": "מדד",
+      "gloss": "માપી"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "પાંચ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "સો"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "કાઠિયા"
+    },
+    {
+      "surface": "בקנה",
+      "gloss": "કાઠિયાથી"
+    },
+    {
+      "surface": "המדה",
+      "gloss": "માપના"
+    }
+  ],
+  "timestamp": "2026-08-21T15:41:05.130175720Z",
+  "model": "glm-5.3"
+}

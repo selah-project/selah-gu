@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 1:1",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 1,
+  "translation": "આદમ, શેત, એનોશ;",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "આદમ"
+    },
+    {
+      "surface": "שת",
+      "gloss": "શેત"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "એનોશ"
+    }
+  ],
+  "timestamp": "2026-08-21T17:59:07.991409230Z",
+  "model": "glm-5.3"
+}

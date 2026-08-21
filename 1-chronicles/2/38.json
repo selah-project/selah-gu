@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 2:38",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 2,
+  "translation": "અને ઓવેદે ⟨את⟩ યહૂને જન્મ આપ્યો, અને યહૂએ ⟨את⟩ અઝર્યાને જન્મ આપ્યો.",
+  "tokens": [
+    {
+      "surface": "ועובד",
+      "gloss": "અને ઓવેદ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "જન્મ આપ્યો"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "યહૂ"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "યહૂ"
+    },
+    {
+      "surface": "ויהוא",
+      "gloss": "અને યહૂ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "જન્મ આપ્યો"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "અઝર્યા"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "અઝર્યા"
+    }
+  ],
+  "timestamp": "2026-08-21T17:59:24.624717257Z",
+  "model": "glm-5.3"
+}

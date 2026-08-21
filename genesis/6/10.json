@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 6:10",
+  "book": "genesis",
+  "lang": "gu",
+  "chapter": 6,
+  "translation": "અને નોઆહે ત્રણ પુત્રોને જન્મ આપ્યો: ⟨את⟩ શેમ, ⟨את⟩ હામ અને ⟨את⟩ યાફેત.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "અને જન્મ આપ્યો"
+    },
+    {
+      "surface": "נח",
+      "gloss": "નોઆહે"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "ત્રણ"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "પુત્રોને"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "શેમ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "શેમ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "હામ"
+    },
+    {
+      "surface": "חם",
+      "gloss": "હામ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "અને ⟨את⟩",
+      "marks": "યાફેત"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "યાફેત"
+    }
+  ],
+  "timestamp": "2026-08-21T10:40:23.834085335Z",
+  "model": "glm-5.3"
+}

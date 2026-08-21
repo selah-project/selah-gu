@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 23:10",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 23,
+  "translation": "પ્રાચીન સીમા ખસેડતો નહીં, અને અનાથોનાં ખેતરોમાં પ્રવેશતો નહીં.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "תסג",
+      "gloss": "ખસેડતો"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "સીમા"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "પ્રાચીન"
+    },
+    {
+      "surface": "ובשדי",
+      "gloss": "અને ખેતરોમાં"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "અનાથોનાં"
+    },
+    {
+      "surface": "אל",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "પ્રવેશતો"
+    }
+  ],
+  "timestamp": "2026-08-21T17:00:39.047300053Z",
+  "model": "glm-5.3"
+}

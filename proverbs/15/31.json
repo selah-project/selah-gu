@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "proverbs 15:31",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 15,
+  "translation": "જીવનના સોંધા સાંભળતું કાન જ્ઞાનીઓની વચ્ચે રહે છે.",
+  "tokens": [
+    {
+      "surface": "אזן",
+      "gloss": "કાન"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "સાંભળતું"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "સોંધા"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "જીવનના"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "વચ્ચે"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "જ્ઞાનીઓની"
+    },
+    {
+      "surface": "תלין",
+      "gloss": "રહે છે"
+    }
+  ],
+  "timestamp": "2026-08-21T16:56:53.184885260Z",
+  "model": "glm-5.3"
+}

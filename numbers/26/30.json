@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 26:30",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 26,
+  "translation": "આ ⟨છે⟩ ગિલઆદનાં પુત્રો: ઇએઝેરને ઇએઝેરી કુળ, ખેલેકને ખેલેકી કુળ.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "આ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "ગિલઆદનાં"
+    },
+    {
+      "surface": "איעזר",
+      "gloss": "ઇએઝેરને"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "કુળ"
+    },
+    {
+      "surface": "האיעזרי",
+      "gloss": "ઇએઝેરી"
+    },
+    {
+      "surface": "לחלק",
+      "gloss": "ખેલેકને"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "કુળ"
+    },
+    {
+      "surface": "החלקי",
+      "gloss": "ખેલેકી"
+    }
+  ],
+  "timestamp": "2026-08-21T12:05:54.750175064Z",
+  "model": "glm-5.3"
+}

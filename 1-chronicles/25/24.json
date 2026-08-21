@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 25:24",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 25,
+  "translation": "સત્તરમાં યોશબેકાશાહ, ⟨તેનાં⟩ પુત્રો અને ⟨તેનાં⟩ ભાઈઓ — બાર જણ.",
+  "tokens": [
+    {
+      "surface": "לשבעה",
+      "gloss": "સત્તરમાં"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "સત્તરમાં"
+    },
+    {
+      "surface": "לישבקשה",
+      "gloss": "યોશબેકાશાહ"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "અને ભાઈઓ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "બાર"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "બાર"
+    }
+  ],
+  "timestamp": "2026-08-21T18:11:02.231065969Z",
+  "model": "glm-5.3"
+}

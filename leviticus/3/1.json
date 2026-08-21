@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 3:1",
+  "book": "leviticus",
+  "lang": "gu",
+  "chapter": 3,
+  "translation": "અને જો તેનો કરબાન શાંતિ-વધ હોય, જો તે ઢોરમાંથી અર્પણ કરે — નર હોય કે માદા — તો નિષ્કળંક તે યાહવેની સમક્ષ અર્પણ કરશે.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "અને જો"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "વધ"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "શાંતિ-"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "તેનો કરબાન"
+    },
+    {
+      "surface": "אם",
+      "gloss": "જો"
+    },
+    {
+      "surface": "מן",
+      "gloss": "માંથી"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "ઢોર"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "તે"
+    },
+    {
+      "surface": "מקריב",
+      "gloss": "અર્પણ કરે"
+    },
+    {
+      "surface": "אם",
+      "gloss": "કે"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "નર"
+    },
+    {
+      "surface": "אם",
+      "gloss": "કે"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "માદા"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "નિષ્કળંક"
+    },
+    {
+      "surface": "יקריבנו",
+      "gloss": "અર્પણ કરશે"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "સમક્ષ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    }
+  ],
+  "timestamp": "2026-08-21T11:30:41.432296272Z",
+  "model": "glm-5.3"
+}

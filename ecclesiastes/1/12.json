@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 1:12",
+  "book": "ecclesiastes",
+  "lang": "gu",
+  "chapter": 1,
+  "translation": "હું કોહેલેત યરૂશાલાયિમ (યરૂશાલેમ) માં ઇસ્રાએલ પર રાજા હતો.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "હું"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "કોહેલેત"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "હતો"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "રાજા"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ઇસ્રાએલ"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "યરૂશાલાયિમમાં"
+    }
+  ],
+  "timestamp": "2026-08-21T17:28:33.940568631Z",
+  "model": "glm-5.3"
+}

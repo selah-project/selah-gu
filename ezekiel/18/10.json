@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 18:10",
+  "book": "ezekiel",
+  "lang": "gu",
+  "chapter": 18,
+  "translation": "અને તે પુત્ર જન્માવે — હિંસક, લોહી રેડનાર — અને આ બધામાંથી એક કરનાર ભાઈ સાથે કરે.",
+  "tokens": [
+    {
+      "surface": "והוליד",
+      "gloss": "અને તે જન્માવે"
+    },
+    {
+      "surface": "בן",
+      "gloss": "પુત્ર"
+    },
+    {
+      "surface": "פריץ",
+      "gloss": "હિંસક"
+    },
+    {
+      "surface": "שפך",
+      "gloss": "રેડનાર"
+    },
+    {
+      "surface": "דם",
+      "gloss": "લોહી"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "અને કરે"
+    },
+    {
+      "surface": "אח",
+      "gloss": "ભાઈ"
+    },
+    {
+      "surface": "מאחד",
+      "gloss": "એક"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "આ બધામાંથી"
+    }
+  ],
+  "timestamp": "2026-08-21T18:51:35.955508962Z",
+  "model": "glm-5.3"
+}

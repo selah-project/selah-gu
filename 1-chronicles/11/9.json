@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 11:9",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 11,
+  "translation": "અને દાવિદ આગળ વધતો અને મોટો થતો ગયો, કારણ કે સૈન્યોનો યાહવે તેની સાથે હતો.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "અને ગયો"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "દાવિદ"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "આગળ વધતો"
+    },
+    {
+      "surface": "וגדול",
+      "gloss": "અને મોટો થતો"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "સૈન્યોનો"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "તેની સાથે"
+    }
+  ],
+  "timestamp": "2026-08-21T18:05:02.015423406Z",
+  "model": "glm-5.3"
+}

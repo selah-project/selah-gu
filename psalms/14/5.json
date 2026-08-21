@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 14:5",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 14,
+  "translation": "ત્યાં તેઓ ભય થી ભયભીત થયા, કેમ કે એલોહીમ ન્યાયીઓ ની પેઢીમાં ⟨છે⟩.",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "ત્યાં"
+    },
+    {
+      "surface": "פחדו",
+      "gloss": "ભયભીત થયા"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "ભય"
+    },
+    {
+      "surface": "כי",
+      "gloss": "કેમ કે"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "એલોહીમ"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "પેઢીમાં"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ન્યાયીઓ"
+    }
+  ],
+  "timestamp": "2026-08-21T16:12:32.158938583Z",
+  "model": "glm-5.3"
+}

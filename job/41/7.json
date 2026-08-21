@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 41:7",
+  "book": "job",
+  "lang": "gu",
+  "chapter": 41,
+  "translation": "તેના કવચ-પાટા તેનો ગર્વ છે, સાંકડી એક છાપ તરીકે બંધ રહે છે.",
+  "tokens": [
+    {
+      "surface": "גאוה",
+      "gloss": "ગર્વ"
+    },
+    {
+      "surface": "אפיקי",
+      "gloss": "કવચ-પાટા"
+    },
+    {
+      "surface": "מגנים",
+      "gloss": "ઢાલો"
+    },
+    {
+      "surface": "סגור",
+      "gloss": "બંધ રહે છે"
+    },
+    {
+      "surface": "חותם",
+      "gloss": "છાપ"
+    },
+    {
+      "surface": "צר",
+      "gloss": "સાંડી"
+    }
+  ],
+  "timestamp": "2026-08-21T17:20:00.265898127Z",
+  "model": "glm-5.3"
+}

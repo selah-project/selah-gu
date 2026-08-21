@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 9:15",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 9,
+  "translation": "અને બકબક્કર, ખેરેશ અને ગલલ, અને મતન્યા — મીખાનો પુત્ર, ઝિખરીનો પુત્ર, આસાફનો પુત્ર.",
+  "tokens": [
+    {
+      "surface": "ובקבקר",
+      "gloss": "અને બકબક્કર"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "ખેરેશ"
+    },
+    {
+      "surface": "וגלל",
+      "gloss": "અને ગલલ"
+    },
+    {
+      "surface": "ומתניה",
+      "gloss": "અને મતન્યા"
+    },
+    {
+      "surface": "בן",
+      "gloss": "પુત્ર"
+    },
+    {
+      "surface": "מיכא",
+      "gloss": "મીખા"
+    },
+    {
+      "surface": "בן",
+      "gloss": "પુત્ર"
+    },
+    {
+      "surface": "זכרי",
+      "gloss": "ઝિખરી"
+    },
+    {
+      "surface": "בן",
+      "gloss": "પુત્ર"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "આસાફ"
+    }
+  ],
+  "timestamp": "2026-08-21T18:05:05.204433063Z",
+  "model": "glm-5.3"
+}

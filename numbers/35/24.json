@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 35:24",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 35,
+  "translation": "તો સભા આ નિયમો પ્રમાણે મારનાર અને લોહીના ગોએલ વચ્ચે ન્યાય કરશે.",
+  "tokens": [
+    {
+      "surface": "ושפטו",
+      "gloss": "તો ન્યાય કરશે"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "સભા"
+    },
+    {
+      "surface": "בין",
+      "gloss": "વચ્ચે"
+    },
+    {
+      "surface": "המכה",
+      "gloss": "મારનાર"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "અને"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "ગોએલ"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "લોહીના"
+    },
+    {
+      "surface": "על",
+      "gloss": "પ્રમાણે"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "નિયમો"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "આ"
+    }
+  ],
+  "timestamp": "2026-08-21T12:10:36.874735987Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "nehemiah 12:14",
+  "book": "nehemiah",
+  "lang": "gu",
+  "chapter": 12,
+  "translation": "મલ્લૂખીના માટે યોનાથાન; શબન્યાહના માટે યોસેફ.",
+  "tokens": [
+    {
+      "surface": "למלוכי",
+      "gloss": "મલ્લૂખીના માટે"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "યોનાથાન"
+    },
+    {
+      "surface": "לשבניה",
+      "gloss": "શબન્યાહના માટે"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "યોસેફ"
+    }
+  ],
+  "timestamp": "2026-08-21T17:56:54.076202221Z",
+  "model": "glm-5.3"
+}

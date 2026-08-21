@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 14:13",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 14,
+  "translation": "પણ હસવામાં હૃદયને દુઃખ થાય છે, અને આનંદનો અંત શોક છે.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "પણ"
+    },
+    {
+      "surface": "בשחוק",
+      "gloss": "હસવામાં"
+    },
+    {
+      "surface": "יכאב",
+      "gloss": "દુઃખ થાય છે"
+    },
+    {
+      "surface": "לב",
+      "gloss": "હૃદય"
+    },
+    {
+      "surface": "ואחריתה",
+      "gloss": "અને તેનો અંત"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "આનંદ"
+    },
+    {
+      "surface": "תוגה",
+      "gloss": "શોક"
+    }
+  ],
+  "timestamp": "2026-08-21T16:56:27.959617780Z",
+  "model": "glm-5.3"
+}

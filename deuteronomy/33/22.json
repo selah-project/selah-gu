@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 33:22",
+  "book": "deuteronomy",
+  "lang": "gu",
+  "chapter": 33,
+  "translation": "અને દાન વિષે તેણે કહ્યું: દાન સિંહનું બચ્ચું છે, તે બાશાનમાંથી કૂદશે.",
+  "tokens": [
+    {
+      "surface": "ולדן",
+      "gloss": "અને દાન વિષે"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "તેણે કહ્યું"
+    },
+    {
+      "surface": "דן",
+      "gloss": "દાન"
+    },
+    {
+      "surface": "גור",
+      "gloss": "બચ્ચું"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "સિંહનું"
+    },
+    {
+      "surface": "יזנק",
+      "gloss": "તે કૂદશે"
+    },
+    {
+      "surface": "מן",
+      "gloss": "માંથી"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "બાશાન"
+    }
+  ],
+  "timestamp": "2026-08-21T12:29:53.856604278Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 1:9",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 1,
+  "translation": "કારણ કે તે તારા મસ્તક માટે કૃપાનો હાર ⟨છે⟩, અને તારા ગળા માટે કંઠહાર.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "કારણ કે"
+    },
+    {
+      "surface": "לוית",
+      "gloss": "હાર"
+    },
+    {
+      "surface": "חן",
+      "gloss": "કૃપાનો"
+    },
+    {
+      "surface": "הם",
+      "gloss": "તે"
+    },
+    {
+      "surface": "לראשך",
+      "gloss": "તારા મસ્તક માટે"
+    },
+    {
+      "surface": "וענקים",
+      "gloss": "અને કંઠહાર"
+    },
+    {
+      "surface": "לגרגרתיך",
+      "gloss": "તારા ગળા માટે"
+    }
+  ],
+  "timestamp": "2026-08-21T16:50:42.725936947Z",
+  "model": "glm-5.3"
+}

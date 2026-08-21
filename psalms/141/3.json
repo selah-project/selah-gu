@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 141:3",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 141,
+  "translation": "યાહવે, મારા મુખ પર પહેરો મૂક; મારા હોઠના દરવાજા પર પહેરો રાખ.",
+  "tokens": [
+    {
+      "surface": "שיתה",
+      "gloss": "મૂક"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "שמרה",
+      "gloss": "પહેરો"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "મારા મુખ પર"
+    },
+    {
+      "surface": "נצרה",
+      "gloss": "પહેરો રાખ"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "דל",
+      "gloss": "દરવાજા"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "મારા હોઠના"
+    }
+  ],
+  "timestamp": "2026-08-21T16:48:54.069297359Z",
+  "model": "glm-5.3"
+}

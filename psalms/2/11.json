@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 2:11",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 2,
+  "translation": "યાહવેની ⟨את⟩ ભક્તિ ભયથી કરો, અને થરથરાટ સાથે આનંદ કરો.",
+  "tokens": [
+    {
+      "surface": "עבדו",
+      "gloss": "ભક્તિ કરો"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "યાહવે"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "ביראה",
+      "gloss": "ભયથી"
+    },
+    {
+      "surface": "וגילו",
+      "gloss": "અને આનંદ કરો"
+    },
+    {
+      "surface": "ברעדה",
+      "gloss": "થરથરાટ સાથે"
+    }
+  ],
+  "timestamp": "2026-08-21T16:09:31.367736723Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 6:6",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 6,
+  "translation": "યોઆહ તેનો પુત્ર, ઇદ્દો તેનો પુત્ર, ઝેરખ તેનો પુત્ર, યિઆતેરાય તેનો પુત્ર.",
+  "tokens": [
+    {
+      "surface": "יואח",
+      "gloss": "યોઆહ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "તેનો પુત્ર"
+    },
+    {
+      "surface": "עדו",
+      "gloss": "ઇદ્દો"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "તેનો પુત્ર"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "ઝેરખ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "તેનો પુત્ર"
+    },
+    {
+      "surface": "יאתרי",
+      "gloss": "યિઆતેરાય"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "તેનો પુત્ર"
+    }
+  ],
+  "timestamp": "2026-08-21T18:01:36.722315136Z",
+  "model": "glm-5.3"
+}

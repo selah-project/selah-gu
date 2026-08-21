@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-chronicles 8:34",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 8,
+  "translation": "અને યહોનાતાનનો પુત્ર મરીવ-બાલ ⟨હતો⟩, અને મરીવ-બાલે ⟨את⟩ મીખાને જન્મ આપ્યો.",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "અને પુત્ર"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "યહોનાતાન"
+    },
+    {
+      "surface": "מריב",
+      "gloss": "મરીવ-બાલ"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "(બાલ)"
+    },
+    {
+      "surface": "ומריב",
+      "gloss": "અને મરીવ-બાલ"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "(બાલ)"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "જન્મ આપ્યો"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "મીખા"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "મીખા"
+    }
+  ],
+  "timestamp": "2026-08-21T18:05:50.239073042Z",
+  "model": "glm-5.3"
+}

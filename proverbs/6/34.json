@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "proverbs 6:34",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 6,
+  "translation": "કેમ કે જલાની ⟨એ⟩ પુરુષનો ક્રોધ છે, અને તે વેરના દિવસે દયા નહીં કરે.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "કેમ કે"
+    },
+    {
+      "surface": "קנאה",
+      "gloss": "જલાની"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "ક્રોધ"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "પુરુષ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "અને નહીં"
+    },
+    {
+      "surface": "יחמול",
+      "gloss": "દયા કરે"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "દિવસે"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "વેર"
+    }
+  ],
+  "timestamp": "2026-08-21T16:53:16.764413726Z",
+  "model": "glm-5.3"
+}

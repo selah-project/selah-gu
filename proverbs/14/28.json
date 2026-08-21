@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 14:28",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 14,
+  "translation": "પ્રજાની વિપુલતામાં રાજાનો તેજ છે, અને પ્રજાના અભાવમાં અમલદારનું પતન.",
+  "tokens": [
+    {
+      "surface": "ברב",
+      "gloss": "વિપુલતામાં"
+    },
+    {
+      "surface": "עם",
+      "gloss": "પ્રજાની"
+    },
+    {
+      "surface": "הדרת",
+      "gloss": "તેજ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "રાજાનો"
+    },
+    {
+      "surface": "ובאפס",
+      "gloss": "અને…અભાવમાં"
+    },
+    {
+      "surface": "לאם",
+      "gloss": "પ્રજાના"
+    },
+    {
+      "surface": "מחתת",
+      "gloss": "પતન"
+    },
+    {
+      "surface": "רזון",
+      "gloss": "અમલદારનું"
+    }
+  ],
+  "timestamp": "2026-08-21T16:56:53.210142574Z",
+  "model": "glm-5.3"
+}

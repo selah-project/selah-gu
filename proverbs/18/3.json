@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 18:3",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 18,
+  "translation": "દુષ્ટના આવવા સાથે અપમાન પણ આવે છે, અને કલંક સાથે નિંદા.",
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "આવવા સાથે"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "દુષ્ટના"
+    },
+    {
+      "surface": "בא",
+      "gloss": "આવે છે"
+    },
+    {
+      "surface": "גם",
+      "gloss": "પણ"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "અપમાન"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "અને…સાથે"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "કલંક"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "નિંદા"
+    }
+  ],
+  "timestamp": "2026-08-21T16:58:27.778146742Z",
+  "model": "glm-5.3"
+}

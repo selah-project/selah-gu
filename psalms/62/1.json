@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 62:1",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 62,
+  "translation": "સંગીત-સંચાલક માટે, યદૂતૂન પ્રમાણે; દાવીદનો ભજન.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "સંગીત-સંચાલક માટે"
+    },
+    {
+      "surface": "על",
+      "gloss": "પ્રમાણે"
+    },
+    {
+      "surface": "ידותון",
+      "gloss": "યદૂતૂન"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "ભજન"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "દાવીદનો"
+    }
+  ],
+  "timestamp": "2026-08-21T16:27:18.017456144Z",
+  "model": "glm-5.3"
+}

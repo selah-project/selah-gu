@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 12:30",
+  "book": "1-kings",
+  "lang": "gu",
+  "chapter": 12,
+  "translation": "અને આ વાત પાપ બની ⟨became⟩, અને ⟨the⟩ પ્રજા ⟨the⟩ એકની આગળ જતી રહી, દાન સુધી.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "અને…બની"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "આ વાત"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "આ"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "પાપ"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "અને…જતી રહી"
+    },
+    {
+      "surface": "העם",
+      "gloss": "પ્રજા"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "આગળ"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "એકની"
+    },
+    {
+      "surface": "עד",
+      "gloss": "સુધી"
+    },
+    {
+      "surface": "דן",
+      "gloss": "દાન"
+    }
+  ],
+  "timestamp": "2026-08-21T18:43:57.569705603Z",
+  "model": "glm-5.3"
+}

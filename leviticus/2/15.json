@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 2:15",
+  "book": "leviticus",
+  "lang": "gu",
+  "chapter": 2,
+  "translation": "અને તું તેના પર તેલ રેડીશ, અને તેના પર લોબાન મૂકીશ — તે ખાદ્ય-અર્પણ ⟨છે⟩.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "અને તું રેડીશ"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "તેના પર"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "તેલ"
+    },
+    {
+      "surface": "ושמת",
+      "gloss": "અને મૂકીશ"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "તેના પર"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "લોબાન"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "ખાદ્ય-અર્પણ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "તે ⟨છે⟩"
+    }
+  ],
+  "timestamp": "2026-08-21T11:30:26.054202878Z",
+  "model": "glm-5.3"
+}

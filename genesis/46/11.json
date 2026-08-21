@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 46:11",
+  "book": "genesis",
+  "lang": "gu",
+  "chapter": 46,
+  "translation": "અને લેવીના પુત્રો: ગેરશોન, કહાથ અને મરારી.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "અને …ના પુત્રો"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "લેવી"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "ગેરશોન"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "કહાથ"
+    },
+    {
+      "surface": "ומררי",
+      "gloss": "અને મરારી"
+    }
+  ],
+  "timestamp": "2026-08-21T11:02:19.303212811Z",
+  "model": "glm-5.3"
+}

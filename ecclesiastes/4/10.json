@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 4:10",
+  "book": "ecclesiastes",
+  "lang": "gu",
+  "chapter": 4,
+  "translation": "કે જો એક પડે, તો બીજો તેના ⟨את⟩ સાથીને ઊભો કરશે; પણ એકલો હોય તો — પડે, અને તેને ઊભો કરનાર બીજો કોઈ ન હોય.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "કે"
+    },
+    {
+      "surface": "אם",
+      "gloss": "જો"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "પડે"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "એક"
+    },
+    {
+      "surface": "יקים",
+      "gloss": "ઊભો કરશે"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "સાથીને"
+    },
+    {
+      "surface": "חברו",
+      "gloss": "તેના સાથીને"
+    },
+    {
+      "surface": "ואילו",
+      "gloss": "પણ…તો"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "એકલો"
+    },
+    {
+      "surface": "שיפול",
+      "gloss": "પડે"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "અને…ન હોય"
+    },
+    {
+      "surface": "שני",
+      "gloss": "બીજો"
+    },
+    {
+      "surface": "להקימו",
+      "gloss": "તેને ઊભો કરનાર"
+    }
+  ],
+  "timestamp": "2026-08-21T17:28:42.273987815Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "lamentations 3:35",
+  "book": "lamentations",
+  "lang": "gu",
+  "chapter": 3,
+  "translation": "એલ્યોનના મુખ સામે માણસનો ન્યાય વાળી નાખવા.",
+  "tokens": [
+    {
+      "surface": "להטות",
+      "gloss": "વાળી નાખવા"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ન્યાય"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "માણસનો"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "સામે"
+    },
+    {
+      "surface": "פני",
+      "gloss": "મુખ"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "એલ્યોન (સર્વોચ્ચ)"
+    }
+  ],
+  "timestamp": "2026-08-21T17:26:10.428873607Z",
+  "model": "glm-5.3"
+}

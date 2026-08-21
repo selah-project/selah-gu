@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 7:7",
+  "book": "isaiah",
+  "lang": "gu",
+  "chapter": 7,
+  "translation": "અદોનાય યાહવે એમ કહે છે: તે ઊભું નહીં રહે, અને તે થશે નહીં.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "એમ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "કહે છે"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "અદોનાય"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "ઊભું રહે"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "અને નહીં"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "થશે"
+    }
+  ],
+  "timestamp": "2026-08-21T14:12:54.684135705Z",
+  "model": "glm-5.3"
+}

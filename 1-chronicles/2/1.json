@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 2:1",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 2,
+  "translation": "આ ઇસ્રાએલના પુત્રો ⟨છે⟩: રૂબેન, શિમોન, લેવી અને યહૂદા, યિસ્સાખર અને ઝવૂલૂન.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "આ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ઇસ્રાએલના"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "રૂબેન"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "શિમોન"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "લેવી"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "અને યહૂદા"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "યિસ્સાખર"
+    },
+    {
+      "surface": "וזבלון",
+      "gloss": "અને ઝવૂલૂન"
+    }
+  ],
+  "timestamp": "2026-08-21T18:00:05.989107555Z",
+  "model": "glm-5.3"
+}

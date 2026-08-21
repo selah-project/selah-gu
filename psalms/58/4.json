@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 58:4",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 58,
+  "translation": "દુષ્ટ લોકો ગર્ભથી જ અન્ય થયેલા છે; તેઓ પેટથી જ ભટક્યા, જૂઠ બોલનારા.",
+  "tokens": [
+    {
+      "surface": "זרו",
+      "gloss": "અન્ય થયેલા છે"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "દુષ્ટ લોકો"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "ગર્ભથી"
+    },
+    {
+      "surface": "תעו",
+      "gloss": "ભટક્યા"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "પેટથી"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "બોલનારા"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "જૂઠ"
+    }
+  ],
+  "timestamp": "2026-08-21T16:25:34.808057566Z",
+  "model": "glm-5.3"
+}

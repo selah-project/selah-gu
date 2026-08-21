@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 10:14",
+  "book": "ecclesiastes",
+  "lang": "gu",
+  "chapter": 10,
+  "translation": "અને મૂર્ખ વચનો વધારે છે — માણસ જાણતો નથી કે શું થશે; અને જે તેની પાછળ થશે, તે તેને જણાવશે કોણ?",
+  "tokens": [
+    {
+      "surface": "והסכל",
+      "gloss": "અને મૂર્ખ"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "વધારે છે"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "વચનો"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નથી"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "જાણતો"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "માણસ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "શું"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "થશે"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "અને જે"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "થશે"
+    },
+    {
+      "surface": "מאחריו",
+      "gloss": "તેની પાછળ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "કોણ"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "જણાવશે"
+    },
+    {
+      "surface": "לו",
+      "gloss": "તેને"
+    }
+  ],
+  "timestamp": "2026-08-21T17:30:18.486020245Z",
+  "model": "glm-5.3"
+}

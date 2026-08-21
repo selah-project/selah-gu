@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "joshua 15:37",
+  "book": "joshua",
+  "lang": "gu",
+  "chapter": 15,
+  "translation": "ત્સેનાન અને હદાશા અને મિગ્દલ-ગાદ,",
+  "tokens": [
+    {
+      "surface": "צנן",
+      "gloss": "ત્સેનાન"
+    },
+    {
+      "surface": "וחדשה",
+      "gloss": "અને હદાશા"
+    },
+    {
+      "surface": "ומגדל",
+      "gloss": "અને મિગ્દલ-"
+    },
+    {
+      "surface": "גד",
+      "gloss": "ગાદ"
+    }
+  ],
+  "timestamp": "2026-08-21T12:40:31.269883788Z",
+  "model": "glm-5.3"
+}

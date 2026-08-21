@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "numbers 34:27",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 34,
+  "translation": "અને આશેરનાં પુત્રોના કુળ માટે નાસી અખીહૂદ, શેલોમીનો પુત્ર.",
+  "tokens": [
+    {
+      "surface": "ולמטה",
+      "gloss": "કુળ માટે"
+    },
+    {
+      "surface": "בני",
+      "gloss": "પુત્રોનાં"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "આશેર"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "નાસી"
+    },
+    {
+      "surface": "אחיהוד",
+      "gloss": "અખીહૂદ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "પુત્ર"
+    },
+    {
+      "surface": "שלמי",
+      "gloss": "શેલોમી"
+    }
+  ],
+  "timestamp": "2026-08-21T12:09:55.590185455Z",
+  "model": "glm-5.3"
+}

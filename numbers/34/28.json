@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "numbers 34:28",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 34,
+  "translation": "અને નફ્તાલીનાં પુત્રોના કુળ માટે નાસી પેદાહેલ, અમ્મીહૂદનો પુત્ર.",
+  "tokens": [
+    {
+      "surface": "ולמטה",
+      "gloss": "કુળ માટે"
+    },
+    {
+      "surface": "בני",
+      "gloss": "પુત્રોનાં"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "નફ્તાલી"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "નાસી"
+    },
+    {
+      "surface": "פדהאל",
+      "gloss": "પેદાહેલ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "પુત્ર"
+    },
+    {
+      "surface": "עמיהוד",
+      "gloss": "અમ્મીહૂદ"
+    }
+  ],
+  "timestamp": "2026-08-21T12:09:55.590297266Z",
+  "model": "glm-5.3"
+}

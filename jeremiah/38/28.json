@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "jeremiah 38:28",
+  "book": "jeremiah",
+  "lang": "gu",
+  "chapter": 38,
+  "translation": "અને યિર્મિયા પહેરાના આંગણમાં રહ્યો, જે દિવસે સુધી યરૂશાલાયિમ પકડાયું; અને ⟨it came to pass⟩ જ્યારે યરૂશાલાયિમ પકડાયું —",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "અને રહ્યો"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "યિર્મિયા"
+    },
+    {
+      "surface": "בחצר",
+      "gloss": "આંગણમાં"
+    },
+    {
+      "surface": "המטרה",
+      "gloss": "પહેરાના"
+    },
+    {
+      "surface": "עד",
+      "gloss": "સુધી"
+    },
+    {
+      "surface": "יום",
+      "gloss": "જે દિવસે"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જે"
+    },
+    {
+      "surface": "נלכדה",
+      "gloss": "પકડાયું"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "યરૂશાલાયિમ"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "અને ⟨it came to pass⟩"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "જ્યારે"
+    },
+    {
+      "surface": "נלכדה",
+      "gloss": "પકડાયું"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "યરૂશાલાયિમ"
+    }
+  ],
+  "timestamp": "2026-08-21T15:06:54.236962398Z",
+  "model": "glm-5.3"
+}

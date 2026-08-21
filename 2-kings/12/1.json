@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 12:1",
+  "book": "2-kings",
+  "lang": "gu",
+  "chapter": 12,
+  "translation": "યિહોઆશ તેના રાજ્યારોહણ સમયે સાત વર્ષનો હતો.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "…નો હતો"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "સાત"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "વર્ષનો"
+    },
+    {
+      "surface": "יהואש",
+      "gloss": "યિહોઆશ"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "તેના રાજ્યારોહણ સમયે"
+    }
+  ],
+  "timestamp": "2026-08-21T18:45:59.417262354Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 28:18",
+  "book": "exodus",
+  "lang": "gu",
+  "chapter": 28,
+  "translation": "અને ⟨એ⟩ બીજી હારમાળા — નોફેખ, સપ્પીર અને યાહલોમ.",
+  "tokens": [
+    {
+      "surface": "והטור",
+      "gloss": "અને હારમાળા"
+    },
+    {
+      "surface": "השני",
+      "gloss": "બીજી"
+    },
+    {
+      "surface": "נפך",
+      "gloss": "નોફેખ"
+    },
+    {
+      "surface": "ספיר",
+      "gloss": "સપ્પીર"
+    },
+    {
+      "surface": "ויהלם",
+      "gloss": "અને યાહલોમ"
+    }
+  ],
+  "timestamp": "2026-08-21T11:20:51.793927268Z",
+  "model": "glm-5.3"
+}

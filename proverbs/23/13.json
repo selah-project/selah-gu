@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 23:13",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 23,
+  "translation": "બાળકને શિક્ષાથી વંચિત ન રાખો; કારણ કે તમે તેને લાકડીથી મારો છો, તો પણ તે મરશે નહીં.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "વંચિત રાખો"
+    },
+    {
+      "surface": "מנער",
+      "gloss": "બાળકને"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "શિક્ષાથી"
+    },
+    {
+      "surface": "כי",
+      "gloss": "કારણ કે"
+    },
+    {
+      "surface": "תכנו",
+      "gloss": "તેને મારો છો"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "લાકડીથી"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "મરશે"
+    }
+  ],
+  "timestamp": "2026-08-21T17:00:25.796367759Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 9:41",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 9,
+  "translation": "અને મીખાહના પુત્રો હતા: પીથોન, મેલેખ અને તહરેઆ.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "અને ...ના પુત્રો"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "મીખાહ"
+    },
+    {
+      "surface": "פיתון",
+      "gloss": "પીથોન"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "મેલેખ"
+    },
+    {
+      "surface": "ותחרע",
+      "gloss": "તહરેઆ"
+    }
+  ],
+  "timestamp": "2026-08-21T18:05:28.234721465Z",
+  "model": "glm-5.3"
+}

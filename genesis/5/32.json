@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 5:32",
+  "book": "genesis",
+  "lang": "gu",
+  "chapter": 5,
+  "translation": "અને નોહા પાંચસો વર્ષનો પુત્ર થયો, અને નોહાએ ⟨את⟩ શેમને, ⟨את⟩ હામને અને ⟨את⟩ યાફેતને જન્મ આપ્યો.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "અને થયો"
+    },
+    {
+      "surface": "נח",
+      "gloss": "નોહા"
+    },
+    {
+      "surface": "בן",
+      "gloss": "પુત્ર"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "પાંચ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "સો"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "વર્ષ"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "અને જન્મ આપ્યો"
+    },
+    {
+      "surface": "נח",
+      "gloss": "નોહાએ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "શેમને"
+    },
+    {
+      "surface": "שם",
+      "gloss": "શેમ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "હામને"
+    },
+    {
+      "surface": "חם",
+      "gloss": "હામ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "યાફેતને"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "યાફેત"
+    }
+  ],
+  "timestamp": "2026-08-21T10:39:05.528682297Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 7:23",
+  "book": "leviticus",
+  "lang": "gu",
+  "chapter": 7,
+  "translation": "“ઇસ્રાએલના પુત્રો સાથે વાત કર, કહેતા: ઢોર, ઘેટા કે બકરાની કોઈપણ ચરબી તમે ખાશો નહીં.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "વાત કર"
+    },
+    {
+      "surface": "אל",
+      "gloss": "સાથે"
+    },
+    {
+      "surface": "בני",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ઇસ્રાએલના"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "કહેતા"
+    },
+    {
+      "surface": "כל",
+      "gloss": "કોઈપણ"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "ચરબી"
+    },
+    {
+      "surface": "שור",
+      "gloss": "ઢોરની"
+    },
+    {
+      "surface": "וכשב",
+      "gloss": "અને ઘેટા"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "અને બકરાની"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "તમે ખાશો"
+    }
+  ],
+  "timestamp": "2026-08-21T11:31:20.335913289Z",
+  "model": "glm-5.3"
+}

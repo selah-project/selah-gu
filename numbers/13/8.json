@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 13:8",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 13,
+  "translation": "એફરાયિમના કુળ માટે — હોશેઆ, નૂનનો પુત્ર.",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "કુળ માટે"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "એફરાયિમના"
+    },
+    {
+      "surface": "הושע",
+      "gloss": "હોશેઆ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "પુત્ર"
+    },
+    {
+      "surface": "נון",
+      "gloss": "નૂનનો"
+    }
+  ],
+  "timestamp": "2026-08-21T11:55:08.564952394Z",
+  "model": "glm-5.3"
+}

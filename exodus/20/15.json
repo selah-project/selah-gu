@@ -1,0 +1,21 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 20:15",
+  "book": "exodus",
+  "lang": "gu",
+  "chapter": 20,
+  "translation": "તું ચોરી નહિ કરે.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "નહિ"
+    },
+    {
+      "surface": "תגנב",
+      "gloss": "ચોરી કરે"
+    }
+  ],
+  "timestamp": "2026-08-21T11:14:15.161053578Z",
+  "model": "glm-5.3"
+}

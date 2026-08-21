@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 7:16",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 7,
+  "translation": "એક બકરો, વાછરડિયો, હતાત માટે.",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "બકરો"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "વાછરડિયો"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "એક"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "હતાત માટે"
+    }
+  ],
+  "timestamp": "2026-08-21T11:50:55.859898194Z",
+  "model": "glm-5.3"
+}

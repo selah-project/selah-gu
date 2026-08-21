@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 27:5",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 27,
+  "translation": "ખુલ્લી ઠપ્પક સારી ⟨છે⟩, છુપાવેલા પ્રેમ કરતાં.",
+  "tokens": [
+    {
+      "surface": "טובה",
+      "gloss": "સારી"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "ઠપ્પક"
+    },
+    {
+      "surface": "מגלה",
+      "gloss": "ખુલ્લી"
+    },
+    {
+      "surface": "מאהבה",
+      "gloss": "પ્રેમ કરતાં"
+    },
+    {
+      "surface": "מסתרת",
+      "gloss": "છુપાવેલા"
+    }
+  ],
+  "timestamp": "2026-08-21T17:02:31.416505038Z",
+  "model": "glm-5.3"
+}

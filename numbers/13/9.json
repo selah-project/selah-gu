@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 13:9",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 13,
+  "translation": "બિન્યામીનના કુળ માટે — પલ્તી, રાફૂનો પુત્ર.",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "કુળ માટે"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "બિન્યામીન"
+    },
+    {
+      "surface": "פלטי",
+      "gloss": "પલ્તી"
+    },
+    {
+      "surface": "בן",
+      "gloss": "પુત્ર"
+    },
+    {
+      "surface": "רפוא",
+      "gloss": "રાફૂ"
+    }
+  ],
+  "timestamp": "2026-08-21T11:55:04.925263044Z",
+  "model": "glm-5.3"
+}

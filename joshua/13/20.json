@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 13:20",
+  "book": "joshua",
+  "lang": "gu",
+  "chapter": 13,
+  "translation": "અને બેથ-પેઓર, અને પીસ્ગાહના ઢાળ, અને બેથ-હયેશીમોત.",
+  "tokens": [
+    {
+      "surface": "ובית",
+      "gloss": "અને બેથ"
+    },
+    {
+      "surface": "פעור",
+      "gloss": "પેઓર"
+    },
+    {
+      "surface": "ואשדות",
+      "gloss": "અને ઢાળ"
+    },
+    {
+      "surface": "הפסגה",
+      "gloss": "પીસ્ગાહના"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "અને બેથ"
+    },
+    {
+      "surface": "הישמות",
+      "gloss": "હયેશીમોત"
+    }
+  ],
+  "timestamp": "2026-08-21T12:38:29.963154780Z",
+  "model": "glm-5.3"
+}

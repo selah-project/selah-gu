@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 18:11",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 18,
+  "translation": "અને તે કરૂબ પર સવાર થયો અને ઉડ્યો, અને વાયુનાં પાંખો પર તે તર્યો.",
+  "tokens": [
+    {
+      "surface": "וירכב",
+      "gloss": "અને તે સવાર થયો"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "כרוב",
+      "gloss": "કરૂબ"
+    },
+    {
+      "surface": "ויעף",
+      "gloss": "અને ઉડ્યો"
+    },
+    {
+      "surface": "וידא",
+      "gloss": "અને તર્યો"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "પાંખો"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "વાયુનાં"
+    }
+  ],
+  "timestamp": "2026-08-21T16:14:27.729238358Z",
+  "model": "glm-5.3"
+}

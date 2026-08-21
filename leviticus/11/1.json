@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 11:1",
+  "book": "leviticus",
+  "lang": "gu",
+  "chapter": 11,
+  "translation": "અને યાહવે મોશેને અને અહરોનને બોલ્યા, તેમને કહેતા,",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "અને બોલ્યા"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ને"
+    },
+    {
+      "surface": "משה",
+      "gloss": "મોશે"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "અને ને"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "અહરોન"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "કહેતા"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "તેમને"
+    }
+  ],
+  "timestamp": "2026-08-21T11:34:47.295190998Z",
+  "model": "glm-5.3"
+}

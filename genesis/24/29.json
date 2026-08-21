@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "genesis 24:29",
+  "book": "genesis",
+  "lang": "gu",
+  "chapter": 24,
+  "translation": "અને રિબ્કાહનો એક ભાઈ હતો, અને તેનું નામ લાવાન; અને લાવાન બહાર ⟨માણસ⟩ પાસે, ઊર પાસે દોડ્યો.",
+  "tokens": [
+    {
+      "surface": "ולרבקה",
+      "gloss": "અને રિબ્કાહનો"
+    },
+    {
+      "surface": "אח",
+      "gloss": "ભાઈ"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "અને તેનું નામ"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "લાવાન"
+    },
+    {
+      "surface": "וירץ",
+      "gloss": "દોડ્યો"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "લાવાન"
+    },
+    {
+      "surface": "אל",
+      "gloss": "પાસે"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "માણસ"
+    },
+    {
+      "surface": "החוצה",
+      "gloss": "બહાર"
+    },
+    {
+      "surface": "אל",
+      "gloss": "પાસે"
+    },
+    {
+      "surface": "העין",
+      "gloss": "ઊર"
+    }
+  ],
+  "timestamp": "2026-08-21T10:50:14.649899929Z",
+  "model": "glm-5.3"
+}

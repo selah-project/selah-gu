@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 33:3",
+  "book": "ezekiel",
+  "lang": "gu",
+  "chapter": 33,
+  "translation": "અને તે દેશ પર આવતી ⟨את⟩ તલવારને જુએ, અને શિંગડું ફૂંકે, અને ⟨את⟩ પ્રજાને ચેતવણી આપે,",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "અને તે જુએ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "તલવારને"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "તલવાર"
+    },
+    {
+      "surface": "באה",
+      "gloss": "આવતી"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "દેશ"
+    },
+    {
+      "surface": "ותקע",
+      "gloss": "અને ફૂંકે"
+    },
+    {
+      "surface": "בשופר",
+      "gloss": "શિંગડું"
+    },
+    {
+      "surface": "והזהיר",
+      "gloss": "અને ચેતવણી આપે"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "પ્રજાને"
+    },
+    {
+      "surface": "העם",
+      "gloss": "પ્રજા"
+    }
+  ],
+  "timestamp": "2026-08-21T15:34:49.701946551Z",
+  "model": "glm-5.3"
+}

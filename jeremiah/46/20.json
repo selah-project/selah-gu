@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 46:20",
+  "book": "jeremiah",
+  "lang": "gu",
+  "chapter": 46,
+  "translation": "મિત્સરાયિમ અતિસુંદર વાછરડી ⟨છે⟩; ઉત્તરમાંથી વિનાશ આવે છે, આવે છે.",
+  "tokens": [
+    {
+      "surface": "עגלה",
+      "gloss": "વાછરડી"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "સુંદર"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "અતિ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "મિત્સરાયિમ"
+    },
+    {
+      "surface": "קרץ",
+      "gloss": "વિનાશ"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "ઉત્તરમાંથી"
+    },
+    {
+      "surface": "בא",
+      "gloss": "આવે છે"
+    },
+    {
+      "surface": "בא",
+      "gloss": "આવે છે"
+    }
+  ],
+  "timestamp": "2026-08-21T15:09:55.088412511Z",
+  "model": "glm-5.3"
+}

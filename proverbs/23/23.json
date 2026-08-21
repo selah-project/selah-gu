@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 23:23",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 23,
+  "translation": "સત્ય ખરીદ અને વેચતો નહીં; અને જ્ઞાન, અને શિક્ષણ, અને સમજ.",
+  "tokens": [
+    {
+      "surface": "אמת",
+      "gloss": "સત્ય"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "ખરીદ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "અને નહીં"
+    },
+    {
+      "surface": "תמכר",
+      "gloss": "વેચતો"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "જ્ઞાન"
+    },
+    {
+      "surface": "ומוסר",
+      "gloss": "અને શિક્ષણ"
+    },
+    {
+      "surface": "ובינה",
+      "gloss": "અને સમજ"
+    }
+  ],
+  "timestamp": "2026-08-21T17:00:21.111364217Z",
+  "model": "glm-5.3"
+}

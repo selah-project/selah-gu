@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "song-of-songs 2:8",
+  "book": "song-of-songs",
+  "lang": "gu",
+  "chapter": 2,
+  "translation": "મારા પ્રિયતમનો અવાજ! જુઓ, તે આવે છે, પર્વતો પર કૂદતો, ટેકરીઓ પર દોડી ધસતો.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "અવાજ"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "મારા પ્રિયતમનો"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "જુઓ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "તે"
+    },
+    {
+      "surface": "בא",
+      "gloss": "આવે છે"
+    },
+    {
+      "surface": "מדלג",
+      "gloss": "કૂદતો"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "પર્વતો"
+    },
+    {
+      "surface": "מקפץ",
+      "gloss": "દોડી ધસતો"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "הגבעות",
+      "gloss": "ટેકરીઓ"
+    }
+  ],
+  "timestamp": "2026-08-21T17:21:44.329508148Z",
+  "model": "glm-5.3"
+}

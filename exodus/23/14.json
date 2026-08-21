@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 23:14",
+  "book": "exodus",
+  "lang": "gu",
+  "chapter": 23,
+  "translation": "વર્ષમાં ત્રણ વખત તમે મારા માટે તહેવાર ઉજવશો.",
+  "tokens": [
+    {
+      "surface": "שלש",
+      "gloss": "ત્રણ"
+    },
+    {
+      "surface": "רגלים",
+      "gloss": "પગ (= તહેવાર-યાત્રાઓ)"
+    },
+    {
+      "surface": "תחג",
+      "gloss": "તમે તહેવાર ઉજવશો"
+    },
+    {
+      "surface": "לי",
+      "gloss": "મારા માટે"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "વર્ષમાં"
+    }
+  ],
+  "timestamp": "2026-08-21T11:18:14.912651406Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 19:12",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 19,
+  "translation": "રાજાનો ક્રોધ સિંહની દહાડ જેવો છે, અને તેની પ્રસન્નતા ઘાસ પર તડકા જેવી છે.",
+  "tokens": [
+    {
+      "surface": "נהם",
+      "gloss": "દહાડ"
+    },
+    {
+      "surface": "ככפיר",
+      "gloss": "સિંહની જેવો"
+    },
+    {
+      "surface": "זעף",
+      "gloss": "ક્રોધ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "રાજાનો"
+    },
+    {
+      "surface": "וכטל",
+      "gloss": "અને તડકા જેવી"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "ઘાસ"
+    },
+    {
+      "surface": "רצונו",
+      "gloss": "તેની પ્રસન્નતા"
+    }
+  ],
+  "timestamp": "2026-08-21T16:59:04.482581857Z",
+  "model": "glm-5.3"
+}

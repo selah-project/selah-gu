@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 45:20",
+  "book": "genesis",
+  "lang": "gu",
+  "chapter": 45,
+  "translation": "“તથા તમારી આંખ તમારાં સામાન પર દયા ન કરે, કેમ કે મિત્સરાયિમના સમગ્ર દેશની ભલાઈ તમારી ⟨is⟩.”",
+  "tokens": [
+    {
+      "surface": "ועינכם",
+      "gloss": "અને તમારી આંખ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "תחס",
+      "gloss": "દયા કરે"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "כליכם",
+      "gloss": "તમારાં સામાન"
+    },
+    {
+      "surface": "כי",
+      "gloss": "કેમ કે"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ભલાઈ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "સમગ્ર"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "દેશની"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "મિત્સરાયિમના"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "તમારી"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "છે"
+    }
+  ],
+  "timestamp": "2026-08-21T11:03:15.501493993Z",
+  "model": "glm-5.3"
+}

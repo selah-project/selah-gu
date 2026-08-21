@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 37:4",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 37,
+  "translation": "અને યાહવેમાં આનંદ કર, અને તે તને તારા હૃદયની માંગણીઓ આપશે.",
+  "tokens": [
+    {
+      "surface": "והתענג",
+      "gloss": "અને આનંદ કર"
+    },
+    {
+      "surface": "על",
+      "gloss": "…માં"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "અને આપશે"
+    },
+    {
+      "surface": "לך",
+      "gloss": "તને"
+    },
+    {
+      "surface": "משאלת",
+      "gloss": "માંગણીઓ"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "તારા હૃદયની"
+    }
+  ],
+  "timestamp": "2026-08-21T16:19:49.670900421Z",
+  "model": "glm-5.3"
+}

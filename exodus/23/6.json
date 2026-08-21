@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 23:6",
+  "book": "exodus",
+  "lang": "gu",
+  "chapter": 23,
+  "translation": "તારા દરિદ્રનો ન્યાય તેના વાદમાં તું વાળી ન દેતો.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ન"
+    },
+    {
+      "surface": "תטה",
+      "gloss": "તું વાળી દેતો"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ન્યાય"
+    },
+    {
+      "surface": "אבינך",
+      "gloss": "તારા દરિદ્રનો"
+    },
+    {
+      "surface": "בריבו",
+      "gloss": "તેના વાદમાં"
+    }
+  ],
+  "timestamp": "2026-08-21T11:17:16.004509251Z",
+  "model": "glm-5.3"
+}

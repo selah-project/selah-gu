@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 9:16",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 9,
+  "translation": "એમ જ સદા થતું: વાદળ તેને ઢાંકી રાખતું, અને રાત્રે આગનો દેખાવ હોય.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "એમ જ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "થતું"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "સદા"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "વાદળ"
+    },
+    {
+      "surface": "יכסנו",
+      "gloss": "તેને ઢાંકી રાખતું"
+    },
+    {
+      "surface": "ומראה",
+      "gloss": "અને દેખાવ"
+    },
+    {
+      "surface": "אש",
+      "gloss": "આગનો"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "રાત્રે"
+    }
+  ],
+  "timestamp": "2026-08-21T11:54:58.141924770Z",
+  "model": "glm-5.3"
+}

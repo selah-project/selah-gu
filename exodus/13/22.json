@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 13:22",
+  "book": "exodus",
+  "lang": "gu",
+  "chapter": 13,
+  "translation": "વાદળનો સ્તંભ દિવસે અને અગ્નિનો સ્તંભ રાત્રે લોકોની સામેથી દૂર થતો નહીં.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "ימיש",
+      "gloss": "દૂર થતો"
+    },
+    {
+      "surface": "עמוד",
+      "gloss": "સ્તંભ"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "વાદળનો"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "દિવસે"
+    },
+    {
+      "surface": "ועמוד",
+      "gloss": "અને સ્તંભ"
+    },
+    {
+      "surface": "האש",
+      "gloss": "અગ્નિનો"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "રાત્રે"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "સામેથી"
+    },
+    {
+      "surface": "העם",
+      "gloss": "લોકોની"
+    }
+  ],
+  "timestamp": "2026-08-21T11:11:23.255131005Z",
+  "model": "glm-5.3"
+}

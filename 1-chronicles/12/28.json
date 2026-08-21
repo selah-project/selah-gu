@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 12:28",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 12,
+  "translation": "અને યહોયાદા, અહરોનનો નેતા, અને તેની સાથે ત્રણ હજાર અને સાત સો.",
+  "tokens": [
+    {
+      "surface": "ויהוידע",
+      "gloss": "અને યહોયાદા"
+    },
+    {
+      "surface": "הנגיד",
+      "gloss": "નેતા"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "અહરોનનો"
+    },
+    {
+      "surface": "ועמו",
+      "gloss": "અને તેની સાથે"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "ત્રણ"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "હજાર"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "અને સાત"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "સો"
+    }
+  ],
+  "timestamp": "2026-08-21T18:06:47.898755483Z",
+  "model": "glm-5.3"
+}

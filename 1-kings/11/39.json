@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-kings 11:39",
+  "book": "1-kings",
+  "lang": "gu",
+  "chapter": 11,
+  "translation": "અને હું આ કારણસર દાવિદનાં ⟨את⟩ વંશને યાતના આપીશ — પણ સદાં નહીં.",
+  "tokens": [
+    {
+      "surface": "ואענה",
+      "gloss": "અને હું યાતના આપીશ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "વંશને"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "વંશ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "દાવિદનાં"
+    },
+    {
+      "surface": "למען",
+      "gloss": "કારણસર"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "આ"
+    },
+    {
+      "surface": "אך",
+      "gloss": "પણ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "כל",
+      "gloss": "સદાં"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "દિવસો"
+    }
+  ],
+  "timestamp": "2026-08-21T13:45:56.661868752Z",
+  "model": "glm-5.3"
+}

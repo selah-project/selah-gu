@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 12:8",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 12,
+  "translation": "તમે, હે યાહવે, તેમને રક્ષશો; આ પેઢીથી તેમને સદા સુધી રાખશો.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "તમે"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "હે યાહવે"
+    },
+    {
+      "surface": "תשמרם",
+      "gloss": "તેમને રક્ષશો"
+    },
+    {
+      "surface": "תצרנו",
+      "gloss": "તેમને રાખશો"
+    },
+    {
+      "surface": "מן",
+      "gloss": "થી"
+    },
+    {
+      "surface": "הדור",
+      "gloss": "આ પેઢી"
+    },
+    {
+      "surface": "זו",
+      "gloss": "આ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "સદા સુધી"
+    }
+  ],
+  "timestamp": "2026-08-21T16:12:55.768519115Z",
+  "model": "glm-5.3"
+}

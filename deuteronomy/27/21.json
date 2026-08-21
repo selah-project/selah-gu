@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 27:21",
+  "book": "deuteronomy",
+  "lang": "gu",
+  "chapter": 27,
+  "translation": "શાપિત ⟨છે⟩ ⟨જે⟩ કોઈપણ પશુ સાથે સંભોગ કરનારો; અને આખું લોક કહેશે, આમેન.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "શાપિત"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "સંભોગ કરનારો"
+    },
+    {
+      "surface": "עם",
+      "gloss": "સાથે"
+    },
+    {
+      "surface": "כל",
+      "gloss": "કોઈપણ"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "પશુ"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "અને કહેશે"
+    },
+    {
+      "surface": "כל",
+      "gloss": "આખું"
+    },
+    {
+      "surface": "העם",
+      "gloss": "લોક"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "આમેન"
+    }
+  ],
+  "timestamp": "2026-08-21T12:27:11.095415167Z",
+  "model": "glm-5.3"
+}

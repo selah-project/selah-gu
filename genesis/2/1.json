@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 2:1",
+  "book": "genesis",
+  "lang": "gu",
+  "chapter": 2,
+  "translation": "અને આકાશો અને પૃથ્વી અને તેમનું સઘળું સૈન્ય પૂરું થયું.",
+  "tokens": [
+    {
+      "surface": "ויכלו",
+      "gloss": "પૂરા થયાં"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "આકાશો"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "અને પૃથ્વી"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "અને સઘળું"
+    },
+    {
+      "surface": "צבאם",
+      "gloss": "તેમનું સૈન્ય"
+    }
+  ],
+  "timestamp": "2026-08-21T10:37:31.201780561Z",
+  "model": "glm-5.3"
+}

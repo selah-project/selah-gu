@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 48:6",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 48,
+  "translation": "તેમણે જોયું — તરત તેઓ ચકિત થયા; તેઓ ગભરાઈ ગયા, તેઓ ઝડપથી ભાગ્યા.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "તેમણે"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "જોયું"
+    },
+    {
+      "surface": "כן",
+      "gloss": "તરત"
+    },
+    {
+      "surface": "תמהו",
+      "gloss": "ચકિત થયા"
+    },
+    {
+      "surface": "נבהלו",
+      "gloss": "ગભરાઈ ગયા"
+    },
+    {
+      "surface": "נחפזו",
+      "gloss": "ઝડપથી ભાગ્યા"
+    }
+  ],
+  "timestamp": "2026-08-21T16:22:58.256123794Z",
+  "model": "glm-5.3"
+}

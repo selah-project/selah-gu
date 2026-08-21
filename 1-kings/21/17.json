@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 21:17",
+  "book": "1-kings",
+  "lang": "gu",
+  "chapter": 21,
+  "translation": "અને યાહવેનો વચન તિશ્બી એલિયાહુ પાસે આવ્યું, કહેતા:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "અને થયું"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "વચન"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવેનો"
+    },
+    {
+      "surface": "אל",
+      "gloss": "પાસે"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "એલિયાહુ"
+    },
+    {
+      "surface": "התשבי",
+      "gloss": "તિશ્બી"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "કહેતા"
+    }
+  ],
+  "timestamp": "2026-08-21T13:51:21.138326263Z",
+  "model": "glm-5.3"
+}

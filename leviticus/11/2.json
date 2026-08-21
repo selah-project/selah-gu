@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 11:2",
+  "book": "leviticus",
+  "lang": "gu",
+  "chapter": 11,
+  "translation": "ઇસ્રાએલના પુત્રોને કહો, કહેતાં: પૃથ્વી પરના સર્વ પશુઓ પૈકી આ ⟨the⟩ જીવ છે જેને તમે ખાઈ શકો.",
+  "tokens": [
+    {
+      "surface": "דברו",
+      "gloss": "કહો"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ને"
+    },
+    {
+      "surface": "בני",
+      "gloss": "પુત્રોના"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ઇસ્રાએલ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "કહેતાં"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "આ"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "જીવ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જે"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "તમે ખાઈ શકો"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "પૈકી સર્વ"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "પશુઓ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જે"
+    },
+    {
+      "surface": "על",
+      "gloss": "પરના"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "પૃથ્વી"
+    }
+  ],
+  "timestamp": "2026-08-21T11:34:47.295496222Z",
+  "model": "glm-5.3"
+}

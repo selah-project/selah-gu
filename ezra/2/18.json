@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezra 2:18",
+  "book": "ezra",
+  "lang": "gu",
+  "chapter": 2,
+  "translation": "યોરાહના પુત્રો, સો બાર.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "יורה",
+      "gloss": "યોરાહના"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "સો"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "અને બે"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "-બાર"
+    }
+  ],
+  "timestamp": "2026-08-21T17:45:14.186962210Z",
+  "model": "glm-5.3"
+}

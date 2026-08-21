@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 12:5",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 12,
+  "translation": "ન્યાયીઓનાં વિચારો ⟨છે⟩ ન્યાય; દુષ્ટોની યુક્તિઓ ⟨છે⟩ છળ.",
+  "tokens": [
+    {
+      "surface": "מחשבות",
+      "gloss": "વિચારો"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "ન્યાયીઓનાં"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ન્યાય"
+    },
+    {
+      "surface": "תחבלות",
+      "gloss": "યુક્તિઓ"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "દુષ્ટોની"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "છળ"
+    }
+  ],
+  "timestamp": "2026-08-21T16:54:59.447823675Z",
+  "model": "glm-5.3"
+}

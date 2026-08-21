@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 29:23",
+  "book": "deuteronomy",
+  "lang": "gu",
+  "chapter": 29,
+  "translation": "અને બધા પ્રજાઓ કહેશે, “યાહવે આ દેશ સાથે આવું કેમ કર્યું? આ મહાન ક્રોધની આટલી તીવ્રતા શું છે?”",
+  "tokens": [
+    {
+      "surface": "ואמרו",
+      "gloss": "અને ... કહેશે"
+    },
+    {
+      "surface": "כל",
+      "gloss": "બધા"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "પ્રજાઓ"
+    },
+    {
+      "surface": "על",
+      "gloss": "સાથે"
+    },
+    {
+      "surface": "מה",
+      "gloss": "કેમ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "કર્યું"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "આવું"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "દેશ સાથે"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "આ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "શું છે"
+    },
+    {
+      "surface": "חרי",
+      "gloss": "તીવ્રતા"
+    },
+    {
+      "surface": "האף",
+      "gloss": "ક્રોધની"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "મહાન"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "આ"
+    }
+  ],
+  "timestamp": "2026-08-21T12:29:36.908074679Z",
+  "model": "glm-5.3"
+}

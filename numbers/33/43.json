@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "numbers 33:43",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 33,
+  "translation": "અને તેઓ પૂનોનથી પ્રયાણ કર્યું અને ઓવોથમાં ડેરા નાખ્યા.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "પ્રયાણ કર્યું"
+    },
+    {
+      "surface": "מפונן",
+      "gloss": "પૂનોનથી"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "ડેરા નાખ્યા"
+    },
+    {
+      "surface": "באבת",
+      "gloss": "ઓવોથમાં"
+    }
+  ],
+  "timestamp": "2026-08-21T12:09:48.106564083Z",
+  "model": "glm-5.3"
+}

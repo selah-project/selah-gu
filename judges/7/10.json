@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 7:10",
+  "book": "judges",
+  "lang": "gu",
+  "chapter": 7,
+  "translation": "અને જો તું ઊતરવાનું ડરતો હોઈશ, તો તું અને તારો નોકર પૂરાહ છાવણી પાસે ઊતરી જજે.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "અને જો"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "ડરતો હોઈશ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "તું"
+    },
+    {
+      "surface": "לרדת",
+      "gloss": "ઊતરવાનું"
+    },
+    {
+      "surface": "רד",
+      "gloss": "ઊતરી જજે"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "તું"
+    },
+    {
+      "surface": "ופרה",
+      "gloss": "અને પૂરાહ"
+    },
+    {
+      "surface": "נערך",
+      "gloss": "તારો નોકર"
+    },
+    {
+      "surface": "אל",
+      "gloss": "પાસે"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "છાવણી"
+    }
+  ],
+  "timestamp": "2026-08-21T12:49:20.687207926Z",
+  "model": "glm-5.3"
+}

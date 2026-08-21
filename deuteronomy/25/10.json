@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 25:10",
+  "book": "deuteronomy",
+  "lang": "gu",
+  "chapter": 25,
+  "translation": "અને ઇસ્રાએલમાં તેનું નામ પાદડી ઉતારાયેલાનું ઘર તરીકે બોલાશે.",
+  "tokens": [
+    {
+      "surface": "ונקרא",
+      "gloss": "અને બોલાશે"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "તેનું નામ"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "ઇસ્રાએલમાં"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ઘર"
+    },
+    {
+      "surface": "חלוץ",
+      "gloss": "ઉતારાયેલાનું"
+    },
+    {
+      "surface": "הנעל",
+      "gloss": "પાદડી"
+    }
+  ],
+  "timestamp": "2026-08-21T12:25:21.073033429Z",
+  "model": "glm-5.3"
+}

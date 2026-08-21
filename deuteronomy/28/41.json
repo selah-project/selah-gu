@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "deuteronomy 28:41",
+  "book": "deuteronomy",
+  "lang": "gu",
+  "chapter": 28,
+  "translation": "પુત્રો અને પુત્રીઓ તું જન્મ આપશે, પણ તારા નહીં રહે, કારણ કે તેઓ બંદીવાસમાં જશે.",
+  "tokens": [
+    {
+      "surface": "בנים",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "અને પુત્રીઓ"
+    },
+    {
+      "surface": "תוליד",
+      "gloss": "તું જન્મ આપશે"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "પણ નહીં"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "રહે"
+    },
+    {
+      "surface": "לך",
+      "gloss": "તારા"
+    },
+    {
+      "surface": "כי",
+      "gloss": "કારણ કે"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "તેઓ જશે"
+    },
+    {
+      "surface": "בשבי",
+      "gloss": "બંદીવાસમાં"
+    }
+  ],
+  "timestamp": "2026-08-21T12:27:36.816386113Z",
+  "model": "glm-5.3"
+}

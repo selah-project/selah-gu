@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "lamentations 5:3",
+  "book": "lamentations",
+  "lang": "gu",
+  "chapter": 5,
+  "translation": "અનાથ થયા છીએ આપણે, પિતા વિનાના; આપણી માતાઓ વિધવાઓ જેમ છે.",
+  "tokens": [
+    {
+      "surface": "יתומים",
+      "gloss": "અનાથ"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "થયા છીએ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "વિનાના"
+    },
+    {
+      "surface": "אב",
+      "gloss": "પિતા"
+    },
+    {
+      "surface": "אמתינו",
+      "gloss": "આપણી માતાઓ"
+    },
+    {
+      "surface": "כאלמנות",
+      "gloss": "વિધવાઓ જેમ"
+    }
+  ],
+  "timestamp": "2026-08-21T17:28:13.699613525Z",
+  "model": "glm-5.3"
+}

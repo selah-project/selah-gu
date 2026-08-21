@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 34:19",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 34,
+  "translation": "અને આ ⟨છે⟩ ⟨તે⟩ પુરુષોનાં નામ: યિહૂદાની શાખા માટે કાલેવ યફુન્નેહનો પુત્ર.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "અને આ"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "નામ"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "પુરુષોનાં"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "શાખા માટે"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "યિહૂદા"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "કાલેવ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "પુત્ર"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "યફુન્નેહ"
+    }
+  ],
+  "timestamp": "2026-08-21T12:10:19.436122378Z",
+  "model": "glm-5.3"
+}

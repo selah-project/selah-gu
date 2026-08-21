@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 6:17",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 6,
+  "translation": "ઉદ્ધત આંખો, કપટની જીભ, અને નિર્દોષ લોહી રેડતાં હાથો,",
+  "tokens": [
+    {
+      "surface": "עינים",
+      "gloss": "આંખો"
+    },
+    {
+      "surface": "רמות",
+      "gloss": "ઉદ્ધત"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "જીભ"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "કપટની"
+    },
+    {
+      "surface": "וידים",
+      "gloss": "અને હાથો"
+    },
+    {
+      "surface": "שפכות",
+      "gloss": "રેડતાં"
+    },
+    {
+      "surface": "דם",
+      "gloss": "લોહી"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "નિર્દોષ"
+    }
+  ],
+  "timestamp": "2026-08-21T16:53:44.324575836Z",
+  "model": "glm-5.3"
+}

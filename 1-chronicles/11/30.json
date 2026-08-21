@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 11:30",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 11,
+  "translation": "મહરાય નેતોફાથી, ચેલેદ બાનાહનો પુત્ર, નેતોફાથી.",
+  "tokens": [
+    {
+      "surface": "מהרי",
+      "gloss": "મહરાય"
+    },
+    {
+      "surface": "הנטפתי",
+      "gloss": "નેતોફાથી"
+    },
+    {
+      "surface": "חלד",
+      "gloss": "ચેલેદ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "પુત્ર"
+    },
+    {
+      "surface": "בענה",
+      "gloss": "બાનાહ"
+    },
+    {
+      "surface": "הנטופתי",
+      "gloss": "નેતોફાથી"
+    }
+  ],
+  "timestamp": "2026-08-21T18:04:28.196225235Z",
+  "model": "glm-5.3"
+}

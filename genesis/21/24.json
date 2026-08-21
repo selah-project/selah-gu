@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 21:24",
+  "book": "genesis",
+  "lang": "gu",
+  "chapter": 21,
+  "translation": "અને અવ્રાહામે કહ્યું: હું સોગંદ આપીશ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "અને કહ્યું"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "અવ્રાહામે"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "હું"
+    },
+    {
+      "surface": "אשבע",
+      "gloss": "સોગંદ આપીશ"
+    }
+  ],
+  "timestamp": "2026-08-21T10:46:55.235505119Z",
+  "model": "glm-5.3"
+}

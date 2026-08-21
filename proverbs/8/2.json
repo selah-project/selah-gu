@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 8:2",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 8,
+  "translation": "ઊંચા સ્થળોના મથે, માર્ગ પર, પગલાંમાર્ગોના ⟨સમૂહ પાસે⟩ તે ઊભી રહે છે.",
+  "tokens": [
+    {
+      "surface": "בראש",
+      "gloss": "મથે"
+    },
+    {
+      "surface": "מרומים",
+      "gloss": "ઊંચા સ્થળોના"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "પર"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "માર્ગ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "⟨સમૂહ પાસે⟩"
+    },
+    {
+      "surface": "נתיבות",
+      "gloss": "પગલાંમાર્ગોના"
+    },
+    {
+      "surface": "נצבה",
+      "gloss": "ઊભી રહે છે"
+    }
+  ],
+  "timestamp": "2026-08-21T16:54:31.193792941Z",
+  "model": "glm-5.3"
+}

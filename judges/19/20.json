@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 19:20",
+  "book": "judges",
+  "lang": "gu",
+  "chapter": 19,
+  "translation": "અને વૃદ્ધ માણસે કહ્યું, “તને શાંતિ; ફક્ત તારી બધી ખેંચ મારા પર રહે, ફક્ત ચોકમાં રાત ન ગાળતો.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "અને કહ્યું"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "માણસે"
+    },
+    {
+      "surface": "הזקן",
+      "gloss": "વૃદ્ધ"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "શાંતિ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "તને"
+    },
+    {
+      "surface": "רק",
+      "gloss": "ફક્ત"
+    },
+    {
+      "surface": "כל",
+      "gloss": "બધી"
+    },
+    {
+      "surface": "מחסורך",
+      "gloss": "તારી ખેંચ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "મારા પર"
+    },
+    {
+      "surface": "רק",
+      "gloss": "ફક્ત"
+    },
+    {
+      "surface": "ברחוב",
+      "gloss": "ચોકમાં"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ન"
+    },
+    {
+      "surface": "תלן",
+      "gloss": "રાત ગાળતો"
+    }
+  ],
+  "timestamp": "2026-08-21T12:58:53.170312569Z",
+  "model": "glm-5.3"
+}

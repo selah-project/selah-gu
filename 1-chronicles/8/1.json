@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 8:1",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 8,
+  "translation": "અને બિન્યામીને ⟨את⟩ બેલા જન્યો, ⟨את⟩ ⟨the⟩ તેનો પહેલોજન્મો; અશ્બેલ ⟨the⟩ બીજો, અને અહરાહ ⟨the⟩ ત્રીજો.",
+  "tokens": [
+    {
+      "surface": "ובנימן",
+      "gloss": "અને બિન્યામીને"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "જન્યો"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "બેલા"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "બેલા"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "તેનો પહેલોજન્મો"
+    },
+    {
+      "surface": "אשבל",
+      "gloss": "અશ્બેલ"
+    },
+    {
+      "surface": "השני",
+      "gloss": "બીજો"
+    },
+    {
+      "surface": "ואחרח",
+      "gloss": "અને અહરાહ"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "ત્રીજો"
+    }
+  ],
+  "timestamp": "2026-08-21T18:03:20.673459720Z",
+  "model": "glm-5.3"
+}

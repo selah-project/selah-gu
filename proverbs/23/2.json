@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 23:2",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 23,
+  "translation": "અને તું તારા ગળા પર છરી રાખ, જો તું નફશ (ભૂખ) નો માલિક છું.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "અને તું રાખ"
+    },
+    {
+      "surface": "שכין",
+      "gloss": "છરી"
+    },
+    {
+      "surface": "בלעך",
+      "gloss": "તારા ગળા પર"
+    },
+    {
+      "surface": "אם",
+      "gloss": "જો"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "માલિક"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "નફશ (ભૂખ)"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "તું છું"
+    }
+  ],
+  "timestamp": "2026-08-21T17:01:06.136414021Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 11:1",
+  "book": "ecclesiastes",
+  "lang": "gu",
+  "chapter": 11,
+  "translation": "તારો અન્ન પાણીના મુખ પર મોકલ, કેમ કે ઘણાં દિવસોમાં તું તેને શોધી લેશે.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "મોકલ"
+    },
+    {
+      "surface": "לחמך",
+      "gloss": "તારો અન્ન"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "פני",
+      "gloss": "મુખ"
+    },
+    {
+      "surface": "המים",
+      "gloss": "પાણીના"
+    },
+    {
+      "surface": "כי",
+      "gloss": "કેમ કે"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "ઘણાંમાં"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "દિવસો"
+    },
+    {
+      "surface": "תמצאנו",
+      "gloss": "તું તેને શોધી લેશે"
+    }
+  ],
+  "timestamp": "2026-08-21T17:31:23.705338145Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "zechariah 14:15",
+  "book": "zechariah",
+  "lang": "gu",
+  "chapter": 14,
+  "translation": "અને તેમ જ થશે ઘોડા, ખચ્ચર, ઊંટ અને ગધેડાનો, અને તે શિબિરોમાં રહેલા સઘળા પશુઓનો માર — આ માર જેવો જ.",
+  "tokens": [
+    {
+      "surface": "וכן",
+      "gloss": "અને તેમ જ"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "થશે"
+    },
+    {
+      "surface": "מגפת",
+      "gloss": "માર"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "ઘોડા"
+    },
+    {
+      "surface": "הפרד",
+      "gloss": "ખચ્ચર"
+    },
+    {
+      "surface": "הגמל",
+      "gloss": "ઊંટ"
+    },
+    {
+      "surface": "והחמור",
+      "gloss": "ગધેડાનો"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "સઘળા"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "પશુઓનો"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જે"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "રહેલા"
+    },
+    {
+      "surface": "במחנות",
+      "gloss": "શિબિરોમાં"
+    },
+    {
+      "surface": "ההמה",
+      "gloss": "તે"
+    },
+    {
+      "surface": "כמגפה",
+      "gloss": "માર જેવો"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "આ"
+    }
+  ],
+  "timestamp": "2026-08-21T16:07:49.004286202Z",
+  "model": "glm-5.3"
+}

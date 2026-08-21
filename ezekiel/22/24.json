@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezekiel 22:24",
+  "book": "ezekiel",
+  "lang": "gu",
+  "chapter": 22,
+  "translation": "માનવપુત્ર, તેને કહે: તું એક એવી ભૂમિ છે જે શુદ્ધ કરાઈ નથી, જેના પર ક્રોધના દિવસે વરસાદ વરસ્યો નથી.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "પુત્ર"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "માનવ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "કહે"
+    },
+    {
+      "surface": "לה",
+      "gloss": "તેને"
+    },
+    {
+      "surface": "את",
+      "gloss": "તું"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ભૂમિ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નથી"
+    },
+    {
+      "surface": "מטהרה",
+      "gloss": "શુદ્ધ કરાઈ"
+    },
+    {
+      "surface": "היא",
+      "gloss": "છે"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નથી"
+    },
+    {
+      "surface": "גשמה",
+      "gloss": "વરસાદ વરસ્યો"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "દિવસે"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "ક્રોધના"
+    }
+  ],
+  "timestamp": "2026-08-21T15:29:10.327062759Z",
+  "model": "glm-5.3"
+}

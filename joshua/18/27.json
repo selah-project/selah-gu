@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "joshua 18:27",
+  "book": "joshua",
+  "lang": "gu",
+  "chapter": 18,
+  "translation": "અને રેકેમ, અને યિરપેએલ, અને તારાલાહ.",
+  "tokens": [
+    {
+      "surface": "ורקם",
+      "gloss": "અને રેકેમ"
+    },
+    {
+      "surface": "וירפאל",
+      "gloss": "અને યિરપેએલ"
+    },
+    {
+      "surface": "ותראלה",
+      "gloss": "અને તારાલાહ"
+    }
+  ],
+  "timestamp": "2026-08-21T12:41:30.380739221Z",
+  "model": "glm-5.3"
+}

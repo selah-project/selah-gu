@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 23:14",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 23,
+  "translation": "અને મોશે — એલોહીમનો પુરુષ — ⟨તેના⟩ પુત્રો લેવી કુળ પર ગણાયા.",
+  "tokens": [
+    {
+      "surface": "ומשה",
+      "gloss": "અને મોશે"
+    },
+    {
+      "surface": "איש",
+      "gloss": "પુરુષ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "એલોહીમનો"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "તેના પુત્રો"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "ગણાયા"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "કુળ"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "લેવી"
+    }
+  ],
+  "timestamp": "2026-08-21T18:11:15.833089112Z",
+  "model": "glm-5.3"
+}

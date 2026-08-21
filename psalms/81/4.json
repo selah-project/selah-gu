@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 81:4",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 81,
+  "translation": "મહિનામાં શોફાર વગાડો, પૂનમે, આપણા ઉત્સવના દિવસે.",
+  "tokens": [
+    {
+      "surface": "תקעו",
+      "gloss": "વગાડો"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "મહિનામાં"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "શોફાર"
+    },
+    {
+      "surface": "בכסה",
+      "gloss": "પૂનમે"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "દિવસે"
+    },
+    {
+      "surface": "חגנו",
+      "gloss": "આપણા ઉત્સવના"
+    }
+  ],
+  "timestamp": "2026-08-21T16:33:06.182680952Z",
+  "model": "glm-5.3"
+}

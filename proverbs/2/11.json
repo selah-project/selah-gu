@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 2:11",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 2,
+  "translation": "સમજણ તારું રક્ષણ કરશે, બુદ્ધિ તને સંભાળશે;",
+  "tokens": [
+    {
+      "surface": "מזמה",
+      "gloss": "સમજણ"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "રક્ષણ કરશે"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "તારું"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "બુદ્ધિ"
+    },
+    {
+      "surface": "תנצרכה",
+      "gloss": "તને સંભાળશે"
+    }
+  ],
+  "timestamp": "2026-08-21T16:51:14.133323478Z",
+  "model": "glm-5.3"
+}

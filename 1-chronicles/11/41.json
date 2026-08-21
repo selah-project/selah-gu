@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 11:41",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 11,
+  "translation": "ઉરીયા ⟨ה⟩હિત્તી, ઝાબાદ અહલાયનો પુત્ર,",
+  "tokens": [
+    {
+      "surface": "אוריה",
+      "gloss": "ઉરીયા"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "હિત્તી"
+    },
+    {
+      "surface": "ખבד",
+      "gloss": "ઝાબાદ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "પુત્ર"
+    },
+    {
+      "surface": "אחלי",
+      "gloss": "અહલાય"
+    }
+  ],
+  "timestamp": "2026-08-21T18:04:31.174132581Z",
+  "model": "glm-5.3"
+}

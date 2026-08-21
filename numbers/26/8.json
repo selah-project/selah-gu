@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 26:8",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 26,
+  "translation": "અને પલ્લૂના પુત્રો: એલિઆબ.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "અને પુત્રો"
+    },
+    {
+      "surface": "פלוא",
+      "gloss": "પલ્લૂના"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "એલિઆબ"
+    }
+  ],
+  "timestamp": "2026-08-21T12:04:01.857821509Z",
+  "model": "glm-5.3"
+}

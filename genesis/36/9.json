@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 36:9",
+  "book": "genesis",
+  "lang": "gu",
+  "chapter": 36,
+  "translation": "અને આ છે એસાવનાં વંશજન્મકથા — એદોમનો પિતા — સેઈર પર્વત પર।",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "અને આ"
+    },
+    {
+      "surface": "תלדות",
+      "gloss": "વંશજન્મકથા"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "એસાવનાં"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "પિતા"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "એદોમનો"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "પર્વત પર"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "સેઈર"
+    }
+  ],
+  "timestamp": "2026-08-21T10:55:46.002753730Z",
+  "model": "glm-5.3"
+}

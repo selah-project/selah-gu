@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "job 9:29",
+  "book": "job",
+  "lang": "gu",
+  "chapter": 9,
+  "translation": "હું દોષી ઠરું છું; આ કેમ? વ્યર્થ મહેનત કરું છું.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "હું"
+    },
+    {
+      "surface": "ארשע",
+      "gloss": "દોષી ઠરું છું"
+    },
+    {
+      "surface": "למה",
+      "gloss": "કેમ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "આ"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "વ્યર્થ"
+    },
+    {
+      "surface": "איגע",
+      "gloss": "મહેનત કરું છું"
+    }
+  ],
+  "timestamp": "2026-08-21T17:07:52.586966412Z",
+  "model": "glm-5.3"
+}

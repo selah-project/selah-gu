@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 26:20",
+  "book": "exodus",
+  "lang": "gu",
+  "chapter": 26,
+  "translation": "અને મિશકાનની બીજી બાજુ માટે, ઉત્તર દિશા તરફ, વીસ કડી.",
+  "tokens": [
+    {
+      "surface": "ולצלע",
+      "gloss": "અને બાજુ માટે"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "મિશકાનની"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "બીજી"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "દિશા તરફ"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "ઉત્તર"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "વીસ"
+    },
+    {
+      "surface": "קרש",
+      "gloss": "કડી"
+    }
+  ],
+  "timestamp": "2026-08-21T11:20:33.837928472Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 29:21",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 29,
+  "translation": "જે પોતાના દાસને બાળપણથી લાડમાં રાખે છે, તેનો અંત માનોન થશે.",
+  "tokens": [
+    {
+      "surface": "מפנק",
+      "gloss": "લાડમાં રાખે છે"
+    },
+    {
+      "surface": "מנער",
+      "gloss": "બાળપણથી"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "પોતાના દાસને"
+    },
+    {
+      "surface": "ואחריתו",
+      "gloss": "અને તેનો અંત"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "થશે"
+    },
+    {
+      "surface": "מנון",
+      "gloss": "માનોન"
+    }
+  ],
+  "timestamp": "2026-08-21T17:02:55.887988149Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 14:16",
+  "book": "deuteronomy",
+  "lang": "gu",
+  "chapter": 14,
+  "translation": "⟨את⟩ નાનો ઘુવડ, અને ⟨את⟩ મોટો ઘુવડ, અને સફેદ ઘુવડ.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "નાનો ઘુવડ"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "નાનો ઘુવડ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "મોટો ઘુવડ"
+    },
+    {
+      "surface": "הינשוף",
+      "gloss": "મોટો ઘુવડ"
+    },
+    {
+      "surface": "והתנשמת",
+      "gloss": "અને સફેદ ઘુવડ"
+    }
+  ],
+  "timestamp": "2026-08-21T12:19:46.003064010Z",
+  "model": "glm-5.3"
+}

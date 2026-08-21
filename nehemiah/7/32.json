@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "nehemiah 7:32",
+  "book": "nehemiah",
+  "lang": "gu",
+  "chapter": 7,
+  "translation": "બેત-એલ અને હાઈના માણસો — સો તેત્રીસ.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "માણસો"
+    },
+    {
+      "surface": "בית",
+      "gloss": "બેત"
+    },
+    {
+      "surface": "אל",
+      "gloss": "એલ"
+    },
+    {
+      "surface": "והעי",
+      "gloss": "અને હાઈ"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "સો"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "તેત્રીસ"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "…ત્રણ (તેત્રીસ પૂર્ણ)"
+    }
+  ],
+  "timestamp": "2026-08-21T17:55:12.455337303Z",
+  "model": "glm-5.3"
+}

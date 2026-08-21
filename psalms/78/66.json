@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "psalms 78:66",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 78,
+  "translation": "અને પોતાના શત્રુઓને પાછળથી માર્યા, તેમને સનાતન અપમાન આપ્યું.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "માર્યા"
+    },
+    {
+      "surface": "צריו",
+      "gloss": "પોતાના શત્રુઓને"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "પાછળથી"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "અપમાન"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "સનાતન"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "આપ્યું"
+    },
+    {
+      "surface": "למו",
+      "gloss": "તેમને"
+    }
+  ],
+  "timestamp": "2026-08-21T16:32:08.142331479Z",
+  "model": "glm-5.3"
+}

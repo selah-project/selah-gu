@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "joshua 18:25",
+  "book": "joshua",
+  "lang": "gu",
+  "chapter": 18,
+  "translation": "ગિબ્યોન, અને ⟨the⟩ રામાહ, અને બેએરોત.",
+  "tokens": [
+    {
+      "surface": "גבעון",
+      "gloss": "ગિબ્યોન"
+    },
+    {
+      "surface": "והרמה",
+      "gloss": "અને રામાહ"
+    },
+    {
+      "surface": "ובארות",
+      "gloss": "અને બેએરોત"
+    }
+  ],
+  "timestamp": "2026-08-21T12:41:30.380432080Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "exodus 29:38",
+  "book": "exodus",
+  "lang": "gu",
+  "chapter": 29,
+  "translation": "અને આ છે જે તું યજ્ઞવેદી પર કરીશ: એક વર્ષના નાના ઘેટાંના બે દરરોજ, નિરંતર.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "અને આ છે"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જે"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "તું કરીશ"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "યજ્ઞવેદી"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "નાના ઘેટાં"
+    },
+    {
+      "surface": "בני",
+      "gloss": "…ના (વયના)"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "એક વર્ષ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "બે"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "દરરોજ"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "નિરંતર"
+    }
+  ],
+  "timestamp": "2026-08-21T11:22:25.765065121Z",
+  "model": "glm-5.3"
+}

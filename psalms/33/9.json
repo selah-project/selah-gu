@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 33:9",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 33,
+  "translation": "કેમ કે તેણે કહ્યું અને તે થયું; તેણે આજ્ઞા કરી અને તે ઊભું રહ્યું.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "કેમ કે"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "તેણે"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "કહ્યું"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "અને તે થયું"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "તેણે"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "આજ્ઞા કરી"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "અને તે ઊભું રહ્યું"
+    }
+  ],
+  "timestamp": "2026-08-21T16:18:21.404871848Z",
+  "model": "glm-5.3"
+}

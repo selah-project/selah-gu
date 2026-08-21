@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "ezekiel 21:32",
+  "book": "ezekiel",
+  "lang": "gu",
+  "chapter": 21,
+  "translation": "ઉથલો, ઉથલો, ઉથલો — હું તેને કરીશ; આ પણ નહીં થાય, જ્યાં સુધી તે ન આવે જેને ⟨એ⟩ મળે છે, અને હું ⟨એને⟩ તે આપીશ.",
+  "tokens": [
+    {
+      "surface": "עוה",
+      "gloss": "ઉથલો"
+    },
+    {
+      "surface": "עוה",
+      "gloss": "ઉથલો"
+    },
+    {
+      "surface": "עוה",
+      "gloss": "ઉથલો"
+    },
+    {
+      "surface": "אשימנה",
+      "gloss": "હું તેને કરીશ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "પણ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "આ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "היה",
+      "gloss": "થાય"
+    },
+    {
+      "surface": "עד",
+      "gloss": "જ્યાં સુધી"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ન આવે"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જેને"
+    },
+    {
+      "surface": "לו",
+      "gloss": "મળે છે"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "અધિકાર"
+    },
+    {
+      "surface": "ונתתיו",
+      "gloss": "અને હું આપીશ"
+    }
+  ],
+  "timestamp": "2026-08-21T15:27:27.822873131Z",
+  "model": "glm-5.3"
+}

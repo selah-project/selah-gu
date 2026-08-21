@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "song-of-songs 8:1",
+  "book": "song-of-songs",
+  "lang": "gu",
+  "chapter": 8,
+  "translation": "કોણ તને આપે મારો ભાઈ જેવો, મારી માતાના સ્તન ચૂસનાર! હું તને બહાર શોધું, તને ચુંબન કરું — પછી તે મને તિરસ્કાર ન કરે.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "કોણ"
+    },
+    {
+      "surface": "יתנך",
+      "gloss": "આપે"
+    },
+    {
+      "surface": "כאח",
+      "gloss": "ભાઈ જેવો"
+    },
+    {
+      "surface": "לי",
+      "gloss": "મારો"
+    },
+    {
+      "surface": "יונק",
+      "gloss": "ચૂસનાર"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "સ્તન"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "મારી માતાના"
+    },
+    {
+      "surface": "אמצאך",
+      "gloss": "શોધું"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "બહાર"
+    },
+    {
+      "surface": "אשקך",
+      "gloss": "ચુંબન કરું"
+    },
+    {
+      "surface": "גם",
+      "gloss": "પછી"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "יבוזו",
+      "gloss": "તિરસ્કાર કરે"
+    },
+    {
+      "surface": "לי",
+      "gloss": "મને"
+    }
+  ],
+  "timestamp": "2026-08-21T17:23:20.662713917Z",
+  "model": "glm-5.3"
+}

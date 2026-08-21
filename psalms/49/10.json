@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 49:10",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 49,
+  "translation": "અને તે સદા માટે જીવી શકે નહીં; તે ⟨સમાધિ⟩ને જોશે નહીં.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "અને જીવી શકે"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "હજુ"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "સદા માટે"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "જોશે"
+    },
+    {
+      "surface": "השחת",
+      "gloss": "⟨સમાધિ⟩ (ગર્ત)"
+    }
+  ],
+  "timestamp": "2026-08-21T16:22:53.926018686Z",
+  "model": "glm-5.3"
+}

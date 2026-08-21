@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "nehemiah 10:22",
+  "book": "nehemiah",
+  "lang": "gu",
+  "chapter": 10,
+  "translation": "મશેઝાવેલ, ત્સાદોક, યદ્દુઆ.",
+  "tokens": [
+    {
+      "surface": "משיזבאל",
+      "gloss": "મશેઝાવેલ"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "ત્સાદોક"
+    },
+    {
+      "surface": "ידוע",
+      "gloss": "યદ્દુઆ"
+    }
+  ],
+  "timestamp": "2026-08-21T17:56:36.672792031Z",
+  "model": "glm-5.3"
+}

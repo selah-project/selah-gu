@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 5:15",
+  "book": "ecclesiastes",
+  "lang": "gu",
+  "chapter": 5,
+  "translation": "અને આ પણ એક દુષ્ટ રોગ ⟨છે⟩ — સર્વપ્રકારે જેમ તે આવ્યો, તેમ જ તે જશે; અને પવન માટે શ્રમ કરવાથી તેનો શો લાભ?",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "અને આ પણ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "આ"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "દુષ્ટ"
+    },
+    {
+      "surface": "חולה",
+      "gloss": "રોગ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "સર્વપ્રકારે"
+    },
+    {
+      "surface": "עמת",
+      "gloss": "પ્રમાણે"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "તે આવ્યો"
+    },
+    {
+      "surface": "כן",
+      "gloss": "તેમ જ"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "તે જશે"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "અને શો"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "લાભ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "તેનો"
+    },
+    {
+      "surface": "שיעמל",
+      "gloss": "શ્રમ કરવાથી"
+    },
+    {
+      "surface": "לרוח",
+      "gloss": "પવન માટે"
+    }
+  ],
+  "timestamp": "2026-08-21T17:30:51.717168386Z",
+  "model": "glm-5.3"
+}

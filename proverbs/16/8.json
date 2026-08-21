@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 16:8",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 16,
+  "translation": "ન્યાય સાથે થોડું ⟨હોવું⟩ વધારે સારું છે, અન્યાય સાથે વિપુલ આવક કરતાં.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "સારું છે"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "થોડું"
+    },
+    {
+      "surface": "בצדקה",
+      "gloss": "ન્યાય સાથે"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "વિપુલ કરતાં"
+    },
+    {
+      "surface": "תבואות",
+      "gloss": "આવક"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "અન્યાય સાથે"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "વિના"
+    }
+  ],
+  "timestamp": "2026-08-21T16:57:21.309685705Z",
+  "model": "glm-5.3"
+}

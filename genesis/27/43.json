@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "genesis 27:43",
+  "book": "genesis",
+  "lang": "gu",
+  "chapter": 27,
+  "translation": "અને હવે, મારા દીકરા, મારો અવાજ સાંભળ; ઊઠ, તું ભાગી જા મારા ભાઈ લાવાન પાસે, હારાનમાં.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "અને હવે"
+    },
+    {
+      "surface": "בני",
+      "gloss": "મારા દીકરા"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "સાંભળ"
+    },
+    {
+      "surface": "בקלי",
+      "gloss": "મારો અવાજ"
+    },
+    {
+      "surface": "וקום",
+      "gloss": "ઊઠ"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "ભાગી જા"
+    },
+    {
+      "surface": "לך",
+      "gloss": "તું"
+    },
+    {
+      "surface": "אל",
+      "gloss": "પાસે"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "લાવાન"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "મારા ભાઈ"
+    },
+    {
+      "surface": "חרנה",
+      "gloss": "હારાનમાં"
+    }
+  ],
+  "timestamp": "2026-08-21T10:50:59.114098082Z",
+  "model": "glm-5.3"
+}

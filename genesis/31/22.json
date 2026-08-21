@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 31:22",
+  "book": "genesis",
+  "lang": "gu",
+  "chapter": 31,
+  "translation": "અને ત્રીજા દિવસે લાબાનને જણાવવામાં આવ્યું કે યાકોબ ભાગી ગયો છે.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "અને જણાવવામાં આવ્યું"
+    },
+    {
+      "surface": "ללבן",
+      "gloss": "લાબાનને"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "દિવસે"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "ત્રીજા"
+    },
+    {
+      "surface": "כי",
+      "gloss": "કે"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "ભાગી ગયો છે"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "યાકોબ"
+    }
+  ],
+  "timestamp": "2026-08-21T10:53:47.485684817Z",
+  "model": "glm-5.3"
+}

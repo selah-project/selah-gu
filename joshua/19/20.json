@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 19:20",
+  "book": "joshua",
+  "lang": "gu",
+  "chapter": 19,
+  "translation": "અને હારબ્બીથ, અને કિશ્યોન, અને આબેસ.",
+  "tokens": [
+    {
+      "surface": "והרבית",
+      "gloss": "અને હારબ્બીથ"
+    },
+    {
+      "surface": "וקשיון",
+      "gloss": "અને કિશ્યોન"
+    },
+    {
+      "surface": "ואבץ",
+      "gloss": "અને આબેસ"
+    }
+  ],
+  "timestamp": "2026-08-21T12:42:12.983751747Z",
+  "model": "glm-5.3"
+}

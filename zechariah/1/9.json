@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "zechariah 1:9",
+  "book": "zechariah",
+  "lang": "gu",
+  "chapter": 1,
+  "translation": "અને મેં કહ્યું, “હે મારા અદોનાય, આ ⟨છે⟩ શું?” અને મારી સાથે બોલતા દૂતે મને કહ્યું, “હું તને બતાવીશ કે આ ⟨છે⟩ શું.”",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "અને મેં કહ્યું"
+    },
+    {
+      "surface": "מה",
+      "gloss": "શું"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "આ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "અદોનાય"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "અને કહ્યું"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "મને"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "દૂત"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "બોલતા"
+    },
+    {
+      "surface": "בי",
+      "gloss": "મારી સાથે"
+    },
+    {
+      "surface": "אני",
+      "gloss": "હું"
+    },
+    {
+      "surface": "אראך",
+      "gloss": "તને બતાવીશ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "શું"
+    },
+    {
+      "surface": "המה",
+      "gloss": "તે"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "આ"
+    }
+  ],
+  "timestamp": "2026-08-21T16:02:02.810365871Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 94:11",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 94,
+  "translation": "યાહવે માનવના વિચારો જાણે છે, કે ⟨તે⟩ વ્યર્થ છે.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "જાણે છે"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "વિચારો"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "માનવના"
+    },
+    {
+      "surface": "כי",
+      "gloss": "કે"
+    },
+    {
+      "surface": "המה",
+      "gloss": "⟨તે⟩"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "વ્યર્થ"
+    }
+  ],
+  "timestamp": "2026-08-21T16:36:30.303620419Z",
+  "model": "glm-5.3"
+}

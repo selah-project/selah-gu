@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 21:25",
+  "book": "exodus",
+  "lang": "gu",
+  "chapter": 21,
+  "translation": "બળતરાની જગ્યાએ બળતરા, વા ની જગ્યાએ વા, ચોટ ની જગ્યાએ ચોટ.",
+  "tokens": [
+    {
+      "surface": "כויה",
+      "gloss": "બળતરા"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ની જગ્યાએ"
+    },
+    {
+      "surface": "כויה",
+      "gloss": "બળતરા"
+    },
+    {
+      "surface": "פצע",
+      "gloss": "વા"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ની જગ્યાએ"
+    },
+    {
+      "surface": "פצע",
+      "gloss": "વા"
+    },
+    {
+      "surface": "חבורה",
+      "gloss": "ચોટ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ની જગ્યાએ"
+    },
+    {
+      "surface": "חבורה",
+      "gloss": "ચોટ"
+    }
+  ],
+  "timestamp": "2026-08-21T11:17:50.684617857Z",
+  "model": "glm-5.3"
+}

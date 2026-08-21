@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 30:10",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 30,
+  "translation": "એ દાસની તેના અદોનાય પાસે કુવાદ ન કર, નહીં તો તે તને શાપ આપે, અને તું દોષિત ઠરે।",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ન"
+    },
+    {
+      "surface": "תלשן",
+      "gloss": "કુવાદ કર"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "દાસની"
+    },
+    {
+      "surface": "אל",
+      "gloss": "પાસે"
+    },
+    {
+      "surface": "אדנו",
+      "gloss": "તેના અદોનાય"
+    },
+    {
+      "surface": "פן",
+      "gloss": "નહીં તો"
+    },
+    {
+      "surface": "יקללך",
+      "gloss": "તે તને શાપ આપે"
+    },
+    {
+      "surface": "ואשמת",
+      "gloss": "અને તું દોષિત ઠરે"
+    }
+  ],
+  "timestamp": "2026-08-21T17:03:05.684709288Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 85:1",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 85,
+  "translation": "સંગીતદ્વારક માટે; કોરખના પુત્રોનો; એક સ્તુતિ-ગીત.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "સંગીતદ્વારક માટે"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "પુત્રોનો"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "કોરખ"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "સ્તુતિ-ગીત"
+    }
+  ],
+  "timestamp": "2026-08-21T16:34:10.633247420Z",
+  "model": "glm-5.3"
+}

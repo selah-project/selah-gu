@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 109:14",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 109,
+  "translation": "તેના પિતૃઓનો અધર્મ યાહવે પાસે સ્મરાય; અને તેની માતાનો પાપ ન ભૂંસાય.",
+  "tokens": [
+    {
+      "surface": "יזכר",
+      "gloss": "સ્મરાય"
+    },
+    {
+      "surface": "עון",
+      "gloss": "અધર્મ"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "તેના પિતૃઓનો"
+    },
+    {
+      "surface": "אל",
+      "gloss": "પાસે"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "וחטאת",
+      "gloss": "અને પાપ"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "તેની માતાનો"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ન"
+    },
+    {
+      "surface": "תמח",
+      "gloss": "ભૂંસાય"
+    }
+  ],
+  "timestamp": "2026-08-21T16:42:07.167120939Z",
+  "model": "glm-5.3"
+}

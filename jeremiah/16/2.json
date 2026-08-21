@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 16:2",
+  "book": "jeremiah",
+  "lang": "gu",
+  "chapter": 16,
+  "translation": "તું પત્ની ન લઈશ, અને આ સ્થાનમાં તારા પુત્રો કે પુત્રીઓ થશે નહીં.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "તું લઈશ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "તારા માટે"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "પત્ની"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "અને નહીં"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "થશે"
+    },
+    {
+      "surface": "לך",
+      "gloss": "તને"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "અને પુત્રીઓ"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "આ સ્થાનમાં"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "આ"
+    }
+  ],
+  "timestamp": "2026-08-21T14:52:57.905505625Z",
+  "model": "glm-5.3"
+}

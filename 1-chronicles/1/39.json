@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 1:39",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 1,
+  "translation": "અને લોતાનનાં પુત્રો: હોરિ અને હોમામ; અને લોતાનની બહેન ⟨હતી⟩ તિમ્ના.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "અને …નાં પુત્રો"
+    },
+    {
+      "surface": "לוטן",
+      "gloss": "લોતાનનાં"
+    },
+    {
+      "surface": "חרי",
+      "gloss": "હોરિ"
+    },
+    {
+      "surface": "והומם",
+      "gloss": "અને હોમામ"
+    },
+    {
+      "surface": "ואחות",
+      "gloss": "અને …ની બહેન"
+    },
+    {
+      "surface": "לוטן",
+      "gloss": "લોતાનની"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "તિમ્ના"
+    }
+  ],
+  "timestamp": "2026-08-21T17:59:03.805976570Z",
+  "model": "glm-5.3"
+}

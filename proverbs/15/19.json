@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 15:19",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 15,
+  "translation": "આળસુનો માર્ગ કાંટાની વાડ જેવો ⟨છે⟩, અને સીધાઓનો માર્ગ સમતલ કરેલો ⟨છે⟩.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "માર્ગ"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "આળસુનો"
+    },
+    {
+      "surface": "כמשכת",
+      "gloss": "જેવો"
+    },
+    {
+      "surface": "חדק",
+      "gloss": "કાંટાની વાડ"
+    },
+    {
+      "surface": "וארח",
+      "gloss": "અને પગલો"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "સીધાઓનો"
+    },
+    {
+      "surface": "סללה",
+      "gloss": "સમતલ કરેલો"
+    }
+  ],
+  "timestamp": "2026-08-21T16:57:39.518566706Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 4:16",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 4,
+  "translation": "અને યહાલ્લેલેલના પુત્રો: ઝિફ, અને ઝિફાહ, તિર્યા અને અસરએલ.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "અને …ના પુત્રો"
+    },
+    {
+      "surface": "יהללאל",
+      "gloss": "યહાલ્લેલેલ"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "ઝિફ"
+    },
+    {
+      "surface": "וזיפה",
+      "gloss": "અને ઝિફાહ"
+    },
+    {
+      "surface": "תיריא",
+      "gloss": "તિર્યા"
+    },
+    {
+      "surface": "ואשראל",
+      "gloss": "અને અસરએલ"
+    }
+  ],
+  "timestamp": "2026-08-21T18:02:00.933979418Z",
+  "model": "glm-5.3"
+}

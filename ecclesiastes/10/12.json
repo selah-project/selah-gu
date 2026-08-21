@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 10:12",
+  "book": "ecclesiastes",
+  "lang": "gu",
+  "chapter": 10,
+  "translation": "જ્ઞાનીના મુખના શબ્દો અનુગ્રહ ⟨છે⟩, પરંતુ મૂર્ખના હોઠ તેને ગળી જાય છે.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "શબ્દો"
+    },
+    {
+      "surface": "פי",
+      "gloss": "મુખના"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "જ્ઞાનીના"
+    },
+    {
+      "surface": "חן",
+      "gloss": "અનુગ્રહ"
+    },
+    {
+      "surface": "ושפתות",
+      "gloss": "અને હોઠ"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "મૂર્ખના"
+    },
+    {
+      "surface": "תבלענו",
+      "gloss": "તેને ગળી જાય છે"
+    }
+  ],
+  "timestamp": "2026-08-21T17:30:22.858177243Z",
+  "model": "glm-5.3"
+}

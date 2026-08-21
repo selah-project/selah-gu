@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "1-chronicles 2:50",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 2,
+  "translation": "આ ⟨આ⟩ કાલેબના પુત્રો હતા: હૂર, એફ્રાતાહનો પહેલોજન્મા, તેના પુત્રો — શોબાલ, કિર્યત યઆરીમનો પિતા.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "આ"
+    },
+    {
+      "surface": "היו",
+      "gloss": "હતા"
+    },
+    {
+      "surface": "בני",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "કાલેબના"
+    },
+    {
+      "surface": "בן",
+      "gloss": "પુત્ર"
+    },
+    {
+      "surface": "חור",
+      "gloss": "હૂર"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "પહેલોજન્મા"
+    },
+    {
+      "surface": "אפרתה",
+      "gloss": "એફ્રાતાહનો"
+    },
+    {
+      "surface": "שובל",
+      "gloss": "શોબાલ"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "પિતા"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "કિર્યત"
+    },
+    {
+      "surface": "יערים",
+      "gloss": "યઆરીમનો"
+    }
+  ],
+  "timestamp": "2026-08-21T17:59:39.598833035Z",
+  "model": "glm-5.3"
+}

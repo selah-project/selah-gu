@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "proverbs 30:33",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 30,
+  "translation": "કેમ કે દૂધનું દબાણ ઘી કાઢે છે, અને નાકનું દબાણ લોહી કાઢે છે, અને ક્રોધનું દબાણ ઝઘટો કાઢે છે.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "કેમ કે"
+    },
+    {
+      "surface": "מיץ",
+      "gloss": "દબાણ"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "દૂધનું"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "કાઢે છે"
+    },
+    {
+      "surface": "חמאה",
+      "gloss": "ઘી"
+    },
+    {
+      "surface": "ומיץ",
+      "gloss": "અને દબાણ"
+    },
+    {
+      "surface": "אף",
+      "gloss": "નાકનું"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "કાઢે છે"
+    },
+    {
+      "surface": "דם",
+      "gloss": "લોહી"
+    },
+    {
+      "surface": "ומיץ",
+      "gloss": "અને દબાણ"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "ક્રોધનું"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "કાઢે છે"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "ઝઘટો"
+    }
+  ],
+  "timestamp": "2026-08-21T17:03:41.521737123Z",
+  "model": "glm-5.3"
+}

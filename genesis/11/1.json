@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 11:1",
+  "book": "genesis",
+  "lang": "gu",
+  "chapter": 11,
+  "translation": "અને સમગ્ર પૃથ્વી ⟨હતી⟩ એક જ ભાષા, અને એક જ શબ્દો.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "અને ⟨હતી⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "સમગ્ર"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "પૃથ્વી"
+    },
+    {
+      "surface": "שפה",
+      "gloss": "ભાષા"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "એક જ"
+    },
+    {
+      "surface": "ודברים",
+      "gloss": "અને શબ્દો"
+    },
+    {
+      "surface": "אחדים",
+      "gloss": "એક જ"
+    }
+  ],
+  "timestamp": "2026-08-21T10:42:02.624240750Z",
+  "model": "glm-5.3"
+}

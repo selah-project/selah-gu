@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 22:1",
+  "book": "jeremiah",
+  "lang": "gu",
+  "chapter": 22,
+  "translation": "છે યાહવે કહે છે: યહૂદાના રાજાના ઘર પર ઊતરો, અને ત્યાં ⟨את⟩ આ વચન બોલો,",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "છે"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "કહે છે"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "רד",
+      "gloss": "ઊતરો"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ઘર પર"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "રાજાના"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "યહૂદાના"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "અને બોલો"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ત્યાં"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "આ વચન"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "વચન"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "આ"
+    }
+  ],
+  "timestamp": "2026-08-21T14:56:23.116148849Z",
+  "model": "glm-5.3"
+}

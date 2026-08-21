@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 7:1",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 7,
+  "translation": "અને યિસ્સાખરના પુત્રો — તોલા, પુઆ, યાશૂબ અને શિમરોન — ચાર.",
+  "tokens": [
+    {
+      "surface": "ולבני",
+      "gloss": "અને પુત્રો"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "યિસ્સાખરના"
+    },
+    {
+      "surface": "תולע",
+      "gloss": "તોલા"
+    },
+    {
+      "surface": "ופואה",
+      "gloss": "પુઆ"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "યાશૂબ"
+    },
+    {
+      "surface": "ושמרון",
+      "gloss": "શિમરોન"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "ચાર"
+    }
+  ],
+  "timestamp": "2026-08-21T18:03:59.482472169Z",
+  "model": "glm-5.3"
+}

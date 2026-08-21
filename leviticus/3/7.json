@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 3:7",
+  "book": "leviticus",
+  "lang": "gu",
+  "chapter": 3,
+  "translation": "જો તે યારુંની ભેટ પ્રસ્તુત કરે, તો તે તેને યાહવેના સામે પ્રસ્તુત કરે.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "જો"
+    },
+    {
+      "surface": "כשב",
+      "gloss": "યારું"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "તે"
+    },
+    {
+      "surface": "מקריב",
+      "gloss": "પ્રસ્તુત કરે"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "તેની ભેટ"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "તેની ભેટ"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "પ્રસ્તુત કરે"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "તેને"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "સામે"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    }
+  ],
+  "timestamp": "2026-08-21T11:30:19.434305494Z",
+  "model": "glm-5.3"
+}

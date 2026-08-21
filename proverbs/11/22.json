@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 11:22",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 11,
+  "translation": "ડુક્કરનાં થણાંમાં સોનાની નથપણ — સુંદર સ્ત્રી જે પ્રત્યયથી વિમુખ છે.",
+  "tokens": [
+    {
+      "surface": "נזם",
+      "gloss": "નથપણ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "સોનાની"
+    },
+    {
+      "surface": "באף",
+      "gloss": "થણાંમાં"
+    },
+    {
+      "surface": "חזיר",
+      "gloss": "ડુક્કરનાં"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "સ્ત્રી"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "સુંદર"
+    },
+    {
+      "surface": "וסרת",
+      "gloss": "જે વિમુખ છે"
+    },
+    {
+      "surface": "טעם",
+      "gloss": "પ્રત્યયથી"
+    }
+  ],
+  "timestamp": "2026-08-21T16:55:28.002614957Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 8:12",
+  "book": "2-chronicles",
+  "lang": "gu",
+  "chapter": 8,
+  "translation": "ત્યારે શલોમોએ યાહવે માટે હોમબલિઓ ચઢાવી, યાહવેની વેદી પર, જે તેણે પ્રાંગણની સામે બાંધી હતી.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "ત્યારે"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ચઢાવી"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "શલોમોએ"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "હોમબલિઓ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "યાહવે માટે"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "વેદી"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવેની"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જે"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "બાંધી"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "સામે"
+    },
+    {
+      "surface": "האולם",
+      "gloss": "પ્રાંગણની"
+    }
+  ],
+  "timestamp": "2026-08-21T18:18:54.445522335Z",
+  "model": "glm-5.3"
+}

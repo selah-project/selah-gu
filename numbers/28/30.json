@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 28:30",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 28,
+  "translation": "એક રાંઝણનું બકરું, તમારા માટે પ્રાયશ્ચિત કરવા.",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "બકરું"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "રાંઝણનું"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "એક"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "પ્રાયશ્ચિત કરવા"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "તમારા માટે"
+    }
+  ],
+  "timestamp": "2026-08-21T12:06:16.577480019Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 12:2",
+  "book": "exodus",
+  "lang": "gu",
+  "chapter": 12,
+  "translation": "આ માસ તમારા માટે માસોનું મુખ ⟨છે⟩; તે તમારા માટે વર્ષના માસોમાં પ્રથમ ⟨છે⟩.",
+  "tokens": [
+    {
+      "surface": "החדש",
+      "gloss": "આ માસ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "આ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "તમારા માટે"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "મુખ"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "માસોનું"
+    },
+    {
+      "surface": "ראשון",
+      "gloss": "પ્રથમ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "તે"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "તમારા માટે"
+    },
+    {
+      "surface": "לחדשי",
+      "gloss": "માસોમાં"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "વર્ષના"
+    }
+  ],
+  "timestamp": "2026-08-21T11:11:32.890024768Z",
+  "model": "glm-5.3"
+}

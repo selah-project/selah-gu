@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 14:9",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 14,
+  "translation": "અને પલિશ્તીઓ આવ્યા અને રાફાઈમના ખીણમાં ફેલાઈ ગયા.",
+  "tokens": [
+    {
+      "surface": "ופלשתים",
+      "gloss": "અને પલિશ્તીઓ"
+    },
+    {
+      "surface": "באו",
+      "gloss": "આવ્યા"
+    },
+    {
+      "surface": "ויפשטו",
+      "gloss": "અને ફેલાઈ ગયા"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "ખીણમાં"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "રાફાઈમ"
+    }
+  ],
+  "timestamp": "2026-08-21T18:07:04.450148611Z",
+  "model": "glm-5.3"
+}

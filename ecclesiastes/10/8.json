@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 10:8",
+  "book": "ecclesiastes",
+  "lang": "gu",
+  "chapter": 10,
+  "translation": "ખાડો ખોદનાર તેમાં પડશે, અને દીવાલ તોડનારને સાપ ડંખશે.",
+  "tokens": [
+    {
+      "surface": "חפר",
+      "gloss": "ખોદનાર"
+    },
+    {
+      "surface": "גומץ",
+      "gloss": "ખાડો"
+    },
+    {
+      "surface": "בו",
+      "gloss": "તેમાં"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "પડશે"
+    },
+    {
+      "surface": "ופרץ",
+      "gloss": "અને તોડનારને"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "દીવાલ"
+    },
+    {
+      "surface": "ישכנו",
+      "gloss": "ડંખશે"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "સાપ"
+    }
+  ],
+  "timestamp": "2026-08-21T18:59:54.248604616Z",
+  "model": "glm-5.3"
+}

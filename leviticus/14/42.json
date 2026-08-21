@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "leviticus 14:42",
+  "book": "leviticus",
+  "lang": "gu",
+  "chapter": 14,
+  "translation": "અને તે બીજાં પથ્થરો લેશે અને તે પથ્થરોના બદલે લાવશે, અને બીજી ધૂળ લઈને ⟨את⟩ ઘર પરિબંધશે.",
+  "tokens": [
+    {
+      "surface": "ולקחו",
+      "gloss": "અને લેશે"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "પથ્થરો"
+    },
+    {
+      "surface": "אחרות",
+      "gloss": "બીજાં"
+    },
+    {
+      "surface": "והביאו",
+      "gloss": "અને લાવશે"
+    },
+    {
+      "surface": "אל",
+      "gloss": "પર"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "બદલે"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "તે પથ્થરોના"
+    },
+    {
+      "surface": "ועפר",
+      "gloss": "અને ધૂળ"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "બીજી"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "લઈને"
+    },
+    {
+      "surface": "וטח",
+      "gloss": "અને પરિબંધશે"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ઘર"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ઘર"
+    }
+  ],
+  "timestamp": "2026-08-21T11:37:39.437441818Z",
+  "model": "glm-5.3"
+}

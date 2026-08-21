@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 109:27",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 109,
+  "translation": "અને તેઓ જાણે કે ⟨આ⟩ તારો હાથ ⟨છે⟩; તું, હે યાહવે, તે કર્યું ⟨છે⟩.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "અને તેઓ જાણે"
+    },
+    {
+      "surface": "כי",
+      "gloss": "કે"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "તારો હાથ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "⟨આ⟩"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "તું"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "હે યાહવે"
+    },
+    {
+      "surface": "עשיתה",
+      "gloss": "તે કર્યું"
+    }
+  ],
+  "timestamp": "2026-08-21T16:41:39.536535689Z",
+  "model": "glm-5.3"
+}

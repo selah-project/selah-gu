@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "jeremiah 32:27",
+  "book": "jeremiah",
+  "lang": "gu",
+  "chapter": 32,
+  "translation": "જુઓ, હું યાહવે છું, સર્વ માંસનો એલોહીમ — શું મારાથી કોઈ ⟨is⟩ વચન અદ્ભુત છે?",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "જુઓ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "હું"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "એલોહીમ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "સર્વ"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "માંસનો"
+    },
+    {
+      "surface": "הממני",
+      "gloss": "મારાથી"
+    },
+    {
+      "surface": "יפלא",
+      "gloss": "અદ્ભુત છે"
+    },
+    {
+      "surface": "כל",
+      "gloss": "કોઈ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "વચન"
+    }
+  ],
+  "timestamp": "2026-08-21T15:03:32.467099657Z",
+  "model": "glm-5.3"
+}

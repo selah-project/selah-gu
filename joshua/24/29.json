@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "joshua 24:29",
+  "book": "joshua",
+  "lang": "gu",
+  "chapter": 24,
+  "translation": "અને આ બધી વાતો પછી થયું કે યહોશુઆ બિન નૂન, યાહવેનો સેવક, મરણ પામ્યો — સો વર્ષ અને દસ વર્ષનો પુત્ર.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "થયું કે"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "પછી"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "વાતો"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "આ"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "મરણ પામ્યો"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "યહોશુઆ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "પુત્ર"
+    },
+    {
+      "surface": "נון",
+      "gloss": "નૂન"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "સેવક"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "בן",
+      "gloss": "પુત્ર"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "સો"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "અને દસ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "વર્ષ"
+    }
+  ],
+  "timestamp": "2026-08-21T12:46:16.766733145Z",
+  "model": "glm-5.3"
+}

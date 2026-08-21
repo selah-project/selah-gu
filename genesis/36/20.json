@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 36:20",
+  "book": "genesis",
+  "lang": "gu",
+  "chapter": 36,
+  "translation": "આ સેઈર હોરીનાં પુત્રો છે, ⟨જે⟩ દેશના વતનીઓ: લોતાન, શોબાલ, ઝિબયોન અને અનાહ.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "આ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "સેઈર"
+    },
+    {
+      "surface": "החרי",
+      "gloss": "હોરીનાં"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "વતનીઓ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "દેશના"
+    },
+    {
+      "surface": "לוטן",
+      "gloss": "લોતાન"
+    },
+    {
+      "surface": "ושובל",
+      "gloss": "અને શોબાલ"
+    },
+    {
+      "surface": "וצבעון",
+      "gloss": "અને ઝિબયોન"
+    },
+    {
+      "surface": "וענה",
+      "gloss": "અને અનાહ"
+    }
+  ],
+  "timestamp": "2026-08-21T10:56:34.335179669Z",
+  "model": "glm-5.3"
+}

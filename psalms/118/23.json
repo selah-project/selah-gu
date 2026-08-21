@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 118:23",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 118,
+  "translation": "આ યાહવેની ⟨את⟩ તરફથી થયું છે; તે આપણી આંખોમાં અદ્ભુત છે.",
+  "tokens": [
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "યાહવે (તરફથી)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "થયું છે"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "આ"
+    },
+    {
+      "surface": "היא",
+      "gloss": "તે"
+    },
+    {
+      "surface": "נפלאת",
+      "gloss": "અદ્ભુત છે"
+    },
+    {
+      "surface": "בעינינו",
+      "gloss": "આપણી આંખોમાં"
+    }
+  ],
+  "timestamp": "2026-08-21T16:43:05.978239322Z",
+  "model": "glm-5.3"
+}

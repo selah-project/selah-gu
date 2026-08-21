@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 21:19",
+  "book": "leviticus",
+  "lang": "gu",
+  "chapter": 21,
+  "translation": "કે જે પુરુષમાં પગનું ભાંગુ હોય, કે હાથનું ભાંગુ હોય.",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "કે"
+    },
+    {
+      "surface": "איש",
+      "gloss": "પુરુષ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જે"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "હોય"
+    },
+    {
+      "surface": "בו",
+      "gloss": "તેમાં"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "ભાંગુ"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "પગનું"
+    },
+    {
+      "surface": "או",
+      "gloss": "કે"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "ભાંગુ"
+    },
+    {
+      "surface": "יד",
+      "gloss": "હાથનું"
+    }
+  ],
+  "timestamp": "2026-08-21T11:42:27.854661761Z",
+  "model": "glm-5.3"
+}

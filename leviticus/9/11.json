@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 9:11",
+  "book": "leviticus",
+  "lang": "gu",
+  "chapter": 9,
+  "translation": "અને ⟨את⟩ માંસ અને ⟨את⟩ ચામડી તેણે છાવણીની બહાર આગમાં બાળી.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "માંસ"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "માંસ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ચામડી"
+    },
+    {
+      "surface": "העור",
+      "gloss": "ચામડી"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "બાળી"
+    },
+    {
+      "surface": "באש",
+      "gloss": "આગમાં"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "બહાર"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "છાવણીની"
+    }
+  ],
+  "timestamp": "2026-08-21T11:33:42.424050355Z",
+  "model": "glm-5.3"
+}

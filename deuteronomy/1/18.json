@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 1:18",
+  "book": "deuteronomy",
+  "lang": "gu",
+  "chapter": 1,
+  "translation": "અને હું તે સમયે તમને ⟨את⟩ આજ્ઞા કરું છું — ⟨את⟩ બધાં જ કાર્યો, જે તમે કરશો.",
+  "tokens": [
+    {
+      "surface": "ואצוה",
+      "gloss": "અને હું આજ્ઞા કરું છું"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "તમને"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "સમયે"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "તે"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "બધાં જ કાર્યો"
+    },
+    {
+      "surface": "כל",
+      "gloss": "બધાં જ"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "કાર્યો"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જે"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "તમે કરશો"
+    }
+  ],
+  "timestamp": "2026-08-21T12:13:50.624802646Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "psalms 119:49",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 119,
+  "translation": "તમારા દાસ માટે ⟨તે⟩ વચનને યાદ કરો, જેના પર તમે મને આશા ધરાવી છે.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "યાદ કરો"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "વચન"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "તમારા દાસ માટે"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જેના"
+    },
+    {
+      "surface": "יחלתני",
+      "gloss": "મને આશા ધરાવી છે"
+    }
+  ],
+  "timestamp": "2026-08-21T16:43:55.816482051Z",
+  "model": "glm-5.3"
+}

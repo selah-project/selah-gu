@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 15:25",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 15,
+  "translation": "ગર્વિષ્ઠોનું ઘર યાહવે પાડી નાખશે, અને વિધવાની સીમા ⟨તે⟩ સ્થિર કરશે.",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "ઘર"
+    },
+    {
+      "surface": "גאים",
+      "gloss": "ગર્વિષ્ઠોનું"
+    },
+    {
+      "surface": "יסח",
+      "gloss": "પાડી નાખશે"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "ויצב",
+      "gloss": "અને સ્થિર કરશે"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "સીમા"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "વિધવાની"
+    }
+  ],
+  "timestamp": "2026-08-21T16:57:00.570895234Z",
+  "model": "glm-5.3"
+}

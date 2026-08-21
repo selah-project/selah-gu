@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 20:3",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 20,
+  "translation": "ઝઘડામાંથી અટકી જવું ⟨એ⟩ માણસ માટે માન છે, પણ દરેક મૂર્ખ કજિયા કરે છે.",
+  "tokens": [
+    {
+      "surface": "כבוד",
+      "gloss": "માન"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "માણસ માટે"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "અટકી જવું"
+    },
+    {
+      "surface": "מריב",
+      "gloss": "ઝઘડામાંથી"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "પણ દરેક"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "મૂર્ખ"
+    },
+    {
+      "surface": "יתגלע",
+      "gloss": "કજિયા કરે છે"
+    }
+  ],
+  "timestamp": "2026-08-21T16:59:45.774883772Z",
+  "model": "glm-5.3"
+}

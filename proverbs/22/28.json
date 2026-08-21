@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 22:28",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 22,
+  "translation": "તારા પિતૃઓએ ગોઠવેલી પ્રાચીન સીમા તું ખસેડતો નહીં.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "תסג",
+      "gloss": "તું ખસેડતો"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "સીમા"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "પ્રાચીન (અનાદિ)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જે"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ગોઠવેલી"
+    },
+    {
+      "surface": "אבותיך",
+      "gloss": "તારા પિતૃઓએ"
+    }
+  ],
+  "timestamp": "2026-08-21T17:00:19.412663040Z",
+  "model": "glm-5.3"
+}

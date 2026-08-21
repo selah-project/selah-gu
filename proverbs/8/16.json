@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 8:16",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 8,
+  "translation": "મારા દ્વારા સરદારો શાસન કરે છે, અને ઉમરાવો — પૃથ્વીના તમામ ન્યાયાધીશો.",
+  "tokens": [
+    {
+      "surface": "בי",
+      "gloss": "મારા દ્વારા"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "સરદારો"
+    },
+    {
+      "surface": "ישרו",
+      "gloss": "શાસન કરે છે"
+    },
+    {
+      "surface": "ונדיבים",
+      "gloss": "અને ઉમરાવો"
+    },
+    {
+      "surface": "כל",
+      "gloss": "તમામ"
+    },
+    {
+      "surface": "שפטי",
+      "gloss": "ન્યાયાધીશો"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ન્યાય"
+    }
+  ],
+  "timestamp": "2026-08-21T18:57:37.623772608Z",
+  "model": "glm-5.3"
+}

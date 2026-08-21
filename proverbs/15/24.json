@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 15:24",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 15,
+  "translation": "જીવનનો માર્ગ સમજદાર માટે ઉપર તરફ ⟨છે⟩, જેથી ⟨તે⟩ નીચેના શેઓલથી દૂર જાય.",
+  "tokens": [
+    {
+      "surface": "ארח",
+      "gloss": "માર્ગ"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "જીવનનો"
+    },
+    {
+      "surface": "למעלה",
+      "gloss": "ઉપર તરફ"
+    },
+    {
+      "surface": "למשכיל",
+      "gloss": "સમજદાર માટે"
+    },
+    {
+      "surface": "למען",
+      "gloss": "જેથી"
+    },
+    {
+      "surface": "סור",
+      "gloss": "દૂર જાય"
+    },
+    {
+      "surface": "משאול",
+      "gloss": "શેઓલથી"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "નીચેના"
+    }
+  ],
+  "timestamp": "2026-08-21T16:57:28.846988587Z",
+  "model": "glm-5.3"
+}

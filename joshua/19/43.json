@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "joshua 19:43",
+  "book": "joshua",
+  "lang": "gu",
+  "chapter": 19,
+  "translation": "અને એલોન, અને તિમ્ના, અને એક્રોન.",
+  "tokens": [
+    {
+      "surface": "ואילון",
+      "gloss": "અને એલોન"
+    },
+    {
+      "surface": "ותמנתה",
+      "gloss": "અને તિમ્ના"
+    },
+    {
+      "surface": "ועקרון",
+      "gloss": "અને એક્રોન"
+    }
+  ],
+  "timestamp": "2026-08-21T12:41:42.184565691Z",
+  "model": "glm-5.3"
+}

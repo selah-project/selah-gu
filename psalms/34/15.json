@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 34:15",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 34,
+  "translation": "દુષ્ટતાથી દૂર વળ, અને સારું કર; શાંતિ શોધ અને તેની પાછળ દોડ.",
+  "tokens": [
+    {
+      "surface": "סור",
+      "gloss": "દૂર વળ"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "દુષ્ટતાથી"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "અને કર"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "સારું"
+    },
+    {
+      "surface": "בקש",
+      "gloss": "શોધ"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "શાંતિ"
+    },
+    {
+      "surface": "ורדפהו",
+      "gloss": "અને તેની પાછળ દોડ"
+    }
+  ],
+  "timestamp": "2026-08-21T16:18:20.668331366Z",
+  "model": "glm-5.3"
+}

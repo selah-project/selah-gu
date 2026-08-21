@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 27:19",
+  "book": "deuteronomy",
+  "lang": "gu",
+  "chapter": 27,
+  "translation": "શાપિત ⟨છે⟩ તે જે પરદેશી, અનાથ અને વિધવાનો ન્યાય વાળી દે; અને આખા પ્રજાએ કહેવું: આમેન.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "શાપિત"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "વાળી દે"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ન્યાય"
+    },
+    {
+      "surface": "גר",
+      "gloss": "પરદેશી"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "અનાથ"
+    },
+    {
+      "surface": "ואלמנה",
+      "gloss": "અને વિધવા"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "અને કહેવું"
+    },
+    {
+      "surface": "כל",
+      "gloss": "આખા"
+    },
+    {
+      "surface": "העם",
+      "gloss": "પ્રજાએ"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "આમેન"
+    }
+  ],
+  "timestamp": "2026-08-21T12:27:09.115540078Z",
+  "model": "glm-5.3"
+}

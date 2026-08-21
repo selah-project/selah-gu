@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 23:17",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 23,
+  "translation": "તારું હૃદય પાપીઓ પ્રત્યે ઈર્ષ્યા ન કરે, પણ યાહવેના ભયમાં સર્વ દિવસ રહે.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ન કરે"
+    },
+    {
+      "surface": "יקנא",
+      "gloss": "ઈર્ષ્યા"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "તારું હૃદય"
+    },
+    {
+      "surface": "בחטאים",
+      "gloss": "પાપીઓ પ્રત્યે"
+    },
+    {
+      "surface": "כי",
+      "gloss": "કેમ કે"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ફક્ત"
+    },
+    {
+      "surface": "ביראת",
+      "gloss": "ભયમાં"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવેના"
+    },
+    {
+      "surface": "כל",
+      "gloss": "સર્વ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "દિવસ"
+    }
+  ],
+  "timestamp": "2026-08-21T17:00:59.490154699Z",
+  "model": "glm-5.3"
+}

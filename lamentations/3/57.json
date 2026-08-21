@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "lamentations 3:57",
+  "book": "lamentations",
+  "lang": "gu",
+  "chapter": 3,
+  "translation": "હું જે દિવસે તને પાક્કો કરું તે દિવસે તું નજીક આવ્યો; તેં કહ્યું, “ડરશો નહીં.”",
+  "tokens": [
+    {
+      "surface": "קרבת",
+      "gloss": "તું નજીક આવ્યો"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "જે દિવસે"
+    },
+    {
+      "surface": "אקראך",
+      "gloss": "હું તને પાક્કો કરું"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "તેં કહ્યું"
+    },
+    {
+      "surface": "אל",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "ડરશો"
+    }
+  ],
+  "timestamp": "2026-08-21T17:25:33.997165898Z",
+  "model": "glm-5.3"
+}

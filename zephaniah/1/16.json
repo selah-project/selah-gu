@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "zephaniah 1:16",
+  "book": "zephaniah",
+  "lang": "gu",
+  "chapter": 1,
+  "translation": "શિંગડાના નાદ અને યુદ્ધઘોષનો દિવસ — કિલ્લેબંધ નગરો સામે અને ઊંચી કોટડીઓ સામે.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "દિવસ"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "શિંગડાનો નાદ"
+    },
+    {
+      "surface": "ותרועה",
+      "gloss": "અને યુદ્ધઘોષ"
+    },
+    {
+      "surface": "על",
+      "gloss": "સામે"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "નગરો"
+    },
+    {
+      "surface": "הבצרות",
+      "gloss": "કિલ્લેબંધ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "અને સામે"
+    },
+    {
+      "surface": "הפנות",
+      "gloss": "કોટડીઓ"
+    },
+    {
+      "surface": "הגבהות",
+      "gloss": "ઊંચી"
+    }
+  ],
+  "timestamp": "2026-08-21T18:54:21.768943017Z",
+  "model": "glm-5.3"
+}

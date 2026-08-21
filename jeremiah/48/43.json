@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "jeremiah 48:43",
+  "book": "jeremiah",
+  "lang": "gu",
+  "chapter": 48,
+  "translation": "ભય, અને ખાડો, અને જાળ, તારા પર ⟨છે⟩, હે મોઆબના વતની, યાહવેનો નિર્દેશ.",
+  "tokens": [
+    {
+      "surface": "פחד",
+      "gloss": "ભય"
+    },
+    {
+      "surface": "ופחת",
+      "gloss": "અને ખાડો"
+    },
+    {
+      "surface": "ופח",
+      "gloss": "અને જાળ"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "તારા પર"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "વતની"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "મોઆબ"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "નિર્દેશ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    }
+  ],
+  "timestamp": "2026-08-21T19:54:17.082709890Z",
+  "model": "glm-5.3"
+}

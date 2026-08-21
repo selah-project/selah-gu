@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "ezekiel 24:26",
+  "book": "ezekiel",
+  "lang": "gu",
+  "chapter": 24,
+  "translation": "એ દિવસે તારી પાસે બચી નીકળનાર આવશે, કાનોને સંભળાવવા.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "એ દિવસે"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "તે"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "આવશે"
+    },
+    {
+      "surface": "הפליט",
+      "gloss": "બચી નીકળનાર"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "તારી પાસે"
+    },
+    {
+      "surface": "להשמעות",
+      "gloss": "સંભળાવવા"
+    },
+    {
+      "surface": "אזנים",
+      "gloss": "કાનોને"
+    }
+  ],
+  "timestamp": "2026-08-21T15:30:36.892160379Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "zechariah 12:14",
+  "book": "zechariah",
+  "lang": "gu",
+  "chapter": 12,
+  "translation": "બાકી રહેલાં બધાં કુટુંબો — કુટુંબ કુટુંબ અલગ, અને તેમની પત્નીઓ અલગ.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "બધાં"
+    },
+    {
+      "surface": "המשפחות",
+      "gloss": "કુટુંબો"
+    },
+    {
+      "surface": "הנשארות",
+      "gloss": "બાકી રહેલાં"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "કુટુંબ"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "કુટુંબ"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "અલગ"
+    },
+    {
+      "surface": "ונשיהם",
+      "gloss": "અને તેમની પત્નીઓ"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "અલગ"
+    }
+  ],
+  "timestamp": "2026-08-21T16:06:20.579819106Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 2:4",
+  "book": "ezra",
+  "lang": "gu",
+  "chapter": 2,
+  "translation": "શેફાત્યાહના પુત્રો — ત્રણસો બોતાળી બેસ્સો.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "שפטיה",
+      "gloss": "શેફાત્યાહના"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ત્રણ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "સો"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "બોતાળી"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "બેસ્સો"
+    }
+  ],
+  "timestamp": "2026-08-21T17:46:04.851574174Z",
+  "model": "glm-5.3"
+}

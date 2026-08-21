@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 24:10",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 24,
+  "translation": "તું તંગીના દિવસે ઢળી જશે — તારું બળ તુચ્છ છે.",
+  "tokens": [
+    {
+      "surface": "התרפית",
+      "gloss": "ઢળી જશે"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "દિવસે"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "તંગીના"
+    },
+    {
+      "surface": "צר",
+      "gloss": "તુચ્છ"
+    },
+    {
+      "surface": "כחכה",
+      "gloss": "તારું બળ"
+    }
+  ],
+  "timestamp": "2026-08-21T17:00:55.036884791Z",
+  "model": "glm-5.3"
+}

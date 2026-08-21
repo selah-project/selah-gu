@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 1:15",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 1,
+  "translation": "નફ્તાલી માટે — અહીરા, એનાનનો પુત્ર.",
+  "tokens": [
+    {
+      "surface": "לנפתלי",
+      "gloss": "નફ્તાલી માટે"
+    },
+    {
+      "surface": "אחירע",
+      "gloss": "અહીરા"
+    },
+    {
+      "surface": "בן",
+      "gloss": "પુત્ર"
+    },
+    {
+      "surface": "עינן",
+      "gloss": "એનાન"
+    }
+  ],
+  "timestamp": "2026-08-21T11:46:38.443786114Z",
+  "model": "glm-5.3"
+}

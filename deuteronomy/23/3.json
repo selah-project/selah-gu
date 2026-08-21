@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 23:3",
+  "book": "deuteronomy",
+  "lang": "gu",
+  "chapter": 23,
+  "translation": "મામઝેર યાહવેની સભામાં પ્રવેશશે નહીં; તેનું દસમું પેઢી પણ યાહવેની સભામાં પ્રવેશશે નહીં.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "પ્રવેશશે"
+    },
+    {
+      "surface": "ממזר",
+      "gloss": "મામઝેર"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "સભામાં"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવેની"
+    },
+    {
+      "surface": "גם",
+      "gloss": "પણ"
+    },
+    {
+      "surface": "דור",
+      "gloss": "પેઢી"
+    },
+    {
+      "surface": "עשירי",
+      "gloss": "દસમું"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "પ્રવેશશે"
+    },
+    {
+      "surface": "לו",
+      "gloss": "તેનું"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "સભામાં"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવેની"
+    }
+  ],
+  "timestamp": "2026-08-21T12:25:54.714087195Z",
+  "model": "glm-5.3"
+}

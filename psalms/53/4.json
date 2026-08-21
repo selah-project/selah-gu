@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 53:4",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 53,
+  "translation": "બધા ⟨એ⟩ પીછાંહઠ કરી, તેઓ સાથે મળીને મલિન થયા; સારું કરનાર કોઈ નથી, એક પણ નહીં.",
+  "tokens": [
+    {
+      "surface": "כלו",
+      "gloss": "બધા"
+    },
+    {
+      "surface": "סג",
+      "gloss": "પીછાંહઠ કરી"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "સાથે મળીને"
+    },
+    {
+      "surface": "נאלחו",
+      "gloss": "મલિન થયા"
+    },
+    {
+      "surface": "אין",
+      "gloss": "નથી"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "કરનાર"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "સારું"
+    },
+    {
+      "surface": "אין",
+      "gloss": "નથી"
+    },
+    {
+      "surface": "גם",
+      "gloss": "પણ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "એક"
+    }
+  ],
+  "timestamp": "2026-08-21T16:25:24.198980198Z",
+  "model": "glm-5.3"
+}

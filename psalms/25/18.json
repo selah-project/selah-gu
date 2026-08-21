@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 25:18",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 25,
+  "translation": "જુઓ મારું દુઃખ અને મારો શ્રમ, અને મારાં બધાં પાપો ઉઠાવી લો.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "જુઓ"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "મારું દુઃખ"
+    },
+    {
+      "surface": "ועמלי",
+      "gloss": "અને મારો શ્રમ"
+    },
+    {
+      "surface": "ושא",
+      "gloss": "ઉઠાવી લો"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "બધાં"
+    },
+    {
+      "surface": "חטאותי",
+      "gloss": "મારાં પાપો"
+    }
+  ],
+  "timestamp": "2026-08-21T16:16:08.684205773Z",
+  "model": "glm-5.3"
+}

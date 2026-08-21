@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "lamentations 5:6",
+  "book": "lamentations",
+  "lang": "gu",
+  "chapter": 5,
+  "translation": "મિત્સરાયિમને અમે હાથ આપ્યો, અશ્શૂરને, રોટલીથી તૃપ્ત થવા.",
+  "tokens": [
+    {
+      "surface": "מצרים",
+      "gloss": "મિત્સરાયિમ"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "અમે આપ્યો"
+    },
+    {
+      "surface": "יד",
+      "gloss": "હાત"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "અશ્શૂર"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "તૃપ્ત થવા"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "રોટલીથી"
+    }
+  ],
+  "timestamp": "2026-08-21T17:28:14.831528491Z",
+  "model": "glm-5.3"
+}

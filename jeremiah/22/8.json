@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 22:8",
+  "book": "jeremiah",
+  "lang": "gu",
+  "chapter": 22,
+  "translation": "અને ઘણા પરદેશી જનો આ નગર પરથી પસાર થશે, અને દરેક પુરુષ ⟨પોતાના⟩ પડોશીને કહેશે: યાહવે આ મહાન નગર સાથે આમ કેમ કર્યું?",
+  "tokens": [
+    {
+      "surface": "ועברו",
+      "gloss": "અને પસાર થશે"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "પરદેશી જનો"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ઘણા"
+    },
+    {
+      "surface": "על",
+      "gloss": "પરથી"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "આ નગર"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "આ"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "અને કહેશે"
+    },
+    {
+      "surface": "איש",
+      "gloss": "દરેક પુરુષ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ને"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "પડોશીને"
+    },
+    {
+      "surface": "על",
+      "gloss": ""
+    },
+    {
+      "surface": "מה",
+      "gloss": "કેમ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "કર્યું"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "આમ"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "નગર સાથે"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "મહાન"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "આ"
+    }
+  ],
+  "timestamp": "2026-08-21T14:55:19.909752437Z",
+  "model": "glm-5.3"
+}

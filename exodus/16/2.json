@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 16:2",
+  "book": "exodus",
+  "lang": "gu",
+  "chapter": 16,
+  "translation": "અને ઇસ્રાએલનાં પુત્રોની આખી સભા મરુભૂમિમાં મોશેહ અને અહરોન સામે બડબડી ઊઠી.",
+  "tokens": [
+    {
+      "surface": "וילינו",
+      "gloss": "બડબડી ઊઠી"
+    },
+    {
+      "surface": "כל",
+      "gloss": "આખી"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "સભા"
+    },
+    {
+      "surface": "בני",
+      "gloss": "પુત્રોની"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ઇસ્રાએલ"
+    },
+    {
+      "surface": "על",
+      "gloss": "સામે"
+    },
+    {
+      "surface": "משה",
+      "gloss": "મોશેહ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "અને … સામે"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "અહરોન"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "મરુભૂમિમાં"
+    }
+  ],
+  "timestamp": "2026-08-21T11:13:58.417798552Z",
+  "model": "glm-5.3"
+}

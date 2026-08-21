@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "zechariah 14:9",
+  "book": "zechariah",
+  "lang": "gu",
+  "chapter": 14,
+  "translation": "અને યાહવે સમગ્ર પૃથ્વી પર રાજા થશે; તે દિવસે યાહવે એક ⟨હશે⟩ અને તેનું નામ એક ⟨હશે⟩.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "અને...થશે"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "રાજા તરીકે"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "כל",
+      "gloss": "સમગ્ર"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "પૃથ્વી"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "તે દિવસે"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "તે"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "હશે"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "એક"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "અને તેનું નામ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "એક"
+    }
+  ],
+  "timestamp": "2026-08-21T16:08:13.481232141Z",
+  "model": "glm-5.3"
+}

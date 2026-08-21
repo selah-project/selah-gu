@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 31:15",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 31,
+  "translation": "અને મોશેએ તેમને કહ્યું: “તમે તો બધી સ્ત્રીઓને જીવતી રાખી છે!”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "અને કહ્યું"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "તેમને"
+    },
+    {
+      "surface": "משה",
+      "gloss": "મોશેએ"
+    },
+    {
+      "surface": "החייתם",
+      "gloss": "જીવતી રાખી છે"
+    },
+    {
+      "surface": "כל",
+      "gloss": "બધી"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "સ્ત્રીઓને"
+    }
+  ],
+  "timestamp": "2026-08-21T12:08:19.032304344Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 2:11",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 2,
+  "translation": "અને નખશોને ⟨את⟩ સલ્માને જન્મ આપ્યો, અને સલ્માએ ⟨את⟩ બોઅઝને જન્મ આપ્યો.",
+  "tokens": [
+    {
+      "surface": "ונחשון",
+      "gloss": "અને નખશોને"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "જન્મ આપ્યો"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "સલ્મા"
+    },
+    {
+      "surface": "שלמא",
+      "gloss": "સલ્માને"
+    },
+    {
+      "surface": "ושלמא",
+      "gloss": "અને સલ્માએ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "જન્મ આપ્યો"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "બોઅઝ"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "બોઅઝને"
+    }
+  ],
+  "timestamp": "2026-08-21T17:59:35.278343343Z",
+  "model": "glm-5.3"
+}

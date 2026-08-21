@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 13:5",
+  "book": "job",
+  "lang": "gu",
+  "chapter": 13,
+  "translation": "કોણ આપશે કે તમે સાવ મૌન રહો, અને તે તમારા માટે જ્ઞાન ⟨બને⟩?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "કોણ"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "આપશે"
+    },
+    {
+      "surface": "החרש",
+      "gloss": "સાવ મૌન"
+    },
+    {
+      "surface": "תחרישון",
+      "gloss": "રહો"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "અને તે ⟨બને⟩"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "તમારા માટે"
+    },
+    {
+      "surface": "לחכמה",
+      "gloss": "જ્ઞાન"
+    }
+  ],
+  "timestamp": "2026-08-21T17:08:29.848565046Z",
+  "model": "glm-5.3"
+}

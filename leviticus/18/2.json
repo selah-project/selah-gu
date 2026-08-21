@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 18:2",
+  "book": "leviticus",
+  "lang": "gu",
+  "chapter": 18,
+  "translation": "ઇસ્રાએલના પુત્રો સાથે વાત કર, અને તેમને કહે: હું યાહવે તમારા એલોહીમ છું.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "વાત કર"
+    },
+    {
+      "surface": "אל",
+      "gloss": "સાથે"
+    },
+    {
+      "surface": "בני",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ઇસ્રાએલના"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "અને કહે"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "તેમને"
+    },
+    {
+      "surface": "אני",
+      "gloss": "હું"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "તમારા એલોહીમ"
+    }
+  ],
+  "timestamp": "2026-08-21T11:40:29.463533109Z",
+  "model": "glm-5.3"
+}

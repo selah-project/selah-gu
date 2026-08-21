@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 7:12",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 7,
+  "translation": "અને શુપ્પિમ અને હુપ્પિમ — ઇરના પુત્રો; હુશીમ — અહેરના પુત્રો।",
+  "tokens": [
+    {
+      "surface": "ושפם",
+      "gloss": "અને શુપ્પિમ"
+    },
+    {
+      "surface": "וחפם",
+      "gloss": "અને હુપ્પિમ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "…ના પુત્રો"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ઇર"
+    },
+    {
+      "surface": "חשם",
+      "gloss": "હુશીમ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "…ના પુત્રો"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "અહેર"
+    }
+  ],
+  "timestamp": "2026-08-21T18:02:58.188436957Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 24:6",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 24,
+  "translation": "આ ⟨છે⟩ તે પેઢી જે તેની શોધ કરે છે, જે તારો ચહેરો શોધે છે — યાકોવ. સેલા.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "આ"
+    },
+    {
+      "surface": "דור",
+      "gloss": "પેઢી"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "શોધ કરે છે"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "શોધનારા"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "તારો ચહેરો"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "યાકોવ"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "સેલા"
+    }
+  ],
+  "timestamp": "2026-08-21T16:17:12.081350694Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "deuteronomy 5:30",
+  "book": "deuteronomy",
+  "lang": "gu",
+  "chapter": 5,
+  "translation": "જા, તેમને કહે: તમે તમારા તંબુઓ પાસે પાછા ફરો.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "જા"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "કહે"
+    },
+    {
+      "surface": "להם",
+      "gloss": "તેમને"
+    },
+    {
+      "surface": "שובו",
+      "gloss": "પાછા ફરો"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "તમે"
+    },
+    {
+      "surface": "לאהליכם",
+      "gloss": "તમારા તંબુઓ પાસે"
+    }
+  ],
+  "timestamp": "2026-08-21T12:14:54.479520178Z",
+  "model": "glm-5.3"
+}

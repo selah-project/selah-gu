@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 1:28",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 1,
+  "translation": "અવ્રાહામનાં પુત્રો: યિત્સખાક અને યિશ્માએલ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "અવ્રાહામનાં"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "યિત્સખાક"
+    },
+    {
+      "surface": "וישמעאל",
+      "gloss": "અને યિશ્માએલ"
+    }
+  ],
+  "timestamp": "2026-08-21T17:58:55.239330012Z",
+  "model": "glm-5.3"
+}

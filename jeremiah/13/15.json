@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 13:15",
+  "book": "jeremiah",
+  "lang": "gu",
+  "chapter": 13,
+  "translation": "સાંભળો અને કાન ધરો; ગર્વ ન કરો, કેમ કે યાહવે બોલ્યો છે.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "સાંભળો"
+    },
+    {
+      "surface": "והאזינו",
+      "gloss": "અને કાન ધરો"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ન"
+    },
+    {
+      "surface": "תגבהו",
+      "gloss": "ગર્વ કરો"
+    },
+    {
+      "surface": "כי",
+      "gloss": "કેમ કે"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "બોલ્યો છે"
+    }
+  ],
+  "timestamp": "2026-08-21T14:52:18.418366448Z",
+  "model": "glm-5.3"
+}

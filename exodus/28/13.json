@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 28:13",
+  "book": "exodus",
+  "lang": "gu",
+  "chapter": 28,
+  "translation": "અને તું સોનાનાં જડાણ-કઠારાં બનાવીશ.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "અને તું બનાવીશ"
+    },
+    {
+      "surface": "משבצת",
+      "gloss": "જડાણ-કઠારાં"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "સોનાનાં"
+    }
+  ],
+  "timestamp": "2026-08-21T11:21:15.335248174Z",
+  "model": "glm-5.3"
+}

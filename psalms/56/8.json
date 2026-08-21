@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 56:8",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 56,
+  "translation": "અકર્મણ્યતાથી તેઓ છટકી જશે? ક્રોધમાં પ્રજાઓને નીચે પાડો, હે એલોહીમ.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "થી"
+    },
+    {
+      "surface": "און",
+      "gloss": "અકર્મણ્યતાથી"
+    },
+    {
+      "surface": "פלט",
+      "gloss": "છટકી જશે"
+    },
+    {
+      "surface": "למו",
+      "gloss": "તેઓ"
+    },
+    {
+      "surface": "באף",
+      "gloss": "ક્રોધમાં"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "પ્રજાઓને"
+    },
+    {
+      "surface": "הורד",
+      "gloss": "નીચે પાડો"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "હે એલોહીમ"
+    }
+  ],
+  "timestamp": "2026-08-21T16:25:55.163668649Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "ezekiel 21:30",
+  "book": "ezekiel",
+  "lang": "gu",
+  "chapter": 21,
+  "translation": "અને તું, હણાયેલા દુષ્ટ, ઇસ્રાએલના નેતા, જેનો દિવસ આવ્યો છે, અધર્મતાના અંતના સમયે—",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "અને તું"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "હણાયેલા"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "દુષ્ટ"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "નેતા"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ઇસ્રાએલ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જેનો"
+    },
+    {
+      "surface": "בא",
+      "gloss": "આવ્યો છે"
+    },
+    {
+      "surface": "יומו",
+      "gloss": "દિવસ"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "સમયે"
+    },
+    {
+      "surface": "עון",
+      "gloss": "અધર્મતાના"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "અંત"
+    }
+  ],
+  "timestamp": "2026-08-21T15:27:27.822582772Z",
+  "model": "glm-5.3"
+}

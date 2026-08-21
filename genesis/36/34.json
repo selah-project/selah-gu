@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "genesis 36:34",
+  "book": "genesis",
+  "lang": "gu",
+  "chapter": 36,
+  "translation": "અને યોવાવ મર્યો, અને તેની જગ્યાએ તેમાનીના દેશનો હુશામ રાજા થયો.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "અને મર્યો"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "યોવાવ"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "અને રાજા થયો"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "તેની જગ્યાએ"
+    },
+    {
+      "surface": "חשם",
+      "gloss": "હુશામ"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "દેશનો"
+    },
+    {
+      "surface": "התימני",
+      "gloss": "તેમાની"
+    }
+  ],
+  "timestamp": "2026-08-21T10:55:41.255215110Z",
+  "model": "glm-5.3"
+}

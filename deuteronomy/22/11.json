@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 22:11",
+  "book": "deuteronomy",
+  "lang": "gu",
+  "chapter": 22,
+  "translation": "તું શઅતનેઝ (ઊન-અનાજનું મિશ્ર વસ્ત્ર) — ઊન અને સણ સાથે વણેલું — નહીં પહેરીશ.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "תלבש",
+      "gloss": "પહેરીશ"
+    },
+    {
+      "surface": "שעטנז",
+      "gloss": "શઅતનેઝ (મિશ્ર વસ્ત્ર)"
+    },
+    {
+      "surface": "צמר",
+      "gloss": "ઊન"
+    },
+    {
+      "surface": "ופשתים",
+      "gloss": "અને સણ"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "સાથે"
+    }
+  ],
+  "timestamp": "2026-08-21T12:22:20.337644054Z",
+  "model": "glm-5.3"
+}

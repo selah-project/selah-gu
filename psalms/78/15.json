@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 78:15",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 78,
+  "translation": "તેણે જંગલમાં તળાવો પાડ્યા, અને મહાન્ અગાધની જેમ પાણી પાયો.",
+  "tokens": [
+    {
+      "surface": "יבקע",
+      "gloss": "પાડ્યા"
+    },
+    {
+      "surface": "צרים",
+      "gloss": "તળાવો"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "જંગલમાં"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "અને પાણી પાયો"
+    },
+    {
+      "surface": "כתהמות",
+      "gloss": "અગાધની જેમ"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "મહાન્"
+    }
+  ],
+  "timestamp": "2026-08-21T16:31:19.197281402Z",
+  "model": "glm-5.3"
+}

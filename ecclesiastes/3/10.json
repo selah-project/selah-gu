@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 3:10",
+  "book": "ecclesiastes",
+  "lang": "gu",
+  "chapter": 3,
+  "translation": "મેં ⟨את⟩ ⟨કઠિન કાર્ય⟩ જોયું જે એલોહીમે માનવ-પુત્રોને આપ્યું, જેથી તેઓ તેમાં વ્યસ્ત રહે.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "મેં જોયું"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "કઠિન કાર્ય"
+    },
+    {
+      "surface": "הענין",
+      "gloss": "કઠિન કાર્ય"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જે"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "આપ્યું"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "એલોહીમે"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "પુત્રોને"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "માનવ"
+    },
+    {
+      "surface": "לענות",
+      "gloss": "વ્યસ્ત રહે માટે"
+    },
+    {
+      "surface": "בו",
+      "gloss": "તેમાં"
+    }
+  ],
+  "timestamp": "2026-08-21T17:28:59.468276548Z",
+  "model": "glm-5.3"
+}

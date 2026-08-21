@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 105:16",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 105,
+  "translation": "અને તેણે દેશ પર દુકાળ બોલાવ્યો, દરેક રોટલીનો દંડ તેણે તોડી નાખ્યો.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "અને તેણે બોલાવ્યો"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "દુકાળ"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "દેશ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "દરેક"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "દંડ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "રોટલીનો"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "તોડી નાખ્યો"
+    }
+  ],
+  "timestamp": "2026-08-21T16:40:14.935944529Z",
+  "model": "glm-5.3"
+}

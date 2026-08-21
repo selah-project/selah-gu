@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 72:3",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 72,
+  "translation": "પર્વતો પ્રજાને શાલોમ ધારણ કરશે, અને ટેકરીઓ સદ્‌દકાથી.",
+  "tokens": [
+    {
+      "surface": "ישאו",
+      "gloss": "ધારણ કરશે"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "પર્વતો"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "શાલોમ"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "પ્રજાને"
+    },
+    {
+      "surface": "וגבעות",
+      "gloss": "અને ટેકરીઓ"
+    },
+    {
+      "surface": "בצדקה",
+      "gloss": "સદ્‌દકાથી"
+    }
+  ],
+  "timestamp": "2026-08-21T16:29:35.781065378Z",
+  "model": "glm-5.3"
+}

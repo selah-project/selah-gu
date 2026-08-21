@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 7:20",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 7,
+  "translation": "તેણે પોતાના હાથમાં ચાંદીની થેલી લીધી છે; ⟨પૂનમના⟩ દિવસે તે પોતાના ઘરે આવશે.”",
+  "tokens": [
+    {
+      "surface": "צרור",
+      "gloss": "થેલી"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "ચાંદીની"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "લીધી છે"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "પોતાના હાથમાં"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "દિવસે"
+    },
+    {
+      "surface": "הכסא",
+      "gloss": "⟨પૂનમના⟩"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "આવશે"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "પોતાના ઘરે"
+    }
+  ],
+  "timestamp": "2026-08-21T16:54:11.582405942Z",
+  "model": "glm-5.3"
+}

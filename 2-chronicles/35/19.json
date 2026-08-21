@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 35:19",
+  "book": "2-chronicles",
+  "lang": "gu",
+  "chapter": 35,
+  "translation": "યોઆશિયાહૂના રાજ્યનાં અઢારમાં વર્ષે આ પેસાખ કરવામાં આવ્યું.",
+  "tokens": [
+    {
+      "surface": "בשמונה",
+      "gloss": "આઠમાં"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "(અઢારમાં) દસ સાથે"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "વર્ષે"
+    },
+    {
+      "surface": "למלכות",
+      "gloss": "રાજ્યનાં"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "યોઆશિયાહૂના"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "કરવામાં આવ્યું"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "આ પેસાખ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "આ"
+    }
+  ],
+  "timestamp": "2026-08-21T19:05:11.775373805Z",
+  "model": "glm-5.3"
+}

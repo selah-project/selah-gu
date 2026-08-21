@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 4:17",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 4,
+  "translation": "કારણ કે તેઓ દુષ્ટતાનો ભોજન ખાય છે અને હિંસાઓનો દારૂ પીએ છે.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "કારણ કે"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "ખાય છે"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ભોજન"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "દુષ્ટતાનો"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "અને દારૂ"
+    },
+    {
+      "surface": "חמסים",
+      "gloss": "હિંસાઓનો"
+    },
+    {
+      "surface": "ישתו",
+      "gloss": "પીએ છે"
+    }
+  ],
+  "timestamp": "2026-08-21T16:51:25.701220407Z",
+  "model": "glm-5.3"
+}

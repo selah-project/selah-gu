@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 15:11",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 15,
+  "translation": "શેઓલ અને અબદોન યાહવેની સામે ⟨છે⟩; કેટલાંય વધુ માનવસંતાનનાં હૃદયો!",
+  "tokens": [
+    {
+      "surface": "שאול",
+      "gloss": "શેઓલ"
+    },
+    {
+      "surface": "ואבדון",
+      "gloss": "અને અબદોન"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "સામે"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવેની"
+    },
+    {
+      "surface": "אף",
+      "gloss": "કેટલાંય"
+    },
+    {
+      "surface": "כי",
+      "gloss": "વધુ"
+    },
+    {
+      "surface": "לבות",
+      "gloss": "હૃદયો"
+    },
+    {
+      "surface": "בני",
+      "gloss": "સંતાનનાં"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "માનવ"
+    }
+  ],
+  "timestamp": "2026-08-21T16:57:17.973921566Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 15:4",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 15,
+  "translation": "શાંત કરનારી જીભ જીવનનું વૃક્ષ ⟨છે⟩, પરંતુ તેમાં વિકૃતિ આત્મામાં ભંગાણ ⟨છે⟩.",
+  "tokens": [
+    {
+      "surface": "מרפא",
+      "gloss": "શાંત કરનારી"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "જીભ"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "વૃક્ષ"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "જીવનનું"
+    },
+    {
+      "surface": "וסלף",
+      "gloss": "પરંતુ વિકૃતિ"
+    },
+    {
+      "surface": "בה",
+      "gloss": "તેમાં"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "ભંગાણ"
+    },
+    {
+      "surface": "ברוח",
+      "gloss": "આત્મામાં"
+    }
+  ],
+  "timestamp": "2026-08-21T16:57:23.747608760Z",
+  "model": "glm-5.3"
+}

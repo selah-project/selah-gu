@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 7:18",
+  "book": "ecclesiastes",
+  "lang": "gu",
+  "chapter": 7,
+  "translation": "સારું છે કે તું આને પકડી રાખે, અને તેમાંથી પણ તારો હાથ ન છોડતો; કેમ કે એલોહીમને ભય માનનાર ⟨הે⟩ તે બધાંમાંથી નીકળી જશે.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "સારું છે"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "કે"
+    },
+    {
+      "surface": "תאחז",
+      "gloss": "તું પકડી રાખે"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "આમાં"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "અને…પણ"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "તેમાંથી"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ન"
+    },
+    {
+      "surface": "תנח",
+      "gloss": "છોડતો"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "તારો હાથ"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "તારો હાથ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "કેમ કે"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "ભય માનનાર"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "એલોહીમ"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "નીકળી જશે"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "તે બધાં"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "તે બધાં"
+    }
+  ],
+  "timestamp": "2026-08-21T17:31:01.719180156Z",
+  "model": "glm-5.3"
+}

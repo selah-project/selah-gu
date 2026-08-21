@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 58,
+  "ref": "nehemiah 7:58",
+  "book": "nehemiah",
+  "lang": "gu",
+  "chapter": 7,
+  "translation": "યાલાના પુત્રો, દર્કોનના પુત્રો, ગિદ્દેલના પુત્રો.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "יעלא",
+      "gloss": "યાલાના"
+    },
+    {
+      "surface": "בני",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "דרקון",
+      "gloss": "દર્કોનના"
+    },
+    {
+      "surface": "בני",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "ગિદ્દેલના"
+    }
+  ],
+  "timestamp": "2026-08-21T17:55:19.943898629Z",
+  "model": "glm-5.3"
+}

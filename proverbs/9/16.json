@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 9:16",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 9,
+  "translation": "“પટાયણ કોણ ⟨છે⟩? ⟨એ⟩ અહીં વળી આવે!” અને હૃદયના હણતારને ⟨એ⟩ કહે છે:",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "કોણ"
+    },
+    {
+      "surface": "פתי",
+      "gloss": "પટાયણ"
+    },
+    {
+      "surface": "יסר",
+      "gloss": "વળી આવે"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "અહીં"
+    },
+    {
+      "surface": "וחסר",
+      "gloss": "અને હણતારને"
+    },
+    {
+      "surface": "לב",
+      "gloss": "હૃદયના"
+    },
+    {
+      "surface": "ואמרה",
+      "gloss": "અને કહે છે"
+    },
+    {
+      "surface": "לו",
+      "gloss": "તેને"
+    }
+  ],
+  "timestamp": "2026-08-21T16:54:26.687474069Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 8:23",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 8,
+  "translation": "અને અબ્દોન, અને ઝિખ્રી, અને હાનાન.",
+  "tokens": [
+    {
+      "surface": "ועבדון",
+      "gloss": "અને અબ્દોન"
+    },
+    {
+      "surface": "וזכרי",
+      "gloss": "અને ઝિખ્રી"
+    },
+    {
+      "surface": "וחנן",
+      "gloss": "અને હાનાન"
+    }
+  ],
+  "timestamp": "2026-08-21T18:02:40.188576591Z",
+  "model": "glm-5.3"
+}

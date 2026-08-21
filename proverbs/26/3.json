@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 26:3",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 26,
+  "translation": "ઘોડા માટે ચાબુક, ગધેડા માટે લગામ, અને મૂર્ખોની પીઠ માટે દંડ.",
+  "tokens": [
+    {
+      "surface": "שוט",
+      "gloss": "ચાબુક"
+    },
+    {
+      "surface": "לסוס",
+      "gloss": "ઘોડા માટે"
+    },
+    {
+      "surface": "מתג",
+      "gloss": "લગામ"
+    },
+    {
+      "surface": "לחמור",
+      "gloss": "ગધેડા માટે"
+    },
+    {
+      "surface": "ושבט",
+      "gloss": "અને દંડ"
+    },
+    {
+      "surface": "לגו",
+      "gloss": "પીઠ માટે"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "મૂર્ખોની"
+    }
+  ],
+  "timestamp": "2026-08-21T17:01:41.353292925Z",
+  "model": "glm-5.3"
+}

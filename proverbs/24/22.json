@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 24:22",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 24,
+  "translation": "કેમ કે અચાનક તેમનો ઉત્પાત ઊભો થશે, અને તે બંનેના સંહારને કોણ જાણે?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "કેમ કે"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "અચાનક"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "ઊભો થશે"
+    },
+    {
+      "surface": "אידם",
+      "gloss": "તેમનો ઉત્પાત"
+    },
+    {
+      "surface": "ופיד",
+      "gloss": "અને સંહાર"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "તે બંનેના"
+    },
+    {
+      "surface": "מי",
+      "gloss": "કોણ"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "જાણે"
+    }
+  ],
+  "timestamp": "2026-08-21T17:00:59.830013757Z",
+  "model": "glm-5.3"
+}

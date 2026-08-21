@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 16:5",
+  "book": "deuteronomy",
+  "lang": "gu",
+  "chapter": 16,
+  "translation": "તું એક પણ દરવાજામાં, જે યાહવે તારો એલોહીમ તને આપે છે ત્યાં, ⟨את⟩ પેસખનું વધેરું શકતું નથી.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "તું શકતું નથી"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "વધેરવા"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "પેસખ"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "પેસખ"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "એક પણમાં"
+    },
+    {
+      "surface": "שעריך",
+      "gloss": "તારા દરવાજામાં"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જે"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "તારો એલોહીમ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "આપે છે"
+    },
+    {
+      "surface": "לך",
+      "gloss": "તને"
+    }
+  ],
+  "timestamp": "2026-08-21T12:21:04.239866894Z",
+  "model": "glm-5.3"
+}

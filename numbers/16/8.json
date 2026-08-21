@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 16:8",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 16,
+  "translation": "અને મોશેએ કોરખને કહ્યું: સાંભળો મા, લેવીના પુત્રો!",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "અને કહ્યું"
+    },
+    {
+      "surface": "משה",
+      "gloss": "મોશેએ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ને"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "કોરખ"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "સાંભળો"
+    },
+    {
+      "surface": "נא",
+      "gloss": "મા"
+    },
+    {
+      "surface": "בני",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "લેવીના"
+    }
+  ],
+  "timestamp": "2026-08-21T11:58:31.241133552Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 12:19",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 12,
+  "translation": "સત્યનો હોઠ સદાકાળ સ્થિર રહે છે, પણ ક્ષણ માત્ર — ખોટી જીભ.",
+  "tokens": [
+    {
+      "surface": "שפת",
+      "gloss": "હોઠ"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "સત્યનો"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "સ્થિર રહે છે"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "સદાકાળ"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "પણ માત્ર"
+    },
+    {
+      "surface": "ארגיעה",
+      "gloss": "ક્ષણ"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "જીભ"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ખોટી"
+    }
+  ],
+  "timestamp": "2026-08-21T16:55:21.841042688Z",
+  "model": "glm-5.3"
+}

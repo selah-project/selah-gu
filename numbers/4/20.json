@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 4:20",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 4,
+  "translation": "અને તેઓ ઢંકાણી વેળાએ ⟨את⟩ પવિત્રને જોવા અંદર ન આવે, નહીં તો મરશે.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "અને…નહીં"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "આવે"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "જોવા"
+    },
+    {
+      "surface": "כבלע",
+      "gloss": "ઢંકાણી વેળાએ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "પવિત્રને"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "પવિત્ર"
+    },
+    {
+      "surface": "ומתו",
+      "gloss": "અને મરશે"
+    }
+  ],
+  "timestamp": "2026-08-21T11:50:19.386982090Z",
+  "model": "glm-5.3"
+}

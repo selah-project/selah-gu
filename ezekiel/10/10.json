@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 10:10",
+  "book": "ezekiel",
+  "lang": "gu",
+  "chapter": 10,
+  "translation": "અને તેમનો દેખાવ — ચારેનો એક જ સ્વરૂપ ⟨હતો⟩, જેમ ચક્ર ⟨હોય⟩ ચક્રની વચ્ચે।",
+  "tokens": [
+    {
+      "surface": "ומראיהם",
+      "gloss": "અને તેમનો દેખાવ"
+    },
+    {
+      "surface": "דמות",
+      "gloss": "સ્વરૂપ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "એક જ"
+    },
+    {
+      "surface": "לארבעתם",
+      "gloss": "ચારેનો"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "જેમ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "⟨હોય⟩"
+    },
+    {
+      "surface": "האופן",
+      "gloss": "ચક્ર"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "વચ્ચે"
+    },
+    {
+      "surface": "האופן",
+      "gloss": "ચક્રની"
+    }
+  ],
+  "timestamp": "2026-08-21T15:20:38.365420706Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 5:13",
+  "book": "jeremiah",
+  "lang": "gu",
+  "chapter": 5,
+  "translation": "અને આ નબીઓ પવન બની જશે, અને વચન તેમનામાં ⟨નથી⟩; તેમને જ એવું થશે.”",
+  "tokens": [
+    {
+      "surface": "והנביאים",
+      "gloss": "અને આ નબીઓ"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "બની જશે"
+    },
+    {
+      "surface": "לרוח",
+      "gloss": "પવન"
+    },
+    {
+      "surface": "והדבר",
+      "gloss": "અને વચન"
+    },
+    {
+      "surface": "אין",
+      "gloss": "નથી"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "તેમનામાં"
+    },
+    {
+      "surface": "כה",
+      "gloss": "એવું જ"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "થશે"
+    },
+    {
+      "surface": "להם",
+      "gloss": "તેમને"
+    }
+  ],
+  "timestamp": "2026-08-21T14:46:42.666078946Z",
+  "model": "glm-5.3"
+}

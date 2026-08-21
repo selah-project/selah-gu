@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 6:12",
+  "book": "song-of-songs",
+  "lang": "gu",
+  "chapter": 6,
+  "translation": "મેં જાણ્યું નહીં — મારા પ્રાણે મને મૂક્યો મારા પ્રજાના નાદિવના રથો વચ્ચે.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "મેં જાણ્યું"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "મારા પ્રાણે"
+    },
+    {
+      "surface": "שמתני",
+      "gloss": "મને મૂક્યો"
+    },
+    {
+      "surface": "מרכבות",
+      "gloss": "રથો"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "મારા પ્રજાના"
+    },
+    {
+      "surface": "נדיב",
+      "gloss": "નાદિવના"
+    }
+  ],
+  "timestamp": "2026-08-21T17:21:00.006438738Z",
+  "model": "glm-5.3"
+}

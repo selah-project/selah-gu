@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 30:3",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 30,
+  "translation": "અને હું ચતુરાઈ શીખ્યો નથી, અને પવિત્ર જ્ઞાન મને ખબર નથી.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "અને… નથી"
+    },
+    {
+      "surface": "למדתי",
+      "gloss": "શીખ્યો"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ચતુરાઈ"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "અને જ્ઞાન"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "પવિત્રનું"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "મને ખબર"
+    }
+  ],
+  "timestamp": "2026-08-21T17:03:42.554072124Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 6:38",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 6,
+  "translation": "સાદોક તેનો પુત્ર, અહીમાઅસ તેનો પુત્ર.",
+  "tokens": [
+    {
+      "surface": "צדוק",
+      "gloss": "સાદોક"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "તેનો પુત્ર"
+    },
+    {
+      "surface": "אחימעץ",
+      "gloss": "અહીમાઅસ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "તેનો પુત્ર"
+    }
+  ],
+  "timestamp": "2026-08-21T18:03:13.295214350Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 80,
+  "ref": "numbers 7:80",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 7,
+  "translation": "એક સોનાનો ચમચો, દસ ⟨શેકલ⟩, ધૂપથી ભરેલો.",
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "ચમચો"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "એક"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "દસ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "સોનાનો"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "ભરેલો"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "ધૂપથી"
+    }
+  ],
+  "timestamp": "2026-08-21T11:54:07.002295083Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 8:4",
+  "book": "ecclesiastes",
+  "lang": "gu",
+  "chapter": 8,
+  "translation": "જ્યાં રાજાનો શબ્દ ⟨છે⟩ ત્યાં સત્તા ⟨છે⟩, અને તેને કોણ કહી શકે, “તું શું કરે છે?”",
+  "tokens": [
+    {
+      "surface": "באשר",
+      "gloss": "જ્યાં"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "શબ્દ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "રાજાનો"
+    },
+    {
+      "surface": "שלטון",
+      "gloss": "સત્તા"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "અને કોણ"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "કહી શકે"
+    },
+    {
+      "surface": "לו",
+      "gloss": "તેને"
+    },
+    {
+      "surface": "מה",
+      "gloss": "શું"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "તું કરે છે"
+    }
+  ],
+  "timestamp": "2026-08-21T17:30:34.252399387Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 7:38",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 7,
+  "translation": "અને યેતેરના પુત્રો: યેફુન્ને, અને પિસ્પા, અને અરા.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "અને …ના પુત્રો"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "યેતેર"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "યેફુન્ને"
+    },
+    {
+      "surface": "ופספה",
+      "gloss": "અને પિસ્પા"
+    },
+    {
+      "surface": "וארא",
+      "gloss": "અને અરા"
+    }
+  ],
+  "timestamp": "2026-08-21T18:03:18.013291183Z",
+  "model": "glm-5.3"
+}

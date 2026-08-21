@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 26:11",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 26,
+  "translation": "પણ કોરાહના પુત્રો મર્યા નહીં.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "પણ ...ના પુત્રો"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "કોરાહ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "મર્યા"
+    }
+  ],
+  "timestamp": "2026-08-21T12:05:20.935655762Z",
+  "model": "glm-5.3"
+}

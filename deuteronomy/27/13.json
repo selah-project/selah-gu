@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 27:13",
+  "book": "deuteronomy",
+  "lang": "gu",
+  "chapter": 27,
+  "translation": "અને આ શ્રાપ માટે એબલ પર્વત પર ઊભા રહેશે: રૂબેન, ગાદ અને આશેર, અને ઝવૂલૂન, દાન અને નફતાલી.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "અને આ"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "ઊભા રહેશે"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "הקללה",
+      "gloss": "શ્રાપ માટે"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "પર્વત પર"
+    },
+    {
+      "surface": "עיבל",
+      "gloss": "એબલ"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "રૂબેન"
+    },
+    {
+      "surface": "גד",
+      "gloss": "ગાદ"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "અને આશેર"
+    },
+    {
+      "surface": "וזבולן",
+      "gloss": "અને ઝવૂલૂન"
+    },
+    {
+      "surface": "דן",
+      "gloss": "દાન"
+    },
+    {
+      "surface": "ונפתלי",
+      "gloss": "અને નફતાલી"
+    }
+  ],
+  "timestamp": "2026-08-21T12:26:24.755376996Z",
+  "model": "glm-5.3"
+}

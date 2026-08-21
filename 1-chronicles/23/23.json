@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 23:23",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 23,
+  "translation": "મૂશીના પુત્રો: માહલી અને એદેર અને યેરીમોત — ત્રણ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "מושי",
+      "gloss": "મૂશીના"
+    },
+    {
+      "surface": "מחלי",
+      "gloss": "માહલી"
+    },
+    {
+      "surface": "ועדר",
+      "gloss": "અને એદેર"
+    },
+    {
+      "surface": "וירמות",
+      "gloss": "અને યેરીમોત"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "ત્રણ"
+    }
+  ],
+  "timestamp": "2026-08-21T19:03:20.877277784Z",
+  "model": "glm-5.3"
+}

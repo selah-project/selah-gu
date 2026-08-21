@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 28:21",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 28,
+  "translation": "ચહેરા ઓળખવો સારું નથી, અને રોટલીના એક ટુકડા માટે માણસ અપરાધ કરશે.",
+  "tokens": [
+    {
+      "surface": "הכר",
+      "gloss": "ઓળખવું"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "ચહેરા"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નથી"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "સારું"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "અને માટે"
+    },
+    {
+      "surface": "פת",
+      "gloss": "એક ટુકડો"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "રોટલીના"
+    },
+    {
+      "surface": "יפשע",
+      "gloss": "અપરાધ કરશે"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "માણસ"
+    }
+  ],
+  "timestamp": "2026-08-21T17:03:23.979162023Z",
+  "model": "glm-5.3"
+}

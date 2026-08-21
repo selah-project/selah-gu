@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 30:5",
+  "book": "genesis",
+  "lang": "gu",
+  "chapter": 30,
+  "translation": "અને બિલ્હાહ ગર્ભવતી થઈ, અને તેણે યાકોવ માટે પુત્રને જન્મ આપ્યો.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "ગર્ભવતી થઈ"
+    },
+    {
+      "surface": "בלהה",
+      "gloss": "બિલ્હાહ"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "જન્મ આપ્યો"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "યાકોવ માટે"
+    },
+    {
+      "surface": "בן",
+      "gloss": "પુત્ર"
+    }
+  ],
+  "timestamp": "2026-08-21T10:52:04.802411157Z",
+  "model": "glm-5.3"
+}

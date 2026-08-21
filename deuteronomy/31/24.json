@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 31:24",
+  "book": "deuteronomy",
+  "lang": "gu",
+  "chapter": 31,
+  "translation": "અને થયું, મોશે આ તોરાહનાં વચનોને ⟨את⟩ પુસ્તક પર સંપૂર્ણ થયાં સુધી લખવાનું પૂરું કરે ત્યારે.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "અને થયું"
+    },
+    {
+      "surface": "ככלות",
+      "gloss": "પૂરું કરે ત્યારે"
+    },
+    {
+      "surface": "משה",
+      "gloss": "મોશે"
+    },
+    {
+      "surface": "לכתב",
+      "gloss": "લખવાનું"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "વચનો"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "વચનો"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "તોરાહનાં"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "આ"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "પુસ્તક"
+    },
+    {
+      "surface": "עד",
+      "gloss": "સુધી"
+    },
+    {
+      "surface": "תמם",
+      "gloss": "સંપૂર્ણ થયાં"
+    }
+  ],
+  "timestamp": "2026-08-21T12:32:06.256980250Z",
+  "model": "glm-5.3"
+}

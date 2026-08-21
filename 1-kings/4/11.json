@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 4:11",
+  "book": "1-kings",
+  "lang": "gu",
+  "chapter": 4,
+  "translation": "બેન-અબીનાદાબ — દોરના સમગ્ર નાફા ઉપર; શલોમોહની પુત્રી તાફત તેની પત્ની હતી.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "બેન"
+    },
+    {
+      "surface": "אבינדב",
+      "gloss": "અબીનાદાબ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "સમગ્ર"
+    },
+    {
+      "surface": "נפת",
+      "gloss": "નાફા"
+    },
+    {
+      "surface": "דאר",
+      "gloss": "દોર"
+    },
+    {
+      "surface": "טפת",
+      "gloss": "તાફત"
+    },
+    {
+      "surface": "בת",
+      "gloss": "પુત્રી"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "શલોમોહની"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "હતી"
+    },
+    {
+      "surface": "לו",
+      "gloss": "તેની"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "પત્ની"
+    }
+  ],
+  "timestamp": "2026-08-21T13:36:13.232017131Z",
+  "model": "glm-5.3"
+}

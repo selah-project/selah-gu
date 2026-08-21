@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 37:12",
+  "book": "genesis",
+  "lang": "gu",
+  "chapter": 37,
+  "translation": "અને તેના ભાઈઓ પિતાનાં ⟨את⟩ ઘેટાનાં ટોળાં ચરાવવે શખેમ ગયા.",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "ગયા"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "તેના ભાઈઓ"
+    },
+    {
+      "surface": "לרעות",
+      "gloss": "ચરાવવે"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ઘેટાનાં ટોળાં"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "ઘેટાનાં ટોળાં"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "પિતાનાં"
+    },
+    {
+      "surface": "בשכם",
+      "gloss": "શખેમમાં"
+    }
+  ],
+  "timestamp": "2026-08-21T10:57:14.740335105Z",
+  "model": "glm-5.3"
+}

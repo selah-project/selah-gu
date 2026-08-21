@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-chronicles 31:9",
+  "book": "2-chronicles",
+  "lang": "gu",
+  "chapter": 31,
+  "translation": "અને હિઝકિયાએ ઢગલાઓ વિષે કોહાનીઓ અને લેવીયોને પૂછ્યું.",
+  "tokens": [
+    {
+      "surface": "וידרש",
+      "gloss": "પૂછ્યું"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "હિઝકિયાએ"
+    },
+    {
+      "surface": "על",
+      "gloss": "વિષે"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "કોહાનીઓ"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "અને લેવીયોને"
+    },
+    {
+      "surface": "על",
+      "gloss": "વિષે"
+    },
+    {
+      "surface": "הערמות",
+      "gloss": "ઢગલાઓ"
+    }
+  ],
+  "timestamp": "2026-08-21T18:29:22.835746712Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 13:21",
+  "book": "2-samuel",
+  "lang": "gu",
+  "chapter": 13,
+  "translation": "અને રાજા દાવિદે ⟨את⟩ આ બધી વાતો સાંભળી, અને તેને ખૂબ ⟨ક્રોધ થયો⟩.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "અને ⟨the⟩ રાજા"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "દાવિદ"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "સાંભળી"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "આ બધી વાતો"
+    },
+    {
+      "surface": "כל",
+      "gloss": "બધી"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "વાતો"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "આ"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "⟨ક્રોધ થયો⟩"
+    },
+    {
+      "surface": "לו",
+      "gloss": "તેને"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ખૂબ"
+    }
+  ],
+  "timestamp": "2026-08-21T13:24:46.889160439Z",
+  "model": "glm-5.3"
+}

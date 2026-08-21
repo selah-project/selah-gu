@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "ezra 2:50",
+  "book": "ezra",
+  "lang": "gu",
+  "chapter": 2,
+  "translation": "અસ્નાના પુત્રો, મેઉનિયોના પુત્રો, નેફિસિમના પુત્રો,",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "אסנה",
+      "gloss": "અસ્ના"
+    },
+    {
+      "surface": "בני",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "מעינים",
+      "gloss": "મેઉનિયો"
+    },
+    {
+      "surface": "בני",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "נפיסים",
+      "gloss": "નેફિસિમ"
+    }
+  ],
+  "timestamp": "2026-08-21T17:47:42.203153121Z",
+  "model": "glm-5.3"
+}

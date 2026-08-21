@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "1-samuel 17:56",
+  "book": "1-samuel",
+  "lang": "gu",
+  "chapter": 17,
+  "translation": "અને રાજાએ કહ્યું: “તું પૂછ, આ તરુણ યુવક કોનો પુત્ર છે.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "અને કહ્યું"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "રાજાએ"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "પૂછ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "તું"
+    },
+    {
+      "surface": "בן",
+      "gloss": "પુત્ર"
+    },
+    {
+      "surface": "מי",
+      "gloss": "કોનો"
+    },
+    {
+      "surface": "זה",
+      "gloss": "આ"
+    },
+    {
+      "surface": "העלם",
+      "gloss": "તરુણ યુવક"
+    }
+  ],
+  "timestamp": "2026-08-21T13:10:57.067181279Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 8:19",
+  "book": "exodus",
+  "lang": "gu",
+  "chapter": 8,
+  "translation": "અને હું મારા લોકો અને તારા લોકો વચ્ચે ભેદ મૂકીશ; કાલે આ ચિહ્ન થશે.",
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "મૂકીશ"
+    },
+    {
+      "surface": "פדות",
+      "gloss": "ભેદ"
+    },
+    {
+      "surface": "בין",
+      "gloss": "વચ્ચે"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "મારા લોકો"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "અને…વચ્ચે"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "તારા લોકો"
+    },
+    {
+      "surface": "למחר",
+      "gloss": "કાલે"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "થશે"
+    },
+    {
+      "surface": "האת",
+      "gloss": "ચિહ્ન"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "આ"
+    }
+  ],
+  "timestamp": "2026-08-21T11:09:50.044805440Z",
+  "model": "glm-5.3"
+}

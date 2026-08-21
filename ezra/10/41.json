@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "ezra 10:41",
+  "book": "ezra",
+  "lang": "gu",
+  "chapter": 10,
+  "translation": "અઝારએલ, શેલેમ્યાહુ, શેમર્યાહ.",
+  "tokens": [
+    {
+      "surface": "עזראל",
+      "gloss": "અઝારએલ"
+    },
+    {
+      "surface": "ושלמיהו",
+      "gloss": "અને શેલેમ્યાહુ"
+    },
+    {
+      "surface": "שמריה",
+      "gloss": "શેમર્યાહ"
+    }
+  ],
+  "timestamp": "2026-08-21T17:50:37.761225007Z",
+  "model": "glm-5.3"
+}

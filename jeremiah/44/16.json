@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 44:16",
+  "book": "jeremiah",
+  "lang": "gu",
+  "chapter": 44,
+  "translation": "જે વચન તેં યાહવેના નામે અમને કહ્યું છે, તે અમે તારું સાંભળીશું નહીં.",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "વચન"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જે"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "તેં કહ્યું છે"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "અમને"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "નામે"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવેના"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "שמעים",
+      "gloss": "સાંભળીશું"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "તારું"
+    }
+  ],
+  "timestamp": "2026-08-21T15:10:22.783054233Z",
+  "model": "glm-5.3"
+}

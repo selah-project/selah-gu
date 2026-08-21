@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 10:17",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 10,
+  "translation": "જીવનનો માર્ગ ⟨એ⟩ છે જે શિસ્ત રાખે છે; પરંતુ જે ઠપકો છોડી દે છે તે ભટકે છે.",
+  "tokens": [
+    {
+      "surface": "ארח",
+      "gloss": "માર્ગ"
+    },
+    {
+      "surface": "לחיים",
+      "gloss": "જીવનનો"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "જે રાખે છે"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "શિસ્ત"
+    },
+    {
+      "surface": "ועוזב",
+      "gloss": "અને જે છોડી દે છે"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "ઠપકો"
+    },
+    {
+      "surface": "מתעה",
+      "gloss": "ભટકે છે"
+    }
+  ],
+  "timestamp": "2026-08-21T16:55:01.920258306Z",
+  "model": "glm-5.3"
+}

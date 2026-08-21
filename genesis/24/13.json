@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 24:13",
+  "book": "genesis",
+  "lang": "gu",
+  "chapter": 24,
+  "translation": "જુઓ, હું પાણીના ઝરણા પર ઊભો છું, અને નગરના માણસોની પુત્રીઓ પાણી ખેંચવા બહાર નીકળે છે.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "જુઓ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "હું"
+    },
+    {
+      "surface": "נצב",
+      "gloss": "ઊભો છું"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ઝરણા"
+    },
+    {
+      "surface": "המים",
+      "gloss": "પાણીના"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "અને પુત્રીઓ"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "માણસોની"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "નગરના"
+    },
+    {
+      "surface": "יצאת",
+      "gloss": "બહાર નીકળે છે"
+    },
+    {
+      "surface": "לשאב",
+      "gloss": "ખેંચવા"
+    },
+    {
+      "surface": "מים",
+      "gloss": "પાણી"
+    }
+  ],
+  "timestamp": "2026-08-21T10:48:20.293961014Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 32:16",
+  "book": "isaiah",
+  "lang": "gu",
+  "chapter": 32,
+  "translation": "અને રણમાં ન્યાય વસશે, અને કર્મેલમાં સદાચાર ધરાણ લેશે.",
+  "tokens": [
+    {
+      "surface": "ושכן",
+      "gloss": "અને વસશે"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "રણમાં"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ન્યાય"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "અને સદાચાર"
+    },
+    {
+      "surface": "בכרמל",
+      "gloss": "કર્મેલમાં"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "ધરાણ લેશે"
+    }
+  ],
+  "timestamp": "2026-08-21T14:24:16.362556168Z",
+  "model": "glm-5.3"
+}

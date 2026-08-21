@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zechariah 11:4",
+  "book": "zechariah",
+  "lang": "gu",
+  "chapter": 11,
+  "translation": "આ પ્રમાણે મારા એલોહીમ યાહવે કહે છે: વધેલી (હહરેગાહ) ભેંસોનું ⟨את⟩ ટોળું ચારાવ.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "આ પ્રમાણે"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "કહે છે"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "મારા એલોહીમ"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ચારાવ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ટોળું"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "ભેંસોનું ટોળું"
+    },
+    {
+      "surface": "ההרגה",
+      "gloss": "વધેલી"
+    }
+  ],
+  "timestamp": "2026-08-21T16:06:57.143098185Z",
+  "model": "glm-5.3"
+}

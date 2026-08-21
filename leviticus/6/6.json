@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 6:6",
+  "book": "leviticus",
+  "lang": "gu",
+  "chapter": 6,
+  "translation": "આગ સતત હવન-વેદી પર બળતી રહે, તે ઓલવાઈ નહીં.",
+  "tokens": [
+    {
+      "surface": "אש",
+      "gloss": "આગ"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "સતત"
+    },
+    {
+      "surface": "תוקד",
+      "gloss": "બળતી રહેશે"
+    },
+    {
+      "surface": "על",
+      "gloss": "પર"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "હવન-વેદી"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "תכבה",
+      "gloss": "ઓલવાશે"
+    }
+  ],
+  "timestamp": "2026-08-21T11:31:16.255970988Z",
+  "model": "glm-5.3"
+}

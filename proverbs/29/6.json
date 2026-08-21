@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 29:6",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 29,
+  "translation": "દુષ્ટ માણસના અપરાધમાં ⟨છે⟩ જાળ; પણ ન્યાયી ગાય છે અને આનંદ કરે છે.",
+  "tokens": [
+    {
+      "surface": "בפשע",
+      "gloss": "અપરાધમાં"
+    },
+    {
+      "surface": "איש",
+      "gloss": "માણસના"
+    },
+    {
+      "surface": "רע",
+      "gloss": "દુષ્ટ"
+    },
+    {
+      "surface": "מוקש",
+      "gloss": "જાળ"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "પણ ન્યાયી"
+    },
+    {
+      "surface": "ירון",
+      "gloss": "ગાય છે"
+    },
+    {
+      "surface": "ושמח",
+      "gloss": "અને આનંદ કરે છે"
+    }
+  ],
+  "timestamp": "2026-08-21T17:02:34.911192363Z",
+  "model": "glm-5.3"
+}

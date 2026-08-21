@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 23:12",
+  "book": "1-chronicles",
+  "lang": "gu",
+  "chapter": 23,
+  "translation": "કહાતના પુત્રો: અમરામ, યિત્સહાર, હેવરોન અને ઉઝીએલ — ચાર.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "કહાતના"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "અમરામ"
+    },
+    {
+      "surface": "יצהר",
+      "gloss": "યિત્સહાર"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "હેવરોન"
+    },
+    {
+      "surface": "ועזיאל",
+      "gloss": "ઉઝીએલ"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "ચાર"
+    }
+  ],
+  "timestamp": "2026-08-21T18:11:11.717196427Z",
+  "model": "glm-5.3"
+}

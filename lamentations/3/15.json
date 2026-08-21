@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "lamentations 3:15",
+  "book": "lamentations",
+  "lang": "gu",
+  "chapter": 3,
+  "translation": "તેણે મને કડવાંણથી તૃપ્ત કર્યો, તેણે મને અફીણ પીવડાવ્યું.",
+  "tokens": [
+    {
+      "surface": "השביעני",
+      "gloss": "તેણે મને તૃપ્ત કર્યો"
+    },
+    {
+      "surface": "במרורים",
+      "gloss": "કડવાંણથી"
+    },
+    {
+      "surface": "הרוני",
+      "gloss": "તેણે મને પીવડાવ્યું"
+    },
+    {
+      "surface": "לענה",
+      "gloss": "અફીણ"
+    }
+  ],
+  "timestamp": "2026-08-21T17:26:06.809604657Z",
+  "model": "glm-5.3"
+}

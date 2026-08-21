@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 24:26",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 24,
+  "translation": "સાચાં સીધાં વચનો જવાબ આપનારને હોઠ ચુંબન કરે છે.",
+  "tokens": [
+    {
+      "surface": "שפתים",
+      "gloss": "હોઠ"
+    },
+    {
+      "surface": "ישק",
+      "gloss": "ચુંબન કરે છે"
+    },
+    {
+      "surface": "משיב",
+      "gloss": "જવાબ આપનારને"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "વચનો"
+    },
+    {
+      "surface": "נכחים",
+      "gloss": "સીધાં સાચાં"
+    }
+  ],
+  "timestamp": "2026-08-21T17:01:11.571487125Z",
+  "model": "glm-5.3"
+}

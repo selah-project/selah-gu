@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 10:6",
+  "book": "genesis",
+  "lang": "gu",
+  "chapter": 10,
+  "translation": "અને ખામનાં પુત્રો: કૂશ અને મિત્સરાયિમ અને પૂત અને કનાન.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "અને …નાં પુત્રો"
+    },
+    {
+      "surface": "חם",
+      "gloss": "ખામ"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "કૂશ"
+    },
+    {
+      "surface": "ומצרים",
+      "gloss": "અને મિત્સરાયિમ"
+    },
+    {
+      "surface": "ופוט",
+      "gloss": "અને પૂત"
+    },
+    {
+      "surface": "וכנען",
+      "gloss": "અને કનાન"
+    }
+  ],
+  "timestamp": "2026-08-21T10:39:28.054256761Z",
+  "model": "glm-5.3"
+}

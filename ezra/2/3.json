@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezra 2:3",
+  "book": "ezra",
+  "lang": "gu",
+  "chapter": 2,
+  "translation": "પરઓશના પુત્રો — બે હજાર, સો બેસ્સો બોતાળી.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "પુત્રો"
+    },
+    {
+      "surface": "פרעש",
+      "gloss": "પરઓશના"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "બે હજાર"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "સો"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "બોતાળી"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "બેસ્સો"
+    }
+  ],
+  "timestamp": "2026-08-21T17:46:04.851466343Z",
+  "model": "glm-5.3"
+}

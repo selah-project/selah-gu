@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zechariah 3:3",
+  "book": "zechariah",
+  "lang": "gu",
+  "chapter": 3,
+  "translation": "અને યહોશુઆ મલિન વસ્ત્રોમાં વીંટાયેલો હતો, અને દૂતની સમક્ષ ઊભો હતો.",
+  "tokens": [
+    {
+      "surface": "ויהושע",
+      "gloss": "અને યહોશુઆ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "હતો"
+    },
+    {
+      "surface": "לבש",
+      "gloss": "વીંટાયેલો"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "વસ્ત્રોમાં"
+    },
+    {
+      "surface": "צואים",
+      "gloss": "મલિન"
+    },
+    {
+      "surface": "ועמד",
+      "gloss": "અને ઊભો"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "સમક્ષ"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "દૂત"
+    }
+  ],
+  "timestamp": "2026-08-21T16:04:46.771783990Z",
+  "model": "glm-5.3"
+}

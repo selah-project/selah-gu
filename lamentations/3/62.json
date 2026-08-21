@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 62,
+  "ref": "lamentations 3:62",
+  "book": "lamentations",
+  "lang": "gu",
+  "chapter": 3,
+  "translation": "મારા વિરોધીઓના હોઠ અને તેમની બડબડ મારા વિરુદ્ધ આખો દિવસ.",
+  "tokens": [
+    {
+      "surface": "שפתי",
+      "gloss": "હોઠ"
+    },
+    {
+      "surface": "קמי",
+      "gloss": "મારા વિરોધીઓના"
+    },
+    {
+      "surface": "והגיונם",
+      "gloss": "અને તેમની બડબડ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "મારા વિરુદ્ધ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "આખો"
+    },
+    {
+      "surface": "היום",
+      "gloss": "દિવસ"
+    }
+  ],
+  "timestamp": "2026-08-21T17:25:36.662128829Z",
+  "model": "glm-5.3"
+}

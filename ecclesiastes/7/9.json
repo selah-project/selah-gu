@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 7:9",
+  "book": "ecclesiastes",
+  "lang": "gu",
+  "chapter": 7,
+  "translation": "તારા આત્મામાં ક્રોધ કરવા ઉશ્કેરાઈ ન જઈશ, કારણ કે ક્રોધ મૂર્ખોના ખોળે વિશ્રામ પામે છે.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "תבהל",
+      "gloss": "ઉશ્કેરાઈ જઈશ"
+    },
+    {
+      "surface": "ברוחך",
+      "gloss": "તારા આત્મામાં"
+    },
+    {
+      "surface": "לכעוס",
+      "gloss": "ક્રોધ કરવા"
+    },
+    {
+      "surface": "כי",
+      "gloss": "કારણ કે"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "ક્રોધ"
+    },
+    {
+      "surface": "בחיק",
+      "gloss": "ખોળે"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "મૂર્ખોના"
+    },
+    {
+      "surface": "ינוח",
+      "gloss": "વિશ્રામ પામે છે"
+    }
+  ],
+  "timestamp": "2026-08-21T18:59:56.006463527Z",
+  "model": "glm-5.3"
+}

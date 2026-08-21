@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "deuteronomy 28:34",
+  "book": "deuteronomy",
+  "lang": "gu",
+  "chapter": 28,
+  "translation": "અને તું તારી આંખોએ જે દેખેલું તેના દર્શનથી પાગલ થઈ જશે.",
+  "tokens": [
+    {
+      "surface": "והיית",
+      "gloss": "અને તું થઈ જશે"
+    },
+    {
+      "surface": "משגע",
+      "gloss": "પાગલ"
+    },
+    {
+      "surface": "ממראה",
+      "gloss": "દર્શનથી"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "તારી આંખોએ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જે"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "દેખેલું"
+    }
+  ],
+  "timestamp": "2026-08-21T12:28:10.648120889Z",
+  "model": "glm-5.3"
+}

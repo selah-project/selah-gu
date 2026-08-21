@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "psalms 89:53",
+  "book": "psalms",
+  "lang": "gu",
+  "chapter": 89,
+  "translation": "યાહવે આશીર્વાદિત છે ⟨સદાસિદ્ધ⟩ માટે; આમીન અને આમીન.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "આશીર્વાદિત"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "સદાસિદ્ધ માટે"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "આમીન"
+    },
+    {
+      "surface": "ואמן",
+      "gloss": "અને આમીન"
+    }
+  ],
+  "timestamp": "2026-08-21T16:35:32.205236012Z",
+  "model": "glm-5.3"
+}

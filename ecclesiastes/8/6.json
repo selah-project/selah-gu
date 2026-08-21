@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 8:6",
+  "book": "ecclesiastes",
+  "lang": "gu",
+  "chapter": 8,
+  "translation": "કેમ કે દરેક ઇચ્છા માટે સમય અને ન્યાય ⟨છે⟩, કેમ કે માનવનું દુષ્ટાન તેના પર ઘણું ⟨છે⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "કેમ કે"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "દરેક માટે"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "ઇચ્છા"
+    },
+    {
+      "surface": "יש",
+      "gloss": "છે"
+    },
+    {
+      "surface": "עת",
+      "gloss": "સમય"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "અને ન્યાય"
+    },
+    {
+      "surface": "כי",
+      "gloss": "કેમ કે"
+    },
+    {
+      "surface": "רעת",
+      "gloss": "દુષ્ટાન"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "માનવનું"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "ઘણું"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "તેના પર"
+    }
+  ],
+  "timestamp": "2026-08-21T17:31:41.993532110Z",
+  "model": "glm-5.3"
+}

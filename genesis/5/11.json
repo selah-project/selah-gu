@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 5:11",
+  "book": "genesis",
+  "lang": "gu",
+  "chapter": 5,
+  "translation": "અને એનોશના બધા દિવસો નવસો પાંચ વર્ષ થયા, અને ⟨he⟩ મરણ પામ્યો.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "થયા"
+    },
+    {
+      "surface": "כל",
+      "gloss": "બધા"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "દિવસો"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "એનોશના"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "પાંચ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "વર્ષ"
+    },
+    {
+      "surface": "ותשע",
+      "gloss": "અને નવ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "સો"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "વર્ષ"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "મરણ પામ્યો"
+    }
+  ],
+  "timestamp": "2026-08-21T10:37:45.099565835Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 1:2",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 1,
+  "translation": "જ્ઞાન અને શિક્ષણ જાણવા માટે, બુદ્ધિનાં વચનો સમજવા માટે.",
+  "tokens": [
+    {
+      "surface": "לדעת",
+      "gloss": "જાણવા માટે"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "જ્ઞાન"
+    },
+    {
+      "surface": "ומוסר",
+      "gloss": "અને શિક્ષણ"
+    },
+    {
+      "surface": "להבין",
+      "gloss": "સમજવા માટે"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "વચનો"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "બુદ્ધિ"
+    }
+  ],
+  "timestamp": "2026-08-21T16:50:52.493045686Z",
+  "model": "glm-5.3"
+}

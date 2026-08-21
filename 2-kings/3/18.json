@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 3:18",
+  "book": "2-kings",
+  "lang": "gu",
+  "chapter": 3,
+  "translation": "અને આ યાહવેની દૃષ્ટિમાં હલકું ⟨is⟩, અને ⟨he⟩ મોઆબને તમારા હાથમાં આપશે.",
+  "tokens": [
+    {
+      "surface": "ונקל",
+      "gloss": "અને હલકું થશે"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "આ"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "ની દૃષ્ટિમાં"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "અને આપશે"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "મોઆબ"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "મોઆબ"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "તમારા હાથમાં"
+    }
+  ],
+  "timestamp": "2026-08-21T13:55:16.189346411Z",
+  "model": "glm-5.3"
+}

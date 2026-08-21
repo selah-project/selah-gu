@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "numbers 26:32",
+  "book": "numbers",
+  "lang": "gu",
+  "chapter": 26,
+  "translation": "અને શેમીદાને શેમીદાઈ કુળ, અને ખેફેરને ખેફેરી કુળ.",
+  "tokens": [
+    {
+      "surface": "ושמידע",
+      "gloss": "અને શેમીદાને"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "કુળ"
+    },
+    {
+      "surface": "השמידעי",
+      "gloss": "શેમીદાઈ"
+    },
+    {
+      "surface": "וחפר",
+      "gloss": "અને ખેફેરને"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "કુળ"
+    },
+    {
+      "surface": "החפרי",
+      "gloss": "ખેફેરી"
+    }
+  ],
+  "timestamp": "2026-08-21T12:05:54.750413460Z",
+  "model": "glm-5.3"
+}

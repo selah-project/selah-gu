@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 19:26",
+  "book": "leviticus",
+  "lang": "gu",
+  "chapter": 19,
+  "translation": "લોહી ⟨સાથે⟩ તમે ખાશો નહીં; તમે જોશ-ગણતરી નહીં કરો અને નિશાનીઓ-તપાસો નહીં.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "તમે ખાશો"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨સાથે⟩"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "લોહી"
+    },
+    {
+      "surface": "לא",
+      "gloss": "નહીં"
+    },
+    {
+      "surface": "תנחשו",
+      "gloss": "જોશ-ગણતરી કરો"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "અને નહીં"
+    },
+    {
+      "surface": "תעוננו",
+      "gloss": "નિશાનીઓ-તપાસો"
+    }
+  ],
+  "timestamp": "2026-08-21T11:41:51.845556411Z",
+  "model": "glm-5.3"
+}

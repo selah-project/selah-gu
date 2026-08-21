@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 28:6",
+  "book": "deuteronomy",
+  "lang": "gu",
+  "chapter": 28,
+  "translation": "તૂ આવે છે ત્યારે ધન્ય છે, અને તૂ બહાર જાય છે ત્યારે ધન્ય છે.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "ધન્ય છે"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "તૂ"
+    },
+    {
+      "surface": "בבאך",
+      "gloss": "તૂ આવે છે ત્યારે"
+    },
+    {
+      "surface": "וברוך",
+      "gloss": "અને ધન્ય છે"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "તૂ"
+    },
+    {
+      "surface": "בצאתך",
+      "gloss": "તૂ બહાર જાય છે ત્યારે"
+    }
+  ],
+  "timestamp": "2026-08-21T12:27:52.405001593Z",
+  "model": "glm-5.3"
+}

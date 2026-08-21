@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-chronicles 7:21",
+  "book": "2-chronicles",
+  "lang": "gu",
+  "chapter": 7,
+  "translation": "અને આ ઘર, જે ⟨છે⟩ ઊંચું, તેની આરપાર જતા દરેકને તે ચકિત કરશે, અને ⟨તે⟩ કહેશે: યાહવેએ આ દેશને અને આ ઘરને આ રીતે શા માટે કર્યું?",
+  "tokens": [
+    {
+      "surface": "והבית",
+      "gloss": "અને આ ઘર"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "આ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જે"
+    },
+    {
+      "surface": "היה",
+      "gloss": "છે"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "ઊંચું"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "દરેકને"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "જતા"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "તેની આરપાર"
+    },
+    {
+      "surface": "ישם",
+      "gloss": "ચકિત કરશે"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "અને કહેશે"
+    },
+    {
+      "surface": "במה",
+      "gloss": "શા માટે"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "કર્યું"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવેએ"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "આ રીતે"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "દેશને"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "આ"
+    },
+    {
+      "surface": "ולבית",
+      "gloss": "અને ઘરને"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "આ"
+    }
+  ],
+  "timestamp": "2026-08-21T18:18:19.586125639Z",
+  "model": "glm-5.3"
+}

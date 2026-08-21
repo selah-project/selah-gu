@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 6:14",
+  "book": "proverbs",
+  "lang": "gu",
+  "chapter": 6,
+  "translation": "તેના હૃદયમાં વક્રતા ⟨છે⟩, તે સર્વ સમયે દુષ્ટતા ઘડે છે, કજિયા ઉગાડે છે.",
+  "tokens": [
+    {
+      "surface": "תהפכות",
+      "gloss": "વક્રતા"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "હૃદયમાં"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "ઘડે છે"
+    },
+    {
+      "surface": "רע",
+      "gloss": "દુષ્ટતા"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "સર્વ"
+    },
+    {
+      "surface": "עת",
+      "gloss": "સમયે"
+    },
+    {
+      "surface": "מדנים",
+      "gloss": "કજિયા"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "ઉગાડે છે"
+    }
+  ],
+  "timestamp": "2026-08-21T16:53:52.525660882Z",
+  "model": "glm-5.3"
+}

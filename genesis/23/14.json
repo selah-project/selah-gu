@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 23:14",
+  "book": "genesis",
+  "lang": "gu",
+  "chapter": 23,
+  "translation": "અને એફ્રોને ⟨את⟩ અવ્રાહામને ઉત્તર આપ્યું, તેને કહેતા:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "અને ઉત્તર આપ્યું"
+    },
+    {
+      "surface": "עפרון",
+      "gloss": "એફ્રોને"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "અવ્રાહામને"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "અવ્રાહામને"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "કહેતા"
+    },
+    {
+      "surface": "לו",
+      "gloss": "તેને"
+    }
+  ],
+  "timestamp": "2026-08-21T10:47:05.577917245Z",
+  "model": "glm-5.3"
+}

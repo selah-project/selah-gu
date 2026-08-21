@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 4:10",
+  "book": "1-kings",
+  "lang": "gu",
+  "chapter": 4,
+  "translation": "બેન-ચેસેદ — અરુબ્બોતમાં; તેની હતી સોકો અને ચેફેરની આખી ભૂમિ.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "બેન"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "ચેસેદ"
+    },
+    {
+      "surface": "בארבות",
+      "gloss": "અરુબ્બોતમાં"
+    },
+    {
+      "surface": "לו",
+      "gloss": "તેની"
+    },
+    {
+      "surface": "שכה",
+      "gloss": "સોકો"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "અને આખી"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ભૂમિ"
+    },
+    {
+      "surface": "חפר",
+      "gloss": "ચેફેર"
+    }
+  ],
+  "timestamp": "2026-08-21T13:36:13.231883230Z",
+  "model": "glm-5.3"
+}

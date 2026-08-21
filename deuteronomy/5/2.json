@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 5:2",
+  "book": "deuteronomy",
+  "lang": "gu",
+  "chapter": 5,
+  "translation": "યાહવે આપણા એલોહીમે હોરેબ પર્વત પર આપણી સાથે કરાર કર્યો.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "આપણા એલોહીમ"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "કર્યો (કાપીને કર્યો)"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "આપણી સાથે"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "કરાર"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "હોરેબ પર્વત પર"
+    }
+  ],
+  "timestamp": "2026-08-21T12:14:48.463148087Z",
+  "model": "glm-5.3"
+}
