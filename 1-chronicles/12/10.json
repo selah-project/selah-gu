@@ -5,11 +5,11 @@
   "book": "1-chronicles",
   "lang": "gu",
   "chapter": 12,
-  "translation": "એઝેર ⟨the⟩ પ્રથમ, ઓબદ્યાહ ⟨the⟩ બીજો, એલિઆબ ⟨the⟩ ત્રીજો.",
+  "translation": "એજેર ⟨the⟩ પ્રથમ, ઓબાદ્યાહ ⟨the⟩ બીજો, એલિઆવ ⟨the⟩ ત્રીજો.",
   "tokens": [
     {
       "surface": "עזר",
-      "gloss": "એઝેર"
+      "gloss": "એજેર"
     },
     {
       "surface": "הראש",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "עבדיה",
-      "gloss": "ઓબદ્યાહ"
+      "gloss": "ઓબાદ્યાહ"
     },
     {
       "surface": "השני",
@@ -25,13 +25,13 @@
     },
     {
       "surface": "אליאב",
-      "gloss": "એલિઆબ"
+      "gloss": "એલિઆવ"
     },
     {
       "surface": "השלשי",
       "gloss": "ત્રીજો"
     }
   ],
-  "timestamp": "2026-08-21T18:05:05.945678811Z",
+  "timestamp": "2026-08-24T14:19:30.550257781Z",
   "model": "glm-5.3"
 }

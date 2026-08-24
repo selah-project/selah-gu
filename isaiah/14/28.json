@@ -5,15 +5,15 @@
   "book": "isaiah",
   "lang": "gu",
   "chapter": 14,
-  "translation": "રાજા આખાઝના મરણના વર્ષમાં આ ભાર ⟨was⟩ થયો.",
+  "translation": "જે વર્ષે રાજા અહાઝનું મૃત્યુ થયું, તે વર્ષે આ ભાર ⟨હતો⟩.",
   "tokens": [
     {
       "surface": "בשנת",
-      "gloss": "વર્ષમાં"
+      "gloss": "જે વર્ષે"
     },
     {
       "surface": "מות",
-      "gloss": "મરણના"
+      "gloss": "મૃત્યુ"
     },
     {
       "surface": "המלך",
@@ -21,21 +21,21 @@
     },
     {
       "surface": "אחז",
-      "gloss": "આખાઝ"
+      "gloss": "અહાઝ"
     },
     {
       "surface": "היה",
-      "gloss": "થયો"
+      "gloss": "થયું હતું"
     },
     {
       "surface": "המשא",
-      "gloss": "ભાર"
+      "gloss": "આ ભાર"
     },
     {
-      "surface": "ખזה",
+      "surface": "הזה",
       "gloss": "આ"
     }
   ],
-  "timestamp": "2026-08-21T14:17:00.537056845Z",
+  "timestamp": "2026-08-24T14:01:43.947351284Z",
   "model": "glm-5.3"
 }

@@ -5,41 +5,41 @@
   "book": "proverbs",
   "lang": "gu",
   "chapter": 10,
-  "translation": "The righteous shall never be moved, to eternity; and the wicked shall not inhabit the land.",
+  "translation": "ન્યાયી સદા કાળ માટે કદી ડગમજ નહીં, પણ દુષ્ટો પૃથ્વી પર વસશે નહીં.",
   "tokens": [
     {
       "surface": "צדיק",
-      "gloss": "the righteous"
+      "gloss": "ન્યાયી"
     },
     {
       "surface": "לעולם",
-      "gloss": "to eternity"
+      "gloss": "સદા કાળ માટે"
     },
     {
       "surface": "בל",
-      "gloss": "never"
+      "gloss": "કદી…નહીં"
     },
     {
       "surface": "ימוט",
-      "gloss": "shall be moved"
+      "gloss": "ડગમજ"
     },
     {
       "surface": "ורשעים",
-      "gloss": "and the wicked"
+      "gloss": "પણ દુષ્ટો"
     },
     {
       "surface": "לא",
-      "gloss": "not"
+      "gloss": "નહીં"
     },
     {
       "surface": "ישכנו",
-      "gloss": "shall inhabit"
+      "gloss": "વસશે"
     },
     {
       "surface": "ארץ",
-      "gloss": "the land"
+      "gloss": "પૃથ્વી પર"
     }
   ],
-  "timestamp": "2026-08-21T16:54:42.195471410Z",
+  "timestamp": "2026-08-24T14:13:24.056555063Z",
   "model": "glm-5.3"
 }

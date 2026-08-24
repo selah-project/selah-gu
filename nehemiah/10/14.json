@@ -5,21 +5,21 @@
   "book": "nehemiah",
   "lang": "gu",
   "chapter": 10,
-  "translation": "હોદિયાહ, બાની, બેનિનુ;",
+  "translation": "હોદિયા, બાની, બેનિનુ.",
   "tokens": [
     {
       "surface": "הודיה",
-      "gloss": "હોદિયાહ"
+      "gloss": "હોદિયા"
     },
     {
       "surface": "בני",
-      "gloss": "בાની"
+      "gloss": "બાની"
     },
     {
       "surface": "בנינו",
       "gloss": "બેનિનુ"
     }
   ],
-  "timestamp": "2026-08-21T17:56:52.886679359Z",
+  "timestamp": "2026-08-24T14:17:17.232033815Z",
   "model": "glm-5.3"
 }

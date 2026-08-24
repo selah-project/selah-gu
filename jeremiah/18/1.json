@@ -5,8 +5,42 @@
   "book": "jeremiah",
   "lang": "gu",
   "chapter": 18,
-  "translation": "הדבר …",
-  "tokens": [],
-  "timestamp": "2026-08-21T18:49:09.783527592Z",
+  "translation": "הַדָּבָר אֲשֶׁר הָיָה אֶל יִרְמְיָהוּ מֵאֵת ⟨את⟩ ׯાહવેનો, કહેતાં:",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "વચન"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "જે"
+    },
+    {
+      "surface": "היה",
+      "gloss": "થયું"
+    },
+    {
+      "surface": "אל",
+      "gloss": "પર"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "યિર્મેયાહુ"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ પાસેથી",
+      "marks": "યાહવે"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "યાહવે"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "કહેતાં"
+    }
+  ],
+  "timestamp": "2026-08-24T14:03:11.763375847Z",
   "model": "glm-5.3"
 }

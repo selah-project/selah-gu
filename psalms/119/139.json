@@ -5,15 +5,15 @@
   "book": "psalms",
   "lang": "gu",
   "chapter": 119,
-  "translation": "My zeal has consumed me, because my enemies have forgotten your words.",
+  "translation": "મારી કર્ણા મને ઘડી નાખે છે, કારણ કે મારા સંકોચનકારીઓ તારાં વચનો ભૂલી ગયા છે.",
   "tokens": [
     {
       "surface": "צמתתני",
-      "gloss": "મને બાળી નાખી છે"
+      "gloss": "મને ઘડી નાખે છે"
     },
     {
       "surface": "קנאתי",
-      "gloss": "મારી કર્તવ્યનિષ્ઠાએ"
+      "gloss": "મારી કર્ણા"
     },
     {
       "surface": "כי",
@@ -25,13 +25,13 @@
     },
     {
       "surface": "דבריך",
-      "gloss": "તારાં વચનોને"
+      "gloss": "તારાં વચનો"
     },
     {
       "surface": "צרי",
-      "gloss": "મારા શત્રુઓએ"
+      "gloss": "મારા સંકોચનકારીઓ"
     }
   ],
-  "timestamp": "2026-08-21T18:58:14.047979056Z",
+  "timestamp": "2026-08-24T14:12:46.730345290Z",
   "model": "glm-5.3"
 }

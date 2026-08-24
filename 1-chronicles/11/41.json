@@ -5,19 +5,19 @@
   "book": "1-chronicles",
   "lang": "gu",
   "chapter": 11,
-  "translation": "ઉરીયા ⟨ה⟩હિત્તી, ઝાબાદ અહલાયનો પુત્ર,",
+  "translation": "ઊરીયાહ હિત્તી, ઝાવાદ અહલાયનો પુત્ર,",
   "tokens": [
     {
       "surface": "אוריה",
-      "gloss": "ઉરીયા"
+      "gloss": "ઊરીયાહ"
     },
     {
       "surface": "החתי",
       "gloss": "હિત્તી"
     },
     {
-      "surface": "ખבד",
-      "gloss": "ઝાબાદ"
+      "surface": "זבד",
+      "gloss": "ઝાવાદ"
     },
     {
       "surface": "בן",
@@ -28,6 +28,6 @@
       "gloss": "અહલાય"
     }
   ],
-  "timestamp": "2026-08-21T18:04:31.174132581Z",
+  "timestamp": "2026-08-24T14:17:29.401595602Z",
   "model": "glm-5.3"
 }

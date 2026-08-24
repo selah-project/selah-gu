@@ -5,7 +5,7 @@
   "book": "1-chronicles",
   "lang": "gu",
   "chapter": 11,
-  "translation": "શમ્મોત ⟨the⟩ હરોરી; હેલેત્સ ⟨the⟩ પેલોની.",
+  "translation": "શમ્મોત હહરોરી; હેલેત્સ હપલોની.",
   "tokens": [
     {
       "surface": "שמות",
@@ -13,17 +13,17 @@
     },
     {
       "surface": "ההרורי",
-      "gloss": "હરોરી"
+      "gloss": "હહરોરી"
     },
     {
-      "surface": "ગhalts",
+      "surface": "ગלץ",
       "gloss": "હેલેત્સ"
     },
     {
       "surface": "הפלוני",
-      "gloss": "પેલોની"
+      "gloss": "હપલોની"
     }
   ],
-  "timestamp": "2026-08-21T18:04:39.052643036Z",
+  "timestamp": "2026-08-24T14:18:06.976774439Z",
   "model": "glm-5.3"
 }

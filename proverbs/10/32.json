@@ -5,37 +5,37 @@
   "book": "proverbs",
   "lang": "gu",
   "chapter": 10,
-  "translation": "The lips of the righteous know favor; but the mouth of the wicked — perversity.",
+  "translation": "ન્યાયીના હોઠ પ્રસન્ન કરે તેમ જાણે છે, પણ દુષ્ટોનું મુખ વાંકપણું બોલે છે.",
   "tokens": [
     {
       "surface": "שפתי",
-      "gloss": "the lips of"
+      "gloss": "…ના હોઠ"
     },
     {
       "surface": "צדיק",
-      "gloss": "the righteous"
+      "gloss": "ન્યાયીના"
     },
     {
       "surface": "ידעון",
-      "gloss": "know"
+      "gloss": "જાણે છે"
     },
     {
       "surface": "רצון",
-      "gloss": "favor"
+      "gloss": "પ્રસન્ન કરે તેમ"
     },
     {
       "surface": "ופי",
-      "gloss": "and the mouth of"
+      "gloss": "પણ…મુખ"
     },
     {
       "surface": "רשעים",
-      "gloss": "the wicked"
+      "gloss": "દુષ્ટોનું"
     },
     {
       "surface": "תהפכות",
-      "gloss": "perversity"
+      "gloss": "વાંકપણું"
     }
   ],
-  "timestamp": "2026-08-21T16:54:42.195710248Z",
+  "timestamp": "2026-08-24T14:13:24.056909052Z",
   "model": "glm-5.3"
 }

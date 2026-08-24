@@ -5,37 +5,37 @@
   "book": "proverbs",
   "lang": "gu",
   "chapter": 10,
-  "translation": "The way of Yahveh is a stronghold for the upright; but for the workers of iniquity it is a cause of destruction.",
+  "translation": "દોસ્તમિત્ર પ્રમાણે ચાલનારને યાહવેનો માર્ગ કિલ્લો છે, પણ અકર્મના કરનારાઓ માટે તે વિનાશ છે.",
   "tokens": [
     {
       "surface": "מעוז",
-      "gloss": "a stronghold"
+      "gloss": "કિલ્લો"
     },
     {
       "surface": "לתם",
-      "gloss": "for the upright"
+      "gloss": "દોસ્તમિત્ર પ્રમાણે ચાલનારને"
     },
     {
       "surface": "דרך",
-      "gloss": "the way"
+      "gloss": "માર્ગ"
     },
     {
       "surface": "יהוה",
-      "gloss": "of Yahveh"
+      "gloss": "યાહવેનો"
     },
     {
       "surface": "ומחתה",
-      "gloss": "and a cause of destruction"
+      "gloss": "પણ વિનાશ"
     },
     {
       "surface": "לפעלי",
-      "gloss": "for the workers of"
+      "gloss": "…ના કરનારાઓ માટે"
     },
     {
       "surface": "און",
-      "gloss": "iniquity"
+      "gloss": "અકર્મ"
     }
   ],
-  "timestamp": "2026-08-21T16:54:42.195211271Z",
+  "timestamp": "2026-08-24T14:13:24.056284957Z",
   "model": "glm-5.3"
 }

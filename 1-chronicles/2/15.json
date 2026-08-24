@@ -5,7 +5,7 @@
   "book": "1-chronicles",
   "lang": "gu",
   "chapter": 2,
-  "translation": "ઓત્સેમ ⟨is⟩ છઠ્ઠો, દાવીદ ⟨is⟩ સાતમો.",
+  "translation": "ઓત્સેમ ⟨હતો⟩ છઠ્ઠો, દાવીદ ⟨હતો⟩ સાતમો.",
   "tokens": [
     {
       "surface": "אצם",
@@ -24,6 +24,6 @@
       "gloss": "સાતમો"
     }
   ],
-  "timestamp": "2026-08-21T17:59:38.711983114Z",
+  "timestamp": "2026-08-24T14:18:14.774460765Z",
   "model": "glm-5.3"
 }

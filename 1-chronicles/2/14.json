@@ -5,11 +5,11 @@
   "book": "1-chronicles",
   "lang": "gu",
   "chapter": 2,
-  "translation": "નતનએલ ⟨is⟩ ચોથો, રદ્દાય ⟨is⟩ પાંચમો.",
+  "translation": "નતનાએલ ⟨હતો⟩ ચોથો, રદ્દાય ⟨હતો⟩ પાંચમો.",
   "tokens": [
     {
       "surface": "נתנאל",
-      "gloss": "નતનએલ"
+      "gloss": "નતનાએલ"
     },
     {
       "surface": "הרביעי",
@@ -24,6 +24,6 @@
       "gloss": "પાંચમો"
     }
   ],
-  "timestamp": "2026-08-21T17:59:38.711832038Z",
+  "timestamp": "2026-08-24T14:18:14.774296976Z",
   "model": "glm-5.3"
 }

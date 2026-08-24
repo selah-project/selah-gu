@@ -5,15 +5,15 @@
   "book": "2-samuel",
   "lang": "gu",
   "chapter": 23,
-  "translation": "ખેત્સ્રો ⟨the⟩ કર્મલી; પાઅરાય ⟨the⟩ અરબી.",
+  "translation": "ખેત્સરો ⟨the⟩ કર્મેલી, પાઅરાય ⟨the⟩ અરબી.",
   "tokens": [
     {
       "surface": "חצרו",
-      "gloss": "ખેત્સ્રો"
+      "gloss": "ખેત્સરો"
     },
     {
       "surface": "הכרמלי",
-      "gloss": "કર્મલી"
+      "gloss": "કર્મેલી"
     },
     {
       "surface": "פערי",
@@ -24,6 +24,6 @@
       "gloss": "અરબી"
     }
   ],
-  "timestamp": "2026-08-21T13:34:14.322610766Z",
+  "timestamp": "2026-08-24T13:57:59.355742397Z",
   "model": "glm-5.3"
 }

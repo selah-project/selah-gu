@@ -5,37 +5,37 @@
   "book": "proverbs",
   "lang": "gu",
   "chapter": 10,
-  "translation": "The mouth of the righteous sprouts wisdom; but the tongue of perversity shall be cut off.",
+  "translation": "ન્યાયીનું મુખ જ્ઞાનથી ફૂલે છે, પણ વાંકી જીભ કપાઈ જશે.",
   "tokens": [
     {
       "surface": "פי",
-      "gloss": "the mouth of"
+      "gloss": "…નું મુખ"
     },
     {
       "surface": "צדיק",
-      "gloss": "the righteous"
+      "gloss": "ન્યાયીનું"
     },
     {
       "surface": "ינוב",
-      "gloss": "sprouts"
+      "gloss": "ફૂલે છે"
     },
     {
       "surface": "חכמה",
-      "gloss": "wisdom"
+      "gloss": "જ્ઞાનથી"
     },
     {
       "surface": "ולשון",
-      "gloss": "and the tongue of"
+      "gloss": "પણ…જીભ"
     },
     {
       "surface": "תהפכות",
-      "gloss": "perversity"
+      "gloss": "વાંકી"
     },
     {
       "surface": "תכרת",
-      "gloss": "shall be cut off"
+      "gloss": "કપાઈ જશે"
     }
   ],
-  "timestamp": "2026-08-21T16:54:42.195597648Z",
+  "timestamp": "2026-08-24T14:13:24.056746996Z",
   "model": "glm-5.3"
 }

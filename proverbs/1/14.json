@@ -5,23 +5,23 @@
   "book": "proverbs",
   "lang": "gu",
   "chapter": 1,
-  "translation": "",
+  "translation": "તારો ગોરળ અમારી વચ્ચે પાડ, અમારા બધાનો એક જ પાકીટ ⟨હશે⟩.",
   "tokens": [
     {
       "surface": "גורלך",
-      "gloss": "તારું ગોરળું"
+      "gloss": "તારો ગોરળ"
     },
     {
       "surface": "תפיל",
-      "gloss": "પડ દે"
+      "gloss": "પાડ"
     },
     {
       "surface": "בתוכנו",
-      "gloss": "આપણી વચ્ચે"
+      "gloss": "અમારી વચ્ચે"
     },
     {
       "surface": "כיס",
-      "gloss": "થેલું"
+      "gloss": "પાકીટ"
     },
     {
       "surface": "אחד",
@@ -29,13 +29,13 @@
     },
     {
       "surface": "יהיה",
-      "gloss": "⟨હોશે⟩"
+      "gloss": "⟨હશે⟩"
     },
     {
       "surface": "לכלנו",
-      "gloss": "આપણા બધાનું"
+      "gloss": "અમારા બધાનો"
     }
   ],
-  "timestamp": "2026-08-21T16:50:51.323215306Z",
+  "timestamp": "2026-08-24T14:12:55.270925565Z",
   "model": "glm-5.3"
 }

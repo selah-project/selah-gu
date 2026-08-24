@@ -5,7 +5,7 @@
   "book": "2-samuel",
   "lang": "gu",
   "chapter": 23,
-  "translation": "ઇરા ⟨the⟩ યિત્રી, ગારેબ ⟨the⟩ યિત્રી —",
+  "translation": "ઇરા હયિત્રી, ગારેવ હયિત્રી.",
   "tokens": [
     {
       "surface": "עירא",
@@ -13,17 +13,17 @@
     },
     {
       "surface": "היתרי",
-      "gloss": "યિત્રી"
+      "gloss": "હયિત્રી"
     },
     {
       "surface": "גרב",
-      "gloss": "ગારેબ"
+      "gloss": "ગારેવ"
     },
     {
       "surface": "היתרי",
-      "gloss": "યિત્રી"
+      "gloss": "હયિત્રી"
     }
   ],
-  "timestamp": "2026-08-21T13:33:52.573392958Z",
+  "timestamp": "2026-08-24T13:57:56.691653894Z",
   "model": "glm-5.3"
 }
