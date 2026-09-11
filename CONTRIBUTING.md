@@ -60,3 +60,8 @@
 ગોઠવણી સાથે સરખાવે છે — સ્વીકારી શકે, તમારી સાથે મળીને સુધારી
 શકે, વધુ પુરાવાની રાહ જોઈ શકે, કે કારણ સાથે નકારી શકે. મૂલ્યાંકન
 લખાણનું થાય છે, વ્યક્તિનું નહીં.
+
+## Conduct
+
+Be honest, be kind, show your evidence. Distinguish certainty from
+suggestion. The maintainers weigh and decide.
